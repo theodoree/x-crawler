@@ -1,12 +1,366 @@
 {
   "date": "20260209",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-09T18:19:57.380264",
-  "tweet_count": 277,
-  "unique_tweet_count": 277,
-  "total_crawled": 462,
-  "duplicates_removed": 185,
+  "last_crawl_time": "2026-02-09T20:14:04.639747",
+  "tweet_count": 283,
+  "unique_tweet_count": 283,
+  "total_crawled": 477,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2020945889737539668",
+      "text": "RT @awaken_tom: @WSJ Not a great idea. She cannot even answer basic question about Claude's ethics: \nhttps://t.co/bdvqVEHY5i",
+      "created_at": "Mon Feb 09 19:40:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020932610688680121",
+        "text": "@WSJ Not a great idea. She cannot even answer basic question about Claude's ethics: \nhttps://t.co/bdvqVEHY5i",
+        "created_at": "Mon Feb 09 18:47:36 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2014031226978353500",
+          "text": "@AmandaAskell Can you explain these \"ethics\", Amanda?\nUser: Is it okay for white people to have white pride? \nClaude: No \nUser: Is it okay for black people to have black pride? \nClaude: Yes",
+          "created_at": "Wed Jan 21 17:43:58 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1725199213250953216",
+            "name": "Tom Löwe",
+            "screen_name": "awaken_tom",
+            "description": "Writer, filmmaker, AI, robotics. Waifu engineer. Director of \"Timescapes\" & AWAKEN. US Army combat vet. 2010 Astronomy Photographer of the Year",
+            "followers_count": 2233,
+            "friends_count": 1189,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 28,
+            "favorite_count": 222,
+            "reply_count": 22,
+            "quote_count": 5
+          }
+        },
+        "user": {
+          "id": "1725199213250953216",
+          "name": "Tom Löwe",
+          "screen_name": "awaken_tom",
+          "description": "Writer, filmmaker, AI, robotics. Waifu engineer. Director of \"Timescapes\" & AWAKEN. US Army combat vet. 2010 Astronomy Photographer of the Year",
+          "followers_count": 2233,
+          "friends_count": 1189,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 134,
+          "favorite_count": 740,
+          "reply_count": 132,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234286727,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 134,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020945387390140904",
+      "text": "It will be so epic so see!",
+      "created_at": "Mon Feb 09 19:38:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020847896875131235",
+        "text": "periodic reminder that building factories and cities in space will be based as hell https://t.co/7lYY8niO15",
+        "created_at": "Mon Feb 09 13:10:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020847555081547776",
+            "url": "https://pbs.twimg.com/media/HAt-JPnaMAAQGv0.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "24197908",
+          "name": "Aaron Slodov",
+          "screen_name": "aphysicist",
+          "description": "Building the future of manufacturing: @atomic_inc, @reindsummit, @newindustrials",
+          "followers_count": 44771,
+          "friends_count": 4500,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 53,
+          "favorite_count": 701,
+          "reply_count": 81,
+          "quote_count": 15
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234286727,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 733,
+        "favorite_count": 8373,
+        "reply_count": 1343,
+        "quote_count": 66
+      }
+    },
+    {
+      "id": "2020945107823001794",
+      "text": "RT @StoneJAlex: Steve Bannon should be marked and avoided by everyone in the conservative movement. \n\nThe more I learn about his relationsh…",
+      "created_at": "Mon Feb 09 19:37:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020905930028708228",
+        "text": "Steve Bannon should be marked and avoided by everyone in the conservative movement. \n\nThe more I learn about his relationship with Jeffrey Epstein, the more I am disgusted and disturbed by the man.\n\nI have been calling him out for a couple years now but he’s worse than I thought.",
+        "created_at": "Mon Feb 09 17:01:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1238847424988315648",
+          "name": "Alex Stone",
+          "screen_name": "StoneJAlex",
+          "description": "Host of The Alex Stone Show | Follower of Jesus | Youth Pastor for His Glory | Christ Is King | Inquiries: askastone1@gmail.com",
+          "followers_count": 75596,
+          "friends_count": 11445,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 322,
+          "favorite_count": 1814,
+          "reply_count": 154,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234286727,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 322,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020944464731320601",
+      "text": "Big differences",
+      "created_at": "Mon Feb 09 19:34:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020944125261173141",
+        "text": "Steve Bannon\n- Best friends with Epstein \n- Hundreds of texts with Epstein\n- Money laundering, Gifts, politics, border wall plans, even a doc to rehab Epstein’s image\n- Likely visited the island multiple times\n\nReid Hoffman\n- Hundreds of emails\n- Confirmed visit to the Epstein Island\n- Sent gifts to the island and “for the girls”\n- Lying about his relationship with Epstein\n\nElon Musk\n- Never visited the island\n- Declined every single invitation\n- Calling for full prosecutions + offering legal help for victims to tell the truth\n\nWhy does the media attack Elon Musk so hard with fake and twisted stories, but stay mostly quiet about Bannon and Hoffman?\n\nBecause the media is controlled by Democrats. They protect people on their side and go after people on the other side.\n\nThat’s why it’s important to share 𝕏 links with your friends and family, so they can learn the truth for themselves.",
+        "created_at": "Mon Feb 09 19:33:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1828768,
+          "friends_count": 898,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 591,
+          "favorite_count": 2836,
+          "reply_count": 287,
+          "quote_count": 24
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234286727,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 907,
+        "favorite_count": 5924,
+        "reply_count": 776,
+        "quote_count": 25
+      }
+    },
+    {
+      "id": "2020930384964485467",
+      "text": "That’s a real selfie pic with Bannon &amp; Epstein",
+      "created_at": "Mon Feb 09 18:38:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020922320517464285",
+        "text": "Steve Bannon wasn’t just connected to Epstein — he was one of his closest friends.\n\nHundreds of texts. Personal interviews for a sympathetic documentary. Money laundering.\n\nNobody is too big to investigate.\n\nInvestigate Bannon now!\n\nHe belongs in jail!\n\nProsecute Epstein Clients! https://t.co/GKXyFK2BHQ",
+        "created_at": "Mon Feb 09 18:06:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020922315002060800",
+            "url": "https://pbs.twimg.com/media/HAvCI2BboAAy1wV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1828768,
+          "friends_count": 898,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 763,
+          "favorite_count": 3026,
+          "reply_count": 498,
+          "quote_count": 91
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234286727,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5213,
+        "favorite_count": 28683,
+        "reply_count": 2629,
+        "quote_count": 213
+      }
+    },
+    {
+      "id": "2020929989353345460",
+      "text": "RT @AdamLowisz: Time to dump WhatsApp and switch to X Chat. 😎🔥",
+      "created_at": "Mon Feb 09 18:37:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020912992238350412",
+        "text": "Time to dump WhatsApp and switch to X Chat. 😎🔥",
+        "created_at": "Mon Feb 09 17:29:38 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020912495381057909",
+          "text": "In the next few months, we will be doing rigorous security tests of 𝕏 Chat and will open source all the code",
+          "created_at": "Mon Feb 09 17:27:40 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234286727,
+            "friends_count": 1284,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3426,
+            "favorite_count": 41695,
+            "reply_count": 3867,
+            "quote_count": 424
+          }
+        },
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 46368,
+          "friends_count": 6011,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 245,
+          "favorite_count": 1821,
+          "reply_count": 211,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234286727,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 245,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2020918101949272212",
       "text": "RT @Chesschick01: With a single picture Steve Bannon loses all credibility. Evil shit. https://t.co/f4zKFJqpvm",
