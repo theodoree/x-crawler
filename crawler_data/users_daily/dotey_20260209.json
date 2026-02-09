@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 177860,
+    "followers_count": 177905,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260209",
-  "last_updated": "2026-02-09T16:22:51.254899",
-  "tweet_count": 8,
+  "last_updated": "2026-02-09T18:19:57.440964",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2020655233697780045",
@@ -290,6 +290,51 @@
         "retweet_count": 6,
         "favorite_count": 63,
         "reply_count": 8,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2020903676215210199",
+      "text": "yetone 都夸的 AI agent toolkit \nOpenClaw 是基于它构建的\nhttps://t.co/fHStQFS4ak https://t.co/hufTZXDefn",
+      "created_at": "Mon Feb 09 16:52:37 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2020903654249644033",
+          "url": "https://pbs.twimg.com/media/HAuxKpTWwAEoA7Q.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2020876256515158399",
+        "text": "再次感叹一下，pi 的 agent loop 只提供四个工具: read, write, edit, bash, 真的是明智极了。其他所有的能力都依赖于 skills，真的是太聪明了，这样还能把 prompt caching 给利用到最大化",
+        "created_at": "Mon Feb 09 15:03:40 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "147786784",
+          "name": "yetone",
+          "screen_name": "yetone",
+          "description": "Work at @isoformai\n\nBuilt a Coding Agent for Vim: avante.nvim\n\nI am building Alma now: https://t.co/pfq9srNgsd\n\nI am also building Confirmo now: https://t.co/fpGnPR5t9C",
+          "followers_count": 74786,
+          "friends_count": 4476,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 197,
+          "reply_count": 18,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 95,
+        "reply_count": 3,
         "quote_count": 1
       }
     }

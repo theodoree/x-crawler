@@ -1,12 +1,931 @@
 {
   "date": "20260209",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-09T16:22:51.196366",
-  "tweet_count": 262,
-  "unique_tweet_count": 262,
-  "total_crawled": 453,
-  "duplicates_removed": 191,
+  "last_crawl_time": "2026-02-09T18:19:57.380264",
+  "tweet_count": 277,
+  "unique_tweet_count": 277,
+  "total_crawled": 462,
+  "duplicates_removed": 185,
   "tweets": [
+    {
+      "id": "2020918101949272212",
+      "text": "RT @Chesschick01: With a single picture Steve Bannon loses all credibility. Evil shit. https://t.co/f4zKFJqpvm",
+      "created_at": "Mon Feb 09 17:49:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2020914482969452544",
+          "url": "https://pbs.twimg.com/media/HAu7A9bWIAA0oiF.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2020914487281299471",
+        "text": "With a single picture Steve Bannon loses all credibility. Evil shit. https://t.co/f4zKFJqpvm",
+        "created_at": "Mon Feb 09 17:35:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020914482969452544",
+            "url": "https://pbs.twimg.com/media/HAu7A9bWIAA0oiF.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "36134346",
+          "name": "Natalie F Danelishen",
+          "screen_name": "Chesschick01",
+          "description": "Conscientious objector • Tu ne cede malis sed contra audentior ito • Administrative Assistant @freecitiesfound• Duchess of @SealandGov",
+          "followers_count": 161306,
+          "friends_count": 2830,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 364,
+          "favorite_count": 2078,
+          "reply_count": 333,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 364,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020916582952702409",
+      "text": "RT @AdamLowisz: People want a maximally truth seeking AI, not a woke AI. 🫡",
+      "created_at": "Mon Feb 09 17:43:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020912171933196511",
+        "text": "People want a maximally truth seeking AI, not a woke AI. 🫡",
+        "created_at": "Mon Feb 09 17:26:23 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020899102796796303",
+          "text": "BREAKING: Grok has surpassed 2 billion website visits.\n\nThe growth continues as Grok recorded a fourth straight month of traffic growth, as per @Similarweb https://t.co/rxvUEDYJVD",
+          "created_at": "Mon Feb 09 16:34:27 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020880466136711168",
+              "url": "https://pbs.twimg.com/media/HAucE62awAAmXHp.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1389913567671975937",
+            "name": "DogeDesigner",
+            "screen_name": "cb_doge",
+            "description": "",
+            "followers_count": 1828635,
+            "friends_count": 898,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 184,
+            "favorite_count": 1065,
+            "reply_count": 261,
+            "quote_count": 5
+          }
+        },
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 46330,
+          "friends_count": 6011,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 148,
+          "favorite_count": 1077,
+          "reply_count": 178,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 148,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020915840489541709",
+      "text": "RT @MarioNawfal: 🚨 BREAKING:\n\n🇺🇸 Steve Bannon was planning to produce a pro-Epstein Documentary, on the Day of Financier’s Arrest.\n\nEmails…",
+      "created_at": "Mon Feb 09 17:40:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020908049792135609",
+        "text": "🚨 BREAKING:\n\n🇺🇸 Steve Bannon was planning to produce a pro-Epstein Documentary, on the Day of Financier’s Arrest.\n\nEmails reveal Bannon was organizing a documentary to counter Netflix’s Epstein series, planning to film on Little St. John and include interviews with Epstein associates like Michael Wolff.",
+        "created_at": "Mon Feb 09 17:10:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020906767673110528",
+            "url": "https://pbs.twimg.com/media/HAuz_3tWsAAg5Pz.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2020841603762708534",
+          "text": "🚨🇺🇸 JEFFREY EPSTEIN WASN’T JUST SOCIALIZING WITH STEVE BANNON\n\nDOJ and House Oversight records show sustained coordination from 2017–2019. \n\nEpstein advised Bannon on funding (“need to understand flow of funds”), strategy, and messaging (“brilliant… help me develop that argument”). \n\nHe pushed EU figures, claimed governments would fall “as planned,” arranged foreign introductions, and warned Bannon to “take no heat re me.” \n\nTheir collaboration ended only when Epstein was arrested in July 2019.\n\nSource: CNN",
+          "created_at": "Mon Feb 09 12:45:58 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020841501186801664",
+              "url": "https://pbs.twimg.com/media/HAt4o3GbQAAC2v-.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2020841510162640897",
+              "url": "https://pbs.twimg.com/media/HAt4pYibsAEYRUo.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2020841518320463872",
+              "url": "https://pbs.twimg.com/media/HAt4p27aMAAjoQ_.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2020841525920649216",
+              "url": "https://pbs.twimg.com/media/HAt4qTPb0AA8anA.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+            "followers_count": 2989510,
+            "friends_count": 50351,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1235,
+            "favorite_count": 4206,
+            "reply_count": 368,
+            "quote_count": 120
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 2989510,
+          "friends_count": 50351,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 332,
+          "favorite_count": 1249,
+          "reply_count": 223,
+          "quote_count": 21
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 332,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020915384216428668",
+      "text": "We absolutely should be!",
+      "created_at": "Mon Feb 09 17:39:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020882236669612127",
+        "text": "Why isn’t the United States on this list? https://t.co/O9oBHiJ6fI",
+        "created_at": "Mon Feb 09 15:27:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020882231322152960",
+            "url": "https://pbs.twimg.com/media/HAudrqrbEAAN1Hp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 201549,
+          "friends_count": 1100,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 729,
+          "favorite_count": 3104,
+          "reply_count": 250,
+          "quote_count": 88
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2782,
+        "favorite_count": 17653,
+        "reply_count": 1240,
+        "quote_count": 80
+      }
+    },
+    {
+      "id": "2020912697210961921",
+      "text": "True",
+      "created_at": "Mon Feb 09 17:28:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020910813272228093",
+        "text": "⁠> be a witness in the south africa's police corruption investigation\n> ⁠testify that cops tortured and killed a man in 2022\n> get shot dead 3 weeks after\n> ⁠another man named in the same investigation\n> ⁠survived an assassination attempt last week\n> ⁠found dead at a petrol station \n> ⁠4 of 12 persons of interest now dead\n> killed execution style\n\nthis is what waits for us if the southafricanization of the West doesn't stop",
+        "created_at": "Mon Feb 09 17:20:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020909805448413184",
+            "url": "https://pbs.twimg.com/media/HAu2wsTbQAAMBvR.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1655936149733654530",
+          "name": "vittorio",
+          "screen_name": "IterIntellectus",
+          "description": "practice expert\n\n“unique online personality”\n\nformer TPOT thinker (exiled)\n\nprofessional shitpoaster @SpaceX\n\ndon't take me seriously",
+          "followers_count": 167998,
+          "friends_count": 2307,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 194,
+          "favorite_count": 1064,
+          "reply_count": 88,
+          "quote_count": 15
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 771,
+        "favorite_count": 3914,
+        "reply_count": 605,
+        "quote_count": 21
+      }
+    },
+    {
+      "id": "2020912555560980634",
+      "text": "RT @ianmiles: The fact that Steve Bannon was a Trump-hating degenerate and an ally who was trying to clear the “good name” of Jeffrey Epste…",
+      "created_at": "Mon Feb 09 17:27:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020902494923259999",
+        "text": "The fact that Steve Bannon was a Trump-hating degenerate and an ally who was trying to clear the “good name” of Jeffrey Epstein through the production of a documentary is only the tip of filth-encrusted iceberg.\n\nHe is a fraudster of the highest order, from the start ‘til now, and has been involved in numerous scams with convicted Chinese fraudster Miles Guo who pretended to be a billionaire while simultaneously fleecing his own followers for over a billion dollars through a web of investment scams as he masqueraded as an anti-CCP crusader. It’s all money that went to fund his extravagant lifestyle… and Bannon’s.",
+        "created_at": "Mon Feb 09 16:47:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020902487474176000",
+            "url": "https://pbs.twimg.com/media/HAuwGuuaAAAohoQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16106584",
+          "name": "Ian Miles Cheong",
+          "screen_name": "ianmiles",
+          "description": "I say the quiet part out loud. Hit the follow button if you can read this.",
+          "followers_count": 1253804,
+          "friends_count": 1360,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 261,
+          "favorite_count": 1059,
+          "reply_count": 147,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 260,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020912495381057909",
+      "text": "In the next few months, we will be doing rigorous security tests of 𝕏 Chat and will open source all the code",
+      "created_at": "Mon Feb 09 17:27:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1289,
+        "favorite_count": 14651,
+        "reply_count": 2325,
+        "quote_count": 196
+      }
+    },
+    {
+      "id": "2020912085119418738",
+      "text": "Use 𝕏 Chat!",
+      "created_at": "Mon Feb 09 17:26:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020872518949548133",
+        "text": "Make the switch to 𝕏 Chat.\n\n- End-to-end encrypted\n- Zero third-party services\n- No ads or trackers\n- Text, files, audio &amp; video calls supported\n- 𝕏 never reads or sells your conversations\n- Call anyone, no phone number needed\n https://t.co/r1jI8ZPYEc",
+        "created_at": "Mon Feb 09 14:48:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1994794028299419648",
+            "url": "https://video.twimg.com/amplify_video/1994794028299419648/vid/avc1/540x540/SlHcl-5yeNoqWg_I.mp4?tag=23",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.",
+          "followers_count": 1391483,
+          "friends_count": 836,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 50,
+          "favorite_count": 182,
+          "reply_count": 62,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 601,
+        "favorite_count": 3420,
+        "reply_count": 1171,
+        "quote_count": 67
+      }
+    },
+    {
+      "id": "2020911801773236325",
+      "text": "RT @AdamLowisz: Given how close Steve Bannon and Epstein were up to Epstein's arrest, Bannon was likely involved in nearly every illegal ac…",
+      "created_at": "Mon Feb 09 17:24:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020904210171113603",
+        "text": "Given how close Steve Bannon and Epstein were up to Epstein's arrest, Bannon was likely involved in nearly every illegal activity that Epstein engaged in. At the very least, he had detailed knowledge of numerous crimes and never reported them. It's time to investigate Bannon.",
+        "created_at": "Mon Feb 09 16:54:44 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020841603762708534",
+          "text": "🚨🇺🇸 JEFFREY EPSTEIN WASN’T JUST SOCIALIZING WITH STEVE BANNON\n\nDOJ and House Oversight records show sustained coordination from 2017–2019. \n\nEpstein advised Bannon on funding (“need to understand flow of funds”), strategy, and messaging (“brilliant… help me develop that argument”). \n\nHe pushed EU figures, claimed governments would fall “as planned,” arranged foreign introductions, and warned Bannon to “take no heat re me.” \n\nTheir collaboration ended only when Epstein was arrested in July 2019.\n\nSource: CNN",
+          "created_at": "Mon Feb 09 12:45:58 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020841501186801664",
+              "url": "https://pbs.twimg.com/media/HAt4o3GbQAAC2v-.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2020841510162640897",
+              "url": "https://pbs.twimg.com/media/HAt4pYibsAEYRUo.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2020841518320463872",
+              "url": "https://pbs.twimg.com/media/HAt4p27aMAAjoQ_.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2020841525920649216",
+              "url": "https://pbs.twimg.com/media/HAt4qTPb0AA8anA.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+            "followers_count": 2989510,
+            "friends_count": 50351,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1235,
+            "favorite_count": 4206,
+            "reply_count": 368,
+            "quote_count": 120
+          }
+        },
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 46330,
+          "friends_count": 6011,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 297,
+          "favorite_count": 2046,
+          "reply_count": 106,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 297,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020911758072815654",
+      "text": "RT @cb_doge: BREAKING: Grok has surpassed 2 billion website visits.\n\nThe growth continues as Grok recorded a fourth straight month of traff…",
+      "created_at": "Mon Feb 09 17:24:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020899102796796303",
+        "text": "BREAKING: Grok has surpassed 2 billion website visits.\n\nThe growth continues as Grok recorded a fourth straight month of traffic growth, as per @Similarweb https://t.co/rxvUEDYJVD",
+        "created_at": "Mon Feb 09 16:34:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020880466136711168",
+            "url": "https://pbs.twimg.com/media/HAucE62awAAmXHp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1828635,
+          "friends_count": 898,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 184,
+          "favorite_count": 1065,
+          "reply_count": 261,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 184,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020910997683220611",
+      "text": "Bannon is evil",
+      "created_at": "Mon Feb 09 17:21:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020882557148045496",
+        "text": "Bannon was originally arrested on Guo’s boat. Almost all of his recent ventures, especially targeting Trump fans. were funded by Guo. \n\nGuo was convicted of money laundering and fraud in 2024 and is awaiting sentencing. \n\nhttps://t.co/dnblHvieCn",
+        "created_at": "Mon Feb 09 15:28:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2002349656206909441",
+            "url": "https://pbs.twimg.com/media/G8nGZ0ZWoAEwE1Y.jpg"
+          },
+          {
+            "type": "video",
+            "id": "2002349656232136704",
+            "url": "https://video.twimg.com/amplify_video/2002349656232136704/vid/avc1/450x256/ISc6CJ80gr2jMkss.mp4?tag=21",
+            "bitrate": 256000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "116835497",
+          "name": "AG",
+          "screen_name": "AGHamilton29",
+          "description": "Views expressed here only represent myself.",
+          "followers_count": 215759,
+          "friends_count": 1381,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 257,
+          "favorite_count": 1051,
+          "reply_count": 119,
+          "quote_count": 7
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2750,
+        "favorite_count": 16781,
+        "reply_count": 1351,
+        "quote_count": 141
+      }
+    },
+    {
+      "id": "2020910821304352961",
+      "text": "RT @EvaFox: Elon Musk: The purpose of no voter ID is obviously to conduct fraud in elections  \n\n“The same people that demanded vaccine IDs,…",
+      "created_at": "Mon Feb 09 17:21:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020907737555607633",
+        "text": "Elon Musk: The purpose of no voter ID is obviously to conduct fraud in elections  \n\n“The same people that demanded vaccine IDs, if you want to travel or do anything, are the same ones who say no voter ID is required. Obviously hypocritical.  \n\nIt's so that fraud cannot be proven. So it enables large-scale fraud and no way to prove it, because how would you prove it? It's literally impossible. No ID. You're not even allowed to show your ID. It's insane.  The purpose of no voter ID is obviously to conduct fraud in elections.   \n\nThey come up with some nice-sounding thing. Their common rebuttal is like, it's racist to require ID, which is insane. I think it's actually racist and patronizing to say that people can't figure out how to get an ID.  \n\nYou need an ID for everything. Like, the list of the things you need an ID for is basically everything, except voting.”",
+        "created_at": "Mon Feb 09 17:08:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020907660107776000",
+            "url": "https://video.twimg.com/amplify_video/2020907660107776000/vid/avc1/832x464/X9_rH2Pq3B9CxoBh.mp4?tag=21",
+            "bitrate": 832000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "959471389282578432",
+          "name": "Eva Fo𝕏 🦊 Claudius Nero's Legion",
+          "screen_name": "EvaFox",
+          "description": "Blogger covering SpaceX, Tesla, environment & space exploration 🖖🏼 ◉ Occasionally post memes",
+          "followers_count": 350104,
+          "friends_count": 1263,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 413,
+          "favorite_count": 1907,
+          "reply_count": 142,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 413,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020903676215210199",
+      "text": "yetone 都夸的 AI agent toolkit \nOpenClaw 是基于它构建的\nhttps://t.co/fHStQFS4ak https://t.co/hufTZXDefn",
+      "created_at": "Mon Feb 09 16:52:37 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2020903654249644033",
+          "url": "https://pbs.twimg.com/media/HAuxKpTWwAEoA7Q.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2020876256515158399",
+        "text": "再次感叹一下，pi 的 agent loop 只提供四个工具: read, write, edit, bash, 真的是明智极了。其他所有的能力都依赖于 skills，真的是太聪明了，这样还能把 prompt caching 给利用到最大化",
+        "created_at": "Mon Feb 09 15:03:40 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "147786784",
+          "name": "yetone",
+          "screen_name": "yetone",
+          "description": "Work at @isoformai\n\nBuilt a Coding Agent for Vim: avante.nvim\n\nI am building Alma now: https://t.co/pfq9srNgsd\n\nI am also building Confirmo now: https://t.co/fpGnPR5t9C",
+          "followers_count": 74786,
+          "friends_count": 4476,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 197,
+          "reply_count": 18,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177905,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 95,
+        "reply_count": 3,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2020900495527702721",
+      "text": "Indeed, it is the bare minimum for any PM. \n\nStarmer needs to step up or step out.",
+      "created_at": "Mon Feb 09 16:39:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020624465294701014",
+        "text": "@bindelj Call me wildly idealistic, but I like to think we'll one day have a PM who gives a shit about protecting the rights and safety of girls and women.",
+        "created_at": "Sun Feb 08 22:23:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "62513246",
+          "name": "J.K. Rowling",
+          "screen_name": "jk_rowling",
+          "description": "Author, founder of Lumos and Beira's Place, surname rhymes with bowling, not growling.",
+          "followers_count": 13826352,
+          "friends_count": 1157,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4891,
+          "favorite_count": 37955,
+          "reply_count": 1165,
+          "quote_count": 157
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4085,
+        "favorite_count": 37771,
+        "reply_count": 1938,
+        "quote_count": 95
+      }
+    },
+    {
+      "id": "2020899129178644584",
+      "text": "RT @ThomasSowell: Elon Musk: “The purpose of not voter ID is obviously to conduct fraud in elections.”\n\nhttps://t.co/JhzObIvgv2",
+      "created_at": "Mon Feb 09 16:34:33 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2020525418059829248",
+          "url": "https://video.twimg.com/amplify_video/2020525418059829248/vid/avc1/640x400/Z9MDq87Qlv8diyXy.mp4?tag=21",
+          "bitrate": 832000
+        }
+      ],
+      "retweet": {
+        "id": "2020880366941397103",
+        "text": "Elon Musk: “The purpose of not voter ID is obviously to conduct fraud in elections.”\n\nhttps://t.co/JhzObIvgv2",
+        "created_at": "Mon Feb 09 15:20:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020525418059829248",
+            "url": "https://video.twimg.com/amplify_video/2020525418059829248/vid/avc1/640x400/Z9MDq87Qlv8diyXy.mp4?tag=21",
+            "bitrate": 832000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "57338175",
+          "name": "Thomas Sowell Quotes",
+          "screen_name": "ThomasSowell",
+          "description": "I'm not Thomas Sowell, but I share his quotes and key topics in news & politics. Opinions are my own.",
+          "followers_count": 1396956,
+          "friends_count": 49,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 571,
+          "favorite_count": 3489,
+          "reply_count": 236,
+          "quote_count": 28
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234282181,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 571,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2020879570489000274",
       "text": "RT @RogerJStoneJr: Other than the Founding Fathers, no one has done more for free speech rights, and the first amendment then ⁦@elonmusk⁩ h…",
