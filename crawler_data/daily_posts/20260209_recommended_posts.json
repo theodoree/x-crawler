@@ -1,12 +1,73 @@
 {
   "date": "20260209",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-09T06:26:47.730472",
-  "tweet_count": 217,
-  "unique_tweet_count": 217,
-  "total_crawled": 411,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-02-09T08:16:34.555210",
+  "tweet_count": 219,
+  "unique_tweet_count": 219,
+  "total_crawled": 417,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2020752940403687552",
+      "text": "我最早做 baoyu-skills 也是这个思路，就是整一堆 styles（风格），然后选一个，但是这个的问题在于你很难穷举所有的风格。\n\n后来我换了个思路：不去穷举风格，而是把\"风格\"拆解成多个独立维度。以我的 baoyu-cover-image 为例，我把封面图的风格拆成了 6 个维度：\n1. 构图类型\n2. 色彩方案\n3. 渲染风格\n4. 文字层级\n5. 情绪强度\n6. 字体风格\n\n每个维度各有几个可选值，互不干扰。\n\n这样做的好处是，总共只需要维护 32 个选项，但排列组合能产生 15,552 种风格变体。如果用穷举的方式，你得手工定义上万种 style，根本不现实。\n\n同时为了降低使用门槛，我做了三层设计：\n\n第一层是自动推荐，根据文章内容在每个维度上自动选值，用户什么都不用管；\n\n第二层是 Style Presets，一个关键词同时设定多个维度，比如 --style blueprint 一步到位；\n\n第三层是持久偏好文件，把你常用的默认值存下来，每次自动加载。\n\n就是用组合替代枚举，用正交分解替代穷举。这个思路不只适用于封面图，任何需要个性化定制的 AI 应用都可以借鉴。",
+      "created_at": "Mon Feb 09 06:53:39 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2020752912402591745",
+          "url": "https://pbs.twimg.com/media/HAsoEUKXsAEs-sV.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2020746383717007826",
+        "text": "改造了 @dotey 宝玉老师的整个技能\n\n给它装了个模板样式库，所有的封面、主题、漫画、插图、信息图都可以调用这个库里的主题来生成\n\n这样就不会每次都是很单调的一种样式，每次最后的时候会要求你确认主题样式\n\n当然也可以选多个主题，一次性生成，最后选你满意的\n\n而且整个一套技能串联成了一个工作流\n\n只需导入素材即可一刀流完成😅",
+        "created_at": "Mon Feb 09 06:27:36 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020745564934283264",
+            "url": "https://pbs.twimg.com/media/HAshYotaoAAzKk0.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1764818331822182400",
+          "name": "小互",
+          "screen_name": "xiaohu",
+          "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+          "followers_count": 89856,
+          "friends_count": 1575,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 50,
+          "reply_count": 12,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177726,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 63,
+        "reply_count": 8,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2020743084619755877",
       "text": "RT @liumy404: 恭喜Chip huyen @chipro 著，宝玉@dotey 翻译的《AI工程》，一上架就成为计算机新书畅销榜TOP1。本书不是写AI应用开发细节的，而是聚焦AI底层原理，写全流程中各阶段的设计考量的，对于做AI相关产品及观察AI行业都很有启发。所…",
@@ -5096,6 +5157,55 @@
         "retweet_count": 1,
         "favorite_count": 17,
         "reply_count": 4,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2020026392075989124",
+      "text": "我前后端都做，后端并不会有什么护城河\nhttps://t.co/B2TwEqFKk9",
+      "created_at": "Sat Feb 07 06:46:36 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020016564024770575",
+        "text": "@dotey 宝玉老师是前端吧。后端或者服务型是要跑很多年的，不是什么月抛年抛的，这么玩会死人的",
+        "created_at": "Sat Feb 07 06:07:33 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20571629",
+          "name": "Bhe hontyu",
+          "screen_name": "hitsmaxft",
+          "description": "Programer，jvm based serverless and llm stack",
+          "followers_count": 308,
+          "friends_count": 608,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177726,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 37,
+        "reply_count": 13,
         "quote_count": 2
       }
     },
