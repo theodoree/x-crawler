@@ -1,12 +1,383 @@
 {
   "date": "20260209",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-09T04:44:19.816358",
-  "tweet_count": 211,
-  "unique_tweet_count": 211,
-  "total_crawled": 410,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-02-09T06:26:47.730472",
+  "tweet_count": 217,
+  "unique_tweet_count": 217,
+  "total_crawled": 411,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2020743084619755877",
+      "text": "RT @liumy404: 恭喜Chip huyen @chipro 著，宝玉@dotey 翻译的《AI工程》，一上架就成为计算机新书畅销榜TOP1。本书不是写AI应用开发细节的，而是聚焦AI底层原理，写全流程中各阶段的设计考量的，对于做AI相关产品及观察AI行业都很有启发。所…",
+      "created_at": "Mon Feb 09 06:14:29 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2020730886665486566",
+        "text": "恭喜Chip huyen @chipro 著，宝玉@dotey 翻译的《AI工程》，一上架就成为计算机新书畅销榜TOP1。本书不是写AI应用开发细节的，而是聚焦AI底层原理，写全流程中各阶段的设计考量的，对于做AI相关产品及观察AI行业都很有启发。所以，不用问你适合不，相当适合，读就是了。https://t.co/P6Y56p6dIN https://t.co/JXrh1vTDYN",
+        "created_at": "Mon Feb 09 05:26:01 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020729277625647104",
+            "url": "https://pbs.twimg.com/media/HAsSklwbwAAGzLe.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4738574779",
+          "name": "英子姐（Marry Liu）",
+          "screen_name": "liumy404",
+          "description": "人民邮电出版社图灵策划编辑\n（Managing Editor, Turing Book Company/Posts and Telecom Press Co.,Ltd）",
+          "followers_count": 212,
+          "friends_count": 201,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 6,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177687,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020739275466133580",
+      "text": "RT @MikeBenzCyber: This is why the corrupt Spanish government is suddenly rushing to flood the country with 500,000 immigrants &amp; criminaliz…",
+      "created_at": "Mon Feb 09 05:59:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020728049419915655",
+        "text": "This is why the corrupt Spanish government is suddenly rushing to flood the country with 500,000 immigrants &amp; criminalize any speech that criticizes them. Their party is losing elections, rejected by their own voters, so they’re importing immigrants to keep them voted in.",
+        "created_at": "Mon Feb 09 05:14:44 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020616697569280429",
+          "text": "Spanish Prime Minister Pedro Sánchez’s Socialist party sustained its second major loss in two months in a snap regional election, underlining the government’s waning support in large parts of the country. https://t.co/Q9cnne5vdO",
+          "created_at": "Sun Feb 08 21:52:16 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "34713362",
+            "name": "Bloomberg",
+            "screen_name": "business",
+            "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+            "followers_count": 9757127,
+            "friends_count": 104,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 229,
+            "favorite_count": 804,
+            "reply_count": 32,
+            "quote_count": 19
+          }
+        },
+        "user": {
+          "id": "1599510806680535042",
+          "name": "Mike Benz",
+          "screen_name": "MikeBenzCyber",
+          "description": "Executive Director, @FFO_Freedom. Former State Dept Cyber. Author of the unpublishable monstrosity, Weapons Of Mass Deletion.",
+          "followers_count": 1154647,
+          "friends_count": 756,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 774,
+          "favorite_count": 3343,
+          "reply_count": 221,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234246250,
+        "friends_count": 1283,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 774,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020734004123627737",
+      "text": "This is a good sign",
+      "created_at": "Mon Feb 09 05:38:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020731905403228421",
+        "text": "BREAKING: @Grokipedia backlinks nearly doubled in two months from ~170K to ~330K, as per @SimilarWeb.\n\nGrowth is accelerating as more websites reference Grokipedia as a source of truth.\n\nShare Grokipedia links and cite Grokipedia on your websites and blogs. https://t.co/ZQJtZxkpWZ",
+        "created_at": "Mon Feb 09 05:30:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020731818274955264",
+            "url": "https://pbs.twimg.com/media/HAsU4eaboAASpvo.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1828350,
+          "friends_count": 898,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 315,
+          "reply_count": 142,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234246250,
+        "friends_count": 1283,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 479,
+        "favorite_count": 3693,
+        "reply_count": 1010,
+        "quote_count": 24
+      }
+    },
+    {
+      "id": "2020733200130068667",
+      "text": "Wow",
+      "created_at": "Mon Feb 09 05:35:12 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020664845675188470",
+        "text": "Steve Bannon, man of the people. https://t.co/q1tS6wQB98",
+        "created_at": "Mon Feb 09 01:03:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020664840570990592",
+            "url": "https://pbs.twimg.com/media/HArX93Ba8AAHkfR.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "91882544",
+          "name": "Dinesh D'Souza",
+          "screen_name": "DineshDSouza",
+          "description": "Author, Filmmaker, Host of the Dinesh D’Souza Podcast. Follow me on Locals: https://t.co/UDFY7UCJDc",
+          "followers_count": 5366992,
+          "friends_count": 9855,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 339,
+          "favorite_count": 1342,
+          "reply_count": 137,
+          "quote_count": 34
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234246250,
+        "friends_count": 1283,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1451,
+        "favorite_count": 9921,
+        "reply_count": 1168,
+        "quote_count": 46
+      }
+    },
+    {
+      "id": "2020731647029608484",
+      "text": "RT @BasedMikeLee: Fetterman’s right   \n\nWho agrees?",
+      "created_at": "Mon Feb 09 05:29:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020674892371313115",
+        "text": "Fetterman’s right   \n\nWho agrees?",
+        "created_at": "Mon Feb 09 01:43:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020569230081396978",
+          "text": "BREAKING: Democratic Senator John Fetterman joins the Republicans and comes out in favor of requiring an ID to vote in every election across the country.\n\n“I do not believe that it’s unreasonable to show an ID to vote.”\n\nFetterman is right once again. https://t.co/UDX0NldnN4",
+          "created_at": "Sun Feb 08 18:43:39 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020569225593491456",
+              "url": "https://pbs.twimg.com/media/HAqBAVeWEAAZw8Y.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2020569225593528320",
+              "url": "https://pbs.twimg.com/media/HAqBAVeWoAAdwax.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1498697025994432518",
+            "name": "Ian Jaeger",
+            "screen_name": "IanJaeger29",
+            "description": "☦️",
+            "followers_count": 352374,
+            "friends_count": 2853,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 7169,
+            "favorite_count": 54408,
+            "reply_count": 1871,
+            "quote_count": 559
+          }
+        },
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 649563,
+          "friends_count": 3751,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1033,
+          "favorite_count": 7585,
+          "reply_count": 330,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234246250,
+        "friends_count": 1283,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1033,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020731541454758370",
+      "text": "Grok",
+      "created_at": "Mon Feb 09 05:28:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020717067381752152",
+        "text": "Chatgpt is the worst llm\n\nSora is trash\n\nFucking awful product\n\nGrok crushes it\n\nChatgpt gives political answers to every fucking question",
+        "created_at": "Mon Feb 09 04:31:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "27000730",
+          "name": "Tim Pool",
+          "screen_name": "Timcast",
+          "description": "Host of Timcast IRL And CEO https://t.co/05eFrFNCuW\nHost of The Culture War Podcast at https://t.co/mtMhgpJnKO",
+          "followers_count": 2572793,
+          "friends_count": 996,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 99,
+          "favorite_count": 1866,
+          "reply_count": 343,
+          "quote_count": 22
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234246250,
+        "friends_count": 1283,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 336,
+        "favorite_count": 3934,
+        "reply_count": 1162,
+        "quote_count": 41
+      }
+    },
     {
       "id": "2020714361258729619",
       "text": "也不是完全放弃，不需要那么仔细，大方向没啥问题就好。\n认真审查一样有Bug，还是做好验收，只是把角色变成了leader\nhttps://t.co/kcRzdI1Cnl",

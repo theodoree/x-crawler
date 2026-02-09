@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 177665,
+    "followers_count": 177687,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260209",
-  "last_updated": "2026-02-09T04:44:19.845853",
-  "tweet_count": 6,
+  "last_updated": "2026-02-09T06:26:47.759811",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2020655233697780045",
@@ -193,6 +193,51 @@
       "stats": {
         "retweet_count": 0,
         "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020743084619755877",
+      "text": "RT @liumy404: 恭喜Chip huyen @chipro 著，宝玉@dotey 翻译的《AI工程》，一上架就成为计算机新书畅销榜TOP1。本书不是写AI应用开发细节的，而是聚焦AI底层原理，写全流程中各阶段的设计考量的，对于做AI相关产品及观察AI行业都很有启发。所…",
+      "created_at": "Mon Feb 09 06:14:29 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2020730886665486566",
+        "text": "恭喜Chip huyen @chipro 著，宝玉@dotey 翻译的《AI工程》，一上架就成为计算机新书畅销榜TOP1。本书不是写AI应用开发细节的，而是聚焦AI底层原理，写全流程中各阶段的设计考量的，对于做AI相关产品及观察AI行业都很有启发。所以，不用问你适合不，相当适合，读就是了。https://t.co/P6Y56p6dIN https://t.co/JXrh1vTDYN",
+        "created_at": "Mon Feb 09 05:26:01 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020729277625647104",
+            "url": "https://pbs.twimg.com/media/HAsSklwbwAAGzLe.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4738574779",
+          "name": "英子姐（Marry Liu）",
+          "screen_name": "liumy404",
+          "description": "人民邮电出版社图灵策划编辑\n（Managing Editor, Turing Book Company/Posts and Telecom Press Co.,Ltd）",
+          "followers_count": 212,
+          "friends_count": 201,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 6,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
       }
