@@ -1,12 +1,61 @@
 {
   "date": "20260209",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-09T03:04:19.618419",
-  "tweet_count": 210,
-  "unique_tweet_count": 210,
-  "total_crawled": 400,
-  "duplicates_removed": 190,
+  "last_crawl_time": "2026-02-09T04:44:19.816358",
+  "tweet_count": 211,
+  "unique_tweet_count": 211,
+  "total_crawled": 410,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2020714361258729619",
+      "text": "也不是完全放弃，不需要那么仔细，大方向没啥问题就好。\n认真审查一样有Bug，还是做好验收，只是把角色变成了leader\nhttps://t.co/kcRzdI1Cnl",
+      "created_at": "Mon Feb 09 04:20:21 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020712548010742103",
+        "text": "@dotey 针对这一点，我们公司内部也争论过。\n\n我作为一个非程序员转码，我是自然而然的支持这点；但是其他一些老程序员还是比较难放弃审查代码（总担心放弃后，程序bug会陀螺上天）。",
+        "created_at": "Mon Feb 09 04:13:09 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1941171614072344576",
+          "name": "兔妹_兔子",
+          "screen_name": "tuzi_ai",
+          "description": "让先进的人工智能技术触手可及。\n（https://t.co/mn87iKO2pr | https://t.co/AEzDkSfZ77 | https://t.co/rsJs8IOG27）",
+          "followers_count": 5809,
+          "friends_count": 232,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177665,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2020691830380155311",
       "text": "https://t.co/vFcSxGYg26",
