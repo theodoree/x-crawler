@@ -1,12 +1,433 @@
 {
   "date": "20260209",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-09T00:23:04.702949",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-02-09T03:04:19.618419",
+  "tweet_count": 210,
+  "unique_tweet_count": 210,
+  "total_crawled": 400,
+  "duplicates_removed": 190,
   "tweets": [
+    {
+      "id": "2020691830380155311",
+      "text": "https://t.co/vFcSxGYg26",
+      "created_at": "Mon Feb 09 02:50:49 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177629,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 14,
+        "reply_count": 7,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2020673757963018404",
+      "text": "This is how the scam works",
+      "created_at": "Mon Feb 09 01:39:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020530814031663318",
+        "text": "“They never removed dead people from Social Security because those identities kept other benefit payments flowing, and the second you mark them dead, ALL the money shuts off.”\n\nElon Musk says it’s a rigged system — a loophole draining hundreds of billions from taxpayers. https://t.co/sa6pc6nmGM",
+        "created_at": "Sun Feb 08 16:11:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020469036530937857",
+            "url": "https://video.twimg.com/amplify_video/2020469036530937857/vid/avc1/1078x938/mV0CV_JEcMizTUZf.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1743830040616607744",
+          "name": "MatrixMysteries",
+          "screen_name": "MatrixMysteries",
+          "description": "Stories shape reality — but who shapes the stories?\n\nQuestioning the Narrative | Unmasking MSM Bias | Exposing Deception | ✝️",
+          "followers_count": 265645,
+          "friends_count": 183,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1500,
+          "favorite_count": 4929,
+          "reply_count": 231,
+          "quote_count": 40
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234235214,
+        "friends_count": 1283,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6501,
+        "favorite_count": 28205,
+        "reply_count": 1999,
+        "quote_count": 164
+      }
+    },
+    {
+      "id": "2020671005534880223",
+      "text": "RT @unusual_whales: BREAKING: Morgan McSweeney has resigned as chief of staff to Keir Starmer, due to Epstein relation, per FT",
+      "created_at": "Mon Feb 09 01:28:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020563778824274333",
+        "text": "BREAKING: Morgan McSweeney has resigned as chief of staff to Keir Starmer, due to Epstein relation, per FT",
+        "created_at": "Sun Feb 08 18:21:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1200616796295847936",
+          "name": "unusual_whales",
+          "screen_name": "unusual_whales",
+          "description": "Stocks/Options/Crypto/Market News/Tools. Not advice\n\n@Polymarket partner\n\nOpen a tastytrade account: https://t.co/wGf2ZdlXpw\nDiscord: https://t.co/0xJ9e0ZYYG\nMore: https://t.co/nsxZlPV0pC",
+          "followers_count": 3204321,
+          "friends_count": 2375,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 782,
+          "favorite_count": 9247,
+          "reply_count": 287,
+          "quote_count": 28
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234235214,
+        "friends_count": 1283,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 782,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020670769492074856",
+      "text": "RT @travelingflying: Thomas Sowell: “Slavery was not confined by race. It was not defined or created by race. It existed for thousands of y…",
+      "created_at": "Mon Feb 09 01:27:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020518317212254429",
+        "text": "Thomas Sowell: “Slavery was not confined by race. It was not defined or created by race. It existed for thousands of years.\n\nA history professor once had a student come up to him and ask, ‘When did slavery begin?’ The real question is: when did freedom begin? Slavery existed as long as we have records. From archaeological findings, we know that people were enslaving other people before they could read or write. It has always existed and has existed all over the world.\n\nThe number of White people enslaved by pirates in North Africa was greater than the number of Africans brought to the United States.\n\nAnd yet, that’s not even mentioned.”",
+        "created_at": "Sun Feb 08 15:21:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020518243316957184",
+            "url": "https://video.twimg.com/amplify_video/2020518243316957184/vid/avc1/640x360/n8flRdNDIgDdl-Wm.mp4?tag=21",
+            "bitrate": 832000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4868124659",
+          "name": "Taya",
+          "screen_name": "travelingflying",
+          "description": "CEO| Entrepreneur| Pilot| Author| Investor|    World traveler| Part-time online troll",
+          "followers_count": 157578,
+          "friends_count": 25789,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2312,
+          "favorite_count": 6823,
+          "reply_count": 213,
+          "quote_count": 55
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234235214,
+        "friends_count": 1283,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2311,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020668892285157713",
+      "text": "RT @grok: Cheer your team on with two new Grok Imagine templates. \n\nUpdate to the latest Grok app version on iOS. https://t.co/nFo9lplBgo",
+      "created_at": "Mon Feb 09 01:19:40 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2020625613313224705",
+          "url": "https://video.twimg.com/amplify_video/2020625613313224705/vid/avc1/1080x1080/7x579bKOHK0pxzEG.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2020625869077946369",
+        "text": "Cheer your team on with two new Grok Imagine templates. \n\nUpdate to the latest Grok app version on iOS. https://t.co/nFo9lplBgo",
+        "created_at": "Sun Feb 08 22:28:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020625613313224705",
+            "url": "https://video.twimg.com/amplify_video/2020625613313224705/vid/avc1/1080x1080/7x579bKOHK0pxzEG.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 7863131,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 178,
+          "favorite_count": 993,
+          "reply_count": 195,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234235214,
+        "friends_count": 1283,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 178,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020665327961419971",
+      "text": "Vibe Coding 对于不会编程语言或者很久没编程的人来说会更让人兴奋\n\n0到1的感觉和60到80的感觉不一样的",
+      "created_at": "Mon Feb 09 01:05:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020354199788351932",
+        "text": "既然说暴论，我说下我的:\n\n不会编程的人，面对vibe coding比专职编程的人更兴奋；\n前端比后端更兴奋；\n水平低的比水平高的更兴奋!",
+        "created_at": "Sun Feb 08 04:29:12 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1221617765519282176",
+          "name": "魔都老猿",
+          "screen_name": "AriXZone",
+          "description": "Veteran Full-Stack Architect & CEO | Tech & Science Communicator | Sharing life's fun bits.全栈架构师＆CEO|科普|趣事分享",
+          "followers_count": 22569,
+          "friends_count": 3625,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 28,
+          "reply_count": 10,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177629,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 15,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020660482676523494",
+      "text": "要用发展眼光来看，你看建筑行业，不是说得会砌墙才能当建筑工程师呀，只要继续有房子盖土木工程就业就不愁\n\n短时间来看，软件行业需求还很大\nhttps://t.co/U2vPlSaVqI",
+      "created_at": "Mon Feb 09 00:46:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020659237421293715",
+        "text": "@dotey 可编码才是支撑整个行业就业的底座啊。现在问题不是 ai 能不能做工程，而是 ai 取代了初级岗位，越来越多的 new grad 连入行当基层码农都做不到，所谓的工程能力根本没机会在实战中培养。gpt 出来还没 4 年呢，等 4 年毕业后那就真的不好说了。",
+        "created_at": "Mon Feb 09 00:41:18 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1885532243461799936",
+          "name": "Roman Wu",
+          "screen_name": "roman_y_wu",
+          "description": "🧑‍💻",
+          "followers_count": 0,
+          "friends_count": 95,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177629,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020655870359785950",
+      "text": "RT @frxiaobei: 突然想起大学时候一个特别有时代感的瞬间。\n\n有次上课，老师讲到 8/90 年代的往事，说当年 北京大学 有个老教授跟学生讲：\n\n你们不用学编程，学好理论就行。\n代码这种活儿，交给程序录入员。\n\n他说到这，全班直接笑炸。…",
+      "created_at": "Mon Feb 09 00:27:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2020317743443312693",
+        "text": "突然想起大学时候一个特别有时代感的瞬间。\n\n有次上课，老师讲到 8/90 年代的往事，说当年 北京大学 有个老教授跟学生讲：\n\n你们不用学编程，学好理论就行。\n代码这种活儿，交给程序录入员。\n\n他说到这，全班直接笑炸。\n\n在我们一代人眼里，这话简直离谱到像段子。写代码是核心能力，怎么可能外包给“录入员”。\n但这就是时代，因为再往前拨动时钟，真的有程序录入员这个角色存在。\n\n结果这两年我们真做的事又变成了：\n想清楚要什么，把思路说清楚，然后看它把代码敲出来。\n\n好像我们当年嘲笑的程序录入员，\n绕了一大圈，变成了 AI。\n\n历史有时候真的挺黑色幽默的。",
+        "created_at": "Sun Feb 08 02:04:20 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1830880351801221120",
+          "name": "凡人小北",
+          "screen_name": "frxiaobei",
+          "description": "行道途中。非求速成，惟求通达。\n2023 年全面拥抱 AIGC，打通 Know-How，长期在真实业务与组织中实践。\n从技术、组织与人的协作与决策出发，解决真实问题。\n商业与管理咨询｜AI 战略顾问",
+          "followers_count": 22651,
+          "friends_count": 490,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 44,
+          "favorite_count": 719,
+          "reply_count": 55,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177629,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020655233697780045",
+      "text": "> 不出三年,软件工程专业,大概就是新的五笔打字培训班。\n\n说这种话的人，大概率不真正理解“软件工程”这四个字里，“工程”两个字的含量。\n\n工程是把一件模糊的、不确定的事情，通过有计划、有步骤的方法，靠谱地做成。\n\n软件工程就是把这套思路用在软件开发上，需求怎么理清、架构怎么设计、质量怎么保证、团队怎么协作、项目怎么推进，这是一整套系统性的能力。\n\nAI 现在确实强，但它强在软件生命周期里的编码环节（还有很大进步空间），或者说某几个具体阶段。但编码只是软件工程的一个环节，AI 并不能主导整个生命周期，从需求分析、系统设计、技术决策、团队管理到长期维护，这些事情远不是写代码快就能解决的。至少在相当长的时间内都不行。\n\n把软件工程类比成五笔打字，这是把“编程”和“软件工程”搞混了。\n\n这就好比说有了 3D 打印，建筑学专业就是新的砌墙培训班。能快速盖出一面墙，和设计一栋安全、合理、可维护的建筑，完全是两回事。",
+      "created_at": "Mon Feb 09 00:25:24 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177629,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 131,
+        "reply_count": 50,
+        "quote_count": 6
+      }
+    },
     {
       "id": "2020643106966966729",
       "text": "RT @jeffreyweichsel: The world is a lot smaller with @Starlink, time to colonize the stars!",
@@ -5166,6 +5587,55 @@
         "retweet_count": 0,
         "favorite_count": 32,
         "reply_count": 13,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2019929508099268733",
+      "text": "确定性会越来越高\n\n对比一下一年前，这趋势很惊人",
+      "created_at": "Sat Feb 07 00:21:37 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2019919421003952251",
+        "text": "@dotey 编译器的输出是确定的，但LLM不是🤔",
+        "created_at": "Fri Feb 06 23:41:32 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1109765602648813568",
+          "name": "Anguiao",
+          "screen_name": "anguiao_rev0",
+          "description": "// TODO",
+          "followers_count": 11,
+          "friends_count": 117,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177629,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 27,
+        "reply_count": 6,
         "quote_count": 1
       }
     },
