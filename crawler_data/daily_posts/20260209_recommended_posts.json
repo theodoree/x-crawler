@@ -1,12 +1,1061 @@
 {
   "date": "20260209",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-09T12:16:59.457894",
-  "tweet_count": 234,
-  "unique_tweet_count": 234,
-  "total_crawled": 419,
-  "duplicates_removed": 185,
+  "last_crawl_time": "2026-02-09T14:25:26.548256",
+  "tweet_count": 253,
+  "unique_tweet_count": 253,
+  "total_crawled": 434,
+  "duplicates_removed": 181,
   "tweets": [
+    {
+      "id": "2020848488976629890",
+      "text": "Try using Grok live camera",
+      "created_at": "Mon Feb 09 13:13:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020826506310689049",
+        "text": "Grok Voice + Live Camera feels unreal\n\nYou don't have to type or search\nJust point, ask, and get answers in real-time\n\n\"Grok, what am I looking at?\"\n\nGrok sees it and tells you instantly\n\nIt's like having a genius friend on a video call who sees exactly what you see and explains it the moment you ask",
+        "created_at": "Mon Feb 09 11:45:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020743691288084480",
+            "url": "https://video.twimg.com/amplify_video/2020743691288084480/vid/avc1/1080x1080/9qyPxMGnV0CbEzsv.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 140398,
+          "friends_count": 1664,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 51,
+          "favorite_count": 301,
+          "reply_count": 73,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 548,
+        "favorite_count": 3264,
+        "reply_count": 1094,
+        "quote_count": 35
+      }
+    },
+    {
+      "id": "2020847788234297584",
+      "text": "https://t.co/BTEjXhOefO",
+      "created_at": "Mon Feb 09 13:10:32 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2020690728641523712",
+          "url": "https://video.twimg.com/amplify_video/2020690728641523712/vid/avc1/1072x720/Rh1N7covAYbeDoAb.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 675,
+        "favorite_count": 6800,
+        "reply_count": 1697,
+        "quote_count": 104
+      }
+    },
+    {
+      "id": "2020847564006826126",
+      "text": "Bannon is evil",
+      "created_at": "Mon Feb 09 13:09:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020841603762708534",
+        "text": "🚨🇺🇸 JEFFREY EPSTEIN WASN’T JUST SOCIALIZING WITH STEVE BANNON\n\nDOJ and House Oversight records show sustained coordination from 2017–2019. \n\nEpstein advised Bannon on funding (“need to understand flow of funds”), strategy, and messaging (“brilliant… help me develop that argument”). \n\nHe pushed EU figures, claimed governments would fall “as planned,” arranged foreign introductions, and warned Bannon to “take no heat re me.” \n\nTheir collaboration ended only when Epstein was arrested in July 2019.\n\nSource: CNN",
+        "created_at": "Mon Feb 09 12:45:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020841501186801664",
+            "url": "https://pbs.twimg.com/media/HAt4o3GbQAAC2v-.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2020841510162640897",
+            "url": "https://pbs.twimg.com/media/HAt4pYibsAEYRUo.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2020841518320463872",
+            "url": "https://pbs.twimg.com/media/HAt4p27aMAAjoQ_.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2020841525920649216",
+            "url": "https://pbs.twimg.com/media/HAt4qTPb0AA8anA.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 2987492,
+          "friends_count": 50351,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 381,
+          "favorite_count": 1290,
+          "reply_count": 186,
+          "quote_count": 23
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2384,
+        "favorite_count": 12454,
+        "reply_count": 1299,
+        "quote_count": 125
+      }
+    },
+    {
+      "id": "2020847292320772114",
+      "text": "Good progress",
+      "created_at": "Mon Feb 09 13:08:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020845222620733771",
+        "text": "Another great month for @Grok\n\n• 43% surge in app downloads\n• 29.11% surge in monthly active users\n• 15.81% growth in website visits\n• Grok 4.20 #1 on Alpha Arena leaderboard\n• Surpassed 7.8 million followers\n• Surpassed 100 million posts on X\n• Surpassed 590K edits on Grokipedia\n• Overtook Claude, Perplexity, Meta and Deepseek in website visits.\n• Became the third most visited Gen AI tool\n• Launched Grok Imagine 1.0 and achieved\n\n#1 Video Leaderboard - Design Arena\n#1 Win Rate - Video - Design Arena\n#1 Preference vs Speed - Video - Design Arena\n#1 Image to Video - Artificial Analysis\n#1 Text to Video - Artificial Analysis\n#1 Image to Video -LMArena\n\n• Recorded a fourth straight month of traffic growth on web.\n• Generated more images and videos than others.\n• Launched Grok Imagine 1.0 API\n• Rolled out 10sec and 720P videos in Imagine.\n• Achieved rank #1 in RalliesAI Leaderboard\n• Hit an all time high in usage.\n• Hit an all time high in app downloads.\n• xAI announced a $20 billion Series E funding round\n• Launched Grok powererd X Algorithm.\n• xAI became the world's first AI company to run a gigawatt scale training cluster.\n• Ranked #1 app in multiple countries worldwide.\n• Outranked Google Gemini on Android app store in multiple countries.\n• Hit an all time high trend on Google Search.\n\nCongrats to the @xAI team and @elonmusk on an amazing month.\n\nSource: @ralliesai @Similarweb @Designarena @ArtificialAnlys @arena",
+        "created_at": "Mon Feb 09 13:00:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020764946901110784",
+            "url": "https://video.twimg.com/amplify_video/2020764946901110784/vid/avc1/1920x1080/K9Ah8JS73bASP3XM.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1828370,
+          "friends_count": 898,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 329,
+          "reply_count": 156,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 457,
+        "favorite_count": 2875,
+        "reply_count": 762,
+        "quote_count": 21
+      }
+    },
+    {
+      "id": "2020844532246671675",
+      "text": "Yes",
+      "created_at": "Mon Feb 09 12:57:36 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020587111347298329",
+        "text": "Holy smokes. The Democrats are PISSED. \n\nSen. John Fetterman just DEMANDED VOTER ID: \n\n“And now me, as a Democrat, I do not believe that it’s unreasonable to show I.D. just to vote.”\n\nPass the SAVE Act now. \n https://t.co/fy6jpzgws2",
+        "created_at": "Sun Feb 08 19:54:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020564793548005379",
+            "url": "https://video.twimg.com/amplify_video/2020564793548005379/vid/avc1/1080x584/bHon0mFB8ulEHaKo.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1731773353915039744",
+          "name": "Jack",
+          "screen_name": "jackunheard",
+          "description": "Producer | American | Founder @UnheardNewsX",
+          "followers_count": 174869,
+          "friends_count": 26761,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1438,
+          "favorite_count": 9404,
+          "reply_count": 178,
+          "quote_count": 43
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3596,
+        "favorite_count": 26694,
+        "reply_count": 1071,
+        "quote_count": 77
+      }
+    },
+    {
+      "id": "2020840917331247104",
+      "text": "RT @nima_owji: More and more friends of mine are switching to GROKIPEDIA from Wikipedia! 🚀\n\nJust add it to your home screen for quick acces…",
+      "created_at": "Mon Feb 09 12:43:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020826303612784889",
+        "text": "More and more friends of mine are switching to GROKIPEDIA from Wikipedia! 🚀\n\nJust add it to your home screen for quick access!\n\nhttps://t.co/wymCaVYXzM &gt; Share &gt; Add to Home Screen https://t.co/QIYAAsg7Sz",
+        "created_at": "Mon Feb 09 11:45:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020826295618125824",
+            "url": "https://pbs.twimg.com/media/HAtqzx8WQAAm-R7.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1324273819184361472",
+          "name": "Nima Owji",
+          "screen_name": "nima_owji",
+          "description": "Independent App Researcher. Web Developer. I post about tech. For inquiries, send me a DM!",
+          "followers_count": 48538,
+          "friends_count": 1060,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 193,
+          "favorite_count": 1207,
+          "reply_count": 160,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 193,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020838935551951208",
+      "text": "Yes",
+      "created_at": "Mon Feb 09 12:35:22 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020780398372900902",
+        "text": "Elon Musk just announced a major strategic pivot for @SpaceX: the company is officially shifting its primary focus to building a \"self-growing city\" on the Moon.\n\nThe logic is centered on speed. While Mars missions are restricted by orbital alignments every 26 months, SpaceX can launch to the Moon every 10 days. This allows for much faster iteration and development.\n\n@elonmusk estimates that a lunar city could be achieved in less than 10 years. In contrast, a similar presence on Mars is now projected to take 20 or more years to establish.\n\nMars remains on the long-term roadmap with work potentially starting in 5 to 7 years, but the immediate priority is now \"securing the future of civilization\" via the faster lunar route.",
+        "created_at": "Mon Feb 09 08:42:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020780112137031680",
+            "url": "https://pbs.twimg.com/media/HAtAzjEaEAAhYcm.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "8721292",
+          "name": "Mark Kretschmann",
+          "screen_name": "mark_k",
+          "description": "AI & Software Engineering | Fitness | e/acc",
+          "followers_count": 29278,
+          "friends_count": 601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 172,
+          "favorite_count": 1144,
+          "reply_count": 277,
+          "quote_count": 59
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1132,
+        "favorite_count": 7906,
+        "reply_count": 1393,
+        "quote_count": 95
+      }
+    },
+    {
+      "id": "2020838781411262680",
+      "text": "RT @beffjezos: Starbase, Moon is gonna be such a dope place to visit.\n\nSpaceX getting into electromagnetic mass drivers using Tesla tech is…",
+      "created_at": "Mon Feb 09 12:34:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020837729731551341",
+        "text": "Starbase, Moon is gonna be such a dope place to visit.\n\nSpaceX getting into electromagnetic mass drivers using Tesla tech is going to be insane\n\nMoon will become the launchpad for layer Mars colonization https://t.co/ygOdUc6ZJ2",
+        "created_at": "Mon Feb 09 12:30:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020837714766299136",
+            "url": "https://pbs.twimg.com/media/HAt1MdlbgAAFlA7.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2020780398372900902",
+          "text": "Elon Musk just announced a major strategic pivot for @SpaceX: the company is officially shifting its primary focus to building a \"self-growing city\" on the Moon.\n\nThe logic is centered on speed. While Mars missions are restricted by orbital alignments every 26 months, SpaceX can launch to the Moon every 10 days. This allows for much faster iteration and development.\n\n@elonmusk estimates that a lunar city could be achieved in less than 10 years. In contrast, a similar presence on Mars is now projected to take 20 or more years to establish.\n\nMars remains on the long-term roadmap with work potentially starting in 5 to 7 years, but the immediate priority is now \"securing the future of civilization\" via the faster lunar route.",
+          "created_at": "Mon Feb 09 08:42:45 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020780112137031680",
+              "url": "https://pbs.twimg.com/media/HAtAzjEaEAAhYcm.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "8721292",
+            "name": "Mark Kretschmann",
+            "screen_name": "mark_k",
+            "description": "AI & Software Engineering | Fitness | e/acc",
+            "followers_count": 29278,
+            "friends_count": 601,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 172,
+            "favorite_count": 1144,
+            "reply_count": 277,
+            "quote_count": 59
+          }
+        },
+        "user": {
+          "id": "1556550048862928898",
+          "name": "Beff (e/acc)",
+          "screen_name": "beffjezos",
+          "description": "founder @ e/acc //  thermo king @extropic // Kardashev scaling is all you need",
+          "followers_count": 199786,
+          "friends_count": 2993,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 244,
+          "favorite_count": 1760,
+          "reply_count": 254,
+          "quote_count": 33
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 244,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020838047495995886",
+      "text": "Essential to stop fraud in elections",
+      "created_at": "Mon Feb 09 12:31:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020570499743445054",
+        "text": "Elon is right, banning mail-in voting is critical to avoiding fraud in our elections.\n\nDuring the 2020 election, Pennsylvania sent out 1,823,148 mail-in ballots but received back around 2.5 MILLION mail-in ballots.\n\nThis accounts for Biden's fraudulent and impossible 682,000+ vote spike, which were counted with NO observers and were all for Biden, which magically just happened to be enough to steal Trump's almost 700,000 vote lead in PA before swing states shut down counting locations at the same time, to steal the 2020 election.\n\nPA's own Secretary of State website then wiped the 2.5 MILLION mail-in ballot number after the total number was questioned. Trump won the 2020 election in a landslide.",
+        "created_at": "Sun Feb 08 18:48:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020569619912896512",
+            "url": "https://video.twimg.com/amplify_video/2020569619912896512/vid/avc1/1080x1080/yfedswGS595pMaDx.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1813198414722588672",
+          "name": "The SCIF",
+          "screen_name": "TheSCIF",
+          "description": "Digital Operator • Creator • Intelligence Researcher • 2A🇺🇲¹⁷⁷⁶ • Truth is the most effective weapon in a war of information filled with lies.",
+          "followers_count": 260432,
+          "friends_count": 126,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1316,
+          "favorite_count": 3541,
+          "reply_count": 178,
+          "quote_count": 45
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2544,
+        "favorite_count": 11637,
+        "reply_count": 956,
+        "quote_count": 59
+      }
+    },
+    {
+      "id": "2020837704192405585",
+      "text": "RT @AdamLowisz: Elon, thank you for taking down Epstein. You are a hero! 🫡 https://t.co/Vm0tJcsX4G",
+      "created_at": "Mon Feb 09 12:30:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2020737665537294336",
+          "url": "https://pbs.twimg.com/media/HAsaM1KaQAA5MAD.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2020737670104682585",
+        "text": "Elon, thank you for taking down Epstein. You are a hero! 🫡 https://t.co/Vm0tJcsX4G",
+        "created_at": "Mon Feb 09 05:52:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020737665537294336",
+            "url": "https://pbs.twimg.com/media/HAsaM1KaQAA5MAD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2020736512212484364",
+          "text": "@GlobeEyeNews Uhh … that’s super weird",
+          "created_at": "Mon Feb 09 05:48:22 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234261176,
+            "friends_count": 1284,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1202,
+            "favorite_count": 34004,
+            "reply_count": 1585,
+            "quote_count": 81
+          }
+        },
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 46300,
+          "friends_count": 6010,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 292,
+          "favorite_count": 2345,
+          "reply_count": 169,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 292,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020837212015956213",
+      "text": "RT @vpopulimedia: 🇬🇧 Rotherham: An 11-year-old girl who previously reported she was sexually abused was found in a derelict house with anot…",
+      "created_at": "Mon Feb 09 12:28:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "1826229433658749159",
+        "text": "🇬🇧 Rotherham: An 11-year-old girl who previously reported she was sexually abused was found in a derelict house with another girl and a group of adult males. She was arrested for drunken disorderly, and none of the males were arrested.\n\nPolice officers dismissed a case where a 12-year-old girl was having sex with five Asian males as quote \"100% consensual in every incident\".\n\nFathers have tracked down their daughters and tried to remove them from the houses where they were being abused only to find themselves arrested when police arrived to the scene.\n\nHome Affairs Committee 09 Sep 2014.\n\nCrompton retired with a £2m pension in 2016.",
+        "created_at": "Wed Aug 21 12:06:41 +0000 2024",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1826225246367604736",
+            "url": "https://video.twimg.com/ext_tw_video/1826225246367604736/pu/vid/avc1/1080x1080/xfo_4TwXyWYtEXBp.mp4?tag=14",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1620188265088442369",
+          "name": "VoxPopuli",
+          "screen_name": "vpopulimedia",
+          "description": "“There is a story in every human.”",
+          "followers_count": 36226,
+          "friends_count": 787,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5727,
+          "favorite_count": 13234,
+          "reply_count": 1006,
+          "quote_count": 717
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5727,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020837072370888717",
+      "text": "RT @BasilTheGreat: The BBC are still refusing to say a single word about the Rape Gang Inquiry\n\nHow depraved at the people at our national…",
+      "created_at": "Mon Feb 09 12:27:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020747634177118526",
+        "text": "The BBC are still refusing to say a single word about the Rape Gang Inquiry\n\nHow depraved at the people at our national broadcaster that they will not report on the testimonies of girls and women who have suffered relentlessly from the worst crimes imaginable\n\nDefund the BBC 🚫 https://t.co/0ytPmErUTt",
+        "created_at": "Mon Feb 09 06:32:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020747289946365952",
+            "url": "https://pbs.twimg.com/media/HAsi9C4WIAAFT9c.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1722014154322575360",
+          "name": "Basil the Great",
+          "screen_name": "BasilTheGreat",
+          "description": "\"We shall not flag or fail, we shall go on till the end\"\n\nDM for submissions/credit/deletion",
+          "followers_count": 275415,
+          "friends_count": 5014,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1843,
+          "favorite_count": 6839,
+          "reply_count": 323,
+          "quote_count": 62
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1843,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020836688466215254",
+      "text": "Mars will start in 5 or 6 years, so will be done in parallel with the Moon, but the Moon will be the initial focus",
+      "created_at": "Mon Feb 09 12:26:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020792065211138315",
+        "text": "The Moon, then Mars, then the belt, then Jupiter and Saturn, then the stars. https://t.co/8OZqag9WBX",
+        "created_at": "Mon Feb 09 09:29:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020792058689052672",
+            "url": "https://pbs.twimg.com/media/HAtLq7cXYAA1wjH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4375247427",
+          "name": "ApoStructura",
+          "screen_name": "ApoStructura",
+          "description": "Building @FlightAtlas | Space, tech, economics, & unrelated thoughts | Financial analyst | Optimist",
+          "followers_count": 6924,
+          "friends_count": 893,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 96,
+          "favorite_count": 715,
+          "reply_count": 134,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2917,
+        "favorite_count": 30128,
+        "reply_count": 3647,
+        "quote_count": 385
+      }
+    },
+    {
+      "id": "2020835366090293685",
+      "text": "RT @libsoftiktok: OMG. Jacob Frey and Tim Walz are responsible for releasing nearly 500 criminal illegal aliens back onto the streets inste…",
+      "created_at": "Mon Feb 09 12:21:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020575434291786085",
+        "text": "OMG. Jacob Frey and Tim Walz are responsible for releasing nearly 500 criminal illegal aliens back onto the streets instead of allowing ICE to pick them up.\n\nDemocrats are actively protecting violent foreign criminals.\n\nhttps://t.co/yGlN2ktZIy",
+        "created_at": "Sun Feb 08 19:08:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020354074109947904",
+            "url": "https://video.twimg.com/amplify_video/2020354074109947904/vid/avc1/1280x720/LpXfcJoho3tcPnun.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1326229737551912960",
+          "name": "Libs of TikTok",
+          "screen_name": "libsoftiktok",
+          "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+          "followers_count": 4634698,
+          "friends_count": 1053,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3054,
+          "favorite_count": 14589,
+          "reply_count": 374,
+          "quote_count": 59
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3054,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020835117590270257",
+      "text": "RT @tetsuoai: xAI added their new image generation model (grok-imagine-image-pro) to the API, so I had Grok build a simple webpage that let…",
+      "created_at": "Mon Feb 09 12:20:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020812699501019567",
+        "text": "xAI added their new image generation model (grok-imagine-image-pro) to the API, so I had Grok build a simple webpage that lets you generate images from a text prompt.\n\nHere's what it looks like in action 👇\n\nAll you need is an xAI API key:\n→ Go to https://t.co/X2gpAkgbY0\n→ Sign in / create an account\n→ Add credits under billing\n→ Generate an API key\n\nOpen the link below, hit the preview button on the code to render the webpage inside Grok. Paste your key in, type a prompt, hit generate. That's it.\n\nhttps://t.co/VBfHnSL9HS",
+        "created_at": "Mon Feb 09 10:51:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020811747943448576",
+            "url": "https://pbs.twimg.com/media/HAtdk_obAAAcRiR.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C, asm, bare metal · AI art via grok imagine\n\ntetsuocorp",
+          "followers_count": 223613,
+          "friends_count": 819,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 164,
+          "favorite_count": 822,
+          "reply_count": 105,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 164,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020834709266456904",
+      "text": "CBS (prior to current ownership) engaged in deliberate election interference",
+      "created_at": "Mon Feb 09 12:18:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020558170683535475",
+        "text": "🚨BREAKING: In a bombshell revelation, CBS investigative journalist Catherine Herridge has gone public with explosive allegations: \"CBS executives deliberately buried the 'Hunter Biden laptop story' and ordered her to wait until AFTER the 2022 midterms to help the Democratic Party.\"\n\nWhat's your response to this...??👀\n\nMAKE THIS GO VIRAL ON 𝕏. LET’S GO 👏",
+        "created_at": "Sun Feb 08 17:59:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020558075221123072",
+            "url": "https://video.twimg.com/amplify_video/2020558075221123072/vid/avc1/1770x980/StkoNnGmf3ZFuhRI.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1967774327807332354",
+          "name": "Stand Up For Trump",
+          "screen_name": "StandUpForTrmp",
+          "description": "🚨BREAKING Daily updates on the Republican Party |\n🗳 Your source for Republican insights, debates & policy news.\nNo Affiliations with @realDonaldTrump",
+          "followers_count": 135202,
+          "friends_count": 12,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6477,
+          "favorite_count": 16810,
+          "reply_count": 719,
+          "quote_count": 282
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7450,
+        "favorite_count": 31952,
+        "reply_count": 1318,
+        "quote_count": 134
+      }
+    },
+    {
+      "id": "2020834460338663721",
+      "text": "Yes",
+      "created_at": "Mon Feb 09 12:17:35 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020607928781480233",
+        "text": "🚨BREAKING: JK Rowling demands Keir Starmer is REMOVED as PM over his refusal to protect British women and girls:\n\n\"From his newfound concern for victims of Mandelson's bestie to whether women can have penises and his U-turn on the Rotherham grooming gangs enquiry. Starmer out!\" https://t.co/X49oEcXtMy",
+        "created_at": "Sun Feb 08 21:17:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020607921181380608",
+            "url": "https://pbs.twimg.com/media/HAqkMtxbUAATKo5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1849500209488752640",
+          "name": "Inevitable West",
+          "screen_name": "Inevitablewest",
+          "description": "Defender of Western values and culture. Jesus Christ is king. Anglo. Covering the West. ✝️",
+          "followers_count": 355214,
+          "friends_count": 1312,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4486,
+          "favorite_count": 19843,
+          "reply_count": 366,
+          "quote_count": 118
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 9949,
+        "favorite_count": 70786,
+        "reply_count": 1439,
+        "quote_count": 149
+      }
+    },
+    {
+      "id": "2020834266716987767",
+      "text": "RT @BasilTheGreat: 🚨BREAKING: J.K ROWLING CALLS FOR KEIR STARMER TO RESIGN\n\nLiterally nobody likes him\nHe is the worst PM in history\nIt's t…",
+      "created_at": "Mon Feb 09 12:16:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020766341951566067",
+        "text": "🚨BREAKING: J.K ROWLING CALLS FOR KEIR STARMER TO RESIGN\n\nLiterally nobody likes him\nHe is the worst PM in history\nIt's time to go https://t.co/jR3DS6THWn",
+        "created_at": "Mon Feb 09 07:46:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020766257973202944",
+            "url": "https://pbs.twimg.com/media/HAs0NISWkAApM8K.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1722014154322575360",
+          "name": "Basil the Great",
+          "screen_name": "BasilTheGreat",
+          "description": "\"We shall not flag or fail, we shall go on till the end\"\n\nDM for submissions/credit/deletion",
+          "followers_count": 275415,
+          "friends_count": 5014,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1109,
+          "favorite_count": 7342,
+          "reply_count": 150,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234261176,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1109,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2020834051809259782",
       "text": "RT @AdamLowisz: We need to seriously investigate Steve Bannon and his connection to Epstein. This guy was defending him way too hard. There…",
@@ -8827,6 +9876,37 @@
       "stats": {
         "retweet_count": 1,
         "favorite_count": 6,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2019697893456973997",
+      "text": "现在就可以试：\n\n1. 打开 Claude Code\n2. 输入 `/insights`\n3. 等待分析完成\n4. 打开 `~/.claude/usage-data/report.html`\n\n小建议：\n- 每月跑一次看趋势变化\n- 多给反馈（\"thanks\" 或 \"that's not right\"）帮助追踪满意度\n- 正常使用就好，不用刻意\n\n你的使用报告里藏着提升效率的密码。 https://t.co/6J0MmxoR2U",
+      "created_at": "Fri Feb 06 09:01:16 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2019697801249103872",
+          "url": "https://pbs.twimg.com/media/HAdocw0XIAAgXC3.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177827,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
         "reply_count": 1,
         "quote_count": 0
       }
