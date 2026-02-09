@@ -1,12 +1,229 @@
 {
   "date": "20260209",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-09T20:14:04.639747",
-  "tweet_count": 283,
-  "unique_tweet_count": 283,
-  "total_crawled": 477,
+  "last_crawl_time": "2026-02-09T22:13:33.962554",
+  "tweet_count": 289,
+  "unique_tweet_count": 289,
+  "total_crawled": 483,
   "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2020977475682197577",
+      "text": "OpenAI 的超级碗广告\nhttps://t.co/d1MesKGYuL",
+      "created_at": "Mon Feb 09 21:45:52 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2020608699069612032",
+          "url": "https://video.twimg.com/amplify_video/2020608699069612032/vid/avc1/1920x1080/Htq9Xr79Q64q62n8.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 177930,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2020966211421601878",
+      "text": "https://t.co/gcz32pmz28",
+      "created_at": "Mon Feb 09 21:01:07 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2020966184586444801",
+          "url": "https://pbs.twimg.com/media/HAvqCY9aAAE9QZA.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234290827,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1449,
+        "favorite_count": 24005,
+        "reply_count": 1684,
+        "quote_count": 96
+      }
+    },
+    {
+      "id": "2020965730003640784",
+      "text": "Life cannot just be about one sad thing after another. \n\nThere must also be things that make us super excited and inspired about the future. This is one of things. Bigtime.",
+      "created_at": "Mon Feb 09 20:59:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020964809999777996",
+        "text": "SpaceX will build a system that allows anyone to travel to Moon.\n\nThis will so insanely cool 🚀💫🤩",
+        "created_at": "Mon Feb 09 20:55:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 234290827,
+          "friends_count": 1284,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2246,
+          "favorite_count": 23965,
+          "reply_count": 5369,
+          "quote_count": 703
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234290827,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3277,
+        "favorite_count": 35703,
+        "reply_count": 4290,
+        "quote_count": 282
+      }
+    },
+    {
+      "id": "2020965197788348505",
+      "text": "And Mars too",
+      "created_at": "Mon Feb 09 20:57:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234290827,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 372,
+        "favorite_count": 5994,
+        "reply_count": 808,
+        "quote_count": 41
+      }
+    },
+    {
+      "id": "2020964809999777996",
+      "text": "SpaceX will build a system that allows anyone to travel to Moon.\n\nThis will so insanely cool 🚀💫🤩",
+      "created_at": "Mon Feb 09 20:55:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234290827,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2246,
+        "favorite_count": 23965,
+        "reply_count": 5369,
+        "quote_count": 703
+      }
+    },
+    {
+      "id": "2020962635156684920",
+      "text": "This will be so awesome 🤩",
+      "created_at": "Mon Feb 09 20:46:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020920950297067784",
+        "text": "SpaceX is now shifting their priorities into building a Moon Base - doing so in less than a decade.\n\nThis proposal from the ISU involves converting a Starship into a lunar base, Skylab-style.\n\nStarship’s ~1000m^ 3 of pressurized volume would result in a copious base. https://t.co/IigRgME1K3",
+        "created_at": "Mon Feb 09 18:01:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020920947252117504",
+            "url": "https://pbs.twimg.com/media/HAvA5OwbwAADhzp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "809575831487934465",
+          "name": "Toby Li",
+          "screen_name": "tobyliiiiiiiiii",
+          "description": "Aerospace Engineer | Reporting on Human Spaceflight | Rescue Scuba Diver & Skydiver | BS Aerospace UCD MS Astronautical Engineering USC | tobyli1104@gmail.com",
+          "followers_count": 22296,
+          "friends_count": 150,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 295,
+          "favorite_count": 2114,
+          "reply_count": 197,
+          "quote_count": 38
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234290827,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1613,
+        "favorite_count": 14189,
+        "reply_count": 1748,
+        "quote_count": 100
+      }
+    },
     {
       "id": "2020945889737539668",
       "text": "RT @awaken_tom: @WSJ Not a great idea. She cannot even answer basic question about Claude's ethics: \nhttps://t.co/bdvqVEHY5i",

@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 177910,
+    "followers_count": 177930,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260209",
-  "last_updated": "2026-02-09T20:14:04.699197",
-  "tweet_count": 9,
+  "last_updated": "2026-02-09T22:13:33.995442",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2020655233697780045",
@@ -336,6 +336,28 @@
         "favorite_count": 95,
         "reply_count": 3,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2020977475682197577",
+      "text": "OpenAI 的超级碗广告\nhttps://t.co/d1MesKGYuL",
+      "created_at": "Mon Feb 09 21:45:52 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2020608699069612032",
+          "url": "https://video.twimg.com/amplify_video/2020608699069612032/vid/avc1/1920x1080/Htq9Xr79Q64q62n8.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
