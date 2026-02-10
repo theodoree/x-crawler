@@ -1,0 +1,84 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 234305328,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260210",
+  "last_updated": "2026-02-10T03:04:41.622745",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2021022206810366345",
+      "text": "RT @XFreeze: SpaceX will have the first Moon base and it's much closer than most realize\n\nStarship can carry the highest tonnage to space o…",
+      "created_at": "Tue Feb 10 00:43:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020952999514997022",
+        "text": "SpaceX will have the first Moon base and it's much closer than most realize\n\nStarship can carry the highest tonnage to space of anything ever built and it's fully reusable, which changes everything\n\nTesla Optimus robots could do most of the construction work, with minimal human intervention\n\nTesla already makes solar panels at scale, perfect for powering a lunar base\n\nEven Tesla's Cybertruck could be adapted for lunar transport\n\nWhen you factor in all the pieces working together, a Moon base isn't decades away...it's happening sooner than we think\n\nOnce established, the utility of a lunar outpost will scale exponentially, creating the foundation for humanity's permanent presence beyond Earth",
+        "created_at": "Mon Feb 09 20:08:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020946036429291529",
+            "url": "https://pbs.twimg.com/media/HAvXtnOaAAkw_M4.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2020845358151266513",
+          "text": "@aaronburnett The Moon would establish a foothold beyond Earth quickly, to protect life against risk of a natural or manmade disaster on Earth. \n\nWe would continue to launch directly from Earth to Mars while possible, rather than Moon to Mars, as fuel is relatively scarce on the Moon.",
+          "created_at": "Mon Feb 09 13:00:53 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234305328,
+            "friends_count": 1284,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 568,
+            "favorite_count": 7399,
+            "reply_count": 1171,
+            "quote_count": 126
+          }
+        },
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 140765,
+          "friends_count": 1578,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 922,
+          "favorite_count": 4296,
+          "reply_count": 700,
+          "quote_count": 87
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 922,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

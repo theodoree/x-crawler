@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 178026,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260210",
+  "last_updated": "2026-02-10T03:04:41.616452",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2021030831838683279",
+      "text": "RT @verysmallwoods: 过去一段时间流行的 Agent Skills 也能一键安装到 OpenClaw，这得感谢 Vercel 的贡献，它的 skills 工具包能够帮助用户轻松管理 skills：\n- npx skills add ...\n\n它能识别并把技能包…",
+      "created_at": "Tue Feb 10 01:17:53 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2021028356842574124",
+        "text": "过去一段时间流行的 Agent Skills 也能一键安装到 OpenClaw，这得感谢 Vercel 的贡献，它的 skills 工具包能够帮助用户轻松管理 skills：\n- npx skills add ...\n\n它能识别并把技能包安装到 OpenClaw。小龙虾的能力扩展更加轻松。\nhttps://t.co/oFzsjqUZMk\n\n今天我把 @dotey 老师的封面图片生成技能交给了🦞，https://t.co/4vJg2PAXNl。\n\n端到端效果良好。",
+        "created_at": "Tue Feb 10 01:08:03 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1504101053461114886",
+          "name": "VerySmallWoods",
+          "screen_name": "verysmallwoods",
+          "description": "知识星球 - https://t.co/FPcr2ISPQ9\n作品\n- https://t.co/MSXcF2ECyf\n- https://t.co/H7oxNtGpVq\n- https://t.co/YdvTBeSu75",
+          "followers_count": 4351,
+          "friends_count": 231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 28,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
