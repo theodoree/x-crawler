@@ -1,12 +1,214 @@
 {
   "date": "20260210",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-10T03:04:41.588780",
-  "tweet_count": 203,
-  "unique_tweet_count": 203,
-  "total_crawled": 400,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-02-10T04:47:25.039020",
+  "tweet_count": 207,
+  "unique_tweet_count": 207,
+  "total_crawled": 403,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2021073895252521052",
+      "text": "Seedance 2.0 这几天是真的火，X 上到处都是它生成的视频，又一次让海外 AI 圈羡慕国内 AI 圈。\n\n影视飓风的 Tim 昨晚发了测试视频，对技术本身评价很高：分镜设计、运镜、音画匹配都是质的飞跃。\n\n那条视频我也看了，其中他提到一个问题：上传自己照片做参考图时，生成视频的声音和他本人很像，而他从未提供过任何声音样本。\n\n这倒不奇怪，影视飓风在全网有大量高清视频，肯定已经被用作训练数据。\n\n之前谷歌 Veo 3 推出时，人们发现生成的视频也很像一些知名创作者的作品；OpenAI 最早推出 Sora 时，外媒也测试到它能高度模仿经典电影片段。用公开数据训练是国内外大模型的共同做法，Tim 作为明星级公众人物，素材进入公开数据集并不意外。\n\n这种担忧挺合理的，但这趋势我们挡不住，现在已经没有人能阻挡 AI 的加速了。\n\n最早音色克隆技术出来的时候，大厂掌握了技术但不敢放开，反倒是小团队先做出来发布了，慢慢大家也就跟进接受了。\n\n这几天大火的 ClawdBot/OpenClaw 也是同样的路径，各种隐私安全问题被讨论，但因为是个人小团队项目，大家宽容度明显更高，等大厂后续下场反而更容易被接受。\n\n这种事大厂反而能让人放心一点，大厂有能力也有动力去做合规限制，小作坊下料才是真的猛。\n\n事实上即梦已经限制了真人人脸生成视频，大厂在技术狂奔时还是会守住一些底线。\n\n结果倒是很多人在那哀叹，限制了真人人脸生成视频，少了一些可以测试的例子，很多视频都成了绝版。\n\n与其焦虑不如多想想怎么在技术创新与数据合规之间找到平衡。\n\n像 Sora 2 的分身（Chapter）功能就是一个不错的尝试方向，让你既能享受技术带来的乐趣，又减少一些隐私上的担忧。比如我给孩子制作了分身，我只会给家人分享，不会让别人用。\n\n好消息是，人们对 AI 生成的音频视频正在建立起更多辨别力和免疫力，这本身也是一种自然的适应过程。我也经常跟家人朋友科普让他们小心 AI 视频。\n\n我自己有个小技巧是先看视频时长是不是 10 秒 15 秒这种整数，不过这招已经快像看 AI 图片人物有没有六根手指一样不灵了。\n\n你们都用什么技巧分辨 AI 生成的图片或者视频呢？",
+      "created_at": "Tue Feb 10 04:09:01 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2021073547247161344",
+          "url": "https://pbs.twimg.com/media/HAxLruCbEAAr-8v.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2021073651425034240",
+          "url": "https://pbs.twimg.com/media/HAxLxyIXQAAMkBg.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2021073678650236929",
+          "url": "https://pbs.twimg.com/media/HAxLzXjW4AELBhq.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178060,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 26,
+        "reply_count": 9,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021073406024970273",
+      "text": "RT @stevenmarkryan: SpaceX's Plan:\n\n1. Create off-site backups of humans ASAP to ensure the survival of consciousness &amp; life\n\n2. Use Grok t…",
+      "created_at": "Tue Feb 10 04:07:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021049735440891965",
+        "text": "SpaceX's Plan:\n\n1. Create off-site backups of humans ASAP to ensure the survival of consciousness & life\n\n2. Use Grok to better understand the universe/discover new physics (incl. how to extend consciousness & life to the stars)\n\n3. Extend consciousness & life to the stars\n\nAny questions?",
+        "created_at": "Tue Feb 10 02:33:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021049461900967937",
+            "url": "https://video.twimg.com/amplify_video/2021049461900967937/vid/avc1/1920x1080/C0yGxTW0QQ1Ui95P.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "31263848",
+          "name": "stevenmarkryan",
+          "screen_name": "stevenmarkryan",
+          "description": "► Daily videos for $TSLA investors 📈 \n► Content for fans of common sense\n► Want early access? Subscribe on X\n► aka \"Solving The Money Problem\".\n► I read my DMs",
+          "followers_count": 418619,
+          "friends_count": 137,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 175,
+          "favorite_count": 1242,
+          "reply_count": 258,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234306816,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 175,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021071461977555290",
+      "text": "😑",
+      "created_at": "Tue Feb 10 03:59:20 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020919876915954094",
+        "text": "That feeling when Discord has stricter user ID verification systems than United States elections.",
+        "created_at": "Mon Feb 09 17:57:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1297651178256257024",
+          "name": "Autism Capital 🧩",
+          "screen_name": "AutismCapital",
+          "description": "Citizen journalism with a humorous flair. Following Fintech, Crypto, AI, Longevity, Politics, Memes, and whatever the current thing is.",
+          "followers_count": 1054121,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 286,
+          "favorite_count": 2372,
+          "reply_count": 66,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234306816,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 778,
+        "favorite_count": 8202,
+        "reply_count": 704,
+        "quote_count": 38
+      }
+    },
+    {
+      "id": "2021070589801398779",
+      "text": "Try Grok voice mode. It’s great!",
+      "created_at": "Tue Feb 10 03:55:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020991501120176240",
+        "text": "Grok voice mode gives you the same visually rich experience as Grok chat. Can't type right now? Just use voice mode to ask questions. https://t.co/1oHQw0dXLV",
+        "created_at": "Mon Feb 09 22:41:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020990919529598976",
+            "url": "https://video.twimg.com/amplify_video/2020990919529598976/vid/avc1/1080x1080/cT7iyBAa7v2OkH5K.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 7875181,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 110,
+          "favorite_count": 598,
+          "reply_count": 136,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234306816,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 361,
+        "favorite_count": 2172,
+        "reply_count": 957,
+        "quote_count": 34
+      }
+    },
     {
       "id": "2021030831838683279",
       "text": "RT @verysmallwoods: 过去一段时间流行的 Agent Skills 也能一键安装到 OpenClaw，这得感谢 Vercel 的贡献，它的 skills 工具包能够帮助用户轻松管理 skills：\n- npx skills add ...\n\n它能识别并把技能包…",

@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234305328,
+    "followers_count": 234306816,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260210",
-  "last_updated": "2026-02-10T03:04:41.622745",
-  "tweet_count": 1,
+  "last_updated": "2026-02-10T04:47:25.075153",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2021022206810366345",
@@ -75,6 +75,137 @@
       "quoted": null,
       "stats": {
         "retweet_count": 922,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021070589801398779",
+      "text": "Try Grok voice mode. It’s great!",
+      "created_at": "Tue Feb 10 03:55:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020991501120176240",
+        "text": "Grok voice mode gives you the same visually rich experience as Grok chat. Can't type right now? Just use voice mode to ask questions. https://t.co/1oHQw0dXLV",
+        "created_at": "Mon Feb 09 22:41:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020990919529598976",
+            "url": "https://video.twimg.com/amplify_video/2020990919529598976/vid/avc1/1080x1080/cT7iyBAa7v2OkH5K.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 7875181,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 110,
+          "favorite_count": 598,
+          "reply_count": 136,
+          "quote_count": 12
+        }
+      },
+      "stats": {
+        "retweet_count": 361,
+        "favorite_count": 2172,
+        "reply_count": 957,
+        "quote_count": 34
+      }
+    },
+    {
+      "id": "2021071461977555290",
+      "text": "😑",
+      "created_at": "Tue Feb 10 03:59:20 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020919876915954094",
+        "text": "That feeling when Discord has stricter user ID verification systems than United States elections.",
+        "created_at": "Mon Feb 09 17:57:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1297651178256257024",
+          "name": "Autism Capital 🧩",
+          "screen_name": "AutismCapital",
+          "description": "Citizen journalism with a humorous flair. Following Fintech, Crypto, AI, Longevity, Politics, Memes, and whatever the current thing is.",
+          "followers_count": 1054121,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 286,
+          "favorite_count": 2372,
+          "reply_count": 66,
+          "quote_count": 12
+        }
+      },
+      "stats": {
+        "retweet_count": 778,
+        "favorite_count": 8202,
+        "reply_count": 704,
+        "quote_count": 38
+      }
+    },
+    {
+      "id": "2021073406024970273",
+      "text": "RT @stevenmarkryan: SpaceX's Plan:\n\n1. Create off-site backups of humans ASAP to ensure the survival of consciousness &amp; life\n\n2. Use Grok t…",
+      "created_at": "Tue Feb 10 04:07:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021049735440891965",
+        "text": "SpaceX's Plan:\n\n1. Create off-site backups of humans ASAP to ensure the survival of consciousness & life\n\n2. Use Grok to better understand the universe/discover new physics (incl. how to extend consciousness & life to the stars)\n\n3. Extend consciousness & life to the stars\n\nAny questions?",
+        "created_at": "Tue Feb 10 02:33:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021049461900967937",
+            "url": "https://video.twimg.com/amplify_video/2021049461900967937/vid/avc1/1920x1080/C0yGxTW0QQ1Ui95P.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "31263848",
+          "name": "stevenmarkryan",
+          "screen_name": "stevenmarkryan",
+          "description": "► Daily videos for $TSLA investors 📈 \n► Content for fans of common sense\n► Want early access? Subscribe on X\n► aka \"Solving The Money Problem\".\n► I read my DMs",
+          "followers_count": 418619,
+          "friends_count": 137,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 175,
+          "favorite_count": 1242,
+          "reply_count": 258,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 175,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
