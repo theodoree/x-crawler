@@ -1,12 +1,541 @@
 {
   "date": "20260210",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-10T16:41:55.779550",
-  "tweet_count": 296,
-  "unique_tweet_count": 296,
-  "total_crawled": 486,
-  "duplicates_removed": 190,
+  "last_crawl_time": "2026-02-10T18:24:04.058723",
+  "tweet_count": 305,
+  "unique_tweet_count": 305,
+  "total_crawled": 496,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2021286257641521445",
+      "text": "吴恩达老师：美国以及许多其他国家的求职者，正面临着严峻的就业环境。\n\n与此同时，人们对“AI 导致失业”的恐惧，至少到目前为止被过度夸大了。不过，市场对 AI 技能的需求确实开始引发就业格局的转变。我想和大家分享一下我在一线的实地观察。\n\n首先，过去一年里，许多科技公司确实进行了裁员。\n\n虽然有些 CEO 声称这是因为 AI，理由是 AI 能干活了，所以不再需要人了，但这并非真相。现实情况是，AI 目前还真没那么好用。（注：指目前的 AI 技术尚未达到能完全独立替代人类工作的成熟度）。\n\n许多裁员其实是对疫情期间过度招聘的修正，或者是常规的成本削减和组织架构调整，这在现代 AI 出现之前也是常有的事。除了极少数特定的岗位，很少有裁员是因为工作真的被 AI 自动化取代了。\n\n诚然，这种情况未来可能会增加。那些从事极易受 AI 自动化冲击职业的人，比如呼叫中心接线员、翻译和配音演员，可能会面临求职困难或薪资下降的局面。但目前关于“大规模失业”的说法，确实是被过度炒作了。\n\n相反，那句老生常谈依然适用：AI 不会取代工人，但会使用 AI 的工人将取代那些不会用的。 例如，因为 AI 编程工具能让开发者的效率大幅提升，那些懂得如何驾驭它们的开发者正变得越来越抢手。（如果你想成为这样的人，欢迎参加我们在 Claude Code, Gemini CLI 和 AI Agentic Skills 方面的短期课程！）\n\n所以，AI 确实导致了失业，但方式很微妙。一些企业正在解雇那些不适应 AI 的员工，转而雇佣那些能适应的人。这一趋势在软件开发领域已经非常明显。\n\n此外，在许多初创公司的招聘模式中，我看到了这种“人员置换”的早期迹象，甚至出现在传统的非技术岗位上。\n\n懂得以 AI 辅助编程（注：即懂得利用 AI 工具编写简单代码或脚本来自动化日常任务）的市场营销人员、招聘专员和分析师，比那些不懂的人效率更高。\n\n因此，一些企业正慢慢与那些无法适应的员工分道扬镳。我预计这一进程将会加速。\n\n与此同时，当公司组建“AI 原生”（AI Native，指从一开始就基于 AI 逻辑构建）的新团队时，团队规模往往比被替代的老团队更小。AI 让个体更高效，从而使精简团队成为可能。\n\n举个例子，随着 AI 让软件开发变得更容易，瓶颈正在转移到“决定做什么”上——这就是产品管理（PM）瓶颈。\n\n以前可能需要分配给 8 名工程师和 1 名产品经理的项目，现在可能只需要 2 名工程师和 1 名产品经理，甚至只需一个兼具工程和产品技能的人就能搞定。\n\n对员工来说，好消息是大多数企业都有干不完的活，却苦于人手不足。\n\n拥有合适 AI 技能的人往往会获得更多机会，去承担更重要的责任，甚至去解决那些在 AI 加速工作流程之前无法处理的积压创意。\n\n我看到许多企业的员工正在挺身而出，构建新事物来帮助公司发展。机会其实无处不在！\n\n我知道这些变化令人倍感压力。我对每一个受裁员影响的家庭、每一个苦苦寻觅心仪职位的求职者，以及更多对未来职业前景感到担忧的人，都感同身受。\n\n幸运的是，大家还有时间去学习，去根据就业市场的走向为自己定位。\n\n在 AI 面前，绝大多数人——无论是技术人员还是非技术人员——都才刚刚站在起跑线上，或者刚起跑不久。\n\n所以，这依然是坚持学习、坚持构建产品的绝佳时机，对于那些行动起来的人来说，机会是数不胜数的！",
+      "created_at": "Tue Feb 10 18:12:52 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021259884709413291",
+        "text": "Job seekers in the U.S. and many other nations face a tough environment. At the same time, fears of AI-caused job loss have — so far — been overblown. However, the demand for AI skills is starting to cause shifts in the job market. I’d like to share what I’m seeing on the ground. \n\nFirst, many tech companies have laid off workers over the past year. While some CEOs cited AI as the reason — that AI is doing the work, so people are no longer needed — the reality is AI just doesn’t work that well yet. Many of the layoffs have been corrections for overhiring during the pandemic or general cost-cutting and reorganization that occasionally happened even before modern AI. Outside of a handful of roles, few layoffs have resulted from jobs being automated by AI.\nGranted, this may grow in the future. People who are currently in some professions that are highly exposed to AI automation, such as call-center operators, translators, and voice actors, are likely to struggle to find jobs and/or see declining salaries. But widespread job losses have been overhyped.\n\nInstead, a common refrain applies: AI won’t replace workers, but workers who use AI will replace workers who don’t. For instance, because AI coding tools make developers much more efficient, developers who know how to use them are increasingly in-demand. (If you want to be one of these people, please take our short courses on Claude Code, Gemini CLI, and Agentic Skills!)\n\nSo AI is leading to job losses, but in a subtle way. Some businesses are letting go of employees who are not adapting to AI and replacing them with people who are. This trend is already obvious in software development. Further, in many startups’ hiring patterns, I am seeing early signs of this type of personnel replacement in roles that traditionally are considered non-technical. Marketers, recruiters, and analysts who know how to code with AI are more productive than those who don’t, so some businesses are slowly parting ways with employees that aren’t able to adapt. I expect this will accelerate.\n\nAt the same time, when companies build new teams that are AI native, sometimes the new teams are smaller than the ones they replace. AI makes individuals more effective, and this makes it possible to shrink team sizes. For example, as AI has made building software easier, the bottleneck is shifting to deciding what to build — this is the Product Management (PM) bottleneck. A project that used to be assigned to 8 engineers and 1 PM might now be assigned to 2 engineers and 1 PM, or perhaps even to a single person with a mix of engineering and product skills.\n\nThe good news for employees is that most businesses have a lot of work to do and not enough people to do it. People with the right AI skills are often given opportunities to step up and do more, and maybe tackle the long backlog of ideas that couldn’t be executed before AI made the work go more quickly. I’m seeing many employees in many businesses step up to build new things that help their business. Opportunities abound!\n\nI know these changes are stressful. My heart goes out to every family that has been affected by a layoff, to every job seeker struggling to find the role they want, and to the far larger number of people who are worried about their future job prospects. Fortunately, there’s still time to learn and position yourself well for where the job market is going. When it comes to AI, the vast majority of people, technical or nontechnical, are at the starting line, or they were recently. So this remains a great time to keep learning and keep building, and the opportunities for those who do are numerous!\n\n[Original text; https://t.co/zbIhZHfCC0 ]",
+        "created_at": "Tue Feb 10 16:28:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "216939636",
+          "name": "Andrew Ng",
+          "screen_name": "AndrewYNg",
+          "description": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
+          "followers_count": 1358302,
+          "friends_count": 1062,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 128,
+          "favorite_count": 679,
+          "reply_count": 78,
+          "quote_count": 30
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178519,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021282916769337512",
+      "text": "RT @nypost: Apple News promotes left-leaning media outlets — as it shuts out conservative sites entirely: study https://t.co/bNe0RfysHW htt…",
+      "created_at": "Tue Feb 10 17:59:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021193781928747380",
+        "text": "Apple News promotes left-leaning media outlets — as it shuts out conservative sites entirely: study https://t.co/bNe0RfysHW https://t.co/gkeU5kb1Vu",
+        "created_at": "Tue Feb 10 12:05:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021193773204520960",
+            "url": "https://pbs.twimg.com/media/HAy5ByoWQAAd20L.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17469289",
+          "name": "New York Post",
+          "screen_name": "nypost",
+          "description": "Breaking news, features and more from the NY Post. Follow ➡️  @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion, @vrtpod, @_nynext",
+          "followers_count": 3636106,
+          "friends_count": 10097,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 580,
+          "favorite_count": 2726,
+          "reply_count": 327,
+          "quote_count": 56
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234339269,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 580,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021282518184739040",
+      "text": "RT @IterIntellectus: to recap:\n\n&gt; be the united kingdom\n&gt; 1,400 children raped in rotherham alone\n&gt; government's investigations confirms it…",
+      "created_at": "Tue Feb 10 17:58:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021273593305252095",
+        "text": "to recap:\n\n> be the united kingdom\n> 1,400 children raped in rotherham alone\n> government's investigations confirms it\n> council \"suppressed discussion for fear of upsetting community relations\"\n> girls get arrested for being drunk at the scene\n> their rapists walk free\n> 16 years of this\n> someone posts about it online\n> arrested\n> 12,000 people arrested last year for social media posts (more than china, russia, north korea, combined)\n> still can't find the grooming gangs though\n> prince andrew flies on epstein's plane\n> settles with trafficking victim for £12 million\n> the queen helps pay\n> no criminal charges or media outrage\n> congressman confirms 6 more names redacted from epstein files\n> one is \"high up in a foreign government\"\n> still no outrage\n> virginia giuffre, the woman who exposed it all, \"kills herself\"\n> yesterday the ministry of justice orders deletion of the UK's largest court data archive\n\narrested the girls, arrested the posters, paid off the victim, redacted the names, deleted the records\n\none starts wondering if the system is working as designed",
+        "created_at": "Tue Feb 10 17:22:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2021234950192660742",
+          "text": "https://t.co/Ib0KITGGZT",
+          "created_at": "Tue Feb 10 14:48:59 +0000 2026",
+          "lang": "zxx",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2021234946703282176",
+              "url": "https://pbs.twimg.com/media/HAzeeZ3a0AA3u88.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234339269,
+            "friends_count": 1284,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 32125,
+            "favorite_count": 283641,
+            "reply_count": 10944,
+            "quote_count": 1561
+          }
+        },
+        "user": {
+          "id": "1655936149733654530",
+          "name": "vittorio",
+          "screen_name": "IterIntellectus",
+          "description": "practice expert\n\n“unique online personality”\n\nformer TPOT thinker (exiled)\n\nprofessional shitpoaster @SpaceX\n\ndon't take me seriously",
+          "followers_count": 168563,
+          "friends_count": 2311,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 412,
+          "favorite_count": 2064,
+          "reply_count": 179,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234339269,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 412,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021281029265436816",
+      "text": "RT @RepWPH: When a nation forgets its history, it risks repeating its darkest mistakes.\n\nThat is why Congressman Wesley Hunt has introduced…",
+      "created_at": "Tue Feb 10 17:52:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021272477758890233",
+        "text": "When a nation forgets its history, it risks repeating its darkest mistakes.\n\nThat is why Congressman Wesley Hunt has introduced legislation to establish a 28th Amendment, requiring every member of Congress to pass a basic civics exam before taking the oath of office.\n\nThose entrusted with representing the American people should first demonstrate a clear understanding of the Constitution, our history, and the principles that built this nation.\n\nKnowledge of our founding ideals is not optional. It is essential.\n\nBecause protecting America’s future begins with honoring its past, and safeguarding the foundations of this Republic starts with leaders who truly understand it.",
+        "created_at": "Tue Feb 10 17:18:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021271494752600068",
+            "url": "https://video.twimg.com/amplify_video/2021271494752600068/vid/avc1/3840x2160/-e0jhwvV2Go-myef.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1602751001756311556",
+          "name": "Rep. Wesley Hunt Press Office",
+          "screen_name": "RepWPH",
+          "description": "Press Office of Congressman Hunt proudly working for #TX38 and serving on @JudiciaryGOP & @NatResources.",
+          "followers_count": 61769,
+          "friends_count": 177,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 395,
+          "favorite_count": 2085,
+          "reply_count": 263,
+          "quote_count": 35
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234339269,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 395,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021279898770288761",
+      "text": "“AI 根本不会取代程序员，说AI取代程序员的不是傻就是坏”\n“刚被layoff了需要找工作”\n\n这段子编的不错，至少值 5 粒大米😂 https://t.co/LPpVG23rUO",
+      "created_at": "Tue Feb 10 17:47:36 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2021278891432652800",
+          "url": "https://pbs.twimg.com/media/HA0GcUvWsAAIiCK.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178519,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021279420590538949",
+      "text": "Starship Super Heavy testing",
+      "created_at": "Tue Feb 10 17:45:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021256489424265528",
+        "text": "Cryoproof operations complete for the first time with a Super Heavy V3 booster. This multi-day campaign tested the booster's redesigned propellant systems and its structural strength https://t.co/RpMQ1DoT5x",
+        "created_at": "Tue Feb 10 16:14:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021255920089444352",
+            "url": "https://video.twimg.com/amplify_video/2021255920089444352/vid/avc1/3840x2160/nYVBwK39rPrX8BVM.mp4?tag=21",
+            "bitrate": 25128000
+          },
+          {
+            "type": "photo",
+            "id": "2021255957477720064",
+            "url": "https://pbs.twimg.com/media/HAzxlZGaAAAZDJ6.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2021255977824051200",
+            "url": "https://pbs.twimg.com/media/HAzxmk5WYAAOigh.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2021255993737281537",
+            "url": "https://pbs.twimg.com/media/HAzxngLXAAEQC8k.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 40949471,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 822,
+          "favorite_count": 5910,
+          "reply_count": 347,
+          "quote_count": 110
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234339269,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 902,
+        "favorite_count": 7840,
+        "reply_count": 1180,
+        "quote_count": 38
+      }
+    },
+    {
+      "id": "2021279267481678273",
+      "text": "RT @MWChapman: @Chesschick01 very weird,,, https://t.co/k16hJWKYPY",
+      "created_at": "Tue Feb 10 17:45:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2021269024575979520",
+          "url": "https://pbs.twimg.com/media/HAz9d_1aAAArN-U.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2021269072411845003",
+        "text": "@Chesschick01 very weird,,, https://t.co/k16hJWKYPY",
+        "created_at": "Tue Feb 10 17:04:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021269024575979520",
+            "url": "https://pbs.twimg.com/media/HAz9d_1aAAArN-U.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1691545240111374336",
+          "name": "Michael Chapman",
+          "screen_name": "MWChapman",
+          "description": "Senior Editor, Cato Institute. https://t.co/Me1jM2MnAw  \"The difference between a welfare state and a totalitarian state is a matter of time.\"  (Views my own.)",
+          "followers_count": 1340,
+          "friends_count": 679,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 195,
+          "favorite_count": 930,
+          "reply_count": 99,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234339269,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 195,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021279168303071339",
+      "text": "RT @Chesschick01: This is insane. Steve Bannon was in DAILY communication with Epstein: https://t.co/kxKSKE1diy https://t.co/S8rH72bbb3",
+      "created_at": "Tue Feb 10 17:44:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2021259206213484544",
+          "url": "https://pbs.twimg.com/media/HAz0iflXwAA0mjf.png"
+        },
+        {
+          "type": "photo",
+          "id": "2021259736344326144",
+          "url": "https://pbs.twimg.com/media/HAz1BWeacAA4uBQ.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2021259754799046715",
+        "text": "This is insane. Steve Bannon was in DAILY communication with Epstein: https://t.co/kxKSKE1diy https://t.co/S8rH72bbb3",
+        "created_at": "Tue Feb 10 16:27:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021259206213484544",
+            "url": "https://pbs.twimg.com/media/HAz0iflXwAA0mjf.png"
+          },
+          {
+            "type": "photo",
+            "id": "2021259736344326144",
+            "url": "https://pbs.twimg.com/media/HAz1BWeacAA4uBQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "36134346",
+          "name": "Natalie F Danelishen",
+          "screen_name": "Chesschick01",
+          "description": "Conscientious objector • Tu ne cede malis sed contra audentior ito • Administrative Assistant @freecitiesfound• Duchess of @SealandGov",
+          "followers_count": 161500,
+          "friends_count": 2832,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 267,
+          "favorite_count": 1333,
+          "reply_count": 177,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234339269,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 267,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021273656366858503",
+      "text": "RT @cb_doge: NEWS: UAE launches global partnership with Starlink to deliver digital education to remote communities worldwide.\n\nThe Digital…",
+      "created_at": "Tue Feb 10 17:22:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021246677789675814",
+        "text": "NEWS: UAE launches global partnership with Starlink to deliver digital education to remote communities worldwide.\n\nThe Digital School, part of Mohammed bin Rashid Al Maktoum Global Initiatives, aims to expand access to high quality online learning for students across the globe. https://t.co/yawbZVJDOS",
+        "created_at": "Tue Feb 10 15:35:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021246200750669824",
+            "url": "https://video.twimg.com/amplify_video/2021246200750669824/vid/avc1/1080x1080/_DsiFMZTTI59ucBb.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1829846,
+          "friends_count": 900,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 276,
+          "favorite_count": 1594,
+          "reply_count": 348,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234339269,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 276,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2021258240512631262",
       "text": "RT @123olp: 软件工程中的核心洞见\n\n1. 软件工程中的问题解决能力本质上不依赖于个体的原生计算能力（流体智力），而是源于后天构建的知识体系、经验和有效的心智模型（晶体智力），程序员的成长核心是主动构建和强化后者\n\n2.…",
