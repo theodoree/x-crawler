@@ -1,12 +1,3733 @@
 {
   "date": "20260210",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-10T12:19:27.775747",
-  "tweet_count": 226,
-  "unique_tweet_count": 226,
+  "last_crawl_time": "2026-02-10T14:30:40.408574",
+  "tweet_count": 286,
+  "unique_tweet_count": 286,
   "total_crawled": 426,
-  "duplicates_removed": 200,
+  "duplicates_removed": 140,
   "tweets": [
+    {
+      "id": "2021230122355839106",
+      "text": "RT @Jennifer_Arcuri: Never are those who hide court documents been on the right side of history. \n\n🇬🇧",
+      "created_at": "Tue Feb 10 14:29:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021216098826219753",
+        "text": "Never are those who hide court documents been on the right side of history. \n\n🇬🇧",
+        "created_at": "Tue Feb 10 13:34:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "64020286",
+          "name": "Jennifer Arcuri",
+          "screen_name": "Jennifer_Arcuri",
+          "description": "“Frank and Honest.” Resilient. Fearless w/ “more brains & drive than two or three British politicians put together.” https://t.co/mZWmhVEYFF",
+          "followers_count": 103190,
+          "friends_count": 14467,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 73,
+          "favorite_count": 495,
+          "reply_count": 12,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 73,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021225420750786863",
+      "text": "The system is broken",
+      "created_at": "Tue Feb 10 14:11:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021100669453861242",
+        "text": "There are 93 total positions for US attorneys across the country.\n\n62 are vacant - no Senate confirmation, and acting attorneys do the job.\n\nThis is after over a year of the Trump administration. If you can’t fill 2/3 of US attorney positions, the system is broken.",
+        "created_at": "Tue Feb 10 05:55:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016908862136332288",
+          "name": "FischerKing",
+          "screen_name": "FischerKing64",
+          "description": "Shall I at least set my lands in order...",
+          "followers_count": 254993,
+          "friends_count": 500,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2885,
+          "favorite_count": 10756,
+          "reply_count": 383,
+          "quote_count": 224
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 486,
+        "favorite_count": 3186,
+        "reply_count": 687,
+        "quote_count": 18
+      }
+    },
+    {
+      "id": "2021225111303364904",
+      "text": "Wow",
+      "created_at": "Tue Feb 10 14:09:53 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021224465653182615",
+        "text": "the rape of Britain has been happening for more than a decade \n\nthe legacy media refused to cover it because it did not match their narrative \n\nlook at the relative topic coverage: https://t.co/GFWIZB8Vis",
+        "created_at": "Tue Feb 10 14:07:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021224461899563008",
+            "url": "https://pbs.twimg.com/media/HAzU8G7agAAmXJN.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 56267,
+          "friends_count": 980,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 141,
+          "favorite_count": 511,
+          "reply_count": 37,
+          "quote_count": 19
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 940,
+        "favorite_count": 4630,
+        "reply_count": 392,
+        "quote_count": 18
+      }
+    },
+    {
+      "id": "2021224999126798619",
+      "text": "Most of the child victims were turned into traffickers themselves by Epstein after age 18. \n\nBy making them commit crime with him, Epstein ensured their silence more than any NDA possibly could. \n\nThey should be offered amnesties in order to testify.",
+      "created_at": "Tue Feb 10 14:09:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020962009710461032",
+        "text": "I don’t understand why the Epstein victims still won’t name names.",
+        "created_at": "Mon Feb 09 20:44:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "23216714",
+          "name": "Nicole Arbour",
+          "screen_name": "NicoleArbour",
+          "description": "Comedian, Music Maker, Speaker, Chronic Pain Defeater. Over 2 billion views and thankful! #GOTEAM",
+          "followers_count": 270365,
+          "friends_count": 484,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 313,
+          "favorite_count": 8603,
+          "reply_count": 1539,
+          "quote_count": 163
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1128,
+        "favorite_count": 7706,
+        "reply_count": 790,
+        "quote_count": 82
+      }
+    },
+    {
+      "id": "2021223901905166733",
+      "text": "RT @mhdksafa: I don't understand how we're not having a global revolution right now.\n\nThere are 3 million files of documented evidence abou…",
+      "created_at": "Tue Feb 10 14:05:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020629982779711838",
+        "text": "I don't understand how we're not having a global revolution right now.\n\nThere are 3 million files of documented evidence about powerful men who \n\nRaped\nCannibalized\nTrafficked\nFilmed\nTerrorized\nTortured\nMurdered\n13, 14, 15 year children!\n\nAnd Zero arrests.",
+        "created_at": "Sun Feb 08 22:45:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "834078524277456897",
+          "name": "Mohamad Safa",
+          "screen_name": "mhdksafa",
+          "description": "Executive director. Diplomat rel. @PVAenglish Main Representative at United Nations ECOSOC and accredited at United Nations Office at Geneva.",
+          "followers_count": 498667,
+          "friends_count": 21,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 29319,
+          "favorite_count": 113785,
+          "reply_count": 2142,
+          "quote_count": 464
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 29319,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021223337771307417",
+      "text": "Good question",
+      "created_at": "Tue Feb 10 14:02:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020914940635169056",
+        "text": "Why would one request court archives to be deleted? 🇬🇧",
+        "created_at": "Mon Feb 09 17:37:23 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "64020286",
+          "name": "Jennifer Arcuri",
+          "screen_name": "Jennifer_Arcuri",
+          "description": "“Frank and Honest.” Resilient. Fearless w/ “more brains & drive than two or three British politicians put together.” https://t.co/mZWmhVEYFF",
+          "followers_count": 103190,
+          "friends_count": 14467,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 419,
+          "favorite_count": 3094,
+          "reply_count": 192,
+          "quote_count": 26
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 775,
+        "favorite_count": 5895,
+        "reply_count": 662,
+        "quote_count": 23
+      }
+    },
+    {
+      "id": "2021222402185732157",
+      "text": "RT @ValentinaForUSA: I catch pedophiles &amp; have been invited to almost every show, EXCEPT Bannon’s War Room.\n\nNow I understand why.\n\nBecause…",
+      "created_at": "Tue Feb 10 13:59:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020932315380318217",
+        "text": "I catch pedophiles &amp; have been invited to almost every show, EXCEPT Bannon’s War Room.\n\nNow I understand why.\n\nBecause he’s friends with pedophile Jeffrey Epstein &amp; I want pedophiles publicly executed.\n\nI don’t care if you’re a Republican or Democrat. A pedophile is a pedophile.",
+        "created_at": "Mon Feb 09 18:46:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020930384964485467",
+          "text": "That’s a real selfie pic with Bannon &amp; Epstein",
+          "created_at": "Mon Feb 09 18:38:45 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234331483,
+            "friends_count": 1284,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 25638,
+            "favorite_count": 134847,
+            "reply_count": 6816,
+            "quote_count": 773
+          }
+        },
+        "user": {
+          "id": "1686551250538528769",
+          "name": "Valentina Gomez",
+          "screen_name": "ValentinaForUSA",
+          "description": "I follow Jesus Christ, save children,  & catch pdfs | Former D1 Swimmer, MBA, Financier| 📧team@valentinaforcongress.com",
+          "followers_count": 661712,
+          "friends_count": 573,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 730,
+          "favorite_count": 5135,
+          "reply_count": 284,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 730,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021221944952041515",
+      "text": "RT @teslaownersSV: Elon Musk\n\n“This is why we need Voter ID — The social security number, it's not supposed to be a federal ID number. It b…",
+      "created_at": "Tue Feb 10 13:57:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021216681788412122",
+        "text": "Elon Musk\n\n“This is why we need Voter ID — The social security number, it's not supposed to be a federal ID number. It basically is that's how you access all the benefits. This is why we need voter ID, because this thing is not secure.”\n https://t.co/0ikuavyiai",
+        "created_at": "Tue Feb 10 13:36:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2012744785035980802",
+            "url": "https://video.twimg.com/amplify_video/2012744785035980802/vid/avc1/1280x716/-J901d3POv2tTzih.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.",
+          "followers_count": 1391787,
+          "friends_count": 834,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 225,
+          "favorite_count": 1098,
+          "reply_count": 137,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 225,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021221669876990116",
+      "text": "The main way the legacy media lies is by choosing the narrative and simply ignoring that which doesn’t match far-left politics",
+      "created_at": "Tue Feb 10 13:56:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021211848486314162",
+        "text": "STILL no coverage on the BBC of the Rape Gang Inquiry.\n\nNothing on the Telegraph, the Sun, the Mail, ITV, Sky, the Express, LBC, Guardian, the Times. \n\nTotal silence.\n\nIt is disgusting.",
+        "created_at": "Tue Feb 10 13:17:11 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1930183861176090624",
+          "name": "Restore Britain",
+          "screen_name": "RestoreBritain_",
+          "description": "Let’s Restore Britain. Join our movement here:",
+          "followers_count": 156479,
+          "friends_count": 49,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 473,
+          "favorite_count": 2338,
+          "reply_count": 80,
+          "quote_count": 19
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1004,
+        "favorite_count": 6273,
+        "reply_count": 585,
+        "quote_count": 30
+      }
+    },
+    {
+      "id": "2021220904361959901",
+      "text": "😂",
+      "created_at": "Tue Feb 10 13:53:10 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021203573829447911",
+        "text": "@KatieMiller Grok would never do such a thing, it keeps telling me to have kids and buy a Tesla.",
+        "created_at": "Tue Feb 10 12:44:18 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1519127491947819009",
+          "name": "merikuh",
+          "screen_name": "merikuh",
+          "description": "Southern California native. Proud to live in the greatest country on Earth. Freedom isn’t granted—it’s taken. Free Free California. God bless Merikuh. 🇺🇸",
+          "followers_count": 4480,
+          "friends_count": 586,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 28,
+          "favorite_count": 933,
+          "reply_count": 102,
+          "quote_count": 14
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 285,
+        "favorite_count": 3376,
+        "reply_count": 776,
+        "quote_count": 22
+      }
+    },
+    {
+      "id": "2021220463557427350",
+      "text": "RT @BasilTheGreat: His name is Rupert Lowe.",
+      "created_at": "Tue Feb 10 13:51:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020921856015090017",
+        "text": "His name is Rupert Lowe.",
+        "created_at": "Mon Feb 09 18:04:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020624465294701014",
+          "text": "@bindelj Call me wildly idealistic, but I like to think we'll one day have a PM who gives a shit about protecting the rights and safety of girls and women.",
+          "created_at": "Sun Feb 08 22:23:08 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "62513246",
+            "name": "J.K. Rowling",
+            "screen_name": "jk_rowling",
+            "description": "Author, founder of Lumos and Beira's Place, surname rhymes with bowling, not growling.",
+            "followers_count": 13828195,
+            "friends_count": 1157,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 7892,
+            "favorite_count": 65040,
+            "reply_count": 1911,
+            "quote_count": 301
+          }
+        },
+        "user": {
+          "id": "1722014154322575360",
+          "name": "Basil the Great",
+          "screen_name": "BasilTheGreat",
+          "description": "\"We shall not flag or fail, we shall go on till the end\"\n\nDM for submissions/credit/deletion",
+          "followers_count": 276099,
+          "friends_count": 5011,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1100,
+          "favorite_count": 14678,
+          "reply_count": 162,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1100,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021220373820330085",
+      "text": "RT @GuntherEagleman: 🚨 BREAKING: Scott Presler just made a POWER MOVE \nHe’s officially requesting a meeting with DEMOCRAT Sen. John Fetterm…",
+      "created_at": "Tue Feb 10 13:51:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020955359716741210",
+        "text": "🚨 BREAKING: Scott Presler just made a POWER MOVE \nHe’s officially requesting a meeting with DEMOCRAT Sen. John Fetterman to push the SAVE America Act, nationwide voter ID + proof of citizenship to stop non-citizens from voting in our elections!\n https://t.co/7MIJIxFupn",
+        "created_at": "Mon Feb 09 20:17:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020949958413950976",
+            "url": "https://video.twimg.com/amplify_video/2020949958413950976/vid/avc1/1080x1080/XlScDVjGUAjULVhi.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1355721251180961792",
+          "name": "Gunther Eagleman™",
+          "screen_name": "GuntherEagleman",
+          "description": "David J. Freeman - Political Commentator - America First - MAGA - Christian",
+          "followers_count": 1686413,
+          "friends_count": 102617,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4499,
+          "favorite_count": 26998,
+          "reply_count": 306,
+          "quote_count": 50
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4499,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021220103031832872",
+      "text": "RT @MarioNawfal: 🇺🇸 DOJ UNREDACTS LES WEXNER AS CO-CONSPIRATOR IN EPSTEIN SEX TRAFFICKING AFTER MASSIE PRESSURE\n\nThis is huge.\n\nThe DOJ jus…",
+      "created_at": "Tue Feb 10 13:49:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021101829443215857",
+        "text": "🇺🇸 DOJ UNREDACTS LES WEXNER AS CO-CONSPIRATOR IN EPSTEIN SEX TRAFFICKING AFTER MASSIE PRESSURE\n\nThis is huge.\n\nThe DOJ just unredacted an FBI file labeling Les Wexner as a co-conspirator in child sex trafficking. \n\nThis directly contradicts congressional testimony claiming the FBI held no evidence of additional traffickers.\n\nThe DOJ originally justified heavy redactions by citing victim protection. \n\nTonight proved you can protect victim identities while still disclosing the names of alleged perpetrators.\n\nThe dam is breaking. \n\nHopefully, more names will be released in the coming days.\n\nSource: @RepThomasMassie",
+        "created_at": "Tue Feb 10 06:00:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021071819055177728",
+            "url": "https://pbs.twimg.com/media/HAxKHIBWIAAc-Jq.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2021055705826943265",
+          "text": "🚨🇺🇸 REP MASSIE NAMES LES WEXNER AS CO CONSPIRATOR IN THE EPSTEIN FILES\n\nMassie confirmed the “well known retired CEO” previously blacked out and labeled a co conspirator is none other than Victoria’s Secret founder Les Wexner. \n\nhttps://t.co/2dYrGiq6vi",
+          "created_at": "Tue Feb 10 02:56:44 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2021053010504507392",
+              "url": "https://video.twimg.com/amplify_video/2021053010504507392/vid/avc1/1280x720/mBNQkPAY6KdvYZBt.mp4?tag=21",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+            "followers_count": 2993736,
+            "friends_count": 50342,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 775,
+            "favorite_count": 3979,
+            "reply_count": 293,
+            "quote_count": 58
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 2993736,
+          "friends_count": 50342,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 619,
+          "favorite_count": 2410,
+          "reply_count": 220,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 619,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021219324225053008",
+      "text": "RT @teslaownersSV: Palantir cofounder\n\n“Elon Musk made a great point when I was involved as a kid at PayPal: whenever you turn off fraud or…",
+      "created_at": "Tue Feb 10 13:46:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021210223604641853",
+        "text": "Palantir cofounder\n\n“Elon Musk made a great point when I was involved as a kid at PayPal: whenever you turn off fraud or grift, the people who would scream the most were the fraudsters.”\n https://t.co/n5Kstgr9p3",
+        "created_at": "Tue Feb 10 13:10:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2005058607902052352",
+            "url": "https://video.twimg.com/amplify_video/2005058607902052352/vid/avc1/1206x664/xw_WfRX8lyF_d69K.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.",
+          "followers_count": 1391787,
+          "friends_count": 834,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 223,
+          "favorite_count": 1327,
+          "reply_count": 89,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 223,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021219199239000407",
+      "text": "Lex Wexner is co-conspirator of Epstein",
+      "created_at": "Tue Feb 10 13:46:24 +0000 2026",
+      "lang": "nl",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021101810287604106",
+        "text": "🚨🇺🇸 EPSTEIN FILES: WHO IS LEX WEXNER?\n\nAfter Rep. Massie viewed the unredacted files and pushed for transparency, the DOJ has now unredacted billionaire Les Wexner's name.\n\nHe appears as a co-conspirator.\n\nWexner is the founder of L Brands, parent company of Victoria's Secret. \n\nHe gave Epstein power of attorney over his finances and gifted him the largest private home in Manhattan.\n\nAccusers have long claimed Epstein used Victoria's Secret as a recruiting tool, with associates posing as modeling scouts to lure young women.\n\nFor years Wexner avoided scrutiny while Maxwell took the fall alone.\n\nHe is now officially listed as a co-conspirator alongside Ghislaine Maxwell.\n\nThe redactions were protecting him. \n\nNow we know why.\n\nSource: @RepThomasMassie",
+        "created_at": "Tue Feb 10 05:59:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021101466979561472",
+            "url": "https://pbs.twimg.com/media/HAxlE3JWcAAKUZ3.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 2993736,
+          "friends_count": 50342,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 556,
+          "favorite_count": 1724,
+          "reply_count": 171,
+          "quote_count": 57
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2044,
+        "favorite_count": 9180,
+        "reply_count": 1071,
+        "quote_count": 76
+      }
+    },
+    {
+      "id": "2021218604151165390",
+      "text": "RT @RupertLowe10: @BBCNews https://t.co/cpqWwVJAyv",
+      "created_at": "Tue Feb 10 13:44:02 +0000 2026",
+      "lang": "qme",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2021191601989746693",
+          "url": "https://pbs.twimg.com/media/HAy3DaOaAAU1pYQ.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2021191606884307215",
+        "text": "@BBCNews https://t.co/cpqWwVJAyv",
+        "created_at": "Tue Feb 10 11:56:45 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021191601989746693",
+            "url": "https://pbs.twimg.com/media/HAy3DaOaAAU1pYQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 521669,
+          "friends_count": 773,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 710,
+          "favorite_count": 6387,
+          "reply_count": 122,
+          "quote_count": 32
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 710,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021218410894352529",
+      "text": "Darker and darker",
+      "created_at": "Tue Feb 10 13:43:16 +0000 2026",
+      "lang": "de",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021030103480951088",
+        "text": "Epstein's Former Butler Alfredo Rodriguez Saw 'Very Young' Naked Girls on Computer\n\nWhen asked how young: \"16, 17... teenagers, they have braces, most of them.\"\n\n\"Younger than that though?\"\n\n\"Yeah, yeah.\"\n\nTerrified Epstein might make him \"disappear,\" Rodriguez tried to sell his black book as insurance. \n\nAfter being caught selling it to an undercover agent, he got 18 months in prison and died of mesothelioma shortly after he was released.\n\nA lot of the truth has died with witnesses.\n\nWho's going to be left to tell it?",
+        "created_at": "Tue Feb 10 01:15:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021027982190526464",
+            "url": "https://video.twimg.com/amplify_video/2021027982190526464/vid/avc1/624x352/nUYU8THEH3S3_zJm.mp4?tag=21",
+            "bitrate": 832000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 2993736,
+          "friends_count": 50342,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1257,
+          "favorite_count": 7148,
+          "reply_count": 145,
+          "quote_count": 30
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1113,
+        "favorite_count": 5718,
+        "reply_count": 711,
+        "quote_count": 22
+      }
+    },
+    {
+      "id": "2021217427632033818",
+      "text": "Wow",
+      "created_at": "Tue Feb 10 13:39:21 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021202952996749318",
+        "text": "A California judge last week ruled to consolidate 13 lawsuits against OpenAl involving ChatGPT users who killed themselves, attempted suicide, suffered mental breaks or, in at least one case, killed another person. \n\nA recent lawsuit, filed last month by the mother of a suicide victim, alleges that 4o coached him toward suicide.",
+        "created_at": "Tue Feb 10 12:41:50 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 202271,
+          "friends_count": 1100,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 87,
+          "favorite_count": 519,
+          "reply_count": 94,
+          "quote_count": 17
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 442,
+        "favorite_count": 3154,
+        "reply_count": 683,
+        "quote_count": 24
+      }
+    },
+    {
+      "id": "2021217032226721862",
+      "text": "RT @MarioNawfal: 🇺🇸 Epstein Files: Bannon Thanked Epstein for  “Terrific Day,” Pitches More “Fun Things\"\n\nBannon discussing meetings that n…",
+      "created_at": "Tue Feb 10 13:37:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021104188340535593",
+        "text": "🇺🇸 Epstein Files: Bannon Thanked Epstein for  “Terrific Day,” Pitches More “Fun Things\"\n\nBannon discussing meetings that need \"academic settings for cover\" and offering his compound behind the Supreme Court as \"a great base.\"\n\nThen sharing Saudi missile footage. \n\nResponse: \"Yep---6\"\n\nWhat the hell is this conversation?\n\n\"Joi\" is likely Joi Ito, the MIT Media Lab director who resigned over his Epstein ties.\n\nWhat exactly was being planned here?",
+        "created_at": "Tue Feb 10 06:09:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021103039843545088",
+            "url": "https://pbs.twimg.com/media/HAxmgahWMAAf-s4.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2021103085402439680",
+            "url": "https://pbs.twimg.com/media/HAxmjEPbwAAe6bg.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2021092187887251472",
+          "text": "🇺🇸 Epstein Files: Steve Bannon asked Epstein if he could interview \"the girls\" for a documentary about \"the real story.\"\n\nBannon knew.\n\nHe was texting Epstein about leverage, lawyers, and PR strategy. \n\n\"Who the fuck advises u!!\" he wrote after a bad public statement.\n\nThis is active communication about the operation, the girls, and how to manage the fallout.",
+          "created_at": "Tue Feb 10 05:21:42 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2021091637439692800",
+              "url": "https://pbs.twimg.com/media/HAxcItQbAAAVOq8.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2021091637548679175",
+              "url": "https://pbs.twimg.com/media/HAxcItqaAAc0zAM.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2021091637552873474",
+              "url": "https://pbs.twimg.com/media/HAxcItraAAIaTw9.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+            "followers_count": 2993736,
+            "friends_count": 50342,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 43,
+            "favorite_count": 153,
+            "reply_count": 41,
+            "quote_count": 4
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 2993736,
+          "friends_count": 50342,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 271,
+          "favorite_count": 1225,
+          "reply_count": 131,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 271,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021216423033332022",
+      "text": "RT @CensoredHumans: Epstein survivor Teala Davies:\n\n“I was only 17. I was the perfect victim.\nI was on my own, and I needed help.\n\nJeffrey…",
+      "created_at": "Tue Feb 10 13:35:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021022175155912721",
+        "text": "Epstein survivor Teala Davies:\n\n“I was only 17. I was the perfect victim.\nI was on my own, and I needed help.\n\nJeffrey Epstein preyed upon me. He put me in a vulnerable and dependent situation and took advantage of me. I was only 17 years old. I was a little girl.” https://t.co/EwJdh5sjCB",
+        "created_at": "Tue Feb 10 00:43:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021022127428894720",
+            "url": "https://video.twimg.com/ext_tw_video/2021022127428894720/pu/vid/avc1/1280x720/wHfXBT-egSKRYAMR.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2309928797",
+          "name": "Censored Humans",
+          "screen_name": "CensoredHumans",
+          "description": "Alternative Media || Documenting human stories erased by censorship. Evidence, context, and accountability",
+          "followers_count": 131755,
+          "friends_count": 141,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4727,
+          "favorite_count": 20415,
+          "reply_count": 417,
+          "quote_count": 84
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4727,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021216159018692792",
+      "text": "New @xAI office opened in Seattle area",
+      "created_at": "Tue Feb 10 13:34:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021212294705721353",
+        "text": "NEWS: xAI opened a new engineering office in Bellevue, Washington at Lincoln Square South, joining OpenAI in the Eastside AI corridor. The company now has offices in the Bay Area, Bellevue, and data centers in Memphis.\n\nhttps://t.co/6YzBxGzUE4",
+        "created_at": "Tue Feb 10 13:18:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "752567226",
+          "name": "X Daily News",
+          "screen_name": "xDaily",
+          "description": "Your #1 News source on everything X + xAI and now SpaceX | Contributors: @HXMnCK, @xUpdatesRadar and @swak_12 I | Hit Follow and sign up for notifications! 🔔",
+          "followers_count": 329933,
+          "friends_count": 5318,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 197,
+          "reply_count": 28,
+          "quote_count": 10
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 387,
+        "favorite_count": 3537,
+        "reply_count": 828,
+        "quote_count": 23
+      }
+    },
+    {
+      "id": "2021213860280025592",
+      "text": "RT @cb_doge: PRESIDENT TRUMP: \"Why would Democrats want no voter id? Because they want to cheat.\"\n\n https://t.co/QNaCrl8BMU",
+      "created_at": "Tue Feb 10 13:25:11 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1917360565711716352",
+          "url": "https://video.twimg.com/amplify_video/1917360565711716352/vid/avc1/814x482/RucIT8HnviU-BpJE.mp4?tag=16",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2021212575854195186",
+        "text": "PRESIDENT TRUMP: \"Why would Democrats want no voter id? Because they want to cheat.\"\n\n https://t.co/QNaCrl8BMU",
+        "created_at": "Tue Feb 10 13:20:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1917360565711716352",
+            "url": "https://video.twimg.com/amplify_video/1917360565711716352/vid/avc1/814x482/RucIT8HnviU-BpJE.mp4?tag=16",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1829893,
+          "friends_count": 900,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 727,
+          "favorite_count": 4654,
+          "reply_count": 532,
+          "quote_count": 42
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 727,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021213799726882967",
+      "text": "RT @CJHandmer: New babies are impossibly tiny and only this tiny (hand for scale) for a few weeks. Then they get big and start having opini…",
+      "created_at": "Tue Feb 10 13:24:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020984387895271890",
+        "text": "New babies are impossibly tiny and only this tiny (hand for scale) for a few weeks. Then they get big and start having opinions. \n\nThis is number four, very fresh and highly perfect. \n\nAll credit due of course to my brilliant and beautiful wife. \n\nBabies get much easier with practice. It's a shame we don't get to do fish-levels reps. \n\nI haven't yet seen an LLM do this.",
+        "created_at": "Mon Feb 09 22:13:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020984382903971840",
+            "url": "https://pbs.twimg.com/media/HAv6lq-acAAOEP_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "613926689",
+          "name": "Casey Handmer",
+          "screen_name": "CJHandmer",
+          "description": "Physicist, Immigrant, Pilot, Dad.\nFormer Caltech, Hyperloop, NASA JPL.\nFounder @terraformindies. Hiring!",
+          "followers_count": 61260,
+          "friends_count": 4660,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 130,
+          "favorite_count": 2299,
+          "reply_count": 187,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 130,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021212519835005414",
+      "text": "RT @cb_doge: Moon Base Alpha https://t.co/tp4yQXaEa0",
+      "created_at": "Tue Feb 10 13:19:51 +0000 2026",
+      "lang": "hi",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2021143898987667456",
+          "url": "https://pbs.twimg.com/media/HAyLqusboAA7__z.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2021143907682353637",
+        "text": "Moon Base Alpha https://t.co/tp4yQXaEa0",
+        "created_at": "Tue Feb 10 08:47:13 +0000 2026",
+        "lang": "hi",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021143898987667456",
+            "url": "https://pbs.twimg.com/media/HAyLqusboAA7__z.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1829893,
+          "friends_count": 900,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 307,
+          "favorite_count": 2357,
+          "reply_count": 502,
+          "quote_count": 48
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 307,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021212488910487741",
+      "text": "RT @peterrhague: You can sit there and snarkily state “no one wants this”, as if your personal vibes speak for society, but when the actual…",
+      "created_at": "Tue Feb 10 13:19:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021207436015632487",
+        "text": "You can sit there and snarkily state “no one wants this”, as if your personal vibes speak for society, but when the actual field work is done space exploration remains objectively popular: https://t.co/DePsieK7DQ",
+        "created_at": "Tue Feb 10 12:59:39 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2021058786837004532",
+          "text": "BTW, I am mocking all the Musk tweets, but all this space exploration BS is one thing I think where the public's instincts are spot on. They are ignoring all of it, despite massive PR pushes by NASA, Elon Musk, India, etc. The public does not care. It's not the 1960's anymore.",
+          "created_at": "Tue Feb 10 03:08:58 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "188106899",
+            "name": "Dilan Esper",
+            "screen_name": "dilanesper",
+            "description": "Litigator, attorney, appeals, entertainment",
+            "followers_count": 13836,
+            "friends_count": 6698,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2,
+            "favorite_count": 56,
+            "reply_count": 87,
+            "quote_count": 19
+          }
+        },
+        "user": {
+          "id": "28138103",
+          "name": "Peter Hague",
+          "screen_name": "peterrhague",
+          "description": "Solutionist. Astrophysics PhD and scientific software engineer. Dad of 2. Let’s colonise the solar system together. Please visit the link below to read my blog:",
+          "followers_count": 69270,
+          "friends_count": 3018,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 108,
+          "favorite_count": 840,
+          "reply_count": 172,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 108,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021212238460145924",
+      "text": "RT @StephenM: The Biden Administration facilitated mass child sex trafficking. Under Biden, ICE is now  shutting it down and saving countle…",
+      "created_at": "Tue Feb 10 13:18:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020955544459280790",
+        "text": "The Biden Administration facilitated mass child sex trafficking. Under Biden, ICE is now  shutting it down and saving countless lives.",
+        "created_at": "Mon Feb 09 20:18:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020930296737108135",
+          "text": "NEW: A registered sex offender paid smugglers to bring a child across the border from Honduras and was luckily stopped from taking the young girl into his care thanks to Trump's crackdown on the sponsorship program for unaccompanied alien children.\n\nAccording to court docs, the child, who made the journey with her mother but was separated before crossing, was rescued before she ended up in the hands of Alaska man Douglas Price, a registered sex offender who has a rap sheet.\n\nPrice paid roughly $5,000 to fund the mother and daughter’s dangerous journey to the border “through payments from his business, Black Bear Construction.\" He allegedly sent the funds “to a phone number provided by the smugglers.”\n\nPrice also sent photos of himself to the mother and “inquired about” her daughter’s “status.\"\n\n@realDailyWire",
+          "created_at": "Mon Feb 09 18:38:24 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020927917551710208",
+              "url": "https://pbs.twimg.com/media/HAvHO9JW8AATYcF.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2020927917526548480",
+              "url": "https://pbs.twimg.com/media/HAvHO9DXAAAsl5f.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2020927917669351426",
+              "url": "https://pbs.twimg.com/media/HAvHO9laAAIUrnP.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "813745126216441856",
+            "name": "Jennie Taer",
+            "screen_name": "JennieSTaer",
+            "description": "@realDailyWire’s immigration reporter | hablo poco de español | ✡️ | Seen on: Fox News, Newsmax, NewsNation, C-Span JTaer@DailyWire.com",
+            "followers_count": 46189,
+            "friends_count": 9159,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1718,
+            "favorite_count": 4424,
+            "reply_count": 211,
+            "quote_count": 107
+          }
+        },
+        "user": {
+          "id": "1329891389430243330",
+          "name": "Stephen Miller",
+          "screen_name": "StephenM",
+          "description": "@WhiteHouse Deputy Chief of Staff for Policy and Homeland Security Advisor | 45 & 47",
+          "followers_count": 1725324,
+          "friends_count": 356,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4698,
+          "favorite_count": 16264,
+          "reply_count": 2491,
+          "quote_count": 227
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4698,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021212050018480375",
+      "text": "RT @MarioNawfal: 84% of Americans think you should have to prove you're a citizen before voting.\n\nYou need ID to buy alcohol. To board a pl…",
+      "created_at": "Tue Feb 10 13:17:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021033878824288424",
+        "text": "84% of Americans think you should have to prove you're a citizen before voting.\n\nYou need ID to buy alcohol. To board a plane. To pick up a prescription.\n\nBut proving you're eligible to vote in American elections? \n\nSomehow that's controversial?\n\nThe 16% of people who oppose this need to clearly explain what exactly they're protecting by making it easier for ineligible people to cast ballots.",
+        "created_at": "Tue Feb 10 01:30:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021006660626677760",
+            "url": "https://pbs.twimg.com/media/HAwO2Z9aAAA4rU1.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2018726518126530854",
+          "text": "This is crucial to save democracy in America",
+          "created_at": "Tue Feb 03 16:41:22 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234331483,
+            "friends_count": 1284,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 21049,
+            "favorite_count": 135937,
+            "reply_count": 5726,
+            "quote_count": 504
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 2993736,
+          "friends_count": 50342,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 726,
+          "favorite_count": 3727,
+          "reply_count": 292,
+          "quote_count": 40
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 726,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021211952257835063",
+      "text": "RT @MarioNawfal: Epstein was paying people to hack websites and manipulate search results to bury negative coverage\n\n2010 emails with Al Se…",
+      "created_at": "Tue Feb 10 13:17:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021049382640992590",
+        "text": "Epstein was paying people to hack websites and manipulate search results to bury negative coverage\n\n2010 emails with Al Seckel lay out the plan: \n\n\"The other stuff mysteriously disappears from searches... we will have alerts, so any time your name is posted in an article, blog, etc, and it is not approved, it gets removed\"\n\nSeckel asked Epstein for $20K to start and promised to \"hire and put together the people to do it\"\n\nA convicted sex offender running a reputation laundering operation with hackers on payroll. \n\nAnd it worked for almost a decade.",
+        "created_at": "Tue Feb 10 02:31:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021049221387100160",
+            "url": "https://pbs.twimg.com/media/HAw1jxJboAA5l3S.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2021048877051183239",
+          "text": "THE EPSTEIN FILES ARE FULL OF BIZARRE \"PIZZA\" REFERENCES THAT DON'T MAKE SENSE\n\nThe word \"pizza\" appears over 900 times in the Epstein files.\n\nSome of these emails between billionaires read like code.\n\n\"This is better than a Chinese cookie see attached. Let's go for pizza and grape soda again.\"\n\n\"The crew really appreciated the pizza.\"\n\nAnother describes pizza \"radiating a soft glow with the look of bliss and excitement.\"\n\nDoes that sound like normal conversation about actual food?\n\nThe DOJ admitted they withheld images depicting \"torture, death, and abuse\" from the release. \n\nThey narrowed 6 million files down to 3 million. \n\nVictim names were exposed while powerful men stayed redacted.\n\nWe're seeing exactly what they want us to see.\n\nI think everyone can agree that the real question is what they're still hiding.",
+          "created_at": "Tue Feb 10 02:29:36 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2021047608379097088",
+              "url": "https://video.twimg.com/amplify_video/2021047608379097088/vid/avc1/1080x1440/Uhdpfe7yRpN1nGxu.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+            "followers_count": 2993736,
+            "friends_count": 50342,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 121,
+            "favorite_count": 404,
+            "reply_count": 50,
+            "quote_count": 5
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 2993736,
+          "friends_count": 50342,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 466,
+          "favorite_count": 1404,
+          "reply_count": 91,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 466,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021211756874358929",
+      "text": "RT @CJHandmer: I've been a bit busy but cobbled together some notes on Lunar factories: https://t.co/5m6VKO6jmx",
+      "created_at": "Tue Feb 10 13:16:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021125936192897484",
+        "text": "I've been a bit busy but cobbled together some notes on Lunar factories: https://t.co/5m6VKO6jmx",
+        "created_at": "Tue Feb 10 07:35:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "613926689",
+          "name": "Casey Handmer",
+          "screen_name": "CJHandmer",
+          "description": "Physicist, Immigrant, Pilot, Dad.\nFormer Caltech, Hyperloop, NASA JPL.\nFounder @terraformindies. Hiring!",
+          "followers_count": 61260,
+          "friends_count": 4660,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 105,
+          "favorite_count": 644,
+          "reply_count": 45,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 105,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021211324152156423",
+      "text": "RT @MarioNawfal: Virginia Giuaffre's Family to Ghislaine Maxwell: 'You deserve to spend the rest of your life in a jail cell'\n\n\"Trapped in…",
+      "created_at": "Tue Feb 10 13:15:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020992448390918466",
+        "text": "Virginia Giuaffre's Family to Ghislaine Maxwell: 'You deserve to spend the rest of your life in a jail cell'\n\n\"Trapped in a cage forever just like you trapped your victims.\n\nYou were not a bystander, you were a central, deliberate actor in a system built to find children, isolate them, groom them, and deliver them to abuse.\"\n\nVirginia, one of the bravest voices against Epstein and his enablers, died by suicide last April after carrying unimaginable pain.\n\nHow many more survivors and families are still waiting for accountability?",
+        "created_at": "Mon Feb 09 22:45:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020990679007002624",
+            "url": "https://pbs.twimg.com/media/HAwAUJyWgAASIOh.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2020990704999129088",
+            "url": "https://pbs.twimg.com/media/HAwAVqnW4AAHseZ.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2020990724234440704",
+            "url": "https://pbs.twimg.com/media/HAwAWyRacAAjLTq.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2020987123839476131",
+          "text": "🇺🇸🇷🇺 Epstein Ordered Hidden Cameras Installed With 'Handy' Russian Help Across His Properties\n\nEpstein enlisted Russian contacts, deemed conveniently “handy,\" to install surveillance across properties, including one aimed at a bed, with CDs confirming systematic secret recordings.\n\nSource: @shellenberger",
+          "created_at": "Mon Feb 09 22:24:13 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020987008307560453",
+              "url": "https://pbs.twimg.com/media/HAv8-fXaAAUoVic.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+            "followers_count": 2993736,
+            "friends_count": 50342,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 256,
+            "favorite_count": 771,
+            "reply_count": 95,
+            "quote_count": 6
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 2993736,
+          "friends_count": 50342,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 893,
+          "favorite_count": 3191,
+          "reply_count": 162,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 893,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021210918894338172",
+      "text": "RT @StoneJAlex: Good morning. Yesterday I posted a few times about the corruption of Steve Bannon and his connection to Jeffrey Epstein.\n\nW…",
+      "created_at": "Tue Feb 10 13:13:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021175844840845482",
+        "text": "Good morning. Yesterday I posted a few times about the corruption of Steve Bannon and his connection to Jeffrey Epstein.\n\nWith those posts, I have garnered the attention of Grace Chong who is the COO of Steve Bannon’s War Room.\n\nInstead of addressing the seriousness of Bannon’s relationship with Jeffrey Epstein, it seems as if she is going the route of totally ignoring what Steve Bannon was doing with Jeffrey Epstein. Not only is she ignoring that, but she is totally deflecting and accusing Roger Stone, who I am very close with, of being a lobbyist for Somalia.\n\nGrace, why the deflection. Why are you ignoring the fact that your boss was such a close confidant of Jeffrey Epstein? It’s a really bad look.",
+        "created_at": "Tue Feb 10 10:54:07 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1238847424988315648",
+          "name": "Alex Stone",
+          "screen_name": "StoneJAlex",
+          "description": "Host of The Alex Stone Show | Follower of Jesus | Youth Pastor for His Glory | Christ Is King | Inquiries: askastone1@gmail.com",
+          "followers_count": 75960,
+          "friends_count": 11467,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 233,
+          "favorite_count": 1372,
+          "reply_count": 120,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 233,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021210761322717217",
+      "text": "RT @cb_doge: Imagine having to pay thousands just to read what was said in your own court case. That is the reality for many people in the…",
+      "created_at": "Tue Feb 10 13:12:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021210294790606870",
+        "text": "Imagine having to pay thousands just to read what was said in your own court case. That is the reality for many people in the UK. Justice should be transparent &amp; accessible, not a luxury for the wealthy.\n\nRemove the paywall to justice.\n\nSign this petition:\nhttps://t.co/cEz2UVMzdZ https://t.co/um3ybHVAg9",
+        "created_at": "Tue Feb 10 13:11:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021209781135130624",
+            "url": "https://video.twimg.com/amplify_video/2021209781135130624/vid/avc1/3840x2160/5pBzX9F5p4wboz8G.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1829893,
+          "friends_count": 900,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 391,
+          "favorite_count": 1735,
+          "reply_count": 246,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 391,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021210578094559469",
+      "text": "RT @GuntherEagleman: 🚨 BREAKING: THE HOUSE IS ABOUT TO VOTE TO PASS THE SAVE AMERICA ACT, AND SEND IT STRAIGHT TO THE SENATE \n\nRep. Brandon…",
+      "created_at": "Tue Feb 10 13:12:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021006857981067522",
+        "text": "🚨 BREAKING: THE HOUSE IS ABOUT TO VOTE TO PASS THE SAVE AMERICA ACT, AND SEND IT STRAIGHT TO THE SENATE \n\nRep. Brandon Gill just laid it down crystal clear:\n“I expect EVERY Republican in the House to vote YEA.”\n\nNO EXCUSES. ZERO.\nVoter ID + proof of citizenship is PURE COMMON SENSE.\n\nGill nailed it:\n\n“After four years of Joe Biden letting in 15 million-plus illegal aliens, this is more relevant than ever.\n\nWhat we want to say is simply that only if you are an American citizen should you be voting in American elections.\n\nA core part of national sovereignty is the ability to determine that only our people, only the people who have full allegiance to America and its institutions, should be voting.\n\nEvery time an illegal alien votes, it waters down or disenfranchises American citizens who should have sole representative power in this country.\n\nThis is something the vast majority of Americans agree with, and we’re going to get it passed!”",
+        "created_at": "Mon Feb 09 23:42:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021006801718640640",
+            "url": "https://video.twimg.com/amplify_video/2021006801718640640/vid/avc1/2282x1290/bLUDCdUvQ92qMlKm.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1355721251180961792",
+          "name": "Gunther Eagleman™",
+          "screen_name": "GuntherEagleman",
+          "description": "David J. Freeman - Political Commentator - America First - MAGA - Christian",
+          "followers_count": 1686413,
+          "friends_count": 102617,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5343,
+          "favorite_count": 21463,
+          "reply_count": 563,
+          "quote_count": 134
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5343,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021209969270407376",
+      "text": "RT @zatzi: Whilst everyone is watching Keir’s leadership implode, his government is destroying evidence.",
+      "created_at": "Tue Feb 10 13:09:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021170212771410201",
+        "text": "Whilst everyone is watching Keir’s leadership implode, his government is destroying evidence.",
+        "created_at": "Tue Feb 10 10:31:44 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020865330982072481",
+          "text": "A massive archive of court cases is about to be deleted. It's already very difficult to work out what's happening in our courts, its about to get even harder.\n\nWhy is the gov doing this? They say its for GDPR reasons.\n\nWhen asked what reasons... they won't give any! https://t.co/au9DLzVhkD",
+          "created_at": "Mon Feb 09 14:20:15 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020864329218973696",
+              "url": "https://pbs.twimg.com/media/HAuNZoJa4AAYu2m.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3365727029",
+            "name": "Dr Lawrence Newport",
+            "screen_name": "pursuitofprog",
+            "description": "Campaigner. Crush Crime. LFG. I care about our future, progress, history, and trying not to be cheems.",
+            "followers_count": 14168,
+            "friends_count": 1298,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 366,
+            "favorite_count": 1053,
+            "reply_count": 49,
+            "quote_count": 31
+          }
+        },
+        "user": {
+          "id": "39102609",
+          "name": "Annunziata Rees-Mogg",
+          "screen_name": "zatzi",
+          "description": "Former MEP for East Midlands, Head of Comms at Popular Conservatism, and TV/radio political commentator. All comments are my own.",
+          "followers_count": 69595,
+          "friends_count": 1612,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1408,
+          "favorite_count": 4127,
+          "reply_count": 179,
+          "quote_count": 27
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1408,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021209370437013784",
+      "text": "RT @ADFIntl: This is Isadora Borges, a veterinary student in Brazil. \n\nShe is facing up to 10 YEARS in prison. \n\nThe reason? \n\nShe stated o…",
+      "created_at": "Tue Feb 10 13:07:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020919160566579600",
+        "text": "This is Isadora Borges, a veterinary student in Brazil. \n\nShe is facing up to 10 YEARS in prison. \n\nThe reason? \n\nShe stated on social media that men cannot become women. \n\nCensorship in Brazil is spreading at an alarming rate. \n\nWe are supporting Isadora's case.\n\n🇧🇷 No one should fear prison time for peacefully expressing their beliefs.",
+        "created_at": "Mon Feb 09 17:54:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020914159529906176",
+            "url": "https://pbs.twimg.com/media/HAu6uIhWUAAhI-m.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3219783049",
+          "name": "ADF International",
+          "screen_name": "ADFIntl",
+          "description": "The world’s largest legal organization advancing the God-given right to live and speak the truth | Active in 100+ countries for fundamental freedoms",
+          "followers_count": 38120,
+          "friends_count": 1128,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3496,
+          "favorite_count": 13407,
+          "reply_count": 352,
+          "quote_count": 176
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3496,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021209310261346574",
+      "text": "RT @RestoreBritain_: Sign this petition. Share this petition.\n\nRemove the paywall to justice - make court transcripts free.\n\nhttps://t.co/k…",
+      "created_at": "Tue Feb 10 13:07:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021170483811529002",
+        "text": "Sign this petition. Share this petition.\n\nRemove the paywall to justice - make court transcripts free.\n\nhttps://t.co/kYLGC79PNr",
+        "created_at": "Tue Feb 10 10:32:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1930183861176090624",
+          "name": "Restore Britain",
+          "screen_name": "RestoreBritain_",
+          "description": "Let’s Restore Britain. Join our movement here:",
+          "followers_count": 156479,
+          "friends_count": 49,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 552,
+          "favorite_count": 1658,
+          "reply_count": 84,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 552,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021209085933162532",
+      "text": "RT @kylenabecker: This is all extremely bizarre for a “democracy.”",
+      "created_at": "Tue Feb 10 13:06:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021093914426433768",
+        "text": "This is all extremely bizarre for a “democracy.”",
+        "created_at": "Tue Feb 10 05:28:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020991284173758967",
+          "text": "BREAKING: A Panicked Fulton County Georgia &amp; Democrat Party Have Filed An Emergency Motion Asking A Federal Judge To STOP THE @FBI &amp; @TheJusticeDept FROM REVIEWING ANY BALLOTS OR ELECTION MATERIALS SEIZED FROM THE COUNTY UNDER A SEARCH WARRANT BACKED RAID! https://t.co/SbhkpViMrh",
+          "created_at": "Mon Feb 09 22:40:45 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020991281841725441",
+              "url": "https://pbs.twimg.com/media/HAwA3PhWYAEUcVk.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2020991282303115265",
+              "url": "https://pbs.twimg.com/media/HAwA3RPWoAEGEvN.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "65159946",
+            "name": "John Basham",
+            "screen_name": "JohnBasham",
+            "description": "Political Op/Ed & Podcaster @DallasExpress\nMeteorologist, AI, Data Scientist, @USArmy Ret, #IC, Fmr TX Elected Offcl.\nSeen @AmThoughtLeader\nHeard @SeanHannity",
+            "followers_count": 104087,
+            "friends_count": 4498,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1045,
+            "favorite_count": 2656,
+            "reply_count": 357,
+            "quote_count": 120
+          }
+        },
+        "user": {
+          "id": "321954654",
+          "name": "Kyle Becker",
+          "screen_name": "kylenabecker",
+          "description": "Author. Podcaster. Writer. Editor. Producer. Current: Explain America. Former: @FoxNews, IJReview. \"Hypernea: The Cursed Kingdom\" is coming soon to bookstores!",
+          "followers_count": 683398,
+          "friends_count": 3741,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1141,
+          "favorite_count": 3680,
+          "reply_count": 181,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1141,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021208843540365348",
+      "text": "RT @RupertLowe10: In Parliament, I just pushed the Government to release all evidence relating to British individuals of influence referred…",
+      "created_at": "Tue Feb 10 13:05:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020915622171816434",
+        "text": "In Parliament, I just pushed the Government to release all evidence relating to British individuals of influence referred to in the Epstein files.\n\nThey must all be exposed. https://t.co/M5cD6LOrzR",
+        "created_at": "Mon Feb 09 17:40:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020914970679238656",
+            "url": "https://video.twimg.com/amplify_video/2020914970679238656/vid/avc1/480x848/Vvgrj-3xQuWgCwlB.mp4?tag=21",
+            "bitrate": 950000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 521669,
+          "friends_count": 773,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3004,
+          "favorite_count": 13355,
+          "reply_count": 272,
+          "quote_count": 60
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3004,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021208548336664646",
+      "text": "Exactly",
+      "created_at": "Tue Feb 10 13:04:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020924721257382303",
+        "text": "Remember this: in order for someone to strip your rights/privacy they must have a suitable moral justification. The latest moral justification is child protection. The reason this works is because child protection is obviously important and necessary. Only a monster wouldn’t want children protected. So under this guise, this moral shield, they can strip freedoms from you, and push towards their actual objective which is complete and total surveillance and control over global dialogue and communication. The ability to dehuman, censor, and utterly eliminate anyone who dissents. Nowhere to run, nowhere to hide. Your voice silenced and snuffed to the wind. Total mastery of the game board.",
+        "created_at": "Mon Feb 09 18:16:15 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1297651178256257024",
+          "name": "Autism Capital 🧩",
+          "screen_name": "AutismCapital",
+          "description": "Citizen journalism with a humorous flair. Following Fintech, Crypto, AI, Longevity, Politics, Memes, and whatever the current thing is.",
+          "followers_count": 1054995,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 409,
+          "favorite_count": 1991,
+          "reply_count": 122,
+          "quote_count": 30
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 791,
+        "favorite_count": 5337,
+        "reply_count": 744,
+        "quote_count": 20
+      }
+    },
+    {
+      "id": "2021208253003129211",
+      "text": "RT @Rachelhalliwel5: I can give you a prime example of how every word that @RupertLowe10 said is true. \nMy daughter was groomed at 11 raped…",
+      "created_at": "Tue Feb 10 13:02:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020987653089337740",
+        "text": "I can give you a prime example of how every word that @RupertLowe10 said is true. \nMy daughter was groomed at 11 raped at 12 (his second victim)beaten and bullied online she took her own life at 12. He was never convicted.\n\nSouthport riots they arrested my 16 year old son who had never been in trouble he was told he was looking at  4 years in prison, if it hadn't been for @elonmusk sharing my post i am 100% they would have convicted him. \nMy eldest son responded to an attack on his younger brother by the perpetrators brother and mother who's son raped my daughter ( wasnt physical) my son went to prison. \nMAKE THAT MAKE SENSE!!!!!",
+        "created_at": "Mon Feb 09 22:26:19 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020733680407183419",
+          "text": "Rupert Lowe our next PM ! https://t.co/vwiecaiDR2",
+          "created_at": "Mon Feb 09 05:37:07 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2020733635511439360",
+              "url": "https://video.twimg.com/amplify_video/2020733635511439360/vid/avc1/1024x576/qYUD-O-t9hvo9WeU.mp4?tag=21",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1819400321137102848",
+            "name": "Alexandra",
+            "screen_name": "Alexandr4Denman",
+            "description": "Just a nana who wants a safe country and freedom to speak in it ! Member of the Restore Britain Movement ! And The Restore Britain  Community Group ! Space host",
+            "followers_count": 22962,
+            "friends_count": 7045,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 722,
+            "favorite_count": 4323,
+            "reply_count": 86,
+            "quote_count": 17
+          }
+        },
+        "user": {
+          "id": "718930589110419456",
+          "name": "Rachel Rebecca Halliwell",
+          "screen_name": "Rachelhalliwel5",
+          "description": "Founder and Trustee https://t.co/P9XSpd5muU",
+          "followers_count": 35456,
+          "friends_count": 1639,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2604,
+          "favorite_count": 9797,
+          "reply_count": 207,
+          "quote_count": 40
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2604,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021208134279115061",
+      "text": "RT @PWestoff: The Starmer regime cannot initiate a public inquiry into the \"grooming gangs\" until all evidence of political / judicial / po…",
+      "created_at": "Tue Feb 10 13:02:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021156518159171853",
+        "text": "The Starmer regime cannot initiate a public inquiry into the \"grooming gangs\" until all evidence of political / judicial / police / Councillors / MSM complicity in this terrible crime is deleted. It really is as simple as that.  We are looking at evil and tyranny in action.",
+        "created_at": "Tue Feb 10 09:37:19 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2021124982953128428",
+          "text": "🚨KEIR STARMER ISSUES FINAL APPROVAL ON COURT RECORDS BEING DESTROYED\n\nThis is one of the most obvious and blatant cover ups in history\n\nHe's ordering valuable court records be destroyed - including grooming gangs\n\nThis is unbelievable.\n\nHOW CAN THIS BE ALLOWED TO HAPPEN? https://t.co/KGFNcyHx4b",
+          "created_at": "Tue Feb 10 07:32:01 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2021124944004825088",
+              "url": "https://pbs.twimg.com/media/HAx6bZ4WwAAz7FL.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1722014154322575360",
+            "name": "Basil the Great",
+            "screen_name": "BasilTheGreat",
+            "description": "\"We shall not flag or fail, we shall go on till the end\"\n\nDM for submissions/credit/deletion",
+            "followers_count": 276099,
+            "friends_count": 5011,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 8545,
+            "favorite_count": 18813,
+            "reply_count": 1005,
+            "quote_count": 529
+          }
+        },
+        "user": {
+          "id": "1427686715964248069",
+          "name": "Paul Weston",
+          "screen_name": "PWestoff",
+          "description": "",
+          "followers_count": 57992,
+          "friends_count": 7854,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1520,
+          "favorite_count": 4139,
+          "reply_count": 201,
+          "quote_count": 53
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1520,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021207888648339783",
+      "text": "RT @firasmodad: This is absolutely mad. Why would you delete court records? At a time when you're abolishing trial by jury? This only makes…",
+      "created_at": "Tue Feb 10 13:01:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020807357886759000",
+        "text": "This is absolutely mad. Why would you delete court records? At a time when you're abolishing trial by jury? This only makes sense if the intent is to move to secret courts and gulags. There is no innocent explanation here.",
+        "created_at": "Mon Feb 09 10:29:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020762751727964628",
+          "text": "Govt orders deletion of court records widely used by journalist to monitor activity and decisions https://t.co/hYGvofH8DN https://t.co/RCvClhSUb1",
+          "created_at": "Mon Feb 09 07:32:38 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020762744803164160",
+              "url": "https://pbs.twimg.com/media/HAsxAotWAAAZH9-.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "221338206",
+            "name": "Paul Lewis",
+            "screen_name": "paullewismoney",
+            "description": "Financial journalist, broadcaster, and speaker. Seek the truth, find the truth, tell the truth. Unequivocally for free speech & press. Wilkie Collins expert too",
+            "followers_count": 158369,
+            "friends_count": 2063,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1529,
+            "favorite_count": 2668,
+            "reply_count": 285,
+            "quote_count": 283
+          }
+        },
+        "user": {
+          "id": "1600059128986173440",
+          "name": "Firas Modad",
+          "screen_name": "firasmodad",
+          "description": "Religion and politics. \n\nPresenter at Lotus Eaters.",
+          "followers_count": 19139,
+          "friends_count": 1721,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3050,
+          "favorite_count": 9492,
+          "reply_count": 253,
+          "quote_count": 78
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3050,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021207736281899342",
+      "text": "RT @jackunheard: INSANE: It's just been revealed that Democrat Sen. Jon Ossoff, who openly opposes voter ID and the SAVE Act, required atte…",
+      "created_at": "Tue Feb 10 13:00:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020947807788478973",
+        "text": "INSANE: It's just been revealed that Democrat Sen. Jon Ossoff, who openly opposes voter ID and the SAVE Act, required attendees to show ID to enter his event.\n\nCan't make this up. \n\nThis is all the proof you need that they simply want to steal elections\nhttps://t.co/W3VyvF6tj0",
+        "created_at": "Mon Feb 09 19:47:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020899464735838208",
+            "url": "https://video.twimg.com/amplify_video/2020899464735838208/vid/avc1/1920x1080/f-i1-id0w5t3Y_X3.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1731773353915039744",
+          "name": "Jack",
+          "screen_name": "jackunheard",
+          "description": "Producer | American | Founder @UnheardNewsX",
+          "followers_count": 175673,
+          "friends_count": 26760,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8487,
+          "favorite_count": 31559,
+          "reply_count": 496,
+          "quote_count": 269
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 8487,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021207300992794951",
+      "text": "Preserve the official court documents!",
+      "created_at": "Tue Feb 10 12:59:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021165873923305837",
+        "text": "If you've been following our rape gang inquiry and want to help, then please sign and share our petition with barrister @dshensmith.\n\nMake all court transcripts available, fully free of charge.\n\nThis is vital to uncover the horrors of the rape gangs.\n\nhttps://t.co/xaDrgSKpGc",
+        "created_at": "Tue Feb 10 10:14:30 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 521669,
+          "friends_count": 773,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2408,
+          "favorite_count": 6215,
+          "reply_count": 526,
+          "quote_count": 166
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1462,
+        "favorite_count": 8366,
+        "reply_count": 980,
+        "quote_count": 26
+      }
+    },
+    {
+      "id": "2021206919306936833",
+      "text": "RT @BasilTheGreat: 🚨CHRIS PHILP CHALLENGES KEIR STARMER OVER COURT RECORDS BEING DESTROYED\n\nLabour want to destroy millions of court record…",
+      "created_at": "Tue Feb 10 12:57:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021124598519972163",
+        "text": "🚨CHRIS PHILP CHALLENGES KEIR STARMER OVER COURT RECORDS BEING DESTROYED\n\nLabour want to destroy millions of court records including those linked to grooming gangs\n\nThe Tories have attempted to BLOCK THIS\n\nReform must HELP  and stop this blatant cover up! https://t.co/Uz96gsBsQv",
+        "created_at": "Tue Feb 10 07:30:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021124250711752707",
+            "url": "https://pbs.twimg.com/media/HAx5zDKaAAMBnih.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2021121931089432710",
+          "text": "🚨LABOUR ORDERS MAJOR GROOMING GANG COVERUP ‼️\n\nThe culture of secrecy within our institutions facilitated the gangs and covered up the crimes\n\nNow Labour have ordered the final step - DESTROY THE RECORDS\n\nHUGE DELETION OF COURT INFORMATION UNDERWAY\n\nUnified national searchable database - ERASED\nHistorical trend analysis capability - GONE\nAbility to detect systemic failures - DELETED\nEasy journalist access to magistrates’ court data - REMOVED\n\nIn the same week as Rupert Lowe's grooming gang inquiry the Government are attempting a major cover up\n\nThis must be stopped\n\n[@thetimes ]",
+          "created_at": "Tue Feb 10 07:19:53 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2021120669342105600",
+              "url": "https://pbs.twimg.com/media/HAx2ilhWAAA6cPn.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1722014154322575360",
+            "name": "Basil the Great",
+            "screen_name": "BasilTheGreat",
+            "description": "\"We shall not flag or fail, we shall go on till the end\"\n\nDM for submissions/credit/deletion",
+            "followers_count": 276099,
+            "friends_count": 5011,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2012,
+            "favorite_count": 4930,
+            "reply_count": 255,
+            "quote_count": 150
+          }
+        },
+        "user": {
+          "id": "1722014154322575360",
+          "name": "Basil the Great",
+          "screen_name": "BasilTheGreat",
+          "description": "\"We shall not flag or fail, we shall go on till the end\"\n\nDM for submissions/credit/deletion",
+          "followers_count": 276099,
+          "friends_count": 5011,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2481,
+          "favorite_count": 6766,
+          "reply_count": 200,
+          "quote_count": 83
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2481,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021206835446100158",
+      "text": "RT @toadmeister: The Ministry of Justice is ordering the deletion of a large archive of court records, raising concerns that the Government…",
+      "created_at": "Tue Feb 10 12:57:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020855350430224525",
+        "text": "The Ministry of Justice is ordering the deletion of a large archive of court records, raising concerns that the Government is fleeing from transparency amid a string of murders and sex attacks by asylum seekers. https://t.co/OlX8GguiZR",
+        "created_at": "Mon Feb 09 13:40:35 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "18809812",
+          "name": "Toby Young",
+          "screen_name": "toadmeister",
+          "description": "Director of FSU (https://t.co/eawHb6Hmso) Editor-in-Chief of Daily Sceptic (https://t.co/CLwYlyyrvR) Associate Editor of the Spectator. Conservative Peer.",
+          "followers_count": 343637,
+          "friends_count": 1430,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3225,
+          "favorite_count": 8291,
+          "reply_count": 359,
+          "quote_count": 152
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3225,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021204383850242350",
+      "text": "RT @amuse: UK: The Ministry of Justice has ordered the deletion of Pakistani rape gang court records maintained by Courtsdesk. Courtsdesk’s…",
+      "created_at": "Tue Feb 10 12:47:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021177914234896805",
+        "text": "UK: The Ministry of Justice has ordered the deletion of Pakistani rape gang court records maintained by Courtsdesk. Courtsdesk’s archive was used by journalists and researchers to monitor court listings and outcomes for Islamic migrant crimes - particularly the grooming gang crisis.",
+        "created_at": "Tue Feb 10 11:02:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021177910049337344",
+            "url": "https://pbs.twimg.com/media/HAyqmbxbcAAUuaN.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2020980084711227438",
+          "text": "It was transcripts detailing the horrific abuse of British children at the hands of predominantly Pakistani Muslim rape gangs, circulating on 𝕏, that sent people over the edge and pushing harder for the inquiry.\n\nNow, the same week that Rupert Lowe holds his private inquiry, Labour's Ministry of Justice has ordered data analysis company Courtsdesk to delete its large archive of court records.\n\nThey're now trying to mass destroy evidence of the details of crimes.\n\nWe can't let them!",
+          "created_at": "Mon Feb 09 21:56:14 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020980082198839296",
+              "url": "https://pbs.twimg.com/media/HAv2rVmaAAACbxj.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "374712154",
+            "name": "Tommy Robinson 🇬🇧",
+            "screen_name": "TRobinsonNewEra",
+            "description": "Journalist Support us: https://t.co/IBf12EjvdO My books: https://t.co/deh3pH9EEk for direct contact https://t.co/zOcM3ad9DX",
+            "followers_count": 1885316,
+            "friends_count": 12847,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 5938,
+            "favorite_count": 18924,
+            "reply_count": 446,
+            "quote_count": 174
+          }
+        },
+        "user": {
+          "id": "4239551",
+          "name": "@amuse",
+          "screen_name": "amuse",
+          "description": "Independent Publisher & Political Strategist. Subscriber Only DMs.",
+          "followers_count": 682339,
+          "friends_count": 594,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 497,
+          "favorite_count": 1516,
+          "reply_count": 151,
+          "quote_count": 32
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 497,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021204308600160552",
+      "text": "RT @RupertLowe10: I have tabled a parliamentary motion based on multiple witness statements we have heard at our inquiry on abused British…",
+      "created_at": "Tue Feb 10 12:47:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021193919657030093",
+        "text": "I have tabled a parliamentary motion based on multiple witness statements we have heard at our inquiry on abused British girls being trafficked to Pakistan and elsewhere by their rapists.\n\nI believe there are currently countless British women being used as sex slaves overseas.\n\nThis may sound insane. It is not. Look at these gangs. Nobody would have believed the extent of the evil before it was uncovered. This is very real.\n\nOur inquiry believes that this is the current reality for a terrifying number of women. \n\nAll MPs have been emailed asking for their support.\n\nThe Home Office must act, urgently.",
+        "created_at": "Tue Feb 10 12:05:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021192364836970496",
+            "url": "https://pbs.twimg.com/media/HAy3v0DW4AA-rGb.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 521669,
+          "friends_count": 773,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1314,
+          "favorite_count": 5067,
+          "reply_count": 197,
+          "quote_count": 42
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1314,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021204123497177577",
+      "text": "Horrific crimes",
+      "created_at": "Tue Feb 10 12:46:29 +0000 2026",
+      "lang": "es",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021124705701253196",
+        "text": "Britain needs to understand the sophisticated level of coordination between the rape gangs - it goes far deeper than anybody realises.\n\nA national crime network, of the most depraved kind.\n\nOur inquiry is finding evidence of advanced links between dozens and dozens of towns and cities.\n\nThis is not simply dispersed groups of savages.\n\nThis is coordinated, right across the country. The tactics are well rehearsed, and well drilled. They know EXACTLY what they are doing.\n\nNothing is off limits to these people - nothing.\n\nAnd there is ZERO appetite in Westminster or the media to even discuss it.\n\nThis is all so much worse than anybody knows.",
+        "created_at": "Tue Feb 10 07:30:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 521669,
+          "friends_count": 773,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4103,
+          "favorite_count": 15253,
+          "reply_count": 586,
+          "quote_count": 175
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2274,
+        "favorite_count": 15122,
+        "reply_count": 893,
+        "quote_count": 43
+      }
+    },
+    {
+      "id": "2021203913085714451",
+      "text": "RT @_RobbieMoore: The Home Secretary told me last week that all relevant bodies had been directed not to destroy critical records relating…",
+      "created_at": "Tue Feb 10 12:45:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020939842503442911",
+        "text": "The Home Secretary told me last week that all relevant bodies had been directed not to destroy critical records relating to grooming gangs \n\nWe now know this didn’t include the MOJ,  West Yorkshire Police, or Safeguarding authorities in Bradford… https://t.co/1493edz67c",
+        "created_at": "Mon Feb 09 19:16:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020924454381993984",
+            "url": "https://video.twimg.com/amplify_video/2020924454381993984/vid/avc1/1920x1080/d_FHRn2MZwZpz-e1.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2020879961498742814",
+          "text": "To know the truth about the grooming gangs, we must have access to court records, at every level.\n\nThe culture of secrecy in many of our institutions helped cover up these crimes in the first place. \n\nLabour must not be allowed to do this. The public deserves to know the truth. https://t.co/vtCpTkVRwc",
+          "created_at": "Mon Feb 09 15:18:23 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020879949637545984",
+              "url": "https://pbs.twimg.com/media/HAubm2va8AAfXss.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1692899297191165952",
+            "name": "Katie Lam",
+            "screen_name": "Katie_Lam_MP",
+            "description": "Conservative MP for Weald of Kent. Local work: see katieforkent on FB / Instagram. Promoted by me, Tenterden Business Centre, Ashford Road, Tenterden TN30 6SP",
+            "followers_count": 41616,
+            "friends_count": 244,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2989,
+            "favorite_count": 8668,
+            "reply_count": 304,
+            "quote_count": 134
+          }
+        },
+        "user": {
+          "id": "1158490894028460032",
+          "name": "Robbie Moore MP",
+          "screen_name": "_RobbieMoore",
+          "description": "MP for Keighley & Ilkley 🇬🇧 | Shadow Farming Minister | Working hard to level up & deliver positive change | Local people & local priorities first - always.",
+          "followers_count": 25536,
+          "friends_count": 627,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3151,
+          "favorite_count": 8501,
+          "reply_count": 256,
+          "quote_count": 135
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3151,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021203529973784765",
+      "text": "RT @DavidDavisMP: The Ministry of Justice’s order to delete crucial court record archives is a direct assault on the principle of open just…",
+      "created_at": "Tue Feb 10 12:44:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021173342410055905",
+        "text": "The Ministry of Justice’s order to delete crucial court record archives is a direct assault on the principle of open justice.\n\nI know from my own battles to access court transcripts how challenging this already is.\n\nWe cannot allow the Government to scrub the public record and hinder vital scrutiny of our legal system.\n\nMiscarriages of justice can take decades to resolve, deleting court reporting could endanger ongoing and future appeals. It is a disgrace.\n\nhttps://t.co/q9245THEEx",
+        "created_at": "Tue Feb 10 10:44:11 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2797521996",
+          "name": "David Davis MP",
+          "screen_name": "DavidDavisMP",
+          "description": "Conservative Member of Parliament for Goole and Pocklington",
+          "followers_count": 194627,
+          "friends_count": 63,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1750,
+          "favorite_count": 5231,
+          "reply_count": 300,
+          "quote_count": 79
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1749,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021203427263697340",
+      "text": "RT @TheBritishIntel: 🚨🇬🇧 MOJ ORDERS DELETION OF MAJOR COURT REPORTING ARCHIVE\n\nThe Ministry of Justice has ordered the deletion of a large…",
+      "created_at": "Tue Feb 10 12:43:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021140207060275335",
+        "text": "🚨🇬🇧 MOJ ORDERS DELETION OF MAJOR COURT REPORTING ARCHIVE\n\nThe Ministry of Justice has ordered the deletion of a large court reporting archive, a move that raises serious questions about open justice and public scrutiny.\n\nAt the exact moment the country is demanding answers on grooming gangs and institutional failure, the state is wiping a key tool used to track cases, patterns, and accountability.\n\n🔴 National searchable court database - erased\n🔴 Historical trend analysis - removed\n🔴 Ability to spot systemic failures - weakened\n🔴 Journalist access to magistrates’ court data - restricted\n\nIf ministers are serious about transparency, they don’t delete the paper trail.\n\nCredit: @thetimes",
+        "created_at": "Tue Feb 10 08:32:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021140204233621504",
+            "url": "https://pbs.twimg.com/media/HAyITqqbAAAj5xy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1861508941475127296",
+          "name": "British Intel",
+          "screen_name": "TheBritishIntel",
+          "description": "Intel-led coverage of news, politics, and public affairs | DM for submissions, credit, or removal",
+          "followers_count": 59723,
+          "friends_count": 2365,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 458,
+          "favorite_count": 1347,
+          "reply_count": 137,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 458,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021203305838616606",
+      "text": "RT @Rasmussen_Poll: But What Do Black Voters Think About Photo ID?\n\n63% say Photo ID opponents just want to make it easier to cheat in elec…",
+      "created_at": "Tue Feb 10 12:43:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020941644661666041",
+        "text": "But What Do Black Voters Think About Photo ID?\n\n63% say Photo ID opponents just want to make it easier to cheat in elections\n75% are concerned about preventing election cheating\n78% think Photo ID is a reasonable measure to protect the integrity of elections https://t.co/dc86f3D47W",
+        "created_at": "Mon Feb 09 19:23:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020940281172869120",
+            "url": "https://pbs.twimg.com/media/HAvSenOWQAAYnCU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "1858242141698560026",
+          "text": "75% Support Voter ID Laws - including 69% of black and 82% of other non-white voters.\n\n60% also say laws requiring photo ID at the polls don’t discriminate inc 43% of black and 57% of other non-white voters.\n\nNo ID is for cheating. And inflating the popular vote.\nhttps://t.co/tT1Mr7XSm2",
+          "created_at": "Sun Nov 17 20:13:45 +0000 2024",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "1858241799052992513",
+              "url": "https://pbs.twimg.com/media/GcnNEiNWIAEgSDF.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "19553409",
+            "name": "Rasmussen Reports",
+            "screen_name": "Rasmussen_Poll",
+            "description": "Since 2003, if it's in the news, it's in our polls.  Independent public opinion you can trust. Subscribe on X for reader access to our stories.",
+            "followers_count": 619233,
+            "friends_count": 860,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1708,
+            "favorite_count": 4598,
+            "reply_count": 86,
+            "quote_count": 84
+          }
+        },
+        "user": {
+          "id": "19553409",
+          "name": "Rasmussen Reports",
+          "screen_name": "Rasmussen_Poll",
+          "description": "Since 2003, if it's in the news, it's in our polls.  Independent public opinion you can trust. Subscribe on X for reader access to our stories.",
+          "followers_count": 619233,
+          "friends_count": 860,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 682,
+          "favorite_count": 2242,
+          "reply_count": 109,
+          "quote_count": 39
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 682,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021203162317848997",
+      "text": "RT @RupertLowe10: If you've been following our rape gang inquiry and want to help, then please sign and share our petition with barrister @…",
+      "created_at": "Tue Feb 10 12:42:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021165873923305837",
+        "text": "If you've been following our rape gang inquiry and want to help, then please sign and share our petition with barrister @dshensmith.\n\nMake all court transcripts available, fully free of charge.\n\nThis is vital to uncover the horrors of the rape gangs.\n\nhttps://t.co/xaDrgSKpGc",
+        "created_at": "Tue Feb 10 10:14:30 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 521669,
+          "friends_count": 773,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2408,
+          "favorite_count": 6215,
+          "reply_count": 526,
+          "quote_count": 166
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2408,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021203003164983556",
+      "text": "Preserve the court documents!",
+      "created_at": "Tue Feb 10 12:42:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021174463518146706",
+        "text": "We must obtain the full horror of the rape gangs from these court transcripts. The British people deserve to know the unredacted brutal truth - this petition will help.\n\nPlease sign/share. \n\nhttps://t.co/xaDrgSKpGc https://t.co/mGZ5ZYlH9x",
+        "created_at": "Tue Feb 10 10:48:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021173826818584576",
+            "url": "https://video.twimg.com/amplify_video/2021173826818584576/vid/avc1/1920x1080/2-UwLtx-bhDLBxZD.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 521669,
+          "friends_count": 773,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2989,
+          "favorite_count": 8933,
+          "reply_count": 382,
+          "quote_count": 160
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5050,
+        "favorite_count": 22584,
+        "reply_count": 885,
+        "quote_count": 62
+      }
+    },
+    {
+      "id": "2021202570346426637",
+      "text": "The actions of a tyrant",
+      "created_at": "Tue Feb 10 12:40:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020885594180563324",
+        "text": "Transparency is essential to rule of law.  Democracies should not order court records purged.  This is basic, and obvious.",
+        "created_at": "Mon Feb 09 15:40:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "12858902",
+          "name": "Under Secretary of State Sarah B. Rogers",
+          "screen_name": "UnderSecPD",
+          "description": "Official account of @StateDept’s Under Secretary for Public Diplomacy.",
+          "followers_count": 141205,
+          "friends_count": 501,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1559,
+          "favorite_count": 6075,
+          "reply_count": 230,
+          "quote_count": 69
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1490,
+        "favorite_count": 11615,
+        "reply_count": 770,
+        "quote_count": 25
+      }
+    },
+    {
+      "id": "2021202354100633641",
+      "text": "RT @NeilDotObrien: The grooming gangs scandal exploded once people were able to read the court reports.\nFor Labour there's only one obvious…",
+      "created_at": "Tue Feb 10 12:39:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020821945596498271",
+        "text": "The grooming gangs scandal exploded once people were able to read the court reports.\nFor Labour there's only one obvious response: make it harder to get court reports. https://t.co/COao4DWhGm",
+        "created_at": "Mon Feb 09 11:27:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020821887773741057",
+            "url": "https://pbs.twimg.com/media/HAtmzNcWkAEc1vZ.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "64679759",
+          "name": "Neil O'Brien",
+          "screen_name": "NeilDotObrien",
+          "description": "Conservative MP for Harborough, Oadby & Wigston. \n\nLocal news:\nhttps://t.co/Piu0iPMzMn\n\nBlog:\nhttps://t.co/eoYt58WNIB",
+          "followers_count": 40609,
+          "friends_count": 2289,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3539,
+          "favorite_count": 9731,
+          "reply_count": 282,
+          "quote_count": 175
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3539,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021201803770200223",
+      "text": "Preserve the archive of court transcripts",
+      "created_at": "Tue Feb 10 12:37:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020980084711227438",
+        "text": "It was transcripts detailing the horrific abuse of British children at the hands of predominantly Pakistani Muslim rape gangs, circulating on 𝕏, that sent people over the edge and pushing harder for the inquiry.\n\nNow, the same week that Rupert Lowe holds his private inquiry, Labour's Ministry of Justice has ordered data analysis company Courtsdesk to delete its large archive of court records.\n\nThey're now trying to mass destroy evidence of the details of crimes.\n\nWe can't let them!",
+        "created_at": "Mon Feb 09 21:56:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020980082198839296",
+            "url": "https://pbs.twimg.com/media/HAv2rVmaAAACbxj.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "374712154",
+          "name": "Tommy Robinson 🇬🇧",
+          "screen_name": "TRobinsonNewEra",
+          "description": "Journalist Support us: https://t.co/IBf12EjvdO My books: https://t.co/deh3pH9EEk for direct contact https://t.co/zOcM3ad9DX",
+          "followers_count": 1885316,
+          "friends_count": 12847,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5938,
+          "favorite_count": 18923,
+          "reply_count": 446,
+          "quote_count": 174
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3784,
+        "favorite_count": 19109,
+        "reply_count": 924,
+        "quote_count": 52
+      }
+    },
+    {
+      "id": "2021201192400093344",
+      "text": "RT @RupertLowe10: Today at the inquiry we're focusing on the NHS, who in my view have as many questions to answer as the police.\n\nYoung gir…",
+      "created_at": "Tue Feb 10 12:34:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020753651845795976",
+        "text": "Today at the inquiry we're focusing on the NHS, who in my view have as many questions to answer as the police.\n\nYoung girls presenting with sexually transmitted infections, miscarriages? Wounds from obvious beatings? Clear signs of rape? \n\nDid nobody senior enough in these hospitals think to seriously sound the alarm? When hundreds of young girls are coming in, beaten? \n\nIndividuals across senior management in certain NHS trusts knew EXACTLY what was going on, and did nothing. \n\nThey should go to prison.",
+        "created_at": "Mon Feb 09 06:56:29 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 521669,
+          "friends_count": 773,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5062,
+          "favorite_count": 22493,
+          "reply_count": 544,
+          "quote_count": 119
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5062,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021201066612883737",
+      "text": "The UK has become Orwell’s worst nightmare",
+      "created_at": "Tue Feb 10 12:34:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020851497437708297",
+        "text": "🇬🇧 The Ministry of Justice has ordered the deletion of the UK's largest court reporting archive.\n\nCourtsdesk, a platform launched to improve media access to magistrates' court data has been ordered to delete its archive of records by David Lammy's Ministry of Justice.\n\nAccording to Courtsdesk, the platform has since been used by more than 1,500 journalists from 39 media organisations and the data provided has highlighted serious failures in the courts system.\n\nIt said journalists were given no advance notice of 1.6 million criminal hearings, the number of court cases listed was accurate on just 4.2 per cent of sitting days and half a million weekend cases were heard with no notification to the press.\n\nIn November, HM Courts and Tribunal Service issued the company a cessation notice, citing what it called \"unauthorised sharing\" of court data, on the basis of a test feature, claiming this was a \"data protection issue.\"\n\nEnda Leahy, the Courtsdesk chief executive said: \"We built the only system that could tell journalists what was actually happening in the criminal courts.\n\nWe wrote 16 times asking for dialogue. Last week we got our answer: delete everything. If the government were interested in open justice, they would engage in a dialogue.\"\n\nFollow: @europa",
+        "created_at": "Mon Feb 09 13:25:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020842906680963072",
+            "url": "https://pbs.twimg.com/media/HAt56q-WMAAbomP.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2020842906819686400",
+            "url": "https://pbs.twimg.com/media/HAt56rfa8AANCke.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1023255439021096960",
+          "name": "Europa.com",
+          "screen_name": "europa",
+          "description": "Independent news aggregator focused on Western politics, culture & identity. We are the Drudge Report for Nationalists.",
+          "followers_count": 30936,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3499,
+          "favorite_count": 10134,
+          "reply_count": 768,
+          "quote_count": 516
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234331483,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 8302,
+        "favorite_count": 46512,
+        "reply_count": 2138,
+        "quote_count": 224
+      }
+    },
     {
       "id": "2021143097040847127",
       "text": "RT @HarrietSergeant: I read court transcripts of the Oxford rape gang trial. The details of the torture of one thirteen-year-old girl have…",
