@@ -1,12 +1,605 @@
 {
   "date": "20260210",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-10T06:27:10.150899",
-  "tweet_count": 208,
-  "unique_tweet_count": 208,
-  "total_crawled": 407,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-02-10T08:16:46.584143",
+  "tweet_count": 219,
+  "unique_tweet_count": 219,
+  "total_crawled": 408,
+  "duplicates_removed": 189,
   "tweets": [
+    {
+      "id": "2021134504145109300",
+      "text": "Yes",
+      "created_at": "Tue Feb 10 08:09:51 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021086727033528422",
+        "text": "Elon: 'The Limiting Factor is Chips Now, Power in a Year'\n\n\"It's not clear to me that there's enough usable electricity to turn on all the AI chips that are being made.\n\nTowards the end of this year, the chip output will exceed the ability to turn chips on.\n\nWhichever company can scale hardware the fastest will be the leader and XAI will be able to scale hardware the fastest.\"\n\nSource: Cheeky Pint Podcast",
+        "created_at": "Tue Feb 10 05:00:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021049044412309504",
+            "url": "https://video.twimg.com/amplify_video/2021049044412309504/vid/avc1/848x480/vEo_8vVCn7f-lx0m.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 2991833,
+          "friends_count": 50344,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 24,
+          "favorite_count": 198,
+          "reply_count": 45,
+          "quote_count": 5
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234312882,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 104,
+        "favorite_count": 606,
+        "reply_count": 303,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2021134194366349563",
+      "text": "RT @FischerKing64: In 1861, to prevent border states from seceding, Lincoln occupied them with troops. He arrested the mayor of Baltimore a…",
+      "created_at": "Tue Feb 10 08:08:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021112100241002753",
+        "text": "In 1861, to prevent border states from seceding, Lincoln occupied them with troops. He arrested the mayor of Baltimore and secessionist legislators in Maryland. SCOTUS said he exceeded his powers.\n\nLincoln ignored SCOTUS.",
+        "created_at": "Tue Feb 10 06:40:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016908862136332288",
+          "name": "FischerKing",
+          "screen_name": "FischerKing64",
+          "description": "Shall I at least set my lands in order...",
+          "followers_count": 254873,
+          "friends_count": 500,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 119,
+          "favorite_count": 726,
+          "reply_count": 82,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234312882,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 119,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021129970370892089",
+      "text": "RT @Grummz: Asmongold says we need to be even more aggressively hostile against woke, because they will do it to you (and have).\n\nI often s…",
+      "created_at": "Tue Feb 10 07:51:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021063290072568139",
+        "text": "Asmongold says we need to be even more aggressively hostile against woke, because they will do it to you (and have).\n\nI often say that the biggest tactical error is to not believe you are in a war, when the other side is eagerly warring against you.\n\nhttps://t.co/kt2KqVtRBy",
+        "created_at": "Tue Feb 10 03:26:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020965192105066503",
+            "url": "https://video.twimg.com/amplify_video/2020965192105066503/vid/avc1/1280x718/_3HkDGG5xC0m_TRG.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16906660",
+          "name": "Grummz",
+          "screen_name": "Grummz",
+          "description": "Mark Kern. Firefall, Em-8ER, OG WoW Team Lead. Diablo 2 Producer, Starcraft. Tinkerer",
+          "followers_count": 297050,
+          "friends_count": 4275,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 370,
+          "favorite_count": 4640,
+          "reply_count": 243,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234312882,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 370,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021129857472790834",
+      "text": "RT @BillboardChris: It’s unbelievable what has happened to Britain. \n\nJust a few generations ago they were the greatest empire in the histo…",
+      "created_at": "Tue Feb 10 07:51:23 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021100179374604374",
+        "text": "It’s unbelievable what has happened to Britain. \n\nJust a few generations ago they were the greatest empire in the history of the world.\n\nNow their girls are being taken to Pakistan as sex slaves.",
+        "created_at": "Tue Feb 10 05:53:27 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020808050982986141",
+          "text": "More evidence of trafficking attempts by rapists to take these abused girls back to Pakistan.\n\nThis one failed. We need to know how many didn't fail.\n\nHow many British girls are trapped, as sex slaves, in Pakistan? \n\nIt sounds ludicrous. Trust me - it is VERY real.",
+          "created_at": "Mon Feb 09 10:32:38 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1121375429884039175",
+            "name": "Rupert Lowe MP",
+            "screen_name": "RupertLowe10",
+            "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+            "followers_count": 520787,
+            "friends_count": 773,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 4303,
+            "favorite_count": 18875,
+            "reply_count": 323,
+            "quote_count": 106
+          }
+        },
+        "user": {
+          "id": "191167764",
+          "name": "Billboard Chris 🌎",
+          "screen_name": "BillboardChris",
+          "description": "Traveling the world to stop child transition, one conversation at a time. https://t.co/mnvUyaYjTL https://t.co/DN4D6NANIM",
+          "followers_count": 517665,
+          "friends_count": 977,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 416,
+          "favorite_count": 2061,
+          "reply_count": 118,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234312882,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 416,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021129400490786923",
+      "text": "This video was live-streamed from Antarctica using @Starlink",
+      "created_at": "Tue Feb 10 07:49:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021074504101855325",
+        "text": "Because of Starlink, the first person has live streamed the legendary \"ice wall\" in Antarctica.\n\n@Starlink is a game changer for the streaming industry. \n\nWe can now see places like never before.\n\nAmazing. \nhttps://t.co/unPjfeGVYX",
+        "created_at": "Tue Feb 10 04:11:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020740688166735872",
+            "url": "https://video.twimg.com/amplify_video/2020740688166735872/vid/avc1/1280x720/k201SuYbB5CGEprL.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 2991833,
+          "friends_count": 50344,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1085,
+          "favorite_count": 10297,
+          "reply_count": 435,
+          "quote_count": 49
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234312882,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 374,
+        "favorite_count": 2152,
+        "reply_count": 736,
+        "quote_count": 35
+      }
+    },
+    {
+      "id": "2021128980338708758",
+      "text": "RT @Handrev: In 1920, Mises dropped an intellectual atom bomb on socialism with a simple question: \"How do you know what anything costs wit…",
+      "created_at": "Tue Feb 10 07:47:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021053720222433720",
+        "text": "In 1920, Mises dropped an intellectual atom bomb on socialism with a simple question: \"How do you know what anything costs without market prices?\" \n\nWhile Soviet planners were drowning in millions of arbitrary calculations, trying to set prices for everything from bread to bulldozers by committee, Mises had already proven it impossible. As Rothbard later quipped: \"Socialist calculation is like trying to play chess blindfolded while your opponent keeps moving the board.\"\n\nToday's central bankers face the same delusion, believing they can calculate the \"correct\" interest rate for an entire economy. The result? The same chaos Soviet planners created, just with better marketing.",
+        "created_at": "Tue Feb 10 02:48:50 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1194218823408373762",
+          "name": "Handre van Heerden",
+          "screen_name": "Handrev",
+          "description": "Austrian Economic enthusiast, lover of meat, coin, and memes. Hater of fiat currency and government overreach. Here to have fun and bash socialist scum.",
+          "followers_count": 8308,
+          "friends_count": 6180,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 208,
+          "favorite_count": 1091,
+          "reply_count": 105,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234312882,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 208,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021128827825713434",
+      "text": "RT @Inevitablewest: 🚨BREAKING: TWO of Keir Starmer's inner circle government officials, Morgan McSweeney and Tim Allan, have now RESIGNED i…",
+      "created_at": "Tue Feb 10 07:47:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020851048772968581",
+        "text": "🚨BREAKING: TWO of Keir Starmer's inner circle government officials, Morgan McSweeney and Tim Allan, have now RESIGNED in the last 24 hours\n\nIt's OVER for him. The Epstein files are going to take the communist down… https://t.co/sAaO1Fxsjb",
+        "created_at": "Mon Feb 09 13:23:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020851039424139264",
+            "url": "https://pbs.twimg.com/media/HAuBUDza0AAPB5j.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1849500209488752640",
+          "name": "Inevitable West",
+          "screen_name": "Inevitablewest",
+          "description": "Defender of Western values and culture. Jesus Christ is king. Anglo. Covering the West. ✝️",
+          "followers_count": 355863,
+          "friends_count": 1311,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3346,
+          "favorite_count": 16320,
+          "reply_count": 249,
+          "quote_count": 69
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234312882,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3346,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021127119343169971",
+      "text": "RT @BasilTheGreat: An 11 year old was raped in a park.\nThe Police arrested HER for being drunk and disorderly.\nThey left the men.\n\nA 12 yea…",
+      "created_at": "Tue Feb 10 07:40:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020906487044845930",
+        "text": "An 11 year old was raped in a park.\nThe Police arrested HER for being drunk and disorderly.\nThey left the men.\n\nA 12 year old was being raped and her dad went to save her from the flat\nThe Police Arrested the DAD\nThey left the men.\n\nAwful\nhttps://t.co/f70hkuRZqR",
+        "created_at": "Mon Feb 09 17:03:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1826225246367604736",
+            "url": "https://video.twimg.com/ext_tw_video/1826225246367604736/pu/vid/avc1/1080x1080/xfo_4TwXyWYtEXBp.mp4?tag=14",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1722014154322575360",
+          "name": "Basil the Great",
+          "screen_name": "BasilTheGreat",
+          "description": "\"We shall not flag or fail, we shall go on till the end\"\n\nDM for submissions/credit/deletion",
+          "followers_count": 275861,
+          "friends_count": 5011,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6752,
+          "favorite_count": 22983,
+          "reply_count": 634,
+          "quote_count": 286
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234312882,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6752,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021125679438532610",
+      "text": "RT @MeinGottNiles: Grok\nImagine... https://t.co/iAituLxTtQ",
+      "created_at": "Tue Feb 10 07:34:47 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2019960942730309636",
+          "url": "https://video.twimg.com/amplify_video/2019960942730309636/vid/avc1/1280x720/AZfGED54mcz0yCjg.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2019961244401492459",
+        "text": "Grok\nImagine... https://t.co/iAituLxTtQ",
+        "created_at": "Sat Feb 07 02:27:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2019960942730309636",
+            "url": "https://video.twimg.com/amplify_video/2019960942730309636/vid/avc1/1280x720/AZfGED54mcz0yCjg.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2019269738728468765",
+          "text": "You thought the fun was over? 🏈\n\nThis weekend, video takes center stage on the timeline.\n\nWe’re awarding $1M, $500K, and $250K to the top three videos about @grok, created with Imagine 1.0. https://t.co/erwSiywBPs",
+          "created_at": "Thu Feb 05 04:39:56 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2019268584867000323",
+              "url": "https://video.twimg.com/amplify_video/2019268584867000323/vid/avc1/1080x1080/RfZcWrVHYS0wqXc1.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3282859598",
+            "name": "Creators",
+            "screen_name": "XCreators",
+            "description": "X is for creators.",
+            "followers_count": 10920490,
+            "friends_count": 41,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2622,
+            "favorite_count": 12701,
+            "reply_count": 5948,
+            "quote_count": 3759
+          }
+        },
+        "user": {
+          "id": "1591319198478700544",
+          "name": "Frasier Payne",
+          "screen_name": "MeinGottNiles",
+          "description": "A liberal from 7000 years ago",
+          "followers_count": 59064,
+          "friends_count": 1001,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2862,
+          "favorite_count": 24130,
+          "reply_count": 929,
+          "quote_count": 563
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234312882,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2862,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021118919554236510",
+      "text": "Pass voter ID!",
+      "created_at": "Tue Feb 10 07:07:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021031413521477745",
+        "text": "Democracy is when 84 percent of the people want something and the party that controls the government refuses to do it",
+        "created_at": "Tue Feb 10 01:20:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1145702015374438401",
+          "name": "Kevin DeAnna",
+          "screen_name": "VDAREJamesK",
+          "description": "AJAB.\n\nHost of \"Identity Politics\" from American Renaissance, available on Rumble and Odysee.",
+          "followers_count": 143424,
+          "friends_count": 6347,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1021,
+          "favorite_count": 9931,
+          "reply_count": 148,
+          "quote_count": 37
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234312882,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1099,
+        "favorite_count": 9049,
+        "reply_count": 1664,
+        "quote_count": 79
+      }
+    },
     {
       "id": "2021102914450673721",
       "text": "https://t.co/QvNkWdwdRg",
@@ -9486,6 +10079,55 @@
         "retweet_count": 1,
         "favorite_count": 18,
         "reply_count": 4,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2020026392075989124",
+      "text": "我前后端都做，后端并不会有什么护城河\nhttps://t.co/B2TwEqFKk9",
+      "created_at": "Sat Feb 07 06:46:36 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2020016564024770575",
+        "text": "@dotey 宝玉老师是前端吧。后端或者服务型是要跑很多年的，不是什么月抛年抛的，这么玩会死人的",
+        "created_at": "Sat Feb 07 06:07:33 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20571629",
+          "name": "Bhe hontyu",
+          "screen_name": "hitsmaxft",
+          "description": "Programer，jvm based serverless and llm stack",
+          "followers_count": 309,
+          "friends_count": 608,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178175,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 37,
+        "reply_count": 13,
         "quote_count": 2
       }
     },
