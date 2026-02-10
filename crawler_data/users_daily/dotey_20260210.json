@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 178175,
+    "followers_count": 178233,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260210",
-  "last_updated": "2026-02-10T08:16:46.634130",
-  "tweet_count": 3,
+  "last_updated": "2026-02-10T10:21:38.432368",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2021030831838683279",
@@ -93,6 +93,69 @@
         "retweet_count": 2,
         "favorite_count": 19,
         "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021139933549715573",
+      "text": "RT @WindFrostx: 深度认同。\n想顺着这个话题再延伸一步：不只是软件工程，\"工程思维\"本身在AI时代的价值正在被急剧放大。\n\n去年我见过一位给世界500强做AI培训的老师。她给不同行业的客户设计提示词，效果都非常好。…",
+      "created_at": "Tue Feb 10 08:31:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2021137389507273028",
+        "text": "深度认同。\n想顺着这个话题再延伸一步：不只是软件工程，\"工程思维\"本身在AI时代的价值正在被急剧放大。\n\n去年我见过一位给世界500强做AI培训的老师。她给不同行业的客户设计提示词，效果都非常好。\n当时我以为她牛仔「懂商业+懂AI」——知道该问客户什么问题、搜集什么信息、怎么写成稳定好用的系统提示词；\n但现在回头看，他真正厉害的地方是：能把这些散乱的信息整合成一套结构化的系统，让AI稳定输出高质量结果。前者是商业敏感度，后者就是工程思维。\n\n我甚至越来越相信：一个有工程思维的人就算用国产AI，效果大概率好过一个没有工程思维的人用最强大模型。因为后者是在许愿，前者是在建稳定可靠的系统。\n\nAI模型决定了你的下限，但工程思维决定了你的上限。",
+        "created_at": "Tue Feb 10 08:21:19 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020655233697780045",
+          "text": "> 不出三年,软件工程专业,大概就是新的五笔打字培训班。\n\n说这种话的人，大概率不真正理解“软件工程”这四个字里，“工程”两个字的含量。\n\n工程是把一件模糊的、不确定的事情，通过有计划、有步骤的方法，靠谱地做成。\n\n软件工程就是把这套思路用在软件开发上，需求怎么理清、架构怎么设计、质量怎么保证、团队怎么协作、项目怎么推进，这是一整套系统性的能力。\n\nAI 现在确实强，但它强在软件生命周期里的编码环节（还有很大进步空间），或者说某几个具体阶段。但编码只是软件工程的一个环节，AI 并不能主导整个生命周期，从需求分析、系统设计、技术决策、团队管理到长期维护，这些事情远不是写代码快就能解决的。至少在相当长的时间内都不行。\n\n把软件工程类比成五笔打字，这是把“编程”和“软件工程”搞混了。\n\n这就好比说有了 3D 打印，建筑学专业就是新的砌墙培训班。能快速盖出一面墙，和设计一栋安全、合理、可维护的建筑，完全是两回事。",
+          "created_at": "Mon Feb 09 00:25:24 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3178231",
+            "name": "宝玉",
+            "screen_name": "dotey",
+            "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+            "followers_count": 178233,
+            "friends_count": 1550,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 66,
+            "favorite_count": 666,
+            "reply_count": 127,
+            "quote_count": 31
+          }
+        },
+        "user": {
+          "id": "1726229423060574209",
+          "name": "英杰",
+          "screen_name": "WindFrostx",
+          "description": "04年AI创业者\n持续分享：AI 如何应用于业务；流量和发售怎么做；从碎片化走向系统化\n💻 building my career｜ follow me to learn & use AI",
+          "followers_count": 46,
+          "friends_count": 173,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 20,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 0,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
