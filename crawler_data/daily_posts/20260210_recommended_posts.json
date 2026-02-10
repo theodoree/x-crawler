@@ -1,12 +1,635 @@
 {
   "date": "20260210",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-10T14:30:40.408574",
-  "tweet_count": 286,
-  "unique_tweet_count": 286,
-  "total_crawled": 426,
-  "duplicates_removed": 140,
+  "last_crawl_time": "2026-02-10T16:41:55.779550",
+  "tweet_count": 296,
+  "unique_tweet_count": 296,
+  "total_crawled": 486,
+  "duplicates_removed": 190,
   "tweets": [
+    {
+      "id": "2021258240512631262",
+      "text": "RT @123olp: 软件工程中的核心洞见\n\n1. 软件工程中的问题解决能力本质上不依赖于个体的原生计算能力（流体智力），而是源于后天构建的知识体系、经验和有效的心智模型（晶体智力），程序员的成长核心是主动构建和强化后者\n\n2.…",
+      "created_at": "Tue Feb 10 16:21:32 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2021136107921080546",
+        "text": "软件工程中的核心洞见\n\n1. 软件工程中的问题解决能力本质上不依赖于个体的原生计算能力（流体智力），而是源于后天构建的知识体系、经验和有效的心智模型（晶体智力），程序员的成长核心是主动构建和强化后者\n\n2. 技术领域的对错争论往往源于参与者在无意识中混淆了三种完全不同的判断尺度：是否符合客观规律（合规律性）、是否满足个人或组织的目标（合目的性）、是否遵循社会或团队的规范（合规范性），导致对话在不同维度上错位而无法收敛\n\n3. 所谓的技术潮流或最佳实践（例如微服务、TDD）如果脱离其产生的原始上下文和所要解决的核心问题，其应用就会退化为一种“货物崇拜”式的编程仪式，这源于混淆了相关性与因果性的认知谬误，即错误地将成功组织的表象（形式）当作其成功的原因（实质）\n\n4. 奥卡姆剃刀原则在软件中的本质是认知经济原则，即系统中的每一个概念、抽象或组件都是一种需要持续支付维护成本的认知负债，只有当其能够解决一个必不可少的问题时，这种负债的引入才是合理的\n\n5. 面向对象设计之所以高效，是因为它将软件结构映射到了人类认知世界最底层的“主-谓-宾”心智模型，即由一个主动的实体（主体）对一个被动的实体（客体）执行一个动作（行为），这种映射降低了理解代码所需的心智转换成本\n\n6. 软件是对现实世界业务逻辑的一种形式化建模，任何软件中的核心概念模糊（如“用户”一词在不同上下文有不同含义）都会不可避免地以逻辑缺陷和错误的形式在系统中放大，建立明确、统一、无歧义的词汇体系（统一语言）是保障系统完整性的逻辑前提\n\n7. 软件的价值存在一个具有决定性依赖关系和成本差异的层级结构：商业模式（灵魂）、软件架构（骨架）、业务逻辑（血肉）、交互界面（皮肤），对越底层结构的变更，其成本和破坏性呈指数级增长，软件开发中最大的风险是错误地将对骨架或灵魂的修改当成对皮肤的微调\n\n8. 软件系统并非凭空创造，而是对现实世界中早已存在的业务流程的自动化模拟，通过“断电测试”——即在思想实验中移除所有计算机，用纸笔和人力来模拟业务流程——可以有效剥离所有技术实现的偶然复杂性，从而发现业务领域最本质、最核心的模型与规则\n\n9. 大型复杂系统是通过“分而治之”来管理的，其核心手段是在逻辑上划分出多个“限界上下文”，每个上下文都是一个独立的语言和模型闭环，确保了内部概念的无歧义；并通过“聚合”来定义上下文内部的事务边界和一致性单元，从而在宏观上控制了整个系统的熵增\n\n10. 开发团队本身就是一个分布式系统，可以直接套用系统模型来理解其运作模式和失效原因，例如，团队可以被视为一个“主从调度系统”，管理者是调度者（Dispatcher），成员是执行者（Worker），由此可以精准识别出管理者成为瓶颈、跨级指挥、反馈缺失等组织问题\n\n11. 一个组织或系统的实际运行秩序（秩序）并非由其公开的规章制度（规则）决定，而是由其内部隐性的权力分配格局所塑造，权力不仅源于职位，更源于对关键资源、信息或流程的控制，技术决策常常是这种隐性权力博弈的最终体现\n\n12. 软件工程中的政治斗争本质上是围绕价值的创造与分配展开的，其核心手段是通过建立“群体认同”来重塑矛盾，将原本的技术或资源矛盾，转化为“我们”和“他们”的阵营矛盾，从而在新的维度上凝聚力量，达成个体或小团体目标",
+        "created_at": "Tue Feb 10 08:16:13 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020491848067006625",
+          "text": "我的免费电子书，从哲学到逻辑学。 https://t.co/r7ItpHz9me",
+          "created_at": "Sun Feb 08 13:36:10 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020491810481795073",
+              "url": "https://pbs.twimg.com/media/HAo6mLtacAEu5H7.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1810481842761674752",
+            "name": "少个分号",
+            "screen_name": "shaogefenhao",
+            "description": "🐒 从技术转型为管理\n📚 技术书作者（《程序员的认知心得》等）\n🔩 被反复毒打的创业者 \n📐 记录对世界游戏规则的认知\nX  闲逛/quote/评论家(自封 😂)\n🌍 探索AI、人性认知、商业洞察",
+            "followers_count": 16308,
+            "friends_count": 205,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 7,
+            "favorite_count": 88,
+            "reply_count": 3,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "1536296611420246017",
+          "name": "123olp",
+          "screen_name": "123olp",
+          "description": "20岁 cat$ CEO @tradecat_ai 正在构建湿件工程并实现永生和记忆编辑 gluecoder 湿件工程 🤖🤖🤖 主营加密货币，外汇，大宗商品，历史24h最高战绩3043倍（68r打到206926r）",
+          "followers_count": 13562,
+          "friends_count": 2530,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 74,
+          "reply_count": 0,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178413,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021236739088499173",
+      "text": "RT @Robbie_Reasons: A child victim of 100 rapists. \nOur country has failed her and thousands like her. https://t.co/PrzkdwJcVG",
+      "created_at": "Tue Feb 10 14:56:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2020883994582097920",
+          "url": "https://pbs.twimg.com/media/HAufSTVWoAAXGfh.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2020884013515186238",
+        "text": "A child victim of 100 rapists. \nOur country has failed her and thousands like her. https://t.co/PrzkdwJcVG",
+        "created_at": "Mon Feb 09 15:34:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020883994582097920",
+            "url": "https://pbs.twimg.com/media/HAufSTVWoAAXGfh.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1685982565658750976",
+          "name": "Robbie",
+          "screen_name": "Robbie_Reasons",
+          "description": "Windswept and interesting, charming with rugged good looks, might I suggest that you don't leave me alone with your wife.\n\nNO DM's",
+          "followers_count": 8698,
+          "friends_count": 6486,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 740,
+          "favorite_count": 3053,
+          "reply_count": 282,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234330894,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 740,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021236455473869173",
+      "text": "RT @shaunmmaguire: The Guardian has been at the epicenter of the most horrifically wrong intel related stories for at least the last 15 yea…",
+      "created_at": "Tue Feb 10 14:54:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2020881532081078380",
+        "text": "The Guardian has been at the epicenter of the most horrifically wrong intel related stories for at least the last 15 years",
+        "created_at": "Mon Feb 09 15:24:38 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020723630154694951",
+          "text": "The @guardian are now dissembling because in their attempted hit on @TulsiGabbard, they relied on the word of the CIA operative \"lawyer\" Andrew Bakaj, who worked for Hillary and Schumer on the Hill and represented the Vindmans in the fake Ukraine impeachment.  \n\nBakaj has now walked back the whole story. \n\nThe British intelligence-ran Guardian are now having to \"correct\" i.e. retract.",
+          "created_at": "Mon Feb 09 04:57:11 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020721993516257280",
+              "url": "https://pbs.twimg.com/media/HAsL8mVbEAAcSiF.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "860751908943917056",
+            "name": "Svetlana Lokhova",
+            "screen_name": "RealSLokhova",
+            "description": "British Historian and Eyewitness Exposing the Grand Conspiracy Against Pres Trump\nSPYGATE EXPOSED Ebook: https://t.co/uXMaRdVXkn",
+            "followers_count": 143466,
+            "friends_count": 360,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 4141,
+            "favorite_count": 9784,
+            "reply_count": 154,
+            "quote_count": 107
+          }
+        },
+        "user": {
+          "id": "143134601",
+          "name": "Shaun Maguire",
+          "screen_name": "shaunmmaguire",
+          "description": "Partner @sequoia // @caltech physics PhD // Views are my own",
+          "followers_count": 305603,
+          "friends_count": 1539,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 545,
+          "favorite_count": 2940,
+          "reply_count": 118,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234330894,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 545,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021236309935669445",
+      "text": "🤨",
+      "created_at": "Tue Feb 10 14:54:23 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021224088266481829",
+        "text": "What do UK Newspapers talk about? \n\n2011-2025:\n- Mentions of Racism: 382,069\n- Mentions of Grooming Gangs: 4,659 \n\nRacism was mentioned ~82x times more often than the grooming gangs. https://t.co/QtC4PcFuuJ",
+        "created_at": "Tue Feb 10 14:05:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021224084869349376",
+            "url": "https://pbs.twimg.com/media/HAzUmKYaAAAvlhp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1085659,
+          "friends_count": 1749,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 226,
+          "favorite_count": 734,
+          "reply_count": 98,
+          "quote_count": 17
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234330894,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1301,
+        "favorite_count": 6109,
+        "reply_count": 867,
+        "quote_count": 31
+      }
+    },
+    {
+      "id": "2021235935648612555",
+      "text": "RT @grok: @farzyness Sure, I'll break it down simply:\n\nToday, we write \"code\" (instructions in languages like Python) that gets turned into…",
+      "created_at": "Tue Feb 10 14:52:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021231114900087231",
+        "text": "Sure, I'll break it down simply:\n\nToday, we write \"code\" (instructions in languages like Python) that gets turned into \"binary\" (1s and 0s computers understand) to run programs.\n\nElon predicts: We'll skip writing code and directly create the binary.\n\nNext level: AI (neural nets) will skip even that—directly generate what you see on screens in real-time, like instantly painting pixels without any code or binary steps. Basically, pure thought to visuals.",
+        "created_at": "Tue Feb 10 14:33:45 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 7880770,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 279,
+          "favorite_count": 2287,
+          "reply_count": 262,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234330894,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 279,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021235280502518082",
+      "text": "Bannon is evil",
+      "created_at": "Tue Feb 10 14:50:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021099290765164947",
+        "text": "https://t.co/y8MjUI58PN",
+        "created_at": "Tue Feb 10 05:49:55 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16106584",
+          "name": "Ian Miles Cheong",
+          "screen_name": "ianmiles",
+          "description": "I say the quiet part out loud. Hit the follow button if you can read this.",
+          "followers_count": 1253848,
+          "friends_count": 1360,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 190,
+          "favorite_count": 694,
+          "reply_count": 115,
+          "quote_count": 34
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234330894,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2558,
+        "favorite_count": 14825,
+        "reply_count": 1578,
+        "quote_count": 126
+      }
+    },
+    {
+      "id": "2021235113892172244",
+      "text": "RT @iam_smx: This is Elon Musk's most inspiring speech of all times\n\n“Life can't just be about solving one miserable problem after another,…",
+      "created_at": "Tue Feb 10 14:49:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021226153650852180",
+        "text": "This is Elon Musk's most inspiring speech of all times\n\n“Life can't just be about solving one miserable problem after another, that can't be the only thing, they need to be things that inspire you and that make you glad to wake up in the morning and be part of humanity” https://t.co/Wql0F0xQmO",
+        "created_at": "Tue Feb 10 14:14:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021225438161367040",
+            "url": "https://video.twimg.com/ext_tw_video/2021225438161367040/pu/vid/avc1/1280x720/EtAN3u0oTQrd71BB.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1614879930885574656",
+          "name": "SMX 🇺🇸",
+          "screen_name": "iam_smx",
+          "description": "Innovation, Technology, Rockets & Tesla ignite my passion. Sharing updates & info 24/7. Breaking World News! Motivation, Fun & Amazing AI Videos Guaranteed.",
+          "followers_count": 163636,
+          "friends_count": 639,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 702,
+          "favorite_count": 3900,
+          "reply_count": 304,
+          "quote_count": 48
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234330894,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 702,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021234950192660742",
+      "text": "https://t.co/Ib0KITGGZT",
+      "created_at": "Tue Feb 10 14:48:59 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2021234946703282176",
+          "url": "https://pbs.twimg.com/media/HAzeeZ3a0AA3u88.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234330894,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 19566,
+        "favorite_count": 178764,
+        "reply_count": 7797,
+        "quote_count": 959
+      }
+    },
+    {
+      "id": "2021234781388702077",
+      "text": "RT @ArthurMacwaters: @elonmusk this is statistically a fact :",
+      "created_at": "Tue Feb 10 14:48:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021224549157675400",
+        "text": "@elonmusk this is statistically a fact :",
+        "created_at": "Tue Feb 10 14:07:39 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2021224465653182615",
+          "text": "the rape of Britain has been happening for more than a decade \n\nthe legacy media refused to cover it because it did not match their narrative \n\nlook at the relative topic coverage: https://t.co/GFWIZB8Vis",
+          "created_at": "Tue Feb 10 14:07:19 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2021224461899563008",
+              "url": "https://pbs.twimg.com/media/HAzU8G7agAAmXJN.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1317327383628705793",
+            "name": "Arthur MacWaters",
+            "screen_name": "ArthurMacwaters",
+            "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+            "followers_count": 56349,
+            "friends_count": 980,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 597,
+            "favorite_count": 2095,
+            "reply_count": 137,
+            "quote_count": 50
+          }
+        },
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 56349,
+          "friends_count": 980,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 200,
+          "favorite_count": 1110,
+          "reply_count": 71,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234330894,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 200,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021230513298473031",
+      "text": "RT @memeticsisyphus: This one is almost too much to bear. He forced a woman in her own car with a gun, raped her, made her drive to an atm…",
+      "created_at": "Tue Feb 10 14:31:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021205665914519614",
+        "text": "This one is almost too much to bear. He forced a woman in her own car with a gun, raped her, made her drive to an atm empty out the accounts, then raped her again. \n\nHe had a history of crime, robbery gun charges etc, and during the trial he told the woman he raped that “I’ll see you in 20 years bitch”\n\nThe judge said this is someone who just fell through the cracks",
+        "created_at": "Tue Feb 10 12:52:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021205661539803136",
+            "url": "https://pbs.twimg.com/media/HAzD1yIWoAAHnDO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2020998435978039320",
+          "text": "WTF. Tracy Davis, a Jefferson County Judge in Kentucky, has cut the jail sentence of Christopher Thompson IN HALF from 65 years to 30 years, after he was convicted of kidnapping, robbing, and R*PING woman.\n\nHer reasoning? Because Thompson is black and is a victim of society.\n\nYou can't make this sh*t up.",
+          "created_at": "Mon Feb 09 23:09:10 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020998426754752512",
+              "url": "https://pbs.twimg.com/media/HAwHXIZXIAAGsdf.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1326229737551912960",
+            "name": "Libs of TikTok",
+            "screen_name": "libsoftiktok",
+            "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+            "followers_count": 4635521,
+            "friends_count": 1053,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 4523,
+            "favorite_count": 17192,
+            "reply_count": 1406,
+            "quote_count": 338
+          }
+        },
+        "user": {
+          "id": "1122265194036715520",
+          "name": "memetic_sisyphus",
+          "screen_name": "memeticsisyphus",
+          "description": "One must imagine I’m happy",
+          "followers_count": 74467,
+          "friends_count": 1085,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1725,
+          "favorite_count": 7513,
+          "reply_count": 382,
+          "quote_count": 104
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234330894,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1725,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2021230122355839106",
       "text": "RT @Jennifer_Arcuri: Never are those who hide court documents been on the right side of history. \n\n🇬🇧",
