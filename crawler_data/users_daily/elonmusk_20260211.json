@@ -1,0 +1,107 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 234374027,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260211",
+  "last_updated": "2026-02-11T04:46:01.662965",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2021427200109707417",
+      "text": "RT @tetsuoai: 21 people are controlling computers with their thoughts. Not in a research demo. In their daily lives.\n\nNeuralink's Telepathy…",
+      "created_at": "Wed Feb 11 03:32:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021375124021403999",
+        "text": "21 people are controlling computers with their thoughts. Not in a research demo. In their daily lives.\n\nNeuralink's Telepathy trial has nearly doubled since September. The implant reads your motor cortex and translates neural signals into digital commands. No voice. No eye tracking. No hands. One participant hit able-bodied cursor speeds in his first week. Others are typing at 40 words per minute using imagined finger movements.\n\nA med student uses it 17 hours a day to study. A woman who hadn't controlled a computer in 20 years is making art. A father with ALS rigged a 360 camera to his wheelchair and controls it telepathically so he can watch his kids.\n\nNext up: 3x the electrodes, a new trial targeting real-time speech at 140 WPM, and zero serious device-related adverse events across every participant so far.\n\nBrain-computer interfaces are no longer theoretical.",
+        "created_at": "Wed Feb 11 00:05:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021372809814147072",
+            "url": "https://video.twimg.com/amplify_video/2021372809814147072/vid/avc1/1920x1080/Hs_UTHZrF2tb0sli.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C, asm, bare metal · AI art via grok imagine\n\ntetsuocorp",
+          "followers_count": 224014,
+          "friends_count": 827,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 396,
+          "favorite_count": 2353,
+          "reply_count": 281,
+          "quote_count": 67
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 396,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021441586899583370",
+      "text": "RT @XFreeze: The US government launched https://t.co/Wq5eocVyAG with Grok AI integration\n\nThe official dietary guidelines site uses Grok be…",
+      "created_at": "Wed Feb 11 04:30:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021388632762761312",
+        "text": "The US government launched https://t.co/XFNEiguhEx with Grok AI integration\n\nThe official dietary guidelines site uses Grok because it's \"maximally truth-seeking\" and \"willing to challenge mainstream narratives\"\n\nAsk nutrition questions → Get real answers  \n\nNot filtered through ideology...Just truth 🇺🇸",
+        "created_at": "Wed Feb 11 00:59:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021387732790964225",
+            "url": "https://video.twimg.com/amplify_video/2021387732790964225/vid/avc1/1920x1596/YGirMIxdVDFCfcWc.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 140985,
+          "friends_count": 1579,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 189,
+          "favorite_count": 946,
+          "reply_count": 126,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 189,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
