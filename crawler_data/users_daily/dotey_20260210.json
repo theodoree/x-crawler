@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 178558,
+    "followers_count": 178606,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260210",
-  "last_updated": "2026-02-10T22:15:59.255841",
-  "tweet_count": 10,
+  "last_updated": "2026-02-11T00:26:57.281159",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2021030831838683279",
@@ -391,6 +391,91 @@
         "retweet_count": 0,
         "favorite_count": 0,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021350094319255591",
+      "text": "Anthropic 发布了适用于 Windows 的 Claude Cowork，Windows 版 Cowork 的功能与 macOS 版是同步的。",
+      "created_at": "Tue Feb 10 22:26:32 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021336313979625910",
+        "text": "Cowork is now available on Windows.\n\nWe’re bringing full feature parity with MacOS: file access, multi-step task execution, plugins, and MCP connectors. https://t.co/329DqJz5q5",
+        "created_at": "Tue Feb 10 21:31:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021334987098947588",
+            "url": "https://video.twimg.com/amplify_video/2021334987098947588/vid/avc1/1920x1080/GsnIVgHQtBlDA4sO.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+          "followers_count": 423593,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 279,
+          "favorite_count": 3131,
+          "reply_count": 208,
+          "quote_count": 193
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 14,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2021357785573884060",
+      "text": "RT @yan5xu: https://t.co/VLnMGPUI8V",
+      "created_at": "Tue Feb 10 22:57:05 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2021162107170095186",
+        "text": "https://t.co/VLnMGPUI8V",
+        "created_at": "Tue Feb 10 09:59:32 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "115897222",
+          "name": "yan5xu",
+          "screen_name": "yan5xu",
+          "description": "🤖 AI 野生研究员 | ex @ManusAI_HQ & @hey_im_monica\n推特内容仅代表个人观点，和公司无关",
+          "followers_count": 9208,
+          "friends_count": 422,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 41,
+          "favorite_count": 176,
+          "reply_count": 11,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 41,
+        "favorite_count": 0,
+        "reply_count": 0,
         "quote_count": 0
       }
     }

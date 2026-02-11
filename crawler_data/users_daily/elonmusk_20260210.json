@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234355862,
+    "followers_count": 234362302,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260210",
-  "last_updated": "2026-02-10T22:15:59.267707",
-  "tweet_count": 108,
+  "last_updated": "2026-02-11T00:26:57.262387",
+  "tweet_count": 109,
   "tweets": [
     {
       "id": "2021022206810366345",
@@ -5528,6 +5528,51 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2021365309509337392",
+      "text": "True",
+      "created_at": "Tue Feb 10 23:26:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021316994767978604",
+        "text": "If requiring an ID to **vote** is racist...\n\nthen requiring an ID **anywhere** is racist. \n\nThis is basic logic.\n__\n\n84% of voters, across both parties, want voter ID. \n\nJim Crow prevented citizens from voting; the SAVE act prevents non-citizens from voting. \n\nIt's popular among the people, and only unpopular among politicians.",
+        "created_at": "Tue Feb 10 20:15:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021316990997233667",
+            "url": "https://pbs.twimg.com/media/HA0pGAraAAMLCC0.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 56593,
+          "friends_count": 981,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 301,
+          "favorite_count": 1288,
+          "reply_count": 131,
+          "quote_count": 37
+        }
+      },
+      "stats": {
+        "retweet_count": 3521,
+        "favorite_count": 18377,
+        "reply_count": 1302,
+        "quote_count": 104
       }
     }
   ]
