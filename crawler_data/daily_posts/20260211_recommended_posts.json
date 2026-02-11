@@ -1,12 +1,140 @@
 {
   "date": "20260211",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-11T14:26:15.597816",
-  "tweet_count": 235,
-  "unique_tweet_count": 235,
-  "total_crawled": 411,
-  "duplicates_removed": 176,
+  "last_crawl_time": "2026-02-11T16:24:46.277013",
+  "tweet_count": 237,
+  "unique_tweet_count": 237,
+  "total_crawled": 435,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2021611839071686924",
+      "text": "RT @shengxj1: 之前太信任 AI 翻译工具，和老外唠嗑把媳妇翻译成 daughtor-in-law，闹了个笑话\n\n导致同事们一直以为我除了儿子，还有一个非婚生的女儿",
+      "created_at": "Wed Feb 11 15:46:36 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2021522827749515532",
+        "text": "之前太信任 AI 翻译工具，和老外唠嗑把媳妇翻译成 daughtor-in-law，闹了个笑话\n\n导致同事们一直以为我除了儿子，还有一个非婚生的女儿",
+        "created_at": "Wed Feb 11 09:52:54 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2021320674237874554",
+          "text": "我实在是受不了“有了 AI 学英语可能真没用了”这样的观点，自己信就罢了，千万别去用这种观点祸祸下一代\n\n先看原始观点：\n> ai时代，普通人学英语可能真没用了\n> 假设数年后有这么一个眼镜，你看到的外文全部即时显示为中文，你听到的所有外语都完美地转化为相同音色传入耳朵，你说的中文完美地用你的音色转为外语。这是可以实现的，或早或晚。那大部分的普通人为啥学外语。\n\n【1】首先怎么可能会有“完美翻译”，AGI 也做不到\n\n机器翻译到今天仍然存在幻觉和偏离原文的问题，这是研究界公认的难题，技术手段只能降低，但是无法避免，毕竟人说话都可能会被误解。\n\n日常聊天翻错了，最多闹个笑话。但在一些高风险场景：租房合同、保险条款、海外就医、签证材料、孩子的学校文件。这些场合出错了会实实在在造成损失的\n\n【2】然后不要把什么都交给 AI，且不说科幻小说中的邪恶 AI，就现在的 AI 也有对齐和审查，你不懂英语就失去了校验能力\n\n这一点很多人没意识到，但可能是最关键的。\n\n每一家 AI 公司都会根据自身政策、所在国法规、商业利益来设定模型的行为边界。哪些内容可以翻译，哪些会被淡化，哪些干脆不呈现，这些都不由你决定。你以为戴上翻译眼镜看到的是原文的中文版，实际上你看到的是 AI 公司允许你看到的版本。\n\n如果你懂一点英语，不需要句句都能写作文，但至少要能读原文、对照翻译、发现不一致。\n\n就好比你用计算器、Excel 帮你算账，会一点数学至少能发现不对，还能手动检查一下。\n\n【3】英语仍然是信息密度最高的入口\n\n就算翻译质量很好，直接读原文依旧更快、更完整，因为翻译是额外工序，经常会把细节抹平。 \n\n细节上，技术文档、论文、合同条款，差一个词意思可能完全不同。\n\n时效上，最新资料和讨论几乎都先以英文出现，像 X 上的就很多高质量的 AI 相关推文，我平时不需要借助翻译大概扫一眼就能知道哪些是值得阅读，哪些无关紧要，重要的可以借助翻译认真阅读。\n\n英语至少给你一个不求人的入口。\n\n工作和社交里，语言不只传递信息，还传递分寸、态度、幽默、立场。翻译工具能帮你开口，但很难帮你建立信任。\n\n【4】学英语的意义不只是翻译\n\nAI 能写代码了，不用学编程？AI 能画画了，不用学美术？AI 能作曲了，不用学音乐？如果每一项能力都因为 AI 能代劳就不值得学，人还需要学什么呢？\n\n这个论证的底层问题是把学习的价值完全简化成了实用产出，忽略了学习过程对人的塑造。\n\n学一门语言，你获得的是另一种看世界的方式。英语强调主语和动作的明确性，中文更重视语境和隐含关系，不同语言有不同的认知框架。这不是翻译能替代的。\n\n不是说一定要把英语口语练到像母语那么熟练，但至少能读懂原文要点（技术文章、新闻、合同、说明书），能听懂关键句（会议要点、风险提示），能用英文做交叉验证（AI 翻译和 AI 回答有没有被改写或遗漏），必要时能写简洁准确的英文（邮件、工单、简历）。\n\nAI 能翻译不等于没必要学外语。现实不是非此即彼，工具降低了门槛，但不会让能力变得一文不值。AI 翻译让英语更容易用，但不会让英语没用。",
+          "created_at": "Tue Feb 10 20:29:37 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2021320668491698176",
+              "url": "https://pbs.twimg.com/media/HA0scEaaUAADJaa.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3178231",
+            "name": "宝玉",
+            "screen_name": "dotey",
+            "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+            "followers_count": 178905,
+            "friends_count": 1551,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 27,
+            "favorite_count": 241,
+            "reply_count": 78,
+            "quote_count": 9
+          }
+        },
+        "user": {
+          "id": "975329340",
+          "name": "花果山大圣",
+          "screen_name": "shengxj1",
+          "description": "不爱上班的程序员, 靠谱的前端讲师， 卖课为生，前端 Web3  程序员英语 私教, 独立开发\n努力做最好的程序员讲师\n油管主页：https://t.co/kEcslLs1vs\n加入电报群:  https://t.co/fQEVZn8uNH\n合作微信：itdasheng168",
+          "followers_count": 54322,
+          "friends_count": 1167,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 19,
+          "reply_count": 8,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178905,
+        "friends_count": 1551,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021610383283261578",
+      "text": "记录解决方案是个很好的事，而且AI很擅长写文档。项目下放个docs目录，在某个子目录专门保存这些方案\n\n1. 在当前会话（可以 claude --resume 找到），让它帮你记录到一个markdown文档\n\n2. 配合git，找到变更记录，让它基于相关变更记录去写一个文档记录",
+      "created_at": "Wed Feb 11 15:40:49 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021592109195919588",
+        "text": "@dotey 每次opus解决一个问题的方案都想记录下来有什么好方法吗？",
+        "created_at": "Wed Feb 11 14:28:12 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3165967432",
+          "name": "FighterO_o",
+          "screen_name": "Fighter0_o",
+          "description": "",
+          "followers_count": 18,
+          "friends_count": 555,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178905,
+        "friends_count": 1551,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 18,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2021579379059372314",
       "text": "RT @TruthFairy131: I don’t need to conduct a research study to identify that there is an undeniable pattern of violence here.\n\nAnother Tran…",
