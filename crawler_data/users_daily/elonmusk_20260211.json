@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234393379,
+    "followers_count": 234405365,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260211",
-  "last_updated": "2026-02-11T16:24:46.315045",
-  "tweet_count": 32,
+  "last_updated": "2026-02-11T18:22:23.946278",
+  "tweet_count": 35,
   "tweets": [
     {
       "id": "2021427200109707417",
@@ -1666,6 +1666,147 @@
       "quoted": null,
       "stats": {
         "retweet_count": 2229,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021636623654695148",
+      "text": "RT @skorusARK: Between 2020 and 2023 California added over 24,000 regulatory restrictions.\n\nAt the federal level growth in regulatory restr…",
+      "created_at": "Wed Feb 11 17:25:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021595236951097492",
+        "text": "Between 2020 and 2023 California added over 24,000 regulatory restrictions.\n\nAt the federal level growth in regulatory restrictions has been pretty consistent. https://t.co/lBOmCeOLHX",
+        "created_at": "Wed Feb 11 14:40:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021594815729999872",
+            "url": "https://pbs.twimg.com/media/HA4lxidboAAvpGd.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2263437272",
+          "name": "Sam Korus",
+          "screen_name": "skorusARK",
+          "description": "Director of Research Autonomous Technology & Robotics @ARKinvest. Automation, robotics, energy storage, alternative energy, and space. Disclosure https://t.co/VyzEWqoebV",
+          "followers_count": 150204,
+          "friends_count": 434,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 230,
+          "favorite_count": 1206,
+          "reply_count": 238,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 230,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021648205751148700",
+      "text": "RT @nasahqphoto: NASA’s @SpaceX Crew-12 Falcon 9 rocket and Crew Dragon spacecraft are seen at sunset earlier tonight. @NASA astronauts @As…",
+      "created_at": "Wed Feb 11 18:11:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021440187427926060",
+        "text": "NASA’s @SpaceX Crew-12 Falcon 9 rocket and Crew Dragon spacecraft are seen at sunset earlier tonight. @NASA astronauts @Astro_Jessica and @astro_hathaway, @esa astronaut @Soph_astro, and @roscosmos cosmonaut Andrey Fedyaev are scheduled to launch to @Space_Station no earlier than Friday, Feb. 13 from Space Launch Complex 40 on Cape Canaveral Space Force Station. 📷 https://t.co/c6N3Z23GH5",
+        "created_at": "Wed Feb 11 04:24:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021439716240068609",
+            "url": "https://pbs.twimg.com/media/HA2Ytj1bEAET1zQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "18164420",
+          "name": "NASA HQ PHOTO",
+          "screen_name": "nasahqphoto",
+          "description": "NASA Headquarters Photo Department.\r\nWashington, DC",
+          "followers_count": 2853685,
+          "friends_count": 141,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 243,
+          "favorite_count": 1793,
+          "reply_count": 144,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 243,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021648871680881139",
+      "text": "RT @TheBabylonBee: Sauron-Appointed Judge Rules Frodo Must Return Ring To Sauron https://t.co/3Aaa5VqOWw https://t.co/h6sA6ObMDe",
+      "created_at": "Wed Feb 11 18:13:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2021627305534033920",
+          "url": "https://pbs.twimg.com/media/HA5DUsaWEAAhGpH.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2021627308277133682",
+        "text": "Sauron-Appointed Judge Rules Frodo Must Return Ring To Sauron https://t.co/3Aaa5VqOWw https://t.co/h6sA6ObMDe",
+        "created_at": "Wed Feb 11 16:48:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021627305534033920",
+            "url": "https://pbs.twimg.com/media/HA5DUsaWEAAhGpH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4914384040",
+          "name": "The Babylon Bee",
+          "screen_name": "TheBabylonBee",
+          "description": "Fake news you can trust 🐝",
+          "followers_count": 5184450,
+          "friends_count": 10,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 481,
+          "favorite_count": 4236,
+          "reply_count": 136,
+          "quote_count": 31
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 481,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
