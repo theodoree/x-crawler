@@ -1,12 +1,86 @@
 {
   "date": "20260211",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-11T00:26:57.222276",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-02-11T03:05:34.290642",
+  "tweet_count": 202,
+  "unique_tweet_count": 202,
+  "total_crawled": 400,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2021408739748684039",
+      "text": "推荐吕鹏开源的 Agmente 项目，让你可以从 iOS 手机上操作 Coding Agent Coding Agent。 \n\nOpenClaw 让我们看到了很多从手机指挥 Agent 的有趣场景，通过 Agmente 你可以在手机上跟 Gemini CLI、Claude Code、Qwen 等 AI 编程 Agent 对话，实时查看它们的工具调用和执行结果。\n\n吕鹏是 VS Code 团队的工程经理，主导了将 Copilot Coding Agent 和 GitHub Copilot CLI 集成到 VS Code 的工作，可以说他是最了解编辑器如何与 AI Agent 对接这件事的人之一。\n\nAgmente 最特别的地方在于它实现了 ACP（Agent Client Protocol，智能体客户端协议）——一个正在快速崛起的开放标准。\n\nACP 要解决什么问题？ 现在 AI 编程 Agent 越来越多（Claude Code、Gemini CLI、Codex CLI……），编辑器/IDE 也很多（VS Code、Zed、JetBrains、Neovim……）。如果没有统一标准，每个编辑器想接入每个 Agent 都要单独写一套集成代码，反过来每个 Agent 想支持每个编辑器也一样。这就是经典的 M×N 问题。\n\nACP 就是来解决这个问题的。它的角色类似于当年的 LSP（Language Server Protocol）——LSP 让任何编辑器都能接入任何语言的智能提示，ACP 则让任何编辑器都能接入任何 AI 编程 Agent。Agent 实现一次 ACP，就能在所有支持 ACP 的客户端上运行；客户端实现一次 ACP，就能接入整个 Agent 生态。\n\n从这个项目也反映出 AI Agent 发展中几个值得注意的趋势：\n\n1）Agent 正在脱离桌面束缚。 以前编程 Agent 只能在 IDE 或终端里跑，Agmente 让你在手机上就能监控和交互。想象一下：你让 Claude Code 在远程服务器上干活，然后出门遛弯时在手机上查看进度、审批工具调用——这就是 Agmente 支持的场景。它通过 WebSocket 连接远程 Agent，还支持 Cloudflare Tunnel 做安全访问。\n\n2）标准协议正在改变游戏规则。 就像 MCP 让 Agent 能统一访问各种工具和数据源一样，ACP 让 Agent 能统一接入各种客户端界面。一个 Agent 写一次 ACP 适配，就能同时在 VS Code、Zed、JetBrains、甚至手机上被使用，这大大降低了 Agent 生态的碎片化。\n\n3）从“人用编辑器”到“人监督 Agent”的范式转变。 Agmente 的交互设计很能说明问题——它重点展示的不是代码编辑界面，而是对话历史、工具调用和执行结果。这暗示了一种新的开发模式：开发者的角色从写代码变成下达指令、审核 Agent 的行为。",
+      "created_at": "Wed Feb 11 02:19:34 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021397551023522288",
+        "text": "@Agmente is now open source. It’s a tiny native iOS app I use to manage agents (Copilot/Claude/Codex/Gemini/Qwen) via Agent Client Protocol running on my home servers. I hope you would find it useful. https://t.co/N3wGeIemxG\n\nMake it OSS before Son of Anton decides to delete it ;)",
+        "created_at": "Wed Feb 11 01:35:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "190219751",
+          "name": "rebornix",
+          "screen_name": "njukidreborn",
+          "description": "Peng Lyu. Eng Manager VS @Code & Copilot. Busy making the best editor for all.",
+          "followers_count": 3789,
+          "friends_count": 692,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 25,
+          "reply_count": 4,
+          "quote_count": 4
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178683,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 40,
+        "reply_count": 8,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2021402397285786024",
+      "text": "https://t.co/EEMIkK8VPo",
+      "created_at": "Wed Feb 11 01:54:22 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178683,
+        "friends_count": 1550,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 30,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2021365309509337392",
       "text": "True",
