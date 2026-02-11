@@ -1,12 +1,655 @@
 {
   "date": "20260211",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-11T18:22:23.910815",
-  "tweet_count": 240,
-  "unique_tweet_count": 240,
-  "total_crawled": 437,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-02-11T20:12:36.241935",
+  "tweet_count": 251,
+  "unique_tweet_count": 251,
+  "total_crawled": 440,
+  "duplicates_removed": 189,
   "tweets": [
+    {
+      "id": "2021676742226980993",
+      "text": "RT @yuyy614893671: 【为什么过去几天xAI多名员工和高管离职，这个问题现在可以解锁了】\nElon Musk刚刚公布了xAI的新组织架构，老人离开，能人上，符合公司发展战略的人上\nhttps://t.co/8DaadCMdWM https://t.co/LX75…",
+      "created_at": "Wed Feb 11 20:04:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2021674907596468726",
+        "text": "【为什么过去几天xAI多名员工和高管离职，这个问题现在可以解锁了】\nElon Musk刚刚公布了xAI的新组织架构，老人离开，能人上，符合公司发展战略的人上\nhttps://t.co/8DaadCMdWM https://t.co/LX751Lcfhh",
+        "created_at": "Wed Feb 11 19:57:13 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021674537474281472",
+            "url": "https://pbs.twimg.com/media/HA5uR9GbUAAXrH9.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2021448339909394883",
+          "text": "所以xAI到底怎么了，好多人离职啊，而且很多都是重磅级大佬\n\n这是和前几天Elon宣布要把Xchat 开源有关吗？我不懂，纯好奇",
+          "created_at": "Wed Feb 11 04:56:55 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1597654998971604992",
+            "name": "金融汪",
+            "screen_name": "yuyy614893671",
+            "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+            "followers_count": 64876,
+            "friends_count": 516,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 5,
+            "favorite_count": 201,
+            "reply_count": 57,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "1597654998971604992",
+          "name": "金融汪",
+          "screen_name": "yuyy614893671",
+          "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+          "followers_count": 64876,
+          "friends_count": 516,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 4,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178958,
+        "friends_count": 1551,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021676337526927698",
+      "text": "Grok",
+      "created_at": "Wed Feb 11 20:02:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021673554211967144",
+        "text": "Elon Musk: xAI is only two and a half years old - basically a toddler. Nonetheless, we’ve achieved an incredible amount in a very short period of time\n\nOur competitors are 5, 10, or in some cases 20 years old. They have much larger teams and they started off with far more resources. And yet, we have achieved number one in many arenas in just a few years\n\nWe’ve achieved number one in voice, image, and video generation. I think we are now at the point where we are actually generating more images and video, based on the last numbers I saw, than all of our competitors combined\n\nWe are winning in terms of forecasting, which is one of the key metrics of intelligence. Our Grok 420 forecasting model beat all the other AIs in forecasting",
+        "created_at": "Wed Feb 11 19:51:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021672905470619652",
+            "url": "https://video.twimg.com/amplify_video/2021672905470619652/vid/avc1/1080x1080/8UsQK8Dpno5T2bWQ.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 141284,
+          "friends_count": 1579,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 30,
+          "favorite_count": 166,
+          "reply_count": 50,
+          "quote_count": 7
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234413548,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 194,
+        "favorite_count": 1363,
+        "reply_count": 564,
+        "quote_count": 15
+      }
+    },
+    {
+      "id": "2021676067522851298",
+      "text": "RT @ScottPresler: BREAKING\n\nSenator Joni Ernst (R-IA) just signed on as a cosponsor of the SAVE America Act.  \n\nWith @BasedMikeLee as the s…",
+      "created_at": "Wed Feb 11 20:01:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021670378377294277",
+        "text": "BREAKING\n\nSenator Joni Ernst (R-IA) just signed on as a cosponsor of the SAVE America Act.  \n\nWith @BasedMikeLee as the sponsor &amp; 39 cosponsors, we’re up to 40 Senators in support. https://t.co/JkEO8quUSi",
+        "created_at": "Wed Feb 11 19:39:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021670368420016131",
+            "url": "https://pbs.twimg.com/media/HA5qfSKbsAMk2a5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "931286316",
+          "name": "ThePersistence",
+          "screen_name": "ScottPresler",
+          "description": "I helped defeat Hillary, Kamala, & organized the Baltimore cleanup. We delivered Pennsylvania for President Trump. 👀 ➡️ @EarlyVoteAction MAGA 🤝 MAHA 🤝 BARBZ",
+          "followers_count": 2454418,
+          "friends_count": 73065,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 834,
+          "favorite_count": 3912,
+          "reply_count": 226,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234413548,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 833,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021675197435384206",
+      "text": "RT @teslaownersSV: BREAKING: Grok just ranked #1 in first-month new user growth ratio.\n\nOutpacing Gemini, ChatGPT, Claude, and others.\n\nMom…",
+      "created_at": "Wed Feb 11 19:58:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021671724199313505",
+        "text": "BREAKING: Grok just ranked #1 in first-month new user growth ratio.\n\nOutpacing Gemini, ChatGPT, Claude, and others.\n\nMomentum is accelerating. 🚀 https://t.co/skgkD0YsIc",
+        "created_at": "Wed Feb 11 19:44:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021671720877535232",
+            "url": "https://pbs.twimg.com/media/HA5ruAdbsAAqDNx.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.",
+          "followers_count": 1392356,
+          "friends_count": 835,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 86,
+          "favorite_count": 526,
+          "reply_count": 119,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234413548,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 86,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021674796078248300",
+      "text": "Wow",
+      "created_at": "Wed Feb 11 19:56:46 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021615414854459600",
+        "text": "Who Is Behind Mass Shootings?\n\nMass shootings (4+ deaths) per million people, by group\n\n1.Trans/NB (Bio Male) – 0.769\n2.Trans/NB (Bio Female) – 0.667\n3.Asian Men – 0.408\n4. Black Men – 0.198\n5.White Men – 0.176\n6.Asian Women – 0.097\n7.Hispanic Men – 0.094 https://t.co/KaQDlmZtDv",
+        "created_at": "Wed Feb 11 16:00:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021615406214156288",
+            "url": "https://pbs.twimg.com/media/HA44gD_aEAAf0-e.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4868124659",
+          "name": "Taya",
+          "screen_name": "travelingflying",
+          "description": "CEO| Entrepreneur| Pilot| Author| Investor|    World traveler| Part-time online troll",
+          "followers_count": 158307,
+          "friends_count": 25776,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 291,
+          "favorite_count": 803,
+          "reply_count": 105,
+          "quote_count": 25
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234413548,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1144,
+        "favorite_count": 4715,
+        "reply_count": 606,
+        "quote_count": 30
+      }
+    },
+    {
+      "id": "2021674721767829755",
+      "text": "RT @XFreeze: Tesla Cybertruck is one of the best pickup trucks you can buy right now\n\nCybertruck earned a Top Safety Pick+ with a perfect \"…",
+      "created_at": "Wed Feb 11 19:56:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021640076955136032",
+        "text": "Tesla Cybertruck is one of the best pickup trucks you can buy right now\n\nCybertruck earned a Top Safety Pick+ with a perfect \"Good\" rating in all major crash tests, making it the only pickup truck to achieve the highest IIHS safety tier in 2025\n\nIt also holds a five-star overall rating from NHTSA\nThat’s top-level safety\n\nBut it does much more:\n\n•⁠  ⁠123 kWh battery - equal to about 9 Tesla Powerwalls\n•⁠  ⁠Can power your house for 3–4 days during a blackout\n•⁠  ⁠Heavy waterproof and built for extreme conditions\n•⁠  ⁠Can carry heavy loads and still go faster than most pickup trucks\n•⁠  ⁠Ultra-Hard 30X Cold-Rolled stainless steel exoskeleton - 7x stronger than typical exterior steel\n•  Cyberbeast: 0-60 mph in 2.6 seconds - faster than most sports cars\n\nCyber truck is a safety + powerhouse on wheels….",
+        "created_at": "Wed Feb 11 17:38:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021637849083523073",
+            "url": "https://pbs.twimg.com/media/HA5M6aMbsAEJZl9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 141284,
+          "friends_count": 1579,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 102,
+          "favorite_count": 623,
+          "reply_count": 110,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234413548,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 102,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021674152856629437",
+      "text": "RT @MattWalshBlog: I once again hate to say I told you so",
+      "created_at": "Wed Feb 11 19:54:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021609185201344834",
+        "text": "I once again hate to say I told you so",
+        "created_at": "Wed Feb 11 15:36:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2021600761667293328",
+          "text": "3 years ago, Redditors on r/VaushV lost their minds over Matt Walsh quoting Males of Reddit's screenshot of jesseboy347.\n\nu/jesseboy347 just shot up a school in Tumbler Ridge, Canada yesterday. https://t.co/Sv9LE6WrRV",
+          "created_at": "Wed Feb 11 15:02:35 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2021600757707952128",
+              "url": "https://pbs.twimg.com/media/HA4rLaDX0AA8WH6.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3895214232",
+            "name": "Reddit Lies",
+            "screen_name": "reddit_lies",
+            "description": "Misinformation is the bread and butter of the “free thinking high IQ” denizens of Reddit. Ephesians 5:11.\nDMs open for submissions.",
+            "followers_count": 547861,
+            "friends_count": 1603,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1146,
+            "favorite_count": 8674,
+            "reply_count": 173,
+            "quote_count": 100
+          }
+        },
+        "user": {
+          "id": "1500129642",
+          "name": "Matt Walsh",
+          "screen_name": "MattWalshBlog",
+          "description": "Theocratic fascist, bestselling children’s author, world renowned DEI consultant",
+          "followers_count": 4035241,
+          "friends_count": 601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1431,
+          "favorite_count": 13622,
+          "reply_count": 294,
+          "quote_count": 54
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234413548,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1431,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021673886157607383",
+      "text": "xAI was reorganized a few days ago to improve speed of execution. As a company grows, especially as quickly as xAI, the structure must evolve just like any living organism.\n\nThis unfortunately required parting ways with some people. We wish them well in future endeavors.\n\nWe are hiring aggressively. Join xAI if the idea of mass drivers on the Moon appeals to you.",
+      "created_at": "Wed Feb 11 19:53:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021667200885829667",
+        "text": "Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.\n\nThe future has never looked more exciting! https://t.co/QZ73H2mpBj",
+        "created_at": "Wed Feb 11 19:26:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021663522305060864",
+            "url": "https://video.twimg.com/amplify_video/2021663522305060864/vid/avc1/1920x1080/AXNodco1AYW0D2dj.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1661523610111193088",
+          "name": "xAI",
+          "screen_name": "xai",
+          "description": "",
+          "followers_count": 1906651,
+          "friends_count": 39,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 216,
+          "favorite_count": 1567,
+          "reply_count": 216,
+          "quote_count": 61
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234413548,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 446,
+        "favorite_count": 3231,
+        "reply_count": 869,
+        "quote_count": 55
+      }
+    },
+    {
+      "id": "2021670765272478178",
+      "text": "Please contact these senators to confirm that you want voter ID required in elections in America",
+      "created_at": "Wed Feb 11 19:40:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021619826150556082",
+        "text": "@BasedMikeLee Updated list of senators to contact! https://t.co/K2boVTLwiX",
+        "created_at": "Wed Feb 11 16:18:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021619746417135616",
+            "url": "https://pbs.twimg.com/media/HA48csgb0AAdT48.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1628046567763591169",
+          "name": "JoyMaxxing Rizzy John Rose Ultra Positive TM 🇺🇸",
+          "screen_name": "RealJohnRose",
+          "description": "You should only tolerate people working towards Victory",
+          "followers_count": 3345,
+          "friends_count": 887,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 106,
+          "favorite_count": 290,
+          "reply_count": 43,
+          "quote_count": 4
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234413548,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2832,
+        "favorite_count": 10311,
+        "reply_count": 1054,
+        "quote_count": 89
+      }
+    },
+    {
+      "id": "2021665980527808541",
+      "text": "RT @DavidJPba: The trans kid who murdered over ten people, and injured more, also killed his mother and younger brother. Turns out, support…",
+      "created_at": "Wed Feb 11 19:21:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021623821518946722",
+        "text": "The trans kid who murdered over ten people, and injured more, also killed his mother and younger brother. Turns out, supporting your children in their sexual delusions will probably get you killed too.",
+        "created_at": "Wed Feb 11 16:34:13 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "281302926",
+          "name": "David Parker",
+          "screen_name": "DavidJPba",
+          "description": "Live tweeting the fall of Canada from the inside. Advocate for Alberta Independence. Son of a shepherd and an educator. Follow Jesus.",
+          "followers_count": 21077,
+          "friends_count": 296,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1791,
+          "favorite_count": 13879,
+          "reply_count": 377,
+          "quote_count": 54
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234413548,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1791,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021658703645356496",
+      "text": "+1\nhttps://t.co/8NQYoCKgJK",
+      "created_at": "Wed Feb 11 18:52:50 +0000 2026",
+      "lang": "und",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021657277493915656",
+        "text": "@dotey 过时的记录会污染判断，推荐根据编码对齐项目框架再工作。",
+        "created_at": "Wed Feb 11 18:47:10 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4591998432",
+          "name": "bobo",
+          "screen_name": "BANGYANGYAO",
+          "description": "🎮 🌸 WISHLIST ON ST\n💼 Formerly at Tencent\n🎨 Indie Game Developer\n🌊 Currently developing  LoFi Aquarium\n💕 Lover of cute & healing games",
+          "followers_count": 50,
+          "friends_count": 917,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178958,
+        "friends_count": 1551,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2021648871680881139",
       "text": "RT @TheBabylonBee: Sauron-Appointed Judge Rules Frodo Must Return Ring To Sauron https://t.co/3Aaa5VqOWw https://t.co/h6sA6ObMDe",
