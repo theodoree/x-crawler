@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 178958,
+    "followers_count": 178959,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260211",
-  "last_updated": "2026-02-11T20:12:36.270850",
-  "tweet_count": 7,
+  "last_updated": "2026-02-11T22:09:57.244572",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2021402397285786024",
@@ -317,6 +317,45 @@
         "retweet_count": 1,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021694717130395776",
+      "text": "吹牛逼不上税！",
+      "created_at": "Wed Feb 11 21:15:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021606985469211065",
+        "text": "From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly.\n\nThank you to all the builders; you inspire us to work even harder.",
+        "created_at": "Wed Feb 11 15:27:19 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screen_name": "sama",
+          "description": "AI is cool i guess",
+          "followers_count": 4324311,
+          "friends_count": 984,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 177,
+          "favorite_count": 4459,
+          "reply_count": 1361,
+          "quote_count": 108
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 13,
+        "reply_count": 5,
         "quote_count": 0
       }
     }

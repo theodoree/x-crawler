@@ -1,12 +1,116 @@
 {
   "date": "20260211",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-11T20:12:36.241935",
-  "tweet_count": 251,
-  "unique_tweet_count": 251,
-  "total_crawled": 440,
-  "duplicates_removed": 189,
+  "last_crawl_time": "2026-02-11T22:09:57.176661",
+  "tweet_count": 253,
+  "unique_tweet_count": 253,
+  "total_crawled": 451,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2021702768134959183",
+      "text": "RT @Teslaconomics: This is what happens when Elon runs your company.\n\nxAI which is only 2.5 yrs old and has a team size that is 1/10th of m…",
+      "created_at": "Wed Feb 11 21:47:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021671094709792901",
+        "text": "This is what happens when Elon runs your company.\n\nxAI which is only 2.5 yrs old and has a team size that is 1/10th of many competitors, its #1 in voice, image generation, image edits, forecasting, and many intelligence leaderboards, all while having the most powerful training center in the world.",
+        "created_at": "Wed Feb 11 19:42:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021671091912278016",
+            "url": "https://pbs.twimg.com/media/HA5rJZYbgAAhT7X.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "985243593538338816",
+          "name": "Teslaconomics",
+          "screen_name": "Teslaconomics",
+          "description": "I post my conscious thoughts w/ the world, live to the fullest, keep things simple, truthful & filter the noise. Long-term investor in Tesla, SpaceX, xAI/X.",
+          "followers_count": 469714,
+          "friends_count": 215,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 192,
+          "favorite_count": 1018,
+          "reply_count": 157,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234420235,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 192,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021694717130395776",
+      "text": "吹牛逼不上税！",
+      "created_at": "Wed Feb 11 21:15:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021606985469211065",
+        "text": "From how the team operates, I always thought Codex would eventually win. But I am pleasantly surprised to see it happening so quickly.\n\nThank you to all the builders; you inspire us to work even harder.",
+        "created_at": "Wed Feb 11 15:27:19 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screen_name": "sama",
+          "description": "AI is cool i guess",
+          "followers_count": 4324311,
+          "friends_count": 984,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 177,
+          "favorite_count": 4459,
+          "reply_count": 1361,
+          "quote_count": 108
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 178959,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 13,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2021676742226980993",
       "text": "RT @yuyy614893671: 【为什么过去几天xAI多名员工和高管离职，这个问题现在可以解锁了】\nElon Musk刚刚公布了xAI的新组织架构，老人离开，能人上，符合公司发展战略的人上\nhttps://t.co/8DaadCMdWM https://t.co/LX75…",

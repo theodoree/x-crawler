@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234413548,
+    "followers_count": 234420235,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260211",
-  "last_updated": "2026-02-11T20:12:36.277734",
-  "tweet_count": 44,
+  "last_updated": "2026-02-11T22:09:57.212773",
+  "tweet_count": 45,
   "tweets": [
     {
       "id": "2021427200109707417",
@@ -2235,6 +2235,51 @@
         "favorite_count": 1363,
         "reply_count": 564,
         "quote_count": 15
+      }
+    },
+    {
+      "id": "2021702768134959183",
+      "text": "RT @Teslaconomics: This is what happens when Elon runs your company.\n\nxAI which is only 2.5 yrs old and has a team size that is 1/10th of m…",
+      "created_at": "Wed Feb 11 21:47:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021671094709792901",
+        "text": "This is what happens when Elon runs your company.\n\nxAI which is only 2.5 yrs old and has a team size that is 1/10th of many competitors, its #1 in voice, image generation, image edits, forecasting, and many intelligence leaderboards, all while having the most powerful training center in the world.",
+        "created_at": "Wed Feb 11 19:42:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021671091912278016",
+            "url": "https://pbs.twimg.com/media/HA5rJZYbgAAhT7X.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "985243593538338816",
+          "name": "Teslaconomics",
+          "screen_name": "Teslaconomics",
+          "description": "I post my conscious thoughts w/ the world, live to the fullest, keep things simple, truthful & filter the noise. Long-term investor in Tesla, SpaceX, xAI/X.",
+          "followers_count": 469714,
+          "friends_count": 215,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 192,
+          "favorite_count": 1018,
+          "reply_count": 157,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 192,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
