@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 179129,
+    "followers_count": 179468,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260212",
-  "last_updated": "2026-02-12T04:42:23.499907",
-  "tweet_count": 1,
+  "last_updated": "2026-02-12T06:26:05.415542",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2021786678671683901",
@@ -24,6 +24,45 @@
         "favorite_count": 31,
         "reply_count": 8,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2021811421210652948",
+      "text": "帮转，才俊们可以去 Kimi 做 Coding Agent",
+      "created_at": "Thu Feb 12 04:59:40 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021806096143544689",
+        "text": "bro 们，有想来月之暗面 Kimi做 coding agent，也就是类似于 claude code 这种的\n\n欢迎推荐一下，急急急，hc 很多\n感兴趣直接发我简历到我邮箱 me@kaiyi.cool",
+        "created_at": "Thu Feb 12 04:38:31 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1102444843140182016",
+          "name": "Kai",
+          "screen_name": "real_kai42",
+          "description": "独立开发者，20k stars 开源项目 Qwerty Learner 作者，《Web Worker 播客》主播\n\n仅聊技术和生活，仅代表个人观点，不太擅长文字，但话痨∠(｀ω´*) \n\n主页/咨询服务/内推 : https://t.co/ZCsVg4rTbV\nex @Microsoft @BytedanceTalk @hulu",
+          "followers_count": 28039,
+          "friends_count": 1138,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 120,
+          "reply_count": 33,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 19,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

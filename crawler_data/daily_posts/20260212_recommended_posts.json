@@ -1,12 +1,629 @@
 {
   "date": "20260212",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-12T04:42:23.470223",
-  "tweet_count": 212,
-  "unique_tweet_count": 212,
-  "total_crawled": 411,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-02-12T06:26:05.358493",
+  "tweet_count": 223,
+  "unique_tweet_count": 223,
+  "total_crawled": 412,
+  "duplicates_removed": 189,
   "tweets": [
+    {
+      "id": "2021831201787461915",
+      "text": "https://t.co/6C2cXa9gJI",
+      "created_at": "Thu Feb 12 06:18:16 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2021749549321293824",
+          "url": "https://video.twimg.com/amplify_video/2021749549321293824/vid/avc1/1080x1080/AQVqKHFXFnbIYTew.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234424581,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 301,
+        "favorite_count": 1830,
+        "reply_count": 741,
+        "quote_count": 32
+      }
+    },
+    {
+      "id": "2021823009246310852",
+      "text": "RT @Starlink: Connecting remote schools around the world with high-speed internet 🛰️🌎❤️",
+      "created_at": "Thu Feb 12 05:45:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021615193545949590",
+        "text": "Connecting remote schools around the world with high-speed internet 🛰️🌎❤️",
+        "created_at": "Wed Feb 11 15:59:56 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020502114708156476",
+          "text": "From @TDSforall, one of Mohammed bin Rashid Al Maktoum Global Initiatives, we are building bridges of knowledge through a strategic global partnership with @Starlink. This step aims to expand the horizons of high-quality digital education and enhance access to it across the world.\n\nI would like to thank @elonmusk for supporting the use of advanced connectivity technologies to help bridge educational gaps and expand learning opportunities across communities.",
+          "created_at": "Sun Feb 08 14:16:57 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2020501565837357056",
+              "url": "https://video.twimg.com/amplify_video/2020501565837357056/vid/avc1/2048x1152/_F3fEffb1gqOWycB.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "923125262346342400",
+            "name": "Omar Sultan AlOlama",
+            "screen_name": "OmarSAlolama",
+            "description": "‏‏‏‏‏‏\nوزير دولة للاقتصاد الرقمي والذكاء الاصطناعي وتطبيقات العمل عن بعد\n\n\nMinister of State for Digital Economy, A.I. and Remote Work Applications",
+            "followers_count": 41704,
+            "friends_count": 173,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 170,
+            "favorite_count": 440,
+            "reply_count": 19,
+            "quote_count": 5
+          }
+        },
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1541388,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 250,
+          "favorite_count": 1450,
+          "reply_count": 208,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234424581,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 250,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021822090911883489",
+      "text": "RT @C_3C_3: Dems are calling requiring Voter ID “racist” and “Jim Crow 2.0”.\n\nSome Black populations of countries that require Voter ID to…",
+      "created_at": "Thu Feb 12 05:42:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021727035949752472",
+        "text": "Dems are calling requiring Voter ID “racist” and “Jim Crow 2.0”.\n\nSome Black populations of countries that require Voter ID to vote:\n\nHaiti: 95%\nJamaica: 92%\nKenya: 99%\nGhana: 99%\nBotswana: 90%\nSouth Africa: 81%\nBrazil: 56%\n\nI wonder if they know theyre racist towards themselves?",
+        "created_at": "Wed Feb 11 23:24:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2327400218",
+          "name": "C3",
+          "screen_name": "C_3C_3",
+          "description": "",
+          "followers_count": 293935,
+          "friends_count": 8719,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 502,
+          "favorite_count": 2333,
+          "reply_count": 181,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234424581,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 502,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021821482867831119",
+      "text": "RT @SenTedCruz: Tonight, the House passed the SAVE America Act.\n\nNow, it’s the Senate’s turn, and we should pass it immediately. https://t.…",
+      "created_at": "Thu Feb 12 05:39:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021769424781402616",
+        "text": "Tonight, the House passed the SAVE America Act.\n\nNow, it’s the Senate’s turn, and we should pass it immediately. https://t.co/yB9ds6DwVA",
+        "created_at": "Thu Feb 12 02:12:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021767675714973696",
+            "url": "https://video.twimg.com/amplify_video/2021767675714973696/vid/avc1/1080x1920/zdXOyg4tVe-DmMuK.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1074480192",
+          "name": "Senator Ted Cruz",
+          "screen_name": "SenTedCruz",
+          "description": "Representing the State of Texas in the United States Senate.",
+          "followers_count": 4193363,
+          "friends_count": 5324,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5358,
+          "favorite_count": 31105,
+          "reply_count": 2019,
+          "quote_count": 213
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234424581,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5357,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021820850899484890",
+      "text": "RT @saylordocs: Milton Friedman on 4 ways to spend money:\n\n1) Your money on yourself (you’re careful about both cost and quality)\n2) Your m…",
+      "created_at": "Thu Feb 12 05:37:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021492147875393646",
+        "text": "Milton Friedman on 4 ways to spend money:\n\n1) Your money on yourself (you’re careful about both cost and quality)\n2) Your money on others (you care about cost, less about quality)\n3) Someone else’s money on yourself (you care about quality, not cost)\n4) Someone else’s money on others (you care about neither)\n\nThe last one is how government spending works",
+        "created_at": "Wed Feb 11 07:51:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021446871336747008",
+            "url": "https://video.twimg.com/amplify_video/2021446871336747008/vid/avc1/1438x804/RjYNSxO9v5rds-de.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1345111222916562944",
+          "name": "Documenting Saylor",
+          "screen_name": "saylordocs",
+          "description": "Follow for Daily Bitcoin data, updates and Saylor insights",
+          "followers_count": 88457,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1440,
+          "favorite_count": 4558,
+          "reply_count": 130,
+          "quote_count": 79
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234424581,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1439,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021820459637973208",
+      "text": "Please call your senator and ask for voter ID to be passed",
+      "created_at": "Thu Feb 12 05:35:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021798703346889142",
+        "text": "Please contact the last Save America ACT holdouts:\n\nCapito\n@SenCapito\n\nCollins\n@SenatorCollins\n\nMcConnell\n@SenMcConnell \n\nMurkowski\n@lisamurkowski\n\nSullivan\n@SenDanSullivan\n\nThune\n@LeaderJohnThune \n\nTillis\n@senthomtillis\n\nWicker\n@SenatorWicker \n\nScott, T\n@SenatorTimScott https://t.co/yjE1hmq1fz",
+        "created_at": "Thu Feb 12 04:09:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021798696778715136",
+            "url": "https://pbs.twimg.com/media/HA7fM-jX0AAu_Vh.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2327400218",
+          "name": "C3",
+          "screen_name": "C_3C_3",
+          "description": "",
+          "followers_count": 293935,
+          "friends_count": 8719,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1159,
+          "favorite_count": 1808,
+          "reply_count": 201,
+          "quote_count": 72
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234424581,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2973,
+        "favorite_count": 12770,
+        "reply_count": 1196,
+        "quote_count": 103
+      }
+    },
+    {
+      "id": "2021820114300285234",
+      "text": "RT @cb_doge: 🚨NEW: Elon Musk explains the reason behind the SpaceX and xAI merger.\n\n \"In order to understand the universe, you must explore…",
+      "created_at": "Thu Feb 12 05:34:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021722483343470771",
+        "text": "🚨NEW: Elon Musk explains the reason behind the SpaceX and xAI merger.\n\n \"In order to understand the universe, you must explore the universe. That's the motivation behind the combination of SpaceX and xAI is to accelerate humanity's future in understanding the universe and extending the light of consciousness to the stars.\n\nSo in the grand scheme of things, when you look at how much energy Earth is actually using for civilization, we're only right now using, call it roughly 1% of the potential energy of Earth. And if we wanted to use even a millionth of the sun's energy, that would be roughly a million times more energy than civilization currently uses. The only way to access that energy, the energy of the sun is to extend beyond Earth. Earth is really a tiny, tiny dust Mote in a vast darkness.\n\nThe sun is 99.8% of all mass in the solar system, so you have to expand beyond the tiny dust mode that is earth to make any significant dent in using the sun's energy like says, you'd have to expand roughly a million times just to get to 1,000,000th of our sun's energy, and then going beyond that, exploring extending to the Galaxy. \n\nSo the the next step beyond Earth data centers is our Earth orbital data centers, and we'll be launching with SpaceX orbital data centers at the 100 to 200 gigawatt per year level, not cumulative, I mean, per year. And ultimately, we see a path to maybe launching as much as a terawatt per year of compute from Earth.\"",
+        "created_at": "Wed Feb 11 23:06:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021719720035258368",
+            "url": "https://video.twimg.com/amplify_video/2021719720035258368/vid/avc1/1080x1080/Qtl8cp22D7Hg6uu2.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1830067,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 235,
+          "favorite_count": 1080,
+          "reply_count": 176,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234424581,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 235,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021819867062583709",
+      "text": "RT @ArthurMacwaters: This should be the 1 congressional priority:\n\n&gt; in 15 states, you don't have to show **any** ID to vote\n\n&gt; 69% of libe…",
+      "created_at": "Thu Feb 12 05:33:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021817459427418482",
+        "text": "This should be the 1 congressional priority:\n\n> in 15 states, you don't have to show **any** ID to vote\n\n> 69% of liberal voters support photo ID requirements, but only one democratic senator has voted for the Save Act\n\n> either voter ID is mandated now, or, whenever the senate next flips, the opposite will happen (mandated no-ID voting across the US)\n\nIf the bill doesn't pass now, it would be an absolute disaster for electoral security, and would likely essentially create a permanent one-party state\n\nHuge bi-partisan support. It's just a common-sense requirement.\n\nThe bill is stuck due to the zombie filibuster - where the minority can refuse to vote, without even standing and talking\n\nEnd the filibuster and pass the bill!",
+        "created_at": "Thu Feb 12 05:23:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021817286533976064",
+            "url": "https://pbs.twimg.com/media/HA7wHCyaEAAowE0.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2021758232260186198",
+          "text": "The House of Representatives has PASSED the SAVE America Act\n\nCongratulations to all who helped make this possible!\n\nNow it’s time for the Senate to act\n\nWe must restore the talking filibuster \n\nDon’t let up! https://t.co/syfMq8iR6V",
+          "created_at": "Thu Feb 12 01:28:19 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2021757770588938240",
+              "url": "https://video.twimg.com/amplify_video/2021757770588938240/vid/avc1/2160x3840/mysGgKKmeWur93K6.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1551266822460162051",
+            "name": "Mike Lee",
+            "screen_name": "BasedMikeLee",
+            "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+            "followers_count": 650241,
+            "friends_count": 3755,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 914,
+            "favorite_count": 4400,
+            "reply_count": 199,
+            "quote_count": 30
+          }
+        },
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 56948,
+          "friends_count": 983,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 142,
+          "favorite_count": 719,
+          "reply_count": 71,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234424581,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 142,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021818906705371296",
+      "text": "This is great news!",
+      "created_at": "Thu Feb 12 05:29:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021800184066212276",
+        "text": "‼️I just spoke with Senate Majority Leader John Thune, who has asked me to add him as a cosponsor of the SAVE America Act\n\nWe’re now at 45\n\nBaby steps to SAVE America ‼️",
+        "created_at": "Thu Feb 12 04:15:01 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 650241,
+          "friends_count": 3755,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1354,
+          "favorite_count": 11013,
+          "reply_count": 585,
+          "quote_count": 104
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234424581,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1419,
+        "favorite_count": 13921,
+        "reply_count": 1041,
+        "quote_count": 46
+      }
+    },
+    {
+      "id": "2021818821892255991",
+      "text": "RT @WhiteHouse: Only American citizens should decide American elections.",
+      "created_at": "Thu Feb 12 05:29:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021708686696034815",
+        "text": "Only American citizens should decide American elections.",
+        "created_at": "Wed Feb 11 22:11:27 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1879644163769335808",
+          "name": "The White House",
+          "screen_name": "WhiteHouse",
+          "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+          "followers_count": 3740071,
+          "friends_count": 6,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9672,
+          "favorite_count": 84529,
+          "reply_count": 4376,
+          "quote_count": 834
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234424581,
+        "friends_count": 1284,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 9672,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021811421210652948",
+      "text": "帮转，才俊们可以去 Kimi 做 Coding Agent",
+      "created_at": "Thu Feb 12 04:59:40 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021806096143544689",
+        "text": "bro 们，有想来月之暗面 Kimi做 coding agent，也就是类似于 claude code 这种的\n\n欢迎推荐一下，急急急，hc 很多\n感兴趣直接发我简历到我邮箱 me@kaiyi.cool",
+        "created_at": "Thu Feb 12 04:38:31 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1102444843140182016",
+          "name": "Kai",
+          "screen_name": "real_kai42",
+          "description": "独立开发者，20k stars 开源项目 Qwerty Learner 作者，《Web Worker 播客》主播\n\n仅聊技术和生活，仅代表个人观点，不太擅长文字，但话痨∠(｀ω´*) \n\n主页/咨询服务/内推 : https://t.co/ZCsVg4rTbV\nex @Microsoft @BytedanceTalk @hulu",
+          "followers_count": 28039,
+          "friends_count": 1138,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 120,
+          "reply_count": 33,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 179468,
+        "friends_count": 1553,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 19,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2021786678671683901",
       "text": "https://t.co/2rPmxLbBHw",
