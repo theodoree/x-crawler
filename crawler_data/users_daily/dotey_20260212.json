@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 180663,
+    "followers_count": 180718,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260212",
-  "last_updated": "2026-02-12T20:11:05.815339",
-  "tweet_count": 13,
+  "last_updated": "2026-02-12T22:09:27.550277",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2021786678671683901",
@@ -368,6 +368,102 @@
         "retweet_count": 0,
         "favorite_count": 0,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022053849889120655",
+      "text": "更新一下：我之前把段子当真了，刚用 Codex 分析了 Claude Code 客户端代码（混淆后但是还是明文），没有发现任何 Claude Code 会根据模型更新 Prompt 的证据。\n\n所以我之前说的并不准确，已删帖。 https://t.co/x6ZDKuKRfC",
+      "created_at": "Thu Feb 12 21:03:00 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022053738102616064",
+          "url": "https://pbs.twimg.com/media/HA_HKVhbcAABvPc.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2022053830939303936",
+          "url": "https://pbs.twimg.com/media/HA_HPvXa4AAdmRt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2021966178739270021",
+        "text": "Claude Code 的一些神秘更新导致 Kimi K2.5 的 Cache 命中率降低，目前我们已经定位到问题并进行修复，各位可以继续快乐地在 Claude Code 里使用 Kimi K2.5 了😘",
+        "created_at": "Thu Feb 12 15:14:37 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "201578944",
+          "name": "黑",
+          "screen_name": "Hx1u0",
+          "description": "无情的发猫机器🫡 ｜Yet Another “文转🐴”｜KFC 主理人🍟 @Kimi_Moonshot",
+          "followers_count": 4549,
+          "friends_count": 549,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 123,
+          "reply_count": 13,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022054541492203595",
+      "text": "RT @supercarl87: @JenniferPe20922 @dotey 做了一个简单工作流，包括移除图片背景， 人工审核， 然后upscale 。如果背景移除不好的， 自己再用ps 手动去除， sample 在这里， 如有需要，我可以加入更多自动化步骤https://…",
+      "created_at": "Thu Feb 12 21:05:45 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2022048780028457244",
+        "text": "@JenniferPe20922 @dotey 做了一个简单工作流，包括移除图片背景， 人工审核， 然后upscale 。如果背景移除不好的， 自己再用ps 手动去除， sample 在这里， 如有需要，我可以加入更多自动化步骤https://t.co/kqErUS1IDQ https://t.co/itkIrNSNQ7",
+        "created_at": "Thu Feb 12 20:42:51 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022048088215769088",
+            "url": "https://video.twimg.com/amplify_video/2022048088215769088/vid/avc1/3720x2160/xHCBXMsUxGfeO1wC.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "53851070",
+          "name": "supercarl",
+          "screen_name": "supercarl87",
+          "description": "Founder for https://t.co/Mz5GNqY2Ua, creator of PSPM https://t.co/ZqVAYWi46A and AnyT notebook\nhttps://t.co/Y7CTbw7mfE",
+          "followers_count": 191,
+          "friends_count": 448,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 6,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
