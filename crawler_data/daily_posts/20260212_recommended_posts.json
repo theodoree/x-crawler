@@ -1,12 +1,37 @@
 {
   "date": "20260212",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-12T03:04:23.160553",
-  "tweet_count": 211,
-  "unique_tweet_count": 211,
-  "total_crawled": 400,
-  "duplicates_removed": 189,
+  "last_crawl_time": "2026-02-12T04:42:23.470223",
+  "tweet_count": 212,
+  "unique_tweet_count": 212,
+  "total_crawled": 411,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2021786678671683901",
+      "text": "https://t.co/2rPmxLbBHw",
+      "created_at": "Thu Feb 12 03:21:21 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 179129,
+        "friends_count": 1553,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 31,
+        "reply_count": 8,
+        "quote_count": 2
+      }
+    },
     {
       "id": "2021749598306631996",
       "text": "RT @Teslaconomics: It’s clear. \n\nElon has a bunch of super nerds, that are kind hearted, and extremely driven running xAI.",
