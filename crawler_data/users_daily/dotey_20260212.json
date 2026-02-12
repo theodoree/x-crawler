@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 180547,
+    "followers_count": 180639,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260212",
-  "last_updated": "2026-02-12T16:21:17.894354",
-  "tweet_count": 8,
+  "last_updated": "2026-02-12T18:21:23.008876",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2021786678671683901",
@@ -232,6 +232,99 @@
         "retweet_count": 0,
         "favorite_count": 2,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022003280587653515",
+      "text": "这个太逗了，Claude Code 如果检测到模型名称不是 Claude，它就会在每次生成回复时，悄悄修改系统提示词 里的一个空格符号导致缓存失败。\n\n这样用其他模型使用 Claude Code 成本就会飙升（因为不能用Cache）。\n\n这还真的挺 Anthropic 的 😂",
+      "created_at": "Thu Feb 12 17:42:03 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021983258733687163",
+        "text": "@Hx1u0 Adversarial cache recomputation:\n\ne.g., if model_name is not claude, edit the space symbol in system prompt for every response\n\nyo, i mean it's stupid and naive, but sounds like something Anthropic would do",
+        "created_at": "Thu Feb 12 16:22:30 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1543864209322156032",
+          "name": "Hanchi Sun",
+          "screen_name": "sun_hanchi",
+          "description": "Make Expert Choice MoE Great Again | Ph.D. Student @LehighCSE | Intern @AdobeResearch | Prev Intern @Samsung_RA",
+          "followers_count": 383,
+          "friends_count": 572,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 27,
+          "reply_count": 1,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 10,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022003380730966497",
+      "text": "FYI https://t.co/XRkmyyzLEU",
+      "created_at": "Thu Feb 12 17:42:27 +0000 2026",
+      "lang": "und",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021966178739270021",
+        "text": "Claude Code 的一些神秘更新导致 Kimi K2.5 的 Cache 命中率降低，目前我们已经定位到问题并进行修复，各位可以继续快乐地在 Claude Code 里使用 Kimi K2.5 了😘",
+        "created_at": "Thu Feb 12 15:14:37 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "201578944",
+          "name": "黑",
+          "screen_name": "Hx1u0",
+          "description": "无情的发猫机器🫡 ｜Yet Another “文转🐴”｜KFC 主理人🍟 @Kimi_Moonshot",
+          "followers_count": 4507,
+          "friends_count": 549,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 95,
+          "reply_count": 10,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022010381367996824",
+      "text": "https://t.co/wHwjWhDVsc",
+      "created_at": "Thu Feb 12 18:10:16 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
         "quote_count": 0
       }
     }

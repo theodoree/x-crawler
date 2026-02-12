@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234462305,
+    "followers_count": 234471590,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260212",
-  "last_updated": "2026-02-12T16:21:17.868897",
-  "tweet_count": 29,
+  "last_updated": "2026-02-12T18:21:22.984192",
+  "tweet_count": 31,
   "tweets": [
     {
       "id": "2021745508277268824",
@@ -1372,6 +1372,97 @@
         "favorite_count": 609,
         "reply_count": 256,
         "quote_count": 21
+      }
+    },
+    {
+      "id": "2022005060587466960",
+      "text": "Not just anoether theorem. \n\nEverything follows from symmetry, except asymmetry or maybe even that too.",
+      "created_at": "Thu Feb 12 17:49:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021791539765096747",
+        "text": "Noether’s Theorem ✍️\n\nThis equation reveals that every continuous symmetry in nature, a change you can make to a system without affecting its physical laws, brings about a conservation law. In simple terms, if the universe does not react to a certain change in perspective, it must keep a related physical quantity constant. For example, since the laws of physics remain unchanged no matter when you are (Time Symmetry), energy is conserved. Since the laws are the same regardless of where you are (Space Symmetry), momentum is conserved. Because they stay the same regardless of which way you face (Rotation Symmetry), angular momentum is conserved. This insight shifted our view of the universe. We no longer see conservation as just a series of lucky observations, but as a necessary outcome of the symmetry of space and time.",
+        "created_at": "Thu Feb 12 03:40:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021791531154444288",
+            "url": "https://pbs.twimg.com/media/HA7Yr4hakAAzdCf.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1084296342845845504",
+          "name": "ScieVision",
+          "screen_name": "scievision369",
+          "description": "Researcher | Posting & Exploring related #science, #nature, and #technology | DM for credits/removal",
+          "followers_count": 11360,
+          "friends_count": 751,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 305,
+          "favorite_count": 1682,
+          "reply_count": 174,
+          "quote_count": 39
+        }
+      },
+      "stats": {
+        "retweet_count": 877,
+        "favorite_count": 6356,
+        "reply_count": 1394,
+        "quote_count": 55
+      }
+    },
+    {
+      "id": "2022011736258498572",
+      "text": "RT @cb_doge: I asked ChatGPT and Grok: I want to wash my car, and the car wash is 50m away. Should I walk or drive?\n\nGrok: Drive because th…",
+      "created_at": "Thu Feb 12 18:15:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021984951428944329",
+        "text": "I asked ChatGPT and Grok: I want to wash my car, and the car wash is 50m away. Should I walk or drive?\n\nGrok: Drive because the car literally needs to be at the car wash to get washed.\n\nChatGPT: Walk!\n\nChatGPT is so dumb.",
+        "created_at": "Thu Feb 12 16:29:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021984238497935368",
+            "url": "https://video.twimg.com/amplify_video/2021984238497935368/vid/avc1/1162x1044/8t_8smWw6iWnj9BG.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1830718,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 346,
+          "favorite_count": 2801,
+          "reply_count": 532,
+          "quote_count": 89
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 346,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

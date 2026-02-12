@@ -1,12 +1,246 @@
 {
   "date": "20260212",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-12T16:21:17.836159",
-  "tweet_count": 237,
-  "unique_tweet_count": 237,
+  "last_crawl_time": "2026-02-12T18:21:22.952899",
+  "tweet_count": 242,
+  "unique_tweet_count": 242,
   "total_crawled": 437,
-  "duplicates_removed": 200,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2022011736258498572",
+      "text": "RT @cb_doge: I asked ChatGPT and Grok: I want to wash my car, and the car wash is 50m away. Should I walk or drive?\n\nGrok: Drive because th…",
+      "created_at": "Thu Feb 12 18:15:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021984951428944329",
+        "text": "I asked ChatGPT and Grok: I want to wash my car, and the car wash is 50m away. Should I walk or drive?\n\nGrok: Drive because the car literally needs to be at the car wash to get washed.\n\nChatGPT: Walk!\n\nChatGPT is so dumb.",
+        "created_at": "Thu Feb 12 16:29:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021984238497935368",
+            "url": "https://video.twimg.com/amplify_video/2021984238497935368/vid/avc1/1162x1044/8t_8smWw6iWnj9BG.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1830718,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 346,
+          "favorite_count": 2801,
+          "reply_count": 532,
+          "quote_count": 89
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234471590,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 346,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022010381367996824",
+      "text": "https://t.co/wHwjWhDVsc",
+      "created_at": "Thu Feb 12 18:10:16 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 180639,
+        "friends_count": 1553,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022005060587466960",
+      "text": "Not just anoether theorem. \n\nEverything follows from symmetry, except asymmetry or maybe even that too.",
+      "created_at": "Thu Feb 12 17:49:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021791539765096747",
+        "text": "Noether’s Theorem ✍️\n\nThis equation reveals that every continuous symmetry in nature, a change you can make to a system without affecting its physical laws, brings about a conservation law. In simple terms, if the universe does not react to a certain change in perspective, it must keep a related physical quantity constant. For example, since the laws of physics remain unchanged no matter when you are (Time Symmetry), energy is conserved. Since the laws are the same regardless of where you are (Space Symmetry), momentum is conserved. Because they stay the same regardless of which way you face (Rotation Symmetry), angular momentum is conserved. This insight shifted our view of the universe. We no longer see conservation as just a series of lucky observations, but as a necessary outcome of the symmetry of space and time.",
+        "created_at": "Thu Feb 12 03:40:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021791531154444288",
+            "url": "https://pbs.twimg.com/media/HA7Yr4hakAAzdCf.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1084296342845845504",
+          "name": "ScieVision",
+          "screen_name": "scievision369",
+          "description": "Researcher | Posting & Exploring related #science, #nature, and #technology | DM for credits/removal",
+          "followers_count": 11360,
+          "friends_count": 751,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 305,
+          "favorite_count": 1682,
+          "reply_count": 174,
+          "quote_count": 39
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234471590,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 877,
+        "favorite_count": 6356,
+        "reply_count": 1394,
+        "quote_count": 55
+      }
+    },
+    {
+      "id": "2022003380730966497",
+      "text": "FYI https://t.co/XRkmyyzLEU",
+      "created_at": "Thu Feb 12 17:42:27 +0000 2026",
+      "lang": "und",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021966178739270021",
+        "text": "Claude Code 的一些神秘更新导致 Kimi K2.5 的 Cache 命中率降低，目前我们已经定位到问题并进行修复，各位可以继续快乐地在 Claude Code 里使用 Kimi K2.5 了😘",
+        "created_at": "Thu Feb 12 15:14:37 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "201578944",
+          "name": "黑",
+          "screen_name": "Hx1u0",
+          "description": "无情的发猫机器🫡 ｜Yet Another “文转🐴”｜KFC 主理人🍟 @Kimi_Moonshot",
+          "followers_count": 4507,
+          "friends_count": 549,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 95,
+          "reply_count": 10,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 180639,
+        "friends_count": 1553,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022003280587653515",
+      "text": "这个太逗了，Claude Code 如果检测到模型名称不是 Claude，它就会在每次生成回复时，悄悄修改系统提示词 里的一个空格符号导致缓存失败。\n\n这样用其他模型使用 Claude Code 成本就会飙升（因为不能用Cache）。\n\n这还真的挺 Anthropic 的 😂",
+      "created_at": "Thu Feb 12 17:42:03 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021983258733687163",
+        "text": "@Hx1u0 Adversarial cache recomputation:\n\ne.g., if model_name is not claude, edit the space symbol in system prompt for every response\n\nyo, i mean it's stupid and naive, but sounds like something Anthropic would do",
+        "created_at": "Thu Feb 12 16:22:30 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1543864209322156032",
+          "name": "Hanchi Sun",
+          "screen_name": "sun_hanchi",
+          "description": "Make Expert Choice MoE Great Again | Ph.D. Student @LehighCSE | Intern @AdobeResearch | Prev Intern @Samsung_RA",
+          "followers_count": 383,
+          "friends_count": 572,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 27,
+          "reply_count": 1,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 180639,
+        "friends_count": 1553,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 10,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2021871219071447321",
       "text": "Grok gets jokes https://t.co/bW8KxUBxGR",
