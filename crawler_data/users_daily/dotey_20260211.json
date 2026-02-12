@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 178959,
+    "followers_count": 178971,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260211",
-  "last_updated": "2026-02-11T22:09:57.244572",
-  "tweet_count": 8,
+  "last_updated": "2026-02-12T00:21:53.167449",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2021402397285786024",
@@ -356,6 +356,66 @@
         "retweet_count": 0,
         "favorite_count": 13,
         "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021711269426765853",
+      "text": "https://t.co/3lnmdbnnTz",
+      "created_at": "Wed Feb 11 22:21:42 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 90,
+        "reply_count": 6,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2021730947096367172",
+      "text": "这是个很好的例子，可以用 Skills 做一个工作流来提升整个生图过程的效率：\n1. Midjourney生成图片如果用 API的话，可以用脚本，如果没API，可以用浏览器自动化操作（参考 baoyu-post-to-wechat Skill），做成一个skill\n2. Gemini 有 API，可以用 API 生成，做成一个skill\n3. photoshop去背景，这个技术已经很成熟了，完全可以用脚本做，做成一个skill\n4. 加文字说明，如果固定位置，脚本搞定，如果需要动态，用 nano banana pro，做成一个 skill\n5. 上传素材到网站，自家网站的话，加一个 API（带认证），直接写个脚本调用 API 上传，不是自家网站也没有API，就用浏览器自动化操作\n6. 写一个编排的主skill，让它自动调用所有已经写好的skills\n\n这些事情绝大部分都可以自动化。如果不知道怎么做，把我上面写的发给 claude code ，让它帮你写",
+      "created_at": "Wed Feb 11 23:39:54 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2021730942725820416",
+          "url": "https://pbs.twimg.com/media/HA6hlLCWkAA5NbU.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2021722557268017413",
+        "text": "@dotey 大佬，我现在每天的重复工作是Midjourney生成大量图，然后Gemini搞定三视图，第三步photoshop去背景，加文字说明，然后suapp高清放大，最后按类别上传素材到网站。\n我想知道这些过程哪些可以用agent替代呢？\nMidjourney生图是快乐的，其余过程都非常枯燥，但占用时间最多。",
+        "created_at": "Wed Feb 11 23:06:34 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1655491367102189569",
+          "name": "Jennifer Perry",
+          "screen_name": "JenniferPe20922",
+          "description": "🏛️ 建筑景观 & 室内设计   ✨ AI 重构设计边界 📂 分享 AI 渲染与数字化资产心得",
+          "followers_count": 1352,
+          "friends_count": 2192,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 38,
+        "reply_count": 2,
         "quote_count": 0
       }
     }
