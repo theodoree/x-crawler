@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234431533,
+    "followers_count": 234436611,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260212",
-  "last_updated": "2026-02-12T08:15:14.688813",
-  "tweet_count": 27,
+  "last_updated": "2026-02-12T10:18:55.974489",
+  "tweet_count": 29,
   "tweets": [
     {
       "id": "2021745508277268824",
@@ -1312,6 +1312,66 @@
         "favorite_count": 12298,
         "reply_count": 2705,
         "quote_count": 195
+      }
+    },
+    {
+      "id": "2021870493209407969",
+      "text": "RT @Handrev: Keynesian economists perform elaborate mathematical gymnastics to \"prove\" that $1 of government spending magically becomes $1.…",
+      "created_at": "Thu Feb 12 08:54:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021742222782197952",
+        "text": "Keynesian economists perform elaborate mathematical gymnastics to \"prove\" that $1 of government spending magically becomes $1.50 of economic growth. This fiscal multiplier fairy tale ignores what Bastiat called the \"unseen\" - the productive investments that never happen because resources were seized by bureaucrats first. Every bridge to nowhere represents a thousand private innovations strangled in their cribs. The seen stimulus creates jobs for government contractors and ribbon-cutting ceremonies for politicians. The unseen is the cancer research, the small businesses, the breakthrough technologies that die stillborn because capital was diverted to political pet projects. Modern economies don't multiply wealth through redistribution any more than you create water by moving it between buckets.",
+        "created_at": "Thu Feb 12 00:24:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021742219321847808",
+            "url": "https://pbs.twimg.com/media/HA6r1joWsAAOn7v.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1194218823408373762",
+          "name": "Handre van Heerden",
+          "screen_name": "Handrev",
+          "description": "Austrian Economic enthusiast, lover of meat, coin, and memes. Hater of fiat currency and government overreach. Here to have fun and bash socialist scum.",
+          "followers_count": 9225,
+          "friends_count": 6204,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 386,
+          "favorite_count": 1424,
+          "reply_count": 147,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 386,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2021871219071447321",
+      "text": "Grok gets jokes https://t.co/bW8KxUBxGR",
+      "created_at": "Thu Feb 12 08:57:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 143,
+        "favorite_count": 609,
+        "reply_count": 256,
+        "quote_count": 21
       }
     }
   ]
