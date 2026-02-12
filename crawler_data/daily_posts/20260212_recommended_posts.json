@@ -1,12 +1,431 @@
 {
   "date": "20260212",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-12T18:21:22.952899",
-  "tweet_count": 242,
-  "unique_tweet_count": 242,
-  "total_crawled": 437,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-02-12T20:11:05.755421",
+  "tweet_count": 251,
+  "unique_tweet_count": 251,
+  "total_crawled": 442,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2022037282015031787",
+      "text": "RT @tylervstorm: Building Grok to 10x the productivity of everyone",
+      "created_at": "Thu Feb 12 19:57:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022022896261247329",
+        "text": "Building Grok to 10x the productivity of everyone",
+        "created_at": "Thu Feb 12 19:00:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2021667200885829667",
+          "text": "Since xAI was formed just 30 months ago, the small and talented team has made remarkable progress.\n\nThe future has never looked more exciting! https://t.co/QZ73H2mpBj",
+          "created_at": "Wed Feb 11 19:26:36 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2021663522305060864",
+              "url": "https://video.twimg.com/amplify_video/2021663522305060864/vid/avc1/1920x1080/AXNodco1AYW0D2dj.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1661523610111193088",
+            "name": "xAI",
+            "screen_name": "xai",
+            "description": "",
+            "followers_count": 1910173,
+            "friends_count": 39,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 1817,
+            "favorite_count": 10774,
+            "reply_count": 1122,
+            "quote_count": 441
+          }
+        },
+        "user": {
+          "id": "899720210084765696",
+          "name": "Tyler Storm",
+          "screen_name": "tylervstorm",
+          "description": "speedrunning @xAI",
+          "followers_count": 7557,
+          "friends_count": 328,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 75,
+          "favorite_count": 534,
+          "reply_count": 109,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234463793,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 75,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022034584536555592",
+      "text": "The most beautiful theorems \n https://t.co/BWCQOtpHXk",
+      "created_at": "Thu Feb 12 19:46:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234463793,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 252,
+        "favorite_count": 1803,
+        "reply_count": 671,
+        "quote_count": 34
+      }
+    },
+    {
+      "id": "2022033027116011872",
+      "text": "RT @ZubyMusic: There are people who think telling the truth is 'literally violence', but that literal violence is justified against people…",
+      "created_at": "Thu Feb 12 19:40:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021978045805220086",
+        "text": "There are people who think telling the truth is 'literally violence', but that literal violence is justified against people they disagree with.",
+        "created_at": "Thu Feb 12 16:01:47 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "57441414",
+          "name": "ZUBY:",
+          "screen_name": "ZubyMusic",
+          "description": "Rapper. Author. Speaker. Coach. Husband. Father. Host of 'Real Talk with Zuby' - https://t.co/3XgNXQD6Y1 |  My fitness book - https://t.co/V1Ict6YeLE",
+          "followers_count": 1290210,
+          "friends_count": 4004,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 758,
+          "favorite_count": 4232,
+          "reply_count": 216,
+          "quote_count": 33
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234463793,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 758,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022032630221590983",
+      "text": "6 years ago",
+      "created_at": "Thu Feb 12 19:38:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021950221090271665",
+        "text": "Elon was talking about a Moon base and Moon City back in 2020",
+        "created_at": "Thu Feb 12 14:11:13 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2961936246",
+          "name": "LilHumansBigImpact",
+          "screen_name": "BigImpactHumans",
+          "description": "• I have a smorgasbord of interests • Advancement of humanity 🚀• Sustainable Abundance 🫶🏼 Kardashev cutie ☀️ 💁🏼‍♀️",
+          "followers_count": 208048,
+          "friends_count": 2432,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 274,
+          "reply_count": 37,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234463793,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 381,
+        "favorite_count": 3601,
+        "reply_count": 934,
+        "quote_count": 27
+      }
+    },
+    {
+      "id": "2022031693046329649",
+      "text": "RT @elonmusk: @shauseth Beauty in the subtle imperfections",
+      "created_at": "Thu Feb 12 19:34:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022031611387425234",
+        "text": "@shauseth Beauty in the subtle imperfections",
+        "created_at": "Thu Feb 12 19:34:38 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 234463793,
+          "friends_count": 1285,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 144,
+          "favorite_count": 1346,
+          "reply_count": 332,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234463793,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 144,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022026761845018705",
+      "text": "RT @Real_RobN: Here it is: \n\n@DOGE CONFIRMS: \n\nThe Illegal aliens who were issued Social Security numbers by the Biden–Harris terrorist adm…",
+      "created_at": "Thu Feb 12 19:15:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2021998151838970303",
+        "text": "Here it is: \n\n@DOGE CONFIRMS: \n\nThe Illegal aliens who were issued Social Security numbers by the Biden–Harris terrorist administration.\n\n      •      270,425 in 2021\n      •      590,193 in 2022\n      •      964,163 in 2023\n      •      2,095,247 in 2024 — on it’s way out the door.\n\n \"They've been using their NGO's to dump fake voter registration forms utilizing the fake SS#'s on key county registrar's offices for the last 5-6 election cycles. Then using those fraudulent voter registrations to request ballots in the mail. Then they pay the NGO's to have their staff fill out the ballots and mail them in.\" @drawandstrike \n\n📝Pass the SAVE Act.",
+        "created_at": "Thu Feb 12 17:21:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2021998146180792320",
+            "url": "https://pbs.twimg.com/media/HA-UmdeawAAJG2B.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1499556521457303555",
+          "name": "🇺🇸RealRobert🇺🇸",
+          "screen_name": "Real_RobN",
+          "description": "The Anti-Sheep. The Man Employed by McDonald ‘s Won in 2016 in 2020 and 2024. With the Beginning God Created the Heavens and the Earth. Let the Light Begin.",
+          "followers_count": 307447,
+          "friends_count": 12033,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2244,
+          "favorite_count": 4564,
+          "reply_count": 393,
+          "quote_count": 140
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234463793,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2243,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022024226551869924",
+      "text": "Only two more senators and America gets a new lease on life",
+      "created_at": "Thu Feb 12 19:05:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2021998819672830318",
+        "text": "🎉 Added Senator Wicker\n\nWe’re now at 48\n\nBaby steps to SAVE America 🎉",
+        "created_at": "Thu Feb 12 17:24:20 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 651724,
+          "friends_count": 3756,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2241,
+          "favorite_count": 16898,
+          "reply_count": 843,
+          "quote_count": 111
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234463793,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5619,
+        "favorite_count": 46307,
+        "reply_count": 2382,
+        "quote_count": 182
+      }
+    },
+    {
+      "id": "2022017535969997299",
+      "text": "注：Prompt Caching 需要前面的提示词完全匹配，改一点就会失效\nhttps://t.co/2h4S6F2ZUj https://t.co/TxYbrU62in",
+      "created_at": "Thu Feb 12 18:38:42 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022017412879540224",
+          "url": "https://pbs.twimg.com/media/HA-mH7hW4AAWoL-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 180663,
+        "friends_count": 1553,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022016248360710502",
+      "text": "OpenAI 发布了 GPT-5.3-Codex-Spark，专为实时编程设计的小模型，也是 OpenAI 和 Cerebras 合作后的第一个成果。跑在 Cerebras 晶圆级芯片上，推理速度超过每秒 1000 个 token。https://t.co/oJ6leI4sbb\n\nCodex 之前的强项是长时间自主运行，连续工作几小时甚至几天。但日常写代码更多是改个函数、调个接口、重构一段逻辑，等模型想十几分钟再出结果，体验很差。\n\nCodex-Spark 填的就是这个空缺：你可以一边看它输出一边打断、纠正、追问，像跟一个反应极快的搭档对话。\n\nSWE-Bench Pro 上，Codex-Spark 达到 51% 准确率只需 2.3 分钟，GPT-5.3-Codex 同等准确率要 3 分钟，冲到 57% 则需要 16 分钟。\n\nTerminal-Bench 2.0 上 Spark 得分 58.4%，比不上完整版 Codex 的 77.3%，但大幅超过上一代小模型的 46.1%。\n\nOpenAI 顺便把整条推理管线做了优化：引入持久化 WebSocket 连接，往返开销降 80%，每 token 额外开销降 30%，首 token 响应减半。\n\nCerebras 晶圆级引擎负责极低延迟场景，GPU 仍是训练和推理主力，两者可混合使用。\n\n目前 128K 上下文、纯文本、仅 ChatGPT Pro 用户研究预览。\n\n后续规划是让实时交互和长线任务两种模式融合：Codex 在跟你实时对话的同时，把耗时任务分派给后台子智能体，用户不需要预先选模式。\n\n模型越强，交互速度越是瓶颈，Codex-Spark 是 OpenAI 在这条路上的第一步。",
+      "created_at": "Thu Feb 12 18:33:35 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2022006158765305856",
+          "url": "https://video.twimg.com/amplify_video/2022006158765305856/vid/avc1/3840x2160/q_Yt6WYpYsNrjqhM.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 180663,
+        "friends_count": 1553,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 17,
+        "reply_count": 11,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2022011736258498572",
       "text": "RT @cb_doge: I asked ChatGPT and Grok: I want to wash my car, and the car wash is 50m away. Should I walk or drive?\n\nGrok: Drive because th…",

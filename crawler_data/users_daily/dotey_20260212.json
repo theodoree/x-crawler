@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 180639,
+    "followers_count": 180663,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260212",
-  "last_updated": "2026-02-12T18:21:23.008876",
-  "tweet_count": 11,
+  "last_updated": "2026-02-12T20:11:05.815339",
+  "tweet_count": 13,
   "tweets": [
     {
       "id": "2021786678671683901",
@@ -325,6 +325,49 @@
         "retweet_count": 0,
         "favorite_count": 1,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022016248360710502",
+      "text": "OpenAI 发布了 GPT-5.3-Codex-Spark，专为实时编程设计的小模型，也是 OpenAI 和 Cerebras 合作后的第一个成果。跑在 Cerebras 晶圆级芯片上，推理速度超过每秒 1000 个 token。https://t.co/oJ6leI4sbb\n\nCodex 之前的强项是长时间自主运行，连续工作几小时甚至几天。但日常写代码更多是改个函数、调个接口、重构一段逻辑，等模型想十几分钟再出结果，体验很差。\n\nCodex-Spark 填的就是这个空缺：你可以一边看它输出一边打断、纠正、追问，像跟一个反应极快的搭档对话。\n\nSWE-Bench Pro 上，Codex-Spark 达到 51% 准确率只需 2.3 分钟，GPT-5.3-Codex 同等准确率要 3 分钟，冲到 57% 则需要 16 分钟。\n\nTerminal-Bench 2.0 上 Spark 得分 58.4%，比不上完整版 Codex 的 77.3%，但大幅超过上一代小模型的 46.1%。\n\nOpenAI 顺便把整条推理管线做了优化：引入持久化 WebSocket 连接，往返开销降 80%，每 token 额外开销降 30%，首 token 响应减半。\n\nCerebras 晶圆级引擎负责极低延迟场景，GPU 仍是训练和推理主力，两者可混合使用。\n\n目前 128K 上下文、纯文本、仅 ChatGPT Pro 用户研究预览。\n\n后续规划是让实时交互和长线任务两种模式融合：Codex 在跟你实时对话的同时，把耗时任务分派给后台子智能体，用户不需要预先选模式。\n\n模型越强，交互速度越是瓶颈，Codex-Spark 是 OpenAI 在这条路上的第一步。",
+      "created_at": "Thu Feb 12 18:33:35 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2022006158765305856",
+          "url": "https://video.twimg.com/amplify_video/2022006158765305856/vid/avc1/3840x2160/q_Yt6WYpYsNrjqhM.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 17,
+        "reply_count": 11,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2022017535969997299",
+      "text": "注：Prompt Caching 需要前面的提示词完全匹配，改一点就会失效\nhttps://t.co/2h4S6F2ZUj https://t.co/TxYbrU62in",
+      "created_at": "Thu Feb 12 18:38:42 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022017412879540224",
+          "url": "https://pbs.twimg.com/media/HA-mH7hW4AAWoL-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
         "quote_count": 0
       }
     }
