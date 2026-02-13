@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 180718,
+    "followers_count": 180842,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260212",
-  "last_updated": "2026-02-12T22:09:27.550277",
-  "tweet_count": 15,
+  "last_updated": "2026-02-13T00:24:08.725316",
+  "tweet_count": 17,
   "tweets": [
     {
       "id": "2021786678671683901",
@@ -465,6 +465,60 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2022074016656191809",
+      "text": "https://t.co/PclYVyw7Xc",
+      "created_at": "Thu Feb 12 22:23:08 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 78,
+        "reply_count": 7,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2022084975898558590",
+      "text": "Spotify 语出惊人：得益于 AI，我们最顶尖的开发者从去年 12 月起就没亲手写过一行代码\nFrom：TechCrunch\n\nAI 编程是否已经到达了引爆点？对于 Spotify 来说，答案似乎是肯定的。\n\n在本周举行的第四季度财报电话会议上，Spotify 分享了一个令人咋舌的消息：公司里最优秀的开发者“自去年 12 月以来，就没有写过哪怕一行代码”。这番言论出自 Spotify 联合首席执行官 Gustav Söderström 之口，背景正是该公司正在利用 AI 全面加速产品研发。\n\n值得注意的是，Spotify 指出他们在 2025 年全年为这款流媒体应用发布了超过 50 项新功能和改进。而且就在最近几周，他们又密集推出了一系列新功能，比如由 AI 驱动的“提示词播放列表”（Prompted Playlists）、针对有声读物的“页面匹配”（Page Match），以及“关于这首歌”（About This Song）。\n\n为了实现如此惊人的产品迭代速度，Spotify 告诉分析师，他们的工程师正在使用一套名为“Honk”的内部系统。这个系统允许利用生成式 AI——具体来说是 Claude Code——来实现远程、实时的代码部署。\n\nSöderström 举了一个非常具体的例子，画面感极强：\n\n“想象一下，一位 Spotify 的工程师在早上通勤的路上，只需要掏出手机，在 Slack （一款类似飞书、钉钉的企业办公协作软件） 上告诉 Claude 去修复一个 Bug 或者给 iOS 应用加个新功能。当 Claude 完成工作后，工程师的手机 Slack 上就会收到一个新版本的应用安装包。他可以直接测试，然后合并发布到生产环境——而这一切，甚至发生在他还没踏进办公室大门之前。”\n\nSpotify 认为，这套系统在加速编程和部署流程方面功不可没，效率提升是“巨大”的。\n\n“我们预见，这绝不是 AI 开发模式的终点，而仅仅是个开始，”Söderström 说道。\n\n这位高管还吹捧了 Spotify 构建独特数据集的能力，这是其他大语言模型（LLM）无法像抓取维基百科那样轻易将其变成通用商品的。他解释说，因为音乐相关的问题并不总有一个绝对的事实答案。\n\n举个例子，如果你问“什么是健身音乐？”，不同的人会给你完全不同的答案，这往往取决于他们住在哪里。美国人总体上偏爱嘻哈音乐，但也有数以百万计的人喜欢伴着死亡金属（death metal）锻炼；很多欧洲人喜欢电子舞曲（EDM），而许多斯堪的纳维亚人 （北欧人） 则对重金属情有独钟。\n\n“这是我们目前正在构建的一个数据集，其他人都没有真正在做。这种规模的数据集是独一无二的。而且我们看到，每次重新训练模型时，它的表现都在提升，”Söderström 指出。\n\n电话会议上的分析师还询问了 Spotify 对 AI 生成音乐的态度。公司解释说，他们允许艺术家和唱片公司在歌曲的元数据中标记这首歌是如何制作的 （比如是否使用了 AI 辅助），但平台依然会严格监管，打击垃圾内容。\n\n来源：https://t.co/P3QTiUukjn",
+      "created_at": "Thu Feb 12 23:06:41 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022016688699674692",
+        "text": "Spotify says its best developers haven’t written a line of code since December, thanks to AI https://t.co/6hafAJOeJv",
+        "created_at": "Thu Feb 12 18:35:20 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "816653",
+          "name": "TechCrunch",
+          "screen_name": "TechCrunch",
+          "description": "Technology news and analysis with a focus on founders and startup teams. Got a tip? https://t.co/J0WxnZxSRY",
+          "followers_count": 9693915,
+          "friends_count": 461,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 120,
+          "favorite_count": 1116,
+          "reply_count": 76,
+          "quote_count": 101
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 40,
+        "reply_count": 12,
+        "quote_count": 3
       }
     }
   ]
