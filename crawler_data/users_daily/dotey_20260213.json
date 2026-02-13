@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 181533,
+    "followers_count": 181570,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260213",
-  "last_updated": "2026-02-13T18:14:34.671479",
-  "tweet_count": 6,
+  "last_updated": "2026-02-13T20:11:17.227959",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2022149762158571827",
@@ -218,6 +218,213 @@
         "retweet_count": 2,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022378949729218735",
+      "text": "RT @virushuo: 我参与了中文版翻译工作。希望把关于 AI 时代经济与治理的讨论带给更多中文读者，欢迎大家指出任何翻译/术语建议。虽然AI已经能做大部分翻译任务，但翻译过程中还是有很大量的人类对齐工作，尤其一些概念中/英差距很大，又要兼顾原作者表达的语气和方式，整个工…",
+      "created_at": "Fri Feb 13 18:34:50 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2022333602978267383",
+        "text": "我参与了中文版翻译工作。希望把关于 AI 时代经济与治理的讨论带给更多中文读者，欢迎大家指出任何翻译/术语建议。虽然AI已经能做大部分翻译任务，但翻译过程中还是有很大量的人类对齐工作，尤其一些概念中/英差距很大，又要兼顾原作者表达的语气和方式，整个工作体验还是很有意思的。",
+        "created_at": "Fri Feb 13 15:34:38 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2022284127542624467",
+          "text": "你好，中国的朋友们！\n\n《The Last Economy》中文版现已上线，可在我们网站免费阅读。\n\n“The Last Economy” by @EMostaque  is now available in Chinese\n\nWhat language should we do next? https://t.co/EfmoKgn3zU",
+          "created_at": "Fri Feb 13 12:18:02 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2022283827176243200",
+              "url": "https://pbs.twimg.com/media/HBCYbSHbgAA8NV8.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1780225561610031104",
+            "name": "Intelligent Internet",
+            "screen_name": "ii_posts",
+            "description": "Sovereign AI. Open Source. For everyone.",
+            "followers_count": 19224,
+            "friends_count": 7,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 10,
+            "favorite_count": 37,
+            "reply_count": 3,
+            "quote_count": 0
+          }
+        },
+        "user": {
+          "id": "49913",
+          "name": "virushuo",
+          "screen_name": "virushuo",
+          "description": "Back to the 2006.  Screeching voices of the minority.\n\nAuthor «Illustrated History of Programming»",
+          "followers_count": 61549,
+          "friends_count": 2760,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 19,
+          "favorite_count": 78,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022379185616900150",
+      "text": "RT @ponyodong: https://t.co/mVkqBS0R8y",
+      "created_at": "Fri Feb 13 18:35:46 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2022220396515442988",
+        "text": "https://t.co/mVkqBS0R8y",
+        "created_at": "Fri Feb 13 08:04:48 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4502885712",
+          "name": "ponyo",
+          "screen_name": "ponyodong",
+          "description": "因为喜爱宫崎骏笔下的金鱼公主，所以叫做波妞Ponyo 音乐学院声乐歌剧系毕业 | AIGC玩家 | 曾任某全球知名动画IP中国区市场负责人 从艺术舞台到国际IP品牌操盘，艺术与商业的跨界者。 声音表达×品牌战略，用情感与创意连接世界。",
+          "followers_count": 2843,
+          "friends_count": 851,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 34,
+          "favorite_count": 143,
+          "reply_count": 26,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 34,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022380725928919420",
+      "text": "Gemini 出了一个 Skill 帮你开发 Gemini API\n说实话，实用性不高，因为如果你不需要高频使用，就没必要安装，就算你要用，资料也够多，或者复制下它的文档就可以了",
+      "created_at": "Fri Feb 13 18:41:53 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022123808296251451",
+        "text": "We made a skill for the Gemini API! \n\nhttps://t.co/cQtSWWLuWh",
+        "created_at": "Fri Feb 13 01:40:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "284333988",
+          "name": "Logan Kilpatrick",
+          "screen_name": "OfficialLoganK",
+          "description": "member of the technical staff, working on @GoogleAIStudio & the Gemini API. my views!",
+          "followers_count": 273213,
+          "friends_count": 2909,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 188,
+          "favorite_count": 2191,
+          "reply_count": 93,
+          "quote_count": 26
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022390596275466609",
+      "text": "https://t.co/6WMTdRts8Y",
+      "created_at": "Fri Feb 13 19:21:07 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 12,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022392133827932255",
+      "text": "Google Chrome 团队刚刚发布了 WebMCP 的早期预览版。简单来说，WebMCP 是一套标准化协议，让网站可以主动告诉 AI Agent \"你能在我这里做什么、怎么做\"，而不是让 Agent 自己去猜测和操作 DOM。\n\n它提供了两种 API：一种是声明式的，基于 HTML 表单定义标准操作；另一种是命令式的，通过 JavaScript 处理更复杂的动态交互。典型应用场景包括客服工单自动填写、电商购物导航、机票搜索预订等。\n\nWebMCP 是在浏览器层面为 AI Agent 建立了一条与网站直接对话的通道，网站不再是被动等着 Agent 来“点点点”，而是主动暴露结构化的工具接口，让 Agent 操作更快、更准、更可靠。目前处于早期预览阶段，感兴趣的开发者可以申请加入预览计划。\n\n申请地址：https://t.co/U7MdhYdDfx",
+      "created_at": "Fri Feb 13 19:27:13 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022363079976034455",
+        "text": "WebMCP is available for early preview → https://t.co/bZMcANfg37\n\nWebMCP aims to provide a standard way for exposing structured tools, ensuring AI agents can perform actions on your side with increased speed, reliability, and precision. https://t.co/9NvSi6rMdV",
+        "created_at": "Fri Feb 13 17:31:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022363077094637569",
+            "url": "https://pbs.twimg.com/media/HBDggPEXgAEzy4q.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "113713261",
+          "name": "Chrome for Developers",
+          "screen_name": "ChromiumDev",
+          "description": "The official Chrome Devs X account from Google. We want to help you build beautiful, accessible, fast, & secure websites that work for everyone, everywhere.",
+          "followers_count": 410730,
+          "friends_count": 124,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 75,
+          "favorite_count": 636,
+          "reply_count": 21,
+          "quote_count": 19
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 10,
+        "reply_count": 2,
         "quote_count": 0
       }
     }
