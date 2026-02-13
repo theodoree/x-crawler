@@ -1,0 +1,60 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 234489470,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260213",
+  "last_updated": "2026-02-13T03:04:35.962489",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2022131454155927904",
+      "text": "RT @xAIMemphis: From Day One, @xAI has been upgrading grid infrastructure and ensuring ratepayers don’t pick up our tab. \n\nToday, we are co…",
+      "created_at": "Fri Feb 13 02:11:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022098797829210250",
+        "text": "From Day One, @xAI has been upgrading grid infrastructure and ensuring ratepayers don’t pick up our tab. \n\nToday, we are continuing our commitment by installing our own power lines to power our MACROHARD facilities. https://t.co/m01cEn8Vn0",
+        "created_at": "Fri Feb 13 00:01:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022098790312759297",
+            "url": "https://pbs.twimg.com/media/HA_wIuFW0AEvrjK.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1937236128010240001",
+          "name": "xAI Memphis",
+          "screen_name": "xAIMemphis",
+          "description": "",
+          "followers_count": 21912,
+          "friends_count": 52,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 346,
+          "favorite_count": 3012,
+          "reply_count": 216,
+          "quote_count": 35
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 346,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
