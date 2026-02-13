@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 181570,
+    "followers_count": 181598,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260213",
-  "last_updated": "2026-02-13T20:11:17.227959",
-  "tweet_count": 11,
+  "last_updated": "2026-02-13T22:10:45.042277",
+  "tweet_count": 13,
   "tweets": [
     {
       "id": "2022149762158571827",
@@ -425,6 +425,90 @@
         "retweet_count": 2,
         "favorite_count": 10,
         "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022405822974943552",
+      "text": "从 Google 积极推进并开源 Skills 这件事，是很有意义的。\n但就 Gemini API 这个 Skill 场景我觉得意义不大\n\n建议看看 Skill 内容：https://t.co/h6idNXkYDQ\n\nhttps://t.co/sth8wnLuEn",
+      "created_at": "Fri Feb 13 20:21:37 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022402318151602620",
+        "text": "@dotey 我不知道我理解的对不对，如果按照我的理解我认为是有意义的。google的Agent产品本身就没有 claude 那么封闭，这种实现方式，可能会是绝大多数其他Agent开发者的标准路线：设定 skill，直接注入llm，然后再组装最后的各个组件形成 Agent。这种实现会比 claude 这种纯封闭的更容易理解。不知道对不对。",
+        "created_at": "Fri Feb 13 20:07:41 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1999899282951086080",
+          "name": "稚嫩",
+          "screen_name": "imombtop",
+          "description": "兄弟们 我只能说一切尽在不言中 否则号太容易炸了😹\n下方是入口群 大家要是喜欢就点进去看看 好看的多着呢\n因为老号炸了，这是新号，希望多多关注吧 绝对让兄弟们喜欢💕",
+          "followers_count": 117,
+          "friends_count": 8,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022421692736573773",
+      "text": "按我的理解，X 核心工程团队确实是 30 个人左右，另外还有大约 30 名 xAI 的工程师专门在做 X 的纯 AI 推荐系统。\n\n如果加上法律、销售、运营、内容审核、客服等非工程岗位有 2000 左右。\n\nhttps://t.co/ZnFvMeopYV https://t.co/KIKUghy29h",
+      "created_at": "Fri Feb 13 21:24:40 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022420243260334080",
+          "url": "https://pbs.twimg.com/media/HBEUfvoXYAActkz.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2022407254960673063",
+        "text": "@dotey 好像不是30人，而是2000多人。30人只是负责算法部分的？",
+        "created_at": "Fri Feb 13 20:27:18 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1439549208969744390",
+          "name": "Pei",
+          "screen_name": "XiaotiaoWang",
+          "description": "开源AI应用开发者，超级个体研究，一言不合就发布新项目；代码·产品·AI·人类的未来；https://t.co/Y5fDmF0T5h\nhttps://t.co/A0Q1Ga9SLi, https://t.co/2ivm720BWb, ...",
+          "followers_count": 523,
+          "friends_count": 450,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
         "quote_count": 0
       }
     }

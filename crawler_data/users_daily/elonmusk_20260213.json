@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234543750,
+    "followers_count": 234549565,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260213",
-  "last_updated": "2026-02-13T20:11:17.235597",
-  "tweet_count": 10,
+  "last_updated": "2026-02-13T22:10:45.010201",
+  "tweet_count": 14,
   "tweets": [
     {
       "id": "2022131454155927904",
@@ -474,6 +474,200 @@
       "quoted": null,
       "stats": {
         "retweet_count": 285,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022415765853606091",
+      "text": "RT @as400495: From @WSJ Editorial Board: \"Such data would have shown the surge in what is alleged to be fake autism diagnoses and treatment…",
+      "created_at": "Fri Feb 13 21:01:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022378006740644104",
+        "text": "From @WSJ Editorial Board: \"Such data would have shown the surge in what is alleged to be fake autism diagnoses and treatments in Minnesota that were billed by fly-by-night Medicaid providers.\"",
+        "created_at": "Fri Feb 13 18:31:05 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2022370909211021376",
+          "text": "Today the HHS DOGE team open sourced the largest Medicaid dataset in department history. \n\nThis dataset contains aggregated, provider-level claims data for a specific billing code over time. \n\nFor example, using this dataset, it would have been possible to easily detect the large-scale autism diagnosis fraud seen in Minnesota. \n\nDownload the data yourself:\nhttps://t.co/6h2c6loE9y",
+          "created_at": "Fri Feb 13 18:02:53 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1891334438115483648",
+            "name": "DOGE HHS",
+            "screen_name": "DOGE_HHS",
+            "description": "",
+            "followers_count": 30644,
+            "friends_count": 0,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1869,
+            "favorite_count": 9776,
+            "reply_count": 376,
+            "quote_count": 188
+          }
+        },
+        "user": {
+          "id": "1455993364529262601",
+          "name": "Edward Coristine",
+          "screen_name": "as400495",
+          "description": "@ndstudio - some call me big balls",
+          "followers_count": 55907,
+          "friends_count": 230,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 317,
+          "favorite_count": 1643,
+          "reply_count": 83,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 317,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022416233644367898",
+      "text": "Medicaid data has been open sourced, so the level of fraud is easy to identify. \n\n@DOGE is not a department, it’s a state of mind.",
+      "created_at": "Fri Feb 13 21:02:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022370909211021376",
+        "text": "Today the HHS DOGE team open sourced the largest Medicaid dataset in department history. \n\nThis dataset contains aggregated, provider-level claims data for a specific billing code over time. \n\nFor example, using this dataset, it would have been possible to easily detect the large-scale autism diagnosis fraud seen in Minnesota. \n\nDownload the data yourself:\nhttps://t.co/6h2c6loE9y",
+        "created_at": "Fri Feb 13 18:02:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1891334438115483648",
+          "name": "DOGE HHS",
+          "screen_name": "DOGE_HHS",
+          "description": "",
+          "followers_count": 30644,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1869,
+          "favorite_count": 9775,
+          "reply_count": 376,
+          "quote_count": 188
+        }
+      },
+      "stats": {
+        "retweet_count": 3927,
+        "favorite_count": 25515,
+        "reply_count": 1653,
+        "quote_count": 127
+      }
+    },
+    {
+      "id": "2022421525115346986",
+      "text": "RT @cb_doge: BREAKING: Grokipedia traffic is surging worldwide. Website visits are now up 52.61% compared to last month.\n\nVisits are rising…",
+      "created_at": "Fri Feb 13 21:24:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022357681672225128",
+        "text": "BREAKING: Grokipedia traffic is surging worldwide. Website visits are now up 52.61% compared to last month.\n\nVisits are rising sharply month over month, as per @Similarweb\n\nKeep sharing Grokipedia links to defeat the Woke Wikipedia. https://t.co/Xvao1qUbZs",
+        "created_at": "Fri Feb 13 17:10:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022357614877904899",
+            "url": "https://video.twimg.com/amplify_video/2022357614877904899/vid/avc1/1080x1080/w-B5JhJY0AQPMifV.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1831184,
+          "friends_count": 903,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 235,
+          "favorite_count": 1216,
+          "reply_count": 195,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 235,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022421931010724265",
+      "text": "RT @ProudofusUK: In 1707, two thousand sailors DROWNED.\nNot because of a storm. \n\nBecause nobody could tell where they were at sea 🇬🇧\n\nThis…",
+      "created_at": "Fri Feb 13 21:25:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022386648466485587",
+        "text": "In 1707, two thousand sailors DROWNED.\nNot because of a storm. \n\nBecause nobody could tell where they were at sea 🇬🇧\n\nThis was the longitude problem. The deadliest puzzle in science.\n\nParliament offered £20,000 to anyone who could solve it. \n\nNearly four million today. \n\nEvery great scientist in Europe tried. Newton. Halley. The finest minds alive.\n\nAll of them failed.\n\nThe man who solved it was a carpenter from Yorkshire.\n\nHis name was John Harrison.\n\nNo formal education. No university. No wealthy patron. He taught himself clockmaking. \n\nBuilt timepieces out of wood.\n\nHis idea was “simple”. If you know the exact time at home and the exact time at sea, you can calculate exactly where you are.\n\nThe problem? \n\nNo clock could keep accurate time on a moving ship. Heat warps metal. Cold contracts it. The ocean never stops moving.\n\nHarrison spent DECADES on it.\n\nH1. Twenty years of work. Not good enough. \n\nH2. Better. Still not enough. \n\nH3. Seventeen years. Over 700 parts. \n\nStill not enough.\n\nThen he did something nobody expected. He stopped building clocks.\n\nHe built a watch.\n\nH4. Thirteen centimetres across. The most important watch ever made.\n\nThey sent it across the Atlantic. Eighty-one days at sea.\n\nWhen they arrived, it had lost five seconds.\n\nFive seconds. In eighty-one days. The problem was solved.\n\nBut here's the uncomfortable part.\n\nThey didn't give him the prize. \n\nThe Board of Longitude was run by astronomers. \n\nThe very men who'd been trying to solve it their own way. \n\nThe Astronomer Royal was both judge and competitor.\n\nThey changed the rules. Demanded his designs. Refused to pay.\n\nA working-class carpenter had beaten every astronomer in Europe. And the establishment couldn't accept it.\n\nHarrison was nearly EIGHTY before he got justice. \n\nHe went directly to King George III. \n\nThe king tested the watch himself and told Harrison to petition Parliament with the king's full backing.\n\nParliament paid. Harrison died three years later.\n\nAfter his death, every ship on earth carried a chronometer based on his design.\n\nEvery GPS satellite. Every ship's navigation. Every flight path. All of it traces back to a carpenter from Yorkshire who taught himself to build a watch.\n\nHis watches are still at the Royal Observatory in Greenwich. Still ticking. \n\nStill perfect.\n\nThe establishment tried to bury him once. \n\nWe're not letting it happen again 👇 https://t.co/rih7iKwnvf\n\nBe part of us. \n\nBe proud of us. 🇬🇧",
+        "created_at": "Fri Feb 13 19:05:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022386477355970560",
+            "url": "https://video.twimg.com/amplify_video/2022386477355970560/vid/avc1/1920x1080/sfU507AnzkpSLDe3.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2004600529755013125",
+          "name": "Proudofus.uk",
+          "screen_name": "ProudofusUK",
+          "description": "The history they left out. Ordinary people who changed the world. Sources & support 👉 https://t.co/wN9S2gRmFj 👈 Be part of us. Be proud of us. 🇬🇧",
+          "followers_count": 35520,
+          "friends_count": 28,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1751,
+          "favorite_count": 8120,
+          "reply_count": 335,
+          "quote_count": 86
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1751,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

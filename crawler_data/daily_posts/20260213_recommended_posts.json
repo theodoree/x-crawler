@@ -1,12 +1,350 @@
 {
   "date": "20260213",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-13T20:11:17.197189",
-  "tweet_count": 221,
-  "unique_tweet_count": 221,
-  "total_crawled": 416,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-02-13T22:10:44.977783",
+  "tweet_count": 227,
+  "unique_tweet_count": 227,
+  "total_crawled": 421,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2022421931010724265",
+      "text": "RT @ProudofusUK: In 1707, two thousand sailors DROWNED.\nNot because of a storm. \n\nBecause nobody could tell where they were at sea 🇬🇧\n\nThis…",
+      "created_at": "Fri Feb 13 21:25:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022386648466485587",
+        "text": "In 1707, two thousand sailors DROWNED.\nNot because of a storm. \n\nBecause nobody could tell where they were at sea 🇬🇧\n\nThis was the longitude problem. The deadliest puzzle in science.\n\nParliament offered £20,000 to anyone who could solve it. \n\nNearly four million today. \n\nEvery great scientist in Europe tried. Newton. Halley. The finest minds alive.\n\nAll of them failed.\n\nThe man who solved it was a carpenter from Yorkshire.\n\nHis name was John Harrison.\n\nNo formal education. No university. No wealthy patron. He taught himself clockmaking. \n\nBuilt timepieces out of wood.\n\nHis idea was “simple”. If you know the exact time at home and the exact time at sea, you can calculate exactly where you are.\n\nThe problem? \n\nNo clock could keep accurate time on a moving ship. Heat warps metal. Cold contracts it. The ocean never stops moving.\n\nHarrison spent DECADES on it.\n\nH1. Twenty years of work. Not good enough. \n\nH2. Better. Still not enough. \n\nH3. Seventeen years. Over 700 parts. \n\nStill not enough.\n\nThen he did something nobody expected. He stopped building clocks.\n\nHe built a watch.\n\nH4. Thirteen centimetres across. The most important watch ever made.\n\nThey sent it across the Atlantic. Eighty-one days at sea.\n\nWhen they arrived, it had lost five seconds.\n\nFive seconds. In eighty-one days. The problem was solved.\n\nBut here's the uncomfortable part.\n\nThey didn't give him the prize. \n\nThe Board of Longitude was run by astronomers. \n\nThe very men who'd been trying to solve it their own way. \n\nThe Astronomer Royal was both judge and competitor.\n\nThey changed the rules. Demanded his designs. Refused to pay.\n\nA working-class carpenter had beaten every astronomer in Europe. And the establishment couldn't accept it.\n\nHarrison was nearly EIGHTY before he got justice. \n\nHe went directly to King George III. \n\nThe king tested the watch himself and told Harrison to petition Parliament with the king's full backing.\n\nParliament paid. Harrison died three years later.\n\nAfter his death, every ship on earth carried a chronometer based on his design.\n\nEvery GPS satellite. Every ship's navigation. Every flight path. All of it traces back to a carpenter from Yorkshire who taught himself to build a watch.\n\nHis watches are still at the Royal Observatory in Greenwich. Still ticking. \n\nStill perfect.\n\nThe establishment tried to bury him once. \n\nWe're not letting it happen again 👇 https://t.co/rih7iKwnvf\n\nBe part of us. \n\nBe proud of us. 🇬🇧",
+        "created_at": "Fri Feb 13 19:05:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022386477355970560",
+            "url": "https://video.twimg.com/amplify_video/2022386477355970560/vid/avc1/1920x1080/sfU507AnzkpSLDe3.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2004600529755013125",
+          "name": "Proudofus.uk",
+          "screen_name": "ProudofusUK",
+          "description": "The history they left out. Ordinary people who changed the world. Sources & support 👉 https://t.co/wN9S2gRmFj 👈 Be part of us. Be proud of us. 🇬🇧",
+          "followers_count": 35520,
+          "friends_count": 28,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1751,
+          "favorite_count": 8120,
+          "reply_count": 335,
+          "quote_count": 86
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234549565,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1751,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022421692736573773",
+      "text": "按我的理解，X 核心工程团队确实是 30 个人左右，另外还有大约 30 名 xAI 的工程师专门在做 X 的纯 AI 推荐系统。\n\n如果加上法律、销售、运营、内容审核、客服等非工程岗位有 2000 左右。\n\nhttps://t.co/ZnFvMeopYV https://t.co/KIKUghy29h",
+      "created_at": "Fri Feb 13 21:24:40 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022420243260334080",
+          "url": "https://pbs.twimg.com/media/HBEUfvoXYAActkz.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2022407254960673063",
+        "text": "@dotey 好像不是30人，而是2000多人。30人只是负责算法部分的？",
+        "created_at": "Fri Feb 13 20:27:18 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1439549208969744390",
+          "name": "Pei",
+          "screen_name": "XiaotiaoWang",
+          "description": "开源AI应用开发者，超级个体研究，一言不合就发布新项目；代码·产品·AI·人类的未来；https://t.co/Y5fDmF0T5h\nhttps://t.co/A0Q1Ga9SLi, https://t.co/2ivm720BWb, ...",
+          "followers_count": 523,
+          "friends_count": 450,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 181598,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022421525115346986",
+      "text": "RT @cb_doge: BREAKING: Grokipedia traffic is surging worldwide. Website visits are now up 52.61% compared to last month.\n\nVisits are rising…",
+      "created_at": "Fri Feb 13 21:24:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022357681672225128",
+        "text": "BREAKING: Grokipedia traffic is surging worldwide. Website visits are now up 52.61% compared to last month.\n\nVisits are rising sharply month over month, as per @Similarweb\n\nKeep sharing Grokipedia links to defeat the Woke Wikipedia. https://t.co/Xvao1qUbZs",
+        "created_at": "Fri Feb 13 17:10:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022357614877904899",
+            "url": "https://video.twimg.com/amplify_video/2022357614877904899/vid/avc1/1080x1080/w-B5JhJY0AQPMifV.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1831184,
+          "friends_count": 903,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 235,
+          "favorite_count": 1216,
+          "reply_count": 195,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234549565,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 235,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022416233644367898",
+      "text": "Medicaid data has been open sourced, so the level of fraud is easy to identify. \n\n@DOGE is not a department, it’s a state of mind.",
+      "created_at": "Fri Feb 13 21:02:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022370909211021376",
+        "text": "Today the HHS DOGE team open sourced the largest Medicaid dataset in department history. \n\nThis dataset contains aggregated, provider-level claims data for a specific billing code over time. \n\nFor example, using this dataset, it would have been possible to easily detect the large-scale autism diagnosis fraud seen in Minnesota. \n\nDownload the data yourself:\nhttps://t.co/6h2c6loE9y",
+        "created_at": "Fri Feb 13 18:02:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1891334438115483648",
+          "name": "DOGE HHS",
+          "screen_name": "DOGE_HHS",
+          "description": "",
+          "followers_count": 30644,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1869,
+          "favorite_count": 9775,
+          "reply_count": 376,
+          "quote_count": 188
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234549565,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3927,
+        "favorite_count": 25515,
+        "reply_count": 1653,
+        "quote_count": 127
+      }
+    },
+    {
+      "id": "2022415765853606091",
+      "text": "RT @as400495: From @WSJ Editorial Board: \"Such data would have shown the surge in what is alleged to be fake autism diagnoses and treatment…",
+      "created_at": "Fri Feb 13 21:01:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022378006740644104",
+        "text": "From @WSJ Editorial Board: \"Such data would have shown the surge in what is alleged to be fake autism diagnoses and treatments in Minnesota that were billed by fly-by-night Medicaid providers.\"",
+        "created_at": "Fri Feb 13 18:31:05 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2022370909211021376",
+          "text": "Today the HHS DOGE team open sourced the largest Medicaid dataset in department history. \n\nThis dataset contains aggregated, provider-level claims data for a specific billing code over time. \n\nFor example, using this dataset, it would have been possible to easily detect the large-scale autism diagnosis fraud seen in Minnesota. \n\nDownload the data yourself:\nhttps://t.co/6h2c6loE9y",
+          "created_at": "Fri Feb 13 18:02:53 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1891334438115483648",
+            "name": "DOGE HHS",
+            "screen_name": "DOGE_HHS",
+            "description": "",
+            "followers_count": 30644,
+            "friends_count": 0,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1869,
+            "favorite_count": 9776,
+            "reply_count": 376,
+            "quote_count": 188
+          }
+        },
+        "user": {
+          "id": "1455993364529262601",
+          "name": "Edward Coristine",
+          "screen_name": "as400495",
+          "description": "@ndstudio - some call me big balls",
+          "followers_count": 55907,
+          "friends_count": 230,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 317,
+          "favorite_count": 1643,
+          "reply_count": 83,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234549565,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 317,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022405822974943552",
+      "text": "从 Google 积极推进并开源 Skills 这件事，是很有意义的。\n但就 Gemini API 这个 Skill 场景我觉得意义不大\n\n建议看看 Skill 内容：https://t.co/h6idNXkYDQ\n\nhttps://t.co/sth8wnLuEn",
+      "created_at": "Fri Feb 13 20:21:37 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022402318151602620",
+        "text": "@dotey 我不知道我理解的对不对，如果按照我的理解我认为是有意义的。google的Agent产品本身就没有 claude 那么封闭，这种实现方式，可能会是绝大多数其他Agent开发者的标准路线：设定 skill，直接注入llm，然后再组装最后的各个组件形成 Agent。这种实现会比 claude 这种纯封闭的更容易理解。不知道对不对。",
+        "created_at": "Fri Feb 13 20:07:41 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1999899282951086080",
+          "name": "稚嫩",
+          "screen_name": "imombtop",
+          "description": "兄弟们 我只能说一切尽在不言中 否则号太容易炸了😹\n下方是入口群 大家要是喜欢就点进去看看 好看的多着呢\n因为老号炸了，这是新号，希望多多关注吧 绝对让兄弟们喜欢💕",
+          "followers_count": 117,
+          "friends_count": 8,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 181598,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2022392133827932255",
       "text": "Google Chrome 团队刚刚发布了 WebMCP 的早期预览版。简单来说，WebMCP 是一套标准化协议，让网站可以主动告诉 AI Agent \"你能在我这里做什么、怎么做\"，而不是让 Agent 自己去猜测和操作 DOM。\n\n它提供了两种 API：一种是声明式的，基于 HTML 表单定义标准操作；另一种是命令式的，通过 JavaScript 处理更复杂的动态交互。典型应用场景包括客服工单自动填写、电商购物导航、机票搜索预订等。\n\nWebMCP 是在浏览器层面为 AI Agent 建立了一条与网站直接对话的通道，网站不再是被动等着 Agent 来“点点点”，而是主动暴露结构化的工具接口，让 Agent 操作更快、更准、更可靠。目前处于早期预览阶段，感兴趣的开发者可以申请加入预览计划。\n\n申请地址：https://t.co/U7MdhYdDfx",
