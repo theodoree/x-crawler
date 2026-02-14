@@ -1,12 +1,73 @@
 {
   "date": "20260214",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-14T08:08:10.297113",
-  "tweet_count": 216,
-  "unique_tweet_count": 216,
-  "total_crawled": 411,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-02-14T10:06:36.380261",
+  "tweet_count": 218,
+  "unique_tweet_count": 218,
+  "total_crawled": 416,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2022594395137032621",
+      "text": "豆包大模型2.0发布\nhttps://t.co/HWk2n1goHw （公众号）",
+      "created_at": "Sat Feb 14 08:50:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 181802,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022594392406540622",
+      "text": "豆包是我日常用得最多的国产模型，迭代最快最稳。豆包 App 的 C 端日活过亿，火山引擎的模型即服务在国内份额第一，日均 Token 调用量和 OpenAI、Google 是同一档的。能撑起这个体量，模型得过硬。\n\n豆包大模型 2.0 刚发布，第一时间用豆包App“专家”模式测了下洗车问题，效果挺不错，不仅回答出来了，而且因为我是在海外使用，特别说明了中国和美国法律的法规不同。（参考图2）\n\n我看了他们的官方推送（链接见评论），一个感受越来越强：字节是在认真对标 OpenAI 和 Google。\n\n从里面能看出几个不一样的地方。\n\n【1】他们在乎的是用户到底需要什么\n\n豆包 2.0 的官方推送里，反复出现一个词：“真实世界复杂任务”。不是说跑了哪个榜第一，而是围绕大规模生产环境下的使用需求做了系统性优化。\n\n举个具体例子：他们基于 ClawdBot/OpenClaw 框架在飞书上搭了一个智能客服 Agent。这个客服不只是回答问题，它能调用不同 Skills 完成对话，遇到搞不定的问题会主动拉群找真人同事，帮用户预约上门维修，维修完还会主动回访。一个完整的业务闭环，不只是一个 Demo。\n\n【2】自建评测，而不是追着榜单跑\n\n字节做了大量自建的 Benchmark 和内部评测。公开榜单是有限的，而且越来越容易被针对性优化。真正想让模型在生产环境里好用，必须自己定义评估标准。\n\n这让我想起姚顺雨加入腾讯后在内部说的一句话：“不要打榜，也不要盯着榜单做事。真正决定模型能否走出 Demo 的，不是再刷几个榜，而是你有没有把系统放进真实世界的约束里，用真实世界的方式去评估它。”\n\n字节显然很早就在这么做了。\n\n【3】成本降了一个数量级\n\n豆包 2.0 的模型效果对标 GPT 5.2 和 Gemini 3 Pro，但 Token 定价降了大约一个数量级。在 Agent 时代，一个复杂任务可能要消耗大量 Token 做推理和长链路生成，成本是真正的瓶颈。把价格打下来，才能让 Agent 真正普及起来，而不是只有极客在玩。\n\n【4】长期投入，不走捷径\n\n字节在底层技术研究上一直有持续投入，很多工作是长期推进的。比如最近大火的 Seedance 2.0 视频生成模型确实做到了世界领先水平，不是刷榜号称领先，而是产品可用级别的领先。豆包 2.0 的多模态能力也是这种长期积累的结果，在视频理解的 EgoTempo 基准上甚至超过了人类分数。\n\n这些东西不是突击几个月能做出来的。\n\n从产品体量、模型投入、评估体系到成本控制，字节对标的就是 OpenAI 和 Google。豆包用起来确实好用，而且每次更新都能感觉到在变好。对我来说，这比任何跑分都有说服力。",
+      "created_at": "Sat Feb 14 08:50:55 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022594168195788800",
+          "url": "https://pbs.twimg.com/media/HBGyrggWMAAzJQ8.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2022594358940254208",
+          "url": "https://pbs.twimg.com/media/HBGy2nFXwAAmCL1.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 181802,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 24,
+        "reply_count": 8,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2022560702154567989",
       "text": "RT @StephenM: From 2021-2024, Democrats exercised total control over US immigration policy.\n\nThey willfully create the largest and deadlies…",
