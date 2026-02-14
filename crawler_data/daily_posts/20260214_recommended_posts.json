@@ -1,12 +1,379 @@
 {
   "date": "20260214",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-14T04:34:50.362554",
-  "tweet_count": 204,
-  "unique_tweet_count": 204,
+  "last_crawl_time": "2026-02-14T06:16:56.974875",
+  "tweet_count": 211,
+  "unique_tweet_count": 211,
   "total_crawled": 404,
-  "duplicates_removed": 200,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2022551590478000473",
+      "text": "Solar will utterly dominate future electricity production",
+      "created_at": "Sat Feb 14 06:00:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022467318073180649",
+        "text": "Solar is now the dominant source of new U.S. power capacity and is on track to surpass coal in total installed capacity before the end of 2026. \n\n70 GW of new solar capacity is scheduled to come online in 2026–2027 → a 49% increase in operating solar capacity from the end of 2025.",
+        "created_at": "Sat Feb 14 00:25:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022467313690116098",
+            "url": "https://pbs.twimg.com/media/HBE_TmpWgAIcafO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 203329,
+          "friends_count": 1105,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 108,
+          "favorite_count": 615,
+          "reply_count": 214,
+          "quote_count": 23
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234554683,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 282,
+        "favorite_count": 2213,
+        "reply_count": 751,
+        "quote_count": 44
+      }
+    },
+    {
+      "id": "2022551410533945363",
+      "text": "Think in probabilities",
+      "created_at": "Sat Feb 14 06:00:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022498532507426929",
+        "text": "Bayes’ theorem is probably the single most important thing any rational person can learn. \n\nSo many of our debates and disagreements that we shout about are because we don’t understand Bayes’ theorem or how human rationality often works. \n\nBayes’ theorem is named after the 18th-century Thomas Bayes, and essentially it’s a formula that asks: when you are presented with all of the evidence for something, how much should you believe it?\n\nBayes’ theorem teaches us that our beliefs are not fixed; they are probabilities. Our beliefs change as we weigh new evidence against our assumptions, or our priors. In other words, we all carry certain ideas about how the world works, and new evidence can challenge them.\n\nFor example, somebody might believe that smoking is safe, that stress causes mouth ulcers, or that human activity is unrelated to climate change. These are their priors, their starting points. They can be formed by our culture, our biases, or even incomplete information.\n\nNow imagine a new study comes along that challenges one of your priors. A single study might not carry enough weight to overturn your existing beliefs. But as studies accumulate, eventually the scales may tip. At some point, your prior will become less and less plausible.\n\nBayes’ theorem argues that being rational is not about black and white. It’s not even about true or false. It’s about what is most reasonable based on the best available evidence. But for this to work, we need to be presented with as much high-quality data as possible. Without evidence—without belief-forming data—we are left only with our priors and biases. And those aren’t all that rational.",
+        "created_at": "Sat Feb 14 02:30:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022328621990584321",
+            "url": "https://pbs.twimg.com/media/HBDBKrzaoAEeNi8.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1269209727721975809",
+          "name": "Math Files",
+          "screen_name": "Math_files",
+          "description": "Life is nonlinear.\nSo handle it using Math.",
+          "followers_count": 76926,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 158,
+          "favorite_count": 852,
+          "reply_count": 86,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234554683,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 284,
+        "favorite_count": 2156,
+        "reply_count": 665,
+        "quote_count": 36
+      }
+    },
+    {
+      "id": "2022549782045020461",
+      "text": "不止如此，X 的长文编辑器是比微信公众号编辑器还烂的",
+      "created_at": "Sat Feb 14 05:53:39 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022546828483543272",
+        "text": "我不信 \n\n因为 x 的聊天私信迭代做了好几个月了 \n\n还和一坨屎一样 全是bug",
+        "created_at": "Sat Feb 14 05:41:55 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1637070779975352320",
+          "name": "Go学长",
+          "screen_name": "arkuy99",
+          "description": "- 王者荣耀 PUBG Mobile 早期AI NPC 问答开发者 \n- 神庙逃亡 地铁跑酷 全民切水果 主程 \n- IM 即时通讯专家",
+          "followers_count": 2076,
+          "friends_count": 694,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 0,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 181756,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022549324937216227",
+      "text": "RT @Rothmus: 👇 https://t.co/43eKXNRHza",
+      "created_at": "Sat Feb 14 05:51:50 +0000 2026",
+      "lang": "qme",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022515726813384704",
+          "url": "https://pbs.twimg.com/media/HBFrVnlaUAAmLp9.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2022515767296786501",
+        "text": "👇 https://t.co/43eKXNRHza",
+        "created_at": "Sat Feb 14 03:38:30 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022515726813384704",
+            "url": "https://pbs.twimg.com/media/HBFrVnlaUAAmLp9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism. Powered by @rainbetcom",
+          "followers_count": 642839,
+          "friends_count": 2747,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1326,
+          "favorite_count": 8371,
+          "reply_count": 126,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234554683,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1326,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022548636211486884",
+      "text": "RT @MarioNawfal: 🚨🇺🇸 REID HOFFMAN CLAIMS \"THE FBI CLEARED ME\" ON EPSTEIN... THE FILES SAY OTHERWISE\n\nReid Hoffman is now claiming the FBI c…",
+      "created_at": "Sat Feb 14 05:49:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022517494938816684",
+        "text": "🚨🇺🇸 REID HOFFMAN CLAIMS \"THE FBI CLEARED ME\" ON EPSTEIN... THE FILES SAY OTHERWISE\n\nReid Hoffman is now claiming the FBI cleared him of any wrongdoing related to Epstein.\n\nLet's review what the files actually show:\n\nHe visited Epstein's island in November 2014. \n\nStayed at his Manhattan townhouse. \n\nWent to his New Mexico ranch.\n\nWeeks after Virginia Giuffre's sex trafficking allegations went public in December 2014, Hoffman sent Epstein Christmas gifts: ice cream for him or \"for the girls\" and \"something that may strike your funny bone for the island.\"\n\nHe sent Epstein a metal sculpture saying it would \"have an appropriate nature to the island.\"\n\nThen he offered to help manage the scandal: \n\n\"Been giving a bit of thought to how I can help with the recent press fu.\"\n\nHe left his passport at Epstein's place in 2016.\n\nContinued meeting with him through 2018, despite previously claiming contact ended in 2015.\n\nThere's a photo of him sitting at a table with Epstein.\n\n\"Cleared\" is doing a lot of heavy lifting here. \n\nThe files show a man who knew about the allegations, kept visiting, sent gifts \"for the girls,\" and offered PR help.\n\nI think the word he was looking for was ‘documented,’ not ‘cleared.’",
+        "created_at": "Sat Feb 14 03:45:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022517475611676673",
+            "url": "https://pbs.twimg.com/media/HBFs7aXakAEJpN2.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2022517407793725440",
+            "url": "https://pbs.twimg.com/media/HBFs3duWwAA6jy4.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2022514997557883009",
+          "text": "Liar, you are guilty of dark deeds and haven’t been cleared of anything. \n\nYou stayed at Epstein’s island, Epstein’s ranch in New Mexico and Epstein’s house in New York. You offered to help him with PR. You gave him gifts …\n\nMaybe if it was only one stay over, you could claim it was a mistake. Maybe.\n\nBut there is NO possible explanation for the second time, let alone the third time. As the record shows, you were an eager repeat customer.",
+          "created_at": "Sat Feb 14 03:35:26 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234554683,
+            "friends_count": 1285,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 7106,
+            "favorite_count": 66079,
+            "reply_count": 2402,
+            "quote_count": 380
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3006804,
+          "friends_count": 50364,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 574,
+          "favorite_count": 2916,
+          "reply_count": 184,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234554683,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 574,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022531071158432185",
+      "text": "For the Better, Right? Padmé Amidala, Anakin Skywalker Meme https://t.co/O0iVzv0UEq",
+      "created_at": "Sat Feb 14 04:39:18 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022530971866927104",
+          "url": "https://pbs.twimg.com/media/HBF5M_1akAAe8eP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 181756,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022530471725277683",
+      "text": "先科普一下这个梗图的格式。https://t.co/7VoFuuBh7a\n\n它叫 Anakin and Padmé 梗，出自《星球大战前传2》里阿纳金和帕德梅在草地上野餐的场景，是个经典的四格对话模板：\n第一格，阿纳金说一件事（通常暗藏玄机）。\n第二格，帕德梅笑着做了一个善意的假设（“你是为了XX好，对吧？”）。\n第三格，阿纳金沉默，表情阴沉。\n第四格，帕德梅笑容消失，重复刚才的话（意识到事情不对了）。\n\n核心笑点就是“天真的乐观 vs. 冷酷的现实”。\n\n然后有人用 Seedance 2.0 把这个梗做成了AI视频，而且内容本身就在讽刺AI行业。\n\n视频里的对话：\n“我们需要建更多数据中心，AI需要算力。”\n“是为了治愈癌症，对吧？” （沉默）\n“我们是在治愈癌症……对吧？”\n\n到这里还是标准操作。\n\n但最后几秒才是真正的落点：当帕德梅说出最后那句话时，AI把她的形象“处理”了一下，衣服变透、身材变夸张，变成了典型的AI擦边图画风。\n\n字幕还写着“是为了治愈癌症，对吧？”，画面已经给出了答案。\n\n科技公司说，我们烧掉海量的电力、显卡和水资源训练AI，是为了解决人类终极难题。实际呢？相当一部分算力的真实去向，大家心知肚明。\n\n这个视频本身就是用AI生成的，一边用AI做内容，一边嘲讽AI的实际用途。连它的 prompt 都在自嘲：“Sum up the AI discourse in a meme，make sure it gets 50 likes”（用一个梗总结AI行业的讨论，确保能骗到50个赞）。",
+      "created_at": "Sat Feb 14 04:36:55 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2022463232506744832",
+          "url": "https://video.twimg.com/amplify_video/2022463232506744832/vid/avc1/3840x2160/BQSkOqZWIXsWLSYV.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 181756,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 22,
+        "reply_count": 10,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2022492601002144184",
       "text": "RT @virushuo: 最近最大的两个真假难辨的玩笑，一个是Claude code会随机插入空格导致第三方模型cache失效，另外一个是谷爱凌加入benchmark。两者都基于某些特殊的情绪，导致“就算它再奇怪我也愿意相信”。新时代啊。",

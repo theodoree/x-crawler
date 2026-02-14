@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 181729,
+    "followers_count": 181756,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260214",
-  "last_updated": "2026-02-14T04:34:50.390981",
-  "tweet_count": 5,
+  "last_updated": "2026-02-14T06:16:57.035778",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2022465802176167973",
@@ -155,6 +155,88 @@
         "retweet_count": 3,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022530471725277683",
+      "text": "先科普一下这个梗图的格式。https://t.co/7VoFuuBh7a\n\n它叫 Anakin and Padmé 梗，出自《星球大战前传2》里阿纳金和帕德梅在草地上野餐的场景，是个经典的四格对话模板：\n第一格，阿纳金说一件事（通常暗藏玄机）。\n第二格，帕德梅笑着做了一个善意的假设（“你是为了XX好，对吧？”）。\n第三格，阿纳金沉默，表情阴沉。\n第四格，帕德梅笑容消失，重复刚才的话（意识到事情不对了）。\n\n核心笑点就是“天真的乐观 vs. 冷酷的现实”。\n\n然后有人用 Seedance 2.0 把这个梗做成了AI视频，而且内容本身就在讽刺AI行业。\n\n视频里的对话：\n“我们需要建更多数据中心，AI需要算力。”\n“是为了治愈癌症，对吧？” （沉默）\n“我们是在治愈癌症……对吧？”\n\n到这里还是标准操作。\n\n但最后几秒才是真正的落点：当帕德梅说出最后那句话时，AI把她的形象“处理”了一下，衣服变透、身材变夸张，变成了典型的AI擦边图画风。\n\n字幕还写着“是为了治愈癌症，对吧？”，画面已经给出了答案。\n\n科技公司说，我们烧掉海量的电力、显卡和水资源训练AI，是为了解决人类终极难题。实际呢？相当一部分算力的真实去向，大家心知肚明。\n\n这个视频本身就是用AI生成的，一边用AI做内容，一边嘲讽AI的实际用途。连它的 prompt 都在自嘲：“Sum up the AI discourse in a meme，make sure it gets 50 likes”（用一个梗总结AI行业的讨论，确保能骗到50个赞）。",
+      "created_at": "Sat Feb 14 04:36:55 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2022463232506744832",
+          "url": "https://video.twimg.com/amplify_video/2022463232506744832/vid/avc1/3840x2160/BQSkOqZWIXsWLSYV.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 22,
+        "reply_count": 10,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022531071158432185",
+      "text": "For the Better, Right? Padmé Amidala, Anakin Skywalker Meme https://t.co/O0iVzv0UEq",
+      "created_at": "Sat Feb 14 04:39:18 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022530971866927104",
+          "url": "https://pbs.twimg.com/media/HBF5M_1akAAe8eP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022549782045020461",
+      "text": "不止如此，X 的长文编辑器是比微信公众号编辑器还烂的",
+      "created_at": "Sat Feb 14 05:53:39 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022546828483543272",
+        "text": "我不信 \n\n因为 x 的聊天私信迭代做了好几个月了 \n\n还和一坨屎一样 全是bug",
+        "created_at": "Sat Feb 14 05:41:55 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1637070779975352320",
+          "name": "Go学长",
+          "screen_name": "arkuy99",
+          "description": "- 王者荣耀 PUBG Mobile 早期AI NPC 问答开发者 \n- 神庙逃亡 地铁跑酷 全民切水果 主程 \n- IM 即时通讯专家",
+          "followers_count": 2076,
+          "friends_count": 694,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 0,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 5,
         "quote_count": 0
       }
     }
