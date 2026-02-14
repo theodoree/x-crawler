@@ -1,12 +1,608 @@
 {
   "date": "20260214",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-14T14:09:20.670032",
-  "tweet_count": 218,
-  "unique_tweet_count": 218,
+  "last_crawl_time": "2026-02-14T16:07:16.823460",
+  "tweet_count": 228,
+  "unique_tweet_count": 228,
   "total_crawled": 418,
-  "duplicates_removed": 200,
+  "duplicates_removed": 190,
   "tweets": [
+    {
+      "id": "2022696323464728913",
+      "text": "RT @elonmusk: @TheZvi Because everyone’s job is safety. It’s not some fake department with no power to assuage the concerns of outsiders.…",
+      "created_at": "Sat Feb 14 15:35:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022696301482381830",
+        "text": "@TheZvi Because everyone’s job is safety. It’s not some fake department with no power to assuage the concerns of outsiders. \n\nTesla has no safety team and is the safest car. \n\nSpaceX has no safety team and has the safest rocket. Dragon is what NASA trusts most to fly astronauts.",
+        "created_at": "Sat Feb 14 15:35:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 234586816,
+          "friends_count": 1285,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 468,
+          "favorite_count": 4905,
+          "reply_count": 650,
+          "quote_count": 44
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234586816,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 468,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022693521371599313",
+      "text": "Wow",
+      "created_at": "Sat Feb 14 15:24:49 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022441187374661905",
+        "text": "This is perfect. \n\nICE agent: “If you cared, you would care about the child who got raped and the person who got murdered by the guy we’re looking for. “\n\nAwful, ugly white lady: “I don’t care.”\n\nThe entire insane national debate encapsulated in 20 sec.\n\n https://t.co/sYMBU6lIhp",
+        "created_at": "Fri Feb 13 22:42:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022383869475905536",
+            "url": "https://video.twimg.com/amplify_video/2022383869475905536/vid/avc1/884x1486/prKAx1z9DBWklIuk.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "202643200",
+          "name": "Gerry Callahan",
+          "screen_name": "GerryCallahan",
+          "description": "Host @TheCallahanshow. @Newsmax guy. Formerly @SInow, @BostonHerald. Kicked off the radio for saying it's crazy to try to change the sex of a 4-year-old child.",
+          "followers_count": 118756,
+          "friends_count": 930,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6473,
+          "favorite_count": 29679,
+          "reply_count": 1070,
+          "quote_count": 464
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234586816,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4684,
+        "favorite_count": 26106,
+        "reply_count": 1600,
+        "quote_count": 159
+      }
+    },
+    {
+      "id": "2022693118978724277",
+      "text": "Join @xAI",
+      "created_at": "Sat Feb 14 15:23:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022491197667774573",
+        "text": "An xAI engineer just described how the company operates, and buried in that description is the only thing that might save Western technological dominance.\n\nNo organizational overhead. No documentation requirements. No approval chains. You identify what needs building and you build it.\n\nxAI engineer: “There isn’t organizational overhead getting in your way, having to write docs. You just do stuff.”\n\nThat’s not a workplace perk. That’s an emergency response to an existential competitive threat most people refuse to acknowledge.\n\nChina owns 50% of the world’s AI researchers. Not the developing world combined. Not Asia collectively. China alone controls half of every brain advancing the most important technology in human history.\n\nWhile the West celebrates chip sanctions and export controls, China is doing something infinitely more dangerous: removing every organizational barrier between brilliant people and execution.\n\nxAI engineer: “If you want to get shit done, you can get shit done.”\n\nIn most Western companies, that sentence would be fantasy. Compliance reviews. Documentation mandates. Approval hierarchies. Risk assessments. Process optimization. Every layer bleeds velocity while competitors operate without friction.\n\nThis isn’t about efficiency. It’s about survival.\n\nTalent compounds generationally. Elite researchers train the next wave. Each generation builds on everything before it. When you control half the pipeline and let them operate at maximum speed, your advantage doesn’t grow linearly. It explodes exponentially.\n\nThe West responds with governance frameworks. Ethics committees. Responsible AI initiatives. All valuable in peacetime. All fatal when you’re being systematically outpaced by an adversary that captured the talent advantage and eliminated the one thing slowing them down: bureaucracy.\n\nxAI engineer: “It’s truly an environment where you just do stuff.”\n\nThat’s not unique culture. That’s the minimum operational requirement to compete against a system that owns half the world’s AI minds and removed every organizational obstacle between their ideas and reality.\n\nWestern advantages are real. Capital markets. Research institutions. Democratic innovation. All of it becomes irrelevant if the output gap keeps widening because one side builds while the other holds meetings about building.\n\nChina isn’t trying to slow the West down. They don’t need to. They’re accelerating their own execution while Western organizations debate whether acceleration needs additional oversight.\n\nThe math is brutal. Control half the researchers. Remove bureaucratic friction. Compound that advantage across generations. The West doesn’t lose slowly. It becomes a spectator watching the future get built in a language it can’t read fast enough to translate.\n\nThe choice isn’t between chaos and order. It’s between execution and extinction.\n\nEither we build environments where the smartest people can operate at the speed of thought without permission structures, or we watch capability concentrate where those structures were already eliminated and wonder how we lost a war we didn’t realize we were fighting.\n\nThis isn’t about xAI’s culture. It’s about whether Western civilization can remember how to move fast enough to matter before the advantage gap becomes permanent.",
+        "created_at": "Sat Feb 14 02:00:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022491119833993216",
+            "url": "https://video.twimg.com/amplify_video/2022491119833993216/vid/avc1/1078x916/6k9zvzMlN_R_Z4AS.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1826315995532652544",
+          "name": "Dustin",
+          "screen_name": "r0ck3t23",
+          "description": "AI enthusiast: tracking global tech trends, dissecting AI thought, exploring transformative impacts, analyzing ethical shifts, innovation, and future visions.",
+          "followers_count": 10486,
+          "friends_count": 4300,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 98,
+          "favorite_count": 514,
+          "reply_count": 119,
+          "quote_count": 19
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234586816,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 473,
+        "favorite_count": 3720,
+        "reply_count": 1097,
+        "quote_count": 38
+      }
+    },
+    {
+      "id": "2022691501428617278",
+      "text": "😂",
+      "created_at": "Sat Feb 14 15:16:48 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022333509931544847",
+        "text": "British comedian Pat Smith brilliantly points out the hypocrisy surrounding the subject of mass migration in the UK. https://t.co/RjKFBfJzqc",
+        "created_at": "Fri Feb 13 15:34:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022333461626081280",
+            "url": "https://video.twimg.com/amplify_video/2022333461626081280/vid/avc1/576x1024/UA6-uTaGGV5w1XXy.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1616372274805805057",
+          "name": "𝔸η𝐓",
+          "screen_name": "AntSpeaks",
+          "description": "| Commentary on News & Politics in the UK and Elsewhere | History | Pro Common Sense | Check 'Highlights' for articles & threads |",
+          "followers_count": 47694,
+          "friends_count": 9230,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6163,
+          "favorite_count": 26725,
+          "reply_count": 500,
+          "quote_count": 489
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234586816,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2775,
+        "favorite_count": 17187,
+        "reply_count": 1084,
+        "quote_count": 94
+      }
+    },
+    {
+      "id": "2022690746407456790",
+      "text": "This bot got hands",
+      "created_at": "Sat Feb 14 15:13:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022454161552417263",
+        "text": "Elon Musk on why Optimus is so brutally hard to build (hardware side):\n\n“The hands are the majority of the engineering difficulty of the entire robot.”\n\nHuman hands evolved insane sophistication — ~27–28 degrees of freedom, complex tendon web (mostly forearm muscles), crazy dexterity.\n\nNo supply chain exists. Tesla had to design every single actuator, motor, gearbox & electronics from physics first principles.\n\n“Harder than Cybertruck or Model X… \nsomewhere between Model X and Starship.”\n\nOptimus v3 finally aiming for true human-level hand performance. \n\nThe “hands problem” is massively underestimated.",
+        "created_at": "Fri Feb 13 23:33:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022453993373601799",
+            "url": "https://video.twimg.com/amplify_video/2022453993373601799/vid/avc1/1320x724/-_IUF6fIqKNEH3N2.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1265526183137067010",
+          "name": "Captain Eli",
+          "screen_name": "TheCaptainEli",
+          "description": "Tesla investor. here to support Elon Musk!           https://t.co/tMNK7QdlVi",
+          "followers_count": 21431,
+          "friends_count": 506,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 272,
+          "favorite_count": 2360,
+          "reply_count": 168,
+          "quote_count": 29
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234586816,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 894,
+        "favorite_count": 7313,
+        "reply_count": 1217,
+        "quote_count": 65
+      }
+    },
+    {
+      "id": "2022690471177523333",
+      "text": "True",
+      "created_at": "Sat Feb 14 15:12:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022536429658869999",
+        "text": "Grok has the best voice mode",
+        "created_at": "Sat Feb 14 05:00:36 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3086182267",
+          "name": "Ethan He",
+          "screen_name": "EthanHe_42",
+          "description": "Engineer @xAI @Grok Imagine | ex @Nvidia @Meta | 30+ papers, 9k citations | talk about AI, LLM, video generation, world model, multimodal, machine learning, AGI",
+          "followers_count": 33154,
+          "friends_count": 589,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 283,
+          "reply_count": 76,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234586816,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 314,
+        "favorite_count": 3749,
+        "reply_count": 970,
+        "quote_count": 21
+      }
+    },
+    {
+      "id": "2022690055412916457",
+      "text": "♥️♥️♥️ Happy Valentine’s Day ♥️♥️♥️",
+      "created_at": "Sat Feb 14 15:11:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234586816,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6572,
+        "favorite_count": 110528,
+        "reply_count": 9896,
+        "quote_count": 1181
+      }
+    },
+    {
+      "id": "2022689747005845759",
+      "text": "RT @beaverd: so far I've found about $90 billion of likely fraudulent payments \n\njust from 0.16% of the providers in the data set released.…",
+      "created_at": "Sat Feb 14 15:09:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022441716104728886",
+        "text": "so far I've found about $90 billion of likely fraudulent payments \n\njust from 0.16% of the providers in the data set released. NY state appears to be the absolute worst https://t.co/TZQu1XwKot",
+        "created_at": "Fri Feb 13 22:44:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022441046534180865",
+            "url": "https://pbs.twimg.com/media/HBEnap3W0AEgsU7.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2022370909211021376",
+          "text": "Today the HHS DOGE team open sourced the largest Medicaid dataset in department history. \n\nThis dataset contains aggregated, provider-level claims data for a specific billing code over time. \n\nFor example, using this dataset, it would have been possible to easily detect the large-scale autism diagnosis fraud seen in Minnesota. \n\nDownload the data yourself:\nhttps://t.co/6h2c6loE9y",
+          "created_at": "Fri Feb 13 18:02:53 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1891334438115483648",
+            "name": "DOGE HHS",
+            "screen_name": "DOGE_HHS",
+            "description": "",
+            "followers_count": 38737,
+            "friends_count": 0,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 6695,
+            "favorite_count": 33117,
+            "reply_count": 1103,
+            "quote_count": 526
+          }
+        },
+        "user": {
+          "id": "1519366084268380162",
+          "name": "Beaver 🦁",
+          "screen_name": "beaverd",
+          "description": "God's most retarded soldier. @toshibet saved my life",
+          "followers_count": 108964,
+          "friends_count": 2439,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2396,
+          "favorite_count": 15117,
+          "reply_count": 384,
+          "quote_count": 108
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234586816,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2396,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022689707654783314",
+      "text": "RT @NickADobos: Open sourcing DOGE gov records so random sleuth internet weirdos can treasure hunt for fraud and the 30% reporting bounty i…",
+      "created_at": "Sat Feb 14 15:09:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022465126855774491",
+        "text": "Open sourcing DOGE gov records so random sleuth internet weirdos can treasure hunt for fraud and the 30% reporting bounty is honestly a genius move",
+        "created_at": "Sat Feb 14 00:17:16 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2022441716104728886",
+          "text": "so far I've found about $90 billion of likely fraudulent payments \n\njust from 0.16% of the providers in the data set released. NY state appears to be the absolute worst https://t.co/TZQu1XwKot",
+          "created_at": "Fri Feb 13 22:44:14 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2022441046534180865",
+              "url": "https://pbs.twimg.com/media/HBEnap3W0AEgsU7.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1519366084268380162",
+            "name": "Beaver 🦁",
+            "screen_name": "beaverd",
+            "description": "God's most retarded soldier. @toshibet saved my life",
+            "followers_count": 108964,
+            "friends_count": 2439,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2396,
+            "favorite_count": 15117,
+            "reply_count": 384,
+            "quote_count": 108
+          }
+        },
+        "user": {
+          "id": "856753502",
+          "name": "Nick Dobos",
+          "screen_name": "NickADobos",
+          "description": "prompt engineer @browsercompany | I make apps. My code runs on 100mil+ phones | former iOSdev @Twitter | indie dev @mindGoblinStdio Download Hivemind⬇️",
+          "followers_count": 50574,
+          "friends_count": 8492,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 460,
+          "favorite_count": 4634,
+          "reply_count": 87,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234586816,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 460,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022675196302520823",
+      "text": "RT @skscartoon: Now we know why Reid Hoffman was so desperate to fund efforts to stop Trump. https://t.co/MvnpklnPTK",
+      "created_at": "Sat Feb 14 14:12:00 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022655723948453888",
+          "url": "https://pbs.twimg.com/media/HBHqqhjbsAA4ipc.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2022655863853633540",
+        "text": "Now we know why Reid Hoffman was so desperate to fund efforts to stop Trump. https://t.co/MvnpklnPTK",
+        "created_at": "Sat Feb 14 12:55:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022655723948453888",
+            "url": "https://pbs.twimg.com/media/HBHqqhjbsAA4ipc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2022549837951230152",
+          "text": "Reid Hoffman\n\n- Falsely claimed that the FBI cleared him. He was never cleared.\n- Exchanged 1,737 emails.\n- Confirmed visits to Epstein’s island.\n- Sent gifts to the island and “for the girls.”\n- Stayed at Epstein’s island, Epstein’s ranch in New Mexico, and Epstein’s house in New York.\n- Offered to help with Epstein’s public relations.\n- Lied about the nature of his relationship with Epstein.\n- Maintained a very close relationship with Epstein until the end.\n\nElon Musk\n\n- Never visited Epstein’s island.\n- Declined every invitation.\n- Epstein sent over 50 emails attempting to meet him, but Musk consistently brushed him off and declined.\n- Gave terse responses and never reciprocated invitations.\n- He did not show any interest in building a relationship.\n- Called for full prosecutions and offered legal support for victims to come forward and tell the truth.\n\nIf Reid Hoffmann is innocent, why isn’t he calling for prosecutions?",
+          "created_at": "Sat Feb 14 05:53:53 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2022549827599634433",
+              "url": "https://pbs.twimg.com/media/HBGKWi6akAEycC5.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1389913567671975937",
+            "name": "DogeDesigner",
+            "screen_name": "cb_doge",
+            "description": "",
+            "followers_count": 1831307,
+            "friends_count": 903,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1449,
+            "favorite_count": 4862,
+            "reply_count": 303,
+            "quote_count": 60
+          }
+        },
+        "user": {
+          "id": "1518557272854523904",
+          "name": "Skscartoon",
+          "screen_name": "skscartoon",
+          "description": "A small time artist down under",
+          "followers_count": 131518,
+          "friends_count": 434,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 771,
+          "favorite_count": 4177,
+          "reply_count": 268,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234586816,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 771,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2022594395137032621",
       "text": "豆包大模型2.0发布\nhttps://t.co/HWk2n1goHw （公众号）",
