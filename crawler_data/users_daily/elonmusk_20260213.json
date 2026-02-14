@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234549565,
+    "followers_count": 234543679,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260213",
-  "last_updated": "2026-02-13T22:10:45.010201",
-  "tweet_count": 14,
+  "last_updated": "2026-02-14T00:22:27.015128",
+  "tweet_count": 17,
   "tweets": [
     {
       "id": "2022131454155927904",
@@ -668,6 +668,178 @@
       "quoted": null,
       "stats": {
         "retweet_count": 1751,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022448292605628729",
+      "text": "RT @AISafetyMemes: Read this whole paragraph, then imagine trying to explain to a normal person?? https://t.co/TNcxgLMnUk",
+      "created_at": "Fri Feb 13 23:10:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022362718913859585",
+          "url": "https://pbs.twimg.com/media/HBDgLYvakAEuGuP.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2022364225314918550",
+        "text": "Read this whole paragraph, then imagine trying to explain to a normal person?? https://t.co/TNcxgLMnUk",
+        "created_at": "Fri Feb 13 17:36:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022362718913859585",
+            "url": "https://pbs.twimg.com/media/HBDgLYvakAEuGuP.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2022292731649777723",
+          "text": "https://t.co/suD9ZQW3D4",
+          "created_at": "Fri Feb 13 12:52:14 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "9860682",
+            "name": "Dr. Alex Wissner-Gross",
+            "screen_name": "alexwg",
+            "description": "The Innermost Loop, also on Substack (https://t.co/PKOmwbva8m), LinkedIn (https://t.co/DmPIIa1gQ7), Spotify (https://t.co/TIBa0Alk95), Threads (https://t.co/wA1osxy8uR), and YouTube (https://t.co/lDJG1V824k).",
+            "followers_count": 43972,
+            "friends_count": 3427,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 175,
+            "favorite_count": 1103,
+            "reply_count": 138,
+            "quote_count": 67
+          }
+        },
+        "user": {
+          "id": "1315709346689568770",
+          "name": "AI Notkilleveryoneism Memes ⏸️",
+          "screen_name": "AISafetyMemes",
+          "description": "Techno-optimist, but AGI is not like the other technologies.\n\nStep 1: make memes.\nStep 2: ??? \nStep 3: lower p(doom)",
+          "followers_count": 112005,
+          "friends_count": 1244,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 375,
+          "favorite_count": 2045,
+          "reply_count": 221,
+          "quote_count": 59
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 375,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022450339581243788",
+      "text": "Starlink now at 10 million active users",
+      "created_at": "Fri Feb 13 23:18:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022446814591615013",
+        "text": "Starlink is connecting more than 10M active customers with high-speed internet across 160 countries, territories and many other markets.\n\nThank you to all our customers around the world! 🛰️🌎❤️ → https://t.co/frkXm70PTh https://t.co/IeGewCassA",
+        "created_at": "Fri Feb 13 23:04:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022421046478163968",
+            "url": "https://video.twimg.com/amplify_video/2022421046478163968/vid/avc1/1080x1920/9gPeoCdwBVLWWLR5.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1543238,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 210,
+          "favorite_count": 1503,
+          "reply_count": 166,
+          "quote_count": 48
+        }
+      },
+      "stats": {
+        "retweet_count": 1881,
+        "favorite_count": 15508,
+        "reply_count": 1997,
+        "quote_count": 100
+      }
+    },
+    {
+      "id": "2022452222823665993",
+      "text": "RT @niccruzpatane: While you were sleeping, SpaceX sent astronauts into space. https://t.co/SIv00ztUm8",
+      "created_at": "Fri Feb 13 23:25:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022268727627321344",
+          "url": "https://pbs.twimg.com/media/HBCKsX6bkAAAgl3.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2022268732546912294",
+        "text": "While you were sleeping, SpaceX sent astronauts into space. https://t.co/SIv00ztUm8",
+        "created_at": "Fri Feb 13 11:16:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022268727627321344",
+            "url": "https://pbs.twimg.com/media/HBCKsX6bkAAAgl3.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1494873435863977985",
+          "name": "Nic Cruz Patane",
+          "screen_name": "niccruzpatane",
+          "description": "Deep dive into everything Tesla",
+          "followers_count": 93014,
+          "friends_count": 156,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 446,
+          "favorite_count": 4370,
+          "reply_count": 279,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 446,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

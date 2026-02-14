@@ -1,0 +1,60 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 234543679,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260214",
+  "last_updated": "2026-02-14T00:22:27.013467",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2022463338236797250",
+      "text": "RT @SpaceX: Falcon is the first orbital-class rocket capable of recovery and reuse. The first stage booster supporting this mission will co…",
+      "created_at": "Sat Feb 14 00:10:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022241072144064686",
+        "text": "Falcon is the first orbital-class rocket capable of recovery and reuse. The first stage booster supporting this mission will complete the first landing at Landing Zone 40 at Cape Canaveral, our newest recovery site https://t.co/cIywfwu99B",
+        "created_at": "Fri Feb 13 09:26:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022241009699332096",
+            "url": "https://pbs.twimg.com/media/HBBxe-lbIAAKKVw.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 40984541,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 594,
+          "favorite_count": 5478,
+          "reply_count": 250,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 594,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
