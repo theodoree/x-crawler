@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234605494,
+    "followers_count": 234602879,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260214",
-  "last_updated": "2026-02-14T20:05:57.179015",
-  "tweet_count": 28,
+  "last_updated": "2026-02-14T22:05:43.052423",
+  "tweet_count": 29,
   "tweets": [
     {
       "id": "2022463338236797250",
@@ -1327,6 +1327,59 @@
         "favorite_count": 57144,
         "reply_count": 3934,
         "quote_count": 202
+      }
+    },
+    {
+      "id": "2022767555396399441",
+      "text": "RT @SpaceX: Docking confirmed! https://t.co/lOIXNbVVpo",
+      "created_at": "Sat Feb 14 20:19:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2022767133952786432",
+          "url": "https://video.twimg.com/amplify_video/2022767133952786432/vid/avc1/3840x2160/bU2vaG-8Dmjglj9Y.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2022767221345243313",
+        "text": "Docking confirmed! https://t.co/lOIXNbVVpo",
+        "created_at": "Sat Feb 14 20:17:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022767133952786432",
+            "url": "https://video.twimg.com/amplify_video/2022767133952786432/vid/avc1/3840x2160/bU2vaG-8Dmjglj9Y.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 40995409,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 920,
+          "favorite_count": 6485,
+          "reply_count": 702,
+          "quote_count": 78
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 920,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
