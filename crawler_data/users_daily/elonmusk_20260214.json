@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234586816,
+    "followers_count": 234597568,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260214",
-  "last_updated": "2026-02-14T16:07:16.855143",
-  "tweet_count": 20,
+  "last_updated": "2026-02-14T18:07:46.027246",
+  "tweet_count": 23,
   "tweets": [
     {
       "id": "2022463338236797250",
@@ -980,6 +980,93 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2022717924448911725",
+      "text": "https://t.co/op5s4ZikGJ",
+      "created_at": "Sat Feb 14 17:01:48 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022712387212640431",
+        "text": "BREAKING: Grokipedia backlinks just hit a new all time high at 362,000 links. 🔥🚀\n\nMomentum is picking up fast as more sites reference Grokipedia as a source of truth.\n\nIf you run a website or blog, link to Grokipedia and cite it as a source. https://t.co/VSZqyuYzfV",
+        "created_at": "Sat Feb 14 16:39:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022698659264286721",
+            "url": "https://pbs.twimg.com/media/HBIRtsEbUAE99e2.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1831415,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 75,
+          "favorite_count": 402,
+          "reply_count": 220,
+          "quote_count": 17
+        }
+      },
+      "stats": {
+        "retweet_count": 782,
+        "favorite_count": 5175,
+        "reply_count": 1234,
+        "quote_count": 41
+      }
+    },
+    {
+      "id": "2022733873554350168",
+      "text": "Still kinda hot tbh https://t.co/cp8HdAxK0w",
+      "created_at": "Sat Feb 14 18:05:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022733866252042240",
+          "url": "https://pbs.twimg.com/media/HBIxvAUbAAAvejN.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 115,
+        "favorite_count": 1340,
+        "reply_count": 399,
+        "quote_count": 14
+      }
+    },
+    {
+      "id": "2022733998943084877",
+      "text": "And she brought a friend 😉 https://t.co/FxHky1Wktd",
+      "created_at": "Sat Feb 14 18:05:40 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022733994127953924",
+          "url": "https://pbs.twimg.com/media/HBIx2csakAQd_8j.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 371,
+        "reply_count": 100,
+        "quote_count": 3
       }
     }
   ]
