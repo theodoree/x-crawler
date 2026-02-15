@@ -1,12 +1,75 @@
 {
   "date": "20260215",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-15T14:09:58.836993",
-  "tweet_count": 235,
-  "unique_tweet_count": 235,
-  "total_crawled": 427,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-02-15T16:07:19.004600",
+  "tweet_count": 236,
+  "unique_tweet_count": 236,
+  "total_crawled": 435,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2023037175928127963",
+      "text": "RT @cb_doge: One of the most beautiful booster landing footages ever.\n\n https://t.co/Cw0wbSUxbT",
+      "created_at": "Sun Feb 15 14:10:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1845876698450927616",
+          "url": "https://video.twimg.com/amplify_video/1845876698450927616/vid/avc1/720x720/CCtVeKdVR9nJMrjv.mp4?tag=16",
+          "bitrate": 1280000
+        }
+      ],
+      "retweet": {
+        "id": "2023017811694780839",
+        "text": "One of the most beautiful booster landing footages ever.\n\n https://t.co/Cw0wbSUxbT",
+        "created_at": "Sun Feb 15 12:53:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1845876698450927616",
+            "url": "https://video.twimg.com/amplify_video/1845876698450927616/vid/avc1/720x720/CCtVeKdVR9nJMrjv.mp4?tag=16",
+            "bitrate": 1280000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1832555,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1738,
+          "favorite_count": 12335,
+          "reply_count": 878,
+          "quote_count": 109
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234660400,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1738,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2023036974911856836",
       "text": "RT @TheAliceSmith: If black and brown people can be proud of their races, why not whites?\n\nIf black and brown people can be indigenous and…",

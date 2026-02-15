@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234649616,
+    "followers_count": 234660400,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260215",
-  "last_updated": "2026-02-15T14:09:58.870022",
-  "tweet_count": 30,
+  "last_updated": "2026-02-15T16:07:19.037326",
+  "tweet_count": 31,
   "tweets": [
     {
       "id": "2022846632874623249",
@@ -1574,6 +1574,59 @@
       "quoted": null,
       "stats": {
         "retweet_count": 13,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023037175928127963",
+      "text": "RT @cb_doge: One of the most beautiful booster landing footages ever.\n\n https://t.co/Cw0wbSUxbT",
+      "created_at": "Sun Feb 15 14:10:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1845876698450927616",
+          "url": "https://video.twimg.com/amplify_video/1845876698450927616/vid/avc1/720x720/CCtVeKdVR9nJMrjv.mp4?tag=16",
+          "bitrate": 1280000
+        }
+      ],
+      "retweet": {
+        "id": "2023017811694780839",
+        "text": "One of the most beautiful booster landing footages ever.\n\n https://t.co/Cw0wbSUxbT",
+        "created_at": "Sun Feb 15 12:53:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1845876698450927616",
+            "url": "https://video.twimg.com/amplify_video/1845876698450927616/vid/avc1/720x720/CCtVeKdVR9nJMrjv.mp4?tag=16",
+            "bitrate": 1280000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1832555,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1738,
+          "favorite_count": 12335,
+          "reply_count": 878,
+          "quote_count": 109
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1738,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
