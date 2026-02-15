@@ -1,12 +1,368 @@
 {
   "date": "20260215",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-15T20:06:07.300818",
-  "tweet_count": 247,
-  "unique_tweet_count": 247,
-  "total_crawled": 441,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-02-15T22:05:55.421021",
+  "tweet_count": 255,
+  "unique_tweet_count": 255,
+  "total_crawled": 447,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2023155160248385905",
+      "text": "OpenClaw 创始人 Peter Steinberger 加入 OpenAI\n\nSam Altman 刚宣布，开源 AI 智能体项目 OpenClaw 的创始人 Peter Steinberger 正式加入 OpenAI，将负责推动下一代个人智能体的开发。\n\nPeter Steinberger 是一位奥地利开发者，此前曾创办 iOS 开发工具公司 PSPDFKit 并以超过1亿美元的价格出售。2025年11月，他用大约一个小时将聊天应用与 Claude Code 连接起来，做出了一个名为 Clawdbot 的 AI 智能体原型——这个智能体可以通过聊天平台自主执行任务，甚至能修改自己的源代码。项目因 Anthropic 的商标投诉而两度更名，最终定名为 OpenClaw。\n\nOpenClaw 迅速走红，在 GitHub 上获得超过18万颗星，吸引了硅谷和中国开发者的广泛关注。此前 Steinberger 在 Lex Fridman 的播客中透露，Meta 和 OpenAI 都向他抛出了橄榄枝，扎克伯格甚至通过 WhatsApp 直接联系他。最终他选择了 OpenAI。\n\n根据 Altman 的声明，OpenClaw 将作为开源项目继续存在于一个基金会中，OpenAI 会持续支持。Altman 强调，未来将是\"极度多智能体\"的时代，而支持开源是这一愿景的重要组成部分。",
+      "created_at": "Sun Feb 15 21:59:13 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023150230905159801",
+        "text": "Peter Steinberger is joining OpenAI to drive the next generation of personal agents. He is a genius with a lot of amazing ideas about the future of very smart agents interacting with each other to do very useful things for people. We expect this will quickly become core to our product offerings.\n\nOpenClaw will live in a foundation as an open source project that OpenAI will continue to support. The future is going to be extremely multi-agent and it's important to us to support open source as part of that.",
+        "created_at": "Sun Feb 15 21:39:38 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screen_name": "sama",
+          "description": "AI is cool i guess",
+          "followers_count": 4342103,
+          "friends_count": 984,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 463,
+          "favorite_count": 4217,
+          "reply_count": 821,
+          "quote_count": 643
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 182535,
+        "friends_count": 1551,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "reply_count": 1,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2023152141129429340",
+      "text": "https://t.co/26cfJf8fgw",
+      "created_at": "Sun Feb 15 21:47:13 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 182535,
+        "friends_count": 1551,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2023143429262200934",
+      "text": "配图由 https://t.co/oV3WUUY2lD 辅助完成 https://t.co/KlTlRivVbo",
+      "created_at": "Sun Feb 15 21:12:36 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2023143388141207552",
+          "url": "https://pbs.twimg.com/media/HBOmMUPWQAARXAf.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 182535,
+        "friends_count": 1551,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023143425378230593",
+      "text": "以大方分享好用的 Prompt 为荣，以藏着掖着生怕别人也会用 AI 为耻\n\n以用 AI 省下时间去摸鱼为荣，以用省下的时间干更多活为耻 https://t.co/NxlNy8i5H0",
+      "created_at": "Sun Feb 15 21:12:35 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2023143303101984768",
+          "url": "https://pbs.twimg.com/media/HBOmHXcasAAKJIr.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 182535,
+        "friends_count": 1551,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023143410291315182",
+      "text": "AI 使用八荣八耻\n\n以承认\"这是 AI 辅助创作\"为荣，以假装自己半小时憋出万字长文为耻\n\n以读完 AI 输出后认真校对为荣，以闭眼直接粘贴发给客户/老板为耻\n\n以精心编写 Prompt 为荣，以上来就甩一句\"帮我写个东西\"为耻\n\n以让 AI 反复修改到满意为荣，以第一版凑合用还嫌 AI 笨为耻\n\n以让 AI 干脏活累活为荣，以自己手动复制粘贴调格式为耻\n\n以同时开十个对话窗口让 AI 干活为荣，以订阅了会员却只用来闲聊为耻\n\n以大方分享好用的 Prompt 为荣，以藏着掖着生怕别人也会用 AI 为耻\n\n以用 AI 省下时间去摸鱼为荣，以用省下的时间干更多活为耻\n\n---\n\n欢迎分享你的版本",
+      "created_at": "Sun Feb 15 21:12:31 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2023142903225143296",
+          "url": "https://pbs.twimg.com/media/HBOlwFyWUAAr05K.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2023124437911158906",
+        "text": "为什么要以 ai 写作为耻？这太令人费解了。那要不要以 ai 编码为耻呢？",
+        "created_at": "Sun Feb 15 19:57:08 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "364478145",
+          "name": "响马",
+          "screen_name": "xicilion",
+          "description": "。。。。。。",
+          "followers_count": 63439,
+          "friends_count": 3207,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 4,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 182535,
+        "friends_count": 1551,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 16,
+        "reply_count": 4,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2023138996394529104",
+      "text": "Colin’s cartoon illustrates this perfectly",
+      "created_at": "Sun Feb 15 20:54:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023124739468759324",
+        "text": "My views have not substantially changed over the last decade, though the rate at which I am called a \"Nazi\" and a \"fascist\" has increased exponentially.\n\nThe political ground has shifted such that Classical Liberalism currently shines brightest on the center-right. https://t.co/LJXjaA8vg9",
+        "created_at": "Sun Feb 15 19:58:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023123945331773440",
+            "url": "https://pbs.twimg.com/media/HBOUgmIWUAAau55.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1009716150895341568",
+          "name": "Colin Wright",
+          "screen_name": "SwipeWright",
+          "description": "Evolutionary Biology PhD | CEO/Editor-in-Chief @RealLastStand | Fellow @ManhattanInst | Advisor @AtheistsLiberty | Truth First.\n\n📧: cwright1859 @ gmail",
+          "followers_count": 288698,
+          "friends_count": 2207,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 299,
+          "favorite_count": 1910,
+          "reply_count": 171,
+          "quote_count": 40
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234684678,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1542,
+        "favorite_count": 12318,
+        "reply_count": 1082,
+        "quote_count": 43
+      }
+    },
+    {
+      "id": "2023138805969223753",
+      "text": "Great name 🚀",
+      "created_at": "Sun Feb 15 20:54:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023102573704786173",
+        "text": "SpaceX has a custom version of Grok…and it’s called Spok. Glorious. https://t.co/UFgEOKBuBf",
+        "created_at": "Sun Feb 15 18:30:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023102567929233408",
+            "url": "https://pbs.twimg.com/media/HBOBERGaQAAz-fl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "945817135816654848",
+          "name": "Trung Phan",
+          "screen_name": "TrungTPhan",
+          "description": "Write on business with @workweekinc. Building a privacy-first AI research app @bearlyai.",
+          "followers_count": 723026,
+          "friends_count": 4247,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 87,
+          "favorite_count": 1000,
+          "reply_count": 87,
+          "quote_count": 26
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234684678,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1035,
+        "favorite_count": 12064,
+        "reply_count": 1412,
+        "quote_count": 95
+      }
+    },
+    {
+      "id": "2023138517581541725",
+      "text": "She called ICE to get him deported 😂",
+      "created_at": "Sun Feb 15 20:53:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022908458723590378",
+        "text": "DREW PERFORMANCE ART UPDATE\n\nBillie Eilish got me deported from the US - I think her legal team contacted DHS \n\nI spent 30 hours at LAX immigration trying to explain that my shit posts were just a joke and that I didn’t actually plan to personally move into her mansion\n\nHonestly most of the agents were nice and laughed at the idea but there was nothing I could do, maybe evil leftists are still in charge of sections of the bureaucracy \n\nI guess some people are in fact actually illegal on stolen land\n\nAnd I guess I am just a BAD GUY….\n\nHonestly I am legitimately one of the most misunderstood theorists/artists of the 21st century",
+        "created_at": "Sun Feb 15 05:38:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022908391904227328",
+            "url": "https://pbs.twimg.com/media/HBLQdvCbsAAacg_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1133510366422392833",
+          "name": "Drew Pavlou 🇦🇺🇺🇸🇺🇦🇹🇼",
+          "screen_name": "DrewPavlou",
+          "description": "Western civilisation enjoyer. Patriot. Adventurer. Dark Abundance/Lee Kuan Yew Classical Liberal Thought. Survived CCP kidnap plot. FREE TIBET.",
+          "followers_count": 229962,
+          "friends_count": 6076,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1721,
+          "favorite_count": 19985,
+          "reply_count": 1437,
+          "quote_count": 578
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234684678,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4892,
+        "favorite_count": 50140,
+        "reply_count": 1885,
+        "quote_count": 195
+      }
+    },
     {
       "id": "2023110552806170819",
       "text": "True",
