@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 182460,
+    "followers_count": 182503,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260215",
-  "last_updated": "2026-02-15T16:07:19.059297",
-  "tweet_count": 5,
+  "last_updated": "2026-02-15T18:08:24.579724",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2022841250190135642",
@@ -144,6 +144,225 @@
         "favorite_count": 32,
         "reply_count": 2,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2023077707777704145",
+      "text": "我一直借助 AI 写作的，这不是什么秘密，我也不以此为耻，毕竟所有内容都是我要表达的也是我把关的。\n\n这就好比我是个管理者，我会把下属的功劳占为己有，同样也会承担下属犯错带来的责任。\n\n如果不习惯的话，建议取关，或者可以把重点更多放在内容是否有价值上",
+      "created_at": "Sun Feb 15 16:51:27 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023066671045591198",
+        "text": "@dotey 宝玉的文章也沾上GPT味了，非常失望！特别是“Neuralink 那段就更不用说了”这种不伦不类的子标题！我作为多年粉丝，抱头痛哭",
+        "created_at": "Sun Feb 15 16:07:35 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1466666568490778629",
+          "name": "tesve",
+          "screen_name": "hk_banana",
+          "description": "",
+          "followers_count": 34,
+          "friends_count": 179,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 40,
+        "reply_count": 21,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2023081568412065868",
+      "text": "RT @frxiaobei: 刷了一圈关于AI味文案的讨论，很多都在跑偏。\n\n大家都在批句式，能真正说到点子上的不多，就东哥这条直击本质。\n\nAI味很多时候是内容空心，作者也没想清楚自己到底要说什么。如果原始观点不够扎实，再怎么换句式都会显得像在端着。",
+      "created_at": "Sun Feb 15 17:06:47 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2022892516350329224",
+        "text": "刷了一圈关于AI味文案的讨论，很多都在跑偏。\n\n大家都在批句式，能真正说到点子上的不多，就东哥这条直击本质。\n\nAI味很多时候是内容空心，作者也没想清楚自己到底要说什么。如果原始观点不够扎实，再怎么换句式都会显得像在端着。",
+        "created_at": "Sun Feb 15 04:35:34 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2022886592411848805",
+          "text": "借宝玉老师的贴，我从文字角度，说一个具体的案例\n\n比如 “不是 X，而是 Y” 是典型的 “AI 味” 句式\n\n这个句式本身，不等同于烂文案\n\n它有可能烂的地方是在于 “不是 X” 这里的 X，本应该是戳中观众的原有认知\n\n当观众们都认为这件事情是 X，你说其实是 Y，才会让观众恍然大悟\n\n烂文案比如：AI 不是机器人，是你的工作伙伴\n\n这个文案的问题在于，我本来就没觉得 AI 是机器人，我不知道你写这句话是在干啥，看起来是在强调作者是文盲\n\n而 AI 会这么写的原因是：你没有给出足够深刻的观点，你又要让 AI 假装很深刻\n\n那么，足够深刻的观点是什么呢？\n我们对观众的认知的合理预设是什么呢？\n\n应该在你的 user prompt 里面有所体现\n\n如果你给 AI 的行文规则里面提供了这个东西，就算 AI 用了 “不是 X，而是 Y” ，也不会让人觉得反感\n\n因为这是适时的、适当的，对特定句式的合理使用",
+          "created_at": "Sun Feb 15 04:12:01 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1596695231717871616",
+            "name": "dontbesilent",
+            "screen_name": "dontbesilent12",
+            "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk📍3.6 深圳线下课：微信 kyxu24",
+            "followers_count": 69531,
+            "friends_count": 1120,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 9,
+            "favorite_count": 103,
+            "reply_count": 7,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "1830880351801221120",
+          "name": "凡人小北",
+          "screen_name": "frxiaobei",
+          "description": "行道途中。非求速成，惟求通达。 2023 年全面拥抱 AIGC，打通 Know-How，长期在真实业务与组织中实践。 从技术、组织与人的协作与决策出发，解决真实问题。商业与管理咨询 | AI 顾问",
+          "followers_count": 22854,
+          "friends_count": 504,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 18,
+          "reply_count": 7,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023085191275729292",
+      "text": "这就跟工业制品和手工制品一样，手工制品是否更好不说，只是可能更符合一些人的审美，但是打磨需要的时间也更多，产量会很低。\n\n我追求的不是手工制品，而是传递有价值的东西。就像一篇访谈内容，我纯手工整理、翻译总结解读，至少得几天时间吧，AI 整理通常也就几个小时。\n\nhttps://t.co/eCku4NaeM7",
+      "created_at": "Sun Feb 15 17:21:11 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023082176196358439",
+        "text": "@dotey 或者换句话说，是我在吐槽，现在模型的写作能力，语言表达能力完全配不上高水平的你（我读你写的东西也有三年多了，是真心觉得你在我关注的博主里面水平是最好一档的）。我认为，上一代模型，写文还不至于写成这样，你把关一下就有高质量的产出；但这一代模型真的是不及格的AI员工了。",
+        "created_at": "Sun Feb 15 17:09:12 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1466666568490778629",
+          "name": "tesve",
+          "screen_name": "hk_banana",
+          "description": "",
+          "followers_count": 34,
+          "friends_count": 179,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 3,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2023088504583201246",
+      "text": "这里不是方法的问题，而是要有取舍，在质量和效率上有个平衡。\n不能为了 AI 味而去做很多无谓的工作\n不能为了取悦一部分人而去所很多无谓的工作\n坚持做自己认为对的事情就好\nX 本来也是相对公平的地方，喜欢你就关注点赞，不喜欢你就取关拉黑，互不影响\n但不必相互改变迁就\nhttps://t.co/b2XAvDKGDN",
+      "created_at": "Sun Feb 15 17:34:21 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023086626268991809",
+        "text": "不针对具体的人和事，稍微思考了下为什么文章沾上GPT味会让人感到失望.\n\n可能是因为ai味的文章普遍未经打磨质量低，人们倾向于阅读高质量的文章获得一些收获，而有ai味的文章哪怕是高质量文章也会被先入为主打上低质文章的滤镜，形成一种文章高质但不想读的现象.\n当然这只是个很浅很浅的推断.\n\n但是以此再进一步思考的话，我感觉可能表达方式也是内容价值的一部分，表达方式脱离ai一些或许可以让文章不让人有一个负面的滤镜，更好地衬托主要内容.\n以及一些语言表达也能让读者更平静专注，etc.\n\n但终归也只是分析问题而难以解决问题，一方面是人工思考文章的编排费时费力，另一方面即使不那么费时费力，能用更短时间完成，人就倾向于不花更长时间完成.\n很难衡量到底是省下来的时间重要还是一篇文章没有ai味更重要.\n\n或许先语音输入再慢慢整理会是一个方法，但这也不很适合所有人........",
+        "created_at": "Sun Feb 15 17:26:53 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1806225733045690368",
+          "name": "水谷昴",
+          "screen_name": "MizutaniSubaru_",
+          "description": "愿你被世界温柔相待.",
+          "followers_count": 55,
+          "friends_count": 241,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2023090851854057791",
+      "text": "这篇文章未来会被人拿去割韭菜是一定的，但这篇文章不是，如果没有看懂、不知道怎么操作，可能是因为还没理解 Skills 是什么怎么用，但不在这篇文章范围内",
+      "created_at": "Sun Feb 15 17:43:40 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023088793843315183",
+        "text": "😃😃😃\n\n花钱请了个爷，宠物狗……\n\n而自己只能当铲屎官……\n\n关键是，Al在10次skill后，它会忘掉前面九次的内容，又转回原点……\n\n这种教程，就是准备割韭菜的。看着象那么回事，实际啥问题也解决不了。不信就去试试。😃",
+        "created_at": "Sun Feb 15 17:35:30 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "799224697",
+          "name": "曹老师",
+          "screen_name": "Muuleo",
+          "description": "草长老/It's My Duty！/有言毕竟胜无言/杜鹃啼血！/以可触摸的生活方式回应冰纪之酷寒，用隐逸侘寂美学证成个体精神之存在。",
+          "followers_count": 4291,
+          "friends_count": 2587,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 1,
+        "quote_count": 0
       }
     }
   ]
