@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 182503,
+    "followers_count": 182533,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260215",
-  "last_updated": "2026-02-15T18:08:24.579724",
-  "tweet_count": 10,
+  "last_updated": "2026-02-15T20:06:07.357458",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2022841250190135642",
@@ -361,6 +361,45 @@
       "stats": {
         "retweet_count": 0,
         "favorite_count": 3,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023103597718786461",
+      "text": "AI 提交 PR 和 AI 写文章让人讨厌的一个根本原因是因为在把验证的成本转嫁给他人。\n\n用 AI 写代码提交 PR 的自己不验证，把一大坨代码让别人去审查，那就是把成本转嫁到审查者的身上。\n\nAI 写作也是类似，如果 AI 生成结果自己不把关，也相当于把验证成本转嫁到了读者头上\nhttps://t.co/jtmtSIeypw",
+      "created_at": "Sun Feb 15 18:34:19 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023066543618511104",
+        "text": "很多人喜欢用 AI 发帖，我觉得没啥问题，只要 AI 整理得好，行文顺畅，观点清晰，没车轱辘话。\n宝玉老师的内容就非常好。\n\n但是有一些纯粹自己都没看的东西用 AI 洗出来真的没啥意义。因为很多内容都是去重就轻，甚至是错的。\n\nAI 的意义在于提高生产力，而不是降低别人的生产力",
+        "created_at": "Sun Feb 15 16:07:05 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1626674002969382912",
+          "name": "迈克 Mike Chong",
+          "screen_name": "mike_chong_zh",
+          "description": "AI 加速主义。软件3.0架构师。 努力让一起用 AI 创造属于我们自己的未来。努力做最好最快 Mac 录屏软件 @ScreenKite_com",
+          "followers_count": 14581,
+          "friends_count": 1207,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 5,
         "reply_count": 1,
         "quote_count": 0
       }
