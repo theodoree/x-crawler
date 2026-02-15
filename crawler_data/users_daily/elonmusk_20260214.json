@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234602879,
+    "followers_count": 234607463,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260214",
-  "last_updated": "2026-02-14T22:05:43.052423",
-  "tweet_count": 29,
+  "last_updated": "2026-02-15T00:23:25.334736",
+  "tweet_count": 30,
   "tweets": [
     {
       "id": "2022463338236797250",
@@ -1380,6 +1380,28 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2022819445538709734",
+      "text": "Dragon is docked with @Space_Station \n https://t.co/nrX1aDJsBz",
+      "created_at": "Sat Feb 14 23:45:12 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2022761513711284224",
+          "url": "https://video.twimg.com/amplify_video/2022761513711284224/vid/avc1/720x1280/bnW3s1DghZ1Tfcmn.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3331,
+        "favorite_count": 42545,
+        "reply_count": 2564,
+        "quote_count": 274
       }
     }
   ]
