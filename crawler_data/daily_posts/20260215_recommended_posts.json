@@ -1,12 +1,714 @@
 {
   "date": "20260215",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-15T06:19:38.421945",
-  "tweet_count": 216,
-  "unique_tweet_count": 216,
-  "total_crawled": 407,
-  "duplicates_removed": 191,
+  "last_crawl_time": "2026-02-15T08:08:53.345393",
+  "tweet_count": 227,
+  "unique_tweet_count": 227,
+  "total_crawled": 416,
+  "duplicates_removed": 189,
   "tweets": [
+    {
+      "id": "2022940583657173318",
+      "text": "RT @cb_doge: This is true.\n\nEvery time I visited Elon, his kids were with him. They spend time together, just being a family. It is not onl…",
+      "created_at": "Sun Feb 15 07:46:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022938336327844317",
+        "text": "This is true.\n\nEvery time I visited Elon, his kids were with him. They spend time together, just being a family. It is not only at home. He also brings his kids with him to work sometimes so he can spend more time with them. Even during his meeting with Prime Minister Modi, his kids were with him. That says a lot about his priorities. He makes space for family time even with a busy schedule.\n\nHe is a great father. But the media often creates stories and narratives about him that do not match reality. Do not believe everything you see in the news. A lot of coverage is driven by negativity, clicks, and attention rather than truth.",
+        "created_at": "Sun Feb 15 07:37:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022938327918481412",
+            "url": "https://pbs.twimg.com/media/HBLrsPYakAQ-i4K.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2022934252686577823",
+          "text": "@TasawarMQ @sophiaenoch1 @StefanFSchubert Don’t believe what you read in the media. I spent every moment I could with them and everyone who knows me knows this, for they see me with my kids whenever they see me.",
+          "created_at": "Sun Feb 15 07:21:24 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234627355,
+            "friends_count": 1285,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 69,
+            "favorite_count": 698,
+            "reply_count": 142,
+            "quote_count": 16
+          }
+        },
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1831685,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 167,
+          "favorite_count": 1124,
+          "reply_count": 240,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234627355,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 167,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022938208552784049",
+      "text": "RT @cb_doge: \"Having kids means you will do anything to ensure that they live and are happy, for you love them more than your own life a th…",
+      "created_at": "Sun Feb 15 07:37:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022933133121982574",
+        "text": "\"Having kids means you will do anything to ensure that they live and are happy, for you love them more than your own life a thousand times over.\"\n\n一 Elon Musk https://t.co/9aVRVmWuLG",
+        "created_at": "Sun Feb 15 07:16:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022933126193008640",
+            "url": "https://pbs.twimg.com/media/HBLm9dca0AAnezk.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1831685,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 326,
+          "favorite_count": 2246,
+          "reply_count": 411,
+          "quote_count": 41
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234627355,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 326,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022938126529040654",
+      "text": "I love this monologue",
+      "created_at": "Sun Feb 15 07:36:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022928988822245591",
+        "text": "Sam’s monologue from The Two Towers\n\nFrodo : I can't do this, Sam.\n\nSam : I know. It's all wrong. By rights we shouldn't even be here. But we are. It's like in the great stories, Mr. Frodo. The ones that really mattered. Full of darkness and danger, they were. And sometimes you didn't want to know the end. Because how could the end be happy? How could the world go back to the way it was when so much bad had happened? But in the end, it's only a passing thing, this shadow. Even darkness must pass. A new day will come. And when the sun shines it will shine out the clearer. Those were the stories that stayed with you. That meant something, even if you were too small to understand why. But I think, Mr. Frodo, I do understand. I know now. Folk in those stories had lots of chances of turning back, only they didn't. They kept going. Because they were holding on to something.\n\nFrodo: What are we holding on to, Sam?\n\nSam : That there’s some good in this world, Mr. Frodo. And it’s worth fighting for.",
+        "created_at": "Sun Feb 15 07:00:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022928938436300805",
+            "url": "https://video.twimg.com/ext_tw_video/2022928938436300805/pu/vid/avc1/1920x1080/ifRQRMrVc626GnzU.mp4?tag=19",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1232787923445178369",
+          "name": "Oukham",
+          "screen_name": "OPteemyst",
+          "description": "Leader of some programmers... I post only positive messages and quotes with a mix of Elon, Tesla, SpaceX because they are inspiring. Thanks for the follow 🙏",
+          "followers_count": 11734,
+          "friends_count": 96,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 175,
+          "favorite_count": 1212,
+          "reply_count": 105,
+          "quote_count": 22
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234627355,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 549,
+        "favorite_count": 4167,
+        "reply_count": 858,
+        "quote_count": 34
+      }
+    },
+    {
+      "id": "2022937467175973348",
+      "text": "RT @NASAAdmin: Crew-12 is now aboard the @Space_Station, advancing research, discovery, and operational excellence in the demanding environ…",
+      "created_at": "Sun Feb 15 07:34:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022808599152496836",
+        "text": "Crew-12 is now aboard the @Space_Station, advancing research, discovery, and operational excellence in the demanding environment of low-Earth orbit.\n\nHuman spaceflight is a major team effort and requires immense competence, precision and discipline. Credit to the @NASA flight controllers guiding Dragon to station and overseeing ISS operations, the mission and payload teams delivering world-class science, our international partners, and @SpaceX for safely carrying our astronauts to and from orbit.",
+        "created_at": "Sat Feb 14 23:02:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2022807884577280110",
+          "text": "Hatches open! Four @SpaceX Crew-12 crew members have entered the station and joined Expedition 74 to begin a long-duration space research mission. More... https://t.co/1329gppIO1 https://t.co/q7khFP9TKW",
+          "created_at": "Sat Feb 14 22:59:16 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2022807518385152000",
+              "url": "https://pbs.twimg.com/media/HBJ0uH5WIAASQhK.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1451773004",
+            "name": "International Space Station",
+            "screen_name": "Space_Station",
+            "description": "NASA's page for the latest mission and science updates from the International Space Station.",
+            "followers_count": 8843815,
+            "friends_count": 156,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 196,
+            "favorite_count": 1171,
+            "reply_count": 44,
+            "quote_count": 21
+          }
+        },
+        "user": {
+          "id": "2000593641480605696",
+          "name": "NASA Administrator Jared Isaacman",
+          "screen_name": "NASAAdmin",
+          "description": "Serving President Donald J. Trump as the 15th @NASA Administrator | Leading the next Golden Age of space discovery 🚀",
+          "followers_count": 81107,
+          "friends_count": 37,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 330,
+          "favorite_count": 2541,
+          "reply_count": 151,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234627355,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 330,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022933406506717243",
+      "text": "RT @elonmusk: @StefanFSchubert You’re such a pathetic wanker",
+      "created_at": "Sun Feb 15 07:18:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022930987387359677",
+        "text": "@StefanFSchubert You’re such a pathetic wanker",
+        "created_at": "Sun Feb 15 07:08:26 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 234627355,
+          "friends_count": 1285,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 391,
+          "favorite_count": 10328,
+          "reply_count": 754,
+          "quote_count": 68
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234627355,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 390,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022930253228970353",
+      "text": "RT @XFreeze: Starlink is now rolling out on many train services worldwide\n\nMany train services are now starting to offer Starlink WiFi to a…",
+      "created_at": "Sun Feb 15 07:05:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022922835602063612",
+        "text": "Starlink is now rolling out on many train services worldwide\n\nMany train services are now starting to offer Starlink WiFi to all their passengers\n\nActive & Rolling Out:\n• Brightline (USA)\n• Italo (Italy)\n• ScotRail (UK)\n\nTrial & Infrastructure Partnerships:\n• České dráhy (Czech Republic)\n• Kazakhstan Temir Zholy (Kazakhstan)\n• South Western Railway (UK)\n• RailTel (India)\n• SNCF (France) - Evaluating hybrid models\n• Ferrovie dello Stato (Italy) - Pilot stage",
+        "created_at": "Sun Feb 15 06:36:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022919768718872576",
+            "url": "https://pbs.twimg.com/media/HBLaz8-akAASD3h.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2022921548819320832",
+            "url": "https://pbs.twimg.com/media/HBLcbkXb0AAIKt9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 142807,
+          "friends_count": 1580,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 135,
+          "favorite_count": 888,
+          "reply_count": 186,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234627355,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 135,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022926836624511126",
+      "text": "RT @Rothmus: https://t.co/fKBZW0a4o9",
+      "created_at": "Sun Feb 15 06:51:56 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2022854545492365312",
+          "url": "https://pbs.twimg.com/media/HBKffdhbUAAqa4N.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2022854551796150273",
+        "text": "https://t.co/fKBZW0a4o9",
+        "created_at": "Sun Feb 15 02:04:42 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022854545492365312",
+            "url": "https://pbs.twimg.com/media/HBKffdhbUAAqa4N.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism. Powered by @rainbetcom",
+          "followers_count": 643037,
+          "friends_count": 2748,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 793,
+          "favorite_count": 4936,
+          "reply_count": 330,
+          "quote_count": 47
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234627355,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 793,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022926657896825332",
+      "text": "RT @atlanticesque: I used to be opposed to death penalty, because I figured we’re wealthy, we can afford incarceration, and what if we get…",
+      "created_at": "Sun Feb 15 06:51:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022721273256681763",
+        "text": "I used to be opposed to death penalty, because I figured we’re wealthy, we can afford incarceration, and what if we get the wrong guy? Two things changed my mind:\n\n1. Actually looking at actual death penalty cases\n\n2. Realizing how many progressives want to set murderers free",
+        "created_at": "Sat Feb 14 17:15:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2022698263623700809",
+          "text": "Decarceration activists have created an entirely new argument for the death penalty: if you don't execute murderers, liberals will crawl over broken glass to void their life-without-parole sentences and set them free. https://t.co/ANo5gM9SCS",
+          "created_at": "Sat Feb 14 15:43:40 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2022698261338034178",
+              "url": "https://pbs.twimg.com/media/HBIRWhrakAIrqRT.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "722590431234691073",
+            "name": "Bernard Stanford ✡︎",
+            "screen_name": "stanfordNYC",
+            "description": "Let's think step by step.",
+            "followers_count": 7025,
+            "friends_count": 1463,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 354,
+            "favorite_count": 2372,
+            "reply_count": 55,
+            "quote_count": 43
+          }
+        },
+        "user": {
+          "id": "1046794373764194307",
+          "name": "𝖓𝖎𝖓𝖊 🕯",
+          "screen_name": "atlanticesque",
+          "description": "New England nationalist, in-exile. Paleo-radical. Town-keeper. Jones Act Enforcer. Triborough loyalist. Jewelmonger. Smells, bells, and oyster shells. 🌲📯⚓️",
+          "followers_count": 19278,
+          "friends_count": 1824,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 338,
+          "favorite_count": 2623,
+          "reply_count": 159,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234627355,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 338,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022926187778183196",
+      "text": "RT @GadSaad: The theatre kids trained by professors convinced the West that parasitic suicidal empathy was the highest virtue to ascribe to.",
+      "created_at": "Sun Feb 15 06:49:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022907196598616194",
+        "text": "The theatre kids trained by professors convinced the West that parasitic suicidal empathy was the highest virtue to ascribe to.",
+        "created_at": "Sun Feb 15 05:33:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2022845982606541254",
+          "text": "Hundreds of years from now, future generations will look back in horror.\n\nHow did we let a bunch of theater kids leave the borders open, steal trillions, cheat in elections, brainwash and poison the masses, normalize infanticide, destroy our culture, and more?\n\nNever again.",
+          "created_at": "Sun Feb 15 01:30:39 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1313536464022646786",
+            "name": "Clandestine",
+            "screen_name": "WarClandestine",
+            "description": "Jacob Creech - Astute Observer - 11B",
+            "followers_count": 736183,
+            "friends_count": 111,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1414,
+            "favorite_count": 7877,
+            "reply_count": 164,
+            "quote_count": 24
+          }
+        },
+        "user": {
+          "id": "116579971",
+          "name": "Gad Saad",
+          "screen_name": "GadSaad",
+          "description": "Professor, Evolutionary Behavioral Scientist, Author. Opinions are mine alone. Retweets do not necessarily imply an endorsement.",
+          "followers_count": 1259566,
+          "friends_count": 456,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 217,
+          "favorite_count": 1272,
+          "reply_count": 119,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234627355,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 217,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022922925591138382",
+      "text": "RT @WilliamWolfe: If C.S. Lewis had been asked by radical Senate Democrats to defend \"British Culture\" and why it matters, this is what he…",
+      "created_at": "Sun Feb 15 06:36:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2022743993499758710",
+        "text": "If C.S. Lewis had been asked by radical Senate Democrats to defend \"British Culture\" and why it matters, this is what he would have said:\n\n\"A man’s reasons for not wanting his country to be ruled by foreigners are very like his reasons for not wanting his house to be burned down; because he could not even begin to enumerate all the things he would miss.\"",
+        "created_at": "Sat Feb 14 18:45:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022743934137741312",
+            "url": "https://pbs.twimg.com/media/HBI65CHbMAAOloM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1446591064777936897",
+          "name": "William Wolfe 🇺🇸",
+          "screen_name": "WilliamWolfe",
+          "description": "Executive Director, Center for Baptist Leadership (@BaptistLeaders). Former: Hill Staffer, @Heritage_Action, and Trump Appointee at State & DoD. MDiv @SBTS.",
+          "followers_count": 92884,
+          "friends_count": 4357,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 573,
+          "favorite_count": 2775,
+          "reply_count": 121,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234627355,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 573,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2022919799752294493",
+      "text": "For a country to survive, there has to be a common culture.\n\nNobody dies to defend a “multicultural economic zone”!\n\nAmerican culture, with its English-Scotts-Irish origin, is great and worth fighting for. \n\nSome may not realize it, but that’s why people come here. \n\n🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸",
+      "created_at": "Sun Feb 15 06:23:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1957490611579195449",
+        "text": "Important segment starting at 25 : 39  in Tucker’s video on who is a “Heritage American”, a now necessary term.\n\nA young Anthony Scalia, future Supreme Court justice, upholding Anglo-American law, consciously bristled at his ethnic and religious distinction from the WASPs whom foreign professors assigned a foundational status. But then he went to England and saw it and felt it;",
+        "created_at": "Mon Aug 18 17:11:44 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1957490532931764224",
+            "url": "https://video.twimg.com/amplify_video/1957490532931764224/vid/avc1/640x480/EDoGGrnYqBbpqrWg.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1357717304931479552",
+          "name": "ib",
+          "screen_name": "Indian_Bronson",
+          "description": "https://t.co/SN8lIlBeQu \nurbit: ~tiplen-tarryc\n@indian_bronson vienna dot earth, telegram, discord, etc.",
+          "followers_count": 92785,
+          "friends_count": 8590,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 324,
+          "favorite_count": 1710,
+          "reply_count": 81,
+          "quote_count": 43
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234627355,
+        "friends_count": 1285,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2994,
+        "favorite_count": 21783,
+        "reply_count": 3109,
+        "quote_count": 298
+      }
+    },
     {
       "id": "2022915846398448057",
       "text": "Starship\n https://t.co/2JGpJuBWrh",
