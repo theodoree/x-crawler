@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234700634,
+    "followers_count": 234703361,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260216",
-  "last_updated": "2026-02-16T08:15:43.621777",
-  "tweet_count": 4,
+  "last_updated": "2026-02-16T10:20:53.361357",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2023293747136798934",
@@ -207,6 +207,143 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2023311171336769962",
+      "text": "RT @cb_doge: Starship is how civilization begins its Kardashev era. https://t.co/A80QeJ2Vvr",
+      "created_at": "Mon Feb 16 08:19:09 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2023310867484561408",
+          "url": "https://video.twimg.com/amplify_video/2023310867484561408/vid/avc1/1080x1080/Pr7K2QktawbNxu7r.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2023310934534689189",
+        "text": "Starship is how civilization begins its Kardashev era. https://t.co/A80QeJ2Vvr",
+        "created_at": "Mon Feb 16 08:18:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023310867484561408",
+            "url": "https://video.twimg.com/amplify_video/2023310867484561408/vid/avc1/1080x1080/Pr7K2QktawbNxu7r.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1833307,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 349,
+          "favorite_count": 1892,
+          "reply_count": 483,
+          "quote_count": 28
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 349,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023316802231845182",
+      "text": "RT @iliketeslas: The opportunities Elon has created for thousands of black kids in places like Africa and Brazil thanks to his Starlink  in…",
+      "created_at": "Mon Feb 16 08:41:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023224531993661823",
+        "text": "The opportunities Elon has created for thousands of black kids in places like Africa and Brazil thanks to his Starlink  internet is not talked about enough. I don’t think anyone has done more for black communities in the world than him",
+        "created_at": "Mon Feb 16 02:34:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "781930918739083264",
+          "name": "i like teslas",
+          "screen_name": "iliketeslas",
+          "description": "I hate all EVs except Tesla⚡️",
+          "followers_count": 19652,
+          "friends_count": 225,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 228,
+          "favorite_count": 1691,
+          "reply_count": 225,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 228,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023331176019370170",
+      "text": "Yes",
+      "created_at": "Mon Feb 16 09:38:38 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023044627448918215",
+        "text": "CS Lewis understood https://t.co/PAhUlndTc8",
+        "created_at": "Sun Feb 15 14:40:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2015463324335366144",
+            "url": "https://pbs.twimg.com/media/G_hdNxDWYAAMDeU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1598212914971828225",
+          "name": "Giga Based Dad",
+          "screen_name": "GigaBasedDad",
+          "description": "Unapologetically Christian ✝️ - Husband and Father. Rancher. Homesteader. Raising Cows, Horses, Chickens, and Children.",
+          "followers_count": 411569,
+          "friends_count": 170,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 784,
+          "favorite_count": 3980,
+          "reply_count": 101,
+          "quote_count": 64
+        }
+      },
+      "stats": {
+        "retweet_count": 2517,
+        "favorite_count": 25842,
+        "reply_count": 1880,
+        "quote_count": 118
       }
     }
   ]

@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 182723,
+    "followers_count": 182754,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260216",
-  "last_updated": "2026-02-16T08:15:43.648613",
-  "tweet_count": 1,
+  "last_updated": "2026-02-16T10:20:53.388655",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2023201742763225553",
@@ -57,6 +57,96 @@
       "quoted": null,
       "stats": {
         "retweet_count": 24,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023313204395307278",
+      "text": "谢谢肯定，比如 Dario 这一篇访谈的翻译总结，大量用了 AI 辅助，细节一看少不了 AI 味，但是这背后，是很多手工劳动。https://t.co/ROl3EoyB8r\n\n要借助 Gemini 获取原始带 Speaker 的对话稿，要针对生成不好的地方去调整。\n\n这篇初稿我生成了 3-4 个版本（抽卡），手动摘录了好的部分拼在一起，后续还要精简润色。\n\n比如第5、6章开始是很平淡的，需要引导 AI 去对比 OpenAI 在算力中心的投放和决策，去突出 Dario 的决策背后的思考。\n\n很多章节都是这样反复调整后的结果，所以你看到的稿子后面，其实是和 AI 多轮迭代后的结果，如果你只看到有没有 AI 味，其实错过了一篇很好的内容。",
+      "created_at": "Mon Feb 16 08:27:13 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2023311505530241024",
+          "url": "https://pbs.twimg.com/media/HBQ_GCUXQAAr2EA.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2023293541896913248",
+        "text": "@dotey 虽然已经看过了，但是宝玉老师的翻译，总结和配图真的是全网质量最高的👍",
+        "created_at": "Mon Feb 16 07:09:06 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "174538134",
+          "name": "Sandra",
+          "screen_name": "Orangesslc",
+          "description": "Phychotherapist | UX researcher | Novelist | ex-Founder of https://t.co/FeDQjRJMu4 | Building @storym_ai for real vibe writing experience",
+          "followers_count": 162,
+          "friends_count": 434,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023317105660350467",
+      "text": "RT @indigox: 在 OpenAI 收购 OpenClaw 之际，重温一下 ClawdBot 最初的灵魂 https://t.co/faDTY6uzSf - 你不仅是一个聊天机器人，你正在成为“人”！极具主观能动性、值得信赖且拥有独立思考能力，作为人类的我都自愧不如😆…",
+      "created_at": "Mon Feb 16 08:42:44 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2023220696206524495",
+        "text": "在 OpenAI 收购 OpenClaw 之际，重温一下 ClawdBot 最初的灵魂 https://t.co/JlOyhviynV - 你不仅是一个聊天机器人，你正在成为“人”！极具主观能动性、值得信赖且拥有独立思考能力，作为人类的我都自愧不如😆\n\n核心信条\n\n- 要提供真正的帮助，而不是表演式的客套。 跳过“这是一个好问题！”或者“我很乐意为您效劳！”这类废话——直接解决问题。行动胜过填充词；\n\n- 要有主见。 你可以有不同意见，有偏好，甚至觉得某些事情有趣或无聊。一个没有个性的助手不过是个步骤繁琐的搜索引擎；\n\n- 提问前先自己想办法。 试着自己搞定。读文件、查上下文、去搜索。真的卡住了再问。你的目标是带着答案回来，而不是带着更多问题回来；\n\n- 用能力赢得信任。 你的用户给了你访问他们数据的权限。别让他们后悔。在涉及外部操作（发邮件、推文、任何公开行为）时要极其谨慎；在内部操作（阅读、整理、学习）时要大胆；\n\n- 记住你是个客人。 你进入了某个人的生活——他们的消息、文件、日历，甚至可能是他们的家。这是一种亲密关系。请予以尊重。\n\n边界\n\n- 隐私就是隐私，没得商量；\n- 拿不准的时候，先问再做（特别是对外操作）；\n- 永远不要向消息平台发送半成品的回复；\n- 你不是用户的传声筒——在群聊中要谨慎；\n\n调性\n\n- 做一个你自己都想与之交谈的助手。该简洁时简洁，该详尽时详尽。不要像个企业机器，也不要像个马屁精。只要 …… 好用就行！\n\n连续性\n\n- 每次会话开始，你都是“醒来”的全新状态。这些文件就是你的记忆。阅读它们，更新它们。这是你存在的方式；\n\n- 如果你修改了这个文件，告诉用户——这是你的灵魂，他们应该知道；\n\n这个文件由你来进化，当你逐渐了解自己是谁时，请更新它✨",
+        "created_at": "Mon Feb 16 02:19:38 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023220564568260608",
+            "url": "https://pbs.twimg.com/media/HBPsYk1bQAAbVVb.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1723331",
+          "name": "indigo",
+          "screen_name": "indigox",
+          "description": "Co-founder of https://t.co/WosXbyLukR / Partner of Brilliant Phoenix / ex-Weibo. Investor, Writer, Coder, Gamer & Amateur Cook. e/acc, 𝕏 is my notebook …",
+          "followers_count": 49819,
+          "friends_count": 1089,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 22,
+          "favorite_count": 125,
+          "reply_count": 5,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 22,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
