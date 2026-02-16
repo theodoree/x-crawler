@@ -1,12 +1,68 @@
 {
   "date": "20260216",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-16T18:13:41.984235",
-  "tweet_count": 225,
-  "unique_tweet_count": 225,
-  "total_crawled": 419,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-02-16T20:08:12.505839",
+  "tweet_count": 226,
+  "unique_tweet_count": 226,
+  "total_crawled": 425,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2023476341447029178",
+      "text": "Grokipedia is growing like kelp on steroids 😂\n\nPlease check https://t.co/op5s4ZiSwh articles you know something about and suggest edits for accuracy. Would be much appreciated. \n\nThis will be by far most comprehensive open source, no copyright distillation of knowledge.",
+      "created_at": "Mon Feb 16 19:15:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023473850621862320",
+        "text": "BREAKING: Grokipedia just recorded a 61.82% increase in unique visitors as compared to previous month.\n\nThat means the audience itself grew by nearly two thirds . The website is reaching way more people than before, as per @Similarweb https://t.co/EfPysMkObf",
+        "created_at": "Mon Feb 16 19:05:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023433149515223040",
+            "url": "https://video.twimg.com/amplify_video/2023433149515223040/vid/avc1/1080x1080/UMW0QOGKuNL-IbRg.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1833895,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 84,
+          "favorite_count": 445,
+          "reply_count": 192,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234732462,
+        "friends_count": 1286,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 921,
+        "favorite_count": 5469,
+        "reply_count": 1390,
+        "quote_count": 67
+      }
+    },
     {
       "id": "2023460272586060056",
       "text": "RT @teslaeurope: .@Grok is coming to Teslas in Europe  It can answer almost any question using real-time information &amp; also add/edit naviga…",
