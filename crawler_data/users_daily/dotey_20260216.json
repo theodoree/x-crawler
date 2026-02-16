@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 182798,
+    "followers_count": 182828,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260216",
-  "last_updated": "2026-02-16T14:20:35.232556",
-  "tweet_count": 3,
+  "last_updated": "2026-02-16T16:15:32.119266",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2023201742763225553",
@@ -147,6 +147,59 @@
       "quoted": null,
       "stats": {
         "retweet_count": 22,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023430219647103030",
+      "text": "RT @jefflijun: 和去年颤颤巍巍相比，今年机器人的控制技术有了明显进步。当年河南塔沟武校的小朋友们一定想不到，取代他们的会是机器人 https://t.co/WObSH33WZ6",
+      "created_at": "Mon Feb 16 16:12:12 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2023387559171350528",
+          "url": "https://video.twimg.com/amplify_video/2023387559171350528/vid/avc1/1280x720/ax3T4Mzv-wGRv5hs.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2023387790503985408",
+        "text": "和去年颤颤巍巍相比，今年机器人的控制技术有了明显进步。当年河南塔沟武校的小朋友们一定想不到，取代他们的会是机器人 https://t.co/WObSH33WZ6",
+        "created_at": "Mon Feb 16 13:23:36 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023387559171350528",
+            "url": "https://video.twimg.com/amplify_video/2023387559171350528/vid/avc1/1280x720/ax3T4Mzv-wGRv5hs.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "75947931",
+          "name": "Jeff Li",
+          "screen_name": "jefflijun",
+          "description": "▶ YouTuber: 隐枫视野；Financial Times: https://t.co/JeKZGMr6cp",
+          "followers_count": 60824,
+          "friends_count": 469,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 61,
+          "reply_count": 7,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
