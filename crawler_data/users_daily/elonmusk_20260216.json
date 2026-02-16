@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234715709,
+    "followers_count": 234725972,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260216",
-  "last_updated": "2026-02-16T16:15:32.129410",
-  "tweet_count": 15,
+  "last_updated": "2026-02-16T18:13:42.015157",
+  "tweet_count": 21,
   "tweets": [
     {
       "id": "2023293747136798934",
@@ -765,6 +765,272 @@
       "quoted": null,
       "stats": {
         "retweet_count": 842,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023431249705197767",
+      "text": "RT @Not_the_Bee: A new political party just launched to save Britain and it's giving people hope\nhttps://t.co/EdmFoS9Ilc",
+      "created_at": "Mon Feb 16 16:16:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023408359618330707",
+        "text": "A new political party just launched to save Britain and it's giving people hope\nhttps://t.co/EdmFoS9Ilc",
+        "created_at": "Mon Feb 16 14:45:20 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1299007622968901637",
+          "name": "Not the Bee",
+          "screen_name": "Not_the_Bee",
+          "description": "What a time to 🐝 alive.\n\nPersonal thoughts shared as posts or replies from this account are usually those of our CEO, @dandillondev",
+          "followers_count": 543174,
+          "friends_count": 525,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 495,
+          "favorite_count": 3520,
+          "reply_count": 185,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 495,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023431301202837950",
+      "text": "RT @RupertLowe10: Big news. Restore Britain has just hit 50,000 members.\n\nWe have a growing army of supporters, and we're polling nationall…",
+      "created_at": "Mon Feb 16 16:16:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023128956644319575",
+        "text": "Big news. Restore Britain has just hit 50,000 members.\n\nWe have a growing army of supporters, and we're polling nationally at 10%. I am increasingly confident that we have a bloody good chance of winning the next election.\n\nJoin the party today.\n\nhttps://t.co/RMtEuHnRrn https://t.co/PiEDneKDwB",
+        "created_at": "Sun Feb 15 20:15:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023128707234484224",
+            "url": "https://video.twimg.com/amplify_video/2023128707234484224/vid/avc1/1920x1080/fwASNgK2wKqkeRjX.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 613423,
+          "friends_count": 776,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7303,
+          "favorite_count": 48134,
+          "reply_count": 1596,
+          "quote_count": 281
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7303,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023448731795021860",
+      "text": "Small world",
+      "created_at": "Mon Feb 16 17:25:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023436345302245545",
+        "text": "EXPOSED: Dylan Bryan Adams, the man accused of keying six Teslas in Minneapolis over Elon Musk's DOGE involvement, served as a financial policy compliance lead at Minnesota's Department of Human Services, where he handled reviews of Medicaid fraud. https://t.co/c1U01T6DKt",
+        "created_at": "Mon Feb 16 16:36:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023424220701904896",
+            "url": "https://video.twimg.com/amplify_video/2023424220701904896/vid/avc1/1848x1080/_8Ka3Lxf6AstQ9AK.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16106584",
+          "name": "Ian Miles Cheong",
+          "screen_name": "ianmiles",
+          "description": "I say the quiet part out loud. Hit the follow button if you can read this.",
+          "followers_count": 1254992,
+          "friends_count": 1361,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 811,
+          "favorite_count": 4116,
+          "reply_count": 249,
+          "quote_count": 45
+        }
+      },
+      "stats": {
+        "retweet_count": 4071,
+        "favorite_count": 31118,
+        "reply_count": 1602,
+        "quote_count": 104
+      }
+    },
+    {
+      "id": "2023449326404727147",
+      "text": "Bravo!\n\nIt’s a sign of how crazy these days are that this even needs to be said!",
+      "created_at": "Mon Feb 16 17:28:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023021199438319650",
+        "text": "Restore Britain will ban foreigners from voting in British elections.",
+        "created_at": "Sun Feb 15 13:06:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1930183861176090624",
+          "name": "Restore Britain",
+          "screen_name": "RestoreBritain_",
+          "description": "Let’s Restore Britain. Join our party here:",
+          "followers_count": 241272,
+          "friends_count": 52,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3016,
+          "favorite_count": 42120,
+          "reply_count": 890,
+          "quote_count": 256
+        }
+      },
+      "stats": {
+        "retweet_count": 3164,
+        "favorite_count": 29521,
+        "reply_count": 1627,
+        "quote_count": 75
+      }
+    },
+    {
+      "id": "2023450696432185815",
+      "text": "RT @MELANIATRUMP: Happy President’s Day! 🇺🇸 https://t.co/PWRNlTF9jD",
+      "created_at": "Mon Feb 16 17:33:34 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2023441237408104448",
+          "url": "https://pbs.twimg.com/media/HBS1FbOWQAAK3da.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2023441386616614990",
+        "text": "Happy President’s Day! 🇺🇸 https://t.co/PWRNlTF9jD",
+        "created_at": "Mon Feb 16 16:56:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023441237408104448",
+            "url": "https://pbs.twimg.com/media/HBS1FbOWQAAK3da.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "108471631",
+          "name": "MELANIA TRUMP",
+          "screen_name": "MELANIATRUMP",
+          "description": "The official profile for Melania Trump",
+          "followers_count": 3960278,
+          "friends_count": 64,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2319,
+          "favorite_count": 20759,
+          "reply_count": 1928,
+          "quote_count": 133
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2319,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023460272586060056",
+      "text": "RT @teslaeurope: .@Grok is coming to Teslas in Europe  It can answer almost any question using real-time information &amp; also add/edit naviga…",
+      "created_at": "Mon Feb 16 18:11:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023196238271922511",
+        "text": ".@Grok is coming to Teslas in Europe  It can answer almost any question using real-time information & also add/edit navigation destinations to become your personal guide  Initially rolling out in – UK – Ireland – Germany – Switzerland – Austria – Italy – France – Portugal – Spain  More to come",
+        "created_at": "Mon Feb 16 00:42:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023196235516219394",
+            "url": "https://pbs.twimg.com/media/HBPWQcDaEAIZ0Cy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1620480811303866369",
+          "name": "Tesla Europe, Middle East & Africa",
+          "screen_name": "teslaeurope",
+          "description": "All things Tesla Europe, Middle East & Africa",
+          "followers_count": 160034,
+          "friends_count": 19,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 678,
+          "favorite_count": 6933,
+          "reply_count": 731,
+          "quote_count": 265
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 678,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
