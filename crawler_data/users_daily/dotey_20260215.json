@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 182535,
+    "followers_count": 182563,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260215",
-  "last_updated": "2026-02-15T22:05:55.453043",
-  "tweet_count": 16,
+  "last_updated": "2026-02-16T00:22:32.466637",
+  "tweet_count": 18,
   "tweets": [
     {
       "id": "2022841250190135642",
@@ -543,6 +543,90 @@
         "favorite_count": 4,
         "reply_count": 1,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2023164634539212931",
+      "text": "Steinberger 在博客上确认了这个消息：\nhttps://t.co/GfVdZTLH59\n> 我将加入 OpenAI，致力于把智能体带给每一个人。OpenClaw 将转入一个基金会，保持开放和独立。\n\n> 我完全能想象 OpenClaw 可以变成一家大公司。但这对我来说并不让人兴奋。我骨子里是个 Builder（造东西的人）。开公司这件事我已经干过了，投入了 13 年。我想要的是改变世界，而不是建一家大公司。\n\n他想做的是“造一个连我妈都能用的智能体”，这需要最前沿的模型和研究，加入 OpenAI 是最快的路径。OpenClaw 将进入基金会，保持独立开源，继续支持多种模型和公司。",
+      "created_at": "Sun Feb 15 22:36:52 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023154018714100102",
+        "text": "I'm joining @OpenAI to bring agents to everyone. @OpenClaw is becoming a foundation: open, independent, and just getting started.🦞\nhttps://t.co/XOc7X4jOxq",
+        "created_at": "Sun Feb 15 21:54:41 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "25401953",
+          "name": "Peter Steinberger 🦞",
+          "screen_name": "steipete",
+          "description": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "followers_count": 297998,
+          "friends_count": 2212,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1181,
+          "favorite_count": 12184,
+          "reply_count": 1639,
+          "quote_count": 853
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 14,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023164822045540750",
+      "text": "这可能是 Anthropic 近年来最大的战略失误。想想看：史上增长最快的开源项目之一，名字直接致敬你家的产品，绝大多数用户都是 Claude 的重度用户，项目底层跑的就是 Claude Code。这本来是一个梦寐以求的生态故事，Anthropic 却选择了发律师函。\n\nhttps://t.co/EHOq9luJIU",
+      "created_at": "Sun Feb 15 22:37:36 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023158931942674818",
+        "text": "Maybe the fumble of the decade by @AnthropicAI.\n\nThe most popular and fastest growing open source project of all time is not only named after you, but most users are power users of your product.\n\nInstead trying to collaborate or work with him they chose violence 😭 https://t.co/yG4nEYUIvc",
+        "created_at": "Sun Feb 15 22:14:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023158364977385474",
+            "url": "https://pbs.twimg.com/media/HBOz0FTWUAIZM_2.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17189394",
+          "name": "nader dabit",
+          "screen_name": "dabit3",
+          "description": "Growth @cognition. Working on @devinai and @windsurf.",
+          "followers_count": 186293,
+          "friends_count": 14403,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 70,
+          "favorite_count": 1465,
+          "reply_count": 75,
+          "quote_count": 19
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 54,
+        "reply_count": 13,
+        "quote_count": 2
       }
     }
   ]
