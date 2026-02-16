@@ -1,12 +1,428 @@
 {
   "date": "20260216",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-16T20:08:12.505839",
-  "tweet_count": 226,
-  "unique_tweet_count": 226,
-  "total_crawled": 425,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-02-16T22:07:48.439568",
+  "tweet_count": 233,
+  "unique_tweet_count": 233,
+  "total_crawled": 426,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2023516129457758483",
+      "text": "If you’re in Korea and want to work on chip design, fabrication or AI software, join Tesla!",
+      "created_at": "Mon Feb 16 21:53:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022853328707948847",
+        "text": "We’re hiring AI chip design engineers in Korea",
+        "created_at": "Sun Feb 15 01:59:51 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1659653864138612761",
+          "name": "Tesla AI",
+          "screen_name": "Tesla_AI",
+          "description": "",
+          "followers_count": 442887,
+          "friends_count": 18,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 298,
+          "favorite_count": 2743,
+          "reply_count": 75,
+          "quote_count": 40
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234738942,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 355,
+        "favorite_count": 3105,
+        "reply_count": 687,
+        "quote_count": 49
+      }
+    },
+    {
+      "id": "2023511421779354015",
+      "text": "🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷🇰🇷",
+      "created_at": "Mon Feb 16 21:34:52 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2022852278307156448",
+        "text": "[Tesla Korea 채용공고 - AI Chip Design Engineer]\n\nTesla에서 세계 최고 수준의 대량 생산 AI 칩 개발에 함께할 인재를 찾습니다.\n해당 프로젝트는 향후 세계에서 가장 높은 생산량을 기록할 AI 칩 아키텍처 개발을 목표로 합니다.\n\n📌 모집 직무\nAI Chip Design Engineer\n\n📌 지원 방법\n아래 내용을 포함하여 Ai_Chips@Tesla.com 이메일 지원\n- 본인이 해결했던 가장 어려운 기술적 문제 3가지",
+        "created_at": "Sun Feb 15 01:55:40 +0000 2026",
+        "lang": "ko",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1639167118733357056",
+          "name": "Tesla Korea",
+          "screen_name": "tesla_korea",
+          "description": "테슬라 코리아 공식 계정 | Building a World of Amazing Abundance",
+          "followers_count": 21196,
+          "friends_count": 43,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 266,
+          "favorite_count": 1321,
+          "reply_count": 159,
+          "quote_count": 110
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234738942,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 556,
+        "favorite_count": 4404,
+        "reply_count": 910,
+        "quote_count": 88
+      }
+    },
+    {
+      "id": "2023510007577538718",
+      "text": "Model S &amp; X are great cars!\n\nOrder yours before we sunset the program in a few months. \n\nhttps://t.co/46TXqRJBrz",
+      "created_at": "Mon Feb 16 21:29:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023434871847149836",
+        "text": "Doug DeMuro ranked the @Tesla Model S as the #1 most important car of the last 30 years in his new video.\n\nDoug: \"The Model S really changed the world. It made you think that EVs could be cool, fast, luxurious. It really reset any public opinion about EVs, that you didn't have to make major compromises; They (Tesla) created a cultural icon. If you created a list of the top 10 all-time cars that changed the world, Model S is in the top 5.\"",
+        "created_at": "Mon Feb 16 16:30:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023434074279260161",
+            "url": "https://video.twimg.com/amplify_video/2023434074279260161/vid/avc1/1920x1080/6fnCvVEw9jIGTvT5.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1039648,
+          "friends_count": 431,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 162,
+          "favorite_count": 2157,
+          "reply_count": 133,
+          "quote_count": 26
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234738942,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 578,
+        "favorite_count": 4681,
+        "reply_count": 1235,
+        "quote_count": 41
+      }
+    },
+    {
+      "id": "2023494489781006691",
+      "text": "Important read",
+      "created_at": "Mon Feb 16 20:27:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023408019703501084",
+        "text": "My inaugural X article is at 40,000 views.  Not bad but let's increase that figure!  Read and share.",
+        "created_at": "Mon Feb 16 14:43:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "116579971",
+          "name": "Gad Saad",
+          "screen_name": "GadSaad",
+          "description": "Professor, Evolutionary Behavioral Scientist, Author. Opinions are mine alone. Retweets do not necessarily imply an endorsement.",
+          "followers_count": 1263384,
+          "friends_count": 456,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 838,
+          "favorite_count": 3861,
+          "reply_count": 199,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234738942,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1496,
+        "favorite_count": 10190,
+        "reply_count": 1247,
+        "quote_count": 42
+      }
+    },
+    {
+      "id": "2023494226328383967",
+      "text": "RT @mattvanswol: 🚨#BREAKING: In a horrifying revelation, Chapel Hill NC police have confirmed that the two men who broke into a North Carol…",
+      "created_at": "Mon Feb 16 20:26:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023483416126390346",
+        "text": "🚨#BREAKING: In a horrifying revelation, Chapel Hill NC police have confirmed that the two men who broke into a North Carolina man's home, tied him up, beat him, and then se*ually assaulted him at knife-point...\n\n...ARE BOTH ILLEGAL IMMIGRANTS!!!!!!!\n\nThere will be no protests for the victim. You won't find this story in the mainstream news.\n\nA MAN WAS TORTURED IN HIS OWN HOME, TIED UP, BEATEN, AND SE*UALLY ASSAULTED BY ILLEGAL IMMIGRANTS AND NOT ONE SINGLE LEFTIST GIVES A DAMN!!!!!!",
+        "created_at": "Mon Feb 16 19:43:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023480369438445568",
+            "url": "https://pbs.twimg.com/media/HBTYrNZa0AAR8l9.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2023480370080133120",
+            "url": "https://pbs.twimg.com/media/HBTYrPyaMAAjiFV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1244068896157708289",
+          "name": "Matt Van Swol",
+          "screen_name": "mattvanswol",
+          "description": "Former Nuclear Scientist for US Dept of Energy | Ex-Photographer for @apple, @united, and @hyatt",
+          "followers_count": 465057,
+          "friends_count": 7762,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9143,
+          "favorite_count": 22060,
+          "reply_count": 1129,
+          "quote_count": 418
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234738942,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 9143,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023493939890975076",
+      "text": "RT @cb_doge: How to suggest an article on Grokipedia?\n\nLogin to https://t.co/WT2HKpY7si\nClick “Suggest Article”\nAdd article topic and detai…",
+      "created_at": "Mon Feb 16 20:25:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023477939900407831",
+        "text": "How to suggest an article on Grokipedia?\n\nLogin to https://t.co/WT2HKpY7si\nClick “Suggest Article”\nAdd article topic and details\nClick the “Submit Suggestion” button\nDone https://t.co/KioP2vDymv",
+        "created_at": "Mon Feb 16 19:21:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023477881234743296",
+            "url": "https://video.twimg.com/amplify_video/2023477881234743296/vid/avc1/1080x1080/j9BtJLbwIyoxAzcr.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2023476341447029178",
+          "text": "Grokipedia is growing like kelp on steroids 😂\n\nPlease check https://t.co/op5s4ZiSwh articles you know something about and suggest edits for accuracy. Would be much appreciated. \n\nThis will be by far most comprehensive open source, no copyright distillation of knowledge.",
+          "created_at": "Mon Feb 16 19:15:28 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234738942,
+            "friends_count": 1288,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1884,
+            "favorite_count": 10560,
+            "reply_count": 1968,
+            "quote_count": 107
+          }
+        },
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1833977,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 258,
+          "favorite_count": 1029,
+          "reply_count": 201,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234738942,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 258,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023493771569279003",
+      "text": "RT @uaustinorg: Tell him to run outside. Get muddy. Get curious. Take things apart. Build something that barely works, then make it better.…",
+      "created_at": "Mon Feb 16 20:24:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "1906934996943716702",
+        "text": "Tell him to run outside. Get muddy. Get curious. Take things apart. Build something that barely works, then make it better. Stir up just enough trouble to earn a few good stories. Read great books. Ask big questions. Forget college and the stressful admissions rat race. We’ll be here when he’s ready to take one test and send the score.",
+        "created_at": "Tue Apr 01 05:01:47 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "1906928790518821291",
+          "text": "@uaustinorg My son is in 5th grade. When should he apply? 🤣🤣",
+          "created_at": "Tue Apr 01 04:37:07 +0000 2025",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1518677265193877504",
+            "name": "Lauren wants TEXIT 🗳",
+            "screen_name": "9thGenTexian",
+            "description": "9th generation Texian  ||  TEXAS FOREVER, but America First™️ until TEXIT  ||\nPure🩸 ||  Metalhead  ||  💍 & 🧒  ||  Groyper Mom 🐸  ||  41 ⚪️ ♀️  ||",
+            "followers_count": 3898,
+            "friends_count": 1558,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 0,
+            "favorite_count": 38,
+            "reply_count": 6,
+            "quote_count": 0
+          }
+        },
+        "user": {
+          "id": "1428484930519056390",
+          "name": "University of Austin (UATX)",
+          "screen_name": "uaustinorg",
+          "description": "UATX is ending tuition forever:\n\nhttps://t.co/Iyc5SjBWxU",
+          "followers_count": 55491,
+          "friends_count": 92,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 383,
+          "favorite_count": 2897,
+          "reply_count": 138,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234738942,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 383,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2023476341447029178",
       "text": "Grokipedia is growing like kelp on steroids 😂\n\nPlease check https://t.co/op5s4ZiSwh articles you know something about and suggest edits for accuracy. Would be much appreciated. \n\nThis will be by far most comprehensive open source, no copyright distillation of knowledge.",
