@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 182881,
+    "followers_count": 182898,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260216",
-  "last_updated": "2026-02-16T22:07:48.493808",
-  "tweet_count": 4,
+  "last_updated": "2026-02-17T00:22:48.570881",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2023201742763225553",
@@ -203,6 +203,28 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2023521127000346978",
+      "text": "这视频居然完全AI制作，还是挺牛的 https://t.co/ZjsEfiFH3n",
+      "created_at": "Mon Feb 16 22:13:26 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2023460419969708033",
+          "url": "https://video.twimg.com/ext_tw_video/2023460419969708033/pu/vid/avc1/1280x720/4g8CnODoIf4C_xsY.mp4?tag=19",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 35,
+        "reply_count": 6,
+        "quote_count": 1
       }
     }
   ]
