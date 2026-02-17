@@ -1,12 +1,236 @@
 {
   "date": "20260217",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-17T04:38:55.661444",
-  "tweet_count": 207,
-  "unique_tweet_count": 207,
-  "total_crawled": 405,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-02-17T06:22:29.766878",
+  "tweet_count": 210,
+  "unique_tweet_count": 210,
+  "total_crawled": 407,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2023642851360600471",
+      "text": "RT @DirtyTesLa: The improvements in @Starlink internet speeds over just a few years have been insane. \n\nI never thought I could have intern…",
+      "created_at": "Tue Feb 17 06:17:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023637036955996513",
+        "text": "The improvements in @Starlink internet speeds over just a few years have been insane. \n\nI never thought I could have internet like this at my rural home. https://t.co/6RVk7HaZiI",
+        "created_at": "Tue Feb 17 05:54:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023637035508998144",
+            "url": "https://pbs.twimg.com/media/HBVnKX_WoAAklsa.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1118594454515003393",
+          "name": "Dirty Tesla",
+          "screen_name": "DirtyTesLa",
+          "description": "YouTube and Links: https://t.co/xDxdMQtRrJ",
+          "followers_count": 141080,
+          "friends_count": 1411,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 41,
+          "favorite_count": 325,
+          "reply_count": 90,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234739668,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 41,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023636454392688840",
+      "text": "RT @kimbal: I've named my main Tesla car 'K.I.T.T.' for 2 years now. It's all that and more 🤠",
+      "created_at": "Tue Feb 17 05:51:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023529864700268659",
+        "text": "I've named my main Tesla car 'K.I.T.T.' for 2 years now. It's all that and more 🤠",
+        "created_at": "Mon Feb 16 22:48:09 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2023472131192054173",
+          "text": "It’s pretty wild how K.I.T.T. is basically a Tesla.\n\n44 years later, Tesla vehicles drive themselves, think with advanced AI, and even come with an AI companion (Grok).\n\nWatching this show reminds me that we are indeed living in the future. https://t.co/sXqSq6ihr4",
+          "created_at": "Mon Feb 16 18:58:45 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2023472034140082176",
+              "url": "https://video.twimg.com/amplify_video/2023472034140082176/vid/avc1/1774x1172/TbnCVESQQuTUF_uI.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1494873435863977985",
+            "name": "Nic Cruz Patane",
+            "screen_name": "niccruzpatane",
+            "description": "Deep dive into everything Tesla",
+            "followers_count": 93383,
+            "friends_count": 156,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 216,
+            "favorite_count": 1883,
+            "reply_count": 120,
+            "quote_count": 37
+          }
+        },
+        "user": {
+          "id": "4767021",
+          "name": "𝙺𝚒𝚖𝚋𝚊𝚕 𝙼𝚞𝚜𝚔 🤠",
+          "screen_name": "kimbal",
+          "description": "Joy To The World",
+          "followers_count": 550511,
+          "friends_count": 509,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 230,
+          "favorite_count": 2299,
+          "reply_count": 334,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234739668,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 230,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023634407114813833",
+      "text": "RT @Starlink: Starlink enables fast, reliable internet around the world, even in the most remote locations 🛰️🌴",
+      "created_at": "Tue Feb 17 05:43:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023519015294140915",
+        "text": "Starlink enables fast, reliable internet around the world, even in the most remote locations 🛰️🌴",
+        "created_at": "Mon Feb 16 22:05:03 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2009320462644654337",
+          "text": "2 years ago I recall one Starlink terminal on the Main Street of Puerto Ayora, Galápagos. Fast forward and today every single house and boat have Starlink across all Galápagos Islands! Starlink has changed connectivity here. https://t.co/Ec87WkoBKi",
+          "created_at": "Thu Jan 08 17:45:04 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2009320369253998592",
+              "url": "https://pbs.twimg.com/media/G-KKOuFXYAAp2o7.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2009320369379823616",
+              "url": "https://pbs.twimg.com/media/G-KKOujXUAAfX03.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2009320369262325760",
+              "url": "https://pbs.twimg.com/media/G-KKOuHWcAAUfHj.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1516798837209370633",
+            "name": "Christoffer Bløndal Bengtsson",
+            "screen_name": "Blo_Bengtsson",
+            "description": "Manufacturing at Tesla | Triangle on Wheels Driver | Opinions Are My Own",
+            "followers_count": 162,
+            "friends_count": 122,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3,
+            "favorite_count": 67,
+            "reply_count": 3,
+            "quote_count": 3
+          }
+        },
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1547143,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 189,
+          "favorite_count": 1453,
+          "reply_count": 189,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234739668,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 189,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2023606223913054260",
       "text": "供参考",
