@@ -1,12 +1,328 @@
 {
   "date": "20260217",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-17T00:22:48.546531",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-02-17T03:02:08.307804",
+  "tweet_count": 205,
+  "unique_tweet_count": 205,
+  "total_crawled": 400,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2023563351163547908",
+      "text": "RT @Tesla_Asia: Happy Spring Festival🧧\nYear of the Horse — autonomous and prosperous 🐎⚡️ https://t.co/Z1f9Iu0hix",
+      "created_at": "Tue Feb 17 01:01:13 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2023208388726067200",
+          "url": "https://video.twimg.com/amplify_video/2023208388726067200/vid/avc1/1920x1080/qYuLi-NIvmeF4f54.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2023209042408292375",
+        "text": "Happy Spring Festival🧧\nYear of the Horse — autonomous and prosperous 🐎⚡️ https://t.co/Z1f9Iu0hix",
+        "created_at": "Mon Feb 16 01:33:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023208388726067200",
+            "url": "https://video.twimg.com/amplify_video/2023208388726067200/vid/avc1/1920x1080/qYuLi-NIvmeF4f54.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1201427034754318337",
+          "name": "Tesla Asia",
+          "screen_name": "Tesla_Asia",
+          "description": "Our mission is to build a world of amazing abundance.",
+          "followers_count": 213175,
+          "friends_count": 48,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 847,
+          "favorite_count": 5463,
+          "reply_count": 349,
+          "quote_count": 109
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234750395,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 847,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023560293268492748",
+      "text": "RT @KonstantinKisin: I didn't become right-wing. You just lost the plot. https://t.co/kdR5HVXjAK",
+      "created_at": "Tue Feb 17 00:49:04 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2023420453654601728",
+          "url": "https://video.twimg.com/amplify_video/2023420453654601728/vid/avc1/1080x1920/5WtAcV56JojMx8Vq.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2023424498813509732",
+        "text": "I didn't become right-wing. You just lost the plot. https://t.co/kdR5HVXjAK",
+        "created_at": "Mon Feb 16 15:49:28 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023420453654601728",
+            "url": "https://video.twimg.com/amplify_video/2023420453654601728/vid/avc1/1080x1920/5WtAcV56JojMx8Vq.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1495726466",
+          "name": "Konstantin Kisin",
+          "screen_name": "KonstantinKisin",
+          "description": "Politically Non-Binary Satirist\n\nPodcast: @triggerpod\n\nSpeaking: rafe.fletcher@cwgspeakers.com\n\nMedia: info@triggerpod.co.uk\n\nBook: https://t.co/GgTCJ7iPE8",
+          "followers_count": 772888,
+          "friends_count": 1783,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1280,
+          "favorite_count": 8316,
+          "reply_count": 369,
+          "quote_count": 63
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234750395,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1280,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023559661581111736",
+      "text": "Very much so",
+      "created_at": "Tue Feb 17 00:46:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023538607768887765",
+        "text": "We just need to celebrate having kids. https://t.co/J4x54uHG2O",
+        "created_at": "Mon Feb 16 23:22:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023538601838202880",
+            "url": "https://pbs.twimg.com/media/HBUNox_bUAAUbr3.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1834427,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 505,
+          "favorite_count": 4108,
+          "reply_count": 597,
+          "quote_count": 92
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234750395,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5553,
+        "favorite_count": 77677,
+        "reply_count": 3871,
+        "quote_count": 254
+      }
+    },
+    {
+      "id": "2023559306264932811",
+      "text": "RT @wil_da_beast630: This was it for a lot of people.",
+      "created_at": "Tue Feb 17 00:45:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023427142168846529",
+        "text": "This was it for a lot of people.",
+        "created_at": "Mon Feb 16 15:59:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2023159897391878588",
+          "text": "still feels mental that his happened https://t.co/0jkOLeJVvE",
+          "created_at": "Sun Feb 15 22:18:02 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2023159895588265984",
+              "url": "https://pbs.twimg.com/media/HBO1NLRa4AAmnC1.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1655936149733654530",
+            "name": "vittorio",
+            "screen_name": "IterIntellectus",
+            "description": "practice expert\n\n“unique online personality”\n\nformer TPOT thinker (exiled)\n\nprofessional shitpoaster @SpaceX\n\ndon't take me seriously",
+            "followers_count": 169936,
+            "friends_count": 2312,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 261,
+            "favorite_count": 7318,
+            "reply_count": 137,
+            "quote_count": 21
+          }
+        },
+        "user": {
+          "id": "1011008340367953920",
+          "name": "Wilfred Reilly",
+          "screen_name": "wil_da_beast630",
+          "description": "A college professor now, I am a former corporate executive, freedom rider, law student, and poor kid. Butlerian Jihad Advocate. Karen Appreciator.",
+          "followers_count": 169074,
+          "friends_count": 3677,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 470,
+          "favorite_count": 6611,
+          "reply_count": 177,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234750395,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 470,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023558983953641830",
+      "text": "A dog successfully registered to vote in California 🤦‍♂️",
+      "created_at": "Tue Feb 17 00:43:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023535502700540048",
+        "text": "🚨 California is the breeding ground for voter fraud in America, as millions of people vote with no ID, month-long election processes, inaccurate voter rolls, dead people caught voting, even a dog successfully registered to vote, and voter verification is all based on your signature — not who you actually are.\n\nIn this video, I go to locations from California’s public voter rolls from the Secretary of State, and not a single location could verify the voter rolls.\n- Irregularities in voter numbers per location\n- 30+ people registered to one mail store\n- Voters inaccurately aged at 125 years old\n\nWithout any voter ID and negligence from the state government to update their voter rolls, California’s one-party state has created a complex system where fraud is inevitable in their voting process. If you appreciate this video give it a like and share it around!",
+        "created_at": "Mon Feb 16 23:10:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023529649608028160",
+            "url": "https://video.twimg.com/amplify_video/2023529649608028160/vid/avc1/1920x1080/gvyiuGoEvu4JLBaB.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "819432501982752768",
+          "name": "Nick shirley",
+          "screen_name": "nickshirleyy",
+          "description": "If you’re reading this hit that follow button. We out here EVERYWHEREEE 🌎 Get a Quality Learing Hoodie ⬇️ Become a subscriber to support 🙏🏼",
+          "followers_count": 1369024,
+          "friends_count": 848,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9043,
+          "favorite_count": 30556,
+          "reply_count": 1501,
+          "quote_count": 657
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234750395,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7535,
+        "favorite_count": 38548,
+        "reply_count": 2467,
+        "quote_count": 307
+      }
+    },
     {
       "id": "2023521127000346978",
       "text": "这视频居然完全AI制作，还是挺牛的 https://t.co/ZjsEfiFH3n",
