@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 183068,
+    "followers_count": 183067,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260217",
-  "last_updated": "2026-02-17T20:17:54.675182",
-  "tweet_count": 5,
+  "last_updated": "2026-02-17T22:13:11.429017",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2023595648482718199",
@@ -181,6 +181,52 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2023858330062528577",
+      "text": "Claude Sonnet 4.6 发布了，Anthropic 迄今最强的 Sonnet 模型。\n\n这次升级覆盖面很广：编程、计算机操作、长上下文推理、智能体规划、知识工作、设计，全线提升。上下文窗口也扩到了 100 万 token（beta）。价格不变，依然是 3/15 美元每百万 token。\n\n下面快速过一遍值得关注的点。\n\n【1】编程能力大幅提升，用户甚至更偏爱它超过 Opus\n\nAnthropic 的内部测试显示，Claude Code 用户在 70% 的情况下更偏好 Sonnet 4.6 而非上一代 Sonnet 4.5。更夸张的是，59% 的用户甚至更喜欢它而非去年 11 月发布的旗舰模型 Opus 4.5。\n\n用户反馈集中在几个点：Sonnet 4.6 在改代码之前会先读上下文，会合并重复逻辑而不是到处复制粘贴，过度工程化和偷懒的情况也明显减少。多步骤任务执行更稳定，虚假的成功报告更少。\n\n【2】计算机操作从实验品变成了实用工具\n\n2024 年 10 月 Anthropic 首次推出计算机操作功能时，自己都说\"还很笨拙、容易出错\"。16 个月后，OSWorld 基准测试（让 AI 在真实软件环境里完成任务）的得分从最初的 14.9% 涨到了 72.5%。\n\n早期用户反馈，Sonnet 4.6 在操作复杂电子表格、填写多步骤网页表单这类任务上，已经接近人类水平。它还能跨多个浏览器标签协调操作，把不同来源的信息整合到一起。\n\n当然，跟最熟练的人类比还有差距。但这个进步速度说明，更强的版本不会太远。\n\n安全方面也有改进。计算机操作最大的风险是提示词注入（prompt injection），恶意网页可以藏指令试图劫持模型。Sonnet 4.6 在抵抗这类攻击方面比 Sonnet 4.5 有明显提升。\n\n【3】基准测试全面提升，逼近 Opus 水平\n\nSonnet 4.6 在各项基准测试中全面进步，接近 Opus 级别的智能水平，但价格只是 Sonnet 级别。换句话说，以前需要用 Opus 才能搞定的任务，现在 Sonnet 就能做。\n\n特别值得一提的是 Vending-Bench Arena 评测，这个测试让 AI 模型在模拟环境中经营一家企业，不同模型之间还要相互竞争。Sonnet 4.6 展现出了有意思的策略：前 10 个月大举投资扩产能，最后阶段突然转向盈利优先，靠这个时机差打赢了竞争对手。\n\n【4】100 万 token 上下文窗口\n\n100 万 token 足够装下整个代码库、长篇合同或几十篇研究论文。更关键的是，Sonnet 4.6 能在这么长的上下文里有效推理，而不只是把文本塞进去。这对需要长期规划的复杂任务很有价值。\n\n【5】产品和 API 更新\n\nAPI 层面有几个实用更新：网页搜索和抓取工具现在会自动过滤处理搜索结果，只保留相关内容，节省 token；代码执行、记忆、程序化工具调用、工具搜索等功能正式发布（GA）。\n\nClaude in Excel 插件现在支持 MCP 连接器，可以直接在 Excel 里调用 S&P Global、PitchBook、Moody's 等数据源，不用切出去。\n\n免费版也升级到了 Sonnet 4.6，并开放了文件创建、连接器、Skills 和上下文压缩功能。\n\n【6】怎么选：Sonnet 4.6 还是 Opus？\n\n对大多数任务来说，Sonnet 4.6 性价比更高。Anthropic 自己的建议是：需要最深层推理的场景（大规模代码重构、多智能体编排、必须零容错的问题），Opus 4.6 仍然是更好的选择。其他场景，Sonnet 4.6 足够了。\n\nSonnet 4.6 的模型标识符是 claude-sonnet-4-6，已在所有 Claude 方案、Cowork、Claude Code、API 以及主要云平台上线。",
+      "created_at": "Tue Feb 17 20:33:22 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023817132581208353",
+        "text": "This is Claude Sonnet 4.6: our most capable Sonnet model yet.\n\nIt’s a full upgrade across coding, computer use, long-context reasoning, agent planning, knowledge work, and design.\n\nIt also features a 1M token context window in beta. https://t.co/TDId3XUSRs",
+        "created_at": "Tue Feb 17 17:49:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023814057418219520",
+            "url": "https://video.twimg.com/amplify_video/2023814057418219520/vid/avc1/1920x1080/UNjYoVpWA7Bw3jZ-.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+          "followers_count": 443059,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1497,
+          "favorite_count": 13570,
+          "reply_count": 711,
+          "quote_count": 1022
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 37,
+        "reply_count": 6,
+        "quote_count": 2
       }
     }
   ]
