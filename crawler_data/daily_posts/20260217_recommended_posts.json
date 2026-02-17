@@ -1,12 +1,498 @@
 {
   "date": "20260217",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-17T10:18:46.332848",
-  "tweet_count": 210,
-  "unique_tweet_count": 210,
+  "last_crawl_time": "2026-02-17T12:14:07.713771",
+  "tweet_count": 218,
+  "unique_tweet_count": 218,
   "total_crawled": 410,
-  "duplicates_removed": 200,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2023723506601431472",
+      "text": "RT @BasilTheGreat: 🚨ASMONGOLD INVITES RUPERT LOWE ONTO CHANNEL\n\nThis would be amazing\n\nLet's make it happen! \n\nhttps://t.co/yeOTBl6Kfc",
+      "created_at": "Tue Feb 17 11:37:37 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2023623903239958528",
+          "url": "https://video.twimg.com/amplify_video/2023623903239958528/vid/avc1/1080x1344/d-m2TD_PRDq5EZUI.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2023651542595711447",
+        "text": "🚨ASMONGOLD INVITES RUPERT LOWE ONTO CHANNEL\n\nThis would be amazing\n\nLet's make it happen! \n\nhttps://t.co/yeOTBl6Kfc",
+        "created_at": "Tue Feb 17 06:51:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023623903239958528",
+            "url": "https://video.twimg.com/amplify_video/2023623903239958528/vid/avc1/1080x1344/d-m2TD_PRDq5EZUI.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1722014154322575360",
+          "name": "Basil the Great",
+          "screen_name": "BasilTheGreat",
+          "description": "--//-- Restore Britain --//--\n\nDM for submissions/credit/deletion",
+          "followers_count": 279575,
+          "friends_count": 5030,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 535,
+          "favorite_count": 5044,
+          "reply_count": 206,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234748321,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 535,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023723403123810568",
+      "text": "RT @kevinnbass: THE REID HOFFMAN FILES\n\nI OCR'd all 1.4 million documents from the DOJ's Epstein FOIA release.\n\nThen I tested every public…",
+      "created_at": "Tue Feb 17 11:37:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023662563930657135",
+        "text": "THE REID HOFFMAN FILES\n\nI OCR'd all 1.4 million documents from the DOJ's Epstein FOIA release.\n\nThen I tested every public claim Reid Hoffman ever made about Jeffrey Epstein.\n\n13 claims. 0 true.\n\nThis is the very first email. August 2013.\n\n[EFTA01960550]\n\nLink: https://t.co/bmPfWtTI0a",
+        "created_at": "Tue Feb 17 07:35:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023656278547959808",
+            "url": "https://pbs.twimg.com/media/HBV4qd5XEAAoobq.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1038726722",
+          "name": "Kevin Bass",
+          "screen_name": "kevinnbass",
+          "description": "Interested in tech, AI, public health, healthcare — Kicked out of TTU med for truth-telling — I want Texas Tech to tell the truth about what it did",
+          "followers_count": 193537,
+          "friends_count": 2612,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 247,
+          "favorite_count": 703,
+          "reply_count": 102,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234748321,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 247,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023722490414137739",
+      "text": "RT @TheCaptainEli: Flashback to July 2022: Elon Musk showing Everyday Astronaut the massive leap from messy Raptor 1 (‘Christmas tree’ vibe…",
+      "created_at": "Tue Feb 17 11:33:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023706943177847051",
+        "text": "Flashback to July 2022: Elon Musk showing Everyday Astronaut the massive leap from messy Raptor 1 (‘Christmas tree’ vibes 😂) to clean Raptor 2 – 230 tons thrust at 300 bar, tons of parts deleted!\n\nFast-forward to 2026: We’re already on Raptor 3 – 280+ tons thrust, even simpler design, no external pipes, in production (100+ built!), testing like crazy, set for Starship V3 flights soon. Insane progress in ~3.5 years!",
+        "created_at": "Tue Feb 17 10:31:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023706756015419395",
+            "url": "https://video.twimg.com/amplify_video/2023706756015419395/vid/avc1/1320x738/MsP7TnGZRlOoXfj6.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1265526183137067010",
+          "name": "Captain Eli",
+          "screen_name": "TheCaptainEli",
+          "description": "Tesla investor. here to support Elon Musk!           https://t.co/tMNK7QdlVi",
+          "followers_count": 21959,
+          "friends_count": 506,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 153,
+          "favorite_count": 940,
+          "reply_count": 127,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234748321,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 153,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023722377176392046",
+      "text": "RT @cb_doge: When Elon Musk brought his kids along to his meeting with Prime Minister Modi in 2015. https://t.co/sW1XDjmTJr",
+      "created_at": "Tue Feb 17 11:33:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2023674076401991680",
+          "url": "https://pbs.twimg.com/media/HBWI2cEbgAA8AjK.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2023674083724972152",
+        "text": "When Elon Musk brought his kids along to his meeting with Prime Minister Modi in 2015. https://t.co/sW1XDjmTJr",
+        "created_at": "Tue Feb 17 08:21:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023674076401991680",
+            "url": "https://pbs.twimg.com/media/HBWI2cEbgAA8AjK.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1834488,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 404,
+          "favorite_count": 4145,
+          "reply_count": 438,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234748321,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 404,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023722071466143842",
+      "text": "RT @RupertLowe10: More and more young white men are looking at Britain, how the ENTIRE country operates, and thinking - why does EVERYBODY…",
+      "created_at": "Tue Feb 17 11:31:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023646198679163153",
+        "text": "More and more young white men are looking at Britain, how the ENTIRE country operates, and thinking - why does EVERYBODY ELSE seem to get a helping hand? What have we done wrong?\n\nThe answer lads, is absolutely nothing.\n\nHow many young white men have lost out on decent jobs exactly because they are male, and exactly because they are white? Tens and tens of thousands.\n\nLikely more. It is institutional and systemic bias against white British men. Anti-white racism is thriving in Britain. Poisonous DEI infects our institutions and corporations. Quotas steal professional opportunities away from bright young men who deserve it.\n\nThe education system, stacked against you - the forgotten working class white lads who nobody even thinks about, nobody even talks about. Blocked from universities, taught to be ashamed of who you are. The rot MUST end.\n\nIn the justice system? Who gets the raw end of the deal? Young white men. They tried to implement sentencing guidelines that directly target you, and put you in prison over somebody else for the exact same crime. It is ENDLESS.\n\nIt seems everyone has a ‘protected characteristic’ apart from you.\n\nUnder a Restore Britain Government, it will all end.\n\nThe woke bullshit will end, I promise you that.\n\nYou now have a political party that will fight for you.\n\nWe would tear away all of the vile legislation that has made Britain such a hostile and unwelcoming place to its own young men.\n\nOur message is clear.\n\nThere is NOTHING wrong with being white, and there is NOTHING wrong with being male.\n\nYou’re told that you’re racist for loving your country, chauvinistic for enjoying a few beers at the football, bigoted for having a joke with your mates. It must all end.\n\nWe must restore confidence to an entire generation of young white men who have been entirely forgotten and let down by the rotten political establishment.\n\nMy advice is this. Keep working hard, learn a skill, be respectful, have fun, and despite everything - enjoy yourselves.\n\nKeep going. It will get better. You now have a political party that properly represents you.\n\nRestore Britain.",
+        "created_at": "Tue Feb 17 06:30:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 628444,
+          "friends_count": 778,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3279,
+          "favorite_count": 23128,
+          "reply_count": 947,
+          "quote_count": 226
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234748321,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3278,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023721702132511076",
+      "text": "RT @PassagePress: @DataRepublican  is one of the bravest people I know. She was doxxed, has received death threats, and has faced bomb scar…",
+      "created_at": "Tue Feb 17 11:30:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023489434914574625",
+        "text": "@DataRepublican  is one of the bravest people I know. She was doxxed, has received death threats, and has faced bomb scares. Yet she pressed forward, documenting exactly how deep the abyss goes. Read this book to see what we saw inside the federal government—and to find the way to fix it.\n\nEdward Coristine, aka “Big Balls”\nNovember 30th, 2025",
+        "created_at": "Mon Feb 16 20:07:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023489136016146432",
+            "url": "https://pbs.twimg.com/media/HBTgpfcawAAYiq7.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2023489330774257664",
+            "url": "https://pbs.twimg.com/media/HBTg00-XsAAxmdg.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2023472446645653643",
+          "text": "We are very proud to announce that Unelected: How You Paid a Sinister Elite to Take Over America by @DataRepublican and @JoshuaLisec is now available for preorder.\n\nGet your essential guide to America's sprawling NGO-administrative complex today!\n\nhttps://t.co/AcFAzgGd8V",
+          "created_at": "Mon Feb 16 19:00:00 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1525163077439586304",
+            "name": "Passage Publishing",
+            "screen_name": "PassagePress",
+            "description": "Books for today. Stories for all time.",
+            "followers_count": 26507,
+            "friends_count": 410,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 582,
+            "favorite_count": 2166,
+            "reply_count": 129,
+            "quote_count": 56
+          }
+        },
+        "user": {
+          "id": "1525163077439586304",
+          "name": "Passage Publishing",
+          "screen_name": "PassagePress",
+          "description": "Books for today. Stories for all time.",
+          "followers_count": 26507,
+          "friends_count": 410,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1640,
+          "favorite_count": 6968,
+          "reply_count": 96,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234748321,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1639,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023721607181787592",
+      "text": "RT @cb_doge: Incredible view of Earth from Starship.\n\n https://t.co/2wzTVA1AM1",
+      "created_at": "Tue Feb 17 11:30:04 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1897327486926811136",
+          "url": "https://video.twimg.com/amplify_video/1897327486926811136/vid/avc1/720x720/tujSoS66S4HoXXWU.mp4?tag=16",
+          "bitrate": 1280000
+        }
+      ],
+      "retweet": {
+        "id": "2023713438841926099",
+        "text": "Incredible view of Earth from Starship.\n\n https://t.co/2wzTVA1AM1",
+        "created_at": "Tue Feb 17 10:57:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1897327486926811136",
+            "url": "https://video.twimg.com/amplify_video/1897327486926811136/vid/avc1/720x720/tujSoS66S4HoXXWU.mp4?tag=16",
+            "bitrate": 1280000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1834488,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 247,
+          "favorite_count": 1375,
+          "reply_count": 337,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234748321,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 246,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023721547459162454",
+      "text": "RT @visegrad24: 🇳🇱 A Dutch court has sentenced a migrant named Arnold Oforiwaa to 5 years in prison for stabbing his girlfriend 258 times.…",
+      "created_at": "Tue Feb 17 11:29:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023538493687746906",
+        "text": "🇳🇱 A Dutch court has sentenced a migrant named Arnold Oforiwaa to 5 years in prison for stabbing his girlfriend 258 times.\n\nThe prosecutor only asked for 10 years in prison but the judge halved it to 5 years because Arnold was documented “to have very low IQ.”\n\nHe murdered his ‘girlfriend’ — a young mother — because she focused too much on caring for her newborn and too little on him.\n\nHe stabbed her 258 (!) times and filmed the mother as she lay bleeding to death.\n\nAfterwards he took selfies with the newborn in its mothers blood.",
+        "created_at": "Mon Feb 16 23:22:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023538484708024320",
+            "url": "https://pbs.twimg.com/media/HBUNh9paoAAa3ll.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1222773302441148416",
+          "name": "Visegrád 24",
+          "screen_name": "visegrad24",
+          "description": "Aggregating and curating news, politics and current affairs.",
+          "followers_count": 1626245,
+          "friends_count": 2237,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 809,
+          "favorite_count": 3106,
+          "reply_count": 451,
+          "quote_count": 143
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234748321,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 809,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2023642851360600471",
       "text": "RT @DirtyTesLa: The improvements in @Starlink internet speeds over just a few years have been insane. \n\nI never thought I could have intern…",
