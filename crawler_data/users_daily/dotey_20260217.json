@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 183075,
+    "followers_count": 183068,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260217",
-  "last_updated": "2026-02-17T18:20:40.062896",
-  "tweet_count": 4,
+  "last_updated": "2026-02-17T20:17:54.675182",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2023595648482718199",
@@ -130,6 +130,56 @@
         "retweet_count": 1,
         "favorite_count": 18,
         "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023833853387825241",
+      "text": "RT @9hills: 对这种充斥着各种地方的AI文风绝望了，这套风格到底是哪个模型首创啊，烦死了。\n\n「不要」「死磕」「一句话总结」「要记住」「一套xxx计划」\n\n构造了个提示词测试了下（全都使用默认配置），AI味程度： GPT-5.2 = GLM-5 &gt; Gemini =…",
+      "created_at": "Tue Feb 17 18:56:06 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2023637595998327026",
+        "text": "对这种充斥着各种地方的AI文风绝望了，这套风格到底是哪个模型首创啊，烦死了。\n\n「不要」「死磕」「一句话总结」「要记住」「一套xxx计划」\n\n构造了个提示词测试了下（全都使用默认配置），AI味程度： GPT-5.2 = GLM-5 &gt; Gemini = Qwen-3.5  &gt;  DeepSeek https://t.co/j5YessI1jJ",
+        "created_at": "Tue Feb 17 05:56:14 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023636976189202432",
+            "url": "https://pbs.twimg.com/media/HBVnG7AaYAAPQxR.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2023637110536953856",
+            "url": "https://pbs.twimg.com/media/HBVnOvfaYAARPQm.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "116355740",
+          "name": "九原客",
+          "screen_name": "9hills",
+          "description": "喜欢一切美好的事物。目前聚焦在大模型领域。",
+          "followers_count": 24365,
+          "friends_count": 1034,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 82,
+          "reply_count": 25,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 0,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
