@@ -1,12 +1,186 @@
 {
   "date": "20260217",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-17T14:20:48.236685",
-  "tweet_count": 227,
-  "unique_tweet_count": 227,
-  "total_crawled": 418,
-  "duplicates_removed": 191,
+  "last_crawl_time": "2026-02-17T16:21:48.204040",
+  "tweet_count": 230,
+  "unique_tweet_count": 230,
+  "total_crawled": 427,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2023790620935156069",
+      "text": "RT @linyiLYi: 我做了个麻将外挂，决战春节！ https://t.co/cgv82gXPWZ",
+      "created_at": "Tue Feb 17 16:04:18 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2023376079164260354",
+          "url": "https://video.twimg.com/amplify_video/2023376079164260354/vid/avc1/3840x2160/6w0wjF-H1kiFjJW3.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2023608343181336897",
+        "text": "我做了个麻将外挂，决战春节！ https://t.co/cgv82gXPWZ",
+        "created_at": "Tue Feb 17 04:00:00 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023376079164260354",
+            "url": "https://video.twimg.com/amplify_video/2023376079164260354/vid/avc1/3840x2160/6w0wjF-H1kiFjJW3.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1370034456799539204",
+          "name": "林亦LYi",
+          "screen_name": "linyiLYi",
+          "description": "做一点微小的科技工作！\n全网同名：林亦LYi\n商务合作：business@lyi.ai\n个人邮箱：linyi@lyi.ai",
+          "followers_count": 10396,
+          "friends_count": 90,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 102,
+          "favorite_count": 880,
+          "reply_count": 58,
+          "quote_count": 27
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183052,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 102,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023766426566443143",
+      "text": "xAI Memphis",
+      "created_at": "Tue Feb 17 14:28:10 +0000 2026",
+      "lang": "in",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023765805008384215",
+        "text": "xAI is proud to be a member of the Memphis community for over two years. We now employ almost 3,000 locally to help power @Grok. \n\nFrom electricians to engineers, cooks to construction — we’re grateful for everyone on our team! https://t.co/UOvblMDS0B",
+        "created_at": "Tue Feb 17 14:25:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023765798221701121",
+            "url": "https://pbs.twimg.com/media/HBXcRWeW4AE2wyD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1937236128010240001",
+          "name": "xAI Memphis",
+          "screen_name": "xAIMemphis",
+          "description": "",
+          "followers_count": 22709,
+          "friends_count": 52,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 164,
+          "favorite_count": 1796,
+          "reply_count": 217,
+          "quote_count": 23
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234768566,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2093,
+        "favorite_count": 19500,
+        "reply_count": 1784,
+        "quote_count": 75
+      }
+    },
+    {
+      "id": "2023765998906880264",
+      "text": "Children are the future",
+      "created_at": "Tue Feb 17 14:26:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023489428636004463",
+        "text": "“One of the things with Kids is that you kind see the World in their eyes, you are new to them and everything is new and fresh, and when you see that they experience that the World is new and fresh, you do too”\n\n-Elon Musk\n https://t.co/nEqn3XEsIC",
+        "created_at": "Mon Feb 16 20:07:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1751611565269286912",
+            "url": "https://video.twimg.com/ext_tw_video/1751611565269286912/pu/vid/avc1/1080x678/cFUu_HJjFdH-Ml38.mp4?tag=12",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1614879930885574656",
+          "name": "SMX 🇺🇸",
+          "screen_name": "iam_smx",
+          "description": "Innovation, Technology, Rockets & Tesla ignite my passion. Sharing updates & info 24/7. Breaking World News! Motivation, Fun & Amazing AI Videos Guaranteed.",
+          "followers_count": 164553,
+          "friends_count": 639,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 247,
+          "favorite_count": 1253,
+          "reply_count": 189,
+          "quote_count": 16
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234768566,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2853,
+        "favorite_count": 20187,
+        "reply_count": 3167,
+        "quote_count": 220
+      }
+    },
     {
       "id": "2023763417035899328",
       "text": "RT @StateDept: The civilization that gave the world\nBeethoven, established the rule of law, built the Sistine Chapel, and circumnavigated t…",

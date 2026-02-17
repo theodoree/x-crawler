@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234756551,
+    "followers_count": 234768566,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260217",
-  "last_updated": "2026-02-17T14:20:48.269573",
-  "tweet_count": 25,
+  "last_updated": "2026-02-17T16:21:48.246218",
+  "tweet_count": 27,
   "tweets": [
     {
       "id": "2023558983953641830",
@@ -1368,6 +1368,97 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2023765998906880264",
+      "text": "Children are the future",
+      "created_at": "Tue Feb 17 14:26:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023489428636004463",
+        "text": "“One of the things with Kids is that you kind see the World in their eyes, you are new to them and everything is new and fresh, and when you see that they experience that the World is new and fresh, you do too”\n\n-Elon Musk\n https://t.co/nEqn3XEsIC",
+        "created_at": "Mon Feb 16 20:07:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1751611565269286912",
+            "url": "https://video.twimg.com/ext_tw_video/1751611565269286912/pu/vid/avc1/1080x678/cFUu_HJjFdH-Ml38.mp4?tag=12",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1614879930885574656",
+          "name": "SMX 🇺🇸",
+          "screen_name": "iam_smx",
+          "description": "Innovation, Technology, Rockets & Tesla ignite my passion. Sharing updates & info 24/7. Breaking World News! Motivation, Fun & Amazing AI Videos Guaranteed.",
+          "followers_count": 164553,
+          "friends_count": 639,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 247,
+          "favorite_count": 1253,
+          "reply_count": 189,
+          "quote_count": 16
+        }
+      },
+      "stats": {
+        "retweet_count": 2853,
+        "favorite_count": 20187,
+        "reply_count": 3167,
+        "quote_count": 220
+      }
+    },
+    {
+      "id": "2023766426566443143",
+      "text": "xAI Memphis",
+      "created_at": "Tue Feb 17 14:28:10 +0000 2026",
+      "lang": "in",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023765805008384215",
+        "text": "xAI is proud to be a member of the Memphis community for over two years. We now employ almost 3,000 locally to help power @Grok. \n\nFrom electricians to engineers, cooks to construction — we’re grateful for everyone on our team! https://t.co/UOvblMDS0B",
+        "created_at": "Tue Feb 17 14:25:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023765798221701121",
+            "url": "https://pbs.twimg.com/media/HBXcRWeW4AE2wyD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1937236128010240001",
+          "name": "xAI Memphis",
+          "screen_name": "xAIMemphis",
+          "description": "",
+          "followers_count": 22709,
+          "friends_count": 52,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 164,
+          "favorite_count": 1796,
+          "reply_count": 217,
+          "quote_count": 23
+        }
+      },
+      "stats": {
+        "retweet_count": 2093,
+        "favorite_count": 19500,
+        "reply_count": 1784,
+        "quote_count": 75
       }
     }
   ]
