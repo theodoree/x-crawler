@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 183143,
+    "followers_count": 183162,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260218",
-  "last_updated": "2026-02-18T06:24:45.082854",
-  "tweet_count": 8,
+  "last_updated": "2026-02-18T08:14:33.260430",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2023912440463778087",
@@ -331,6 +331,123 @@
       "quoted": null,
       "stats": {
         "retweet_count": 58,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024009352705663459",
+      "text": "这个解释听起来有道理\nhttps://t.co/HTI43Udnae",
+      "created_at": "Wed Feb 18 06:33:28 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024007869604196395",
+        "text": "@dotey OAuth本身是标准协议，关键看两点：1）是否遵守Claude API的rate limit和使用条款；2）token的存储和刷新机制是否规范。被封号的通常不是因为OAuth接入方式，而是下游调用行为触发了风控。ps: 用Claude Code的无头模式最安全，而且在对模型能力有足够预期的情况下，过程并不重要，只要结果就行。",
+        "created_at": "Wed Feb 18 06:27:35 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "137563803",
+          "name": "闹总",
+          "screen_name": "imnaozhong",
+          "description": "Full-stack Geek & Serial Entrepreneur (20+ yrs) ⏰| \nAll in AI Agents  🤖| \nBuilding in Public 🚀",
+          "followers_count": 135,
+          "friends_count": 149,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 6,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024030505516118299",
+      "text": "专业👍",
+      "created_at": "Wed Feb 18 07:57:31 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024024870930337883",
+        "text": "pi-mono 并没有集成 OAth 登录，而是把自己伪装成 claude code。 从 claude code 那里获取登录的 client id，强制注入 prompt，把所有工具改名成 claude 工具规范，这一套行云流水，让 Anthropic 服务端认为，这就是 claude code 😆\n\n这样做的意图明显就是规避 Anthropic 的检测。Anthropic 一旦更改 client_id 或服务端校验逻辑，它就完全失效。\n\n官方有句话：Unless previously approved, Anthropic does not allow third party developers to offer https://t.co/bD3tTzxJmG login or rate limits for their products, including agents built on the Claude Agent SDK. Please use the API key authentication methods instead.\n\n其实官方封号，和你使用它的方式没有什么直接关系。只要是你自己用，没有封号风险（前提是使用有度，不要批量薅羊毛）。\n\n官方文档里那句话关键词是： offer（提供给别人）和 their products（你的产品）。这样才会被封号。\n\n而你即便是自用，使用 pi-mono 那种方法的风险是，登录token 失效，但不一定会被封号。\n\n所以，如果自用的话，还是推荐 claude agent sdk 。",
+        "created_at": "Wed Feb 18 07:35:08 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "7755562",
+          "name": "AlexZ 🦀",
+          "screen_name": "blackanger",
+          "description": "System in Rust, Application in AI.\nSlow down. Have fun. Live well.\nINTJ-A. No ism.\nLifelong Programmer and  Writer.\n\n🦀 保命",
+          "followers_count": 16421,
+          "friends_count": 1471,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 5,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024034448883200207",
+      "text": "Gabriel Petersson 本人的账号\nhttps://t.co/3e9zUOSbD7",
+      "created_at": "Wed Feb 18 08:13:12 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1993781749906858413",
+        "text": "if you are in high school or college, and you are hyper ambitious and don't know where to start, this podcast will explode your world view\n\nmost peoples outlet, including mine, was to study as much as possible which is obviously not the fastest path to something great",
+        "created_at": "Wed Nov 26 20:39:46 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1101942551349731335",
+          "name": "gabriel",
+          "screen_name": "gabriel1",
+          "description": "pretrain sora at @OpenAI, previously at midjourney, swedish high school dropout, YEHAHHH",
+          "followers_count": 65949,
+          "friends_count": 613,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 216,
+          "favorite_count": 2609,
+          "reply_count": 69,
+          "quote_count": 23
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
