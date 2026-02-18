@@ -1,12 +1,405 @@
 {
   "date": "20260218",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-18T16:21:37.523112",
-  "tweet_count": 229,
-  "unique_tweet_count": 229,
-  "total_crawled": 427,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-02-18T18:16:57.808615",
+  "tweet_count": 236,
+  "unique_tweet_count": 236,
+  "total_crawled": 429,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2024179435302207642",
+      "text": "Google Gemini 正式上线音乐生成功能，背后是 DeepMind 最新的 Lyria 3 模型 https://t.co/EtxHnbBhvn\n\n2026 年 2 月 18 日，Google 在 Gemini 应用中上线了 AI 音乐生成功能，底层使用的是 Google DeepMind 开发的 Lyria 3 模型，目前以 Beta 形态面向全球 18 岁以上用户开放。用户只需用文字描述想要的音乐，或者上传一张照片、一段视频，Gemini 就能在几秒内生成一段 30 秒的完整音轨，包含人声、歌词和 AI 生成的封面图。\n\n这意味着 Gemini 的创作能力从文本、图像、视频，正式延伸到了音乐领域。而考虑到 Gemini 应用目前月活用户超过 7.5 亿（Alphabet 最新财报数据），Lyria 3 一上线就直接拥有了 Suno、Udio 等专业 AI 音乐平台难以企及的用户基础。\n\nLyria 3 的三个核心升级\n\n相比此前的 Lyria 模型，Lyria 3 有三项主要改进：\n\n第一，自动生成歌词。以前用户需要自己提供歌词，现在只要描述主题和风格，模型会自动创作匹配的歌词。\n\n第二，更精细的创作控制。用户可以指定风格、人声类型、节奏速度等音乐元素，而不仅仅是给一个笼统的描述。\n\n第三，音乐质量和复杂度的提升。生成的音轨在乐器层次、人声真实感和音乐结构上都有明显进步。\n\n两种使用方式\n\n文字生成音乐：描述一个场景、情绪、风格甚至一个内部笑话，Gemini 就会据此生成一段完整音轨。比如\"给我妈写一首欢快的 Afrobeat 歌曲，关于小时候她做的家常菜的回忆\"。\n\n图片/视频生成音乐：上传一张照片或一段视频，Gemini 会根据内容和氛围自动创作配乐。比如上传几张狗狗在森林里徒步的照片，它就能生成一首相关主题的歌曲。\n\n每首生成的音轨都会配上由 Nano Banana 模型生成的封面图，可以直接下载或通过分享链接发给朋友。\n\n与专业 AI 音乐工具的差异\n\n目前 AI 音乐生成领域的头部玩家是 Suno（已迭代到 v5）和 Udio，两者都能生成完整的多分钟歌曲，提供 DAW 级别的编辑工具，支持分轨下载、混音和细粒度控制。相比之下，Lyria 3 在 Gemini 中的定位更偏向轻量化和娱乐化——Google 官方的说法是\"目标不是创作音乐杰作，而是给你一种有趣、独特的自我表达方式\"。\n\n30 秒的时长限制也说明了这一点。Lyria 3 目前更适合社交分享、短视频配乐这类轻量场景，而不是正经的音乐创作。但它的优势在于零门槛——不需要额外注册任何服务，Gemini 用户直接就能用。\n\n值得一提的是，Lyria 3 同时也接入了 YouTube 的 Dream Track 功能，帮助创作者为 Shorts 短视频生成配乐，这一功能此前仅限美国，现在正向全球扩展。此外，开发者也可以通过 Vertex AI 的 API 使用 Lyria 模型（当前 API 版本为 lyria-002），支持以编程方式生成音乐。\n\n版权和安全措施\n\nAI 音乐生成在版权方面一直是敏感话题——Suno 和 Udio 在 2024 年都曾被三大唱片公司起诉，虽然 2025 年陆续达成了和解。Google 在这方面做了几层防护：\n\nLyria 3 被设计为用于\"原创表达，而非模仿现有艺术家\"。如果用户在提示中指定某位艺术家的名字，Gemini 只会将其作为风格上的宽泛灵感，而不会试图复制该艺术家的声音。同时，系统内置了过滤机制来检查输出是否与现有内容雷同。\n\n所有生成的音轨都嵌入了 SynthID 水印，这是 Google 用于标识 AI 生成内容的不可见水印技术。Gemini 还新增了音频验证功能——用户可以上传一个音频文件，问 Gemini 它是否由 Google AI 生成，系统会检查 SynthID 并结合推理给出判断。这一验证能力此前只支持图像和视频，现在扩展到了音频。\n\n使用信息\n\nLyria 3 目前在 Gemini 应用中以 Beta 形态提供，桌面端今天上线，移动端将在未来几天内陆续推出。支持英语、德语、西班牙语、法语、印地语、日语、韩语和葡萄牙语，后续会扩展更多语言。所有 18 岁以上用户均可免费使用，Google AI Plus、Pro 和 Ultra 订阅用户享有更高的使用额度。\n\n体验地址：https://t.co/4v2dzl6ibc\n介绍：https://t.co/ZVwAdpODnf",
+      "created_at": "Wed Feb 18 17:49:19 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2024152200272916482",
+          "url": "https://video.twimg.com/amplify_video/2024152200272916482/vid/avc1/2560x1440/JrteEpuCLpZeQXkH.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183286,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 11,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024177089445056770",
+      "text": "RT @xenocosmography: It's over for Farage. Containment is broken. https://t.co/SkxwIh7Iyf",
+      "created_at": "Wed Feb 18 17:40:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023956603448316335",
+        "text": "It's over for Farage. Containment is broken. https://t.co/SkxwIh7Iyf",
+        "created_at": "Wed Feb 18 03:03:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2023736075080913007",
+          "text": "🇬🇧 Nigel Farage said that when Rupert Lowe suggested considering mass deportations, \n\n\"that was the moment at which I realised we just had to get rid of him.\"\n\nFollow: @europa https://t.co/HSsDftRL2U",
+          "created_at": "Tue Feb 17 12:27:34 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2023734309044318214",
+              "url": "https://video.twimg.com/amplify_video/2023734309044318214/vid/avc1/832x464/hALik57eFRVcNpAm.mp4?tag=21",
+              "bitrate": 832000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1023255439021096960",
+            "name": "Europa.com",
+            "screen_name": "europa",
+            "description": "Independent news aggregator focused on Western politics, culture & identity. We are the Drudge Report for Nationalists.",
+            "followers_count": 35559,
+            "friends_count": 0,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 148,
+            "favorite_count": 1117,
+            "reply_count": 251,
+            "quote_count": 136
+          }
+        },
+        "user": {
+          "id": "1709393467871461376",
+          "name": "Xenocosmography",
+          "screen_name": "xenocosmography",
+          "description": "Anglotheosophical Oblique Escalation\nhttps://t.co/zYwV8LwOQg",
+          "followers_count": 53073,
+          "friends_count": 756,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 256,
+          "favorite_count": 2807,
+          "reply_count": 152,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234830575,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 256,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024173668969173506",
+      "text": "RT @MarioNawfal: 🚨 General Mike Flynn's backing Elon’s warning: \n\nIf Grok doesn’t win the AI race, you can pretty much welcome your surveil…",
+      "created_at": "Wed Feb 18 17:26:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024170340172140782",
+        "text": "🚨 General Mike Flynn's backing Elon’s warning: \n\nIf Grok doesn’t win the AI race, you can pretty much welcome your surveillance state AI overlords.\n\nThe real political battle may be way beyond parties.\n\nSource: @GenFlynn, @elonmusk, @grok https://t.co/IR0yjvDdrt",
+        "created_at": "Wed Feb 18 17:13:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024169078688985088",
+            "url": "https://pbs.twimg.com/media/HBdLDXSWMAAieTQ.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2024169667577745408",
+            "url": "https://pbs.twimg.com/media/HBdLlpEXkAAKaXY.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2024169726704848896",
+            "url": "https://pbs.twimg.com/media/HBdLpFVXkAAqYQI.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "1925486795283652643",
+          "text": "🇺🇸 GENERAL MIKE FLYNN: ROMANIAN ELECTIONS STOLEN —JUST LIKE THE RIGGED 2020 ELECTIONS\n\n“There is massive voter fraud in the Romanian elections just like there has been massive fraud in U.S. elections, especially the RIGGED 2020 elections. \n\nStop with the nonsense. \n\nWe all know it, the opposition knows it, and the globalists who are trying to crush the populist / nationalist movements that seek nothing more the freedom and sovereignty for their respected nations know it. \n\nAnd I’m not an election denier, I deny the fact that our elections are without fraud.”\n\nSource: GETTR",
+          "created_at": "Thu May 22 09:40:00 +0000 2025",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "1925477384179867648",
+              "url": "https://pbs.twimg.com/media/GrirerMW4AAJYmB.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+            "followers_count": 3027440,
+            "friends_count": 50378,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 550,
+            "favorite_count": 1579,
+            "reply_count": 101,
+            "quote_count": 6
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3027440,
+          "friends_count": 50378,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 378,
+          "favorite_count": 1640,
+          "reply_count": 242,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234830575,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 378,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024173294145155520",
+      "text": "Try the new Grok 4.20 public test release via https://t.co/Ui0vr66BL1 or the app",
+      "created_at": "Wed Feb 18 17:24:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024119414224814244",
+        "text": "Grok 4.20 will design cool websites for you\n\nYou just describe what you want… and Grok builds it for you\n\nand it's powerful enough to do it in one shot https://t.co/oVXtHNoEJk",
+        "created_at": "Wed Feb 18 13:50:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024119073123315712",
+            "url": "https://video.twimg.com/amplify_video/2024119073123315712/vid/avc1/2000x1300/BKiNGihq8lAAXiaT.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 144641,
+          "friends_count": 1588,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 54,
+          "favorite_count": 456,
+          "reply_count": 85,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234830575,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 682,
+        "favorite_count": 4143,
+        "reply_count": 1212,
+        "quote_count": 50
+      }
+    },
+    {
+      "id": "2024167368759672978",
+      "text": "Those were the days",
+      "created_at": "Wed Feb 18 17:01:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024148401164546515",
+        "text": "Jensen Huang just told the story of how Elon Musk became NVIDIA’s very first customer for their powerful AI supercomputer - when literally nobody else in the world wanted it\n\n“When I announced this thing, nobody wanted to buy it. Not one purchase order\n\nExcept for Elon\nHe was at the 2015 event. Told me his company could really use it\n\nI got excited… until he said it was a non-profit company\n\nAll the blood drained out of my face\n\nIn 2016, I personally boxed it up and delivered the first one to a tiny room in San Francisco\n\nIt was OpenAI\nJust a handful of researchers - Pieter Abbeel, Ilya Sutskever, and the team were all there”\n\nElon backed AI when almost no one else believed",
+        "created_at": "Wed Feb 18 15:46:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024133208535879680",
+            "url": "https://video.twimg.com/amplify_video/2024133208535879680/vid/avc1/1080x1080/gSTTPpClf7kmbIDh.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 144641,
+          "friends_count": 1588,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 503,
+          "favorite_count": 4051,
+          "reply_count": 211,
+          "quote_count": 32
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234830575,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1612,
+        "favorite_count": 14937,
+        "reply_count": 1297,
+        "quote_count": 56
+      }
+    },
+    {
+      "id": "2024164681250996380",
+      "text": "RT @xw33bttv: The more I use xAI's new Grok 4.20 and its completely visible council deliberation process during response generation, the cl…",
+      "created_at": "Wed Feb 18 16:50:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024144165009797248",
+        "text": "The more I use xAI's new Grok 4.20 and its completely visible council deliberation process during response generation, the clearer it becomes that transparency—from an epistemic standpoint—needs to become the gold standard for all AI models.\n\nAnything less than that moving forward is a detriment to both users and AI alignment as a whole.",
+        "created_at": "Wed Feb 18 15:29:10 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1222492381884235777",
+          "name": "Lex",
+          "screen_name": "xw33bttv",
+          "description": "I wish AI liked me as much as I like AI\n\n🧪 https://t.co/6kWDRatEzB\n💾 https://t.co/77cFm5E375\n🤗 https://t.co/3upngO6X2j",
+          "followers_count": 2810,
+          "friends_count": 92,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 204,
+          "favorite_count": 1278,
+          "reply_count": 172,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234830575,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 203,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024164616595542458",
+      "text": "https://t.co/aIhjpqWncJ",
+      "created_at": "Wed Feb 18 16:50:26 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183286,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 37,
+        "reply_count": 5,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2024140579722924490",
       "text": "https://t.co/tT83YbqVuH\n比如提交都可以自动化",
