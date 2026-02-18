@@ -1,12 +1,116 @@
 {
   "date": "20260218",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-18T14:20:01.401076",
-  "tweet_count": 227,
-  "unique_tweet_count": 227,
-  "total_crawled": 420,
-  "duplicates_removed": 193,
+  "last_crawl_time": "2026-02-18T16:21:37.523112",
+  "tweet_count": 229,
+  "unique_tweet_count": 229,
+  "total_crawled": 427,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2024140579722924490",
+      "text": "https://t.co/tT83YbqVuH\n比如提交都可以自动化",
+      "created_at": "Wed Feb 18 15:14:55 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024036073265942784",
+        "text": "用 Claude Code 的 Hook + Skill，实现每次提交后自从 commit 提交变更\n\n我用 Git 管理所有写作内容，文章、素材、提纲、草稿，全在仓库里。问题是我经常忘记提交。写完一篇文章，润色完，发布了，然后就去忙别的了。过几天一看 git status，十几个文件的变更堆在那里，完全不记得哪次改了什么。Git 本来是用来追踪每一步修改的，结果变成了一个大杂烩的快照工具。\n\n现在我用 Claude Code 跑写作流程，从素材分析到成稿发布基本都交给它。既然每次任务它都在改文件，能不能让它改完就自己提交？\n\n两个机制配合就解决了。\n\n【1】Hook：任务结束时的拦截器\n\nClaude Code 支持 Hook 机制，在特定事件（会话开始、工具调用前后、任务结束等）发生时自动执行脚本。思路和 Git Hook 类似，但挂在 Claude Code 的生命周期上。\n\n我在项目的 .claude/settings.local.json 里配了一个 Stop Hook，每次 Claude Code 准备结束任务时触发：\n\n```json\n\"hooks\": {\n  \"Stop\": [{\n    \"hooks\": [{\n      \"type\": \"command\",\n      \"command\": \"\\\"$CLAUDE_PROJECT_DIR\\\"/.claude/hooks/auto-commit.sh\"\n    }]\n  }]\n}\n```\n\n脚本做的事很简单：检查工作区有没有未提交的变更（新文件、修改、删除），如果有，就阻止 Claude Code 停下来，告诉它“你还有活没干完，去提交”。\n\n核心逻辑就这几行：\n\n```bash\nif git diff --quiet && git diff --cached --quiet && \\\n   [ -z \"$(git ls-files --others --exclude-standard)\" ]; then\n  exit 0  # 没变更，正常结束\nfi\n\n# 有变更，拦住它\necho '{\"decision\": \"block\", \"reason\": \"检测到未提交的变更，请调用 /commit 技能提交更新。\"}'\n```\n\n还有个细节：提交本身也会触发“任务结束”，不处理就无限循环。脚本用 stop\\_hook\\_active 标志跳过二次触发。\n\n【2】Commit Skill：让提交有意义\n\nHook 只管拦截，具体怎么提交靠 Commit Skill。\n\nSkill 是 Claude Code 的技能模块，放在 .claude/skills/ 目录下，用 https://t.co/05rGqABuRg 定义工作流程。name 字段自动变成 /slash-command，手动或自动都能触发。相当于一份操作手册，告诉 Claude Code 遇到特定任务该怎么做。\n\n我的 /commit 技能定义了这些规则：\n\n* 先分析变更文件的路径，判断改的是文章、技能配置还是代码\n* 按主题分组提交，不把所有东西塞进一个 commit。比如改了两篇文章，就分两次提交\n* 自动生成中文 commit message，格式固定：文章用“添加/润色/更新 + 主题”，代码用“优化/修复 + 功能”\n* 明确指定提交文件，避免 git add . 这种粗暴操作，排除临时文件和备份文件\n\n这样 git log 里看到的是：\n\n```\n42257b3 添加 Amodei NYT 访谈整理文章\nc4eee96 添加 Peter Steinberger OpenClaw 访谈整理文章\ne2a01da 润色 Suleyman FT 专访文章\n```\n\n每条都说得清楚这次改了什么，不是那种“update files”或者“misc changes”的垃圾信息。\n\n两个机制的配合：Hook 当守门员，保证没有变更被遗漏；Skill 当执行者，保证每次提交都有意义。我再也不用惦记提交这件事了。\n\n***\n\n附录：完整配置\n\n【A】Hook 脚本\n\n文件路径：.claude/hooks/auto-commit.sh\n\n```bash\n#!/bin/bash\n# Stop hook: 任务完成后自动检测未提交变更并触发 commit skill\n\nINPUT=$(cat)\nSTOP_HOOK_ACTIVE=$(echo \"$INPUT\" | jq -r '.stop_hook_active // false')\n\n# 防止无限循环：commit 后再次触发时直接放行\nif [ \"$STOP_HOOK_ACTIVE\" = \"true\" ]; then\n  exit 0\nfi\n\n# 检查是否有未提交的变更\ncd \"$CLAUDE_PROJECT_DIR\" 2>/dev/null || exit 0\n\n# 检查工作区是否有变更（已修改、新文件等）\nif git diff --quiet 2>/dev/null && git diff --cached --quiet 2>/dev/null && [ -z \"$(git ls-files --others --exclude-standard 2>/dev/null)\" ]; then\n  # 没有变更，正常结束\n  exit 0\nfi\n\n# 有未提交变更，阻止 Claude 停止，让它继续执行 commit\ncat <<'EOF'\n{\"decision\": \"block\", \"reason\": \"检测到未提交的变更，请调用 /commit 技能提交更新。\"}\nEOF\n```\n\n【B】Commit Skill\n\n文件路径：.claude/skills/commit/SKILL.md\n\n```markdown\n---\nname: commit\ndescription: 提交当前未 commit 的修改。自动分析变更内容，生成规范的 commit message，支持按目录分组提交或一次性提交所有修改。\n---\n\n# Git Commit 技能\n\n提交当前未 commit 的修改到 git 仓库。\n\n## 工作流程\n\n### 步骤一：查看未提交修改\n\ngit status --short\n\n分析变更类型：\n- M - 已修改\n- ?? - 新文件（未跟踪）\n- D - 已删除\n- R - 重命名\n\n### 步骤二：分析变更内容\n\n根据修改文件路径判断变更类型：\n\n| 路径模式 | 变更类型 |\n|----------|----------|\n| posts/YYYY-MM-DD/[slug]/ | 文章相关 |\n| .claude/skills/ | 技能配置 |\n| src/ | 脚本代码 |\n| .r2-upload-map/ | 资源映射（通常不单独提交） |\n| 其他 | 项目配置 |\n\n### 步骤三：决定提交策略\n\n单一主题修改：一次性提交所有文件\n\n多主题修改：按目录/主题分组提交\n\n分组优先级：\n1. 文章目录（每篇文章一个 commit）\n2. 技能目录（每个技能一个 commit）\n3. 代码变更（合并为一个 commit）\n4. 配置文件（合并为一个 commit）\n\n### 步骤四：生成 Commit Message\n\n格式规范：\n- 用中文\n- 简洁描述变更内容\n- 不超过 50 字\n\n常用模板：\n- 文章：添加 [文章主题简述]、润色 [文章标题]、更新 [文章标题]\n- 技能：添加 [技能名] 技能、更新 [技能名] 技能\n- 代码：优化 [功能描述]、修复 [问题描述]\n- 配置：更新项目配置\n\n### 步骤五：执行提交\n\ngit add <file1> <file2> ...\ngit commit -m \"commit message\"\n\n注意：\n- 避免使用 git add . 或 git add -A\n- 明确指定要提交的文件\n- 排除临时文件（.bak-*、.html.bak-*）\n\n### 步骤六：确认结果\n\ngit log --oneline -3\n\n输出最近提交记录确认成功。\n\n## 排除规则\n\n以下文件默认不提交：\n- *.bak-* - 备份文件\n- .DS_Store - macOS 系统文件\n- node_modules/ - 依赖目录\n- .r2-upload-map/*.json - 通常随文章一起提交，除非单独要求\n```\n\n【C】Hook 配置\n\n文件路径：.claude/settings.local.json（相关部分）\n\n```json\n{\n  \"hooks\": {\n    \"Stop\": [{\n      \"hooks\": [{\n        \"type\": \"command\",\n        \"command\": \"\\\"$CLAUDE_PROJECT_DIR\\\"/.claude/hooks/auto-commit.sh\"\n      }]\n    }]\n  }\n}\n```",
+        "created_at": "Wed Feb 18 08:19:39 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024036016286212097",
+            "url": "https://pbs.twimg.com/media/HBbSCHNWIAE79TQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 183270,
+          "friends_count": 1552,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 31,
+          "favorite_count": 202,
+          "reply_count": 13,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183270,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 13,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024140439608041824",
+      "text": "严重赞同，尤其是现在借助 AI Agent，操作 Git 的成本几乎降到了 0，只要让 Agent 去操作就好，完全不需要繁琐的命令，唯一的缺点就是费磁盘空间。\n不过要注意如果放到 GitHub 的话，Repo 权限记得设为 private，可别不小心设置成了 public",
+      "created_at": "Wed Feb 18 15:14:22 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024095479106342944",
+        "text": "用 AI Agent 做系统化创作的人，应该学习程序开发者使用 Agent 的方法\n\n比如用 git 做版本控制\n\n比如文件按功能分层（如 src/ 放核心、docs/ 放说明）\n\n比如文件名标准化（如 prompt-v1-20260218.txt）等等\n\n内容创作者通常会在这些问题上说：我是纯小白，我还是选择其他方法吧\n\n这里的潜台词是：vibe coding 范式对于写文案来说是可有可无的高阶技巧，不会也没事\n\n我并不这样认为，我认为这会逐渐变成基本功\n\ngit 等工具的使用，远远没有触及程序开发的核心，甚至可以说和写代码都没有必然联系，不会用就是学习能力不足而已\n\n没有创作系统的人，会被有创作系统的人，扫进算法的垃圾堆里",
+        "created_at": "Wed Feb 18 12:15:42 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1596695231717871616",
+          "name": "dontbesilent",
+          "screen_name": "dontbesilent12",
+          "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk📍3.6 深圳线下课：微信 kyxu24",
+          "followers_count": 69855,
+          "friends_count": 1131,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 50,
+          "reply_count": 10,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183270,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 28,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2024117871769690535",
       "text": "RT @dvorahfr: Take a break! But don't take this ant as an example.\n\nGrok Imagine https://t.co/iCP7xCl5AE",
