@@ -1,12 +1,121 @@
 {
   "date": "20260218",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-18T03:03:14.966530",
-  "tweet_count": 202,
-  "unique_tweet_count": 202,
-  "total_crawled": 400,
+  "last_crawl_time": "2026-02-18T04:40:00.415720",
+  "tweet_count": 204,
+  "unique_tweet_count": 204,
+  "total_crawled": 402,
   "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2023979314228645971",
+      "text": "参考解读：https://t.co/wDMTu4gQvu",
+      "created_at": "Wed Feb 18 04:34:06 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023861257757925469",
+        "text": "Claude got a huge hidden update. Holy shit.\n\nBefore:\nUser prompt -> Claude -> uses tool -> Claude\n\nAfter:\nUser prompt -> Claude -> writes code and logic -> that code uses a tool -> code logic can parse or format results, add conditional logic and use tool multiple times -> Claude\n\nThis unlocks crazy amounts of complex function calling. \n\nFor example, say you are querying a database. Previously you would do one query, then Claude would read that result and then query again if needed. Now Claude writes code to call the tool, then that code can handle the result and do different things, like query again, strip or format data, and change what it’s doing based on the tool call result, all before being sent back to Claude. The code, that Claude writes, pre plans how to react to the tool result. \n\nThis compresses LLM agent loops, because the agent isn’t deciding on the fly, and it doesn’t need to keep asking the LLM to make decisions, instead the LLM pre-bakes potentially hundreds or thousands of decision paths.\n\nI would not be surprised if we see eventually 2x-100x improvements or more on agent loop & tool calling efficiency scores from this design.\n\nSubtle but absolutely huge change.",
+        "created_at": "Tue Feb 17 20:45:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023861198639513600",
+            "url": "https://pbs.twimg.com/media/HBYzCYuawAAPxWL.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2023861199360671744",
+            "url": "https://pbs.twimg.com/media/HBYzCbaWwAAKoH9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "856753502",
+          "name": "Nick Dobos",
+          "screen_name": "NickADobos",
+          "description": "prompt engineer @browsercompany | I make apps. My code runs on 100mil+ phones | former iOSdev @Twitter | indie dev @mindGoblinStdio Download Hivemind⬇️",
+          "followers_count": 50698,
+          "friends_count": 8500,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 58,
+          "favorite_count": 1304,
+          "reply_count": 36,
+          "quote_count": 15
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183123,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023979096590401986",
+      "text": "Claude 工具调用迎来重大升级\n\n简单来说，Claude 的工具调用方式从一问一答变成了写代码批量处理。\n\n以前的流程：用户提问 → Claude 调用工具 → 拿到结果 → Claude 再决定下一步 → 再调用工具 → 循环往复\n\n现在的流程：用户提问 → Claude 先写一段代码 → 这段代码自动调用工具、解析结果、根据条件判断下一步操作 → 最终把处理好的结果交给 Claude\n\n核心变化是：Claude 不再每次调用工具后都要\"回来想一想\"，而是提前用代码把各种可能的情况都规划好，一次性执行完。\n\n实际效果有多好？ 以网页搜索为例，Sonnet 4.6 在 BrowseComp 基准测试上准确率提升了 13%，同时输入 token 减少了 32%，又快又准。\n\n以前 AI Agent 每一步都要请示大模型做决定，现在 Claude 可以预先把成百上千种决策路径写进代码里，一次性跑完。\n\n这相当于把原来需要多轮 LLM 调用的循环压缩成了一次代码执行，效率提升的潜力非常大。\n\n除了搜索之外，代码执行、网页抓取、记忆、程序化工具调用等功能也同步正式上线了。",
+      "created_at": "Wed Feb 18 04:33:14 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023834863858769975",
+        "text": "Underrated dev upgrade from today's launch:\n\nClaude's web search and fetch tools now write and execute code to filter results before they reach the context window.\n\nWhen enabled, Sonnet 4.6 saw 13% higher accuracy on BrowseComp while using 32% fewer input tokens.",
+        "created_at": "Tue Feb 17 19:00:07 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1380719534970040322",
+          "name": "Alex Albert",
+          "screen_name": "alexalbert__",
+          "description": "Claude Relations @AnthropicAI. Opinions are my own!",
+          "followers_count": 121113,
+          "friends_count": 679,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 72,
+          "favorite_count": 1461,
+          "reply_count": 52,
+          "quote_count": 22
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183123,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2023947749004079544",
       "text": "RT @cmartin380: @elonmusk Grok for Emperor https://t.co/syj1yPBMJh",
