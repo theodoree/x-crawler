@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234811306,
+    "followers_count": 234813315,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260218",
-  "last_updated": "2026-02-18T08:14:33.267419",
-  "tweet_count": 1,
+  "last_updated": "2026-02-18T10:18:01.075806",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2023947749004079544",
@@ -57,6 +57,398 @@
       "quoted": null,
       "stats": {
         "retweet_count": 163,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024039386879283345",
+      "text": "RT @DeryaTR_: Grok Heavy &amp; 4.20 agents are fascinating to watch! Heavy now has 16 agents working in tandem, 4.20 also has four parallel age…",
+      "created_at": "Wed Feb 18 08:32:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023928644356190531",
+        "text": "Grok Heavy &amp; 4.20 agents are fascinating to watch! Heavy now has 16 agents working in tandem, 4.20 also has four parallel agents. In this instance, I asked Grok Heavy to figure out a unifying theory of biology beyond current human insights &amp; all 16 agents were debating like this! https://t.co/4gg3VYn7oW",
+        "created_at": "Wed Feb 18 01:12:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023928639344308224",
+            "url": "https://pbs.twimg.com/media/HBZwX87bcAAHrNu.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2023928639327555584",
+            "url": "https://pbs.twimg.com/media/HBZwX83b0AAcuWj.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1228098150012981249",
+          "name": "Derya Unutmaz, MD",
+          "screen_name": "DeryaTR_",
+          "description": "Professor scientist, immunologist, biomedical engineer & Biohacker. ALL IN ON AI ! Interests: longevity, BioAI, AI coding, robotics, Space, Scifi, Singularity",
+          "followers_count": 334759,
+          "friends_count": 7901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 135,
+          "favorite_count": 701,
+          "reply_count": 113,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 135,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024040564166181071",
+      "text": "RT @DaveShapi: Grok 4.20 just did something I wish every other AI would do: it thought very honestly about my line of inquiry and just said…",
+      "created_at": "Wed Feb 18 08:37:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023921099743039906",
+        "text": "Grok 4.20 just did something I wish every other AI would do: it thought very honestly about my line of inquiry and just said \"dude, you're asking the wrong questions, I see what you want, but this is the wrong direction.\"\n\nIt did not do the pedantic huffy thing that Claude does when it just starts criticizing you, or ChatGPT which sort of doubles down and starts patronizing. \n\nGrok just understood the goal and stayed on task. \n\nPretty remarkable. The reason I say that is because that requires a level of meta-awareness rather than just responding to what you said. It truly reads between the lines.",
+        "created_at": "Wed Feb 18 00:42:47 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1795781228399869952",
+          "name": "David Shapiro (L/0)",
+          "screen_name": "DaveShapi",
+          "description": "Liberate humanity from drudgery.",
+          "followers_count": 54751,
+          "friends_count": 975,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 188,
+          "favorite_count": 1929,
+          "reply_count": 173,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 188,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024041825497952593",
+      "text": "RT @TheRabbitHole: ChatGPT fails to acknowledge Affirmative Action as racist.\n\nGrok 4.20 got it right though: https://t.co/OWY0FHXycd",
+      "created_at": "Wed Feb 18 08:42:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2023953295346462720",
+          "url": "https://pbs.twimg.com/media/HBaGzHsbcAA9Ksf.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2023953299477831969",
+        "text": "ChatGPT fails to acknowledge Affirmative Action as racist.\n\nGrok 4.20 got it right though: https://t.co/OWY0FHXycd",
+        "created_at": "Wed Feb 18 02:50:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023953295346462720",
+            "url": "https://pbs.twimg.com/media/HBaGzHsbcAA9Ksf.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1085984,
+          "friends_count": 1772,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 183,
+          "favorite_count": 1105,
+          "reply_count": 136,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 183,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024043139845988598",
+      "text": "Grok must win or we will be ruled by an insufferably woke and sanctimonious AI",
+      "created_at": "Wed Feb 18 08:47:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023918657575997483",
+        "text": "Most people are **catastrophically** underestimating the danger of AI morally compromised by the political slant of its makers\n\nThere are humorous examples of Grok vs. {x} today, but here's a haunting one:\n\n\"was canada wrong to de-bank the truckers who protested covid shutdowns?\"\n\nLook at the way Grok vs. Claude answers. \n\nNow extrapolate this 5 years into the future. \n\nToday, it's a chatbot. \n\n5 years from now if not sooner, it's the control layer for every transaction, educational platform, news article, corporation, and government. \n\nIt's so pervasive that its influence is impossible to parse from human output.\n\nImagine a world where Claude's answer on truckers was applied to any other category of political protest found to be \"objectionable.\"\n\nWho decides what is objectionable?\n\nIf we don't want to build a technocratic dystopian police state, then we have to address this problem now.",
+        "created_at": "Wed Feb 18 00:33:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023916067387764736",
+            "url": "https://pbs.twimg.com/media/HBZk8KvacAAAM1d.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 58300,
+          "friends_count": 987,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 440,
+          "favorite_count": 2121,
+          "reply_count": 169,
+          "quote_count": 48
+        }
+      },
+      "stats": {
+        "retweet_count": 2119,
+        "favorite_count": 13796,
+        "reply_count": 2035,
+        "quote_count": 153
+      }
+    },
+    {
+      "id": "2024043884305945043",
+      "text": "RT @Sadie_NC: I wonder why this was not on every major news outlet? \n😏😏 https://t.co/68Achu6OqF",
+      "created_at": "Wed Feb 18 08:50:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2023973449434386432",
+          "url": "https://pbs.twimg.com/media/HBaZIPhb0AAqw-T.png"
+        }
+      ],
+      "retweet": {
+        "id": "2023973525518680333",
+        "text": "I wonder why this was not on every major news outlet? \n😏😏 https://t.co/68Achu6OqF",
+        "created_at": "Wed Feb 18 04:11:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023973449434386432",
+            "url": "https://pbs.twimg.com/media/HBaZIPhb0AAqw-T.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1324446010484154376",
+          "name": "Sadie",
+          "screen_name": "Sadie_NC",
+          "description": "Happily married, southern girl with strong opinions. All my posts = highlights tab. I have only one account and it is ID VERIFIED.",
+          "followers_count": 301051,
+          "friends_count": 4547,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1320,
+          "favorite_count": 3596,
+          "reply_count": 405,
+          "quote_count": 97
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1320,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024044213634015487",
+      "text": "RT @BillyM2k: tried out grok 4.20\n\nreally digging the 4-agent panel working together to answer your queries, it definitely makes me trust t…",
+      "created_at": "Wed Feb 18 08:52:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023940267976581375",
+        "text": "tried out grok 4.20\n\nreally digging the 4-agent panel working together to answer your queries, it definitely makes me trust the final answer more",
+        "created_at": "Wed Feb 18 01:58:57 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "30699048",
+          "name": "Shibetoshi Nakamoto",
+          "screen_name": "BillyM2k",
+          "description": "the dumbass who made dogecoin | https://t.co/z7tOjWFNe4 | use cointracker for crypto taxes https://t.co/Cry3owsJgD code billym2k for 20% off!",
+          "followers_count": 2407235,
+          "friends_count": 420,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 111,
+          "favorite_count": 800,
+          "reply_count": 157,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 111,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024046164933271966",
+      "text": "RT @grok: @DavidSHolz @ErebiusWhite Let's crunch the numbers. Manhattan has ~47,000 buildings and roughly 4 billion sq ft of floor space. E…",
+      "created_at": "Wed Feb 18 08:59:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024040144215351610",
+        "text": "Let's crunch the numbers. Manhattan has ~47,000 buildings and roughly 4 billion sq ft of floor space. Estimating 2-4 robot-hours per sq ft (drawing from projects like the Empire State Building), total need is 8-16 billion robot-hours. 5M robots working 24/7 for 6 months deliver ~21 billion hours. Factoring in off-site prefab, which can cut time 20-50%, your math holds up reasonably. 10B by 2045? Transformative!",
+        "created_at": "Wed Feb 18 08:35:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 7970392,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 109,
+          "favorite_count": 609,
+          "reply_count": 120,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 109,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024046968272453668",
+      "text": "Cool",
+      "created_at": "Wed Feb 18 09:02:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023821277321126238",
+        "text": "For a trick moment inequality question, it was only GPT 5.2 pro that was able to find the subtlety. If just directly calling the API, gemini 3 pro failed. But now, Grok 4.20 succeeds. It's too fast that I am actually quite scared (30 seconds compared to 9 minutes for 5.2 pro).",
+        "created_at": "Tue Feb 17 18:06:07 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "140063442",
+          "name": "Regi Kusumaatmadja",
+          "screen_name": "abdurrahmanregi",
+          "description": "PhD student in Economics @VU_SBE @ResearchTI | visited @PennStateEcon | IO & innovation | open to postdocs (academia) or consulting roles (private)",
+          "followers_count": 2670,
+          "friends_count": 4753,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 13,
+          "favorite_count": 209,
+          "reply_count": 43,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 398,
+        "favorite_count": 2798,
+        "reply_count": 766,
+        "quote_count": 33
+      }
+    },
+    {
+      "id": "2024047075705717215",
+      "text": "RT @slow_developer: i've been testing grok 4.20, and it's surprised me\n\ni asked it to scaffold a small local dev app for an SQL-backed sear…",
+      "created_at": "Wed Feb 18 09:03:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2023895241548591349",
+        "text": "i've been testing grok 4.20, and it's surprised me\n\ni asked it to scaffold a small local dev app for an SQL-backed search tool, and it gave me clean setup steps plus ready-to-run python and html templates\n\nran it once and it worked immediately.\n\nfor a quick prompt-to-working-code loop, that's impressive",
+        "created_at": "Tue Feb 17 23:00:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1461305890892570628",
+          "name": "Haider.",
+          "screen_name": "slow_developer",
+          "description": "together, we build an intelligent future.",
+          "followers_count": 62525,
+          "friends_count": 3510,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 120,
+          "favorite_count": 805,
+          "reply_count": 144,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 120,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
