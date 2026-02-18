@@ -1,0 +1,105 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 183081,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260218",
+  "last_updated": "2026-02-18T00:22:45.068025",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2023912440463778087",
+      "text": "RT @xicilion: 警告，Opus 4.6 fast 涨价到 30x 了。 https://t.co/XwBlsa2iLw",
+      "created_at": "Wed Feb 18 00:08:22 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2023889964082364416",
+          "url": "https://pbs.twimg.com/media/HBZNMwWbgAAPq8N.png"
+        }
+      ],
+      "retweet": {
+        "id": "2023890050778575004",
+        "text": "警告，Opus 4.6 fast 涨价到 30x 了。 https://t.co/XwBlsa2iLw",
+        "created_at": "Tue Feb 17 22:39:24 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023889964082364416",
+            "url": "https://pbs.twimg.com/media/HBZNMwWbgAAPq8N.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "364478145",
+          "name": "响马",
+          "screen_name": "xicilion",
+          "description": "。。。。。。",
+          "followers_count": 63481,
+          "friends_count": 3210,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 8,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023915664050663876",
+      "text": "RT @yuxiyou: AI coding 一个实践：每次做重大功能/改动之前先用 plan mode 做一个 research / design doc，然后再基于这个 doc 做实现的 plan。\n\ndesign doc 加上编号存到一个文件夹里，commit 进仓库。这…",
+      "created_at": "Wed Feb 18 00:21:11 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2023892606317703654",
+        "text": "AI coding 一个实践：每次做重大功能/改动之前先用 plan mode 做一个 research / design doc，然后再基于这个 doc 做实现的 plan。\n\ndesign doc 加上编号存到一个文件夹里，commit 进仓库。这就类似你的设计思路的 db migrations，记录着整个项目进化思考的脉络。",
+        "created_at": "Tue Feb 17 22:49:34 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "427612058",
+          "name": "尤雨溪",
+          "screen_name": "yuxiyou",
+          "description": "@youyuxi 的中文小号。@voidzerodev 创始人，开源软件开发者，Vue / Vite 作者。此号只聊技术无关的闲话（偶尔破戒警告",
+          "followers_count": 116861,
+          "friends_count": 252,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 23,
+          "favorite_count": 219,
+          "reply_count": 21,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
