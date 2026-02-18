@@ -1,0 +1,66 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 234798127,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260218",
+  "last_updated": "2026-02-18T03:03:14.994857",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2023947749004079544",
+      "text": "RT @cmartin380: @elonmusk Grok for Emperor https://t.co/syj1yPBMJh",
+      "created_at": "Wed Feb 18 02:28:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2023881690633109504",
+          "url": "https://pbs.twimg.com/media/HBZFrLWagAA4Drf.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2023881702268133698",
+        "text": "@elonmusk Grok for Emperor https://t.co/syj1yPBMJh",
+        "created_at": "Tue Feb 17 22:06:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023881690633109504",
+            "url": "https://pbs.twimg.com/media/HBZFrLWagAA4Drf.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1236143177779671040",
+          "name": "Connor Martin",
+          "screen_name": "cmartin380",
+          "description": "",
+          "followers_count": 1593,
+          "friends_count": 607,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 163,
+          "favorite_count": 2294,
+          "reply_count": 255,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 163,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

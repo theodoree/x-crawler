@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 183081,
+    "followers_count": 183111,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260218",
-  "last_updated": "2026-02-18T00:22:45.068025",
-  "tweet_count": 2,
+  "last_updated": "2026-02-18T03:03:15.021522",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2023912440463778087",
@@ -98,6 +98,52 @@
         "retweet_count": 23,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023928660185514465",
+      "text": "NotebookLM 终于支持编辑 Slides 了",
+      "created_at": "Wed Feb 18 01:12:50 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023851190102986970",
+        "text": "Because you wouldn’t let it slide… these are rolling out today for our most requested feature:\n\nPrompt-Based Revisions: Tweak, tailor, and tune your slides just by prompting the revisions you want\n\nPPTX Support: You can now export your Slide Decks (Google Slides coming next!) https://t.co/Uma36PZ9OF",
+        "created_at": "Tue Feb 17 20:04:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023851160742801409",
+            "url": "https://video.twimg.com/amplify_video/2023851160742801409/vid/avc1/1280x720/owQCeArvup5lDIF4.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1846671939437252609",
+          "name": "NotebookLM",
+          "screen_name": "NotebookLM",
+          "description": "Think smarter, not harder. Meet your brain's new best friend 📒",
+          "followers_count": 179363,
+          "friends_count": 16,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 840,
+          "favorite_count": 5994,
+          "reply_count": 214,
+          "quote_count": 627
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 35,
+        "reply_count": 8,
         "quote_count": 0
       }
     }

@@ -1,12 +1,129 @@
 {
   "date": "20260218",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-18T00:22:45.043546",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-02-18T03:03:14.966530",
+  "tweet_count": 202,
+  "unique_tweet_count": 202,
+  "total_crawled": 400,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2023947749004079544",
+      "text": "RT @cmartin380: @elonmusk Grok for Emperor https://t.co/syj1yPBMJh",
+      "created_at": "Wed Feb 18 02:28:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2023881690633109504",
+          "url": "https://pbs.twimg.com/media/HBZFrLWagAA4Drf.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2023881702268133698",
+        "text": "@elonmusk Grok for Emperor https://t.co/syj1yPBMJh",
+        "created_at": "Tue Feb 17 22:06:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023881690633109504",
+            "url": "https://pbs.twimg.com/media/HBZFrLWagAA4Drf.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1236143177779671040",
+          "name": "Connor Martin",
+          "screen_name": "cmartin380",
+          "description": "",
+          "followers_count": 1593,
+          "friends_count": 607,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 163,
+          "favorite_count": 2294,
+          "reply_count": 255,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234798127,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 163,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023928660185514465",
+      "text": "NotebookLM 终于支持编辑 Slides 了",
+      "created_at": "Wed Feb 18 01:12:50 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023851190102986970",
+        "text": "Because you wouldn’t let it slide… these are rolling out today for our most requested feature:\n\nPrompt-Based Revisions: Tweak, tailor, and tune your slides just by prompting the revisions you want\n\nPPTX Support: You can now export your Slide Decks (Google Slides coming next!) https://t.co/Uma36PZ9OF",
+        "created_at": "Tue Feb 17 20:04:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023851160742801409",
+            "url": "https://video.twimg.com/amplify_video/2023851160742801409/vid/avc1/1280x720/owQCeArvup5lDIF4.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1846671939437252609",
+          "name": "NotebookLM",
+          "screen_name": "NotebookLM",
+          "description": "Think smarter, not harder. Meet your brain's new best friend 📒",
+          "followers_count": 179363,
+          "friends_count": 16,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 840,
+          "favorite_count": 5994,
+          "reply_count": 214,
+          "quote_count": 627
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183111,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 35,
+        "reply_count": 8,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2023915664050663876",
       "text": "RT @yuxiyou: AI coding 一个实践：每次做重大功能/改动之前先用 plan mode 做一个 research / design doc，然后再基于这个 doc 做实现的 plan。\n\ndesign doc 加上编号存到一个文件夹里，commit 进仓库。这…",
