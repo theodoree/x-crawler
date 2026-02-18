@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 183296,
+    "followers_count": 183309,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260218",
-  "last_updated": "2026-02-18T20:13:36.756157",
-  "tweet_count": 17,
+  "last_updated": "2026-02-18T22:10:07.150182",
+  "tweet_count": 18,
   "tweets": [
     {
       "id": "2023912440463778087",
@@ -614,6 +614,51 @@
         "retweet_count": 0,
         "favorite_count": 0,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024241369686917234",
+      "text": "好了，Claude Agent SDK 也不能用 Claude Code 的 OAuth 登录了，Anthropic 真的是……",
+      "created_at": "Wed Feb 18 21:55:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024168538508775674",
+        "text": "🚨 Breaking: Claude OAuth officially not allowed in OpenClaw\n\nThis would be a GREAT time for @sama to step in and let us use @OpenAI subscriptions with @openclaw.",
+        "created_at": "Wed Feb 18 17:06:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024168044017152002",
+            "url": "https://pbs.twimg.com/media/HBdKHI1W8AIr7od.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1020961",
+          "name": "Andrew Warner",
+          "screen_name": "AndrewWarner",
+          "description": "Follow me to find out about profitable AI builders.\n\nI'm also on YouTube: https://t.co/zhdsl9UQpr\n\nHear my past interviews on Mixergy",
+          "followers_count": 36995,
+          "friends_count": 1638,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 1144,
+          "reply_count": 168,
+          "quote_count": 64
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 3,
         "quote_count": 0
       }
     }
