@@ -1,12 +1,142 @@
 {
   "date": "20260218",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-18T04:40:00.415720",
-  "tweet_count": 204,
-  "unique_tweet_count": 204,
-  "total_crawled": 402,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-02-18T06:24:45.053499",
+  "tweet_count": 207,
+  "unique_tweet_count": 207,
+  "total_crawled": 404,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2024001718132805822",
+      "text": "RT @xxx111god: https://t.co/yvZWHf4IPi",
+      "created_at": "Wed Feb 18 06:03:08 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2023838143045136557",
+        "text": "https://t.co/yvZWHf4IPi",
+        "created_at": "Tue Feb 17 19:13:09 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2504912287",
+          "name": "Jason Zuo",
+          "screen_name": "xxx111god",
+          "description": "ADHD is the scheduler that never stops｜AI is the processor that never quits｜ INFP-A | Exploring, Investing, Learnings",
+          "followers_count": 936,
+          "friends_count": 382,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 58,
+          "favorite_count": 258,
+          "reply_count": 8,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183143,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 58,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023994742548177335",
+      "text": "我就关心一个问题，pi-mono 里面集成了 Claude 的 OAuth 登录，怎么才能安全使用不被封号？",
+      "created_at": "Wed Feb 18 05:35:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023659966566220108",
+        "text": "目前比较好的 agent 框架可能是 pi-mono，claude agent sdk 能定制的空间还是略小了。\n\n下个项目尝试用 pi-mono 来替换 claude agent sdk。",
+        "created_at": "Tue Feb 17 07:25:08 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "148027226",
+          "name": "Leo Xiang",
+          "screen_name": "leeoxiang",
+          "description": "10年RTC音视频经验，目前在负责Voice + AI方向的云产品；\n\n奶爸，正在教刚出生的小宝宝学习大模型；\n\nhttps://t.co/SUN1RBaMRw",
+          "followers_count": 17426,
+          "friends_count": 865,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 91,
+          "reply_count": 8,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183143,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "reply_count": 8,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2023992238355669299",
+      "text": "AI 制作的《楚门的世界》续集\n作者：Yubinnnn （视频号）\nseedance 2.0 https://t.co/xK7yYbgdJx",
+      "created_at": "Wed Feb 18 05:25:28 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2023991722783490048",
+          "url": "https://video.twimg.com/amplify_video/2023991722783490048/vid/avc1/1280x720/ydjN-7mIEYIshBJn.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183143,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 45,
+        "reply_count": 8,
+        "quote_count": 2
+      }
+    },
     {
       "id": "2023979314228645971",
       "text": "参考解读：https://t.co/wDMTu4gQvu",
