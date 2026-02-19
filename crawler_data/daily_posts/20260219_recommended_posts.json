@@ -1,12 +1,494 @@
 {
   "date": "20260219",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-19T06:24:06.441629",
-  "tweet_count": 207,
-  "unique_tweet_count": 207,
-  "total_crawled": 406,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-02-19T08:14:54.931858",
+  "tweet_count": 216,
+  "unique_tweet_count": 216,
+  "total_crawled": 407,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2024392400719008254",
+      "text": "RT @KatieMiller: The only AI to unequivocally say that President Trump is NOT a racist is @grok. \n\n77 million Americans voted for President…",
+      "created_at": "Thu Feb 19 07:55:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024297025118904429",
+        "text": "The only AI to unequivocally say that President Trump is NOT a racist is @grok. \n\n77 million Americans voted for President Trump — yet three other products parrot Democrat and Legacy media points. https://t.co/0T7XhLVSDJ",
+        "created_at": "Thu Feb 19 01:36:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024297019460706305",
+            "url": "https://pbs.twimg.com/media/HBe_afzWYAEbsFO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 206318,
+          "friends_count": 890,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 286,
+          "favorite_count": 1388,
+          "reply_count": 234,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234857542,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 286,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024391679508447277",
+      "text": "Yeah",
+      "created_at": "Thu Feb 19 07:52:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024221776725557269",
+        "text": "This is a big deal. Take a step back and think carefully about the implications as governments begin embedding AI deep into their systems, and why it matters which model they choose. https://t.co/VSoWXN8yL5",
+        "created_at": "Wed Feb 18 20:37:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024221773294673920",
+            "url": "https://pbs.twimg.com/media/HBd6-l_XIAAov7E.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "45715045",
+          "name": "Christopher Stanley",
+          "screen_name": "cstanley",
+          "description": "{title: \"Security Engineering\", company: 〚\"@SpaceX\", \"@X\", “@xAI”〛, education: \"M.S Computer Science // Cyber Security\"}",
+          "followers_count": 112787,
+          "friends_count": 476,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 65,
+          "favorite_count": 398,
+          "reply_count": 88,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234857542,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 466,
+        "favorite_count": 3060,
+        "reply_count": 726,
+        "quote_count": 20
+      }
+    },
+    {
+      "id": "2024391478181871856",
+      "text": "In case you missed it the first time around",
+      "created_at": "Thu Feb 19 07:51:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024278656596722120",
+        "text": "🎯 https://t.co/E06miY90ev",
+        "created_at": "Thu Feb 19 00:23:35 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024278650414399488",
+            "url": "https://pbs.twimg.com/media/HBeutRxbgAAgNt-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 644664,
+          "friends_count": 2753,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 81,
+          "favorite_count": 1096,
+          "reply_count": 67,
+          "quote_count": 10
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234857542,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 608,
+        "favorite_count": 4937,
+        "reply_count": 1063,
+        "quote_count": 44
+      }
+    },
+    {
+      "id": "2024390988433936438",
+      "text": "And there will be noticeable improvements every week",
+      "created_at": "Thu Feb 19 07:49:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024297111190458720",
+        "text": "WOW!\n\nI can not find any low points to @Grok 4.20 on all of my internal benchmarks.\n\nThe most important is he fully is in first principles mode and uses @Grokipedia to a maximal extent.\n\nThis has made the platform far more nuanced about all new and old technologies as well as history.\n\nIt will only get better from this, THE BEST!",
+        "created_at": "Thu Feb 19 01:36:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "101584084",
+          "name": "Brian Roemmele",
+          "screen_name": "BrianRoemmele",
+          "description": "we can only see what we think is possible...",
+          "followers_count": 452031,
+          "friends_count": 42702,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 20,
+          "favorite_count": 216,
+          "reply_count": 32,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234857542,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 214,
+        "favorite_count": 1502,
+        "reply_count": 553,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2024389355545252289",
+      "text": "RT @cb_doge: BREAKING: Grok website visits just surpassed 800 million worldwide, up around 16% in the latest @Similarweb data.\n\nThe web ver…",
+      "created_at": "Thu Feb 19 07:43:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024385776398848330",
+        "text": "BREAKING: Grok website visits just surpassed 800 million worldwide, up around 16% in the latest @Similarweb data.\n\nThe web version is taking off too, with Grok website now ranking among the top 70 most visited sites globally. https://t.co/6TDR6wVMJV",
+        "created_at": "Thu Feb 19 07:29:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024385690667274240",
+            "url": "https://video.twimg.com/amplify_video/2024385690667274240/vid/avc1/1080x1080/SuCNiMGV2QyB640Y.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1836027,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 117,
+          "favorite_count": 608,
+          "reply_count": 285,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234857542,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 117,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024384974498275446",
+      "text": "RT @XFreeze: Grok is amazing\n\nGrok gives the best answer while other AIs drive into self-doubt complexity https://t.co/EJLpGAHGFw",
+      "created_at": "Thu Feb 19 07:26:03 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024351680507367425",
+          "url": "https://pbs.twimg.com/media/HBfxIMEbUAEvcPo.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2024351695153811927",
+        "text": "Grok is amazing\n\nGrok gives the best answer while other AIs drive into self-doubt complexity https://t.co/EJLpGAHGFw",
+        "created_at": "Thu Feb 19 05:13:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024351680507367425",
+            "url": "https://pbs.twimg.com/media/HBfxIMEbUAEvcPo.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 145501,
+          "friends_count": 1587,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 161,
+          "favorite_count": 908,
+          "reply_count": 190,
+          "quote_count": 21
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234857542,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 161,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024383528310595678",
+      "text": "RT @XFreeze: Grokipedia just recorded a massive 61.82% increase in unique visitors month-over-month. That’s nearly two-thirds growth in aud…",
+      "created_at": "Thu Feb 19 07:20:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024378768484151425",
+        "text": "Grokipedia just recorded a massive 61.82% increase in unique visitors month-over-month. That’s nearly two-thirds growth in audience size in just 30 days\n\nThe shift is happening faster than anyone predicted and Grokipedia is growing exponentially https://t.co/CPh7PTstw7",
+        "created_at": "Thu Feb 19 07:01:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024377820479102976",
+            "url": "https://video.twimg.com/amplify_video/2024377820479102976/vid/avc1/1080x1080/1pjO6ZnhCwFQgovy.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 145501,
+          "friends_count": 1587,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 152,
+          "favorite_count": 717,
+          "reply_count": 205,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234857542,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 152,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024372710747623471",
+      "text": "RT @dogeofficialceo: EU vs X and Macron Says Free Speech is \"Bullshit\" https://t.co/iqLnKgPIWt",
+      "created_at": "Thu Feb 19 06:37:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2024267079642140672",
+          "url": "https://video.twimg.com/amplify_video/2024267079642140672/vid/avc1/1920x1080/3OcnpneJZ61Vem_7.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2024357025225003273",
+        "text": "EU vs X and Macron Says Free Speech is \"Bullshit\" https://t.co/iqLnKgPIWt",
+        "created_at": "Thu Feb 19 05:35:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024267079642140672",
+            "url": "https://video.twimg.com/amplify_video/2024267079642140672/vid/avc1/1920x1080/3OcnpneJZ61Vem_7.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1355945100216573952",
+          "name": "Sir Doge of the Coin ⚔️",
+          "screen_name": "dogeofficialceo",
+          "description": "Protector of Coin 🐶🪙 Self-proclaimed king of memes 👑🇮🇪",
+          "followers_count": 504381,
+          "friends_count": 643,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 234,
+          "favorite_count": 897,
+          "reply_count": 246,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234857542,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 234,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024371975528096009",
+      "text": "https://t.co/t3s5ZIjk3g",
+      "created_at": "Thu Feb 19 06:34:24 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "1873980626585489408",
+          "url": "https://video.twimg.com/amplify_video/1873980626585489408/vid/avc1/1280x720/ptLKEcPINGXka1kb.mp4?tag=16",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234857542,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1742,
+        "favorite_count": 11315,
+        "reply_count": 1478,
+        "quote_count": 99
+      }
+    },
     {
       "id": "2024346240167923791",
       "text": "Turns out there is a bug that needs to be fixed, so probable release this weekend",
