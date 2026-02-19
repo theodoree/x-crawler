@@ -1,12 +1,243 @@
 {
   "date": "20260219",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-19T14:22:28.419614",
-  "tweet_count": 232,
-  "unique_tweet_count": 232,
+  "last_crawl_time": "2026-02-19T16:19:38.918511",
+  "tweet_count": 236,
+  "unique_tweet_count": 236,
   "total_crawled": 432,
-  "duplicates_removed": 200,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2024516168401506408",
+      "text": "Try @Tesla self-driving, it’s awesome!",
+      "created_at": "Thu Feb 19 16:07:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024298976048992515",
+        "text": "I just got back from a 4 hour demo drive in a new Tesla Model Y Premium and I’m still kind of buzzing.\n\nI've watched the videos. I’ve read the stories. I thought I understood what FSD was. I did not, not even close!\n\nBecause when you’re actually in it and you let it do its thing, it’s not a “cool feature.”  It feels like you just stepped a few years into the future!\n\nI tried everything. FSD, regen braking, the acceleration, Summon, self parking, super charging and switching between driving and FSD on the fly.   And man… FSD was the part that messed with my brain in the best way!\n\nIt handled city streets like a pro!  It rolled through parking lots, found spots, and self parked.  It went right through construction zones with workers out there directing traffic with flags, and it just…  did the right thing. Smooth, not sketchy at all! I kept waiting for the moment I’d have to grab the wheel and save it.\n\nI never had to take over!  Didn't even have one moment where I felt like I might need to!\n\nThen the built in Grok planned a scenic route that was actually fun, not just “fastest route” boring. And while it was driving, I played with Grok in Assistant mode and Unhinged mode and I’m not gonna lie, I was laughing out loud because it felt like having a smart, slightly chaotic co pilot that still stays useful.\n\nRegen braking was another shock. It takes like five minutes and your brain clicks and you start thinking, why does every car not feel like this? The acceleration is stupid quick!   Summon was straight up wild to see in person!  Watching that car drive through the parking lot to meet me with no one on board was crazy!\n\nI’m telling you, experiencing it is completely different than hearing about it!\n\nIf you’ve been on the fence, go do a demo drive. Give it time. Try it on real streets, real parking lots, real situations.\n\nBecause after today, I get it!   \n\nI’m ready to buy.. NOW!\n\nWhat do you want to try most, FSD, regen braking, Summon, or just feeling that acceleration?\n\n@elonmusk - this is truly the future!   I am amazed!",
+        "created_at": "Thu Feb 19 01:44:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024298904930463744",
+            "url": "https://pbs.twimg.com/media/HBfBIPuXsAAXDt0.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "18031486",
+          "name": "Coffee and Grit",
+          "screen_name": "CoffeeNGrit",
+          "description": "USMC Vet | Pro 2A | No Quit | Semper Fi Fueling grit + positivity Subscribe → I match every $ and donate to veterans in need. Your support changes lives.",
+          "followers_count": 36388,
+          "friends_count": 16880,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 222,
+          "favorite_count": 1939,
+          "reply_count": 212,
+          "quote_count": 45
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234878074,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 326,
+        "favorite_count": 2818,
+        "reply_count": 981,
+        "quote_count": 30
+      }
+    },
+    {
+      "id": "2024514994747166904",
+      "text": "Big difference between Grok and WokeGPT",
+      "created_at": "Thu Feb 19 16:02:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024416226035052682",
+        "text": "Grok is super based\n\nChatGPT just said the SAVE Act shouldn’t be passed\nWe’ve seen massive voter fraud happening in plain sight for years\n\nThe SAVE Act does one simple thing: Require proof of U.S. citizenship before you vote\n\nBasic common sense. Real election integrity\n\nGrok: Yes, it should pass\nChatGPT: No\n\nOne AI wants secure elections\nThe other wants the broken system protected\n\nGrok tells the truth. ChatGPT protects the fraud",
+        "created_at": "Thu Feb 19 09:30:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024416213435330560",
+            "url": "https://pbs.twimg.com/media/HBgr0f9asAAlOyS.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2024416213452148736",
+            "url": "https://pbs.twimg.com/media/HBgr0gBbUAAFG1M.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 145747,
+          "friends_count": 1589,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 187,
+          "favorite_count": 852,
+          "reply_count": 109,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234878074,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 706,
+        "favorite_count": 4646,
+        "reply_count": 985,
+        "quote_count": 36
+      }
+    },
+    {
+      "id": "2024514408593183070",
+      "text": "RT @MarioNawfal: 🇩🇪 Germany's state broadcaster got caught airing fake AI footage of ICE \"troops\" arresting immigrants\n\nZDF ran AI-generate…",
+      "created_at": "Thu Feb 19 16:00:23 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024208547291037895",
+        "text": "🇩🇪 Germany's state broadcaster got caught airing fake AI footage of ICE \"troops\" arresting immigrants\n\nZDF ran AI-generated images with a visible OpenAI Sora watermark on screen. And called them \"troops\" instead of agents.\n\nDid ZDF generate this themselves? If Germany's biggest state broadcaster is making fake news footage in-house, how often has this happened before?",
+        "created_at": "Wed Feb 18 19:45:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024203804112277507",
+            "url": "https://video.twimg.com/amplify_video/2024203804112277507/vid/avc1/468x360/9cn53lJ9l2NTvdPC.mp4?tag=21",
+            "bitrate": 832000
+          },
+          {
+            "type": "photo",
+            "id": "2024203804082835456",
+            "url": "https://pbs.twimg.com/media/HBdqopdaEAALMkr.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3030910,
+          "friends_count": 50395,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1939,
+          "favorite_count": 7514,
+          "reply_count": 368,
+          "quote_count": 116
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234878074,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1939,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024513882677792979",
+      "text": "RT @XFreeze: 8 years ago, SpaceX launched Falcon Heavy for the first time\n\nPayload was Elon Musk’s cherry-red Tesla Roadster with Starman -…",
+      "created_at": "Thu Feb 19 15:58:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024453233809465396",
+        "text": "8 years ago, SpaceX launched Falcon Heavy for the first time\n\nPayload was Elon Musk’s cherry-red Tesla Roadster with Starman - a spacesuit-wearing mannequin in the driver’s seat\n\nEtched inside the car: “Made on Earth by Humans”\n\nOne of the most legendary moments in space history https://t.co/dKMN5AtB1W",
+        "created_at": "Thu Feb 19 11:57:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024453222673637376",
+            "url": "https://pbs.twimg.com/media/HBhNeuHbYAAYT1X.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 145747,
+          "friends_count": 1589,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 218,
+          "favorite_count": 1071,
+          "reply_count": 196,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234878074,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 218,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2024412105307542019",
       "text": "https://t.co/op5s4ZiSwh",
