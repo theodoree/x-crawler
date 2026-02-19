@@ -1,12 +1,148 @@
 {
   "date": "20260219",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-19T00:23:27.817221",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-02-19T03:02:46.268349",
+  "tweet_count": 204,
+  "unique_tweet_count": 204,
+  "total_crawled": 400,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2024315948795400405",
+      "text": "You can now tap on For You and choose general topics, such as “Technology”!\n\nUpdate your 𝕏 app to make this work.",
+      "created_at": "Thu Feb 19 02:51:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234856657,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 292,
+        "favorite_count": 2494,
+        "reply_count": 1018,
+        "quote_count": 56
+      }
+    },
+    {
+      "id": "2024315005886427573",
+      "text": "RT @testerlabor: Grok 4.20 generated a mobile game like Flappy Bird for me after just one small prompt in just a few seconds. The 4 Grok Ag…",
+      "created_at": "Thu Feb 19 02:48:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024178197735055709",
+        "text": "Grok 4.20 generated a mobile game like Flappy Bird for me after just one small prompt in just a few seconds. The 4 Grok Agents are incredibly good and fast. https://t.co/SkGyCKZLW3",
+        "created_at": "Wed Feb 18 17:44:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024178170769924096",
+            "url": "https://video.twimg.com/ext_tw_video/2024178170769924096/pu/vid/avc1/1280x694/VRK9IIYozLMpymfq.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1769074421438803968",
+          "name": "Testlabor",
+          "screen_name": "testerlabor",
+          "description": "Tech and AI Innovation Tester & researcher - Grok tester since 1.5 - News, Updates & Results.",
+          "followers_count": 11888,
+          "friends_count": 777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 77,
+          "favorite_count": 467,
+          "reply_count": 111,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234856657,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 77,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024314497889161560",
+      "text": "Lot of miles",
+      "created_at": "Thu Feb 19 02:46:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024177015570767920",
+        "text": "Tesla owners have now driven &gt;8 billion miles on FSD Supervised\n\nhttps://t.co/0d66ihRQTa https://t.co/TXz9DqOQ8q",
+        "created_at": "Wed Feb 18 17:39:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024176914756489221",
+            "url": "https://pbs.twimg.com/media/HBdSLe6bUAUMYpn.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24689272,
+          "friends_count": 55,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 551,
+          "favorite_count": 4042,
+          "reply_count": 317,
+          "quote_count": 82
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234856657,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 312,
+        "favorite_count": 3148,
+        "reply_count": 659,
+        "quote_count": 15
+      }
+    },
     {
       "id": "2024269277902119416",
       "text": "“70% 的人处于永久性轻度痛苦中，因为他们对任何艰难的决定都过敏，只要有'什么都不做'的选项就选择什么都不做。” 这句话的出处👍\nhttps://t.co/HecwuLJCha",
@@ -10065,6 +10201,55 @@
         "favorite_count": 10,
         "reply_count": 1,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2023088504583201246",
+      "text": "这里不是方法的问题，而是要有取舍，在质量和效率上有个平衡。\n不能为了 AI 味而去做很多无谓的工作\n不能为了取悦一部分人而去所很多无谓的工作\n坚持做自己认为对的事情就好\nX 本来也是相对公平的地方，喜欢你就关注点赞，不喜欢你就取关拉黑，互不影响\n但不必相互改变迁就\nhttps://t.co/b2XAvDKGDN",
+      "created_at": "Sun Feb 15 17:34:21 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2023086626268991809",
+        "text": "不针对具体的人和事，稍微思考了下为什么文章沾上GPT味会让人感到失望.\n\n可能是因为ai味的文章普遍未经打磨质量低，人们倾向于阅读高质量的文章获得一些收获，而有ai味的文章哪怕是高质量文章也会被先入为主打上低质文章的滤镜，形成一种文章高质但不想读的现象.\n当然这只是个很浅很浅的推断.\n\n但是以此再进一步思考的话，我感觉可能表达方式也是内容价值的一部分，表达方式脱离ai一些或许可以让文章不让人有一个负面的滤镜，更好地衬托主要内容.\n以及一些语言表达也能让读者更平静专注，etc.\n\n但终归也只是分析问题而难以解决问题，一方面是人工思考文章的编排费时费力，另一方面即使不那么费时费力，能用更短时间完成，人就倾向于不花更长时间完成.\n很难衡量到底是省下来的时间重要还是一篇文章没有ai味更重要.\n\n或许先语音输入再慢慢整理会是一个方法，但这也不很适合所有人........",
+        "created_at": "Sun Feb 15 17:26:53 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1806225733045690368",
+          "name": "水谷昴",
+          "screen_name": "MizutaniSubaru_",
+          "description": "愿你被世界温柔相待.",
+          "followers_count": 67,
+          "friends_count": 256,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183352,
+        "friends_count": 1552,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 14,
+        "reply_count": 2,
+        "quote_count": 1
       }
     },
     {

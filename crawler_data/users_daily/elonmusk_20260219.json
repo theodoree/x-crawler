@@ -1,0 +1,121 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 234856657,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260219",
+  "last_updated": "2026-02-19T03:02:46.296486",
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2024314497889161560",
+      "text": "Lot of miles",
+      "created_at": "Thu Feb 19 02:46:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024177015570767920",
+        "text": "Tesla owners have now driven &gt;8 billion miles on FSD Supervised\n\nhttps://t.co/0d66ihRQTa https://t.co/TXz9DqOQ8q",
+        "created_at": "Wed Feb 18 17:39:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024176914756489221",
+            "url": "https://pbs.twimg.com/media/HBdSLe6bUAUMYpn.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24689272,
+          "friends_count": 55,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 551,
+          "favorite_count": 4042,
+          "reply_count": 317,
+          "quote_count": 82
+        }
+      },
+      "stats": {
+        "retweet_count": 312,
+        "favorite_count": 3148,
+        "reply_count": 659,
+        "quote_count": 15
+      }
+    },
+    {
+      "id": "2024315005886427573",
+      "text": "RT @testerlabor: Grok 4.20 generated a mobile game like Flappy Bird for me after just one small prompt in just a few seconds. The 4 Grok Ag…",
+      "created_at": "Thu Feb 19 02:48:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024178197735055709",
+        "text": "Grok 4.20 generated a mobile game like Flappy Bird for me after just one small prompt in just a few seconds. The 4 Grok Agents are incredibly good and fast. https://t.co/SkGyCKZLW3",
+        "created_at": "Wed Feb 18 17:44:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024178170769924096",
+            "url": "https://video.twimg.com/ext_tw_video/2024178170769924096/pu/vid/avc1/1280x694/VRK9IIYozLMpymfq.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1769074421438803968",
+          "name": "Testlabor",
+          "screen_name": "testerlabor",
+          "description": "Tech and AI Innovation Tester & researcher - Grok tester since 1.5 - News, Updates & Results.",
+          "followers_count": 11888,
+          "friends_count": 777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 77,
+          "favorite_count": 467,
+          "reply_count": 111,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 77,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024315948795400405",
+      "text": "You can now tap on For You and choose general topics, such as “Technology”!\n\nUpdate your 𝕏 app to make this work.",
+      "created_at": "Thu Feb 19 02:51:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 292,
+        "favorite_count": 2494,
+        "reply_count": 1018,
+        "quote_count": 56
+      }
+    }
+  ]
+}
