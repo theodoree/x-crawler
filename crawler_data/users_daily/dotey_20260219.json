@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 183401,
+    "followers_count": 183409,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260219",
-  "last_updated": "2026-02-19T08:14:54.987646",
-  "tweet_count": 1,
+  "last_updated": "2026-02-19T10:17:47.209810",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2024337839916286380",
@@ -69,6 +69,28 @@
         "favorite_count": 30,
         "reply_count": 1,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2024398998111408625",
+      "text": "聚会上偶遇前任又不得不牵手的该怎么办\nhttps://t.co/IOu43Ij6tI",
+      "created_at": "Thu Feb 19 08:21:47 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2024365996480647168",
+          "url": "https://video.twimg.com/amplify_video/2024365996480647168/vid/avc1/1280x720/7vgHHs1GGeWWSsKU.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 90,
+        "reply_count": 24,
+        "quote_count": 5
       }
     }
   ]

@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234857542,
+    "followers_count": 234861273,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260219",
-  "last_updated": "2026-02-19T08:14:54.961486",
-  "tweet_count": 14,
+  "last_updated": "2026-02-19T10:17:47.182347",
+  "tweet_count": 29,
   "tweets": [
     {
       "id": "2024314497889161560",
@@ -596,6 +596,706 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2024400946588221667",
+      "text": "RT @TONYxTWO: ChatGPT is racist https://t.co/jR5CJrzvvU",
+      "created_at": "Thu Feb 19 08:29:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024224833005830144",
+          "url": "https://pbs.twimg.com/media/HBd9wsTWQAADI73.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2024224837158277315",
+        "text": "ChatGPT is racist https://t.co/jR5CJrzvvU",
+        "created_at": "Wed Feb 18 20:49:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024224833005830144",
+            "url": "https://pbs.twimg.com/media/HBd9wsTWQAADI73.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1261816778256265222",
+          "name": "TONY™",
+          "screen_name": "TONYxTWO",
+          "description": "God-Fearing Patriot | Family Man | America First 🇺🇸 Amplifying High-Quality America First Content",
+          "followers_count": 647204,
+          "friends_count": 8825,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2258,
+          "favorite_count": 15313,
+          "reply_count": 607,
+          "quote_count": 106
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2258,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024401218219729363",
+      "text": "Grok is fair to all",
+      "created_at": "Thu Feb 19 08:30:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024316205549703629",
+        "text": "@TONYxTWO Grok is not. https://t.co/ZSqfrFSGUb",
+        "created_at": "Thu Feb 19 02:52:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024316201254457344",
+            "url": "https://pbs.twimg.com/media/HBfQ3BjXEAAP4tE.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 206383,
+          "friends_count": 890,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 66,
+          "favorite_count": 1014,
+          "reply_count": 80,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 971,
+        "favorite_count": 8788,
+        "reply_count": 1483,
+        "quote_count": 63
+      }
+    },
+    {
+      "id": "2024401621204291685",
+      "text": "RT @historyinmemes: The world’s first video game, played on its original 1957 hardware.\n\nIn October 1958, physicist William Higinbotham dev…",
+      "created_at": "Thu Feb 19 08:32:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024335886599802970",
+        "text": "The world’s first video game, played on its original 1957 hardware.\n\nIn October 1958, physicist William Higinbotham developed what is widely recognized as the first video game, Tennis for Two, to entertain visitors at a public exhibition at Brookhaven National Laboratory.\n\nUnlike later digital consoles, the game ran on a Donner Model 30 analog computer and displayed graphics on a five-inch oscilloscope. Players controlled the action with custom aluminum controllers featuring a knob to set the ball’s angle and a button to hit it over a simulated net.\n\nWhile earlier electronic creations like the 1947 Cathode-Ray Tube Amusement Device or 1950’s Bertie the Brain existed, Tennis for Two is notable as the first game designed purely for entertainment, rather than research or technical demonstration.\n\nAlthough the original hardware was dismantled in 1959, and no intact version survives, modern replicas have been built to celebrate this groundbreaking moment in gaming history.",
+        "created_at": "Thu Feb 19 04:11:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2018827078460694528",
+            "url": "https://video.twimg.com/amplify_video/2018827078460694528/vid/avc1/618x528/nl9hStBL-iW7oaHM.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "855481986290524160",
+          "name": "Historic Vids",
+          "screen_name": "historyinmemes",
+          "description": "Daily history lessons. Education through memes!",
+          "followers_count": 6074685,
+          "friends_count": 349,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 374,
+          "favorite_count": 1641,
+          "reply_count": 133,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 374,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024401712489099353",
+      "text": "💯 would have happened 😂",
+      "created_at": "Thu Feb 19 08:32:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024345616327819701",
+        "text": "@historyinmemes The first video game character Pac-Man was originally titled Puck-Man in Japan.\n\nHowever for its North American release the title was changed to Pac-Man out of concern that arcade vandals might alter the \"P\" on cabinets to resemble an \"F\" 🤔 https://t.co/A4e8vvQmyI",
+        "created_at": "Thu Feb 19 04:49:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024345404075094016",
+            "url": "https://pbs.twimg.com/media/HBfra2iXMAASIJt.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1941435206893961218",
+          "name": "Well Read",
+          "screen_name": "well_read_tales",
+          "description": "Helping you sound well read. Notes on language, history, and the ideas we inherit.",
+          "followers_count": 406,
+          "friends_count": 123,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 75,
+          "favorite_count": 535,
+          "reply_count": 113,
+          "quote_count": 28
+        }
+      },
+      "stats": {
+        "retweet_count": 988,
+        "favorite_count": 7233,
+        "reply_count": 1186,
+        "quote_count": 72
+      }
+    },
+    {
+      "id": "2024402147182580003",
+      "text": "RT @HustleBitch_: 🚨 60 MINUTES CALLED TESLA A “SMALL STARTUP” - AND NO ONE HAD A CLUE WHAT WAS COMING\n\nThe year is 2008.\n\n60 Minutes introd…",
+      "created_at": "Thu Feb 19 08:34:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024362637606138209",
+        "text": "🚨 60 MINUTES CALLED TESLA A “SMALL STARTUP” - AND NO ONE HAD A CLUE WHAT WAS COMING\n\nThe year is 2008.\n\n60 Minutes introduces Elon Musk as the chairman of a small Northern California startup called Tesla, with \"no experience at all in the car business.\"\n\nHe shows her the original Tesla Roadster.\n\nThey run through the details like it’s nothing:\n• 0–60 in 4 seconds\n• 200+ miles on a charge\n• 6,000 laptop batteries\n• No gas. No oil.\n• Plugged into a normal wall outlet\n• Price: $109,000\n\nShe emphasizes how expensive the car is, noting that people like George Clooney and Arnold Schwarzenegger could afford those prices.\n\nThat Roadster wasn’t small.\nIt was the first move.\nThe world had no idea.\n\nWhat stands out to you watching this 18 years later?",
+        "created_at": "Thu Feb 19 05:57:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024362585345126400",
+            "url": "https://video.twimg.com/amplify_video/2024362585345126400/vid/avc1/1440x1080/pLTB7tSG2saeALGe.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1231314387119427584",
+          "name": "HustleBitch",
+          "screen_name": "HustleBitch_",
+          "description": "I seek the truth and share it but...\n\n📝Disclaimer: Posts made are not personalized nor financial advice for the viewer and are for entertainment purposes only.",
+          "followers_count": 264158,
+          "friends_count": 1477,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 334,
+          "favorite_count": 1786,
+          "reply_count": 203,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 334,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024403071196155943",
+      "text": "RT @libsoftiktok: OMG. Alexander Lamar Banks Jr. was arrested in Michigan after he reportedly ran down White family with his car, K*LLING t…",
+      "created_at": "Thu Feb 19 08:37:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024199788116242736",
+        "text": "OMG. Alexander Lamar Banks Jr. was arrested in Michigan after he reportedly ran down White family with his car, K*LLING the couple's 3-year-old daughter.\n\nCourt documents of the incident describe how Banks then got out of the car with a shotgun and shot the parents. He also brutally assaulted a 72-year-old woman who showed up at the scene.\n\nThe mother and father are currently in the hospital in stable condition. The 72-year-old woman is currently in critical condition.\n\nWhy isn't this national news???",
+        "created_at": "Wed Feb 18 19:10:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024194219393404929",
+            "url": "https://pbs.twimg.com/media/HBdh6vtX0AE8and.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1326229737551912960",
+          "name": "Libs of TikTok",
+          "screen_name": "libsoftiktok",
+          "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+          "followers_count": 4647046,
+          "friends_count": 1051,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 17766,
+          "favorite_count": 37630,
+          "reply_count": 2518,
+          "quote_count": 1001
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 17766,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024403829807337747",
+      "text": "💯 that’s what it means 😂",
+      "created_at": "Thu Feb 19 08:40:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024358283532972298",
+        "text": "Rofl https://t.co/I3UXBgZsyP",
+        "created_at": "Thu Feb 19 05:40:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2016248155495370752",
+            "url": "https://pbs.twimg.com/media/G_snA89WkAAflx-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1598212914971828225",
+          "name": "Giga Based Dad",
+          "screen_name": "GigaBasedDad",
+          "description": "Unapologetically Christian ✝️ - Husband and Father. Rancher. Homesteader. Raising Cows, Horses, Chickens, and Children.",
+          "followers_count": 414317,
+          "friends_count": 170,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 22,
+          "favorite_count": 321,
+          "reply_count": 44,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 859,
+        "favorite_count": 13092,
+        "reply_count": 1262,
+        "quote_count": 42
+      }
+    },
+    {
+      "id": "2024406985484226774",
+      "text": "RT @wmorrill3: Physics is beautiful - woke up to find my truck covered in fern frost. A rare phenomenon that occurs in just the right condi…",
+      "created_at": "Thu Feb 19 08:53:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024145626376856058",
+        "text": "Physics is beautiful - woke up to find my truck covered in fern frost. A rare phenomenon that occurs in just the right conditions. Surface temp drops below the freezing point of nearby humid air, ice crystals form propagating out from nucleation sites making these cool patterns https://t.co/31fMRV61vA",
+        "created_at": "Wed Feb 18 15:34:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024145571528032256",
+            "url": "https://video.twimg.com/ext_tw_video/2024145571528032256/pu/vid/avc1/1080x1920/PMFZa1xsbtZxdi5l.mp4?tag=19",
+            "bitrate": 10368000
+          },
+          {
+            "type": "photo",
+            "id": "2024145575218987008",
+            "url": "https://pbs.twimg.com/media/HBc1rSCbQAAPxYk.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2024145576238145537",
+            "url": "https://pbs.twimg.com/media/HBc1rV1aYAECuTX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "619309584",
+          "name": "Wes",
+          "screen_name": "wmorrill3",
+          "description": "Biking, Running, Hiking, Climbing - Always adventuring. \n\nCybertruck Lead Engineer +\nReliability, Test, and Analysis for all Tesla vehicles.",
+          "followers_count": 31810,
+          "friends_count": 231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 189,
+          "favorite_count": 1769,
+          "reply_count": 146,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 189,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024407730153542075",
+      "text": "RT @JayNagy: Grok 4.20 beta example\n\nYears ago, I made a crypto wallet but missed writing a few seed phrase words. This account has a measl…",
+      "created_at": "Thu Feb 19 08:56:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024358673909231974",
+        "text": "Grok 4.20 beta example\n\nYears ago, I made a crypto wallet but missed writing a few seed phrase words. This account has a measly 40$ but I keep asking AI to try opening it for fun\n\nGrok 4.1 spent 6 days of trying and failed\nGrok 4.20 cracked it in 492 seconds, correctly https://t.co/0BRlL5xkJX",
+        "created_at": "Thu Feb 19 05:41:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024356926868377600",
+            "url": "https://pbs.twimg.com/media/HBf15kSXUAATsSf.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1565281243",
+          "name": "Jay Nagy",
+          "screen_name": "JayNagy",
+          "description": "Engineer trying to help extend the light of consciousness.\nFormer rap artist. Former candidate for TX34th. \nBig fan of Western civilization.",
+          "followers_count": 8633,
+          "friends_count": 756,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 142,
+          "favorite_count": 578,
+          "reply_count": 100,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 142,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024407990070366255",
+      "text": "Wow",
+      "created_at": "Thu Feb 19 08:57:31 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024162008061399161",
+        "text": "If Popper’s paradox of tolerance applies to anything, surely it’s to calls for the eradication of Western civilization. These people are confessed traitors. Enough.",
+        "created_at": "Wed Feb 18 16:40:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1805961360687415296",
+          "name": "Hunter Ash",
+          "screen_name": "ArtemisConsort",
+          "description": "Kill the lie so the truth may live. Social media manager for @KeeperAI",
+          "followers_count": 63827,
+          "friends_count": 968,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 217,
+          "favorite_count": 1461,
+          "reply_count": 96,
+          "quote_count": 12
+        }
+      },
+      "stats": {
+        "retweet_count": 623,
+        "favorite_count": 4101,
+        "reply_count": 863,
+        "quote_count": 23
+      }
+    },
+    {
+      "id": "2024409195676913763",
+      "text": "RT @cb_doge: Elon Musk showing Tesla Roadster to Arnold Schwarzenegger in 2008. https://t.co/OIYV9xkLXW",
+      "created_at": "Thu Feb 19 09:02:18 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024407352376786944",
+          "url": "https://pbs.twimg.com/media/HBgjwt8bgAAQKCy.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2024407364666118332",
+        "text": "Elon Musk showing Tesla Roadster to Arnold Schwarzenegger in 2008. https://t.co/OIYV9xkLXW",
+        "created_at": "Thu Feb 19 08:55:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024407352376786944",
+            "url": "https://pbs.twimg.com/media/HBgjwt8bgAAQKCy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1836211,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 242,
+          "favorite_count": 1390,
+          "reply_count": 261,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 242,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024409388589682847",
+      "text": "RT @tetsuoai: Just asked the 16 Grok 4.20 Heavy agents to build me a GLSL shader, no libraries. Alien bioluminescent ocean floor. Hydrother…",
+      "created_at": "Thu Feb 19 09:03:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024270709363818906",
+        "text": "Just asked the 16 Grok 4.20 Heavy agents to build me a GLSL shader, no libraries. Alien bioluminescent ocean floor. Hydrothermal vents, caustic light, rising particles, layered noise terrain. Mouse = underwater flashlight. 60fps. Collapsible control panel with uniforms.\n\nIt cooked.\n\n>>> grok 4.20 heavy prompt\n\nBuild a single HTML page with a full-screen GLSL fragment shader rendered via WebGL. No libraries raw WebGL setup with a full-screen quad. The shader should render an alien bioluminescent ocean floor imagine deep sea hydrothermal vents with pulsing organic light. Use layered simplex/value noise for undulating terrain, glowing particles rising like volcanic embers, caustic light patterns rippling across the surface, and color palettes shifting between deep indigo, electric cyan, magenta, and molten gold. The mouse position should act as an underwater flashlight illuminating nearby terrain and revealing hidden details. Include a subtle camera drift so it feels like you're slowly gliding over the seabed. Everything should be smooth at 60fps. Add a small collapsible control panel in the corner with sliders for: glow intensity, drift speed, color temperature, and particle density these should feed into the shader as uniforms. The page background should be black with no scrollbars.",
+        "created_at": "Wed Feb 18 23:52:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024270505843535872",
+            "url": "https://video.twimg.com/amplify_video/2024270505843535872/vid/avc1/2160x1080/58CJ4JSVbISKnnDT.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C · asm · AI art via grok imagine · @tetsuocorp · @7etsuo",
+          "followers_count": 225107,
+          "friends_count": 856,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 168,
+          "favorite_count": 856,
+          "reply_count": 83,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 168,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024409495028584468",
+      "text": "RT @wil_da_beast630: 100 men?\n\nEven in high school, it was hard getting 10 guys together if we had to fight another squad. It was hard gett…",
+      "created_at": "Thu Feb 19 09:03:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024272942339682504",
+        "text": "100 men?\n\nEven in high school, it was hard getting 10 guys together if we had to fight another squad. It was hard getting ten guys together for a BASEBALL GAME.\n\nDo you know ONE man you could invite over for some rape or domestic violence?! What type a' animals are we dealing with here?",
+        "created_at": "Thu Feb 19 00:00:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024272931589672961",
+            "url": "https://pbs.twimg.com/media/HBepgZfXUAEt02a.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1011008340367953920",
+          "name": "Wilfred Reilly",
+          "screen_name": "wil_da_beast630",
+          "description": "A college professor now, I am a former corporate executive, freedom rider, law student, and poor kid. Butlerian Jihad Advocate. Karen Appreciator.",
+          "followers_count": 169178,
+          "friends_count": 3674,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1072,
+          "favorite_count": 5658,
+          "reply_count": 393,
+          "quote_count": 65
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1072,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024410796768555322",
+      "text": "Exactly",
+      "created_at": "Thu Feb 19 09:08:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024234317069906138",
+        "text": "Irony: \n\nThe longest talking filibuster ever was in 1964 when Democratic Senators spoke for 60 days continuously to block the passage of the Civil Rights Act \n\nDebate was forced. It lasted 60 days. The bill passed. \n\nBy contrast, if Sen. Thune (majority leader) simply allows *silence* to block the passage of the SAVE America act, he is failing 84% of Americans\n\nThis is the most important item on the legislative agenda, bar none. \n\nEven if it takes 60 days, it's worth it to secure elections and ensure only American citizens vote\n\nThune can require a talking filibuster rather than a silent one without  **any** rules changes \n\nGood explanation by grok",
+        "created_at": "Wed Feb 18 21:27:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024233479945539584",
+            "url": "https://pbs.twimg.com/media/HBeFoAqbUAAwy4R.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 58942,
+          "friends_count": 987,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 269,
+          "favorite_count": 1139,
+          "reply_count": 75,
+          "quote_count": 25
+        }
+      },
+      "stats": {
+        "retweet_count": 1159,
+        "favorite_count": 4627,
+        "reply_count": 725,
+        "quote_count": 28
+      }
+    },
+    {
+      "id": "2024412105307542019",
+      "text": "https://t.co/op5s4ZiSwh",
+      "created_at": "Thu Feb 19 09:13:52 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024410928209678731",
+        "text": "BREAKING: Grokipedia has started to outrank Wikipedia on Google search results.\n\nThe downfall of Wikipedia has officially begun. https://t.co/HVZ5GfabhV",
+        "created_at": "Thu Feb 19 09:09:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024410920005550080",
+            "url": "https://pbs.twimg.com/media/HBgnAYZaQAAYxtF.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2024410920001425408",
+            "url": "https://pbs.twimg.com/media/HBgnAYYbUAAqG6a.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1836211,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 154,
+          "favorite_count": 818,
+          "reply_count": 275,
+          "quote_count": 33
+        }
+      },
+      "stats": {
+        "retweet_count": 1124,
+        "favorite_count": 8236,
+        "reply_count": 1361,
+        "quote_count": 86
       }
     }
   ]
