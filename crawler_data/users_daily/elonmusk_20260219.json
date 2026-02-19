@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234857472,
+    "followers_count": 234855202,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260219",
-  "last_updated": "2026-02-19T04:38:55.278516",
-  "tweet_count": 4,
+  "last_updated": "2026-02-19T06:24:06.469877",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2024314497889161560",
@@ -189,6 +189,21 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2024346240167923791",
+      "text": "Turns out there is a bug that needs to be fixed, so probable release this weekend",
+      "created_at": "Thu Feb 19 04:52:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 167,
+        "favorite_count": 1797,
+        "reply_count": 508,
+        "quote_count": 20
       }
     }
   ]
