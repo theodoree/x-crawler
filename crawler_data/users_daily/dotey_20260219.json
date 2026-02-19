@@ -1,0 +1,75 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 183352,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260219",
+  "last_updated": "2026-02-19T04:38:55.270234",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2024337839916286380",
+      "text": "推荐看看网易有道开源的 LobsterAI，是一个完整功能的个人助理 Agent。\n\n技术上基于 Electron + React + TypeScript 构建，采⽤严格的进程隔离架构，任务⽀持本地执⾏和沙箱 VM（QEMU + Alpine Linux）两种模式。数据层使⽤ SQLite 实现全本地化存储，IM ⽹关层通过钉钉 Stream、⻜书 SDK 等对接各平台。\n\n开源用起来更放心，也是个很好的学习机会。\n\n地址见引用推文",
+      "created_at": "Thu Feb 19 04:18:46 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024337504740966400",
+          "url": "https://pbs.twimg.com/media/HBfkPDOWAAA0XsL.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2024337606511628288",
+          "url": "https://pbs.twimg.com/media/HBfkU-WXEAA3LMN.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2024337731686473728",
+          "url": "https://pbs.twimg.com/media/HBfkcQqXoAA58fW.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2024337781640601601",
+          "url": "https://pbs.twimg.com/media/HBfkfKwXIAEU7FK.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2024332482322329905",
+        "text": "Introducing LobsterAI🦞— an open-source AI agent that gets work done for you.\n✅ No terminal skills required \n✅ Run tasks safely in an Alpine Linux VM \n✅ Persistent memory, Mac/Win, IM integration, skills…\nDownload: https://t.co/9tzNCmcZ4B  \nGitHub: https://t.co/qDmCopAdTB",
+        "created_at": "Thu Feb 19 03:57:28 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14640704",
+          "name": "Feng Zhou",
+          "screen_name": "fengzhou",
+          "description": "CEO @NetEaseYoudao, EVP @NetEase_Global",
+          "followers_count": 145,
+          "friends_count": 196,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 13,
+          "reply_count": 0,
+          "quote_count": 10
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 30,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    }
+  ]
+}
