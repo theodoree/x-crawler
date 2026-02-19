@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 183309,
+    "followers_count": 183323,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260218",
-  "last_updated": "2026-02-18T22:10:07.150182",
-  "tweet_count": 18,
+  "last_updated": "2026-02-19T00:23:27.842902",
+  "tweet_count": 20,
   "tweets": [
     {
       "id": "2023912440463778087",
@@ -659,6 +659,84 @@
         "retweet_count": 0,
         "favorite_count": 6,
         "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024249565789008115",
+      "text": "原来是“误会一场”或者说是“亡羊补牢”😂\nhttps://t.co/EaR6Pbvn9d",
+      "created_at": "Wed Feb 18 22:27:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024212378402095389",
+        "text": "Apologies, this was a docs clean up we rolled out that’s caused some confusion. \n\nNothing is changing about how you can use the Agent SDK and MAX subscriptions!",
+        "created_at": "Wed Feb 18 20:00:13 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "352806502",
+          "name": "Thariq",
+          "screen_name": "trq212",
+          "description": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+          "followers_count": 71936,
+          "friends_count": 1625,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 72,
+          "favorite_count": 952,
+          "reply_count": 218,
+          "quote_count": 131
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024269277902119416",
+      "text": "“70% 的人处于永久性轻度痛苦中，因为他们对任何艰难的决定都过敏，只要有'什么都不做'的选项就选择什么都不做。” 这句话的出处👍\nhttps://t.co/HecwuLJCha",
+      "created_at": "Wed Feb 18 23:46:19 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1897135833347711182",
+        "text": "&gt;70% of people are in permanent slight suffering because they are allergic to making ANY mentally tough decision when there is also an option to do nothing. rant:",
+        "created_at": "Wed Mar 05 04:03:24 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1101942551349731335",
+          "name": "gabriel",
+          "screen_name": "gabriel1",
+          "description": "pretrain sora at @OpenAI, previously at midjourney, swedish high school dropout, YEHAHHH",
+          "followers_count": 66651,
+          "friends_count": 627,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1391,
+          "favorite_count": 26887,
+          "reply_count": 198,
+          "quote_count": 180
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "reply_count": 1,
         "quote_count": 0
       }
     }
