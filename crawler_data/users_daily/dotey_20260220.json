@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 183598,
+    "followers_count": 183631,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260220",
-  "last_updated": "2026-02-20T04:36:20.614176",
-  "tweet_count": 1,
+  "last_updated": "2026-02-20T06:20:30.215747",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2024654176505000106",
@@ -48,6 +48,67 @@
         "favorite_count": 33,
         "reply_count": 8,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2024722544926814265",
+      "text": "转发：对话宇树科技：王兴兴独家揭秘春晚机器人\n来自微博科技官方栏目《科技漫谈》\n\n蛇年春晚《秧BOT》炸场后，@宇树科技 与整个机器人赛道一同站上风口。涌入者众，半年前尚属稀缺的技术能力，正迅速成为行业标配。\n\n竞争加剧，宇树焦虑吗？王兴兴的答案是：最大的对手，从来都是我们自己。\n\n本期#科技漫谈# ，联合出品人@卫诗婕SJ_Jelyne 在今年春晚幕后，对话 @宇树科技 创始人、CEO @宇树王兴兴，拆解马年春晚宇树机器人的技术密码。\n\n📌【本期看点】\n02:50 现在机器人的技术阶段，是不是就像一个十岁的孩子？\n10:07 当第一名的滋味如何？\n19:01 空翻、高空落地、剧烈动作——对硬件的考验远超想象\n25:43 功夫动作太激烈，机器人也会\"高血压\"\n35:47 VLA、世界模型——如何看待具身大模型的技术路线？\n42:21 具身智能什么时候能真正“好用”——一个具体的判断标准\n\n来源：https://t.co/B9d6flbhau",
+      "created_at": "Fri Feb 20 05:47:26 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2024721953089585152",
+          "url": "https://video.twimg.com/amplify_video/2024721953089585152/vid/avc1/852x480/rsUXl3aZ8yWyMlfJ.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024722810480873804",
+      "text": "帮问：有没有类似于pi-mono、claude-agent-sdk的python的agent框架？",
+      "created_at": "Fri Feb 20 05:48:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024715742432940284",
+        "text": "@dotey baoyu 老师有没有 类似 pi 的 python 框架",
+        "created_at": "Fri Feb 20 05:20:25 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4817781643",
+          "name": "INIT",
+          "screen_name": "liudaziz",
+          "description": "",
+          "followers_count": 0,
+          "friends_count": 111,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 11,
+        "reply_count": 8,
+        "quote_count": 1
       }
     }
   ]

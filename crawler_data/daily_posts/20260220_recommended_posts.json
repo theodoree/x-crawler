@@ -1,12 +1,768 @@
 {
   "date": "20260220",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-20T04:36:20.585543",
-  "tweet_count": 201,
-  "unique_tweet_count": 201,
+  "last_crawl_time": "2026-02-20T06:20:30.160074",
+  "tweet_count": 215,
+  "unique_tweet_count": 215,
   "total_crawled": 401,
-  "duplicates_removed": 200,
+  "duplicates_removed": 186,
   "tweets": [
+    {
+      "id": "2024729931918516536",
+      "text": "RT @cb_doge: 🚨LARRY KUDLOW: Grok is the only AI that's not woke. https://t.co/8HVIojtsE8",
+      "created_at": "Fri Feb 20 06:16:48 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2024705337748852736",
+          "url": "https://video.twimg.com/amplify_video/2024705337748852736/vid/avc1/1676x1080/kwZwOr07nro0OYFX.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2024705596357070872",
+        "text": "🚨LARRY KUDLOW: Grok is the only AI that's not woke. https://t.co/8HVIojtsE8",
+        "created_at": "Fri Feb 20 04:40:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024705337748852736",
+            "url": "https://video.twimg.com/amplify_video/2024705337748852736/vid/avc1/1676x1080/kwZwOr07nro0OYFX.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1836470,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 96,
+          "favorite_count": 553,
+          "reply_count": 161,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 96,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024729438290919458",
+      "text": "RT @xAIMemphis: We recently hosted students from @musowls. We always enjoying teaching students about the technological capabilities and co…",
+      "created_at": "Fri Feb 20 06:14:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024627166160323005",
+        "text": "We recently hosted students from @musowls. We always enjoying teaching students about the technological capabilities and complexity of powering @grok. https://t.co/9knIHPG54f",
+        "created_at": "Thu Feb 19 23:28:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024627159348678656",
+            "url": "https://pbs.twimg.com/media/HBjrrKuWEAA8elB.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2024627159331934208",
+            "url": "https://pbs.twimg.com/media/HBjrrKqWkAAHoNT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1937236128010240001",
+          "name": "xAI Memphis",
+          "screen_name": "xAIMemphis",
+          "description": "",
+          "followers_count": 23490,
+          "friends_count": 52,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 93,
+          "favorite_count": 719,
+          "reply_count": 70,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 93,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024729305142771951",
+      "text": "Good question",
+      "created_at": "Fri Feb 20 06:14:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024581430668411165",
+        "text": "NYC employs 364,000 government employees, of which only 31% of are white. \n\nWhat is the point of the office of racial equity? To reduce that number to zero?",
+        "created_at": "Thu Feb 19 20:26:42 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1241570477086310401",
+          "name": "Jason Curtis Anderson",
+          "screen_name": "JCAndersonNYC",
+          "description": "🇺🇸 Trouble ahead and trouble behind",
+          "followers_count": 23599,
+          "friends_count": 1836,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 374,
+          "favorite_count": 2818,
+          "reply_count": 83,
+          "quote_count": 14
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 141,
+        "favorite_count": 1248,
+        "reply_count": 326,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2024728732595089740",
+      "text": "RT @XFreeze: Neuralink is hiring with more than 70 open roles right now across engineering, manufacturing, software, robotics, biology, qua…",
+      "created_at": "Fri Feb 20 06:12:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024557093462954130",
+        "text": "Neuralink is hiring with more than 70 open roles right now across engineering, manufacturing, software, robotics, biology, quality, clinical &amp; more\n\nIf you want to help build the future of brain-computer interfaces, this is your movement\n\nApply here:\nhttps://t.co/SsLaBlyM0J https://t.co/py1aYxT7AP",
+        "created_at": "Thu Feb 19 18:50:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024481806737686529",
+            "url": "https://pbs.twimg.com/media/HBhneiDXQAExX2x.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 146023,
+          "friends_count": 1591,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 104,
+          "favorite_count": 499,
+          "reply_count": 88,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 104,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024728677947515389",
+      "text": "RT @JoelWebbon: The greatest psyop of the last century. https://t.co/WGuf9603Gv",
+      "created_at": "Fri Feb 20 06:11:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024544898683138048",
+          "url": "https://pbs.twimg.com/media/HBig293WcAAXOru.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2024544901333987721",
+        "text": "The greatest psyop of the last century. https://t.co/WGuf9603Gv",
+        "created_at": "Thu Feb 19 18:01:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024544898683138048",
+            "url": "https://pbs.twimg.com/media/HBig293WcAAXOru.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "32157767",
+          "name": "Joel Webbon",
+          "screen_name": "JoelWebbon",
+          "description": "Husband, father, and pastor. President @rightresponsem CEO: @nxrstudios New content every weekday @ 12 PM EST",
+          "followers_count": 98526,
+          "friends_count": 3233,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1035,
+          "favorite_count": 6851,
+          "reply_count": 181,
+          "quote_count": 36
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1035,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024728290658058543",
+      "text": "RT @mayemusk: Used @grok for this info about my grandmother: Edith Reeve Angel was from Clapham, Surrey, England, and the Reeve surname tra…",
+      "created_at": "Fri Feb 20 06:10:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024643211101192229",
+        "text": "Used @grok for this info about my grandmother: Edith Reeve Angel was from Clapham, Surrey, England, and the Reeve surname traces further back in the English line (e.g., as granddaughter of Elizabeth Reeve of Totnes, Devon).\nWhen Elon was born, I searched my family names to find his second name, Reeve.",
+        "created_at": "Fri Feb 20 00:32:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2024637505581039826",
+          "text": "@mayemusk @RupertLowe10 Reeve!",
+          "created_at": "Fri Feb 20 00:09:31 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1633678425796886528",
+            "name": "Random Idiot",
+            "screen_name": "randoid10t",
+            "description": "Just observing Creation : }\n\n             Γνῶθι σεαυτόν\n\n                                      🌹✝️ INRI ✝️🌹",
+            "followers_count": 2743,
+            "friends_count": 7501,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 4,
+            "favorite_count": 20,
+            "reply_count": 4,
+            "quote_count": 0
+          }
+        },
+        "user": {
+          "id": "14171401",
+          "name": "Maye Musk",
+          "screen_name": "mayemusk",
+          "description": "Author: A Woman Makes A Plan, now in 34 languages & 100+ countries 📖 Doctor of Dietetics 👩‍🎓 Supermodel 😉💃 ItsGreatToBe77 info@mayemusk.com",
+          "followers_count": 1488416,
+          "friends_count": 198,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 164,
+          "favorite_count": 969,
+          "reply_count": 205,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 164,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024727731469250895",
+      "text": "RT @SpaceX: Liftoff! https://t.co/2GJk3WScto",
+      "created_at": "Fri Feb 20 06:08:03 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2024661007763734529",
+          "url": "https://video.twimg.com/amplify_video/2024661007763734529/vid/avc1/3840x2160/lSYbDPXlh_msIe8X.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2024661082992693413",
+        "text": "Liftoff! https://t.co/2GJk3WScto",
+        "created_at": "Fri Feb 20 01:43:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024661007763734529",
+            "url": "https://video.twimg.com/amplify_video/2024661007763734529/vid/avc1/3840x2160/lSYbDPXlh_msIe8X.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41030425,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 606,
+          "favorite_count": 4704,
+          "reply_count": 389,
+          "quote_count": 54
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 606,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024727586543407613",
+      "text": "RT @XFreeze: Elon Musk is hosting the 5th annual Not-a-Boring Student Competition\n\nThe Boring Company can already dig tunnels faster than m…",
+      "created_at": "Fri Feb 20 06:07:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024638379518722300",
+        "text": "Elon Musk is hosting the 5th annual Not-a-Boring Student Competition\n\nThe Boring Company can already dig tunnels faster than most companies:\n\n• Traditional tunnel boring machines can take many months to advance a single mile\n•  The latest Prufrock machines target over one mile per week\n\nTo push this even further, Elon is challenging engineering students from different universities to build advanced tunnel-boring machines\n\nThis March, more than 120 students from 8 universities across 3 countries will compete to beat the snail at the company's R&D headquarters in Bastrop, Texas\n\nThis continues to push the boundaries of tunneling technology",
+        "created_at": "Fri Feb 20 00:13:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024531529485922306",
+            "url": "https://pbs.twimg.com/media/HBiUsxuWMAIELTo.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 146023,
+          "friends_count": 1591,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 99,
+          "favorite_count": 526,
+          "reply_count": 82,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 99,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024727442427171118",
+      "text": "Restored and colorized by Grok https://t.co/uD5Xsy0Xx4",
+      "created_at": "Fri Feb 20 06:06:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024727439843450880",
+          "url": "https://pbs.twimg.com/media/HBlG4Qra4AAw-xt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 54,
+        "favorite_count": 695,
+        "reply_count": 190,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2024725064168755352",
+      "text": "RT @MarioNawfal: Grok just dropped a massive rankings update and we’re absolutely smoking the competition.\n\nGrok is number 1 in human prefe…",
+      "created_at": "Fri Feb 20 05:57:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024699280506626375",
+        "text": "Grok just dropped a massive rankings update and we’re absolutely smoking the competition.\n\nGrok is number 1 in human preference, real world trading, trivia, agentic coding, emotional intelligence, factual reliability, and best value. \n\nThe other AIs are getting cooked.\n\nSource: @teslaownersSV",
+        "created_at": "Fri Feb 20 04:15:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024646685670969345",
+            "url": "https://pbs.twimg.com/media/HBj9bv8XEAEmXFz.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2024385208838210012",
+          "text": "@MALIXIUS13 @XFreeze @grok Ask Grok is not yet on the 4.20 version. Should happen within a day or two.",
+          "created_at": "Thu Feb 19 07:26:59 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234904129,
+            "friends_count": 1290,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 52,
+            "favorite_count": 447,
+            "reply_count": 97,
+            "quote_count": 10
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3032453,
+          "friends_count": 50405,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 120,
+          "favorite_count": 576,
+          "reply_count": 165,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 120,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024724939572728114",
+      "text": "Our ancestral land of Britain must not fall",
+      "created_at": "Fri Feb 20 05:56:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024622745707815295",
+        "text": "My English grandparents on my mother’s side immigrated to Canada. I met them a few times in Montreal.\nBelow is a photo of my parents when they visited our English family in the 50s. \nI still have relatives in England. I’m sure they now see hope in Great Britain with @RupertLowe10 @RestoreBritain_ and feel proud to be distantly related to @elonmusk 🇬🇧",
+        "created_at": "Thu Feb 19 23:10:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024622742763454464",
+            "url": "https://pbs.twimg.com/media/HBjnqFqXwAAz22t.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14171401",
+          "name": "Maye Musk",
+          "screen_name": "mayemusk",
+          "description": "Author: A Woman Makes A Plan, now in 34 languages & 100+ countries 📖 Doctor of Dietetics 👩‍🎓 Supermodel 😉💃 ItsGreatToBe77 info@mayemusk.com",
+          "followers_count": 1488416,
+          "friends_count": 198,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 709,
+          "favorite_count": 4623,
+          "reply_count": 409,
+          "quote_count": 19
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 865,
+        "favorite_count": 7778,
+        "reply_count": 918,
+        "quote_count": 46
+      }
+    },
+    {
+      "id": "2024723187251236967",
+      "text": "https://t.co/MIa8dhmLMl",
+      "created_at": "Fri Feb 20 05:50:00 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024723184147374080",
+          "url": "https://pbs.twimg.com/media/HBlDAi-aIAAP7Kr.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234904129,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1187,
+        "favorite_count": 16981,
+        "reply_count": 2765,
+        "quote_count": 238
+      }
+    },
+    {
+      "id": "2024722810480873804",
+      "text": "帮问：有没有类似于pi-mono、claude-agent-sdk的python的agent框架？",
+      "created_at": "Fri Feb 20 05:48:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024715742432940284",
+        "text": "@dotey baoyu 老师有没有 类似 pi 的 python 框架",
+        "created_at": "Fri Feb 20 05:20:25 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4817781643",
+          "name": "INIT",
+          "screen_name": "liudaziz",
+          "description": "",
+          "followers_count": 0,
+          "friends_count": 111,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183631,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 11,
+        "reply_count": 8,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2024722544926814265",
+      "text": "转发：对话宇树科技：王兴兴独家揭秘春晚机器人\n来自微博科技官方栏目《科技漫谈》\n\n蛇年春晚《秧BOT》炸场后，@宇树科技 与整个机器人赛道一同站上风口。涌入者众，半年前尚属稀缺的技术能力，正迅速成为行业标配。\n\n竞争加剧，宇树焦虑吗？王兴兴的答案是：最大的对手，从来都是我们自己。\n\n本期#科技漫谈# ，联合出品人@卫诗婕SJ_Jelyne 在今年春晚幕后，对话 @宇树科技 创始人、CEO @宇树王兴兴，拆解马年春晚宇树机器人的技术密码。\n\n📌【本期看点】\n02:50 现在机器人的技术阶段，是不是就像一个十岁的孩子？\n10:07 当第一名的滋味如何？\n19:01 空翻、高空落地、剧烈动作——对硬件的考验远超想象\n25:43 功夫动作太激烈，机器人也会\"高血压\"\n35:47 VLA、世界模型——如何看待具身大模型的技术路线？\n42:21 具身智能什么时候能真正“好用”——一个具体的判断标准\n\n来源：https://t.co/B9d6flbhau",
+      "created_at": "Fri Feb 20 05:47:26 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2024721953089585152",
+          "url": "https://video.twimg.com/amplify_video/2024721953089585152/vid/avc1/852x480/rsUXl3aZ8yWyMlfJ.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183631,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2024654176505000106",
       "text": "Claude Agent SDK 做原型开发特别好，简单方便，正式上建议用 pi-mono 或者类似的轻量级框架",
