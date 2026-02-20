@@ -1,12 +1,614 @@
 {
   "date": "20260220",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-20T18:14:35.615217",
-  "tweet_count": 260,
-  "unique_tweet_count": 260,
-  "total_crawled": 454,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-02-20T20:07:54.255016",
+  "tweet_count": 271,
+  "unique_tweet_count": 271,
+  "total_crawled": 460,
+  "duplicates_removed": 189,
   "tweets": [
+    {
+      "id": "2024928562789404695",
+      "text": "RT @farzyness: Still blows my mind that I press a button in my Tesla and it drives itself anywhere in the US.",
+      "created_at": "Fri Feb 20 19:26:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024851811606106477",
+        "text": "Still blows my mind that I press a button in my Tesla and it drives itself anywhere in the US.",
+        "created_at": "Fri Feb 20 14:21:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17862108",
+          "name": "Farzad 🇮🇷",
+          "screen_name": "farzyness",
+          "description": "Abundance or Collapse: https://t.co/IZNjdFyEGK",
+          "followers_count": 370343,
+          "friends_count": 1672,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 170,
+          "favorite_count": 1833,
+          "reply_count": 274,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234950071,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 170,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024928333604262060",
+      "text": "RT @DimaZeniuk: The size of Starship. Huge 🤯 https://t.co/SILSdgVASs",
+      "created_at": "Fri Feb 20 19:25:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1736925119765946368",
+          "url": "https://video.twimg.com/amplify_video/1736925119765946368/vid/avc1/720x1280/D9VD_E5O_zlg2QRg.mp4?tag=14",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2024890449287119082",
+        "text": "The size of Starship. Huge 🤯 https://t.co/SILSdgVASs",
+        "created_at": "Fri Feb 20 16:54:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1736925119765946368",
+            "url": "https://video.twimg.com/amplify_video/1736925119765946368/vid/avc1/720x1280/D9VD_E5O_zlg2QRg.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1198495865301864448",
+          "name": "Dima Zeniuk",
+          "screen_name": "DimaZeniuk",
+          "description": "Tesla | SpaceX | Starlink | X |\nFree speech\n\nInspired by innovation | Future | Neuralink",
+          "followers_count": 119499,
+          "friends_count": 631,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 356,
+          "favorite_count": 2523,
+          "reply_count": 278,
+          "quote_count": 21
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234950071,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 356,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024928266331857261",
+      "text": "🛰️",
+      "created_at": "Fri Feb 20 19:24:54 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024884203738071540",
+        "text": "people keep asking what the future looks like and it's a cybertruck towing an airstream with a starlink dish on top parked somewhere with no cell service https://t.co/l7iuDewi0Z",
+        "created_at": "Fri Feb 20 16:29:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024883548529070080",
+            "url": "https://pbs.twimg.com/media/HBnU2-2bkAArs3Z.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C · asm · AI art via grok imagine · @tetsuocorp · @7etsuo",
+          "followers_count": 225209,
+          "friends_count": 861,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 67,
+          "favorite_count": 713,
+          "reply_count": 174,
+          "quote_count": 16
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234950071,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1231,
+        "favorite_count": 15051,
+        "reply_count": 1537,
+        "quote_count": 61
+      }
+    },
+    {
+      "id": "2024928031685689674",
+      "text": "RT @JohnLeFevre: Why are zero women in the top 10 chess players ever?\n\nWhy are ~95% of inventors, founders, and Nobel Prize winners men?\n\nW…",
+      "created_at": "Fri Feb 20 19:23:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024866872064094492",
+        "text": "Why are zero women in the top 10 chess players ever?\n\nWhy are ~95% of inventors, founders, and Nobel Prize winners men?\n\nWhy are ~90% of prisoners and ~75% of homeless men?\n\nSame reason:  men have greater variability in everything - IQ, aggression, risk appetite, ambition, trust, occupational interest, etc.\n\nChart: @DavidMaywald",
+        "created_at": "Fri Feb 20 15:20:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024864217271083008",
+            "url": "https://pbs.twimg.com/media/HBnDRwTXoAAFibH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "27434900",
+          "name": "John LeFevre",
+          "screen_name": "JohnLeFevre",
+          "description": "Signed contracts with Goldman Sachs and Simon & Schuster, and paid lawyers more than I made. NYT bestselling author of STRAIGHT TO HELL",
+          "followers_count": 194798,
+          "friends_count": 263,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 530,
+          "favorite_count": 3610,
+          "reply_count": 337,
+          "quote_count": 38
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234950071,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 530,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024927640235507991",
+      "text": "RT @XFreeze: 𝕏 Algorithm doesn't make people conservative\nIt de-programmed them and makes them resistant to propaganda\n\nWhen you stop filte…",
+      "created_at": "Fri Feb 20 19:22:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024880099116413399",
+        "text": "𝕏 Algorithm doesn't make people conservative\nIt de-programmed them and makes them resistant to propaganda\n\nWhen you stop filtering reality through legacy media and start reading primary sources - receipts, raw footage, actual data - your worldview shifts\n\nI call that people waking up",
+        "created_at": "Fri Feb 20 16:13:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024879147504300032",
+            "url": "https://pbs.twimg.com/media/HBnQ2zwW8AA0YKL.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 146558,
+          "friends_count": 1592,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 318,
+          "favorite_count": 1603,
+          "reply_count": 227,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234950071,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 318,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024927551760859293",
+      "text": "⚙️🦾🚘🚀🛰️",
+      "created_at": "Fri Feb 20 19:22:04 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024910583875965144",
+        "text": "NVIDIA CEO, Jensen Huang on Elon Musk:\n\n\"Elon is just an extraordinary engineer, and I love working with him. We've built some amazing computers together. We're going to build many more computers together and and the work that he's doing in in Grok, his self driving car, Optimus, these are all every single one of them world class, every single one of them revolutionary, every single one of them are going to be gigantic opportunities and I'm delighted to be working with him on that.\"",
+        "created_at": "Fri Feb 20 18:14:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024910322960924672",
+            "url": "https://video.twimg.com/amplify_video/2024910322960924672/vid/avc1/1608x1080/mcW1LwajgYUp2D7T.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1837978,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 303,
+          "favorite_count": 2332,
+          "reply_count": 248,
+          "quote_count": 18
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234950071,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1252,
+        "favorite_count": 11634,
+        "reply_count": 1039,
+        "quote_count": 33
+      }
+    },
+    {
+      "id": "2024927153838850078",
+      "text": "RT @aaronburnett: There really is no better place than X to share and debate deeply technical analysis. Particularly on emerging topics lik…",
+      "created_at": "Fri Feb 20 19:20:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024862893846511785",
+        "text": "There really is no better place than X to share and debate deeply technical analysis. Particularly on emerging topics like Orbital data centers.\n\nX | xAI team have put a lot of effort into making sure these niche interest conversations make it to the right audience. \n\nThe trending topic below is clearly only trending for microcosm of the total X audience. This was not a thing just 12 months ago.\n\nThe integration of Grok into X is adding value and encouraging more and better discourse. This will pay dividends for xAI that may not be obvious for a few years, but it will. \n\nGrok does a good job of presenting a balanced narrative, as it should. \n\nTrending link: https://t.co/prTyEAkkFW",
+        "created_at": "Fri Feb 20 15:05:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024862888238731264",
+            "url": "https://pbs.twimg.com/media/HBnCEZRXUAAw6gx.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "331865640",
+          "name": "Aaron Burnett",
+          "screen_name": "aaronburnett",
+          "description": "Founder, CEO @ Mach33 | Research and Investment in Space & Expansion Technologies",
+          "followers_count": 17236,
+          "friends_count": 542,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 130,
+          "favorite_count": 677,
+          "reply_count": 102,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234950071,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 130,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024919816038154243",
+      "text": "Grok",
+      "created_at": "Fri Feb 20 18:51:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024815771205939524",
+        "text": "Wtf, Grok 4.20 is extremely high effort. \n\nHere's an example:\n\nOne thing I love about Gemini is that if it recognizes concepts or terms, it will name them. \"Hey it sounds like you're talking about Baumol's Cost Disease\" without any tinkering with the system prompt. \n\nClaude and ChatGPT are conceited about this kinda thing. You basically have to BEG Claude not to treat you like a toddler or use a bunch of style guides. ChatGPT is the same. \n\nGrok is just like \"oh yeah, here's the named concept, I went ahead and looked up the math, and did a bunch of number crunching, and here's the conclusion\"\n\nGrok 4.20 default feels a lot like using ChatGPT Pro. \n\nNo, they didn't pay me to say this. I still have my criticisms of Grok, but holy shit, this is what UX is supposed to be like. \n\nxAI fuckin cooked.",
+        "created_at": "Fri Feb 20 11:57:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1795781228399869952",
+          "name": "David Shapiro (L/0)",
+          "screen_name": "DaveShapi",
+          "description": "Liberate humanity from drudgery.",
+          "followers_count": 55148,
+          "friends_count": 976,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 79,
+          "favorite_count": 1645,
+          "reply_count": 176,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234950071,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 554,
+        "favorite_count": 4776,
+        "reply_count": 1168,
+        "quote_count": 34
+      }
+    },
+    {
+      "id": "2024917590255280236",
+      "text": "RT @iam_smx: Elon Musk’s Starlink is banned in South Africa, not for technical reasons, but simply because Elon isn’t Black. Absolutely dis…",
+      "created_at": "Fri Feb 20 18:42:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024825394218647988",
+        "text": "Elon Musk’s Starlink is banned in South Africa, not for technical reasons, but simply because Elon isn’t Black. Absolutely disgraceful\n\n\"If I were Black, Starlink would have received a license to operate years ago\"\n\n-Elon Musk https://t.co/wMDCtB0Onf",
+        "created_at": "Fri Feb 20 12:36:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024824702095556608",
+            "url": "https://pbs.twimg.com/media/HBmfVqzXgAAKl-N.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1614879930885574656",
+          "name": "SMX 🇺🇸",
+          "screen_name": "iam_smx",
+          "description": "Innovation, Technology, Rockets & Tesla ignite my passion. Sharing updates & info 24/7. Breaking World News! Motivation, Fun & Amazing AI Videos Guaranteed.",
+          "followers_count": 164938,
+          "friends_count": 638,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 506,
+          "favorite_count": 2289,
+          "reply_count": 585,
+          "quote_count": 58
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234950071,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 506,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024917523125379164",
+      "text": "Tesla",
+      "created_at": "Fri Feb 20 18:42:13 +0000 2026",
+      "lang": "tr",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024895574332285251",
+        "text": "🇺🇸 Tesla just smoked everyone in JD Power’s 2026 EV Owner Satisfaction survey.\n\nModel 3 took number 1 with an 804 score, Model Y grabbed #2 at 797. \n\nThey crushed the BMWs and left the rest in the dust. \n\nSuperchargers are also pushing public charging satisfaction to all-time highs. \n\nTesla’s winning.\n\nSource: @Teslarati",
+        "created_at": "Fri Feb 20 17:15:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024790522737328128",
+            "url": "https://pbs.twimg.com/media/HBmAQKxWAAA2yqs.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3035255,
+          "friends_count": 50404,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 174,
+          "favorite_count": 1255,
+          "reply_count": 159,
+          "quote_count": 23
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234950071,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1376,
+        "favorite_count": 11922,
+        "reply_count": 1169,
+        "quote_count": 54
+      }
+    },
+    {
+      "id": "2024917454301065480",
+      "text": "People live in different worlds",
+      "created_at": "Fri Feb 20 18:41:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024898302035067174",
+        "text": "Your information diet determines your reality https://t.co/KkFo7uPKoC",
+        "created_at": "Fri Feb 20 17:25:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024824416723488768",
+            "url": "https://pbs.twimg.com/media/HBmfFDtXUAA5Ke_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 146558,
+          "friends_count": 1592,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 267,
+          "favorite_count": 1622,
+          "reply_count": 282,
+          "quote_count": 66
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234950071,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4528,
+        "favorite_count": 52990,
+        "reply_count": 3468,
+        "quote_count": 298
+      }
+    },
     {
       "id": "2024901039934373909",
       "text": "RT @usedgov: Nope. https://t.co/9EMnrIHDqm",
