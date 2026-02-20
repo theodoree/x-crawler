@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234930559,
+    "followers_count": 234928977,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260220",
-  "last_updated": "2026-02-20T14:17:40.407860",
-  "tweet_count": 50,
+  "last_updated": "2026-02-20T16:15:52.077582",
+  "tweet_count": 51,
   "tweets": [
     {
       "id": "2024723187251236967",
@@ -2272,6 +2272,76 @@
       "quoted": null,
       "stats": {
         "retweet_count": 195,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024853632437661978",
+      "text": "RT @jawwwn_: .@elonmusk explains @grok’s mission: “Understand the Universe”\n\n“Understanding the universe means you have to be truth-seeking…",
+      "created_at": "Fri Feb 20 14:28:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024834198838694252",
+        "text": ".@elonmusk explains @grok’s mission: “Understand the Universe”\n\n“Understanding the universe means you have to be truth-seeking.”\n\n“Truth has to be absolutely fundamental. You can’t understand the universe if you’re delusional.” https://t.co/QdYmJmgVEz",
+        "created_at": "Fri Feb 20 13:11:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024834144208142336",
+            "url": "https://video.twimg.com/amplify_video/2024834144208142336/vid/avc1/1206x670/Z7bw1qykFb0guolR.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2024794566482858164",
+          "text": "Understand the Universe",
+          "created_at": "Fri Feb 20 10:33:38 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234928977,
+            "friends_count": 1289,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 9012,
+            "favorite_count": 92244,
+            "reply_count": 10632,
+            "quote_count": 1536
+          }
+        },
+        "user": {
+          "id": "615786753",
+          "name": "Jawwwn",
+          "screen_name": "jawwwn_",
+          "description": "posting into the void 📺🫡••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••",
+          "followers_count": 18355,
+          "friends_count": 1340,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 389,
+          "favorite_count": 2069,
+          "reply_count": 370,
+          "quote_count": 32
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 389,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
