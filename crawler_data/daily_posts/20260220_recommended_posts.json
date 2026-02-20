@@ -1,12 +1,352 @@
 {
   "date": "20260220",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-20T12:12:15.343721",
-  "tweet_count": 247,
-  "unique_tweet_count": 247,
-  "total_crawled": 423,
-  "duplicates_removed": 176,
+  "last_crawl_time": "2026-02-20T14:17:40.376055",
+  "tweet_count": 253,
+  "unique_tweet_count": 253,
+  "total_crawled": 447,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2024848719183761439",
+      "text": "RT @Rothmus: https://t.co/I7C5lzLmOg",
+      "created_at": "Fri Feb 20 14:08:49 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024636951060762624",
+          "url": "https://pbs.twimg.com/media/HBj0lHsbUAAHsSD.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2024636978210492532",
+        "text": "https://t.co/I7C5lzLmOg",
+        "created_at": "Fri Feb 20 00:07:26 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024636951060762624",
+            "url": "https://pbs.twimg.com/media/HBj0lHsbUAAHsSD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 645500,
+          "friends_count": 2753,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 195,
+          "favorite_count": 1324,
+          "reply_count": 116,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234930559,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 195,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024841961342116182",
+      "text": "RT @wonderofscience: A peaceful moment in the snow with the largest trees in the world, the giant sequoia (Sequoiadendron giganteum), captu…",
+      "created_at": "Fri Feb 20 13:41:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024840209305674161",
+        "text": "A peaceful moment in the snow with the largest trees in the world, the giant sequoia (Sequoiadendron giganteum), captured by photographer Michael Block.\nhttps://t.co/a1tIQtu9tX",
+        "created_at": "Fri Feb 20 13:35:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1292422550090375171",
+            "url": "https://video.twimg.com/ext_tw_video/1292422550090375171/pu/vid/640x800/3BZScjF2OFpgJFy2.mp4?tag=10",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3101588527",
+          "name": "Wonder of Science",
+          "screen_name": "wonderofscience",
+          "description": "\"The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.\" - Albert Einstein",
+          "followers_count": 2494937,
+          "friends_count": 42,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 293,
+          "favorite_count": 2023,
+          "reply_count": 300,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234930559,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 293,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024841806131949782",
+      "text": "RT @damonimani: Oh no! Elon Musk's X is brainwashing users into conservatives! https://t.co/0pc0EoRjap",
+      "created_at": "Fri Feb 20 13:41:20 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2024580640918609920",
+          "url": "https://video.twimg.com/amplify_video/2024580640918609920/vid/avc1/3840x1920/t3t7VLwFSKVccO8e.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2024585157114556451",
+        "text": "Oh no! Elon Musk's X is brainwashing users into conservatives! https://t.co/0pc0EoRjap",
+        "created_at": "Thu Feb 19 20:41:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024580640918609920",
+            "url": "https://video.twimg.com/amplify_video/2024580640918609920/vid/avc1/3840x1920/t3t7VLwFSKVccO8e.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1056025650597974017",
+          "name": "Damon Imani",
+          "screen_name": "damonimani",
+          "description": "",
+          "followers_count": 368212,
+          "friends_count": 210,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 402,
+          "favorite_count": 2038,
+          "reply_count": 202,
+          "quote_count": 27
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234930559,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 402,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024841249136722014",
+      "text": "RT @WhiteHouse: PASS THE SAVE AMERICA ACT!",
+      "created_at": "Fri Feb 20 13:39:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024600613347012916",
+        "text": "PASS THE SAVE AMERICA ACT!",
+        "created_at": "Thu Feb 19 21:42:56 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1879644163769335808",
+          "name": "The White House",
+          "screen_name": "WhiteHouse",
+          "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+          "followers_count": 3778692,
+          "friends_count": 6,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7793,
+          "favorite_count": 48326,
+          "reply_count": 2040,
+          "quote_count": 334
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234930559,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7793,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024838973923930537",
+      "text": "Still no approval",
+      "created_at": "Fri Feb 20 13:30:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024823321502871687",
+        "text": "Starlink has committed to a R500 million investment to connect 5,000 rural schools with free, high-speed internet, benefiting more than 2.4 million learners each year.\n\nBut it is still on hold.\n\nWhy? Because South African regulations require 30% local Black ownership for telecom licenses.\n\nSouth African farmers and rural communities are asking the government to approve Starlink. In many remote areas, there is no internet access at all, and people have to drive several kilometers just to get basic connectivity.\n\nThe South African government is the enemy of its own people.",
+        "created_at": "Fri Feb 20 12:27:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024823254754758656",
+            "url": "https://video.twimg.com/amplify_video/2024823254754758656/vid/avc1/720x720/R5pesP1TLUH44AaY.mp4?tag=21",
+            "bitrate": 1280000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1837454,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 441,
+          "favorite_count": 2701,
+          "reply_count": 611,
+          "quote_count": 73
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234930559,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1666,
+        "favorite_count": 11886,
+        "reply_count": 2343,
+        "quote_count": 149
+      }
+    },
+    {
+      "id": "2024820007176433863",
+      "text": "RT @BLKMDL3: In 2023, at the Cybertruck Delivery Event, Tesla said that they would launch a RWD Cybertruck with a 250 mile range for $61k…",
+      "created_at": "Fri Feb 20 12:14:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024699367744295016",
+        "text": "In 2023, at the Cybertruck Delivery Event, Tesla said that they would launch a RWD Cybertruck with a 250 mile range for $61k\n\nToday, they launched an AWD Cybertruck for $60k with 325 miles of range, 4.1s 0-60, outlets and tonneau for even less than they said the RWD would be. \n\nCheaper, more range, AWD, and quicker. Count inflation and the current new AWD price near matches the ones shown in 2019 too.",
+        "created_at": "Fri Feb 20 04:15:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024699363541602305",
+            "url": "https://pbs.twimg.com/media/HBktWATbUAEMBER.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "988975103785365504",
+          "name": "Zack",
+          "screen_name": "BLKMDL3",
+          "description": "https://t.co/lXlPjj9BvO",
+          "followers_count": 88047,
+          "friends_count": 2317,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 264,
+          "favorite_count": 1851,
+          "reply_count": 202,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234930559,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 264,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2024819025298235611",
       "text": "Yes",
