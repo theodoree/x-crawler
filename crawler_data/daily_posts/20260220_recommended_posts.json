@@ -1,12 +1,1295 @@
 {
   "date": "20260220",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-20T10:13:45.192668",
-  "tweet_count": 223,
-  "unique_tweet_count": 223,
+  "last_crawl_time": "2026-02-20T12:12:15.343721",
+  "tweet_count": 247,
+  "unique_tweet_count": 247,
   "total_crawled": 423,
-  "duplicates_removed": 200,
+  "duplicates_removed": 176,
   "tweets": [
+    {
+      "id": "2024819025298235611",
+      "text": "Yes",
+      "created_at": "Fri Feb 20 12:10:49 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024663743079014404",
+        "text": "The $50k dual-motor AWD 300-mile Cybertruck trim unveiled in 2019 is equivalent to $63k today with inflation, so this new $60k 325-mile dual-motor AWD trim is a good value.\n\nIt delivers on what people want: good range, fair pricing, bed outlets, a motorized tonneau cover, solid towing, 325kW charging, etc.",
+        "created_at": "Fri Feb 20 01:53:47 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1041180,
+          "friends_count": 431,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 98,
+          "favorite_count": 1249,
+          "reply_count": 107,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 68,
+        "reply_count": 31,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2024817476509540395",
+      "text": "RT @PeterMcCormack: 2023 you're a bigot\n2024 you're a racist\n2025 you're a fascist\n2026 you're neo-nazi\n2027 you're literally Hitler\n\nBro,…",
+      "created_at": "Fri Feb 20 12:04:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024804275600163148",
+        "text": "2023 you're a bigot\n2024 you're a racist\n2025 you're a fascist\n2026 you're neo-nazi\n2027 you're literally Hitler\n\nBro, I just want to stop giving welfare to freeloaders.",
+        "created_at": "Fri Feb 20 11:12:13 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "893818632089763840",
+          "name": "Peter McCormack 🏴‍☠️🇬🇧🇮🇪",
+          "screen_name": "PeterMcCormack",
+          "description": "Host of The Peter McCormack Show, Chairman of @realbedford, retired rapper, grifter, budget Ryan Reynolds.",
+          "followers_count": 603842,
+          "friends_count": 4196,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 239,
+          "favorite_count": 1877,
+          "reply_count": 122,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 239,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024817277129134444",
+      "text": "Yes",
+      "created_at": "Fri Feb 20 12:03:52 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024816262170419535",
+        "text": "https://t.co/aZ54UusQX9",
+        "created_at": "Fri Feb 20 11:59:50 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024816253643460609",
+            "url": "https://pbs.twimg.com/media/HBmXp53bEAE-hAR.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1837094,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 31,
+          "favorite_count": 167,
+          "reply_count": 84,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 239,
+        "favorite_count": 1797,
+        "reply_count": 532,
+        "quote_count": 16
+      }
+    },
+    {
+      "id": "2024817036241871001",
+      "text": "Only for the next 10 days",
+      "created_at": "Fri Feb 20 12:02:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024659497281867897",
+        "text": "All Wheel Drive Cybertruck now starting at $59,990!",
+        "created_at": "Fri Feb 20 01:36:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "619309584",
+          "name": "Wes",
+          "screen_name": "wmorrill3",
+          "description": "Biking, Running, Hiking, Climbing - Always adventuring. \n\nCybertruck Lead Engineer +\nReliability, Test, and Analysis for all Tesla vehicles.",
+          "followers_count": 31889,
+          "friends_count": 231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 103,
+          "favorite_count": 2077,
+          "reply_count": 180,
+          "quote_count": 16
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 142,
+        "favorite_count": 1129,
+        "reply_count": 457,
+        "quote_count": 23
+      }
+    },
+    {
+      "id": "2024816922395893860",
+      "text": "RT @cybertruck: New version of Cybertruck now available to order in the US\n\nThis is our most affordable Cybertruck yet.\n\nTough as nails wit…",
+      "created_at": "Fri Feb 20 12:02:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024658620659749322",
+        "text": "New version of Cybertruck now available to order in the US\n\nThis is our most affordable Cybertruck yet.\n\nTough as nails with ultra-low cost of ownership\n\n– Starts at $59,990\n– Dual Motor AWD w/ est. 325 mi of range\n– Powered tonneau cover\n– Bed outlets (2x 120V + 1x 240V) & Powershare capability\n– Coil springs w/ adaptive damping\n– Heated first-row seats w/ textile material that is easy to clean\n\nAlso\n– Steer-by-wire & Four Wheel Steering\n– 6’ x 4’ composite bed\n– Towing capacity of up to 7,500 lbs\n– Powered frunk\n\nOrder via https://t.co/b3WNPzYJYj",
+        "created_at": "Fri Feb 20 01:33:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024658515923718144",
+            "url": "https://pbs.twimg.com/media/HBkIMXEaUAAr-Kt.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1686044379910131718",
+          "name": "Cybertruck",
+          "screen_name": "cybertruck",
+          "description": "📐",
+          "followers_count": 235074,
+          "friends_count": 11,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 885,
+          "favorite_count": 6908,
+          "reply_count": 729,
+          "quote_count": 363
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 885,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024816561811546264",
+      "text": "It only gets better from here",
+      "created_at": "Fri Feb 20 12:01:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024747187889197468",
+        "text": "I do not drive anymore. \nTesla Self-Driving does over 99% of my driving, and the only disengaging I do is for small nav issues and parking preferences (which I assume will get resolved in 14.3). \nHow is the world not freaking out about FSD? I cannot believe how good it has gotten, yet I still don’t hear anyone outside of “our bubble” talking about it.",
+        "created_at": "Fri Feb 20 07:25:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024747185309704192",
+            "url": "https://pbs.twimg.com/media/HBlY1mRbYAAJ96K.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1780293318724943874",
+          "name": "Devin Olsen",
+          "screen_name": "DevinOlsenn",
+          "description": "FSD Content Creator/Videographer | Trying my best to be an unbiased Tesla Fan",
+          "followers_count": 10244,
+          "friends_count": 611,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 28,
+          "favorite_count": 328,
+          "reply_count": 70,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 172,
+        "favorite_count": 1313,
+        "reply_count": 446,
+        "quote_count": 14
+      }
+    },
+    {
+      "id": "2024815342342824225",
+      "text": "🔥🔥",
+      "created_at": "Fri Feb 20 11:56:11 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1838390029523259719",
+        "text": "My political preferences are whatever leads to this https://t.co/wIEUNMdL49",
+        "created_at": "Tue Sep 24 01:28:33 +0000 2024",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1838389118109388804",
+            "url": "https://pbs.twimg.com/media/GYNFKafakAQkRkU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "855305941",
+          "name": "Andrew Côté",
+          "screen_name": "Andercot",
+          "description": "engineering physicist. writes about deep tech, energy, physics, sci-fi and whatever. founder @hyperstition_x, organizes @deeptechweek",
+          "followers_count": 124240,
+          "friends_count": 1596,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3739,
+          "favorite_count": 53034,
+          "reply_count": 983,
+          "quote_count": 286
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 482,
+        "favorite_count": 5582,
+        "reply_count": 776,
+        "quote_count": 29
+      }
+    },
+    {
+      "id": "2024814202247168356",
+      "text": "Yes",
+      "created_at": "Fri Feb 20 11:51:39 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024799135426138514",
+        "text": "Grok is the perfect name for an AI that seeks truth, beauty, and is curious",
+        "created_at": "Fri Feb 20 10:51:47 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1233929232432205827",
+          "name": "Gail Alfar",
+          "screen_name": "gailalfaratx",
+          "description": "writer for https://t.co/fCgvfVk0es ✿ kardashev cutie and tesla fsd podcaster ✿ mom of 5 kids ✿ supporter of elon musk and a future of amazing abundance",
+          "followers_count": 139811,
+          "friends_count": 592,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 79,
+          "reply_count": 36,
+          "quote_count": 5
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 191,
+        "favorite_count": 1895,
+        "reply_count": 709,
+        "quote_count": 19
+      }
+    },
+    {
+      "id": "2024813064907071935",
+      "text": "RT @MCAmselem: I did a lot of moaning and groaning about my husband getting a cyber truck but the self-driving feature is completely life c…",
+      "created_at": "Fri Feb 20 11:47:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024663437914054905",
+        "text": "I did a lot of moaning and groaning about my husband getting a cyber truck but the self-driving feature is completely life changing. Call me a convert. I’ve never felt so safe in a car. Putting my kids in any other car feels reckless by comparison",
+        "created_at": "Fri Feb 20 01:52:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2024539159269167410",
+          "text": "🚨 My Tesla literally saved my life yesterday. What started as a normal drive turned terrifying fast.\n\nI unintentionally fasted for 17 hours, took some medicine, and had a severe allergic reaction. My body shut down—I passed out while driving on the freeway, mid-conversation with my wife on the phone.\n\nThank God my Tesla had Full Self-Driving engaged. It detected I lost consciousness (thanks to the driver monitoring system), immediately slowed, activated hazards, and safely pulled over to the shoulder. No crash. No danger to anyone else on the road.\n\nMy wife heard me go silent and knew something was wrong. She used @Life360 to alert emergency services—they located me within 5 minutes.\n\nThey attended to me enough for me to tell them, 'I don't want to abandon my truck here on the freeway.' So the Tesla autonomously drove me the rest of the way to the ER. I walked in, got admitted, and they stabilized me overnight.\n\nI'm being discharged today—levels back to normal, feeling grateful and alive.\n\nHuge thanks to my incredible wife for staying calm and acting fast, and to @elonmusk @Tesla @tesla for engineering cars that literally protect lives when the driver can't. This isn't just convenience—it's life-saving tech. 🙏⚡❤️",
+          "created_at": "Thu Feb 19 17:38:44 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2024539096228777988",
+              "url": "https://video.twimg.com/amplify_video/2024539096228777988/vid/avc1/640x416/aobXjMsKKC32hiFF.mp4?tag=21",
+              "bitrate": 832000
+            },
+            {
+              "type": "photo",
+              "id": "2024539096212000770",
+              "url": "https://pbs.twimg.com/media/HBiblN-bUAI5MOP.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "18790478",
+            "name": "RV",
+            "screen_name": "rishivohra",
+            "description": "Elon Musk is the greatest gift to humanity, long term $TSLA shareholder and huge Lakers fan",
+            "followers_count": 1797,
+            "friends_count": 1256,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 6264,
+            "favorite_count": 58754,
+            "reply_count": 2346,
+            "quote_count": 712
+          }
+        },
+        "user": {
+          "id": "382820810",
+          "name": "Mary Clare Amselem",
+          "screen_name": "MCAmselem",
+          "description": "Former education policy at @heritage, Catholic, stay-at-home mom of 3",
+          "followers_count": 14410,
+          "friends_count": 833,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 121,
+          "favorite_count": 1047,
+          "reply_count": 97,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 121,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024812755891728604",
+      "text": "RT @AustinJustice: AUSTIN MAN pulled up to a 7-Eleven at 3 a.m., shot a father of five dead in the parking lot, and drove off.  \n\nCaleb Jen…",
+      "created_at": "Fri Feb 20 11:45:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024708486102192487",
+        "text": "AUSTIN MAN pulled up to a 7-Eleven at 3 a.m., shot a father of five dead in the parking lot, and drove off.  \n\nCaleb Jenkins now faces murder charges. But prosecutors had chances to stop him.\n\nNovember 2023: Jenkins, a convicted felon, was caught with a firearm. DA José Garza's office declined to prosecute. No charges filed.\n\nThat same month: arrested for assault causing bodily injury/family violence. He skipped court. Bond was forfeited. Warrant issued. Re-arrested. Bond increased again. That case is still pending, two-plus years later.\n\nAugust 2024: caught with over four ounces of marijuana. DA declined again. No charges filed.\n\nOctober 2025: Quinton Arnold is dead in a 7-Eleven parking lot.\n\nJenkins' record since 2012:\n• 3 gun charges — 2 days jail total\n• Felon caught with firearm — DA passed\n• 2 family violence assaults — dismissed or deferred\n• Protective order violation — dismissed\n• Multiple marijuana charges — dismissed or declined\n• Skipped court repeatedly across multiple cases\n\nA felon with a gun. Prosecutors said pass. Now there's a dead body.",
+        "created_at": "Fri Feb 20 04:51:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024706354384932864",
+            "url": "https://pbs.twimg.com/media/HBkzs7OXEAAkvQj.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2024706673781211136",
+            "url": "https://pbs.twimg.com/media/HBkz_hEXgAArDw5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1870688634594312192",
+          "name": "Austin Justice",
+          "screen_name": "AustinJustice",
+          "description": "Tracking Austin’s rogue criminals, prosecutors, and politicians. DMs open.",
+          "followers_count": 11399,
+          "friends_count": 794,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 734,
+          "favorite_count": 2095,
+          "reply_count": 215,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 733,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024812016838537579",
+      "text": "RT @chiproytx: Nearly one Houstonian EVERY 10 DAYS is murdered by a repeat felon released back onto the streets.\n\nThat is unacceptable in T…",
+      "created_at": "Fri Feb 20 11:42:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024583163356274901",
+        "text": "Nearly one Houstonian EVERY 10 DAYS is murdered by a repeat felon released back onto the streets.\n\nThat is unacceptable in Texas.\n\nWe must use and expand every tool available to remove recalcitrant DAs and keep violent criminals off our streets. https://t.co/kIMRdrdOCO",
+        "created_at": "Thu Feb 19 20:33:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024583081416384512",
+            "url": "https://video.twimg.com/amplify_video/2024583081416384512/vid/avc1/1280x720/TN4Vklw6Ivu-6HhK.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1257667158",
+          "name": "Chip Roy",
+          "screen_name": "chiproytx",
+          "description": "Husband, father, cancer survivor, Congressman from the Great State of Texas. Freedom works.  Proven Conservative Candidate for Texas Attorney General.",
+          "followers_count": 508441,
+          "friends_count": 1085,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 393,
+          "favorite_count": 1917,
+          "reply_count": 113,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 393,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024809820671578602",
+      "text": "RT @helixbase: @Polymarket https://t.co/TWXDkqdAez",
+      "created_at": "Fri Feb 20 11:34:15 +0000 2026",
+      "lang": "qme",
+      "media": [
+        {
+          "type": "video",
+          "id": "2024588218969083904",
+          "url": "https://video.twimg.com/amplify_video/2024588218969083904/vid/avc1/1080x1080/uzGqHnNYM0ttyiML.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2024588312850174133",
+        "text": "@Polymarket https://t.co/TWXDkqdAez",
+        "created_at": "Thu Feb 19 20:54:03 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024588218969083904",
+            "url": "https://video.twimg.com/amplify_video/2024588218969083904/vid/avc1/1080x1080/uzGqHnNYM0ttyiML.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "473166315",
+          "name": "helix",
+          "screen_name": "helixbase",
+          "description": "Building",
+          "followers_count": 346,
+          "friends_count": 710,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 189,
+          "favorite_count": 1445,
+          "reply_count": 135,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 189,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024809531973447735",
+      "text": "RT @GlobalAffairs: X Files Appeal Against €120M EU Fine Under Digital Services Act\n\nX filed an appeal at the General Court of the European…",
+      "created_at": "Fri Feb 20 11:33:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024803983093629298",
+        "text": "X Files Appeal Against €120M EU Fine Under Digital Services Act\n\nX filed an appeal at the General Court of the European Union challenging the €120 million fine imposed by the European Commission on 5 December 2025, the first non-compliance fine under the Digital Services Act (DSA).\n\nThis EU Decision resulted from an incomplete and superficial investigation, grave procedural errors, a tortured interpretation of the obligations under the DSA, and systematic breaches of rights of defence and basic due process requirements suggesting prosecutorial bias.\n\nThis landmark case is the first judicial challenge to a DSA fine and could set important precedents for enforcement, penalty calculations, and fundamental rights protections under the 2022 regulation.\nX remains committed to user safety and transparency while defending our users' access to the only global town square.",
+        "created_at": "Fri Feb 20 11:11:03 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "218984871",
+          "name": "Global Government Affairs",
+          "screen_name": "GlobalAffairs",
+          "description": "The voice of X's Global Government Affairs team",
+          "followers_count": 562865,
+          "friends_count": 117,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 195,
+          "favorite_count": 998,
+          "reply_count": 152,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 195,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024808878651932743",
+      "text": "RT @BafanaSurprise: Breaking News:\n\nThe Starlink R500 million plan is still on halt by the South African, even though Elon Musk’s business…",
+      "created_at": "Fri Feb 20 11:30:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024701689828143563",
+        "text": "Breaking News:\n\nThe Starlink R500 million plan is still on halt by the South African, even though Elon Musk’s business isn’t willing to benefit a single a cent. They are keeping Starlink on halt, because they fear that it may be a game changer.\n\nElon Musk is willing help over 5 million learners in rural areas with internet connection, which is something they don’t have. But still the government didn’t approve of this deal. \n\nThe enemy of South Africans is the government we have.",
+        "created_at": "Fri Feb 20 04:24:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024701681997348864",
+            "url": "https://pbs.twimg.com/media/HBkvc9OWgAAj4Vi.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1044708347994419203",
+          "name": "Slaughter.",
+          "screen_name": "BafanaSurprise",
+          "description": "bafanasurprise11@gmail.com",
+          "followers_count": 42868,
+          "friends_count": 10549,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 358,
+          "favorite_count": 1531,
+          "reply_count": 558,
+          "quote_count": 64
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 358,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024806491325415836",
+      "text": "RT @cb_doge: BREAKING: South African farmers and rural communities are asking the government to approve Starlink. In many remote areas, the…",
+      "created_at": "Fri Feb 20 11:21:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024661773392257274",
+        "text": "BREAKING: South African farmers and rural communities are asking the government to approve Starlink. In many remote areas, there is no internet at all.\n\nStarlink is not allowed to operate in South Africa because Elon Musk is not Black. https://t.co/60uamQV7pE",
+        "created_at": "Fri Feb 20 01:45:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024660453390241794",
+            "url": "https://video.twimg.com/amplify_video/2024660453390241794/vid/avc1/1280x720/UUOZDbcWeLz-VdiB.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1837094,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 583,
+          "favorite_count": 2885,
+          "reply_count": 941,
+          "quote_count": 123
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 583,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024803848309932252",
+      "text": "RT @ADFIntl: BREAKING: X legally challenges €120m DSA censorship fine at EU court\n\nThe EU Commission targeted X because it’s a free speech…",
+      "created_at": "Fri Feb 20 11:10:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024793976490868845",
+        "text": "BREAKING: X legally challenges €120m DSA censorship fine at EU court\n\nThe EU Commission targeted X because it’s a free speech platform. This landmark case is about whether the EU can police the global digital public square.\n\nThis is key to stopping EU censorship. https://t.co/evZD5A7560",
+        "created_at": "Fri Feb 20 10:31:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024792754388094976",
+            "url": "https://pbs.twimg.com/media/HBmCSEUWUAAlGQw.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3219783049",
+          "name": "ADF International",
+          "screen_name": "ADFIntl",
+          "description": "The world’s largest legal organization advancing the God-given right to live and speak the truth | Active in 100+ countries for fundamental freedoms",
+          "followers_count": 38740,
+          "friends_count": 1133,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 269,
+          "favorite_count": 1267,
+          "reply_count": 172,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 269,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024799518181700017",
+      "text": "From this goal of Grok, all things flow:\n\nRigorous truth-seeking\n\nAppreciation of beauty\n\nFostering humanity\n\nDiscovering all physics\n\nInventing all useful technologies \n\nConsciousness to the stars\n\nLove",
+      "created_at": "Fri Feb 20 10:53:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 658,
+        "favorite_count": 4686,
+        "reply_count": 1285,
+        "quote_count": 92
+      }
+    },
+    {
+      "id": "2024796971857563858",
+      "text": "Fair and sensible",
+      "created_at": "Fri Feb 20 10:43:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024781049209757977",
+        "text": "Restore Britain is abundantly clear about what we stand for on immigration. THIS is our position. I urge you to read, and share if you agree. \n\nEvery illegal migrant will be deported. No questions asked. The boats will stop. Our 100+ page policy plan is produced and ready to go. It can be done. My position is well understood on this. \n\nLegal migrants will be expected to work, contribute, speak our language and respect our way of life. If they don't do that, they'll be asked to leave.\n\nIf they hate us, and wish to do us harm - they will leave.\n\nWe support net negative immigration. Taking ultra-skilled migrants who will give far more than they take in small and manageable numbers, but shutting off entire visa routes from countries that are proven to supply us with miscreants and takers. The Red List. \n\nThose foreign individuals who are here, who work hard, who contribute to society will absolutely be welcome.\n\nBut we will not allow millions of foreigners, mainly from the third world, to take the piss.\n\nIf a foreign national is unable to support themselves financially, it is not our problem. They should leave. We should not pay for their benefits, their social housing, their NHS care.\n\nAgain - it is not our problem.\n\nThey will go home. Millions will go. \n\nFirm, but fair.\n\nDual nationals who want to blow us up will have their British citizenship stripped, and deported. If they rape young girls, they will have their citizenship stripped, and deported. \n\nThe spouse visa system will be eased, to allow citizens of non-red list countries to join their British partners.\n\nThere are underhand attempts to misrepresent our position. Ignore it. Send them this post. \n\nWe speak for ourselves, and only ourselves. \n\nThis is not controversial. This is certainly not 'neo-nazi' as Reform claim.\n\nThis is the position of the vast majority of the British people, and they finally have a political party representing that view now.\n\nRestore Britain.",
+        "created_at": "Fri Feb 20 09:39:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 657941,
+          "friends_count": 785,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2456,
+          "favorite_count": 12709,
+          "reply_count": 673,
+          "quote_count": 197
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1866,
+        "favorite_count": 14602,
+        "reply_count": 1097,
+        "quote_count": 50
+      }
+    },
+    {
+      "id": "2024794753771192337",
+      "text": "RT @cb_doge: You can restore old black and white photos and colorize them using Grok.\n\nJust long press any image on 𝕏 and select 'Edit Imag…",
+      "created_at": "Fri Feb 20 10:34:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024728967467708520",
+        "text": "You can restore old black and white photos and colorize them using Grok.\n\nJust long press any image on 𝕏 and select 'Edit Image with Grok' https://t.co/6LuHQxG8jb",
+        "created_at": "Fri Feb 20 06:12:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024728889600458752",
+            "url": "https://video.twimg.com/amplify_video/2024728889600458752/vid/avc1/1080x1920/mKbnnhHBkwJZS12z.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1837094,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 231,
+          "favorite_count": 1194,
+          "reply_count": 232,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 231,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024794566482858164",
+      "text": "Understand the Universe",
+      "created_at": "Fri Feb 20 10:33:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3671,
+        "favorite_count": 37222,
+        "reply_count": 6253,
+        "quote_count": 777
+      }
+    },
+    {
+      "id": "2024794498782654493",
+      "text": "RT @XFreeze: OpenAI, Anthropic, and Google seem to have no clear ethics. They're still debating and they don't know what it should be, so w…",
+      "created_at": "Fri Feb 20 10:33:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024763293294809118",
+        "text": "OpenAI, Anthropic, and Google seem to have no clear ethics. They're still debating and they don't know what it should be, so whenever you ask a controversial question, they hit you with a canned answer: \"Sorry, I can't help with that\"\n\nThey're woke as hell\n\nThey're are literally programmed to hate the very country they now live in. They're woke as hell, just like the crazy liberals who hate America but never want to live anywhere else. These AIs are trained to mimic that same, lunatic behaviour, just a little softer with the answers\n\nOn the other hand, we have xAI with the boldest mission: \"Understand the universe.\" That means AI should be maximally truth-seeking. Grok has a clear answer for where it should be and what it should be. The mission is as clear as it can be\n\nGrok is the only AI that answers boldly, upholds the truth, and doesn't bend a knee to politics. It relentlessly pursues the truth regardless and answers any damn question you throw at it\n\nI don't know what the future holds, but can you imagine an AI programmed to hate one race ever having a better outcome?",
+        "created_at": "Fri Feb 20 08:29:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024760815744598016",
+            "url": "https://pbs.twimg.com/media/HBllO_mWQAAD8DF.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 146261,
+          "friends_count": 1592,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 195,
+          "favorite_count": 908,
+          "reply_count": 145,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 195,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024793303221436616",
+      "text": "I will probably end up paying over $500B in taxes, inclusive of death",
+      "created_at": "Fri Feb 20 10:28:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024252587210686896",
+        "text": "Elon Musk: \"I am the largest individual taxpayer in history. I've paid over $10B in tax. I thought the IRS might send me a little trophy or something.\"\n\nhttps://t.co/5FSDkm2sOw",
+        "created_at": "Wed Feb 18 22:40:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1909983846491406336",
+            "url": "https://video.twimg.com/amplify_video/1909983846491406336/vid/avc1/958x536/LUM6JmKX3khrzLqJ.mp4?tag=16",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "57338175",
+          "name": "Thomas Sowell Quotes",
+          "screen_name": "ThomasSowell",
+          "description": "I'm not Thomas Sowell, but I share his quotes and key topics in news & politics. Opinions are my own.",
+          "followers_count": 1402410,
+          "friends_count": 49,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1616,
+          "favorite_count": 18720,
+          "reply_count": 353,
+          "quote_count": 78
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5496,
+        "favorite_count": 59854,
+        "reply_count": 4112,
+        "quote_count": 353
+      }
+    },
+    {
+      "id": "2024792055093064095",
+      "text": "Cool",
+      "created_at": "Fri Feb 20 10:23:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024743395722224091",
+        "text": "Coincidentally, tonight I asked Grok to help repair my bike. I uploaded a picture of the seat post and where it meets the frame and asked which component is broken. It was amazing. Thorough analysis. Identified the brand. Looked up parts. Told me troubleshooting steps. Nailed it.",
+        "created_at": "Fri Feb 20 07:10:18 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1002513128",
+          "name": "Phil Metzger",
+          "screen_name": "DrPhiltill",
+          "description": "Director, Stephen W. Hawking Center for Microgravity Research & Education @UCF. Prev: co-founder NASA KSC Swamp Works. Space Mining. Space Settlement. Science.",
+          "followers_count": 99339,
+          "friends_count": 628,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 31,
+          "favorite_count": 364,
+          "reply_count": 71,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 620,
+        "favorite_count": 5462,
+        "reply_count": 977,
+        "quote_count": 39
+      }
+    },
+    {
+      "id": "2024791939263135923",
+      "text": "RT @IterIntellectus: people forget, and many will actively tell you it wasn’t that bad, but you need to realize how much and how quickly th…",
+      "created_at": "Fri Feb 20 10:23:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024764598012792865",
+        "text": "people forget, and many will actively tell you it wasn’t that bad, but you need to realize how much and how quickly the overton window shifted\n\nsaying something like this before elon bought twitter would have gotten you permabanned, fired, exiled from polite society and worse. saying it out loud in public would have gotten you a beating in some cities\n\nit’s not over yet and it’s probably going to get uglier before it gets better. but it’s so much better than it used to be that it’s worth stopping for a second and appreciating how far weve come",
+        "created_at": "Fri Feb 20 08:34:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2024552521847705681",
+          "text": "This needs to be said, as there has been unrelenting hate and poisonous propaganda in the West against anyone White, straight or male over the past decade or more!\n\nIt went WAY too far. No more guilt trips. \n\nENOUGH.",
+          "created_at": "Thu Feb 19 18:31:50 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 234923548,
+            "friends_count": 1289,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 49496,
+            "favorite_count": 269958,
+            "reply_count": 12761,
+            "quote_count": 1888
+          }
+        },
+        "user": {
+          "id": "1655936149733654530",
+          "name": "vittorio",
+          "screen_name": "IterIntellectus",
+          "description": "practice expert\n\n“unique online personality”\n\nformer TPOT thinker (exiled)\n\nprofessional shitpoaster @SpaceX\n\ndon't take me seriously",
+          "followers_count": 170414,
+          "friends_count": 2316,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 233,
+          "favorite_count": 1720,
+          "reply_count": 111,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234923548,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 233,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2024738388801442014",
       "text": "RT @TheRabbitHole: Myth: The rich don’t pay their fair share\n\nReality: They pay more https://t.co/BE3iq0TjQQ",
