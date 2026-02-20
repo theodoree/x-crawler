@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 183576,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260220",
+  "last_updated": "2026-02-20T03:00:22.577334",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2024654176505000106",
+      "text": "Claude Agent SDK 做原型开发特别好，简单方便，正式上建议用 pi-mono 或者类似的轻量级框架",
+      "created_at": "Fri Feb 20 01:15:46 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024652801243304187",
+        "text": "@dotey 宝玉老师评价过Claude agent sdk这个东西吗？",
+        "created_at": "Fri Feb 20 01:10:18 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1235267862949851138",
+          "name": "Ties",
+          "screen_name": "Toodooit",
+          "description": "于无人之地展示自我",
+          "followers_count": 114,
+          "friends_count": 1323,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 33,
+        "reply_count": 8,
+        "quote_count": 0
+      }
+    }
+  ]
+}
