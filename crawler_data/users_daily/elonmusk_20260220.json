@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 234904129,
+    "followers_count": 234910184,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260220",
-  "last_updated": "2026-02-20T06:20:30.189747",
-  "tweet_count": 12,
+  "last_updated": "2026-02-20T08:14:46.454842",
+  "tweet_count": 20,
   "tweets": [
     {
       "id": "2024723187251236967",
@@ -561,6 +561,394 @@
       "quoted": null,
       "stats": {
         "retweet_count": 96,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024731020436918529",
+      "text": "RT @XFreeze: https://t.co/5tu6BY79E2",
+      "created_at": "Fri Feb 20 06:21:07 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024558738552524800",
+          "url": "https://pbs.twimg.com/media/HBitcjZWEAAvHUg.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2024665308749762738",
+        "text": "https://t.co/5tu6BY79E2",
+        "created_at": "Fri Feb 20 02:00:00 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024558738552524800",
+            "url": "https://pbs.twimg.com/media/HBitcjZWEAAvHUg.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 146124,
+          "friends_count": 1591,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 292,
+          "favorite_count": 1990,
+          "reply_count": 274,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 292,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024731445735149601",
+      "text": "RT @SpaceX: Falcon 9 lands on the Just Read the Instructions droneship off the coast of The Bahamas https://t.co/h5Ju4ndXSj",
+      "created_at": "Fri Feb 20 06:22:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2024663145470365696",
+          "url": "https://video.twimg.com/amplify_video/2024663145470365696/vid/avc1/3840x2160/2BsqKa2DXlz2ZhN0.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2024663255675813955",
+        "text": "Falcon 9 lands on the Just Read the Instructions droneship off the coast of The Bahamas https://t.co/h5Ju4ndXSj",
+        "created_at": "Fri Feb 20 01:51:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024663145470365696",
+            "url": "https://video.twimg.com/amplify_video/2024663145470365696/vid/avc1/3840x2160/2BsqKa2DXlz2ZhN0.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41030894,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 547,
+          "favorite_count": 4465,
+          "reply_count": 320,
+          "quote_count": 38
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 547,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024734080353652795",
+      "text": "RT @cb_doge: BREAKING: Now even gov websites are linking to Grokipedia.\n\nThe shift away from Wikipedia to Grokipedia is officially underway…",
+      "created_at": "Fri Feb 20 06:33:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024730839893102963",
+        "text": "BREAKING: Now even gov websites are linking to Grokipedia.\n\nThe shift away from Wikipedia to Grokipedia is officially underway. https://t.co/6QxkLqpGYh",
+        "created_at": "Fri Feb 20 06:20:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024730364896481280",
+            "url": "https://video.twimg.com/amplify_video/2024730364896481280/vid/avc1/1084x1080/hXl5TRFY6nV0vYpN.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1836720,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 220,
+          "favorite_count": 1334,
+          "reply_count": 229,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 220,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024734143477927983",
+      "text": "RT @GigaBasedDad: Elon understands https://t.co/jQks7uWnDH",
+      "created_at": "Fri Feb 20 06:33:32 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024722188125802496",
+          "url": "https://pbs.twimg.com/media/HBlCGkgXEAAd8kR.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2024722191439282223",
+        "text": "Elon understands https://t.co/jQks7uWnDH",
+        "created_at": "Fri Feb 20 05:46:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024722188125802496",
+            "url": "https://pbs.twimg.com/media/HBlCGkgXEAAd8kR.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1598212914971828225",
+          "name": "Giga Based Dad",
+          "screen_name": "GigaBasedDad",
+          "description": "Unapologetically Christian ✝️ - Husband and Father. Rancher. Homesteader. Raising Cows, Horses, Chickens, and Children.",
+          "followers_count": 414661,
+          "friends_count": 170,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 260,
+          "favorite_count": 1938,
+          "reply_count": 164,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 260,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024734437314089401",
+      "text": "And Grok 4.20 coming soon",
+      "created_at": "Fri Feb 20 06:34:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024581126719729758",
+        "text": "With Copilot Studio, we are focused on adding more choice and flexibility for anyone building custom agents. Great to add Grok 4.1 Fast to our multi-model lineup.\nhttps://t.co/Zp95HAtpOU",
+        "created_at": "Thu Feb 19 20:25:30 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20571756",
+          "name": "Satya Nadella",
+          "screen_name": "satyanadella",
+          "description": "Chairman and CEO at Microsoft",
+          "followers_count": 3628653,
+          "friends_count": 308,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 157,
+          "favorite_count": 1632,
+          "reply_count": 161,
+          "quote_count": 34
+        }
+      },
+      "stats": {
+        "retweet_count": 764,
+        "favorite_count": 8362,
+        "reply_count": 1518,
+        "quote_count": 85
+      }
+    },
+    {
+      "id": "2024734723504037896",
+      "text": "RT @cb_doge: BREAKING: Starlink is providing 80% of Zimbabwe’s use of international internet bandwidth.\n\nStarlink’s sales in Zimbabwe are b…",
+      "created_at": "Fri Feb 20 06:35:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024724804860072296",
+        "text": "BREAKING: Starlink is providing 80% of Zimbabwe’s use of international internet bandwidth.\n\nStarlink’s sales in Zimbabwe are booming. Within a year of its launch, it had more than 50,000 customers. The government is also distributing 8000 Starlink units to schools across country. https://t.co/vvkj0Y6YHS",
+        "created_at": "Fri Feb 20 05:56:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2024724746223640576",
+            "url": "https://video.twimg.com/amplify_video/2024724746223640576/vid/avc1/1478x1080/myQP2-leUI7oa4CU.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1836720,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 294,
+          "favorite_count": 1605,
+          "reply_count": 358,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 294,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024737718354555320",
+      "text": "RT @EthanHe_42: Good taste https://t.co/BTHbMTZbz2",
+      "created_at": "Fri Feb 20 06:47:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024726674789830656",
+          "url": "https://pbs.twimg.com/media/HBlGLuobEAAapvr.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2024726680577987068",
+        "text": "Good taste https://t.co/BTHbMTZbz2",
+        "created_at": "Fri Feb 20 06:03:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024726674789830656",
+            "url": "https://pbs.twimg.com/media/HBlGLuobEAAapvr.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3086182267",
+          "name": "Ethan He",
+          "screen_name": "EthanHe_42",
+          "description": "Engineer @xAI @Grok Imagine | ex @Nvidia @Meta | 30+ papers, 9k citations | talk about AI, LLM, video generation, world model, multimodal, machine learning, AGI",
+          "followers_count": 33550,
+          "friends_count": 591,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 147,
+          "favorite_count": 1137,
+          "reply_count": 239,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 147,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2024738388801442014",
+      "text": "RT @TheRabbitHole: Myth: The rich don’t pay their fair share\n\nReality: They pay more https://t.co/BE3iq0TjQQ",
+      "created_at": "Fri Feb 20 06:50:24 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024736620583538691",
+          "url": "https://pbs.twimg.com/media/HBlPOpmbUAMnajR.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2024736774002790808",
+        "text": "Myth: The rich don’t pay their fair share\n\nReality: They pay more https://t.co/BE3iq0TjQQ",
+        "created_at": "Fri Feb 20 06:43:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024736620583538691",
+            "url": "https://pbs.twimg.com/media/HBlPOpmbUAMnajR.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1086585,
+          "friends_count": 1775,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 359,
+          "favorite_count": 1613,
+          "reply_count": 374,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 359,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
