@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 183512,
+    "followers_count": 183538,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260219",
-  "last_updated": "2026-02-19T22:09:35.013128",
-  "tweet_count": 6,
+  "last_updated": "2026-02-20T00:20:23.473883",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2024337839916286380",
@@ -206,6 +206,51 @@
         "favorite_count": 1,
         "reply_count": 2,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2024611287091589499",
+      "text": "Google 发布 Gemini 3.1 Pro：推理能力翻倍，重回 AI 模型第一梯队\n\n2026 年 2 月 19 日，距离 Gemini 3 Pro 上线仅三个月，Google 就发布了 Gemini 3.1 Pro。这次升级的核心卖点：推理能力翻倍，价格不变。目前以 Preview 形式向开发者、企业和消费者全面开放。\n\nGemini 3 Pro 去年 11 月上线时曾短暂登顶，随后被 OpenAI 和 Anthropic 反超。这次从第三方评测机构 Artificial Analysis 的数据看，Google 重新拿回了综合智能指数的榜首。\n\n推理能力：核心突破\n\n3.1 Pro 最大的亮点在推理。ARC-AGI-2（测试模型解决全新逻辑模式的能力）得分从 Gemini 3 Pro 的 31.1% 跳到 77.1%，翻了一倍多。对比竞品：Claude Opus 4.6 得分 68.8%，GPT-5.2 为 52.9%。\n\nHumanity's Last Exam（高级学术推理）上 3.1 Pro 得分 44.4%，也高于 GPT-5.2 的 34.5% 和 Claude Sonnet 4.6 的 33.2%。GPQA Diamond（科学知识）拿到 94.3%，同样是所有模型最高。\n\n编码和 Agent：全面提升\n\nLiveCodeBench Pro（竞赛级编程）的 Elo 从 2439 提升到 2887，大幅领先 GPT-5.2 的 2393。SWE-Bench Verified（实际代码修复）上得分 80.6%，与 Claude Opus 4.6 的 80.8% 基本持平——头部模型在工程编码上已非常接近。\n\nAgent 方面提升更为显著。APEX-Agents（长链专业任务）从 18.4% 跳到 33.5%，接近翻倍，超过 Claude Opus 4.6 的 29.8%。BrowseComp（Agent 搜索）以 85.9% 排名第一。Google 还专门推出了 gemini-3.1-pro-preview-customtools 端点，针对混合使用 bash 命令和自定义函数的Agent场景做了优化。\n\n不过 3.1 Pro 并非所有维度都领先。在 LM Arena 用户投票排名中，Claude Opus 4.6 在文本和编码类别仍然靠前。GDPval-AA（专家任务）上 Claude Sonnet 4.6 以 1633 大幅领先 3.1 Pro 的 1317。不同测试反映不同维度，没有哪个模型在所有任务上占绝对优势。\n\n开发者关注点\n\nAPI 层面有几个实用更新：文件上传限制从 20MB 提升到 100MB，支持直接传入 YouTube URL 分析视频，新增 medium 级别的 thinking level 方便在推理深度和成本间灵活切换。\n\n注意一个破坏性变更：total_reasoning_tokens 字段已更名为 total_thought_tokens。\n\n模型支持最多 100 万 token 输入上下文和 6.4 万 token 输出，原生多模态（文本、图片、音频、视频、代码仓库）。\n\n定价和使用\n\n定价与 Gemini 3 Pro 完全一致：200k token 以内输入 $2/百万 token，输出 $12/百万 token；超过 200k 则为 $4/$18。能力大幅提升但价格不变，性价比明显提高。对比参考：Claude Opus 4.6 为 $5/$25，GPT-5.2 为 $1.25/$10。\n\n普通用户可以通过 Gemini app 和 NotebookLM 使用，需 Google AI Pro（$19.99/月）或 Ultra（$124.99/月）订阅。\n开发者可通过 AI Studio、Gemini API、Gemini CLI、Google Antigravity、Vertex AI 和 Android Studio 访问，模型标识符为 gemini-3.1-pro-preview。\n\n目前处于 Preview 阶段，稳定版将在进一步验证后发布。",
+      "created_at": "Thu Feb 19 22:25:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024516418855981298",
+        "text": "Gemini 3.1 Pro is here. Hitting 77.1% on ARC-AGI-2, it’s a step forward in core reasoning (more than 2x 3 Pro). \n\nWith a more capable baseline, it’s great for super complex tasks like visualizing difficult concepts, synthesizing data into a single view, or bringing creative projects to life.\n\nWe’re shipping 3.1 Pro across our consumer and developer products to bring this underlying leap in intelligence to your everyday applications right away. Rolling out now to:\n\n- Developers in preview via the Gemini API in @GoogleAIStudio\n- Enterprises in Vertex AI and Gemini Enterprise\n- Everyone through the @Geminiapp and @NotebookLM",
+        "created_at": "Thu Feb 19 16:08:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024510146261700608",
+            "url": "https://pbs.twimg.com/media/HBiBQHAaUAAEBmR.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14130366",
+          "name": "Sundar Pichai",
+          "screen_name": "sundarpichai",
+          "description": "CEO,  Google and Alphabet",
+          "followers_count": 5785075,
+          "friends_count": 190,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 730,
+          "favorite_count": 7291,
+          "reply_count": 428,
+          "quote_count": 362
+        }
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 67,
+        "reply_count": 13,
+        "quote_count": 1
       }
     }
   ]
