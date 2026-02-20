@@ -1,0 +1,13 @@
+{
+  "summary_type": "user_daily",
+  "generation_time": "2026-02-20T01:38:49.787529",
+  "tweet_count": 7,
+  "summary": "**新工具/技术**\n- LobsterAI：网易有道开源的个人助理 Agent，支持本地执行与沙箱 VM 两种安全运行模式，适合个人桌面应用与学习研究。\n- LobsterAI 技术栈与特点：基于 Electron+React+TypeScript，采用严格进程隔离，数据用 SQLite 本地化存储，IM 网关支持钉钉/飞书等接入。\n- Gemini 3.1 Pro：Google 发布的模型小幅迭代，核心在“推理能力翻倍”，并增强了 Agent 场景与编码能力，面向开发者预览开放。\n- Gemini 3.1 Pro 实用更新：支持百万级输入上下文、6.4万输出 token、文件上传从20MB到100MB、新增 medium thinking level，并改名 total_reasoning_tokens -> total_thought_tokens。\n\n**核心观点/方法论**\n- 提示工程不是万能：把所有输入都当成“提示词”固然重要，但高质量提示依赖素材挑选、审阅、逻辑框架与表达能力。\n- 技术老鸟的“诅咒”：能看穿实现原理但容易低估产品价值；很多成功产品并不依赖极深的技术含量，产品理解力同样关键。\n- 开源带来的信任和学习价值：开源工具（如 LobsterAI）便于审计、安全性更可控，同时是学习 Agent 架构和工程实践的好教材。\n- 模型评测多维度：不同 benchmark 反映不同能力，不能只看单一分数，产品选择需依据具体任务（推理、编码、Agent、检索等）。\n\n**实践经验/案例**\n- LobsterAI 的落地架构值得借鉴：前端桌面应用 + 严格进程隔离 + 可选沙箱 VM（QEMU+Alpine）是权衡易用性与安全性的实用方案。\n- 本地化存储与 IM 接入：SQLite 全本地化方便隐私合规，结合钉钉/飞书网关利于企业/个人的即时工作流对接。\n- Gemini 对 Agent 场景的改进意味着工程上要更多测试长链任务与混合命令（bash + 自定义函数）的可靠性。\n- 开发者迁移注意点：注意字段名变更（total_reasoning_tokens -> total_thought_tokens）、适配更大文件上传和新的 thinking level，以免线上断裂。\n- 工程建议：对重要流程做端到端测试（包含大上下文、多模态输入与 Agent 工具链），同时提升提示设计与产品理解能力以发挥模型最大价值。",
+  "metadata": {
+    "original_tweets": 7,
+    "retweets": 0,
+    "media_tweets": 3,
+    "data_hash": "1dd8112d",
+    "user": "dotey"
+  }
+}
