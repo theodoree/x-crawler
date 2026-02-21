@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 183815,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260221",
+  "last_updated": "2026-02-21T02:56:01.072666",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2025003573004681524",
+      "text": "RT @Roland_WayneOZ: 很多公司上了AI客服之后，客户满意度反而下降，原因很简单：客户感觉自己在被敷衍                          \n\n正确的做法应该是这样的：\n\n1. 前台还是人工客服，客户永远在跟真人说话\n\n2. 人工客服背后接AI，遇…",
+      "created_at": "Sat Feb 21 00:24:09 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2024844235912962229",
+        "text": "很多公司上了AI客服之后，客户满意度反而下降，原因很简单：客户感觉自己在被敷衍                          \n\n正确的做法应该是这样的：\n\n1. 前台还是人工客服，客户永远在跟真人说话\n\n2. 人工客服背后接AI，遇到不会的问题直接问AI，AI给答案，人工转述给客户\n\n3. 每次AI给出的答案都记录下来，持续迭代知识库\n\n4. 客户需要的不只是专业解答，还需要情感支持，这个AI替代不了\n\nAI是给人工客服用的工具，不是用来替代人工客服的",
+        "created_at": "Fri Feb 20 13:51:00 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1664742004423794688",
+          "name": "Roland的思考日记",
+          "screen_name": "Roland_WayneOZ",
+          "description": "🧑‍⚕️医学&经济学PhD｜📈美股投资｜💡跨界思考爱好者",
+          "followers_count": 8406,
+          "friends_count": 486,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 24,
+          "favorite_count": 141,
+          "reply_count": 38,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
