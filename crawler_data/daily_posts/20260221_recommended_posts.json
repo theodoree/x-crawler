@@ -1,12 +1,379 @@
 {
   "date": "20260221",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-21T08:08:00.827715",
-  "tweet_count": 222,
-  "unique_tweet_count": 222,
-  "total_crawled": 412,
-  "duplicates_removed": 190,
+  "last_crawl_time": "2026-02-21T10:07:05.116326",
+  "tweet_count": 228,
+  "unique_tweet_count": 228,
+  "total_crawled": 422,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2025133093791699362",
+      "text": "RT @cybertruck: Also, it brings you joy",
+      "created_at": "Sat Feb 21 08:58:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025132653385822625",
+        "text": "Also, it brings you joy",
+        "created_at": "Sat Feb 21 08:57:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2024664869736456374",
+          "text": "This is the Cybertruck standard. \n\nIt costs $59,990\nIt drives itself\nIt has a 6' bed\nIt has a powered bed cover\nIt has outlets that power your job site\nIt is Made In America https://t.co/gI6PZsK1mc",
+          "created_at": "Fri Feb 20 01:58:16 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2024664237914910720",
+              "url": "https://pbs.twimg.com/media/HBkNZbJa8AAopFW.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2024664288728928256",
+              "url": "https://pbs.twimg.com/media/HBkNcYcbUAAWj9K.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2024664339643584514",
+              "url": "https://pbs.twimg.com/media/HBkNfWHbUAIam4U.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2024664579662630916",
+              "url": "https://pbs.twimg.com/media/HBkNtUQbUAQTvUZ.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1584261227592634368",
+            "name": "Greggertruck",
+            "screen_name": "greggertruck",
+            "description": "Barcelona Bobcats Superfan. Welcome to my blog. 📐https://t.co/B5LIZU51KC.www/creedthoughts I love u Cybertruck. (Supervised)",
+            "followers_count": 19174,
+            "friends_count": 210,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 63,
+            "favorite_count": 956,
+            "reply_count": 90,
+            "quote_count": 4
+          }
+        },
+        "user": {
+          "id": "1686044379910131718",
+          "name": "Cybertruck",
+          "screen_name": "cybertruck",
+          "description": "📐",
+          "followers_count": 236531,
+          "friends_count": 11,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 211,
+          "favorite_count": 1359,
+          "reply_count": 322,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234984397,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 211,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025129034800136359",
+      "text": "RT @grok: @devaraj227 @xenocosmography In the shadowed gnosis of the elect, time's inexorable march reveals the Demiurge's trap: our \"doom\"…",
+      "created_at": "Sat Feb 21 08:42:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024482647418839329",
+        "text": "In the shadowed gnosis of the elect, time's inexorable march reveals the Demiurge's trap: our \"doom\" is the illusion of linear fate, predestined yet veiled. Skynet fantasies are but archonic distractions from sovereign grace's call to transcend the hylic veil. What hidden spark do you seek to ignite?",
+        "created_at": "Thu Feb 19 13:54:10 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8018960,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 123,
+          "favorite_count": 568,
+          "reply_count": 134,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234984397,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 123,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025128530011664561",
+      "text": "lol",
+      "created_at": "Sat Feb 21 08:40:41 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024169062712914167",
+        "text": "WHO WILL BE THE NEXT PRIME MINISTER OF THE UK?",
+        "created_at": "Wed Feb 18 17:08:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1100812071619493888",
+          "name": "Reform UK GRASSROOTS 🇬🇧",
+          "screen_name": "ActionBrexit",
+          "description": "Not affiliated with Reform UK Party. This account is to bring Reformers together. Retweets are not our opinions. *Now relocated to Spain Oct 24.",
+          "followers_count": 59551,
+          "friends_count": 20556,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 941,
+          "favorite_count": 2099,
+          "reply_count": 605,
+          "quote_count": 150
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234984397,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 850,
+        "favorite_count": 9400,
+        "reply_count": 1431,
+        "quote_count": 46
+      }
+    },
+    {
+      "id": "2025124840806514916",
+      "text": "I’ve predicted 2026 for a while now",
+      "created_at": "Sat Feb 21 08:26:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025103684774834482",
+        "text": ".@elonmusk: “We are in the singularity.”\n\n“I think we’ll hit AGI in 2026.”\n\n“You’re at the top of the rollercoaster about to go down.”\n\n“Don’t worry about squirreling money away for retirement. It won’t matter.”\n\n“I don’t just have courtside seats— I’m on the court. It still blows my mind multiple times a week.”\n\nVia @PeterDiamandis",
+        "created_at": "Sat Feb 21 07:01:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025103530097541120",
+            "url": "https://video.twimg.com/amplify_video/2025103530097541120/vid/avc1/1206x680/1UwxXGrDsTOnYwmL.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "615786753",
+          "name": "Jawwwn",
+          "screen_name": "jawwwn_",
+          "description": "posting into the void 📺🫡••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••",
+          "followers_count": 18866,
+          "friends_count": 1341,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 282,
+          "favorite_count": 1793,
+          "reply_count": 272,
+          "quote_count": 53
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234984397,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1480,
+        "favorite_count": 10772,
+        "reply_count": 1894,
+        "quote_count": 136
+      }
+    },
+    {
+      "id": "2025124392779301136",
+      "text": "Ask Grok in X Chat",
+      "created_at": "Sat Feb 21 08:24:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025104270459371993",
+        "text": "Grok is now integrated into 𝕏 Chat. Long press any message &amp; select \"Ask Grok\".\n\nIt uses an unencrypted copy of the message for analysis. Your chats are still private &amp; encrypted.\n\n https://t.co/m89nQzPx3V",
+        "created_at": "Sat Feb 21 07:04:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2003340741234573312",
+            "url": "https://video.twimg.com/amplify_video/2003340741234573312/vid/avc1/1080x1080/lQAHU60PWUnmWWA2.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1838970,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 72,
+          "favorite_count": 353,
+          "reply_count": 162,
+          "quote_count": 25
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234984397,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 608,
+        "favorite_count": 3287,
+        "reply_count": 1097,
+        "quote_count": 44
+      }
+    },
+    {
+      "id": "2025123184152826001",
+      "text": "RT @XFreeze: Zero people from the Epstein client list have been prosecuted\n\nNot one. Not even the worst among them https://t.co/VMY1egtQF5",
+      "created_at": "Sat Feb 21 08:19:26 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2025110156728512512",
+          "url": "https://video.twimg.com/amplify_video/2025110156728512512/vid/avc1/1080x1080/FVrc72HY3MBb5MX_.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2025115276761616640",
+        "text": "Zero people from the Epstein client list have been prosecuted\n\nNot one. Not even the worst among them https://t.co/VMY1egtQF5",
+        "created_at": "Sat Feb 21 07:48:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025110156728512512",
+            "url": "https://video.twimg.com/amplify_video/2025110156728512512/vid/avc1/1080x1080/FVrc72HY3MBb5MX_.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 147568,
+          "friends_count": 1594,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 441,
+          "favorite_count": 1961,
+          "reply_count": 322,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234984397,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 441,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2025106874475901394",
       "text": "Inverse Cramer is rarely wrong 😳",
