@@ -1,12 +1,37 @@
 {
   "date": "20260221",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-21T02:56:01.045177",
-  "tweet_count": 201,
-  "unique_tweet_count": 201,
-  "total_crawled": 400,
+  "last_crawl_time": "2026-02-21T04:33:34.678526",
+  "tweet_count": 202,
+  "unique_tweet_count": 202,
+  "total_crawled": 401,
   "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2025054631391375741",
+      "text": "https://t.co/r3hQQzXks1",
+      "created_at": "Sat Feb 21 03:47:02 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183824,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 19,
+        "reply_count": 2,
+        "quote_count": 5
+      }
+    },
     {
       "id": "2025003573004681524",
       "text": "RT @Roland_WayneOZ: 很多公司上了AI客服之后，客户满意度反而下降，原因很简单：客户感觉自己在被敷衍                          \n\n正确的做法应该是这样的：\n\n1. 前台还是人工客服，客户永远在跟真人说话\n\n2. 人工客服背后接AI，遇…",
