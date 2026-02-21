@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 183771,
+    "followers_count": 183779,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260220",
-  "last_updated": "2026-02-20T22:08:07.564412",
-  "tweet_count": 3,
+  "last_updated": "2026-02-21T00:21:51.475306",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2024654176505000106",
@@ -109,6 +109,69 @@
         "favorite_count": 11,
         "reply_count": 8,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2024978175420137666",
+      "text": "RT @evilcos: 我们 CISO 发话了，望周知😊\n\n顺便补一句，别忘了前两天 Moonwell 被盗 178 万美金那件事，缺陷代码来自 Co-Authored-By: Claude Opus 4.6。\n\nAI 不是银弹。共同进步。",
+      "created_at": "Fri Feb 20 22:43:13 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2024679463582388326",
+        "text": "我们 CISO 发话了，望周知😊\n\n顺便补一句，别忘了前两天 Moonwell 被盗 178 万美金那件事，缺陷代码来自 Co-Authored-By: Claude Opus 4.6。\n\nAI 不是银弹。共同进步。",
+        "created_at": "Fri Feb 20 02:56:15 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2024672916718440504",
+          "text": "昨天 EVMbench合约审计出来后，很多V说安全审计公司要完了？\n这言论...行业这么多 V 都不知道Web3 安全里，合约只是一部分 ？真正出大事的早已经不是合约。\n难怪这个行业一天天被盗、被骗，认知差也太太太大吧。\ncc @evilcos 🤣",
+          "created_at": "Fri Feb 20 02:30:14 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2585632027",
+            "name": "23pds (山哥)",
+            "screen_name": "im23pds",
+            "description": "Dad/@SlowMist_Team Partner&CISO/#Web3 Security Researcher/RedTeam/Pentester/Ai安全猎人 #bitcoin",
+            "followers_count": 14607,
+            "friends_count": 5918,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3,
+            "favorite_count": 18,
+            "reply_count": 7,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "17552210",
+          "name": "Cos(余弦)😶‍🌫️",
+          "screen_name": "evilcos",
+          "description": "Founder of @SlowMist_Team // 分身一号/捉虫大师/救火运动员 // 🕖灾备频道 https://t.co/bMGdsBkYwM",
+          "followers_count": 119439,
+          "friends_count": 1472,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 63,
+          "reply_count": 11,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
