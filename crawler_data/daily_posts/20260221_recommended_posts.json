@@ -1,12 +1,478 @@
 {
   "date": "20260221",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-21T18:07:52.542764",
-  "tweet_count": 240,
-  "unique_tweet_count": 240,
-  "total_crawled": 436,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-02-21T20:05:52.782344",
+  "tweet_count": 248,
+  "unique_tweet_count": 248,
+  "total_crawled": 440,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2025300614113112199",
+      "text": "RT @SawyerMerritt: The Cybercab has two seats because ~85% of car trips in North America have just one or two people. For the remaining 15%…",
+      "created_at": "Sat Feb 21 20:04:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025282511090126862",
+        "text": "The Cybercab has two seats because ~85% of car trips in North America have just one or two people. For the remaining 15% of trips that have more than two people, you'll be able to hail a Model Y robotaxi, or even a couple of them. https://t.co/wXBXNYocGS",
+        "created_at": "Sat Feb 21 18:52:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025282409239904257",
+            "url": "https://pbs.twimg.com/media/HBs_nuyXgAEGiRN.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2025275698429263988",
+          "text": "@SawyerMerritt Is it a two seater or four? How can a family use it to get around ?",
+          "created_at": "Sat Feb 21 18:25:28 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "9004702",
+            "name": "Moradona",
+            "screen_name": "ramymora",
+            "description": "Believer. #GirlDad, CMO, #Boca, #argentinafootball, #Buckeyes, #goldenstatewarriors, #Tesla #nygiants #sf49ers #sfgiants #gohabs @thunderbird",
+            "followers_count": 464,
+            "friends_count": 1458,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 0,
+            "favorite_count": 2,
+            "reply_count": 6,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1041614,
+          "friends_count": 431,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 53,
+          "favorite_count": 469,
+          "reply_count": 80,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235027773,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 53,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025300509221884268",
+      "text": "Tesla self-driving now recognizes hand signals",
+      "created_at": "Sat Feb 21 20:04:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025257878186307842",
+        "text": "FSD Supervised responds to hand gestures while squeezing through a tight lane in the Netherlands",
+        "created_at": "Sat Feb 21 17:14:40 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1620480811303866369",
+          "name": "Tesla Europe, Middle East & Africa",
+          "screen_name": "teslaeurope",
+          "description": "All things Tesla Europe, Middle East & Africa",
+          "followers_count": 160704,
+          "friends_count": 19,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 78,
+          "favorite_count": 701,
+          "reply_count": 33,
+          "quote_count": 5
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235027773,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 45,
+        "favorite_count": 343,
+        "reply_count": 179,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2025300169378386107",
+      "text": "True",
+      "created_at": "Sat Feb 21 20:02:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025276986348752998",
+        "text": "Prediction: FSD + Starlink will meaningfully contribution to a measurable increase in nomadic lifestyle and decrease in urbanization in the US within 5 years. 10 years max\n\nOur country is absolutely beautiful and the average population density is <50 people per square km. Wide open spaces are about to become orders of magnitude more accessible. \n\nOther factors driving this: home/land prices, AI tutors decoupling schooling from school districts and safety concerns in urban areas.",
+        "created_at": "Sat Feb 21 18:30:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025276981416284160",
+            "url": "https://pbs.twimg.com/media/HBs6rykX0AA3YOO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "331865640",
+          "name": "Aaron Burnett",
+          "screen_name": "aaronburnett",
+          "description": "Founder, CEO @ Mach33 | Research and Investment in Space & Expansion Technologies",
+          "followers_count": 17301,
+          "friends_count": 543,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 44,
+          "reply_count": 15,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235027773,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 65,
+        "favorite_count": 580,
+        "reply_count": 208,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2025299853996098036",
+      "text": "RT @ScottJenningsKY: No deportations of illegal immigrants is the official Democrat position.\n\nThis was a surreal on-air moment. They can't…",
+      "created_at": "Sat Feb 21 20:01:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025218724555333701",
+        "text": "No deportations of illegal immigrants is the official Democrat position.\n\nThis was a surreal on-air moment. They can't even say it!! https://t.co/USkX3JuoCY",
+        "created_at": "Sat Feb 21 14:39:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025217551165251585",
+            "url": "https://video.twimg.com/amplify_video/2025217551165251585/vid/avc1/960x540/_YzExFIzXqcOhj9k.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "18986695",
+          "name": "Scott Jennings",
+          "screen_name": "ScottJenningsKY",
+          "description": "America’s favorite pundit. @CNN. BEST SELLING AUTHOR: Revolution of Common Sense https://t.co/AayTsWojaS. HOST: Scott Jennings Show on Salem 1-3pm Eastern.",
+          "followers_count": 938895,
+          "friends_count": 6915,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3949,
+          "favorite_count": 22908,
+          "reply_count": 1746,
+          "quote_count": 278
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235027773,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3949,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025299346678325532",
+      "text": "RT @XFreeze: Elon was right about everything\n\nBill Gates and Reid Hoffman are the most named in the Epstein files – enough to show they had…",
+      "created_at": "Sat Feb 21 19:59:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025245691958694359",
+        "text": "Elon was right about everything\n\nBill Gates and Reid Hoffman are the most named in the Epstein files – enough to show they had very deep connections and were Epstein's close associates\n\nThey were terrified of Trump winning\n\nReid Hoffman personally funded legal cases against Trump to keep him in prison using non-profit organizations\n\nIt's all out now, and it's real and true just as Elon said it",
+        "created_at": "Sat Feb 21 16:26:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025221236398198784",
+            "url": "https://video.twimg.com/amplify_video/2025221236398198784/vid/avc1/1080x1080/WBt6W8Y5RBi0cn_6.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 148391,
+          "friends_count": 1595,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 254,
+          "favorite_count": 949,
+          "reply_count": 167,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235027773,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 254,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025298068749398167",
+      "text": "Good question",
+      "created_at": "Sat Feb 21 19:54:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025296839113933101",
+        "text": "Elon Musk has been calling for the Epstein files to be released and for offenders to be prosecuted for years.\n\nLast year, today, same stance.\n\nProsecution of the worst offenders.\n\nWhy is no one else pushing this hard for prosecution? https://t.co/tkeykOCxnH",
+        "created_at": "Sat Feb 21 19:49:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025296833002831873",
+            "url": "https://pbs.twimg.com/media/HBtMvTfbgAElE5i.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1839667,
+          "friends_count": 903,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 64,
+          "favorite_count": 311,
+          "reply_count": 166,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235027773,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 659,
+        "favorite_count": 4327,
+        "reply_count": 732,
+        "quote_count": 19
+      }
+    },
+    {
+      "id": "2025297781867352444",
+      "text": "RT @ArthurMacwaters: my politics are whatever this is https://t.co/GBAADFlS0o",
+      "created_at": "Sat Feb 21 19:53:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025253917677027328",
+          "url": "https://pbs.twimg.com/media/HBsltTcbgAA9Cy5.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2025253917651861505",
+          "url": "https://pbs.twimg.com/media/HBsltTWbgAE0A89.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2025253917681139712",
+          "url": "https://pbs.twimg.com/media/HBsltTdaQAAAQ1S.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2025254193712513024",
+          "url": "https://pbs.twimg.com/media/HBsl9XwawAAfBfW.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2025254418518888788",
+        "text": "my politics are whatever this is https://t.co/GBAADFlS0o",
+        "created_at": "Sat Feb 21 17:00:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025253917677027328",
+            "url": "https://pbs.twimg.com/media/HBsltTcbgAA9Cy5.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2025253917651861505",
+            "url": "https://pbs.twimg.com/media/HBsltTWbgAE0A89.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2025253917681139712",
+            "url": "https://pbs.twimg.com/media/HBsltTdaQAAAQ1S.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2025254193712513024",
+            "url": "https://pbs.twimg.com/media/HBsl9XwawAAfBfW.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 59641,
+          "friends_count": 989,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 114,
+          "favorite_count": 825,
+          "reply_count": 119,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235027773,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 114,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025279859014983783",
+      "text": "https://t.co/LiiMkl4YwP",
+      "created_at": "Sat Feb 21 18:42:00 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183920,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 20,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2025265181266153606",
       "text": "Pretty much",
