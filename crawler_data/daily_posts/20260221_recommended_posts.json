@@ -1,12 +1,424 @@
 {
   "date": "20260221",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-21T14:08:07.169333",
-  "tweet_count": 228,
-  "unique_tweet_count": 228,
+  "last_crawl_time": "2026-02-21T16:07:28.929910",
+  "tweet_count": 236,
+  "unique_tweet_count": 236,
   "total_crawled": 428,
-  "duplicates_removed": 200,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2025233575008723112",
+      "text": "RT @travelingflying: ChatGPT says that George Floyd was a better person than Charlie Kirk https://t.co/IDVzNto4ex",
+      "created_at": "Sat Feb 21 15:38:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025222478642249728",
+          "url": "https://pbs.twimg.com/media/HBsJHT6bgAAvrJG.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2025222483406958683",
+        "text": "ChatGPT says that George Floyd was a better person than Charlie Kirk https://t.co/IDVzNto4ex",
+        "created_at": "Sat Feb 21 14:54:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025222478642249728",
+            "url": "https://pbs.twimg.com/media/HBsJHT6bgAAvrJG.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4868124659",
+          "name": "Taya",
+          "screen_name": "travelingflying",
+          "description": "CEO| Entrepreneur| Investor| World traveler| Part-time online troll|Christian Conservative|Anti-woke",
+          "followers_count": 162921,
+          "friends_count": 25605,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 275,
+          "favorite_count": 1475,
+          "reply_count": 484,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235007159,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 275,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025225985637982391",
+      "text": "The punic wars, but this time for puns",
+      "created_at": "Sat Feb 21 15:07:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235007159,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1158,
+        "favorite_count": 17881,
+        "reply_count": 3355,
+        "quote_count": 201
+      }
+    },
+    {
+      "id": "2025223166667198749",
+      "text": "RT @XFreeze: If you can't find an article on Grokipedia and want to see it added, you can now request it right from the suggestions with ju…",
+      "created_at": "Sat Feb 21 14:56:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025212499717476463",
+        "text": "If you can't find an article on Grokipedia and want to see it added, you can now request it right from the suggestions with just one click\n\nEvery request you make brings Grokipedia one step closer to becoming the greatest knowledge source in the universe https://t.co/i2NDFAwysP",
+        "created_at": "Sat Feb 21 14:14:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025212372374245376",
+            "url": "https://pbs.twimg.com/media/HBr_7DIX0AA8pt-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 147951,
+          "friends_count": 1595,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 208,
+          "favorite_count": 1034,
+          "reply_count": 167,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235007159,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 208,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025223128863911969",
+      "text": "RT @Sassafrass_84: Chat GPT is racist and completely left wing ideology. \n\nMore reason to make the switch to using Grok. \n\n@grok is better.",
+      "created_at": "Sat Feb 21 14:56:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024970087426310191",
+        "text": "Chat GPT is racist and completely left wing ideology. \n\nMore reason to make the switch to using Grok. \n\n@grok is better.",
+        "created_at": "Fri Feb 20 22:11:05 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1432014119931162629",
+          "name": "Sassafrass84",
+          "screen_name": "Sassafrass_84",
+          "description": "Married and Conservative. Do not DM me without requesting. America First. I post humor, politics, history, and crime. Back the blue and support the military.",
+          "followers_count": 617613,
+          "friends_count": 103648,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 441,
+          "favorite_count": 3820,
+          "reply_count": 389,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235007159,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 441,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025222515304329616",
+      "text": "RT @JasonJournoDC: 🚨NEW: Victor Davis Hanson: \"I remember what X was under the prior Twitter leadership. It was just a censored propaganda…",
+      "created_at": "Sat Feb 21 14:54:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025219080572068067",
+        "text": "🚨NEW: Victor Davis Hanson: \"I remember what X was under the prior Twitter leadership. It was just a censored propaganda com government enterprise ... That's all gone. So @elonmusk is a remarkable individual.\" \n\n@DailyCaller https://t.co/GVUOyo4Vsk",
+        "created_at": "Sat Feb 21 14:40:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025218363337609216",
+            "url": "https://video.twimg.com/amplify_video/2025218363337609216/vid/avc1/1920x1080/76Z0oY2qy_EiWdPQ.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1569678002308677639",
+          "name": "Jason Cohen 🇺🇸",
+          "screen_name": "JasonJournoDC",
+          "description": "“Respected” Reporter & Clipper @DailyCaller News Foundation. Consistently breaking top viral political clips 🚀 jasoncohen@dcnf.org",
+          "followers_count": 110034,
+          "friends_count": 3191,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 380,
+          "favorite_count": 2180,
+          "reply_count": 186,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235007159,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 379,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025221614355284186",
+      "text": "RT @TheRabbitHole: Cancel censorship https://t.co/OlwVCaPZQp",
+      "created_at": "Sat Feb 21 14:50:34 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025086902102360067",
+          "url": "https://pbs.twimg.com/media/HBqNzt8bgAMkXHC.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2025086905407377563",
+        "text": "Cancel censorship https://t.co/OlwVCaPZQp",
+        "created_at": "Sat Feb 21 05:55:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025086902102360067",
+            "url": "https://pbs.twimg.com/media/HBqNzt8bgAMkXHC.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1086719,
+          "friends_count": 1775,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1078,
+          "favorite_count": 5311,
+          "reply_count": 214,
+          "quote_count": 38
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235007159,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1078,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025219634375323787",
+      "text": "Still true today",
+      "created_at": "Sat Feb 21 14:42:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025193795076153416",
+        "text": "Elon Musk: \"They put like five or six hundred January 6th protesters in prison and not one person on the Epstein's client list.\"\n\nhttps://t.co/IVHpG1hRhc",
+        "created_at": "Sat Feb 21 13:00:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2020443028469555201",
+            "url": "https://video.twimg.com/amplify_video/2020443028469555201/vid/avc1/720x480/cUnREFAWU1AFjB6U.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "57338175",
+          "name": "Thomas Sowell Quotes",
+          "screen_name": "ThomasSowell",
+          "description": "I'm not Thomas Sowell, but I share his quotes and key topics in news & politics. Opinions are my own.",
+          "followers_count": 1403842,
+          "friends_count": 49,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 848,
+          "favorite_count": 3611,
+          "reply_count": 167,
+          "quote_count": 46
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235007159,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7532,
+        "favorite_count": 45332,
+        "reply_count": 2613,
+        "quote_count": 173
+      }
+    },
+    {
+      "id": "2025216005375434780",
+      "text": "RT @GadSaad: Westerners are willing to lose their culture, heritage, religion, and civilization to prove that they are tolerant of those in…",
+      "created_at": "Sat Feb 21 14:28:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025197644922941559",
+        "text": "Westerners are willing to lose their culture, heritage, religion, and civilization to prove that they are tolerant of those invading them, and mounting them, their children, and their women. It is astonishing.",
+        "created_at": "Sat Feb 21 13:15:19 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "116579971",
+          "name": "Gad Saad",
+          "screen_name": "GadSaad",
+          "description": "Professor, Evolutionary Behavioral Scientist, Author. Opinions are mine alone. Retweets do not necessarily imply an endorsement.",
+          "followers_count": 1269243,
+          "friends_count": 456,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2809,
+          "favorite_count": 13640,
+          "reply_count": 1090,
+          "quote_count": 192
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235007159,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2809,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2025133093791699362",
       "text": "RT @cybertruck: Also, it brings you joy",
