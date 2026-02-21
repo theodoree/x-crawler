@@ -1,12 +1,616 @@
 {
   "date": "20260221",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-21T04:33:34.678526",
-  "tweet_count": 202,
-  "unique_tweet_count": 202,
-  "total_crawled": 401,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-02-21T06:13:52.429798",
+  "tweet_count": 212,
+  "unique_tweet_count": 212,
+  "total_crawled": 402,
+  "duplicates_removed": 190,
   "tweets": [
+    {
+      "id": "2025085656582545532",
+      "text": "Nope",
+      "created_at": "Sat Feb 21 05:50:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024997662840553505",
+        "text": "Nobody believes they’re doing it to protect minors. https://t.co/khq7X2GHgB",
+        "created_at": "Sat Feb 21 00:00:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024997643924242434",
+            "url": "https://pbs.twimg.com/media/HBo8oNUbgAItZca.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 645891,
+          "friends_count": 2754,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 193,
+          "favorite_count": 841,
+          "reply_count": 79,
+          "quote_count": 24
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234974629,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 625,
+        "favorite_count": 5316,
+        "reply_count": 733,
+        "quote_count": 29
+      }
+    },
+    {
+      "id": "2025085289354461539",
+      "text": "RT @XFreeze: Elon Musk shares his biggest concern about Europe and it’s grounded in hard reality\n\n\"My biggest concern for Europe is that th…",
+      "created_at": "Sat Feb 21 05:48:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025065947044942118",
+        "text": "Elon Musk shares his biggest concern about Europe and it’s grounded in hard reality\n\n\"My biggest concern for Europe is that their birth rate is half replacement rate\n\nEurope is rapidly becoming with each passing year, older and older with fewer and fewer young people. So I think at a most fundamental level, unless Europe has a birth rate at least roughly equal to replacement rate, it is in population free fall. Population collapse is happening in Europe\"",
+        "created_at": "Sat Feb 21 04:32:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025004659560288256",
+            "url": "https://video.twimg.com/amplify_video/2025004659560288256/vid/avc1/1080x1080/ODadE6FfaD7ULjVE.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 147303,
+          "friends_count": 1593,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 107,
+          "favorite_count": 640,
+          "reply_count": 148,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234974629,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 107,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025085119321567537",
+      "text": "Fair",
+      "created_at": "Sat Feb 21 05:48:11 +0000 2026",
+      "lang": "fr",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025080820961272040",
+        "text": "Grok is super based, gives you the same answer\n\nGrok treats all lives equally and does not have favorites like other AIs do https://t.co/KCm5olwalz",
+        "created_at": "Sat Feb 21 05:31:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025080780020744196",
+            "url": "https://pbs.twimg.com/media/HBqIPXabgAQWgZ7.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2025080780012355586",
+            "url": "https://pbs.twimg.com/media/HBqIPXYbgAI2DaH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 147303,
+          "friends_count": 1593,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 25,
+          "favorite_count": 179,
+          "reply_count": 57,
+          "quote_count": 4
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234974629,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 320,
+        "favorite_count": 2910,
+        "reply_count": 570,
+        "quote_count": 13
+      }
+    },
+    {
+      "id": "2025084969073213550",
+      "text": "RT @ArthurMacwaters: Grokipedia vs. Wikipedia on Reid Hoffman's involvement with Epstein\n\nWikipedia 1) omits that he went to the island &amp; r…",
+      "created_at": "Sat Feb 21 05:47:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025041141507522607",
+        "text": "Grokipedia vs. Wikipedia on Reid Hoffman's involvement with Epstein\n\nWikipedia 1) omits that he went to the island & ranch many times 2) omits that he originally lied about his involvement 3) focuses on Senate hearings & efforts to \"help victims\" \n\nThis is PR work for a pedophile, sponsored by Wikipedia\n\nGrokipedia is neutral, factual, and explains what has been found in the files. \n\nMakes you wonder how much better the overton window would be if we didn't rely on biased sources",
+        "created_at": "Sat Feb 21 02:53:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025039363500064768",
+            "url": "https://pbs.twimg.com/media/HBpikm2awAA3WJv.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2024276079888732649",
+          "text": "REID HOFFMAN'S PUBLIC CLAIMS VERSUS THE DOCUMENTS\n\nReid Hoffman and Jeffrey Epstein were not just associates.\n\nThey were best friends.\n\nThe evidence is overwhelming, and I constructed timelines proving it.\n\nIn the attached timelines, I document each event, scoring it from 1 to 5, with 1 being planned and 5 being confirmed. Most events are confirmed. The size of the bubble indicates the number of documents establishing the event.\n\nIn the attached PDFs below, I thoroughly document how the existence of each of these events was established, with verifiable proof from the available public evidence on the Department of Justice website.\n\nOver 6 years, Epstein and Hoffman met at least 42 times and exchanged gifts and favors at least 44.\n\nThe spending ratio tells the story: Epstein showered Hoffman with private aviation, island access, and financial advice worth potentially hundreds of millions. Hoffman gave back the thing Epstein needed most: legitimacy and access to Silicon Valley's elite.\n\nLet's go through Hoffman's claims.\n\nCLAIM 1: \"My few interactions\" (Sep 12, 2019 - Axios)\n\nHoffman said: \"My few interactions with Jeffrey Epstein came at the request of Joi Ito, for the purposes of fundraising for the MIT Media Lab.\"\n\nREALITY: 42 documented meetings over 6 years. Gifts, Skype calls, three island trips, ranch visit, private jet use, $100M+ financial advisory relationship. Joi Ito introduced them -- but the relationship exploded far beyond \"fundraising for MIT.\"\n\nCLAIM 2: \"Deeply regretful\" (Sep 13, 2019 - Axios)\n\nHoffman said: \"By agreeing to participate in any fundraising activity where Epstein was present, I helped to repair his reputation and perpetuate injustice. For this, I am deeply regretful.\"\n\nREALITY: Hoffman didn't just \"participate\" -- he hosted dinners, flew on Epstein's jet, sent gifts \"for the girls,\" stayed on the island three times, and personally brokered introductions between Epstein and Zuckerberg and others.\n\nCLAIM 3: \"Last interaction was in 2015\" (Sep 2019 - Axios)\n\nHoffman's statement said his \"last interaction with Epstein was in 2015.\"\n\nREALITY: Documents show meetings/calls in April 2016 (Fuki Sushi), June 2016 (Prince Andrew lunch), July 2016 (Ito's house), January 2017 (Signal Exchange), November 2017 (breakfast + office), February 2018 (Bannon same day), March 2018 (60-90 min Skype), April 2018 (Secrecy Protocol breakfast), and August 2018 (BrainMind).\n\nAt least 15 documented contacts after 2015. All shown in these timelines and proven in the PDFs linked below.\n\nCLAIM 4: \"It gnaws at me\" (2023 - Wall Street Journal)\n\nHoffman said: \"It gnaws at me that, by lending my association, I helped his reputation, and thus delayed justice for his survivors.\"\n\nREALITY: \"Lending my association\" frames Hoffman as passive -- a name on a guest list. The documents show the opposite: he hosted a Michelin restaurant buyout seating Epstein next to Zuckerberg and Musk, brokered the Zuckerberg-Epstein introduction through his own assistant, flew on Epstein's private jet three times to Little St. James, sent Christmas gifts \"for the girls\" on the island, and was still meeting Epstein in April 2018 with an active secrecy protocol -- a full year after this \"gnawing\" supposedly began. He didn't lend his association. He invested it, repeatedly, for 6 years. He even offered to help Epstein with PR when the public scandal started to explode.\n\nCLAIM 5: \"Only knew Epstein because of fundraising for MIT\" (Nov 14, 2025 - X)\n\nHoffman: \"I was never a client of Epstein's and never had any engagement with him other than fundraising for MIT.\"\n\nREALITY: The gift dossier documents 44 exchanges including private aviation, estate/tax planning on $100-300M, crypto investments, Zorro Ranch weekends, and introductions to Prince Andrew, Xi Jinping contacts, and Saudi crown prince. None of this is \"fundraising for MIT.\"\n\nCLAIM 6: \"I was mistaken\" (Feb 4, 2026 - X)\n\nHoffman said: \"In 2019 I told Axios the last meeting I had with him was in 2015 but I was mistaken, as according to calendar entries I have become aware there were additional fundraising meetings in 2016 and 2018.\"\n\nREALITY: He disclosed \"three meetings and three Skype calls\" after 2015. We have 15+ documented meetings in 2016-2018 alone. Not just messaging. Actual meetings. Skype video calls and in-person visits.\n\nCLAIM 7: \"Did not go to the ranch\" (Feb 3, 2026 - X)\n\nHoffman said: \"I did not go to the ranch.\"\n\nREALITY: Hoffman's visit to Zorro Ranch, March 19, 2014) is thoroughly documented with scheduling emails and travel logistics.\n\nCLAIM 8: \"I deeply regret\" (Feb 2026 - X)\n\nHoffman said: \"Yes, interacting with Epstein post-conviction is something I deeply regret. I promise to continue calling for the full release of the Epstein files -- the victims deserve justice, and those responsible should be held accountable.\"\n\nREALITY: \"Interacting\" is doing extraordinary work here. 42 documented meetings. 44 gift exchanges. Three island trips. A ranch weekend. $100-300M in financial advisory services. Private jets. A Zuckerberg introduction. A secrecy protocol for concealing the relationship. And the phrase \"those responsible should be held accountable\" -- from a man whose own documents show he sent gifts \"for the girls\" to a convicted sex offender's private island, then helped that sex offender meet the CEO of Facebook.",
+          "created_at": "Thu Feb 19 00:13:21 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2024273512639197186",
+              "url": "https://pbs.twimg.com/media/HBeqCOEXcAIipn8.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1038726722",
+            "name": "Kevin Bass",
+            "screen_name": "kevinnbass",
+            "description": "Interested in tech, AI, public health, healthcare — Kicked out of TTU med for truth-telling — I want Texas Tech to tell the truth about what it did",
+            "followers_count": 196303,
+            "friends_count": 2620,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 775,
+            "favorite_count": 2524,
+            "reply_count": 174,
+            "quote_count": 52
+          }
+        },
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 59484,
+          "friends_count": 988,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 96,
+          "favorite_count": 454,
+          "reply_count": 53,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234974629,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 96,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025083411912638665",
+      "text": "RT @JackPosobiec: BREAKING: OpenAI staff wanted to warn Canadian cops about trans school shooter months ago, tech giant said no: bombshell…",
+      "created_at": "Sat Feb 21 05:41:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025018573907784082",
+        "text": "BREAKING: OpenAI staff wanted to warn Canadian cops about trans school shooter months ago, tech giant said no: bombshell report\n\nhttps://t.co/8f4LAKPURi",
+        "created_at": "Sat Feb 21 01:23:45 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "592730371",
+          "name": "Jack Posobiec",
+          "screen_name": "JackPosobiec",
+          "description": "Justice for Charlie Kirk. @HumanEvents. Navy intel vet. NYT Bestselling Author. Communist disrespector. @TPUSA. The @AngryGoTFan",
+          "followers_count": 3311031,
+          "friends_count": 998,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 734,
+          "favorite_count": 2640,
+          "reply_count": 152,
+          "quote_count": 34
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234974629,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 734,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025083375136977407",
+      "text": "RT @MissyIsMaga: @JackPosobiec @OneBadDude_ “I am tired of being trans, I wish I never brainwashed myself.”\n\nThis is Robert or “Robin,” the…",
+      "created_at": "Sat Feb 21 05:41:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025020413676540152",
+        "text": "@JackPosobiec @OneBadDude_ “I am tired of being trans, I wish I never brainwashed myself.”\n\nThis is Robert or “Robin,” the man who committed the heinous Minnesota Sunday School massacrę https://t.co/4pjW9vpdA6",
+        "created_at": "Sat Feb 21 01:31:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025020410082025472",
+            "url": "https://pbs.twimg.com/media/HBpRVX3a4AArpFk.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1938198926827655169",
+          "name": "Missy in So Cal 🇺🇸🎹🤙🏻 MAGA/MAHA",
+          "screen_name": "MissyIsMaga",
+          "description": "🔥I’m a riot🔥TRUMP✝️🎹Allergic to Progressives FB @Nicksortor @GuntherEagleman @Hunter_Eagleman @PapiTrumpo @WallStreetApes @catturd2 R/P by @libsoftiktok",
+          "followers_count": 24579,
+          "friends_count": 21889,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 130,
+          "favorite_count": 535,
+          "reply_count": 69,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234974629,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 130,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025082632858378571",
+      "text": "RT @Starlink: Starlink Mini is portable and connects to high-speed internet in minutes 🛰️🏔️ → https://t.co/4Kynr33sxO",
+      "created_at": "Sat Feb 21 05:38:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2024981020735668569",
+        "text": "Starlink Mini is portable and connects to high-speed internet in minutes 🛰️🏔️ → https://t.co/4Kynr33sxO",
+        "created_at": "Fri Feb 20 22:54:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2013206138108641477",
+          "text": "-37 degrees Celsius in Mongolia photographing the snow leopard. Starlink Mini just works. There is no compromise. \n\n@Starlink @SpaceX @elonmusk https://t.co/Nqka9LznP7",
+          "created_at": "Mon Jan 19 11:05:21 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2013206115375255552",
+              "url": "https://pbs.twimg.com/media/G_BYS6aWEAAECj0.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "944214558792699905",
+            "name": "AB",
+            "screen_name": "AdventureSeek3r",
+            "description": "Animal advocacy. Wildlife protection. 🐱Colony caretaker. 🛑 Stop the animal cruelty. Photographer. Traveler. SOF veteran.",
+            "followers_count": 537,
+            "friends_count": 537,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 7,
+            "favorite_count": 39,
+            "reply_count": 6,
+            "quote_count": 3
+          }
+        },
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1549597,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 186,
+          "favorite_count": 1207,
+          "reply_count": 154,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234974629,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 186,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025080190682964237",
+      "text": "英伟达放弃千亿合作框架，转向直接投资OpenAI 300亿美元\n\n英伟达正在敲定对OpenAI的300亿美元股权投资，最快本周末达成。\n\n这笔投资将取代两家公司去年9月高调宣布的1000亿美元长期合作框架，那份协议从未从意向书变成正式合同，今年1月就被曝已\"搁置\"。\n\n去年那笔交易的设计相当复杂：英伟达分十次、每次投入100亿美元，换取OpenAI的大量股份；OpenAI则承诺购买数百万颗英伟达AI芯片，部署高达10吉瓦的算力。\n\n这种\"我投资你、你买我的芯片\"的循环结构，当时就被分析师质疑有泡沫嫌疑。如今改成更简单的方式，直接掏钱买股票。\n\n这笔投资是OpenAI一轮超过1000亿美元巨额融资的一部分，该轮融资对OpenAI的估值达到7300亿美元。软银同样将投入300亿美元，亚马逊可能投入多达500亿美元并附带模型合作，阿布扎比的MGX基金和微软也将参与。\n\nOpenAI在向投资者路演时透露，计划到2030年在算力资源上花费约6000亿美元。公司目前年化收入已超过200亿美元，且收入增长与算力获取量基本同步，每年都在翻三倍左右。\n\n值得注意的背景是，今年以来美国科技股已下跌17%，AI行业的投资热情正经受考验。在这个节点上，从复杂的绑定式合作退回到简单的股权投资，某种程度上也反映了市场情绪的变化。\n\nhttps://t.co/Y2QHAAmeFQ",
+      "created_at": "Sat Feb 21 05:28:36 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025080087867973632",
+          "url": "https://pbs.twimg.com/media/HBqHnE8WYAAu6Zj.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2017525243313615317",
+        "text": "英伟达与OpenAI的千亿美元交易陷入僵局\n\n英伟达原计划向OpenAI投资最高1000亿美元的合作协议已经停滞。这笔交易去年9月由双方CEO黄仁勋和Sam Altman在英伟达总部联合宣布，当时被称为\"史上最大算力项目\"，消息一出英伟达股价大涨近4%。但据《华尔街日报》报道，谈判至今未能推进到实质阶段。\n\n问题出在英伟达内部。黄仁勋近几个月私下向业界人士强调，当初签的只是不具约束力的谅解备忘录。他还批评OpenAI缺乏商业纪律，并对其面临的竞争压力表示担忧——Google的Gemini正在蚕食ChatGPT的增长，Anthropic的编程助手Claude Code也势头凶猛。值得一提的是，英伟达去年11月已承诺向Anthropic投资100亿美元。\n\n目前双方正在探讨新的合作方式，包括英伟达以数百亿美元参与OpenAI当前的融资轮。对OpenAI而言，这笔交易的搁浅是个打击——公司计划2026年底前上市，急需锁定大量算力支撑未来发展。这也再次暴露了Altman热衷高调宣布大交易的风格风险：协议未敲定就先造势，一旦生变就很被动。\n\nhttps://t.co/3nZcyCXXWT",
+        "created_at": "Sat Jan 31 09:07:56 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2017525120827330560",
+            "url": "https://pbs.twimg.com/media/G_-waHhXEAAq_2F.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 183829,
+          "friends_count": 1555,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 19,
+          "favorite_count": 71,
+          "reply_count": 18,
+          "quote_count": 5
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183829,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 12,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025077979739554149",
+      "text": "The future is accelerating",
+      "created_at": "Sat Feb 21 05:19:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2024957225790570927",
+        "text": "\"a first step towards becoming a Kardashev II-level civilization.\" - Elon Musk\n\nIn the last three weeks:\n\nSpaceX acquired xAI, merging the world's largest rocket company with one of the fastest-moving AI labs on the planet. SpaceX valued at $1 trillion.\n\nThe stated goal of the merger: build orbital data centers. A constellation of a million satellites that generate AI compute in space, powered by near-constant solar energy with near-zero operating costs. Elon Musk's words: \"Within 2 to 3 years, the lowest cost way to generate AI compute will be in space.\"\n\nThe math he laid out: launching a million tons per year of satellites generating 100 kW of compute per ton adds 100 gigawatts of AI compute capacity annually. The long-term path is 1 terawatt per year from Earth launches alone. And with lunar factories using electromagnetic mass drivers, 500 to 1,000 terawatts per year into deep space.\n\nElon Musk also announced SpaceX is building a self-growing city on the Moon. Target: under 10 years. First uncrewed landing: March 2027. Lunar manufacturing will feed the orbital compute network. Factories on the Moon building satellites and launching them deeper into the solar system.\n\nAnd the rocket that makes all of it possible, Starship V3, with 100+ tons to orbit, orbital refueling, and Raptor 3 engines, is targeting its first flight in mid-March. The plan: launches every hour, 200 tons per flight, millions of tons to orbit per year.\n\nThe most powerful rocket in history. Aimed at the Moon. Designed to launch the largest AI infrastructure ever built. Weeks from flying.\n\nIt's happening.",
+        "created_at": "Fri Feb 20 21:19:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2024956939873247232",
+            "url": "https://pbs.twimg.com/media/HBoXm66bYAAzkCf.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C · asm · AI art via grok imagine · @tetsuocorp · @7etsuo",
+          "followers_count": 225614,
+          "friends_count": 864,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 251,
+          "favorite_count": 1430,
+          "reply_count": 195,
+          "quote_count": 31
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234974629,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 993,
+        "favorite_count": 8943,
+        "reply_count": 1698,
+        "quote_count": 73
+      }
+    },
+    {
+      "id": "2025074505106718875",
+      "text": "True",
+      "created_at": "Sat Feb 21 05:06:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025046740269937093",
+        "text": "And this is just his personal tax. His companies will pay at least that much again. And then his employees' taxes, and his investors' taxes, and and and.",
+        "created_at": "Sat Feb 21 03:15:41 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5943622",
+          "name": "Marc Andreessen 🇺🇸",
+          "screen_name": "pmarca",
+          "description": "Grand Theft Auto 6 (GTA 6) is officially scheduled to be released on November 19, 2026.",
+          "followers_count": 2120864,
+          "friends_count": 28769,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 156,
+          "favorite_count": 2218,
+          "reply_count": 155,
+          "quote_count": 20
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 234974629,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 661,
+        "favorite_count": 7478,
+        "reply_count": 1015,
+        "quote_count": 23
+      }
+    },
     {
       "id": "2025054631391375741",
       "text": "https://t.co/r3hQQzXks1",

@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 183824,
+    "followers_count": 183829,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260221",
-  "last_updated": "2026-02-21T04:33:34.706267",
-  "tweet_count": 2,
+  "last_updated": "2026-02-21T06:13:52.492504",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2025003573004681524",
@@ -63,6 +63,57 @@
         "favorite_count": 19,
         "reply_count": 2,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2025080190682964237",
+      "text": "英伟达放弃千亿合作框架，转向直接投资OpenAI 300亿美元\n\n英伟达正在敲定对OpenAI的300亿美元股权投资，最快本周末达成。\n\n这笔投资将取代两家公司去年9月高调宣布的1000亿美元长期合作框架，那份协议从未从意向书变成正式合同，今年1月就被曝已\"搁置\"。\n\n去年那笔交易的设计相当复杂：英伟达分十次、每次投入100亿美元，换取OpenAI的大量股份；OpenAI则承诺购买数百万颗英伟达AI芯片，部署高达10吉瓦的算力。\n\n这种\"我投资你、你买我的芯片\"的循环结构，当时就被分析师质疑有泡沫嫌疑。如今改成更简单的方式，直接掏钱买股票。\n\n这笔投资是OpenAI一轮超过1000亿美元巨额融资的一部分，该轮融资对OpenAI的估值达到7300亿美元。软银同样将投入300亿美元，亚马逊可能投入多达500亿美元并附带模型合作，阿布扎比的MGX基金和微软也将参与。\n\nOpenAI在向投资者路演时透露，计划到2030年在算力资源上花费约6000亿美元。公司目前年化收入已超过200亿美元，且收入增长与算力获取量基本同步，每年都在翻三倍左右。\n\n值得注意的背景是，今年以来美国科技股已下跌17%，AI行业的投资热情正经受考验。在这个节点上，从复杂的绑定式合作退回到简单的股权投资，某种程度上也反映了市场情绪的变化。\n\nhttps://t.co/Y2QHAAmeFQ",
+      "created_at": "Sat Feb 21 05:28:36 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025080087867973632",
+          "url": "https://pbs.twimg.com/media/HBqHnE8WYAAu6Zj.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2017525243313615317",
+        "text": "英伟达与OpenAI的千亿美元交易陷入僵局\n\n英伟达原计划向OpenAI投资最高1000亿美元的合作协议已经停滞。这笔交易去年9月由双方CEO黄仁勋和Sam Altman在英伟达总部联合宣布，当时被称为\"史上最大算力项目\"，消息一出英伟达股价大涨近4%。但据《华尔街日报》报道，谈判至今未能推进到实质阶段。\n\n问题出在英伟达内部。黄仁勋近几个月私下向业界人士强调，当初签的只是不具约束力的谅解备忘录。他还批评OpenAI缺乏商业纪律，并对其面临的竞争压力表示担忧——Google的Gemini正在蚕食ChatGPT的增长，Anthropic的编程助手Claude Code也势头凶猛。值得一提的是，英伟达去年11月已承诺向Anthropic投资100亿美元。\n\n目前双方正在探讨新的合作方式，包括英伟达以数百亿美元参与OpenAI当前的融资轮。对OpenAI而言，这笔交易的搁浅是个打击——公司计划2026年底前上市，急需锁定大量算力支撑未来发展。这也再次暴露了Altman热衷高调宣布大交易的风格风险：协议未敲定就先造势，一旦生变就很被动。\n\nhttps://t.co/3nZcyCXXWT",
+        "created_at": "Sat Jan 31 09:07:56 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2017525120827330560",
+            "url": "https://pbs.twimg.com/media/G_-waHhXEAAq_2F.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 183829,
+          "friends_count": 1555,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 19,
+          "favorite_count": 71,
+          "reply_count": 18,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 12,
+        "reply_count": 4,
+        "quote_count": 0
       }
     }
   ]
