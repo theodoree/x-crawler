@@ -1,12 +1,116 @@
 {
   "date": "20260222",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-22T16:07:43.806480",
-  "tweet_count": 230,
-  "unique_tweet_count": 230,
-  "total_crawled": 428,
+  "last_crawl_time": "2026-02-22T18:08:49.380263",
+  "tweet_count": 232,
+  "unique_tweet_count": 232,
+  "total_crawled": 430,
   "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2025627350935773413",
+      "text": "RT @jarodise: 大家也许还记得，科幻作家Ted Chiang（特德·姜）2023年发表在《纽约客》杂志的那篇著名的文章 -《ChatGPT是互联网的有损压缩》，彼时，ChatGPT还处在大火的阶段，这篇泼冷水的文章引起了很大的关注。…",
+      "created_at": "Sun Feb 22 17:42:49 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2025570161844224190",
+        "text": "大家也许还记得，科幻作家Ted Chiang（特德·姜）2023年发表在《纽约客》杂志的那篇著名的文章 -《ChatGPT是互联网的有损压缩》，彼时，ChatGPT还处在大火的阶段，这篇泼冷水的文章引起了很大的关注。\n\n一年后，他再次在纽约客上发表了一篇关于AI的文章，也许是因为观点过于悲观，又或许是文章标题（《为什么AI不能创造艺术》）没有第一次的那么惊艳，这篇文章好像并没有产生太大反响。\n\n文章的主要观点很明确，即艺术创作本质上是艺术家做选择的过程，无论是小说，画作，抑或是摄影，都是艺术家付出极大心血，作出成千上万个选择后生成的结果，相比之下，使用提示词来驱动AI进行创作，AI在这个过程中所做的选择数量是受限于你的提示词范围的，因此无法产生同等质量的艺术创作。\n\n用作者的原话说，“生成式AI的卖点在于，程序的输出远超你的输入，而这恰恰是它们无法成为艺术家有效工具的原因。”\n\n更进一步：“任何值得你花时间阅读的作品，都是作者付出心血的成果。”\n\n当然，生成式AI作为一种工具，也不是完全不能用来创作，假设你尝试使用AI创作一部10万字的小说，但是为了达到预期艺术效果，你输入AI的提示词的字数也接近10万字的时候，使用AI的意义就不大了，更别说你还无法保证这段提示词的可复用性。\n\n我想这也是为什么人们对于现在互联网上涌现出来的大量AI生成的文字嗤之以鼻的主要原因，虽然很多AI生成的文字已经非常接近真实人类的写作效果，但是大部分读者依然能够从中察觉出“机器味儿”。\n\n换句话说，做选择的能力正是人类智能的核心体现，人味儿是真人选择的结果，而现阶段所谓的AI并不擅长做选择题。\n\n大家伙也许还记得2024年谷歌前CEO施密特的斯坦福大学演讲，演讲很长，很多人都尝试使用AI来总结它的要点，但是真正胜出的版本还是 @阑夕 人工总结的版本。\n\n在特德·姜看来，无论大语言模型技术如何发展，这个问题在短期内无解，因为归根结底，生成式AI只是在模仿人类的“技能”（skill），但是它做的事情离“智能”(Intelligence) 还有十万八千里。\n\n原文链接在此： \n\nhttps://t.co/npBzjzpB4t",
+        "created_at": "Sun Feb 22 13:55:34 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "10731742",
+          "name": "数字游民Jarod",
+          "screen_name": "jarodise",
+          "description": "👨🏿‍🔧曾经的石油工程师\n🪄现在的内容创作者\n🚩数字游民部落群主\n🌎在亚非欧拉北美都有深度旅居体验\n🧭如何成为数字游民?(置顶)",
+          "followers_count": 6055,
+          "friends_count": 1034,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 39,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 184112,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025624550512132593",
+      "text": "可以让 codex 去 ~/.codex/sessions 找历史聊天记录，Claude Code 就去 ~/.claude/projects",
+      "created_at": "Sun Feb 22 17:31:41 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025501963459399682",
+        "text": "宝玉老师，怎么让codex查看历史聊天记录复盘今天对话了哪些内容呢@dotey https://t.co/N1mi6Qhc8T",
+        "created_at": "Sun Feb 22 09:24:34 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025501761910497280",
+            "url": "https://pbs.twimg.com/media/HBwHHvKaYAAdvI5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1819784617093918721",
+          "name": "朝林",
+          "screen_name": "linjunwu6941",
+          "description": "",
+          "followers_count": 22,
+          "friends_count": 226,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 184112,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 10,
+        "reply_count": 3,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2025582762200076313",
       "text": "RT @art_muse: QT Butterfly Art 🦋 https://t.co/kInEf8k0VZ",
