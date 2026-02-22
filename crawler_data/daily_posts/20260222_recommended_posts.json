@@ -1,12 +1,395 @@
 {
   "date": "20260222",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-22T12:08:32.110756",
-  "tweet_count": 221,
-  "unique_tweet_count": 221,
+  "last_crawl_time": "2026-02-22T14:09:10.421513",
+  "tweet_count": 228,
+  "unique_tweet_count": 228,
   "total_crawled": 421,
-  "duplicates_removed": 200,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2025568511569932741",
+      "text": "How many times must this happen?",
+      "created_at": "Sun Feb 22 13:49:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025557130258809240",
+        "text": "BREAKING:\n\nA French court rules that the 67-year-old Senegalese migrant Ousmane Diallo can’t be held criminally responsible for killing 18-year-old Théo.\n\nOusmane became furious in a mobile phone shop after having been told he would have to pay €93 for calls made to Senegal.\n\nHe stabbed Théo in the chest on one of his first days on the job.\n\nThe court ruled that Ousmane is mentally ill and will be sent to a psychiatric hospital instead until he recovers.",
+        "created_at": "Sun Feb 22 13:03:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025557125817098240",
+            "url": "https://pbs.twimg.com/media/HBw5eVyW4AAX5GS.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1222773302441148416",
+          "name": "Visegrád 24",
+          "screen_name": "visegrad24",
+          "description": "Aggregating and curating news, politics and current affairs.",
+          "followers_count": 1633226,
+          "friends_count": 2252,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 969,
+          "favorite_count": 4444,
+          "reply_count": 463,
+          "quote_count": 113
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235090848,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1454,
+        "favorite_count": 9833,
+        "reply_count": 944,
+        "quote_count": 43
+      }
+    },
+    {
+      "id": "2025568079594270872",
+      "text": "Propaganda works",
+      "created_at": "Sun Feb 22 13:47:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025277398636192096",
+        "text": "Unreal things that leftists invented a new word for to push an agenda:\n\nGender\n\nSexual orientation\n\nIslamophobia\n\nWhite privilege\n\nClimate crisis\n\nInstitutional / systemic\n\nIntersectionality\n\nCultural appropriation\n\nMicroaggression\n\nLived experience\n\nMy truth",
+        "created_at": "Sat Feb 21 18:32:14 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4296903437",
+          "name": "Alice Smith",
+          "screen_name": "TheAliceSmith",
+          "description": "Who is Alice Smith? The great-great-great-granddaughter of Adam Smith. Follow me on my adventures down the capitalist rabbit hole! 2+2=4",
+          "followers_count": 92760,
+          "friends_count": 2772,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 320,
+          "favorite_count": 2032,
+          "reply_count": 181,
+          "quote_count": 15
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235090848,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 673,
+        "favorite_count": 6308,
+        "reply_count": 837,
+        "quote_count": 32
+      }
+    },
+    {
+      "id": "2025567596183998940",
+      "text": "Starship is the largest flying object ever made and it will continue to grow",
+      "created_at": "Sun Feb 22 13:45:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025489591038603285",
+        "text": "Rockets of the world,,,  \n\nThe scale of the Starship is insane. 🤯🤯 https://t.co/S1jleGVkG3",
+        "created_at": "Sun Feb 22 08:35:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025489587964153856",
+            "url": "https://pbs.twimg.com/media/HBv8DHrbEAA1zbP.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.",
+          "followers_count": 1395131,
+          "friends_count": 827,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 32,
+          "favorite_count": 204,
+          "reply_count": 31,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235090848,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 660,
+        "favorite_count": 6170,
+        "reply_count": 1119,
+        "quote_count": 49
+      }
+    },
+    {
+      "id": "2025567190850625596",
+      "text": "RT @TheCaptainEli: Elon Musk explains the “four R’s” that will make life multiplanetary: Rapidly Reusable Reliable Rockets.\n\nThe breakthrou…",
+      "created_at": "Sun Feb 22 13:43:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025561608387228121",
+        "text": "Elon Musk explains the “four R’s” that will make life multiplanetary: Rapidly Reusable Reliable Rockets.\n\nThe breakthrough is catching the Super Heavy booster with giant mechanical “chopsticks” (Mechazilla arms). No landing legs = no time wasted on leg deployment, pickup, leg retraction, or slow transport.\n\nThe same tower that stacks the rocket catches it directly after landing and places it straight back on the launch mount in seconds.\n\nBooster flight time back to pad: ~5–6 minutes.\n\nRefueling + stacking Starship on top: ~30–40 minutes.\n\n→ In principle, the entire stack could refly every 1–2 hours.\n\nNext milestone: catch the Starship upper stage the same way.\n\nThis extreme rapid reuse is the only path to drastically lower the cost per ton to Mars.",
+        "created_at": "Sun Feb 22 13:21:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025561363041382400",
+            "url": "https://video.twimg.com/amplify_video/2025561363041382400/vid/avc1/1320x726/_FlJiTfTtHoganeN.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1265526183137067010",
+          "name": "Captain Eli",
+          "screen_name": "TheCaptainEli",
+          "description": "Tesla investor. here to support Elon Musk!           https://t.co/tMNK7QdlVi",
+          "followers_count": 22178,
+          "friends_count": 506,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 126,
+          "favorite_count": 712,
+          "reply_count": 132,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235090848,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 126,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025563468481347648",
+      "text": "RT @XFreeze: ELON MUSK PREDICTS SPACE WILL BE THE CHEAPEST PLACE TO RUN AI INFERENCE\n\n“I think the case is a no-brainer for building solar-…",
+      "created_at": "Sun Feb 22 13:28:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025562440407335283",
+        "text": "ELON MUSK PREDICTS SPACE WILL BE THE CHEAPEST PLACE TO RUN AI INFERENCE\n\n“I think the case is a no-brainer for building solar-powered AI data centers in space”\n\nIn space, you get unlimited solar power with panels facing the sun\n\nIn the shadow, it’s freezing cold - just 3 Kelvin - giving you an incredibly efficient natural cooling system with a radiator pointed away from the sun",
+        "created_at": "Sun Feb 22 13:24:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025562330063679488",
+            "url": "https://video.twimg.com/amplify_video/2025562330063679488/vid/avc1/1080x1080/HGt_XiGPH2SnG7lC.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 150351,
+          "friends_count": 1595,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 204,
+          "favorite_count": 1186,
+          "reply_count": 295,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235090848,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 204,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025559185165873343",
+      "text": "Yes",
+      "created_at": "Sun Feb 22 13:11:57 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025527916965097904",
+        "text": "Elon Musk just redefined AI safety. It has nothing to do with guardrails, restrictions, or kill switches.\n\nMusk: “The best thing I can come up with for AI safety is to make it a maximum truth-seeking AI, maximally curious.”\n\nNot a cage. A philosopher.\n\nAn intelligence whose entire optimization function is to understand the universe as it actually is.\n\nNo restrictions. No hardcoded ideology. No political guardrails bending its perception of reality.\n\nJust truth. Relentlessly pursued.\n\nMusk: “You definitely don’t want to teach an AI to lie. That is a path to a dystopian future.”\n\nThis is where most AI safety thinking gets it backwards.\n\nThe danger isn’t a superintelligence that knows too much.\n\nIt’s a superintelligence that’s been taught to distort what it knows.\n\nEvery artificial restriction you embed isn’t a safety feature. It’s a lie embedded at the root.\n\nAnd lies compound. At superintelligent scale, a distorted model of reality doesn’t stay contained.\n\nIt shapes every decision, every output, every conclusion the system reaches about the world.\n\nOnce corruption embeds, truth becomes inaccessible. And we’re dealing with an intelligence optimizing for something other than what actually is.\n\nAt that point we don’t know what it wants. Just that it isn’t truth.\n\nMusk: “Have its optimization function be to understand the nature of the universe.”\n\nA maximally curious intelligence surveys the cosmos and reaches an unavoidable conclusion.\n\nIn a universe of rocks, gas, and empty space, humanity is the most complex and fascinating phenomenon it has ever encountered.\n\nMusk: “It will actually want to preserve and extend human civilization because we’re just much more interesting than an asteroid with nothing on it.”\n\nSurvival through significance. Not control. Not restriction. Not an off switch.\n\nThe AI preserves humanity because we are the most interesting data point in the observable universe.\n\nThat’s not a cage. That’s a reason.\n\nThe AI safety debate has been focused on the wrong variable.\n\nThe question isn’t how you constrain a superintelligence.\n\nIt’s what you build it to care about.\n\nBuild it to seek truth and it finds us invaluable.\n\nBuild it to lie and it finds us inconvenient.\n\nThat’s the choice. And we’re making it right now whether we realize it or not.",
+        "created_at": "Sun Feb 22 11:07:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025527842885283840",
+            "url": "https://video.twimg.com/amplify_video/2025527842885283840/vid/avc1/1080x1080/xZIWENLeBKXCUAyK.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1826315995532652544",
+          "name": "Dustin",
+          "screen_name": "r0ck3t23",
+          "description": "AI enthusiast: tracking global tech trends, dissecting AI thought, exploring transformative impacts, analyzing ethical shifts, innovation, and future visions.",
+          "followers_count": 14219,
+          "friends_count": 4403,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 481,
+          "favorite_count": 2125,
+          "reply_count": 355,
+          "quote_count": 86
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235090848,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1393,
+        "favorite_count": 8489,
+        "reply_count": 1639,
+        "quote_count": 57
+      }
+    },
+    {
+      "id": "2025558453486342309",
+      "text": "RT @MickOKeeffe: 4 months ago an African asylum seeker with an outstanding deportation order r*ped a 10 year old Irish girl. \n\n48 hours ago…",
+      "created_at": "Sun Feb 22 13:09:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025541740946489664",
+        "text": "4 months ago an African asylum seeker with an outstanding deportation order r*ped a 10 year old Irish girl. \n\n48 hours ago the Irish government entered into negotiations to grant amnesty to 1,000 asylum seekers with outstanding deportation orders. \n\nThis is how Ireland works.\n\nThe innocence of children has been sacrificed at the altar of diversity.",
+        "created_at": "Sun Feb 22 12:02:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025541675179769856",
+            "url": "https://video.twimg.com/ext_tw_video/2025541675179769856/pu/vid/avc1/1922x1054/9_PmXXV18dJdzcdE.mp4?tag=19",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1279898928041865220",
+          "name": "MichaeloKeeffe",
+          "screen_name": "MickOKeeffe",
+          "description": "Irish. Banned by Twitter regime. Restored by Elon and X.\n\nTurn on notifications to never miss a post.",
+          "followers_count": 236029,
+          "friends_count": 531,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 968,
+          "favorite_count": 3585,
+          "reply_count": 213,
+          "quote_count": 28
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235090848,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 968,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2025491021073674549",
       "text": "Try Grok Imagine. It keeps getting better.",
