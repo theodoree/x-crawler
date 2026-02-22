@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235112214,
+    "followers_count": 235123817,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260222",
-  "last_updated": "2026-02-22T18:08:49.415594",
-  "tweet_count": 29,
+  "last_updated": "2026-02-22T20:06:12.970071",
+  "tweet_count": 31,
   "tweets": [
     {
       "id": "2025389014606299265",
@@ -1249,6 +1249,115 @@
       "quoted": null,
       "stats": {
         "retweet_count": 178,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025654459028709585",
+      "text": "Starlink",
+      "created_at": "Sun Feb 22 19:30:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025653535451295769",
+        "text": "This guy tested Starlink in the middle of the ocean and played CS2 with almost perfect ping https://t.co/ErSFZ67631",
+        "created_at": "Sun Feb 22 19:26:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025653481592221697",
+            "url": "https://video.twimg.com/amplify_video/2025653481592221697/vid/avc1/720x1076/rQNp5feX0HhlIM-g.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "855481986290524160",
+          "name": "Historic Vids",
+          "screen_name": "historyinmemes",
+          "description": "Daily history lessons. Education through memes!",
+          "followers_count": 6082690,
+          "friends_count": 349,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 134,
+          "favorite_count": 1615,
+          "reply_count": 137,
+          "quote_count": 21
+        }
+      },
+      "stats": {
+        "retweet_count": 1136,
+        "favorite_count": 18932,
+        "reply_count": 1301,
+        "quote_count": 44
+      }
+    },
+    {
+      "id": "2025654955667812453",
+      "text": "RT @ggreenwald: Countries are passing laws requiring state ID in order to use social media (\"protecting kids\" is the pretext), but the real…",
+      "created_at": "Sun Feb 22 19:32:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025594151354454465",
+        "text": "Countries are passing laws requiring state ID in order to use social media (\"protecting kids\" is the pretext), but the real effect is to track everyone online .\n\nIt upsets some when I say it, but @TaylorLorenz has been one of the few reporting on and warning about this danger.",
+        "created_at": "Sun Feb 22 15:30:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2025370165337047055",
+          "text": "The social media ban for teenagers which is being fast-tracked across the Western world, is a Trojan horse for ending internet anonymity. That is the short of it and the long of it. Resist it at all costs.",
+          "created_at": "Sun Feb 22 00:40:51 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2565360157",
+            "name": "Hans Mahncke",
+            "screen_name": "HansMahncke",
+            "description": "Author of Swiftboating America, the definitive account of the greatest political crime in history.",
+            "followers_count": 213634,
+            "friends_count": 873,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2809,
+            "favorite_count": 9896,
+            "reply_count": 159,
+            "quote_count": 66
+          }
+        },
+        "user": {
+          "id": "16076032",
+          "name": "Glenn Greenwald",
+          "screen_name": "ggreenwald",
+          "description": "Journalist; Author; Columnist, @Folha; Founder: @TheInterceptBr; Co-Founder: @FreedomofPress, @theintercept; @idm_org; @abrigo_hope. Former Lawyer. Vegan.",
+          "followers_count": 2353173,
+          "friends_count": 990,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 780,
+          "favorite_count": 3484,
+          "reply_count": 302,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 780,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

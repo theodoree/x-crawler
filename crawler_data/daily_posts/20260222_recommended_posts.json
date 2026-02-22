@@ -1,12 +1,190 @@
 {
   "date": "20260222",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-22T18:08:49.380263",
-  "tweet_count": 232,
-  "unique_tweet_count": 232,
-  "total_crawled": 430,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-02-22T20:06:12.937739",
+  "tweet_count": 235,
+  "unique_tweet_count": 235,
+  "total_crawled": 432,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2025654955667812453",
+      "text": "RT @ggreenwald: Countries are passing laws requiring state ID in order to use social media (\"protecting kids\" is the pretext), but the real…",
+      "created_at": "Sun Feb 22 19:32:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025594151354454465",
+        "text": "Countries are passing laws requiring state ID in order to use social media (\"protecting kids\" is the pretext), but the real effect is to track everyone online .\n\nIt upsets some when I say it, but @TaylorLorenz has been one of the few reporting on and warning about this danger.",
+        "created_at": "Sun Feb 22 15:30:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2025370165337047055",
+          "text": "The social media ban for teenagers which is being fast-tracked across the Western world, is a Trojan horse for ending internet anonymity. That is the short of it and the long of it. Resist it at all costs.",
+          "created_at": "Sun Feb 22 00:40:51 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2565360157",
+            "name": "Hans Mahncke",
+            "screen_name": "HansMahncke",
+            "description": "Author of Swiftboating America, the definitive account of the greatest political crime in history.",
+            "followers_count": 213634,
+            "friends_count": 873,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2809,
+            "favorite_count": 9896,
+            "reply_count": 159,
+            "quote_count": 66
+          }
+        },
+        "user": {
+          "id": "16076032",
+          "name": "Glenn Greenwald",
+          "screen_name": "ggreenwald",
+          "description": "Journalist; Author; Columnist, @Folha; Founder: @TheInterceptBr; Co-Founder: @FreedomofPress, @theintercept; @idm_org; @abrigo_hope. Former Lawyer. Vegan.",
+          "followers_count": 2353173,
+          "friends_count": 990,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 780,
+          "favorite_count": 3484,
+          "reply_count": 302,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235123817,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 780,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025654459028709585",
+      "text": "Starlink",
+      "created_at": "Sun Feb 22 19:30:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025653535451295769",
+        "text": "This guy tested Starlink in the middle of the ocean and played CS2 with almost perfect ping https://t.co/ErSFZ67631",
+        "created_at": "Sun Feb 22 19:26:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025653481592221697",
+            "url": "https://video.twimg.com/amplify_video/2025653481592221697/vid/avc1/720x1076/rQNp5feX0HhlIM-g.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "855481986290524160",
+          "name": "Historic Vids",
+          "screen_name": "historyinmemes",
+          "description": "Daily history lessons. Education through memes!",
+          "followers_count": 6082690,
+          "friends_count": 349,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 134,
+          "favorite_count": 1615,
+          "reply_count": 137,
+          "quote_count": 21
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235123817,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1136,
+        "favorite_count": 18932,
+        "reply_count": 1301,
+        "quote_count": 44
+      }
+    },
+    {
+      "id": "2025635463273304363",
+      "text": "RT @BensonTWN: 昨天提到，現在 AI 的繁榮，是資本+工程面大力出奇蹟的結果，LLM 在學術界眼中其實有很大的缺陷。\n\n這種現象，還有一個更經典的案例：\n其實人類並不真的完全理解為什麼飛機飛得起來。\n\n你可能會想，這怎麼可能？\n\n我們都能造出載著幾百人橫跨太平洋的…",
+      "created_at": "Sun Feb 22 18:15:03 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2025542340639641638",
+        "text": "昨天提到，現在 AI 的繁榮，是資本+工程面大力出奇蹟的結果，LLM 在學術界眼中其實有很大的缺陷。\n\n這種現象，還有一個更經典的案例：\n其實人類並不真的完全理解為什麼飛機飛得起來。\n\n你可能會想，這怎麼可能？\n\n我們都能造出載著幾百人橫跨太平洋的波音 747 了，怎麼會不知道它為什麼能飛？\n\n高中物理課我們學過一套說法，叫做「等時理論」。\n\n這套理論說，因為機翼上方比較彎、路徑長，所以空氣為了要跟下方的空氣在末端「準時集合」，就得跑得快一點。\n\n根據伯努利定律，流速快壓力就小，這就產生了升力。  \n\n但這個邏輯在物理上是完全錯誤的。  \n\n首先，沒有任何物理定律規定兩股空氣必須同時到達末端。事實上，實驗證明機翼上方的空氣不但跑得比較快，而且會比下方的空氣早得多抵達末端。  \n\n更打臉的是，很多特技飛機的機翼是上下完全對稱的對稱翼，甚至飛機能夠倒著飛，這完全打臉了「路徑長短決定速度」的說法。  \n\n如果你去問物理學家，你會陷入一場循環論證。  \n\n伯努利派說是因為壓力差，牛頓派說是因為機翼把空氣往下推的反作用力。  \n\n這就像是你問，是股價上漲帶動了投資人信心，還是投資人信心帶動了股價上漲？  \n\n在流體力學裡，這是一個互相糾纏的系統。你沒辦法單獨把其中一個拉出來當成絕對的因，它們是同時發生的。  \n\n這背後真正的終極大魔王，是納維－斯托克斯方程式。它是流體世界的牛頓第二定律，試圖描述每一滴水、每一絲風的動向。\n\n但這個方程式有一個恐怖的特性：非線性。這意味著速度會影響它自己的加速度，導致混亂的湍流出現。  \n\n這個方程複雜到如果你能證明它的解在三維空間裡是平滑且存在的，你就能領到一百萬美元的千禧年大獎。到現在為止，沒人領到這筆錢。  \n\n而最讓科學家尷尬的地方在於，如果你用最純粹的物理方程式去算，不考慮摩擦力，飛機根本不會有升力。  \n\n空氣會繞過機翼末端捲回來抵消掉力量。為了讓飛機能飛，工程師必須在數學模型裡塞進一個作弊碼，叫「庫塔條件」。  \n\n庫塔條件的白話文版本就是：「我們強行規定空氣必須平滑地離開機翼末端。」  \n\n為什麼要這樣規定？因為我們觀察到現實中的飛機就是這樣飛的。沒有人從基礎物理推導出這條法則。  \n\n這就是最弔詭的地方。庫塔條件是一個基於觀察的「經驗法則」，而不是從第一原理推導出來的必然結果。  \n\n換句話說，我們在數學上可以精準預測升力，是因為我們強行加入了一個「因為它會飛，所以流體應該這樣動」的觀察結果。\n\n科學家追求的是一條從原子、從分子的相互作用開始，一步步推導到波音 747 升空的完美邏輯鏈。\n\n他們想要的是一個不需要任何假設、不需要任何「因為我看見它發生了所以它是對的」這種前提的純粹真理。  \n\n但這條路太難走了，走著走著，飛機都已經在天上飛了一百年，物理學家還在方程式的泥沼裡掙扎。  \n\n所以說，飛機之所以能飛，是工程師的勝利，科學界至今仍然不能完美解釋飛機的飛行原理。  \n\n這跟 LLM 是不是很像？  我們在 LLM 身上加了思維鏈，加了各種多模態，加了上下文工程。這些東西在科學家眼裡可能只是為了掩蓋缺陷而打的補丁，但在工程師手裡，這些補丁疊加在一起就成了奇蹟。\n\n我們並沒有解決「智慧到底是什麼」這個本質問題，就像我們沒解決「升力的物理本質」一樣。我們只是找到了一套極其有效的手段，讓這架不像鳥的機器飛了起來。\n\n---\n\n庫塔條件被塞進方程式，到現在超過一百年了。  \n\n當初大家覺得這是權宜之計。等數學追上來，就能從第一原理解釋一切，到時候這個作弊碼就可以拿掉了。  \n\n結果一百年過去了，它還在那裡。飛機從螺旋槳換成噴射引擎，從幾個人坐到幾百個人坐，庫塔條件一直都在。\n\n工程界並沒有等數學家算出答案，自己先捲起袖子開幹了。這種實用主義在一些有想法潔癖的人眼中可能不太乾淨，但人類文明的發展歷史，很多時候解法都髒髒的。\n\nLLM 也一樣。我們可能永遠搞不清楚「智慧」到底是什麼。但這不妨礙有人已經用它蓋出東西來了。  \n\n時至今日，已經沒有人再去管飛機升空的物理原理了。我在想，會不會一百年後，LLM 還在，而 CoT 跟 RLHF 這種補丁就跟庫塔條件一樣，也沒人在乎了？",
+        "created_at": "Sun Feb 22 12:05:01 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1086203224388907014",
+          "name": "Benson Sun",
+          "screen_name": "BensonTWN",
+          "description": "Founder of @coinkarma_\nFull-time degen, part-time shit poster\n\nhttps://t.co/kibwqND8yQ",
+          "followers_count": 75959,
+          "friends_count": 906,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 46,
+          "favorite_count": 304,
+          "reply_count": 35,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 184122,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 46,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2025627350935773413",
       "text": "RT @jarodise: 大家也许还记得，科幻作家Ted Chiang（特德·姜）2023年发表在《纽约客》杂志的那篇著名的文章 -《ChatGPT是互联网的有损压缩》，彼时，ChatGPT还处在大火的阶段，这篇泼冷水的文章引起了很大的关注。…",
