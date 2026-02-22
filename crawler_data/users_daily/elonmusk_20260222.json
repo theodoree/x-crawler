@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235056168,
+    "followers_count": 235063451,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260222",
-  "last_updated": "2026-02-22T06:16:54.288959",
-  "tweet_count": 3,
+  "last_updated": "2026-02-22T08:08:22.481488",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2025389014606299265",
@@ -114,6 +114,259 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2025457607901671455",
+      "text": "RT @cb_doge: Mass driver on the Moon or bust! https://t.co/TEQluz87VB",
+      "created_at": "Sun Feb 22 06:28:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025450938614632448",
+          "url": "https://pbs.twimg.com/media/HBvY5bobUAAlXdY.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2025450944394412529",
+        "text": "Mass driver on the Moon or bust! https://t.co/TEQluz87VB",
+        "created_at": "Sun Feb 22 06:01:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025450938614632448",
+            "url": "https://pbs.twimg.com/media/HBvY5bobUAAlXdY.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1840219,
+          "friends_count": 903,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 298,
+          "favorite_count": 2058,
+          "reply_count": 519,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 298,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025461292257935362",
+      "text": "Sometimes it’s explicit, most times it’s implicit",
+      "created_at": "Sun Feb 22 06:42:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025341171644408292",
+        "text": "Elon Musk on Joe Rogan: “If AI gets programmed by the extinctionists, its utility function will be the extinction of humanity.”\n\nIn this 3:04 clip, Musk blasts the “death cult” mindset he sees in elite circles:\n\n- Calls out a New York Times-featured guy from the Voluntary Human Extinction Movement who wants zero humans left (“better if there were none”).  \n\n- Says this anti-human view has infiltrated social media, Google, and Facebook.  \n\n- Warns the extreme environmentalism turns humanity into a “plague” — and if extinctionists influence AI, it could literally aim to wipe us out.  \n\n- Rogan jokes he'd party with the guy; Musk says he can “go to hell.”\n\nMusk: “I'm pro-environment… but they've gone way too far. Earth could handle 10X the population without destroying rainforests.”\n\nA stark warning on AI safety and the dangers of anti-human ideology.\n\nIs Musk right — is this a real threat, or just paranoia?",
+        "created_at": "Sat Feb 21 22:45:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025337442945961984",
+            "url": "https://video.twimg.com/amplify_video/2025337442945961984/vid/avc1/1280x720/X4r4PXYkLTgxKZti.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1109532876310302721",
+          "name": "Camus",
+          "screen_name": "newstart_2024",
+          "description": "DM for removals/credit\nIf we cannot do good, let us at least not do evil.",
+          "followers_count": 421399,
+          "friends_count": 547,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 441,
+          "favorite_count": 2493,
+          "reply_count": 270,
+          "quote_count": 54
+        }
+      },
+      "stats": {
+        "retweet_count": 1625,
+        "favorite_count": 11972,
+        "reply_count": 1460,
+        "quote_count": 69
+      }
+    },
+    {
+      "id": "2025472808201965723",
+      "text": "RT @techdevnotes: xAI Voice API page https://t.co/oAj1g6Zyz2",
+      "created_at": "Sun Feb 22 07:28:43 +0000 2026",
+      "lang": "fr",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025364288345354240",
+          "url": "https://pbs.twimg.com/media/HBuKFuOWMAAabX5.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2025364296843075983",
+        "text": "xAI Voice API page https://t.co/oAj1g6Zyz2",
+        "created_at": "Sun Feb 22 00:17:32 +0000 2026",
+        "lang": "fr",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025364288345354240",
+            "url": "https://pbs.twimg.com/media/HBuKFuOWMAAabX5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech | https://t.co/L0xyXaUV2y",
+          "followers_count": 54345,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 84,
+          "favorite_count": 518,
+          "reply_count": 97,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 84,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025479173012103467",
+      "text": "Exactly",
+      "created_at": "Sun Feb 22 07:54:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025431414108520574",
+        "text": "https://t.co/bZ2rgjtQC0",
+        "created_at": "Sun Feb 22 04:44:14 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025431393594212352",
+            "url": "https://pbs.twimg.com/media/HBvHHwwbgAAtlz4.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 647370,
+          "friends_count": 2758,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 56,
+          "favorite_count": 320,
+          "reply_count": 35,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 538,
+        "favorite_count": 5118,
+        "reply_count": 727,
+        "quote_count": 22
+      }
+    },
+    {
+      "id": "2025481264334061960",
+      "text": "Precisely",
+      "created_at": "Sun Feb 22 08:02:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025279432760660234",
+        "text": "https://t.co/7os4g087tw",
+        "created_at": "Sat Feb 21 18:40:19 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025279428834832384",
+            "url": "https://pbs.twimg.com/media/HBs86P6bMAAFLb9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 647370,
+          "friends_count": 2758,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 219,
+          "favorite_count": 1341,
+          "reply_count": 34,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 349,
+        "favorite_count": 2290,
+        "reply_count": 356,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2025482405549646240",
+      "text": "We are ruled by \nBureaucracy\nnot Democracy  https://t.co/PhFe8WbsNn",
+      "created_at": "Sun Feb 22 08:06:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 47,
+        "favorite_count": 217,
+        "reply_count": 133,
+        "quote_count": 5
       }
     }
   ]

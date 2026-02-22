@@ -1,12 +1,325 @@
 {
   "date": "20260222",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-22T06:16:54.254415",
-  "tweet_count": 204,
-  "unique_tweet_count": 204,
-  "total_crawled": 402,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-02-22T08:08:22.454970",
+  "tweet_count": 210,
+  "unique_tweet_count": 210,
+  "total_crawled": 404,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2025482405549646240",
+      "text": "We are ruled by \nBureaucracy\nnot Democracy  https://t.co/PhFe8WbsNn",
+      "created_at": "Sun Feb 22 08:06:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235063451,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 47,
+        "favorite_count": 217,
+        "reply_count": 133,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2025481264334061960",
+      "text": "Precisely",
+      "created_at": "Sun Feb 22 08:02:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025279432760660234",
+        "text": "https://t.co/7os4g087tw",
+        "created_at": "Sat Feb 21 18:40:19 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025279428834832384",
+            "url": "https://pbs.twimg.com/media/HBs86P6bMAAFLb9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 647370,
+          "friends_count": 2758,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 219,
+          "favorite_count": 1341,
+          "reply_count": 34,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235063451,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 349,
+        "favorite_count": 2290,
+        "reply_count": 356,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2025479173012103467",
+      "text": "Exactly",
+      "created_at": "Sun Feb 22 07:54:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025431414108520574",
+        "text": "https://t.co/bZ2rgjtQC0",
+        "created_at": "Sun Feb 22 04:44:14 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025431393594212352",
+            "url": "https://pbs.twimg.com/media/HBvHHwwbgAAtlz4.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 647370,
+          "friends_count": 2758,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 56,
+          "favorite_count": 320,
+          "reply_count": 35,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235063451,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 538,
+        "favorite_count": 5118,
+        "reply_count": 727,
+        "quote_count": 22
+      }
+    },
+    {
+      "id": "2025472808201965723",
+      "text": "RT @techdevnotes: xAI Voice API page https://t.co/oAj1g6Zyz2",
+      "created_at": "Sun Feb 22 07:28:43 +0000 2026",
+      "lang": "fr",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025364288345354240",
+          "url": "https://pbs.twimg.com/media/HBuKFuOWMAAabX5.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2025364296843075983",
+        "text": "xAI Voice API page https://t.co/oAj1g6Zyz2",
+        "created_at": "Sun Feb 22 00:17:32 +0000 2026",
+        "lang": "fr",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025364288345354240",
+            "url": "https://pbs.twimg.com/media/HBuKFuOWMAAabX5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech | https://t.co/L0xyXaUV2y",
+          "followers_count": 54345,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 84,
+          "favorite_count": 518,
+          "reply_count": 97,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235063451,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 84,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025461292257935362",
+      "text": "Sometimes it’s explicit, most times it’s implicit",
+      "created_at": "Sun Feb 22 06:42:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025341171644408292",
+        "text": "Elon Musk on Joe Rogan: “If AI gets programmed by the extinctionists, its utility function will be the extinction of humanity.”\n\nIn this 3:04 clip, Musk blasts the “death cult” mindset he sees in elite circles:\n\n- Calls out a New York Times-featured guy from the Voluntary Human Extinction Movement who wants zero humans left (“better if there were none”).  \n\n- Says this anti-human view has infiltrated social media, Google, and Facebook.  \n\n- Warns the extreme environmentalism turns humanity into a “plague” — and if extinctionists influence AI, it could literally aim to wipe us out.  \n\n- Rogan jokes he'd party with the guy; Musk says he can “go to hell.”\n\nMusk: “I'm pro-environment… but they've gone way too far. Earth could handle 10X the population without destroying rainforests.”\n\nA stark warning on AI safety and the dangers of anti-human ideology.\n\nIs Musk right — is this a real threat, or just paranoia?",
+        "created_at": "Sat Feb 21 22:45:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025337442945961984",
+            "url": "https://video.twimg.com/amplify_video/2025337442945961984/vid/avc1/1280x720/X4r4PXYkLTgxKZti.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1109532876310302721",
+          "name": "Camus",
+          "screen_name": "newstart_2024",
+          "description": "DM for removals/credit\nIf we cannot do good, let us at least not do evil.",
+          "followers_count": 421399,
+          "friends_count": 547,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 441,
+          "favorite_count": 2493,
+          "reply_count": 270,
+          "quote_count": 54
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235063451,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1625,
+        "favorite_count": 11972,
+        "reply_count": 1460,
+        "quote_count": 69
+      }
+    },
+    {
+      "id": "2025457607901671455",
+      "text": "RT @cb_doge: Mass driver on the Moon or bust! https://t.co/TEQluz87VB",
+      "created_at": "Sun Feb 22 06:28:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025450938614632448",
+          "url": "https://pbs.twimg.com/media/HBvY5bobUAAlXdY.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2025450944394412529",
+        "text": "Mass driver on the Moon or bust! https://t.co/TEQluz87VB",
+        "created_at": "Sun Feb 22 06:01:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025450938614632448",
+            "url": "https://pbs.twimg.com/media/HBvY5bobUAAlXdY.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1840219,
+          "friends_count": 903,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 298,
+          "favorite_count": 2058,
+          "reply_count": 519,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235063451,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 298,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2025446448553193719",
       "text": "文中提到的“基础永远不会过时”，这里的基础指的是哪些能力呢？\n\n如果结合访谈内容，里面说的基础主要是几个层面：\n\n1. 扎实的 CS 专业基础\n> “他拉了一条 25 年的时间线，从汇编到 C++ 到 JavaScript 再到 AI，每一层抽象提升时都有人质疑‘这不是真工程师’，但底层原理的理解始终有价值。”\n\n既然 AGI 还没到，那就还需要人去给 AI 兜底，去分拆任务，去帮 AI 兜底，就要懂一点编程语言、系统设计这些 CS 专业知识\n\n2. 产品直觉和系统思维\n> VJ 补充说，产品直觉仍然是核心。他自己也在用 Codex 写代码，但发现很多时候瓶颈不在于代码本身，而在于想象“产品应该长什么样”。\n\n文章结尾也总结了：\n> 会写代码正在变得不那么稀缺，而产品直觉、系统思维和在抽象层之间灵活移动的能力正在变得更稀缺。\n\n现在人人都能 Vibe Coding，但真正做出有价值产品还是很少，因为瓶颈从代码生成转移到了用户需求理解。\n\n3. 代码架构和工程判断力\n\nTibo 在回应新人基础够不够时强调：\n> 团队花大量精力设计整体代码架构，做代码审查，不是把一切都扔给 Codex 然后闭上眼睛。关键在于环境设计——如果你的代码库结构好、护栏（guard rails）设置得当，新人就能在这个框架下发挥出惊人的生产力。\n\n4. 调试和诊断能力\n\nVJ 预测未来工程师会更像医生，靠症状定位问题。当系统复杂到人类无法逐行阅读代码时，理解系统行为、快速定位异常的能力就变成了核心基础。\n\n“基础”不是指具体会写哪种语言的代码，而是理解底层原理、具备产品判断力、能设计好的系统架构、以及在抽象层之间自如切换的能力。",
