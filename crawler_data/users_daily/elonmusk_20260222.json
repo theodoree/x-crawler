@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235090848,
+    "followers_count": 235100860,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260222",
-  "last_updated": "2026-02-22T14:09:10.452140",
-  "tweet_count": 27,
+  "last_updated": "2026-02-22T16:07:43.839418",
+  "tweet_count": 29,
   "tweets": [
     {
       "id": "2025389014606299265",
@@ -1160,6 +1160,98 @@
         "favorite_count": 9833,
         "reply_count": 944,
         "quote_count": 43
+      }
+    },
+    {
+      "id": "2025581594572988758",
+      "text": "If requiring ID to vote is racist/sexist, as they falsely claim, then so is requiring ID for anything else, which they do all the time. \n\nThe same people saying no ID for voting are the ones who demanded vaccination ID!",
+      "created_at": "Sun Feb 22 14:41:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025001179571466280",
+        "text": "Let’s finish the sentence. “And the only way to do this will be with mandatory ID verification across the entire Internet.” 🤦‍♂️",
+        "created_at": "Sat Feb 21 00:14:38 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1297651178256257024",
+          "name": "Autism Capital 🧩",
+          "screen_name": "AutismCapital",
+          "description": "Citizen journalism with a humorous flair. Following Fintech, Crypto, AI, Longevity, Politics, Memes, and whatever the current thing is.",
+          "followers_count": 1074869,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1266,
+          "favorite_count": 11664,
+          "reply_count": 237,
+          "quote_count": 17
+        }
+      },
+      "stats": {
+        "retweet_count": 5534,
+        "favorite_count": 41937,
+        "reply_count": 2842,
+        "quote_count": 206
+      }
+    },
+    {
+      "id": "2025582762200076313",
+      "text": "RT @art_muse: QT Butterfly Art 🦋 https://t.co/kInEf8k0VZ",
+      "created_at": "Sun Feb 22 14:45:38 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2025523229951922176",
+          "url": "https://video.twimg.com/amplify_video/2025523229951922176/vid/avc1/720x1066/L-4vTdBGbAaV6Qrd.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2025523293663465769",
+        "text": "QT Butterfly Art 🦋 https://t.co/kInEf8k0VZ",
+        "created_at": "Sun Feb 22 10:49:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025523229951922176",
+            "url": "https://video.twimg.com/amplify_video/2025523229951922176/vid/avc1/720x1066/L-4vTdBGbAaV6Qrd.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 13906,
+          "friends_count": 1379,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 178,
+          "favorite_count": 1235,
+          "reply_count": 227,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 178,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
