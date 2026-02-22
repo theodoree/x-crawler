@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235054823,
+    "followers_count": 235056168,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260222",
-  "last_updated": "2026-02-22T04:37:40.627604",
-  "tweet_count": 2,
+  "last_updated": "2026-02-22T06:16:54.288959",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2025389014606299265",
@@ -63,6 +63,57 @@
         "favorite_count": 18180,
         "reply_count": 1791,
         "quote_count": 91
+      }
+    },
+    {
+      "id": "2025440440544059735",
+      "text": "RT @cb_doge: Real photos of Mars and the Moon. https://t.co/FWhahBm9JA",
+      "created_at": "Sun Feb 22 05:20:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025135896153251840",
+          "url": "https://pbs.twimg.com/media/HBq6XjAbYAAxaja.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2025135906123120836",
+        "text": "Real photos of Mars and the Moon. https://t.co/FWhahBm9JA",
+        "created_at": "Sat Feb 21 09:09:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025135896153251840",
+            "url": "https://pbs.twimg.com/media/HBq6XjAbYAAxaja.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1840097,
+          "friends_count": 903,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 359,
+          "favorite_count": 2259,
+          "reply_count": 573,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 359,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

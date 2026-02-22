@@ -1,12 +1,128 @@
 {
   "date": "20260222",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-22T04:37:40.599517",
-  "tweet_count": 202,
-  "unique_tweet_count": 202,
-  "total_crawled": 401,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-02-22T06:16:54.254415",
+  "tweet_count": 204,
+  "unique_tweet_count": 204,
+  "total_crawled": 402,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2025446448553193719",
+      "text": "文中提到的“基础永远不会过时”，这里的基础指的是哪些能力呢？\n\n如果结合访谈内容，里面说的基础主要是几个层面：\n\n1. 扎实的 CS 专业基础\n> “他拉了一条 25 年的时间线，从汇编到 C++ 到 JavaScript 再到 AI，每一层抽象提升时都有人质疑‘这不是真工程师’，但底层原理的理解始终有价值。”\n\n既然 AGI 还没到，那就还需要人去给 AI 兜底，去分拆任务，去帮 AI 兜底，就要懂一点编程语言、系统设计这些 CS 专业知识\n\n2. 产品直觉和系统思维\n> VJ 补充说，产品直觉仍然是核心。他自己也在用 Codex 写代码，但发现很多时候瓶颈不在于代码本身，而在于想象“产品应该长什么样”。\n\n文章结尾也总结了：\n> 会写代码正在变得不那么稀缺，而产品直觉、系统思维和在抽象层之间灵活移动的能力正在变得更稀缺。\n\n现在人人都能 Vibe Coding，但真正做出有价值产品还是很少，因为瓶颈从代码生成转移到了用户需求理解。\n\n3. 代码架构和工程判断力\n\nTibo 在回应新人基础够不够时强调：\n> 团队花大量精力设计整体代码架构，做代码审查，不是把一切都扔给 Codex 然后闭上眼睛。关键在于环境设计——如果你的代码库结构好、护栏（guard rails）设置得当，新人就能在这个框架下发挥出惊人的生产力。\n\n4. 调试和诊断能力\n\nVJ 预测未来工程师会更像医生，靠症状定位问题。当系统复杂到人类无法逐行阅读代码时，理解系统行为、快速定位异常的能力就变成了核心基础。\n\n“基础”不是指具体会写哪种语言的代码，而是理解底层原理、具备产品判断力、能设计好的系统架构、以及在抽象层之间自如切换的能力。",
+      "created_at": "Sun Feb 22 05:43:58 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025446439468355584",
+          "url": "https://pbs.twimg.com/media/HBvUzjAXUAADW8r.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2025279859014983783",
+        "text": "https://t.co/LiiMkl4YwP",
+        "created_at": "Sat Feb 21 18:42:00 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 183991,
+          "friends_count": 1555,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 33,
+          "favorite_count": 163,
+          "reply_count": 8,
+          "quote_count": 7
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 183991,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 33,
+        "reply_count": 1,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2025440440544059735",
+      "text": "RT @cb_doge: Real photos of Mars and the Moon. https://t.co/FWhahBm9JA",
+      "created_at": "Sun Feb 22 05:20:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025135896153251840",
+          "url": "https://pbs.twimg.com/media/HBq6XjAbYAAxaja.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2025135906123120836",
+        "text": "Real photos of Mars and the Moon. https://t.co/FWhahBm9JA",
+        "created_at": "Sat Feb 21 09:09:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025135896153251840",
+            "url": "https://pbs.twimg.com/media/HBq6XjAbYAAxaja.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1840097,
+          "friends_count": 903,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 359,
+          "favorite_count": 2259,
+          "reply_count": 573,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235056168,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 359,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2025407778001432732",
       "text": "They really hated Louis XIV for building Versailles, but now it’s a national treasure of France 🇫🇷",
