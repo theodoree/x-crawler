@@ -1,12 +1,61 @@
 {
   "date": "20260222",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-22T03:03:14.499375",
-  "tweet_count": 201,
-  "unique_tweet_count": 201,
-  "total_crawled": 400,
+  "last_crawl_time": "2026-02-22T04:37:40.599517",
+  "tweet_count": 202,
+  "unique_tweet_count": 202,
+  "total_crawled": 401,
   "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2025407778001432732",
+      "text": "They really hated Louis XIV for building Versailles, but now it’s a national treasure of France 🇫🇷",
+      "created_at": "Sun Feb 22 03:10:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025340932204151199",
+        "text": "If you build a system that either explicitly or implicitly argues that all people are politically equal, all human rights are universal, and all political authority is derived only by the voluntary consent of the governed (a mythic impossibility that has never truly existed anywhere on Earth at any point in history), then it’s basically inevitable that you’re going to sooner or later get mass democracy. \n\nAnd mass democracy ALWAYS leads to forced wealth redistribution and endlessly expanding bureaucracies, along with an infinite expansion of new made-up “rights” that actually attack things which were once considered universally necessary to the maintenance of civilization. \n\nAnd to secure all of this, ever more coercive amounts of centralized power have to be wielded by the state, often to a degree that would make the absolute monarchs of the 17th century look like anarchists by comparison.\n\nThe power the Jacobins wielded over France in 1793 was infinitely more absolute and totalitarian than anything ever wielded by the guy who literally called himself the “sun king” and once declared “I am the state”.",
+        "created_at": "Sat Feb 21 22:44:41 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "489954041",
+          "name": "Christian Heiens 🏛",
+          "screen_name": "ChristianHeiens",
+          "description": "The Oracle of Virginia Emeritus • Historian • Postliberal Reactionary • Counter-Revolutionary • Austrian School Acolyte",
+          "followers_count": 91448,
+          "friends_count": 150,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 365,
+          "favorite_count": 3261,
+          "reply_count": 184,
+          "quote_count": 27
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235054823,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1612,
+        "favorite_count": 18180,
+        "reply_count": 1791,
+        "quote_count": 91
+      }
+    },
     {
       "id": "2025389014606299265",
       "text": "Fate is an irony maxxer\n https://t.co/0JKs9GsZc8",
