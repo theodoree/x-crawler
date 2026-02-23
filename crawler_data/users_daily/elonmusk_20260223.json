@@ -1,0 +1,204 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 235147310,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260223",
+  "last_updated": "2026-02-23T03:03:55.097418",
+  "tweet_count": 4,
+  "tweets": [
+    {
+      "id": "2025746315427082504",
+      "text": "Update your Grok app!",
+      "created_at": "Mon Feb 23 01:35:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025666577988018674",
+        "text": "Read aloud is now on Android. \n\nUse it to listen to any answer in chat. https://t.co/Q77t16XXV1",
+        "created_at": "Sun Feb 22 20:18:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025666222386561024",
+            "url": "https://video.twimg.com/amplify_video/2025666222386561024/vid/avc1/1080x1080/PtZ8nwXLIAx-dS1v.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8049044,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 152,
+          "favorite_count": 976,
+          "reply_count": 209,
+          "quote_count": 27
+        }
+      },
+      "stats": {
+        "retweet_count": 787,
+        "favorite_count": 5860,
+        "reply_count": 1420,
+        "quote_count": 54
+      }
+    },
+    {
+      "id": "2025748076053356816",
+      "text": "Grok Imagine",
+      "created_at": "Mon Feb 23 01:42:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025746968442450017",
+        "text": "Made with Grok Imagine\n\n https://t.co/GDJBmfoEeq",
+        "created_at": "Mon Feb 23 01:38:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2022144866772213761",
+            "url": "https://video.twimg.com/amplify_video/2022144866772213761/vid/avc1/1080x1440/O9KRUo7hCe9vNjL_.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech | https://t.co/L0xyXaUV2y",
+          "followers_count": 54587,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 611,
+          "favorite_count": 4243,
+          "reply_count": 316,
+          "quote_count": 158
+        }
+      },
+      "stats": {
+        "retweet_count": 4560,
+        "favorite_count": 47327,
+        "reply_count": 3348,
+        "quote_count": 295
+      }
+    },
+    {
+      "id": "2025755890020765748",
+      "text": "RT @TheAliceSmith: https://t.co/Uuu3mnZ6C7",
+      "created_at": "Mon Feb 23 02:13:35 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025717488751661056",
+          "url": "https://pbs.twimg.com/media/HBzLUsRW0AAkhP9.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2025717493038211561",
+        "text": "https://t.co/Uuu3mnZ6C7",
+        "created_at": "Sun Feb 22 23:41:01 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025717488751661056",
+            "url": "https://pbs.twimg.com/media/HBzLUsRW0AAkhP9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4296903437",
+          "name": "Alice Smith",
+          "screen_name": "TheAliceSmith",
+          "description": "Who is Alice Smith? The great-great-great-granddaughter of Adam Smith. Follow me on my adventures down the capitalist rabbit hole! 2+2=4",
+          "followers_count": 93823,
+          "friends_count": 2772,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 730,
+          "favorite_count": 2739,
+          "reply_count": 194,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 730,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025756810871718235",
+      "text": "Order at https://t.co/Q1VvqV58aK",
+      "created_at": "Mon Feb 23 02:17:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025653535451295769",
+        "text": "This guy tested Starlink in the middle of the ocean and played CS2 with almost perfect ping https://t.co/ErSFZ67631",
+        "created_at": "Sun Feb 22 19:26:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025653481592221697",
+            "url": "https://video.twimg.com/amplify_video/2025653481592221697/vid/avc1/720x1076/rQNp5feX0HhlIM-g.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "855481986290524160",
+          "name": "Historic Vids",
+          "screen_name": "historyinmemes",
+          "description": "Daily history lessons. Education through memes!",
+          "followers_count": 6083516,
+          "friends_count": 349,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 980,
+          "favorite_count": 13283,
+          "reply_count": 426,
+          "quote_count": 155
+        }
+      },
+      "stats": {
+        "retweet_count": 709,
+        "favorite_count": 8440,
+        "reply_count": 1054,
+        "quote_count": 22
+      }
+    }
+  ]
+}
