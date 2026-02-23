@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 184981,
+    "followers_count": 185025,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260223",
-  "last_updated": "2026-02-23T18:23:05.570389",
-  "tweet_count": 8,
+  "last_updated": "2026-02-23T20:21:52.704357",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2025778137154428961",
@@ -360,6 +360,45 @@
         "retweet_count": 9,
         "favorite_count": 33,
         "reply_count": 12,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2026013737426022417",
+      "text": "Anthropic 发布调查报告，称发现 DeepSeek、月之暗面（Moonshot/Kimi）和 MiniMax 三家中国 AI 实验室，通过大规模\"蒸馏攻击\"非法提取 Claude 模型的能力来训练自家模型。\n\n三家公司共创建了约 2.4 万个虚假账户，与 Claude 产生超过 1600 万次对话交互。\n\n所谓\"蒸馏\"，就是用强模型的输出来训练弱模型——相当于让学生抄优等生的作业来提高成绩。\n\n这种方法本身是合法的训练技巧，各大 AI 公司也用它来制作自家模型的轻量版本，但未经授权对竞争对手的模型进行蒸馏则违反了服务条款。\n\n三家公司的操作手法类似：通过代理服务绕过 Anthropic 对中国的访问限制，用大量虚假账户分散流量以躲避检测。\n\n其中 MiniMax 规模最大，产生超过 1300 万次交互，主要提取编程和工具使用能力；月之暗面超过 340 万次，瞄准智能体推理和计算机视觉；DeepSeek 虽然量级最小（15 万次），但手法最值得关注——他们让 Claude 反向“复述”自己的推理过程来生成思维链训练数据，还让 Claude 生成政治敏感问题的\"安全回答\"，疑似用于训练自家模型的审查回避能力。\n\nAnthropic 表示已通过 IP 地址、请求元数据等信息将攻击溯源到具体实验室甚至具体研究人员，并称这一发现说明中国 AI 公司的快速进步并非完全靠自主创新，也在一定程度上依赖对美国模型能力的提取。",
+      "created_at": "Mon Feb 23 19:18:11 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025997928242811253",
+        "text": "We’ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax.\n\nThese labs created over 24,000 fraudulent accounts and generated over 16 million exchanges with Claude, extracting its capabilities to train and improve their own models.",
+        "created_at": "Mon Feb 23 18:15:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1353836358901501952",
+          "name": "Anthropic",
+          "screen_name": "AnthropicAI",
+          "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+          "followers_count": 864961,
+          "friends_count": 35,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1990,
+          "favorite_count": 21148,
+          "reply_count": 2671,
+          "quote_count": 2860
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 115,
+        "reply_count": 22,
         "quote_count": 3
       }
     }

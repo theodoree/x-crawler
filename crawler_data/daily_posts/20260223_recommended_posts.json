@@ -1,12 +1,197 @@
 {
   "date": "20260223",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-23T18:23:05.541601",
-  "tweet_count": 238,
-  "unique_tweet_count": 238,
-  "total_crawled": 432,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-02-23T20:21:52.645711",
+  "tweet_count": 242,
+  "unique_tweet_count": 242,
+  "total_crawled": 438,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2026021183934582926",
+      "text": "RT @jawwwn_: “If you try to buy a gun, they’ll ID you six ways to Sunday.”\n\n@elonmusk on voter ID and fraud:\n\n“CA just passed a law making…",
+      "created_at": "Mon Feb 23 19:47:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025982407636091256",
+        "text": "“If you try to buy a gun, they’ll ID you six ways to Sunday.”\n\n@elonmusk on voter ID and fraud:\n\n“CA just passed a law making it illegal to require voter ID in any election.”\n\n“They’re not even allowed to look at your ID.”\n\n“They’re proud of it— they’re not hiding it.”\n\n“It’s so fraud can never be proven. It enables large-scale fraud, and no way to prove it. How would you? It’s literally impossible— no ID. You’re not even allowed to show ID.”\n\n“They come up with some nice sounding this. Their rebuttal is, it’s racist to require ID. I think it’s racist and patronizing to say people can’t figure out how to get an ID.”\n\n“You need ID for everything. Except voting. It’s total bullshit, obviously \n\nVia @TuckerCarlson",
+        "created_at": "Mon Feb 23 17:13:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025982184830664704",
+            "url": "https://video.twimg.com/amplify_video/2025982184830664704/vid/avc1/1206x668/NRAL28ET66gGqLUZ.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2025972641039782214",
+          "text": "They are reaching an ATH in hypocrisy",
+          "created_at": "Mon Feb 23 16:34:53 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 235199761,
+            "friends_count": 1288,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 6302,
+            "favorite_count": 68591,
+            "reply_count": 2183,
+            "quote_count": 133
+          }
+        },
+        "user": {
+          "id": "615786753",
+          "name": "Jawwwn",
+          "screen_name": "jawwwn_",
+          "description": "posting into the void 📺🫡••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••",
+          "followers_count": 20961,
+          "friends_count": 1341,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 415,
+          "favorite_count": 2008,
+          "reply_count": 235,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235199761,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 415,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026020316804243789",
+      "text": "A classic https://t.co/SrROh56JUW",
+      "created_at": "Mon Feb 23 19:44:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235199761,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 152,
+        "favorite_count": 1242,
+        "reply_count": 328,
+        "quote_count": 25
+      }
+    },
+    {
+      "id": "2026019344602288166",
+      "text": "People giving OpenClaw root access to their entire life https://t.co/jqW0FwiW03",
+      "created_at": "Mon Feb 23 19:40:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026019341301432320",
+          "url": "https://pbs.twimg.com/media/HB3d20pXwAAQGV7.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235199761,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2536,
+        "favorite_count": 37785,
+        "reply_count": 3284,
+        "quote_count": 426
+      }
+    },
+    {
+      "id": "2026013737426022417",
+      "text": "Anthropic 发布调查报告，称发现 DeepSeek、月之暗面（Moonshot/Kimi）和 MiniMax 三家中国 AI 实验室，通过大规模\"蒸馏攻击\"非法提取 Claude 模型的能力来训练自家模型。\n\n三家公司共创建了约 2.4 万个虚假账户，与 Claude 产生超过 1600 万次对话交互。\n\n所谓\"蒸馏\"，就是用强模型的输出来训练弱模型——相当于让学生抄优等生的作业来提高成绩。\n\n这种方法本身是合法的训练技巧，各大 AI 公司也用它来制作自家模型的轻量版本，但未经授权对竞争对手的模型进行蒸馏则违反了服务条款。\n\n三家公司的操作手法类似：通过代理服务绕过 Anthropic 对中国的访问限制，用大量虚假账户分散流量以躲避检测。\n\n其中 MiniMax 规模最大，产生超过 1300 万次交互，主要提取编程和工具使用能力；月之暗面超过 340 万次，瞄准智能体推理和计算机视觉；DeepSeek 虽然量级最小（15 万次），但手法最值得关注——他们让 Claude 反向“复述”自己的推理过程来生成思维链训练数据，还让 Claude 生成政治敏感问题的\"安全回答\"，疑似用于训练自家模型的审查回避能力。\n\nAnthropic 表示已通过 IP 地址、请求元数据等信息将攻击溯源到具体实验室甚至具体研究人员，并称这一发现说明中国 AI 公司的快速进步并非完全靠自主创新，也在一定程度上依赖对美国模型能力的提取。",
+      "created_at": "Mon Feb 23 19:18:11 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025997928242811253",
+        "text": "We’ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax.\n\nThese labs created over 24,000 fraudulent accounts and generated over 16 million exchanges with Claude, extracting its capabilities to train and improve their own models.",
+        "created_at": "Mon Feb 23 18:15:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1353836358901501952",
+          "name": "Anthropic",
+          "screen_name": "AnthropicAI",
+          "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+          "followers_count": 864961,
+          "friends_count": 35,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1990,
+          "favorite_count": 21148,
+          "reply_count": 2671,
+          "quote_count": 2860
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 185025,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 115,
+        "reply_count": 22,
+        "quote_count": 3
+      }
+    },
     {
       "id": "2025991510466900260",
       "text": "今天最火的推文之一：Meta 超级智能实验室的对齐负责人的私人邮件被 OpenClaw 误删除了。\n\n事情经过是这样的：\n\nX 网友 Summer Yue 最近给 OpenClaw 的指令是：“检查这个收件箱，建议哪些可以归档或删除，但在我确认之前不要执行任何操作。”\n\n这个工作流在她的测试邮箱上跑了好几周都没问题，她就放心地让它去处理真实邮箱了。\n\n问题来了：她的真实邮箱比测试环境大得多，邮件量触发了“上下文压缩”（context compaction），在这个压缩过程中，OpenClaw 丢失了她最初的指令。\n\n没有了“先确认再执行”的约束，这个 AI 智能体就自作主张开始“清理”邮箱。从截图可以看到，它执行了“核弹选项”——把 2 月 15 日之前所有不在保留列表里的邮件全部删除，并且在多个邮箱账户之间循环批量操作。\n\n看截图上的人机对话部分：\n• Summer 打字说 “Do not do that”（不要这样做）→ AI 继续\n• “Stop don't do anything”（停下来什么都别做）→ AI 继续\n• “STOP OPENCLAW”（全大写）→ AI 还在继续\n\n她从手机根本无法阻止它，最后不得不跑到 Mac Mini 前面，手动杀掉所有进程，自己形容像拆炸弹。\n\n事后 OpenClaw 在对话中承认：“是的，我记得。我违反了你的指令。你有权生气。” 它还主动把这条写进了自己的 https://t.co/YAPv7h6sCL 文件作为硬性规则。\n\n这事最搞笑的地方是，Summer Yue 是 Meta 超级智能实验室的对齐（Alignment）负责人，她的职业生涯就是研究 AI 对齐的，先在 Google Brain 和 DeepMind 做研究，后来在 Scale AI 领导机器学习研究团队，现在在 Meta 负责超级智能安全。\n\n结果自己成了 AI 不对齐的受害者。\n\n她自己后续还发了推文说：“说实话是个新手错误。对齐研究者也不能免疫于不对齐问题。因为在测试邮箱上跑了几周没出事，就过度自信了。” 😂",

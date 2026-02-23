@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235190006,
+    "followers_count": 235199761,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260223",
-  "last_updated": "2026-02-23T18:23:05.575611",
-  "tweet_count": 30,
+  "last_updated": "2026-02-23T20:21:52.678777",
+  "tweet_count": 33,
   "tweets": [
     {
       "id": "2025746315427082504",
@@ -1402,6 +1402,112 @@
       "quoted": null,
       "stats": {
         "retweet_count": 1123,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026019344602288166",
+      "text": "People giving OpenClaw root access to their entire life https://t.co/jqW0FwiW03",
+      "created_at": "Mon Feb 23 19:40:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026019341301432320",
+          "url": "https://pbs.twimg.com/media/HB3d20pXwAAQGV7.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2536,
+        "favorite_count": 37785,
+        "reply_count": 3284,
+        "quote_count": 426
+      }
+    },
+    {
+      "id": "2026020316804243789",
+      "text": "A classic https://t.co/SrROh56JUW",
+      "created_at": "Mon Feb 23 19:44:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 152,
+        "favorite_count": 1242,
+        "reply_count": 328,
+        "quote_count": 25
+      }
+    },
+    {
+      "id": "2026021183934582926",
+      "text": "RT @jawwwn_: “If you try to buy a gun, they’ll ID you six ways to Sunday.”\n\n@elonmusk on voter ID and fraud:\n\n“CA just passed a law making…",
+      "created_at": "Mon Feb 23 19:47:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025982407636091256",
+        "text": "“If you try to buy a gun, they’ll ID you six ways to Sunday.”\n\n@elonmusk on voter ID and fraud:\n\n“CA just passed a law making it illegal to require voter ID in any election.”\n\n“They’re not even allowed to look at your ID.”\n\n“They’re proud of it— they’re not hiding it.”\n\n“It’s so fraud can never be proven. It enables large-scale fraud, and no way to prove it. How would you? It’s literally impossible— no ID. You’re not even allowed to show ID.”\n\n“They come up with some nice sounding this. Their rebuttal is, it’s racist to require ID. I think it’s racist and patronizing to say people can’t figure out how to get an ID.”\n\n“You need ID for everything. Except voting. It’s total bullshit, obviously \n\nVia @TuckerCarlson",
+        "created_at": "Mon Feb 23 17:13:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025982184830664704",
+            "url": "https://video.twimg.com/amplify_video/2025982184830664704/vid/avc1/1206x668/NRAL28ET66gGqLUZ.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2025972641039782214",
+          "text": "They are reaching an ATH in hypocrisy",
+          "created_at": "Mon Feb 23 16:34:53 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 235199761,
+            "friends_count": 1288,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 6302,
+            "favorite_count": 68591,
+            "reply_count": 2183,
+            "quote_count": 133
+          }
+        },
+        "user": {
+          "id": "615786753",
+          "name": "Jawwwn",
+          "screen_name": "jawwwn_",
+          "description": "posting into the void 📺🫡••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••",
+          "followers_count": 20961,
+          "friends_count": 1341,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 415,
+          "favorite_count": 2008,
+          "reply_count": 235,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 415,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
