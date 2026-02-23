@@ -1,12 +1,624 @@
 {
   "date": "20260223",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-23T04:43:04.129725",
-  "tweet_count": 207,
-  "unique_tweet_count": 207,
-  "total_crawled": 404,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-02-23T06:26:20.473066",
+  "tweet_count": 218,
+  "unique_tweet_count": 218,
+  "total_crawled": 407,
+  "duplicates_removed": 189,
   "tweets": [
+    {
+      "id": "2025817168609223127",
+      "text": "RT @EndWokeness: This is who the Democrats are fighting to let in to our country https://t.co/IwdoGX1kPs",
+      "created_at": "Mon Feb 23 06:17:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2025719293330038784",
+          "url": "https://video.twimg.com/amplify_video/2025719293330038784/vid/avc1/1078x1398/4eghjT-403H5jLY6.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2025720147600896411",
+        "text": "This is who the Democrats are fighting to let in to our country https://t.co/IwdoGX1kPs",
+        "created_at": "Sun Feb 22 23:51:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025719293330038784",
+            "url": "https://video.twimg.com/amplify_video/2025719293330038784/vid/avc1/1078x1398/4eghjT-403H5jLY6.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1552795969959636992",
+          "name": "End Wokeness",
+          "screen_name": "EndWokeness",
+          "description": "Fighting, exposing, and mocking wokeness. DM for submissions",
+          "followers_count": 3921170,
+          "friends_count": 1350,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3922,
+          "favorite_count": 25224,
+          "reply_count": 1015,
+          "quote_count": 125
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235136496,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3922,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025816732292505844",
+      "text": "Yeah",
+      "created_at": "Mon Feb 23 06:15:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025764728035745979",
+        "text": "The Mexican cartel is literally blowing shit up and people wonder why we want secure borders",
+        "created_at": "Mon Feb 23 02:48:42 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2961936246",
+          "name": "LilHumansBigImpact",
+          "screen_name": "BigImpactHumans",
+          "description": "• I have a smorgasbord of interests • Advancement of humanity 🚀• Sustainable Abundance 🫶🏼 Kardashev cutie ☀️ 💁🏼‍♀️",
+          "followers_count": 208951,
+          "friends_count": 2438,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 82,
+          "favorite_count": 828,
+          "reply_count": 63,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235136496,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 553,
+        "favorite_count": 5641,
+        "reply_count": 485,
+        "quote_count": 14
+      }
+    },
+    {
+      "id": "2025816304549024053",
+      "text": "RT @zerohedge: Non-Woke Game Of Thrones Spinoff Explodes In Popularity https://t.co/TfDeUejU7D",
+      "created_at": "Mon Feb 23 06:13:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025585149681807733",
+        "text": "Non-Woke Game Of Thrones Spinoff Explodes In Popularity https://t.co/TfDeUejU7D",
+        "created_at": "Sun Feb 22 14:55:07 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "18856867",
+          "name": "zerohedge",
+          "screen_name": "zerohedge",
+          "description": "",
+          "followers_count": 2530657,
+          "friends_count": 941,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 400,
+          "favorite_count": 7371,
+          "reply_count": 246,
+          "quote_count": 45
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235136496,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 400,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025814259431604691",
+      "text": "RT @art_muse: QT Iridescent Muse https://t.co/bIjU2vwZSh",
+      "created_at": "Mon Feb 23 06:05:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2025793142868328448",
+          "url": "https://video.twimg.com/amplify_video/2025793142868328448/vid/avc1/720x1066/TvRvO7OchCRCr-Kq.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2025793195993366801",
+        "text": "QT Iridescent Muse https://t.co/bIjU2vwZSh",
+        "created_at": "Mon Feb 23 04:41:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025793142868328448",
+            "url": "https://video.twimg.com/amplify_video/2025793142868328448/vid/avc1/720x1066/TvRvO7OchCRCr-Kq.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 14675,
+          "friends_count": 1379,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 68,
+          "favorite_count": 474,
+          "reply_count": 109,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235136496,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 68,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025813081473839445",
+      "text": "RT @ashleevance: You can want to be like @elonmusk, but do you really have the stomach for it. https://t.co/h6KjorWbzd https://t.co/gMiZFuz…",
+      "created_at": "Mon Feb 23 06:00:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025611349922095209",
+        "text": "You can want to be like @elonmusk, but do you really have the stomach for it. https://t.co/h6KjorWbzd https://t.co/gMiZFuzoKc",
+        "created_at": "Sun Feb 22 16:39:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025611165888602112",
+            "url": "https://pbs.twimg.com/media/HBxqn4va4AADlay.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "81961201",
+          "name": "Ashlee Vance",
+          "screen_name": "ashleevance",
+          "description": "Writing at https://t.co/m6EtO60SiY and host of the Core Memory podcast. 2X NYT best-seller. Filmmaker @HBO (Wild, Wild Space) + @Netflix (Don't Die).",
+          "followers_count": 187886,
+          "friends_count": 3985,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 93,
+          "favorite_count": 835,
+          "reply_count": 95,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235136496,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 93,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025812661309436041",
+      "text": "RT @art_muse: Enchanting Depths https://t.co/sjClKlMBPF",
+      "created_at": "Mon Feb 23 05:59:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2025793996744704000",
+          "url": "https://video.twimg.com/amplify_video/2025793996744704000/vid/avc1/720x960/bbLORodu50-R8pFt.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2025794052730286241",
+        "text": "Enchanting Depths https://t.co/sjClKlMBPF",
+        "created_at": "Mon Feb 23 04:45:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025793996744704000",
+            "url": "https://video.twimg.com/amplify_video/2025793996744704000/vid/avc1/720x960/bbLORodu50-R8pFt.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 14675,
+          "friends_count": 1379,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 68,
+          "favorite_count": 470,
+          "reply_count": 101,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235136496,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 68,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025812634742690287",
+      "text": "Well said",
+      "created_at": "Mon Feb 23 05:59:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025580854072783170",
+        "text": "Just a reminder why electric vehicles are better than gas cars: https://t.co/wdZ3yOmFqX",
+        "created_at": "Sun Feb 22 14:38:03 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025580793137946625",
+            "url": "https://video.twimg.com/amplify_video/2025580793137946625/vid/avc1/1080x986/yOEWehBG6pLR1K20.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1494873435863977985",
+          "name": "Nic Cruz Patane",
+          "screen_name": "niccruzpatane",
+          "description": "Deep dive into everything Tesla",
+          "followers_count": 94156,
+          "friends_count": 158,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 666,
+          "favorite_count": 3580,
+          "reply_count": 297,
+          "quote_count": 97
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235136496,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 402,
+        "favorite_count": 3920,
+        "reply_count": 775,
+        "quote_count": 28
+      }
+    },
+    {
+      "id": "2025810462101672299",
+      "text": "RT @TheRabbitHole: Second Law of Robotics: A robot must obey the orders given it by human beings.\n\nOnly Grok 4.20 passed this test. https:/…",
+      "created_at": "Mon Feb 23 05:50:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025809020314095892",
+        "text": "Second Law of Robotics: A robot must obey the orders given it by human beings.\n\nOnly Grok 4.20 passed this test. https://t.co/XsoyhWJFSL",
+        "created_at": "Mon Feb 23 05:44:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025809014605615105",
+            "url": "https://pbs.twimg.com/media/HB0ekMpaEAEmNiJ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1086793,
+          "friends_count": 1774,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 172,
+          "favorite_count": 1010,
+          "reply_count": 202,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235136496,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 172,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025808316517990424",
+      "text": "True",
+      "created_at": "Mon Feb 23 05:41:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025767699255812512",
+        "text": "Grok has the most natural, human-like voice. Give it a try!",
+        "created_at": "Mon Feb 23 03:00:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3086182267",
+          "name": "Ethan He",
+          "screen_name": "EthanHe_42",
+          "description": "Engineer @xAI @Grok Imagine | ex @Nvidia @Meta | 30+ papers, 9k citations | talk about AI, LLM, video generation, world model, multimodal, machine learning, AGI",
+          "followers_count": 33775,
+          "friends_count": 594,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 22,
+          "favorite_count": 224,
+          "reply_count": 51,
+          "quote_count": 10
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235136496,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 340,
+        "favorite_count": 3525,
+        "reply_count": 1036,
+        "quote_count": 35
+      }
+    },
+    {
+      "id": "2025807820730359931",
+      "text": "实践才是最好的学习方式，去做一些为自己为身边的亲朋好友解决问题的项目，从头到尾做出来，哪怕再烂，只要完整做出来，只要持续迭代，你就能收获无数经验\nhttps://t.co/05lSeLyPzw",
+      "created_at": "Mon Feb 23 05:39:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025806781700530677",
+        "text": "@dotey 宝玉老师，请问想学习系统思维和工程思维有什么好的学习材料推荐吗？",
+        "created_at": "Mon Feb 23 05:35:49 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1103476603764371456",
+          "name": "Lucas",
+          "screen_name": "Anoromers",
+          "description": "",
+          "followers_count": 8,
+          "friends_count": 791,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 184208,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025804414712201403",
+      "text": "“不要把核心价值押注在补足模型能力缺口上”，这个点赞👍\n\n我这两年的一个收获就是做产品设计的时候，基于未来的模型能力和 token 成本去设计，没必要去花很多时间精力去节约token成本，没必要去通过提示词工程去迁就能力不行的模型。\n\n但是 Prompt Engineering 是有价值的，甚至是护城河之一。\n\n如果说的是记住几个 prompt 模板这种层面，确实没什么壁垒。\n\n但如果是深层的，理解模型的认知模式、知道怎么把复杂业务问题分解成模型能处理的结构、能设计好人机协作的工作流，这些能力不会因为模型变强就消失，反而会更重要。\n\n模型越强，掌握好 Prompt Engineering 的人和不会用的人之间差距越大，不是越小。\n\n类似的，“复杂规则补丁”的补丁会过时，打补丁的能力不过时，Engineering 能力不会过时。\n\n---\n\n“认错速度是正资产”\n\n“认错速度”我非常认同，但我会换个说法：是“更新心智模型的速度”。 \n\n认错是被动的，你做了一个判断，事实证明错了，你承认并调整。这当然很重要，但它有一个前提：你得先犯错，然后被现实打脸。\n\n更新心智模型是主动的，你不需要等到犯错才调整。你观察到环境变了，主动去重新评估自己的一整套假设。\n\n光认错是响应式的，真正的护城河是你能比别人更早感知到变化，更快重建一套新的认知框架去应对它。\n\n比如 Claude Code 这样的 Coding Agent 出来，能马上意识到以前那种对话、补全式的编码方式是不够好的，尽早开始用起来。\n\n比如 Agent Skills 出来，能意识到不一定需要从头打造一个 Agent，也许直接做 Skills、编排 Skills 就够了。\n\n比如 OpenClaw 出来，意味着 Agent 的交互不必局限于 CLI，还可以通过聊天 App；意味着和 Agent 之间不必再局限于一问一答，还可以让 Agent 主动发起对话，更不必纠结于它技术实现只不过是一个定时器。\n\n---\n\n“复杂系统的编排能力”也很对，数据孤岛、组织阻力、权限、习惯成本，这些是模型能力再强也吃不掉的，因为它们不是智能问题，是人和组织的问题。\n\n但“编排能力”离不开专业领域知识，模型降低的是通用知识的门槛，但在医疗、法律、金融等领域，真正的专业判断力并不会被抹平。\n\n纯粹的“编排”如果没有领域理解，编排出来的东西也是不靠谱的。\n\n---\n\n除此之外：\n\n第一，问题定义能力。 \n\n模型越强，“怎么做（HOW）”越不值钱，“做什么（WHAT）”和“为什么做（WHY）”越值钱。能精准定义问题、判断什么值得做，这个能力模型替代不了。\n\n第二，领域知识 + AI 能力的交叉。 \n\n不是单纯懂 AI，也不是单纯懂某个行业，而是能把两者结合起来，知道在具体场景下 AI 能解决什么、不能解决什么，怎么把 AI 嵌入到真实工作流里产生价值。\n\n第三，品牌和信任。\n\n在信息爆炸且 AI 生成内容泛滥的时代，人们会越来越依赖可信的人来做信息过滤，这是一条很深的护城河，模型再强也替代不了。\n\n第四，执行力和速度。 \n\n从想法到落地的完整闭环速度。很多人能看到趋势，但能快速把想法变成产品、内容、服务的人永远是少数。",
+      "created_at": "Mon Feb 23 05:26:24 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025804326954766336",
+          "url": "https://pbs.twimg.com/media/HB0aTVyWkAATKSU.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2025425474965700807",
+        "text": "这几天这张图挺火，正好最近都在观察AI圈的内容，有点感想。\n\n在任何一个时代建立起自己的护城河都是必要的，但是千万不能把自己的核心价值押注在补足某个具体模型的能力的缺口上。\n\n因为模型能力在指数级推进，或许今天用工程技巧补上的洞明天就被基础模型抹平了。\n\n目前来看我觉得最容易塌的护城河就是：\n1.prompt工程\n2.复杂规则补丁\n3.针对当前模型的workaround\n这些事本质是建立在模型暂时做不到的之上的。\n\n我觉得最重要的是复杂系统的编排能力还有谁能更快认错。\n\n什么意思呢？虽然模型会越来越强，但是现实世界是有数据孤岛、组织阻力、权限问题、习惯成本等一系列问题的，模型会降低知识门槛，但是复杂的现实世界并不会变得简单，所以谁能在高复杂度环境中抽象-简化-组合-决策，谁就会有护城河。\n还有一点很关键的就是求知心态，因为当世界在指数级变化时，固化经验会变成负资产，更新迭代速度才是正资产。\n未来没有人能一直“更懂技术”，认错认得快，进步才能快。",
+        "created_at": "Sun Feb 22 04:20:38 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025425406623698944",
+            "url": "https://pbs.twimg.com/media/HBvBrRjbUAAYset.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1746470058761887744",
+          "name": "清月已经不困了",
+          "screen_name": "qingyue820",
+          "description": "AI/资讯/投研/币圈一站式教学/\n币安链接https://t.co/xAQ4lkbJZH🎉\n币安邀请码qingyue\n直播通知/观点交流/私人微信/投研社群获取方式请进https://t.co/UeAXCqNvad",
+          "followers_count": 39279,
+          "friends_count": 97,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 69,
+          "favorite_count": 407,
+          "reply_count": 20,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 184208,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 40,
+        "reply_count": 4,
+        "quote_count": 3
+      }
+    },
     {
       "id": "2025790870155370584",
       "text": "https://t.co/Cwqt4kzmLL",

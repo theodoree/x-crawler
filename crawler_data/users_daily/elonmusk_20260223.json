@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235151377,
+    "followers_count": 235136496,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260223",
-  "last_updated": "2026-02-23T04:43:04.162575",
-  "tweet_count": 5,
+  "last_updated": "2026-02-23T06:26:20.504100",
+  "tweet_count": 14,
   "tweets": [
     {
       "id": "2025746315427082504",
@@ -244,6 +244,418 @@
         "favorite_count": 12827,
         "reply_count": 1878,
         "quote_count": 95
+      }
+    },
+    {
+      "id": "2025808316517990424",
+      "text": "True",
+      "created_at": "Mon Feb 23 05:41:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025767699255812512",
+        "text": "Grok has the most natural, human-like voice. Give it a try!",
+        "created_at": "Mon Feb 23 03:00:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3086182267",
+          "name": "Ethan He",
+          "screen_name": "EthanHe_42",
+          "description": "Engineer @xAI @Grok Imagine | ex @Nvidia @Meta | 30+ papers, 9k citations | talk about AI, LLM, video generation, world model, multimodal, machine learning, AGI",
+          "followers_count": 33775,
+          "friends_count": 594,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 22,
+          "favorite_count": 224,
+          "reply_count": 51,
+          "quote_count": 10
+        }
+      },
+      "stats": {
+        "retweet_count": 340,
+        "favorite_count": 3525,
+        "reply_count": 1036,
+        "quote_count": 35
+      }
+    },
+    {
+      "id": "2025810462101672299",
+      "text": "RT @TheRabbitHole: Second Law of Robotics: A robot must obey the orders given it by human beings.\n\nOnly Grok 4.20 passed this test. https:/…",
+      "created_at": "Mon Feb 23 05:50:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025809020314095892",
+        "text": "Second Law of Robotics: A robot must obey the orders given it by human beings.\n\nOnly Grok 4.20 passed this test. https://t.co/XsoyhWJFSL",
+        "created_at": "Mon Feb 23 05:44:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025809014605615105",
+            "url": "https://pbs.twimg.com/media/HB0ekMpaEAEmNiJ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1086793,
+          "friends_count": 1774,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 172,
+          "favorite_count": 1010,
+          "reply_count": 202,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 172,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025812634742690287",
+      "text": "Well said",
+      "created_at": "Mon Feb 23 05:59:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025580854072783170",
+        "text": "Just a reminder why electric vehicles are better than gas cars: https://t.co/wdZ3yOmFqX",
+        "created_at": "Sun Feb 22 14:38:03 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025580793137946625",
+            "url": "https://video.twimg.com/amplify_video/2025580793137946625/vid/avc1/1080x986/yOEWehBG6pLR1K20.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1494873435863977985",
+          "name": "Nic Cruz Patane",
+          "screen_name": "niccruzpatane",
+          "description": "Deep dive into everything Tesla",
+          "followers_count": 94156,
+          "friends_count": 158,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 666,
+          "favorite_count": 3580,
+          "reply_count": 297,
+          "quote_count": 97
+        }
+      },
+      "stats": {
+        "retweet_count": 402,
+        "favorite_count": 3920,
+        "reply_count": 775,
+        "quote_count": 28
+      }
+    },
+    {
+      "id": "2025812661309436041",
+      "text": "RT @art_muse: Enchanting Depths https://t.co/sjClKlMBPF",
+      "created_at": "Mon Feb 23 05:59:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2025793996744704000",
+          "url": "https://video.twimg.com/amplify_video/2025793996744704000/vid/avc1/720x960/bbLORodu50-R8pFt.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2025794052730286241",
+        "text": "Enchanting Depths https://t.co/sjClKlMBPF",
+        "created_at": "Mon Feb 23 04:45:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025793996744704000",
+            "url": "https://video.twimg.com/amplify_video/2025793996744704000/vid/avc1/720x960/bbLORodu50-R8pFt.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 14675,
+          "friends_count": 1379,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 68,
+          "favorite_count": 470,
+          "reply_count": 101,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 68,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025813081473839445",
+      "text": "RT @ashleevance: You can want to be like @elonmusk, but do you really have the stomach for it. https://t.co/h6KjorWbzd https://t.co/gMiZFuz…",
+      "created_at": "Mon Feb 23 06:00:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025611349922095209",
+        "text": "You can want to be like @elonmusk, but do you really have the stomach for it. https://t.co/h6KjorWbzd https://t.co/gMiZFuzoKc",
+        "created_at": "Sun Feb 22 16:39:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025611165888602112",
+            "url": "https://pbs.twimg.com/media/HBxqn4va4AADlay.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "81961201",
+          "name": "Ashlee Vance",
+          "screen_name": "ashleevance",
+          "description": "Writing at https://t.co/m6EtO60SiY and host of the Core Memory podcast. 2X NYT best-seller. Filmmaker @HBO (Wild, Wild Space) + @Netflix (Don't Die).",
+          "followers_count": 187886,
+          "friends_count": 3985,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 93,
+          "favorite_count": 835,
+          "reply_count": 95,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 93,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025814259431604691",
+      "text": "RT @art_muse: QT Iridescent Muse https://t.co/bIjU2vwZSh",
+      "created_at": "Mon Feb 23 06:05:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2025793142868328448",
+          "url": "https://video.twimg.com/amplify_video/2025793142868328448/vid/avc1/720x1066/TvRvO7OchCRCr-Kq.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2025793195993366801",
+        "text": "QT Iridescent Muse https://t.co/bIjU2vwZSh",
+        "created_at": "Mon Feb 23 04:41:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025793142868328448",
+            "url": "https://video.twimg.com/amplify_video/2025793142868328448/vid/avc1/720x1066/TvRvO7OchCRCr-Kq.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 14675,
+          "friends_count": 1379,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 68,
+          "favorite_count": 474,
+          "reply_count": 109,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 68,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025816304549024053",
+      "text": "RT @zerohedge: Non-Woke Game Of Thrones Spinoff Explodes In Popularity https://t.co/TfDeUejU7D",
+      "created_at": "Mon Feb 23 06:13:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025585149681807733",
+        "text": "Non-Woke Game Of Thrones Spinoff Explodes In Popularity https://t.co/TfDeUejU7D",
+        "created_at": "Sun Feb 22 14:55:07 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "18856867",
+          "name": "zerohedge",
+          "screen_name": "zerohedge",
+          "description": "",
+          "followers_count": 2530657,
+          "friends_count": 941,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 400,
+          "favorite_count": 7371,
+          "reply_count": 246,
+          "quote_count": 45
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 400,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025816732292505844",
+      "text": "Yeah",
+      "created_at": "Mon Feb 23 06:15:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025764728035745979",
+        "text": "The Mexican cartel is literally blowing shit up and people wonder why we want secure borders",
+        "created_at": "Mon Feb 23 02:48:42 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2961936246",
+          "name": "LilHumansBigImpact",
+          "screen_name": "BigImpactHumans",
+          "description": "• I have a smorgasbord of interests • Advancement of humanity 🚀• Sustainable Abundance 🫶🏼 Kardashev cutie ☀️ 💁🏼‍♀️",
+          "followers_count": 208951,
+          "friends_count": 2438,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 82,
+          "favorite_count": 828,
+          "reply_count": 63,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 553,
+        "favorite_count": 5641,
+        "reply_count": 485,
+        "quote_count": 14
+      }
+    },
+    {
+      "id": "2025817168609223127",
+      "text": "RT @EndWokeness: This is who the Democrats are fighting to let in to our country https://t.co/IwdoGX1kPs",
+      "created_at": "Mon Feb 23 06:17:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2025719293330038784",
+          "url": "https://video.twimg.com/amplify_video/2025719293330038784/vid/avc1/1078x1398/4eghjT-403H5jLY6.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2025720147600896411",
+        "text": "This is who the Democrats are fighting to let in to our country https://t.co/IwdoGX1kPs",
+        "created_at": "Sun Feb 22 23:51:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025719293330038784",
+            "url": "https://video.twimg.com/amplify_video/2025719293330038784/vid/avc1/1078x1398/4eghjT-403H5jLY6.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1552795969959636992",
+          "name": "End Wokeness",
+          "screen_name": "EndWokeness",
+          "description": "Fighting, exposing, and mocking wokeness. DM for submissions",
+          "followers_count": 3921170,
+          "friends_count": 1350,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3922,
+          "favorite_count": 25224,
+          "reply_count": 1015,
+          "quote_count": 125
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3922,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

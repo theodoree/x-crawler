@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 184171,
+    "followers_count": 184208,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260223",
-  "last_updated": "2026-02-23T04:43:04.158172",
-  "tweet_count": 2,
+  "last_updated": "2026-02-23T06:26:20.535197",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2025778137154428961",
@@ -87,6 +87,96 @@
         "favorite_count": 9,
         "reply_count": 0,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2025804414712201403",
+      "text": "“不要把核心价值押注在补足模型能力缺口上”，这个点赞👍\n\n我这两年的一个收获就是做产品设计的时候，基于未来的模型能力和 token 成本去设计，没必要去花很多时间精力去节约token成本，没必要去通过提示词工程去迁就能力不行的模型。\n\n但是 Prompt Engineering 是有价值的，甚至是护城河之一。\n\n如果说的是记住几个 prompt 模板这种层面，确实没什么壁垒。\n\n但如果是深层的，理解模型的认知模式、知道怎么把复杂业务问题分解成模型能处理的结构、能设计好人机协作的工作流，这些能力不会因为模型变强就消失，反而会更重要。\n\n模型越强，掌握好 Prompt Engineering 的人和不会用的人之间差距越大，不是越小。\n\n类似的，“复杂规则补丁”的补丁会过时，打补丁的能力不过时，Engineering 能力不会过时。\n\n---\n\n“认错速度是正资产”\n\n“认错速度”我非常认同，但我会换个说法：是“更新心智模型的速度”。 \n\n认错是被动的，你做了一个判断，事实证明错了，你承认并调整。这当然很重要，但它有一个前提：你得先犯错，然后被现实打脸。\n\n更新心智模型是主动的，你不需要等到犯错才调整。你观察到环境变了，主动去重新评估自己的一整套假设。\n\n光认错是响应式的，真正的护城河是你能比别人更早感知到变化，更快重建一套新的认知框架去应对它。\n\n比如 Claude Code 这样的 Coding Agent 出来，能马上意识到以前那种对话、补全式的编码方式是不够好的，尽早开始用起来。\n\n比如 Agent Skills 出来，能意识到不一定需要从头打造一个 Agent，也许直接做 Skills、编排 Skills 就够了。\n\n比如 OpenClaw 出来，意味着 Agent 的交互不必局限于 CLI，还可以通过聊天 App；意味着和 Agent 之间不必再局限于一问一答，还可以让 Agent 主动发起对话，更不必纠结于它技术实现只不过是一个定时器。\n\n---\n\n“复杂系统的编排能力”也很对，数据孤岛、组织阻力、权限、习惯成本，这些是模型能力再强也吃不掉的，因为它们不是智能问题，是人和组织的问题。\n\n但“编排能力”离不开专业领域知识，模型降低的是通用知识的门槛，但在医疗、法律、金融等领域，真正的专业判断力并不会被抹平。\n\n纯粹的“编排”如果没有领域理解，编排出来的东西也是不靠谱的。\n\n---\n\n除此之外：\n\n第一，问题定义能力。 \n\n模型越强，“怎么做（HOW）”越不值钱，“做什么（WHAT）”和“为什么做（WHY）”越值钱。能精准定义问题、判断什么值得做，这个能力模型替代不了。\n\n第二，领域知识 + AI 能力的交叉。 \n\n不是单纯懂 AI，也不是单纯懂某个行业，而是能把两者结合起来，知道在具体场景下 AI 能解决什么、不能解决什么，怎么把 AI 嵌入到真实工作流里产生价值。\n\n第三，品牌和信任。\n\n在信息爆炸且 AI 生成内容泛滥的时代，人们会越来越依赖可信的人来做信息过滤，这是一条很深的护城河，模型再强也替代不了。\n\n第四，执行力和速度。 \n\n从想法到落地的完整闭环速度。很多人能看到趋势，但能快速把想法变成产品、内容、服务的人永远是少数。",
+      "created_at": "Mon Feb 23 05:26:24 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025804326954766336",
+          "url": "https://pbs.twimg.com/media/HB0aTVyWkAATKSU.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2025425474965700807",
+        "text": "这几天这张图挺火，正好最近都在观察AI圈的内容，有点感想。\n\n在任何一个时代建立起自己的护城河都是必要的，但是千万不能把自己的核心价值押注在补足某个具体模型的能力的缺口上。\n\n因为模型能力在指数级推进，或许今天用工程技巧补上的洞明天就被基础模型抹平了。\n\n目前来看我觉得最容易塌的护城河就是：\n1.prompt工程\n2.复杂规则补丁\n3.针对当前模型的workaround\n这些事本质是建立在模型暂时做不到的之上的。\n\n我觉得最重要的是复杂系统的编排能力还有谁能更快认错。\n\n什么意思呢？虽然模型会越来越强，但是现实世界是有数据孤岛、组织阻力、权限问题、习惯成本等一系列问题的，模型会降低知识门槛，但是复杂的现实世界并不会变得简单，所以谁能在高复杂度环境中抽象-简化-组合-决策，谁就会有护城河。\n还有一点很关键的就是求知心态，因为当世界在指数级变化时，固化经验会变成负资产，更新迭代速度才是正资产。\n未来没有人能一直“更懂技术”，认错认得快，进步才能快。",
+        "created_at": "Sun Feb 22 04:20:38 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025425406623698944",
+            "url": "https://pbs.twimg.com/media/HBvBrRjbUAAYset.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1746470058761887744",
+          "name": "清月已经不困了",
+          "screen_name": "qingyue820",
+          "description": "AI/资讯/投研/币圈一站式教学/\n币安链接https://t.co/xAQ4lkbJZH🎉\n币安邀请码qingyue\n直播通知/观点交流/私人微信/投研社群获取方式请进https://t.co/UeAXCqNvad",
+          "followers_count": 39279,
+          "friends_count": 97,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 69,
+          "favorite_count": 407,
+          "reply_count": 20,
+          "quote_count": 8
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 40,
+        "reply_count": 4,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2025807820730359931",
+      "text": "实践才是最好的学习方式，去做一些为自己为身边的亲朋好友解决问题的项目，从头到尾做出来，哪怕再烂，只要完整做出来，只要持续迭代，你就能收获无数经验\nhttps://t.co/05lSeLyPzw",
+      "created_at": "Mon Feb 23 05:39:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025806781700530677",
+        "text": "@dotey 宝玉老师，请问想学习系统思维和工程思维有什么好的学习材料推荐吗？",
+        "created_at": "Mon Feb 23 05:35:49 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1103476603764371456",
+          "name": "Lucas",
+          "screen_name": "Anoromers",
+          "description": "",
+          "followers_count": 8,
+          "friends_count": 791,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "reply_count": 2,
+        "quote_count": 0
       }
     }
   ]
