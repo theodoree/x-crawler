@@ -1,12 +1,585 @@
 {
   "date": "20260223",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-23T06:26:20.473066",
-  "tweet_count": 218,
-  "unique_tweet_count": 218,
-  "total_crawled": 407,
-  "duplicates_removed": 189,
+  "last_crawl_time": "2026-02-23T08:15:50.263038",
+  "tweet_count": 228,
+  "unique_tweet_count": 228,
+  "total_crawled": 418,
+  "duplicates_removed": 190,
   "tweets": [
+    {
+      "id": "2025834300705219055",
+      "text": "😑",
+      "created_at": "Mon Feb 23 07:25:10 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025630071067656613",
+        "text": "And now they are burning down the Costco in Puerto Vallarta. #Mexico https://t.co/XrPuVy82WP",
+        "created_at": "Sun Feb 22 17:53:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025629958802907137",
+            "url": "https://video.twimg.com/amplify_video/2025629958802907137/vid/avc1/480x640/z7mJJrNH81ekmU8h.mp4?tag=21",
+            "bitrate": 950000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1346634517180723200",
+          "name": "Mr ashen",
+          "screen_name": "TheOfficialMrA1",
+          "description": "Specialist (consultant)\nOSINT\nUkraine, israel, any other conflict!",
+          "followers_count": 1418,
+          "friends_count": 81,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 523,
+          "favorite_count": 3881,
+          "reply_count": 372,
+          "quote_count": 395
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235143901,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2491,
+        "favorite_count": 25686,
+        "reply_count": 1977,
+        "quote_count": 110
+      }
+    },
+    {
+      "id": "2025832753820783076",
+      "text": "Yes",
+      "created_at": "Mon Feb 23 07:19:01 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025615358334550475",
+        "text": "“Don’t make AI lie”—@elonmusk \n\nNo constitutional BS, just truth.\n\nI concur.\n\n https://t.co/ViPZl71BMH",
+        "created_at": "Sun Feb 22 16:55:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025527842885283840",
+            "url": "https://video.twimg.com/amplify_video/2025527842885283840/vid/avc1/1080x1080/xZIWENLeBKXCUAyK.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "101584084",
+          "name": "Brian Roemmele",
+          "screen_name": "BrianRoemmele",
+          "description": "we can only see what we think is possible...",
+          "followers_count": 452927,
+          "friends_count": 42754,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 99,
+          "favorite_count": 617,
+          "reply_count": 127,
+          "quote_count": 25
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235143901,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 901,
+        "favorite_count": 7350,
+        "reply_count": 1268,
+        "quote_count": 60
+      }
+    },
+    {
+      "id": "2025825905805771061",
+      "text": "给 CS 学生什么建议？\n\nHarry 替即将进入职场的 CS 学生问了这个问题：怎么在 AI 时代保持自己的价值？\n\nEmbiricos 的回答出乎意料地乐观。他说从未有比现在更好的时机做工程师。AI 工具让你能做得更多，上手一个复杂代码库的速度前所未有，你可以直接问 AI 关于代码库的问题，让它规划本来要花你几天研究的变更。过去新人加入一个大型项目，光是理解现有代码结构可能就要花几周，现在这个过程被大幅压缩了。\n\n但他话锋一转：对能力应该乐观，但真正的问题是怎么拿到那份工作。构建变容易后，稀缺的东西变了。\n\n> 因为构建东西从未如此容易，变得稀缺的是主动性、品味和质量。\n\n1. Agency（主动性）：不是等别人告诉你做什么，而是自己发现问题、主动去解决。\n2. Taste（品味）：在无数种实现方式中选择最优雅的那个，知道什么该做什么不该做。\n3. Quality（质量）：当 AI 能帮所有人写出 80 分的代码，你靠什么脱颖而出？靠那最后 20 分的打磨。\n\n他的具体建议是：构建东西，然后分享出去。\n\nOpenAI 收到大量的求职申请，无论是通过官网投递还是社交媒体私信。但真正能引起他注意的，不是一份漂亮的简历，而是有人带着有趣的想法和一个项目链接来找他。\n\n这个项目本身就能展示你的主动性、品味和质量，比任何学历背景都有说服力。",
+      "created_at": "Mon Feb 23 06:51:48 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025825721214476288",
+          "url": "https://pbs.twimg.com/media/HB0twpnWoAAFRa-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2025790870155370584",
+        "text": "https://t.co/Cwqt4kzmLL",
+        "created_at": "Mon Feb 23 04:32:35 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 184371,
+          "friends_count": 1555,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 44,
+          "reply_count": 4,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 184371,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 73,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025824930743328825",
+      "text": "RT @XFreeze: \"For 8 years, I was just trying to find purpose\"\n\nNolan has been paralyzed from the neck down for nearly a decade\n\nToday - he'…",
+      "created_at": "Mon Feb 23 06:47:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025823266292764793",
+        "text": "\"For 8 years, I was just trying to find purpose\"\n\nNolan has been paralyzed from the neck down for nearly a decade\n\nToday - he's texting, working & destroying opponents in Mario Kart 🎮\n\nUsing ONLY his mind\n\nHis words hit hard:\n\"Anything anyone can do on a computer, I can do\"\n\nThat smile says it all\n\nElon's Neuralink didn't just connect a human to a machine - It gave Nolan his life back ❤️",
+        "created_at": "Mon Feb 23 06:41:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025822424479240192",
+            "url": "https://video.twimg.com/amplify_video/2025822424479240192/vid/avc1/1280x720/6vf2r8Gb7S_uUEwR.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 151318,
+          "friends_count": 1598,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 287,
+          "favorite_count": 1694,
+          "reply_count": 306,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235143901,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 287,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025824581684969739",
+      "text": "我画封面图都是用的 baoyu-skills 里面的 baoyu-cover-image skill，提供一张 YouTube 封面图作为参考图，让它把人物变成卡通形象\n\nAgent 是 Claude Code （模型 Opus 4.6）\n画图配合的是 baoyu-image-gen skill，配上了 Gemini 的API Key 用 Nano banana pro 画图\n\n我的 Skills 都是开源的：\nhttps://t.co/GOjnWisJjw\n不过部分定制内容是配色和风格，这个影响不大",
+      "created_at": "Mon Feb 23 06:46:32 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025822682269245440",
+          "url": "https://pbs.twimg.com/media/HB0q_wqWYAAXxvE.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2025820713991745701",
+        "text": "@dotey 宝玉老师，你这个封面的提示词可以分享下不，让人看起来特别清新，又科技感十足，描述不清楚的细节，就是很舒服。",
+        "created_at": "Mon Feb 23 06:31:10 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "308301306",
+          "name": "宝哥 | 培训师",
+          "screen_name": "Baoge_AI_",
+          "description": "宝哥 | AI讲师教练 (TTT) CCTV 财经频道采访讲师 8个月打造 AI 课程，变现18万（我做到了） 专注帮你把 AI 技能变成课 ：1、课程设计（把“你会的”变“别人想学的”） 2、 授课交付（把“干货”讲“明白”） 👇 不懂做课？来评论区问我",
+          "followers_count": 35,
+          "friends_count": 135,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 184371,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 66,
+        "reply_count": 9,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025823102265958657",
+      "text": "RT @cb_doge: \"Elon was my Grok from the age he could read encyclopedias, as he remembered all the facts. Lucky me.\"\n\n一 Maye Musk https://t.…",
+      "created_at": "Mon Feb 23 06:40:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025821926187532374",
+        "text": "\"Elon was my Grok from the age he could read encyclopedias, as he remembered all the facts. Lucky me.\"\n\n一 Maye Musk https://t.co/4wVJtfl5wq",
+        "created_at": "Mon Feb 23 06:35:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025821888308756480",
+            "url": "https://pbs.twimg.com/media/HB0qRi7awAAErgb.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1840817,
+          "friends_count": 903,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 422,
+          "favorite_count": 3808,
+          "reply_count": 463,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235143901,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 422,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025822289103634675",
+      "text": "RT @BlakeSNeff: This video is incredible. 60 Minutes goes to South Africa, clearly looking to debunk narratives about white farmers being t…",
+      "created_at": "Mon Feb 23 06:37:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025799228824678464",
+        "text": "This video is incredible. 60 Minutes goes to South Africa, clearly looking to debunk narratives about white farmers being targeted and killed with impunity, talk to farmers who have countless stories of their family and friends being tortured and killed with no arrests.\n\nWould this story even have aired before the Weiss era?",
+        "created_at": "Mon Feb 23 05:05:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2025728875494346996",
+          "text": "In May, Pres. Trump said “over a thousand” White farmers have been murdered in South Africa. He showed a video of what he said were crosses marking their burial sites. But when 60 Minutes traveled to the site, the crosses were gone. Anderson Cooper tracked down the farmer who placed them there. https://t.co/y3o0orkCli",
+          "created_at": "Mon Feb 23 00:26:14 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2025728666227879936",
+              "url": "https://video.twimg.com/amplify_video/2025728666227879936/vid/avc1/1280x720/5qE0gxfedT9w41G7.mp4?tag=14",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "18812572",
+            "name": "60 Minutes",
+            "screen_name": "60Minutes",
+            "description": "The most successful news magazine in TV history. Send us a news tip at https://t.co/HA3SozEs8h ⏱️",
+            "followers_count": 1371066,
+            "friends_count": 500,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1754,
+            "favorite_count": 6151,
+            "reply_count": 420,
+            "quote_count": 95
+          }
+        },
+        "user": {
+          "id": "1969127547289157633",
+          "name": "Blake Neff",
+          "screen_name": "BlakeSNeff",
+          "description": "Producer, The Charlie Kirk Show.",
+          "followers_count": 74823,
+          "friends_count": 182,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 580,
+          "favorite_count": 4228,
+          "reply_count": 156,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235143901,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 580,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025821633802371122",
+      "text": "RT @AutismCapital: Jack Hughes. ABSOLUTE LEGEND. Got his teeth knocked out by a high stick from Sam Bennett in the 3rd period but was that…",
+      "created_at": "Mon Feb 23 06:34:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025640771073036529",
+        "text": "Jack Hughes. ABSOLUTE LEGEND. Got his teeth knocked out by a high stick from Sam Bennett in the 3rd period but was that going to stop him? No chance. He spit out the blood and kept playing. Scoring the winning goal in OT and securing the gold for the US against Canada in the Olympics. \n\nWhat a legend. The indomitable American spirit. 🇺🇸 🫡 \n\nFINAL SCORE:\n🇺🇸USA - 2 🥇 \n🇨🇦CANADA - 1 🥈",
+        "created_at": "Sun Feb 22 18:36:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025640765305815040",
+            "url": "https://pbs.twimg.com/media/HByFizKagAAjR3F.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1297651178256257024",
+          "name": "Autism Capital 🧩",
+          "screen_name": "AutismCapital",
+          "description": "Citizen journalism with a humorous flair. Following Fintech, Crypto, AI, Longevity, Politics, Memes, and whatever the current thing is.",
+          "followers_count": 1076621,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1995,
+          "favorite_count": 16234,
+          "reply_count": 401,
+          "quote_count": 143
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235143901,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1995,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025821553359765669",
+      "text": "RT @jefflijun: https://t.co/Wmr6k8iM82",
+      "created_at": "Mon Feb 23 06:34:30 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2025804832099962942",
+        "text": "https://t.co/Wmr6k8iM82",
+        "created_at": "Mon Feb 23 05:28:04 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "75947931",
+          "name": "Jeff Li",
+          "screen_name": "jefflijun",
+          "description": "▶ YouTuber: 隐枫视野；Financial Times: https://t.co/JeKZGMr6cp",
+          "followers_count": 60922,
+          "friends_count": 474,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 23,
+          "reply_count": 7,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 184371,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025819946144370956",
+      "text": "RT @cb_doge: Help build @Grok\n\nxAI is hiring exceptional engineers. Join the fastest growing AI company.\n\nSee all open roles here:\nhttps://…",
+      "created_at": "Mon Feb 23 06:28:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025812670839242948",
+        "text": "Help build @Grok\n\nxAI is hiring exceptional engineers. Join the fastest growing AI company.\n\nSee all open roles here:\nhttps://t.co/QVvVWNjYu8 https://t.co/TG70L8Wa7h",
+        "created_at": "Mon Feb 23 05:59:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025812582838509568",
+            "url": "https://video.twimg.com/amplify_video/2025812582838509568/vid/avc1/720x1280/7vuoWnV7eqIbY7XK.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1840817,
+          "friends_count": 903,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 203,
+          "favorite_count": 998,
+          "reply_count": 252,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235143901,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 203,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2025817168609223127",
       "text": "RT @EndWokeness: This is who the Democrats are fighting to let in to our country https://t.co/IwdoGX1kPs",
