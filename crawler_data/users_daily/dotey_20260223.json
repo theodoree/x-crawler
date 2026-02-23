@@ -1,0 +1,93 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 184171,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260223",
+  "last_updated": "2026-02-23T04:43:04.158172",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2025778137154428961",
+      "text": "RT @python_xxt: 关于PM，说一个大部分人没想清楚的事\n\n产品经理的传统价值建立在一个前提上：建造是昂贵的\n\n因为工程资源稀缺，所以需要一个角色来决定“做什么、不做什么”，来排优先级，来确保有限的开发资源不被浪费。整个PM方法论，用户调研、PRD、优先级矩阵、路线…",
+      "created_at": "Mon Feb 23 03:41:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2025750660600484054",
+        "text": "关于PM，说一个大部分人没想清楚的事\n\n产品经理的传统价值建立在一个前提上：建造是昂贵的\n\n因为工程资源稀缺，所以需要一个角色来决定“做什么、不做什么”，来排优先级，来确保有限的开发资源不被浪费。整个PM方法论，用户调研、PRD、优先级矩阵、路线图，本质上都是稀缺条件下的资源分配工具。\n\n而AI，让建造变得廉价，这意味着PM存在的底层前提，正在被动摇。\n\n很多PM看到AI的第一反应是：“我要学AI、学prompt engineering、学Agent、学MCP、学每一个新工具……”\n\n然后陷入无止境的工具焦虑和信息过载，这恰好是错的。\n\nAI工具和框架的迭代速度远快于我们的学习速度。今天花两周学会的工具，三个月后可能被淘汰，如果策略是 追工具，那会永远追不上。\n\n正确的策略是：花20%的精力保持对工具层的基本感知，花80%的精力深耕你的行业认知和用户理解。\n\n再说一句不好听的，PM这个岗位在很多公司里会缩减。当工程团队可以用AI快速试错，可以自己出原型，传统意义上写文档、排需求、协调开发的PM的需求会下降。\n\n但好PM的需求会上升。\n\n因为当建造变便宜，做正确的事变得比正确地做事重要得多。能准确识别用户未被满足的需求、能在一堆可能性中选出那个最值得做的方向、能在模糊和不确定中做出判断，这种PM，在AI时代比以前更稀缺。\n\n分化会很剧烈，中间地带会消失，要么成为那个不可替代的判断者，要么被AI增强过的少数PM替代掉。\n\nAI是乘数，但乘数要乘在一个有意义的底数上。底数是零，乘什么都是零。",
+        "created_at": "Mon Feb 23 01:52:48 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2025718784166973712",
+          "text": "产品经理如何抓住AI这波红利？请留言🤣🤣🤣",
+          "created_at": "Sun Feb 22 23:46:08 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1164388321545449472",
+            "name": "卫斯理",
+            "screen_name": "imwsl90",
+            "description": "程序员/产品经理/销售/中年已婚带2娃\n\n- 互联网、编程、AI、情感、历史、八卦\n\n联系方式: https://t.co/qhzcXic3G8\n我的服务：https://t.co/35tV6ds2ny\n推荐魔法：https://t.co/B5SfJ7LlqH",
+            "followers_count": 86342,
+            "friends_count": 7650,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 0,
+            "favorite_count": 7,
+            "reply_count": 16,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "880606715141529600",
+          "name": "Robinson · 鲁棒逊",
+          "screen_name": "python_xxt",
+          "description": "AI & Robustness in chaos.\n\nInsight  → Strategy → Operation\n\nNow,not How.\n\n我对现实世界的认知\n贫瘠到无法自知其贫瘠",
+          "followers_count": 25650,
+          "friends_count": 506,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 37,
+          "reply_count": 3,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025790870155370584",
+      "text": "https://t.co/Cwqt4kzmLL",
+      "created_at": "Mon Feb 23 04:32:35 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 9,
+        "reply_count": 0,
+        "quote_count": 1
+      }
+    }
+  ]
+}

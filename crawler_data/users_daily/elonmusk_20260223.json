@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235147310,
+    "followers_count": 235151377,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260223",
-  "last_updated": "2026-02-23T03:03:55.097418",
-  "tweet_count": 4,
+  "last_updated": "2026-02-23T04:43:04.162575",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2025746315427082504",
@@ -198,6 +198,52 @@
         "favorite_count": 8440,
         "reply_count": 1054,
         "quote_count": 22
+      }
+    },
+    {
+      "id": "2025786013398774016",
+      "text": "😑",
+      "created_at": "Mon Feb 23 04:13:17 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025749760443908555",
+        "text": "Gov. Newsom to a black crowd in GA: \"I am like you. I'm a 960 SAT guy. I can't read.\" https://t.co/4Gk0WKbIYz",
+        "created_at": "Mon Feb 23 01:49:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2025749660992724992",
+            "url": "https://video.twimg.com/amplify_video/2025749660992724992/vid/avc1/1902x1080/mBFZGiuUdoccpvW7.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1552795969959636992",
+          "name": "End Wokeness",
+          "screen_name": "EndWokeness",
+          "description": "Fighting, exposing, and mocking wokeness. DM for submissions",
+          "followers_count": 3921174,
+          "friends_count": 1350,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3846,
+          "favorite_count": 28355,
+          "reply_count": 3718,
+          "quote_count": 2046
+        }
+      },
+      "stats": {
+        "retweet_count": 1298,
+        "favorite_count": 12827,
+        "reply_count": 1878,
+        "quote_count": 95
       }
     }
   ]
