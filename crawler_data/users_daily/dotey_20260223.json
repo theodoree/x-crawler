@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 185025,
+    "followers_count": 185059,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260223",
-  "last_updated": "2026-02-23T20:21:52.704357",
-  "tweet_count": 9,
+  "last_updated": "2026-02-23T22:17:26.273008",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2025778137154428961",
@@ -400,6 +400,67 @@
         "favorite_count": 115,
         "reply_count": 22,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2026045991007248556",
+      "text": "RT @jefflijun: 传统IT时代最坚硬的堡垒被攻破：Anthropic将推出COBOL自动化AI工具；IBM股价应声下跌13%，创2000年以来最大跌幅 https://t.co/TFFfniUQjG",
+      "created_at": "Mon Feb 23 21:26:21 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026043364181749760",
+          "url": "https://pbs.twimg.com/media/HB3ztI2XMAACTke.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2026043364420759552",
+          "url": "https://pbs.twimg.com/media/HB3ztJvWMAA3qtV.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2026043369386848513",
+        "text": "传统IT时代最坚硬的堡垒被攻破：Anthropic将推出COBOL自动化AI工具；IBM股价应声下跌13%，创2000年以来最大跌幅 https://t.co/TFFfniUQjG",
+        "created_at": "Mon Feb 23 21:15:55 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026043364181749760",
+            "url": "https://pbs.twimg.com/media/HB3ztI2XMAACTke.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2026043364420759552",
+            "url": "https://pbs.twimg.com/media/HB3ztJvWMAA3qtV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "75947931",
+          "name": "Jeff Li",
+          "screen_name": "jefflijun",
+          "description": "▶ YouTuber: 隐枫视野；Financial Times: https://t.co/JeKZGMr6cp",
+          "followers_count": 60937,
+          "friends_count": 476,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 19,
+          "reply_count": 7,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

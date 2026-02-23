@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235199761,
+    "followers_count": 235205742,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260223",
-  "last_updated": "2026-02-23T20:21:52.678777",
-  "tweet_count": 33,
+  "last_updated": "2026-02-23T22:17:26.247144",
+  "tweet_count": 35,
   "tweets": [
     {
       "id": "2025746315427082504",
@@ -1511,6 +1511,101 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2026052687423562228",
+      "text": "Anthropic is guilty of stealing training data at massive scale and has had to pay multi-billion dollar settlements for their theft. This is just a fact.",
+      "created_at": "Mon Feb 23 21:52:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026028276750200968",
+        "text": "the community notes COOKED anthropic 😭😭 https://t.co/hn4BVeBff8",
+        "created_at": "Mon Feb 23 20:15:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026028273369575424",
+            "url": "https://pbs.twimg.com/media/HB3l-vMXcAAg6YP.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2026028273382162432",
+            "url": "https://pbs.twimg.com/media/HB3l-vPXgAAVuUe.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1087640384975577089",
+          "name": "NIK",
+          "screen_name": "ns123abc",
+          "description": "non technical member of technical staff",
+          "followers_count": 50002,
+          "friends_count": 6492,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 78,
+          "favorite_count": 938,
+          "reply_count": 78,
+          "quote_count": 12
+        }
+      },
+      "stats": {
+        "retweet_count": 1371,
+        "favorite_count": 11702,
+        "reply_count": 1385,
+        "quote_count": 97
+      }
+    },
+    {
+      "id": "2026054627750514835",
+      "text": "Most people have no idea that democracy would already be dead in America if not for the brave actions of Senators Sinema and Manchin",
+      "created_at": "Mon Feb 23 22:00:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026049539950461165",
+        "text": "@SenatorWarnock Are you unaware that your party (democrats) attempted to federalize our elections as its first bill of the House in 2019? \n\nH.R.1 - For the People Act of 2019 https://t.co/7LxhDUYTJl",
+        "created_at": "Mon Feb 23 21:40:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026049535319891968",
+            "url": "https://pbs.twimg.com/media/HB35UWIWYAA33F3.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "931286316",
+          "name": "ThePersistence",
+          "screen_name": "ScottPresler",
+          "description": "I helped defeat Hillary, Kamala, & organized the Baltimore cleanup. We delivered Pennsylvania for President Trump. 👀 ➡️ @EarlyVoteAction MAGA 🤝 MAHA 🤝 BARBZ",
+          "followers_count": 2462040,
+          "friends_count": 73299,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 544,
+          "favorite_count": 2813,
+          "reply_count": 73,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 1382,
+        "favorite_count": 8699,
+        "reply_count": 778,
+        "quote_count": 34
       }
     }
   ]

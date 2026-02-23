@@ -1,12 +1,198 @@
 {
   "date": "20260223",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-23T20:21:52.645711",
-  "tweet_count": 242,
-  "unique_tweet_count": 242,
-  "total_crawled": 438,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-02-23T22:17:26.214691",
+  "tweet_count": 245,
+  "unique_tweet_count": 245,
+  "total_crawled": 442,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2026054627750514835",
+      "text": "Most people have no idea that democracy would already be dead in America if not for the brave actions of Senators Sinema and Manchin",
+      "created_at": "Mon Feb 23 22:00:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026049539950461165",
+        "text": "@SenatorWarnock Are you unaware that your party (democrats) attempted to federalize our elections as its first bill of the House in 2019? \n\nH.R.1 - For the People Act of 2019 https://t.co/7LxhDUYTJl",
+        "created_at": "Mon Feb 23 21:40:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026049535319891968",
+            "url": "https://pbs.twimg.com/media/HB35UWIWYAA33F3.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "931286316",
+          "name": "ThePersistence",
+          "screen_name": "ScottPresler",
+          "description": "I helped defeat Hillary, Kamala, & organized the Baltimore cleanup. We delivered Pennsylvania for President Trump. 👀 ➡️ @EarlyVoteAction MAGA 🤝 MAHA 🤝 BARBZ",
+          "followers_count": 2462040,
+          "friends_count": 73299,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 544,
+          "favorite_count": 2813,
+          "reply_count": 73,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235205742,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1382,
+        "favorite_count": 8699,
+        "reply_count": 778,
+        "quote_count": 34
+      }
+    },
+    {
+      "id": "2026052687423562228",
+      "text": "Anthropic is guilty of stealing training data at massive scale and has had to pay multi-billion dollar settlements for their theft. This is just a fact.",
+      "created_at": "Mon Feb 23 21:52:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026028276750200968",
+        "text": "the community notes COOKED anthropic 😭😭 https://t.co/hn4BVeBff8",
+        "created_at": "Mon Feb 23 20:15:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026028273369575424",
+            "url": "https://pbs.twimg.com/media/HB3l-vMXcAAg6YP.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2026028273382162432",
+            "url": "https://pbs.twimg.com/media/HB3l-vPXgAAVuUe.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1087640384975577089",
+          "name": "NIK",
+          "screen_name": "ns123abc",
+          "description": "non technical member of technical staff",
+          "followers_count": 50002,
+          "friends_count": 6492,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 78,
+          "favorite_count": 938,
+          "reply_count": 78,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235205742,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1371,
+        "favorite_count": 11702,
+        "reply_count": 1385,
+        "quote_count": 97
+      }
+    },
+    {
+      "id": "2026045991007248556",
+      "text": "RT @jefflijun: 传统IT时代最坚硬的堡垒被攻破：Anthropic将推出COBOL自动化AI工具；IBM股价应声下跌13%，创2000年以来最大跌幅 https://t.co/TFFfniUQjG",
+      "created_at": "Mon Feb 23 21:26:21 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026043364181749760",
+          "url": "https://pbs.twimg.com/media/HB3ztI2XMAACTke.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2026043364420759552",
+          "url": "https://pbs.twimg.com/media/HB3ztJvWMAA3qtV.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2026043369386848513",
+        "text": "传统IT时代最坚硬的堡垒被攻破：Anthropic将推出COBOL自动化AI工具；IBM股价应声下跌13%，创2000年以来最大跌幅 https://t.co/TFFfniUQjG",
+        "created_at": "Mon Feb 23 21:15:55 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026043364181749760",
+            "url": "https://pbs.twimg.com/media/HB3ztI2XMAACTke.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2026043364420759552",
+            "url": "https://pbs.twimg.com/media/HB3ztJvWMAA3qtV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "75947931",
+          "name": "Jeff Li",
+          "screen_name": "jefflijun",
+          "description": "▶ YouTuber: 隐枫视野；Financial Times: https://t.co/JeKZGMr6cp",
+          "followers_count": 60937,
+          "friends_count": 476,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 19,
+          "reply_count": 7,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 185059,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2026021183934582926",
       "text": "RT @jawwwn_: “If you try to buy a gun, they’ll ID you six ways to Sunday.”\n\n@elonmusk on voter ID and fraud:\n\n“CA just passed a law making…",
