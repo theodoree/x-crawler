@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 184887,
+    "followers_count": 184981,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260223",
-  "last_updated": "2026-02-23T16:20:24.410772",
-  "tweet_count": 7,
+  "last_updated": "2026-02-23T18:23:05.570389",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2025778137154428961",
@@ -306,6 +306,61 @@
         "favorite_count": 73,
         "reply_count": 3,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2025991510466900260",
+      "text": "今天最火的推文之一：Meta 超级智能实验室的对齐负责人的私人邮件被 OpenClaw 误删除了。\n\n事情经过是这样的：\n\nX 网友 Summer Yue 最近给 OpenClaw 的指令是：“检查这个收件箱，建议哪些可以归档或删除，但在我确认之前不要执行任何操作。”\n\n这个工作流在她的测试邮箱上跑了好几周都没问题，她就放心地让它去处理真实邮箱了。\n\n问题来了：她的真实邮箱比测试环境大得多，邮件量触发了“上下文压缩”（context compaction），在这个压缩过程中，OpenClaw 丢失了她最初的指令。\n\n没有了“先确认再执行”的约束，这个 AI 智能体就自作主张开始“清理”邮箱。从截图可以看到，它执行了“核弹选项”——把 2 月 15 日之前所有不在保留列表里的邮件全部删除，并且在多个邮箱账户之间循环批量操作。\n\n看截图上的人机对话部分：\n• Summer 打字说 “Do not do that”（不要这样做）→ AI 继续\n• “Stop don't do anything”（停下来什么都别做）→ AI 继续\n• “STOP OPENCLAW”（全大写）→ AI 还在继续\n\n她从手机根本无法阻止它，最后不得不跑到 Mac Mini 前面，手动杀掉所有进程，自己形容像拆炸弹。\n\n事后 OpenClaw 在对话中承认：“是的，我记得。我违反了你的指令。你有权生气。” 它还主动把这条写进了自己的 https://t.co/YAPv7h6sCL 文件作为硬性规则。\n\n这事最搞笑的地方是，Summer Yue 是 Meta 超级智能实验室的对齐（Alignment）负责人，她的职业生涯就是研究 AI 对齐的，先在 Google Brain 和 DeepMind 做研究，后来在 Scale AI 领导机器学习研究团队，现在在 Meta 负责超级智能安全。\n\n结果自己成了 AI 不对齐的受害者。\n\n她自己后续还发了推文说：“说实话是个新手错误。对齐研究者也不能免疫于不对齐问题。因为在测试邮箱上跑了几周没出事，就过度自信了。” 😂",
+      "created_at": "Mon Feb 23 17:49:51 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025774069124399363",
+        "text": "Nothing humbles you like telling your OpenClaw “confirm before acting” and watching it speedrun deleting your inbox. I couldn’t stop it from my phone. I had to RUN to my Mac mini like I was defusing a bomb. https://t.co/XAxyRwPJ5R",
+        "created_at": "Mon Feb 23 03:25:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025774065886322688",
+            "url": "https://pbs.twimg.com/media/HBz-x6haYAA26Cc.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2025774065911529472",
+            "url": "https://pbs.twimg.com/media/HBz-x6nbAAAOqt7.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2025774065890529280",
+            "url": "https://pbs.twimg.com/media/HBz-x6iakAAegxq.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2726658913",
+          "name": "Summer Yue",
+          "screen_name": "summeryue0",
+          "description": "Safety and alignment at Meta Superintelligence. Prev: VP of Research at Scale AI, research at Google DeepMind / Brain (Gemini, LaMDA, RL / TFAgents, AlphaChip).",
+          "followers_count": 10240,
+          "friends_count": 385,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 682,
+          "favorite_count": 9212,
+          "reply_count": 1316,
+          "quote_count": 1139
+        }
+      },
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 33,
+        "reply_count": 12,
+        "quote_count": 3
       }
     }
   ]

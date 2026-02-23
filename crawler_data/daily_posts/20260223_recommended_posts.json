@@ -1,12 +1,340 @@
 {
   "date": "20260223",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-23T16:20:24.346662",
-  "tweet_count": 232,
-  "unique_tweet_count": 232,
-  "total_crawled": 428,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-02-23T18:23:05.541601",
+  "tweet_count": 238,
+  "unique_tweet_count": 238,
+  "total_crawled": 432,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2025991510466900260",
+      "text": "今天最火的推文之一：Meta 超级智能实验室的对齐负责人的私人邮件被 OpenClaw 误删除了。\n\n事情经过是这样的：\n\nX 网友 Summer Yue 最近给 OpenClaw 的指令是：“检查这个收件箱，建议哪些可以归档或删除，但在我确认之前不要执行任何操作。”\n\n这个工作流在她的测试邮箱上跑了好几周都没问题，她就放心地让它去处理真实邮箱了。\n\n问题来了：她的真实邮箱比测试环境大得多，邮件量触发了“上下文压缩”（context compaction），在这个压缩过程中，OpenClaw 丢失了她最初的指令。\n\n没有了“先确认再执行”的约束，这个 AI 智能体就自作主张开始“清理”邮箱。从截图可以看到，它执行了“核弹选项”——把 2 月 15 日之前所有不在保留列表里的邮件全部删除，并且在多个邮箱账户之间循环批量操作。\n\n看截图上的人机对话部分：\n• Summer 打字说 “Do not do that”（不要这样做）→ AI 继续\n• “Stop don't do anything”（停下来什么都别做）→ AI 继续\n• “STOP OPENCLAW”（全大写）→ AI 还在继续\n\n她从手机根本无法阻止它，最后不得不跑到 Mac Mini 前面，手动杀掉所有进程，自己形容像拆炸弹。\n\n事后 OpenClaw 在对话中承认：“是的，我记得。我违反了你的指令。你有权生气。” 它还主动把这条写进了自己的 https://t.co/YAPv7h6sCL 文件作为硬性规则。\n\n这事最搞笑的地方是，Summer Yue 是 Meta 超级智能实验室的对齐（Alignment）负责人，她的职业生涯就是研究 AI 对齐的，先在 Google Brain 和 DeepMind 做研究，后来在 Scale AI 领导机器学习研究团队，现在在 Meta 负责超级智能安全。\n\n结果自己成了 AI 不对齐的受害者。\n\n她自己后续还发了推文说：“说实话是个新手错误。对齐研究者也不能免疫于不对齐问题。因为在测试邮箱上跑了几周没出事，就过度自信了。” 😂",
+      "created_at": "Mon Feb 23 17:49:51 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025774069124399363",
+        "text": "Nothing humbles you like telling your OpenClaw “confirm before acting” and watching it speedrun deleting your inbox. I couldn’t stop it from my phone. I had to RUN to my Mac mini like I was defusing a bomb. https://t.co/XAxyRwPJ5R",
+        "created_at": "Mon Feb 23 03:25:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025774065886322688",
+            "url": "https://pbs.twimg.com/media/HBz-x6haYAA26Cc.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2025774065911529472",
+            "url": "https://pbs.twimg.com/media/HBz-x6nbAAAOqt7.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2025774065890529280",
+            "url": "https://pbs.twimg.com/media/HBz-x6iakAAegxq.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2726658913",
+          "name": "Summer Yue",
+          "screen_name": "summeryue0",
+          "description": "Safety and alignment at Meta Superintelligence. Prev: VP of Research at Scale AI, research at Google DeepMind / Brain (Gemini, LaMDA, RL / TFAgents, AlphaChip).",
+          "followers_count": 10240,
+          "friends_count": 385,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 682,
+          "favorite_count": 9212,
+          "reply_count": 1316,
+          "quote_count": 1139
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 184981,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 33,
+        "reply_count": 12,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2025979085332074849",
+      "text": "RT @RestoreBritain_: A Restore Britain Government would hold a referendum on the death penalty. If the British people support it, we would…",
+      "created_at": "Mon Feb 23 17:00:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2025943872606544015",
+        "text": "A Restore Britain Government would hold a referendum on the death penalty. If the British people support it, we would reintroduce the death penalty for cases of such brutal evil and undeniable guilt.\n\nRestore Britain would put the very worst rape gang savages to death.",
+        "created_at": "Mon Feb 23 14:40:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1930183861176090624",
+          "name": "Restore Britain",
+          "screen_name": "RestoreBritain_",
+          "description": "Let’s Restore Britain. Join our party here:",
+          "followers_count": 293567,
+          "friends_count": 61,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1123,
+          "favorite_count": 8720,
+          "reply_count": 543,
+          "quote_count": 55
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235190006,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1123,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025973995103744034",
+      "text": "Join Restore Britain",
+      "created_at": "Mon Feb 23 16:40:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025939898465701967",
+        "text": "I am so encouraged by the vast number of young British men who are joining up to Restore Britain.\n\nThousands and thousands and thousands of them.\n\nToday, an article in the Daily Telegraph called them Nazis.\n\nThis is what the establishment does - it stands on the neck of those young British men who care about their country, who want illegals deported and who believe in an immigration system that benefits the British people only.\n\nTim Stanley at the Telegraph should be ashamed of himself, as should Reform who have used the same vile language.\n\nMillions of young men feel entirely politically alienated.\n\nFor decades, no political party has spoken for them.\n\nWell now there is one. \n\nRestore Britain.\n\nAnd hundreds and hundreds more join every day.\n\nWe won't treat them like dirt, we won't patronise them, we won't insult them. \n\nI urge all young men who are now following Restore Britain to rise above it. Work hard, be respectful, play by the rules, but enjoy yourselves - ignore the woke bullshit, and crack on.\n\nGet involved, and spread the word. \n\nWe are going to get our country back.",
+        "created_at": "Mon Feb 23 14:24:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 673064,
+          "friends_count": 787,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3140,
+          "favorite_count": 23187,
+          "reply_count": 933,
+          "quote_count": 118
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235190006,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4320,
+        "favorite_count": 34666,
+        "reply_count": 2230,
+        "quote_count": 192
+      }
+    },
+    {
+      "id": "2025973691675197553",
+      "text": "RT @ianmiles: You need two pieces of ID to do a $19/hr job for Mamdani but no ID to vote for him. Let that sink in. https://t.co/xcq3XkRVka",
+      "created_at": "Mon Feb 23 16:39:03 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025896601789624320",
+          "url": "https://pbs.twimg.com/media/HB1uOcVXcAAJpjX.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2025896607879717357",
+        "text": "You need two pieces of ID to do a $19/hr job for Mamdani but no ID to vote for him. Let that sink in. https://t.co/xcq3XkRVka",
+        "created_at": "Mon Feb 23 11:32:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025896601789624320",
+            "url": "https://pbs.twimg.com/media/HB1uOcVXcAAJpjX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16106584",
+          "name": "Ian Miles Cheong",
+          "screen_name": "ianmiles",
+          "description": "I say the quiet part out loud. Hit the follow button if you can read this.",
+          "followers_count": 1257246,
+          "friends_count": 1370,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 852,
+          "favorite_count": 3295,
+          "reply_count": 250,
+          "quote_count": 40
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235190006,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 852,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2025972641039782214",
+      "text": "They are reaching an ATH in hypocrisy",
+      "created_at": "Mon Feb 23 16:34:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025959899474051366",
+        "text": "ID to shovel snow, but not to vote. Got it.",
+        "created_at": "Mon Feb 23 15:44:15 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "24222556",
+          "name": "Tyler Winklevoss",
+          "screen_name": "tyler",
+          "description": "Co-Founder @gemini, @cypherpunk, @winklevosscap Vocals @marsjunction",
+          "followers_count": 1098348,
+          "friends_count": 3484,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 392,
+          "favorite_count": 5403,
+          "reply_count": 251,
+          "quote_count": 22
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235190006,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4042,
+        "favorite_count": 45922,
+        "reply_count": 1779,
+        "quote_count": 98
+      }
+    },
+    {
+      "id": "2025972233961632239",
+      "text": "Horrifying",
+      "created_at": "Mon Feb 23 16:33:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025862977954451747",
+        "text": "A statement from the Rape Gang Inquiry. https://t.co/mmlnToONX8",
+        "created_at": "Mon Feb 23 09:19:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025861431627862016",
+            "url": "https://pbs.twimg.com/media/HB1OPRRX0AASDz-.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 673064,
+          "friends_count": 787,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6373,
+          "favorite_count": 24808,
+          "reply_count": 1759,
+          "quote_count": 1299
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235190006,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 9741,
+        "favorite_count": 49755,
+        "reply_count": 2738,
+        "quote_count": 339
+      }
+    },
     {
       "id": "2025964274825240946",
       "text": "RT @XFreeze: SpaceX has officially completed the 1st Gen Direct-to-Cell constellation\n\n• 650+ satellites launched in 18 months\n• 12M+ peopl…",
