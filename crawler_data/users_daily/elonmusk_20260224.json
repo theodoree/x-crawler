@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235258157,
+    "followers_count": 235266010,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260224",
-  "last_updated": "2026-02-24T16:32:51.106435",
-  "tweet_count": 36,
+  "last_updated": "2026-02-24T18:21:39.283172",
+  "tweet_count": 40,
   "tweets": [
     {
       "id": "2026085070721953904",
@@ -1835,6 +1835,165 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2026335138939080734",
+      "text": "Restore Britain is already at 7%!\n\nIt will win. It must win. To Save Britain. https://t.co/v2ynHYtkQK",
+      "created_at": "Tue Feb 24 16:35:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026335135260659712",
+          "url": "https://pbs.twimg.com/media/HB79Ec0a0AA-ytS.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 8046,
+        "favorite_count": 79074,
+        "reply_count": 3897,
+        "quote_count": 397
+      }
+    },
+    {
+      "id": "2026336440142196878",
+      "text": "RT @art_muse: QT Black &amp; White 🖤🤍 https://t.co/2YMW5nzYr6",
+      "created_at": "Tue Feb 24 16:40:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2026269973509701632",
+          "url": "https://video.twimg.com/amplify_video/2026269973509701632/vid/avc1/720x1300/OAJYTdIzkdZh5xCx.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2026270037900734521",
+        "text": "QT Black &amp; White 🖤🤍 https://t.co/2YMW5nzYr6",
+        "created_at": "Tue Feb 24 12:16:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026269973509701632",
+            "url": "https://video.twimg.com/amplify_video/2026269973509701632/vid/avc1/720x1300/OAJYTdIzkdZh5xCx.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 15386,
+          "friends_count": 1378,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 190,
+          "favorite_count": 1226,
+          "reply_count": 228,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 190,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026338814424477737",
+      "text": "Protect the Shire",
+      "created_at": "Tue Feb 24 16:49:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026329320885514690",
+        "text": "The will be a Shire, Pippin.",
+        "created_at": "Tue Feb 24 16:12:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "972860488806694912",
+          "name": "Daily Gondor 📰",
+          "screen_name": "DailyGondor",
+          "description": "One newspaper to rule them all",
+          "followers_count": 106792,
+          "friends_count": 1271,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 66,
+          "favorite_count": 1930,
+          "reply_count": 108,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 1732,
+        "favorite_count": 25985,
+        "reply_count": 1883,
+        "quote_count": 179
+      }
+    },
+    {
+      "id": "2026352282917548261",
+      "text": "Cool",
+      "created_at": "Tue Feb 24 17:43:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026349785901576406",
+        "text": "Vercel AI Gateway now supports video generation. Grok Imagine Video & Image are 🆓 until tomorrow.\n\nWe used @v0 to create an open source Creative Studio powered by @xai Grok. Create images, videos, or make your own design tool!\n\nhttps://t.co/iyVwS5bvLf – it's quite fast. Some cool technical tidbits:\n\n▪️ Vercel Workflows for reliable generation\nVideo generation can take long. Users might restart their browsers or their wifi / LTE might drop. We smooth over that automatically.\n\n▪️ Instant vector search\nTry searching the public generations. Now back to me. We used @mixedbreadai to index the content visually, so you can search 𝚋𝚕𝚊𝚌𝚔 𝚏𝚎𝚕𝚒𝚗𝚎 and get a cat (try it!)\n\n▪️ Vercel AI Gateway\nAll existing and future Grok models are accessible via our gateway without extra setup. When you deploy to Vercel, you get access to hundreds of models with a single account and unified billing\n\nIt's obviously built with @nextjs (RSC). Open it in v0 to make it your own! h/t @estebansuarez for shipping this.",
+        "created_at": "Tue Feb 24 17:33:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026348131542286336",
+            "url": "https://video.twimg.com/amplify_video/2026348131542286336/vid/avc1/1920x1080/56HsSliCam_tnQtb.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15540222",
+          "name": "Guillermo Rauch",
+          "screen_name": "rauchg",
+          "description": "@vercel CEO",
+          "followers_count": 375443,
+          "friends_count": 618,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 40,
+          "favorite_count": 269,
+          "reply_count": 102,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 486,
+        "favorite_count": 3487,
+        "reply_count": 1038,
+        "quote_count": 32
       }
     }
   ]
