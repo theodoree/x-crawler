@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 185371,
+    "followers_count": 185506,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260224",
-  "last_updated": "2026-02-24T03:01:44.581902",
-  "tweet_count": 2,
+  "last_updated": "2026-02-24T04:38:36.732039",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2026115426061865230",
@@ -69,6 +69,84 @@
         "favorite_count": 23,
         "reply_count": 13,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2026146560862474482",
+      "text": "转译：规范驱动开发错在哪了\n\n你唯一能百分百信任的文档，就是代码本身。\n\n设计文档、更新日志、README、架构图、入职指南。这些东西写完几乎立刻就过时了。\n\n让文档和不断变化的系统保持同步，需要持续投入成本。工程师天生习惯爆发式输出：写文档，发功能，然后做下一个。后续更新属于隐形工作，每天都要和其他任务争夺时间，而且几乎每次都会败下阵来。我们试过流程，试过工具，甚至试图把它塑造成团队价值观。都没用。因为我们总是在强求人类去做他们骨子里就不愿做的事。\n\n这正是规范驱动开发经常翻车的地方。理念本身没毛病：与编写代码的 Agent 合作时，先写清楚需求再让它们放手干。这显然比在聊天窗口里随便贴几句提示词然后祈祷奇迹发生要靠谱得多。\n\n但规范也是文档。文档的下场，我们刚才已经见识过了。\n\n区别在于代价不同。过时的设计文档只会误导碰巧读到它的下一位工程师。而过时的规范会误导不知变通的 Agent。它们会自信满满地执行一个早已脱离实际的计划，根本不会发现哪里不对。\n\n因此，在开发 Intent 的过程中，我们反复思考一个问题：如果规范不需要你来维护呢？如果它能自我更新呢？\n\n这是我们最终的方案。\n\n规范不再是人类或 Agent 的专属产物。双方都要去读写它。\n\n你描述想做什么。协调 Agent 草拟规范，拆解任务。你审阅、修改，批准后才开始执行。一旦 Agent 开始干活，它们会将进展同步回规范中：发现了什么、改变了什么、遇到了哪些计划外的限制。你可以随时暂停，重写部分规范，Agent 就会接着新状态继续干。\n\n回想一下，把任务交给优秀的初级工程师会怎样。你把工单给他们，他们去干活；发现 API 不支持工单里预设的分页方式时，他们会自己更新工单。他们不会等你发现问题，更不会将错就错。他们会跑来告诉你：“之前的假设不对，我改用这种方法了，原因是这样。”你审查他们的更新，批准或驳回。\n\n这正是我们希望开发者和规范之间建立的关系。因为双方都在维护，工单才不至于“说谎”。\n\n初级工程师这个比喻比你想的还要贴切。优秀的初级工程师不会把每行代码怎么写都向你汇报。他们只会反馈那些改变了方向的决策：“我发现了一个现成的 auth context，所以直接接入了，没去建新的。”这就是信号。这也正是你期望 Agent 做到的事。把握好这种颗粒度，成了系统设计中真正有趣的难题。细节太多，规范就会变成噪音，让你产生习惯性无视；细节太少，你又要重新去猜到底发生了什么。\n\n实际任务是这样的。你写道：“在设置页面加个能跟随系统偏好的深色模式开关。”协调 Agent 读取代码库，草拟一份包含三个子任务的规范：添加开关组件、接入 preference store、更新 CSS 变量。\n\n你扫了一眼，发现漏掉了跨会话保存选择这个细节，于是补上一句。\n\n你点击批准。\n\nAgent 开始干活。\n\n15 分钟后，其中一个 Agent 更新了规范：“在代码库里找到了现成的 Theme Provider。已直接接入，未创建新 store。”\n\n你审查代码变更（已按 Agent 和任务清晰分组）。\n\n现在，这份规范反映了实际做出来的东西，而不是最初计划的东西。最重要的是，没人需要专门记着去更新它。\n\n软件工程中所有“文档优先”的倡议之所以失败，原因如出一辙：它们都要求开发者去做那种没人看见、没人奖励的持续维护工作。\n\n除非 Agent 也承担起自己那份维护工作，否则规范驱动开发也将重蹈覆辙。\n\n既然 Agent 会写代码，它们也能更新计划。放手让它们干吧。",
+      "created_at": "Tue Feb 24 04:05:58 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025993446633492725",
+        "text": "https://t.co/jMSLFclZhS",
+        "created_at": "Mon Feb 23 17:57:33 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1719747248031158272",
+          "name": "Augment Code",
+          "screen_name": "augmentcode",
+          "description": "The only AI coding Agent built for professional software engineers and large codebases.",
+          "followers_count": 19761,
+          "friends_count": 42,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 157,
+          "reply_count": 5,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 24,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026146773144932807",
+      "text": "我以前写过类似的：\nhttps://t.co/B3Bt7eOQod",
+      "created_at": "Tue Feb 24 04:06:49 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2018807420643115030",
+        "text": "我一直是反对 Spec Driven 的😂",
+        "created_at": "Tue Feb 03 22:02:51 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 185506,
+          "friends_count": 1555,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 128,
+          "reply_count": 31,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

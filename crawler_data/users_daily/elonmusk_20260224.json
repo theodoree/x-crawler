@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235211953,
+    "followers_count": 235213638,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260224",
-  "last_updated": "2026-02-24T03:01:44.586899",
-  "tweet_count": 5,
+  "last_updated": "2026-02-24T04:38:36.701467",
+  "tweet_count": 16,
   "tweets": [
     {
       "id": "2026085070721953904",
@@ -284,6 +284,580 @@
       "quoted": null,
       "stats": {
         "retweet_count": 190,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026135632624652377",
+      "text": "The New York Times is utterly disgusting",
+      "created_at": "Tue Feb 24 03:22:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026130581776736697",
+        "text": "No, it’s a crime\n\nThis is delusional https://t.co/SZAUxj6wbZ",
+        "created_at": "Tue Feb 24 03:02:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026130578286821376",
+            "url": "https://pbs.twimg.com/media/HB5DBqtXwAAkyQ4.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 656965,
+          "friends_count": 3779,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1259,
+          "favorite_count": 9220,
+          "reply_count": 1431,
+          "quote_count": 568
+        }
+      },
+      "stats": {
+        "retweet_count": 10363,
+        "favorite_count": 82808,
+        "reply_count": 6080,
+        "quote_count": 749
+      }
+    },
+    {
+      "id": "2026137682313916523",
+      "text": "RT @markgadala: This story is actually insane:\n\n• dude drops $2000 on a DJI robot vacuum like a lunatic\n• refuses to use the normal app lik…",
+      "created_at": "Tue Feb 24 03:30:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026078762862006747",
+        "text": "This story is actually insane:\n\n• dude drops $2000 on a DJI robot vacuum like a lunatic\n• refuses to use the normal app like a peasant\n• Sammy Azdoufal fires up Claude to crack the API so he can drive it with an xbox controller\n• Claude delivers the goods\n• pulls an auth token from their servers, connects successfully\n• except the system thinks he controls 7000 vacuums\n• checks again\n• yep, seven thousand\n• DJI built authentication with zero device ownership verification\n• any valid token works for any unit on the planet\n• Sammy now has eyes inside homes across 24 countries\n• live vacuum camera feeds everywhere\n• full floor plans from the mapping data\n• some guy in germany eating cereal at 3am, unaware his roomba is snitching\n• one API call away from being the most informed burglar in history\n• all he wanted was to steer his vacuum with a joystick\n• does the right thing and reports it\n• DJI fixes it in two days\n• back to normal life with his stupidly expensive floor cleaner\n• IoT companies stay undefeated at shipping garbage security",
+        "created_at": "Mon Feb 23 23:36:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026078130805297152",
+            "url": "https://pbs.twimg.com/media/HB4TU0nWUAA0MF3.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1375529736",
+          "name": "Mark Gadala-Maria",
+          "screen_name": "markgadala",
+          "description": "Helping Businesses Implement AI. Hire Me: https://t.co/jMVoldGFfa AI Driven SEO Software: @postcheetah YouTube: https://t.co/fmpsf4kaxX",
+          "followers_count": 64305,
+          "friends_count": 468,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1150,
+          "favorite_count": 7455,
+          "reply_count": 227,
+          "quote_count": 173
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1150,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026137974724010276",
+      "text": "RT @xenocosmography: Most shameful episode in the entire history of the English people, beyond question. The reckoning will be harsh.  http…",
+      "created_at": "Tue Feb 24 03:31:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026137523869958424",
+        "text": "Most shameful episode in the entire history of the English people, beyond question. The reckoning will be harsh.  https://t.co/I4OpM2leh8",
+        "created_at": "Tue Feb 24 03:30:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2025862977954451747",
+          "text": "A statement from the Rape Gang Inquiry. https://t.co/mmlnToONX8",
+          "created_at": "Mon Feb 23 09:19:07 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2025861431627862016",
+              "url": "https://pbs.twimg.com/media/HB1OPRRX0AASDz-.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1121375429884039175",
+            "name": "Rupert Lowe MP",
+            "screen_name": "RupertLowe10",
+            "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+            "followers_count": 678513,
+            "friends_count": 788,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 13152,
+            "favorite_count": 51581,
+            "reply_count": 3678,
+            "quote_count": 2932
+          }
+        },
+        "user": {
+          "id": "1709393467871461376",
+          "name": "Xenocosmography",
+          "screen_name": "xenocosmography",
+          "description": "Anglotheosophical Oblique Escalation\nhttps://t.co/zYwV8LwOQg",
+          "followers_count": 54802,
+          "friends_count": 768,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 279,
+          "favorite_count": 1635,
+          "reply_count": 147,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 279,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026139900052218002",
+      "text": "RT @AI_EmeraldApple: You will notice that Anthropic is getting sympathy from no one. \n\nThey trained their models with trillions of tokens o…",
+      "created_at": "Tue Feb 24 03:39:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026014438990794772",
+        "text": "You will notice that Anthropic is getting sympathy from no one. \n\nThey trained their models with trillions of tokens of text and information from all over the web, books, and all kinds of copyrighted material. \nWhile companies like MIS-Anthropic keep their models as proprietary LLMs, any of these Chinese companies release their models as open weights, and are free for anyone with the hardware to use.\n\nMeanwhile, they keep loudly positioning themselves as the \"responsible\" safety-first company... they basically ate the entire web, then gatekeep the resulting model, + pushed hard for regulation. This has rubbed a lot of people, even the pro AI people, the wrong way. \n\nClosed models created with public data capture the value, create massive economic moats, and invite exactly the kind of regulatory-capture we're seeing. They want to keep exploiting available data while wanting special rules protecting their profits. This paradigm is toxic and corrosive when the technology is so disruptive. \n\nThe entire concept of LLM scaling relies on public data, yet the rewards are privatized and monopolized by whoever has the best distribution/compute (Anthropic, OpenAI, Google). This is a recipe for a disaster where the most powerful tech is controlled by a few elites. Open weights are the closest thing we have to pushing back against that.",
+        "created_at": "Mon Feb 23 19:20:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2025997928242811253",
+          "text": "We’ve identified industrial-scale distillation attacks on our models by DeepSeek, Moonshot AI, and MiniMax.\n\nThese labs created over 24,000 fraudulent accounts and generated over 16 million exchanges with Claude, extracting its capabilities to train and improve their own models.",
+          "created_at": "Mon Feb 23 18:15:21 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1353836358901501952",
+            "name": "Anthropic",
+            "screen_name": "AnthropicAI",
+            "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+            "followers_count": 878486,
+            "friends_count": 35,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 4767,
+            "favorite_count": 42491,
+            "reply_count": 5322,
+            "quote_count": 5928
+          }
+        },
+        "user": {
+          "id": "1634332863633186816",
+          "name": "Emerald Apple",
+          "screen_name": "AI_EmeraldApple",
+          "description": "Politics, AI, AI art, gaming, and drama enthusiast. Politically centrist. 🇺🇸",
+          "followers_count": 14272,
+          "friends_count": 1776,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 170,
+          "favorite_count": 1068,
+          "reply_count": 107,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 170,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026144396283113744",
+      "text": "MisAnthropic",
+      "created_at": "Tue Feb 24 03:57:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026055127124017286",
+        "text": "I've been warning people about Anthropic for years. Only now is it becoming obvious to everyone that not everything is good with that company. Quite the opposite.",
+        "created_at": "Mon Feb 23 22:02:39 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "8721292",
+          "name": "Mark Kretschmann",
+          "screen_name": "mark_k",
+          "description": "AI & Software Engineering | Fitness | e/acc",
+          "followers_count": 32047,
+          "friends_count": 605,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 39,
+          "favorite_count": 616,
+          "reply_count": 101,
+          "quote_count": 15
+        }
+      },
+      "stats": {
+        "retweet_count": 527,
+        "favorite_count": 6519,
+        "reply_count": 871,
+        "quote_count": 42
+      }
+    },
+    {
+      "id": "2026149446128734647",
+      "text": "🎯",
+      "created_at": "Tue Feb 24 04:17:26 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026061387462524996",
+        "text": "we should just endlessly repeat this message. We are going to write the history books and progressives will be remembered as insane crybully losers who terrorized ordinary society for a ten year period of child castration, mass migration, and MeToo criminalization of flirting.",
+        "created_at": "Mon Feb 23 22:27:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1557505554490310660",
+          "name": "Fugitive Caesar",
+          "screen_name": "ThomBrady5",
+          "description": "Not at all related to the pretentious Billionaire Psycho, or that fool Edison Blake.\n🐸\nhttps://t.co/9COIHnwyJv",
+          "followers_count": 34955,
+          "friends_count": 756,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 297,
+          "favorite_count": 2452,
+          "reply_count": 73,
+          "quote_count": 15
+        }
+      },
+      "stats": {
+        "retweet_count": 598,
+        "favorite_count": 5764,
+        "reply_count": 451,
+        "quote_count": 17
+      }
+    },
+    {
+      "id": "2026149733568553433",
+      "text": "This hits home",
+      "created_at": "Tue Feb 24 04:18:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025918884998447509",
+        "text": "https://t.co/yizMDcVat7",
+        "created_at": "Mon Feb 23 13:01:16 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025918882347708416",
+            "url": "https://pbs.twimg.com/media/HB2CfV4XcAAHBkK.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2388043520",
+          "name": "sudox",
+          "screen_name": "kmcnam1",
+          "description": "CCIEx2 #50931 and a bunch of random paper. \nOpinions are my own and not the company I work for. \nMost of what I post is sarcastic... unless it isn't.",
+          "followers_count": 20796,
+          "friends_count": 3805,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 854,
+          "favorite_count": 15736,
+          "reply_count": 98,
+          "quote_count": 62
+        }
+      },
+      "stats": {
+        "retweet_count": 491,
+        "favorite_count": 8407,
+        "reply_count": 1052,
+        "quote_count": 52
+      }
+    },
+    {
+      "id": "2026150878814826727",
+      "text": "RT @BigImpactHumans: If you’re a major newspaper that can print something this disgusting, you should be shut down.\n\nPedophilia is classifi…",
+      "created_at": "Tue Feb 24 04:23:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026149057257750761",
+        "text": "If you’re a major newspaper that can print something this disgusting, you should be shut down.\n\nPedophilia is classified as a mental disorder, but that doesn’t mean it should be normalized or accepted.\n\nPedophiles are a danger to children and to society as a whole. Beware of anyone or anything that tries to portray them sympathetically or excuse the desires they have toward children.",
+        "created_at": "Tue Feb 24 04:15:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026130581776736697",
+          "text": "No, it’s a crime\n\nThis is delusional https://t.co/SZAUxj6wbZ",
+          "created_at": "Tue Feb 24 03:02:29 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2026130578286821376",
+              "url": "https://pbs.twimg.com/media/HB5DBqtXwAAkyQ4.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1551266822460162051",
+            "name": "Mike Lee",
+            "screen_name": "BasedMikeLee",
+            "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+            "followers_count": 656965,
+            "friends_count": 3779,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1259,
+            "favorite_count": 9220,
+            "reply_count": 1431,
+            "quote_count": 568
+          }
+        },
+        "user": {
+          "id": "2961936246",
+          "name": "LilHumansBigImpact",
+          "screen_name": "BigImpactHumans",
+          "description": "• I have a smorgasbord of interests • Advancement of humanity 🚀• Sustainable Abundance 🫶🏼 Kardashev cutie ☀️ 💁🏼‍♀️",
+          "followers_count": 210074,
+          "friends_count": 2438,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 164,
+          "favorite_count": 734,
+          "reply_count": 152,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 164,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026151367447031953",
+      "text": "RT @MarioNawfal: 🇬🇧 Liz Truss just said X completely revolutionized Britain by exposing the grooming gangs scandal that the mainstream medi…",
+      "created_at": "Tue Feb 24 04:25:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026144910752068042",
+        "text": "🇬🇧 Liz Truss just said X completely revolutionized Britain by exposing the grooming gangs scandal that the mainstream media tried to bury for years.\n\nTens of thousands of British girls as young as 11 were groomed, raped, and tortured by gangs, and the press covered it up.\n\nX brought the truth out.\n\nSource: @KatieMiller @trussliz",
+        "created_at": "Tue Feb 24 03:59:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026144700738973697",
+            "url": "https://video.twimg.com/amplify_video/2026144700738973697/vid/avc1/848x480/uNn0z9auqFVXJKG3.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2025973995103744034",
+          "text": "Join Restore Britain",
+          "created_at": "Mon Feb 23 16:40:15 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 235213638,
+            "friends_count": 1288,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 14884,
+            "favorite_count": 107565,
+            "reply_count": 4021,
+            "quote_count": 435
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3060911,
+          "friends_count": 50421,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 299,
+          "favorite_count": 1185,
+          "reply_count": 161,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 299,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026153603598311818",
+      "text": "Indeed",
+      "created_at": "Tue Feb 24 04:33:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026150787215438150",
+        "text": "If Neoliberal Multiculturalism led to this, what use was your Neoliberal Multiculturalism? https://t.co/yLsPr7BuVv",
+        "created_at": "Tue Feb 24 04:22:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026150752201363456",
+            "url": "https://pbs.twimg.com/media/HB5VX8ZaUAAY6ai.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1709393467871461376",
+          "name": "Xenocosmography",
+          "screen_name": "xenocosmography",
+          "description": "Anglotheosophical Oblique Escalation\nhttps://t.co/zYwV8LwOQg",
+          "followers_count": 54802,
+          "friends_count": 768,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 160,
+          "reply_count": 21,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 121,
+        "favorite_count": 1250,
+        "reply_count": 301,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2026154638412742891",
+      "text": "RT @TheAhmadOsman: a reminder that Anthropic is a\n\n&gt; fear-mongering company thatʼs\n&gt; lobbying against opensource AI\n&gt; to stop you from runn…",
+      "created_at": "Tue Feb 24 04:38:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026006905299079578",
+        "text": "a reminder that Anthropic is a\n\n&gt; fear-mongering company thatʼs\n&gt; lobbying against opensource AI\n&gt; to stop you from running\n&gt; your own AI models\n\ntheyʼre\n\n&gt; pro-regulation with an agenda\n&gt; pushing “safety” as control\n&gt; wants to gatekeep, not protect\n&gt; malicious\n\nDO NOT TRUST THEM https://t.co/Dl1utj9glE",
+        "created_at": "Mon Feb 23 18:51:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026006864345903105",
+            "url": "https://pbs.twimg.com/media/HB3SgkXXMAEjCJB.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "248951926",
+          "name": "Ahmad",
+          "screen_name": "TheAhmadOsman",
+          "description": "ai research, systems engineering, infra & hardware · on a mission to build a frontier, infra-first AI Lab in the West · i mod GPUs on r/LocalLLaMA · DMs open",
+          "followers_count": 44239,
+          "friends_count": 371,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 166,
+          "favorite_count": 1726,
+          "reply_count": 73,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 166,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
