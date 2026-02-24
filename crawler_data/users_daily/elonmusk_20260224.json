@@ -1,0 +1,129 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 235203132,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260224",
+  "last_updated": "2026-02-24T00:22:31.590992",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2026085070721953904",
+      "text": "RT @TeslaAUNZ: .@Grok is coming to Teslas in Australia and New Zealand\n\nIt can answer almost any question using real-time information &amp; als…",
+      "created_at": "Tue Feb 24 00:01:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026078499396870548",
+        "text": ".@Grok is coming to Teslas in Australia and New Zealand\n\nIt can answer almost any question using real-time information &amp; also add/edit navigation destinations to become your personal guide\n\nPhased roll out has now begun to eligible vehicles https://t.co/UdTVk5isiu",
+        "created_at": "Mon Feb 23 23:35:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026076624379387904",
+            "url": "https://pbs.twimg.com/media/HB4R9IvbIAA657_.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1676905146482315264",
+          "name": "Tesla Australia & New Zealand",
+          "screen_name": "TeslaAUNZ",
+          "description": "Building a world of amazing abundance 🦘🇦🇺🇳🇿🌏",
+          "followers_count": 19827,
+          "friends_count": 23,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 133,
+          "favorite_count": 746,
+          "reply_count": 130,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 133,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026085126787219956",
+      "text": "RT @Starlink: Connect to reliable high-speed internet in minutes 🛰️❤️",
+      "created_at": "Tue Feb 24 00:01:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026055890332438721",
+        "text": "Connect to reliable high-speed internet in minutes 🛰️❤️",
+        "created_at": "Mon Feb 23 22:05:41 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2021519349958443126",
+          "text": "Starlink is pure magic\n\nEvery time I set it up I’m amazed again\n\nOne of the best products I ever used https://t.co/zQXdJrDR14",
+          "created_at": "Wed Feb 11 09:39:05 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2021519340848226304",
+              "url": "https://pbs.twimg.com/media/HA3hIUnXIAAs3Kw.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "33307861",
+            "name": "Philipp M. W. Hoffmann",
+            "screen_name": "malmaladei",
+            "description": "🔨 https://t.co/q9QmVq0lEJ (AI native agency) ✍️ @geteaseio (LinkedIn co-pilot) ❤️ Also boyfriend of 20ys, uncle, sailing, skating, gardening, mountainbiking.",
+            "followers_count": 480,
+            "friends_count": 445,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2,
+            "favorite_count": 29,
+            "reply_count": 6,
+            "quote_count": 0
+          }
+        },
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1551702,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 164,
+          "favorite_count": 1014,
+          "reply_count": 201,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 164,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
