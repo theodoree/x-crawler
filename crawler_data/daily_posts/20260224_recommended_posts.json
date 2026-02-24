@@ -1,12 +1,286 @@
 {
   "date": "20260224",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-24T00:22:31.565226",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-02-24T03:01:44.553880",
+  "tweet_count": 205,
+  "unique_tweet_count": 205,
+  "total_crawled": 400,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2026121565201662392",
+      "text": "Antigravity 负责人 Varun Mohan 发推称，公司发现大量用户恶意滥用其 Antigravity 后端服务，严重拖垮了正常用户的体验，因此紧急封禁了一批账号。\n\n问题出在一些用户把它当作代理通道，用来调用其他产品的服务，而非正常使用 Antigravity 的编程功能。Mohan 强调，被封禁的账号中，超过 90% 的用量都不是在用 Antigravity 本身的功能，这些人实质上在蹭算力。\n\n他也承认处理方式不够妥当，事先没有给出充分警告就直接封号，部分用户可能并不清楚自己的行为违反了服务条款。\n\n公司表示会为这部分用户提供恢复路径，但眼下优先保障正常用户的服务质量。封禁仅影响 Antigravity 产品，不涉及用户的 Google 账号及其他 Google AI 服务。",
+      "created_at": "Tue Feb 24 02:26:39 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025766889205739899",
+        "text": "We’ve been seeing a massive increase in malicious usage of the Anitgravity backend that has tremendously degraded the quality of service for our users. We needed to find a path to quickly shut off access to these users that are not using the product as intended. We understand that a subset of these users were not aware that this was against our ToS and will get a path for them to come back on but we have limited capacity and want to be fair to our actual users.",
+        "created_at": "Mon Feb 23 02:57:17 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1086145626633494528",
+          "name": "Varun Mohan",
+          "screen_name": "_mohansolo",
+          "description": "building @antigravity @GoogleDeepMind",
+          "followers_count": 42633,
+          "friends_count": 181,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 117,
+          "favorite_count": 2092,
+          "reply_count": 453,
+          "quote_count": 179
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 185371,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 23,
+        "reply_count": 13,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2026115426061865230",
+      "text": "高盛称：AI 去年对美国经济增长的贡献“基本为零”\n作者：Bruce Gil\n\n进口芯片和硬件意味着 AI 投资并没有真正转化为美国的 GDP 增长。\n\nMeta、Amazon、Google、OpenAI 和其他科技公司去年在 AI 上砸了数十亿美元。今年，它们预计还要花更多，大约 7000 亿美元，用来建设数十座新的数据中心，训练和运行它们的先进模型。\n\n这场“烧钱竞赛”让华尔街兴奋不已，也催生了一套叙事：这些巨额投资正在支撑甚至拉动美国经济增长。\n\n特朗普总统曾以此为由，反对各州对 AI 行业实施监管。\n\n> “AI 投资正在帮助美国经济成为全球最火热的经济体。但各州的过度监管正在威胁这个增长引擎。”\n特朗普在 Truth Social 上发文写道，“我们必须建立一个统一的联邦标准，而不是让 50 个州各搞一套监管制度。”\n\n一些知名经济学家的分析也为这一叙事增添了可信度。哈佛大学经济学教授 Jason Furman 在 X 上发帖称，今年上半年，信息处理设备和软件方面的投资贡献了 92% 的 GDP 增长。与此同时，圣路易斯联邦储备银行的经济学家也估计，2025 年第三季度，AI 相关投资占到了 GDP 增长的 39%。\n\n但现在，华尔街的一些分析师开始重新审视这套说法。\n\n> “这个故事听起来很直觉、很合理，”高盛分析师 Joseph Briggs 周一接受《华盛顿邮报》采访时说，“正因为如此，可能反而让人忽略了深挖背后到底发生了什么。”\n\nBriggs 的同事，高盛首席经济学家 Jan Hatzius，在大西洋理事会的一次访谈中表示，AI 投资支出对 2025 年美国 GDP 增长的贡献“基本为零”。\n\n> “我们实际上并不认为 AI 投资对经济增长有很强的正面拉动作用，”Hatzius 说，“我认为，关于 AI 投资对 2025 年美国 GDP 增长的影响，实际上存在大量误报，它的作用远比人们普遍认为的要小得多。”\n\nHatzius 指出了一个关键原因：驱动 AI 的大量设备都是进口的。美国公司虽然在花大钱，但进口芯片和硬件在 GDP 计算中会抵消这些投资。\n（GDP 核算中，进口会被从总量中减去。也就是说，如果一家美国公司花 100 亿美元买了英伟达的 GPU，而这些 GPU 是在台湾制造的，那这笔钱在 GDP 统计里，很大一部分算的是台湾的产出，而不是美国的）\n\n> “我们在美国看到的大量 AI 投资，增加的是台湾的 GDP，增加的是韩国的 GDP，但对美国 GDP 的贡献其实并不大，”他说。\n\n除此之外，目前也没有可靠的方法来准确衡量企业和消费者使用 AI 对经济增长带来了多少贡献。\n\n到目前为止，许多企业领导者表示，AI 并没有显著提升生产力。\n\n美国国家经济研究局（NBER）最近对美国、欧洲和澳大利亚近 6000 名企业高管进行的一项调查发现：尽管 70% 的企业已经在积极使用 AI，但约 80% 的企业表示 AI 对就业或生产力没有产生影响。\n\n---\n\n来源：https://t.co/2SXEsWdl1w",
+      "created_at": "Tue Feb 24 02:02:15 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026115418432077825",
+          "url": "https://pbs.twimg.com/media/HB41PP2WAAE1t3u.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 185371,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 25,
+        "reply_count": 10,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2026096838139695295",
+      "text": "RT @techdevnotes: xAI now have MCP server for API Docs https://t.co/2ewHSeETrr",
+      "created_at": "Tue Feb 24 00:48:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026090712480063488",
+          "url": "https://pbs.twimg.com/media/HB4exLAXoAA6Nt9.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2026090719815885099",
+        "text": "xAI now have MCP server for API Docs https://t.co/2ewHSeETrr",
+        "created_at": "Tue Feb 24 00:24:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026090712480063488",
+            "url": "https://pbs.twimg.com/media/HB4exLAXoAA6Nt9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech | https://t.co/L0xyXaUV2y",
+          "followers_count": 55948,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 190,
+          "favorite_count": 1090,
+          "reply_count": 219,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235211953,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 190,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026096366364295427",
+      "text": "RT @ArthurMacwaters: @elonmusk when the people who are supposed to guard against evil participate in it, they should face especially harsh…",
+      "created_at": "Tue Feb 24 00:46:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026087316016771437",
+        "text": "@elonmusk when the people who are supposed to guard against evil participate in it, they should face especially harsh consequences. \n\nhttps://t.co/cCNtFYFpbg",
+        "created_at": "Tue Feb 24 00:10:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026049234404012144",
+          "text": "Tolerating evil...is Evil.\n\nBritish politicians put political correctness over the safety of their country's daughters.\n\nBritish judges punished whistleblowers and let rapists free\n\nBritish newspapers ignored the scandal of a century. \n\nJustice must be done. https://t.co/KBvNCkhDUk",
+          "created_at": "Mon Feb 23 21:39:14 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2026049023346614272",
+              "url": "https://pbs.twimg.com/media/HB342i4aIAAUo8v.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2026049118947430400",
+              "url": "https://pbs.twimg.com/media/HB348HBa0AAqzMc.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1317327383628705793",
+            "name": "Arthur MacWaters",
+            "screen_name": "ArthurMacwaters",
+            "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+            "followers_count": 60287,
+            "friends_count": 993,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 82,
+            "favorite_count": 377,
+            "reply_count": 38,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 60287,
+          "friends_count": 993,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 421,
+          "favorite_count": 2174,
+          "reply_count": 197,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235211953,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 421,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026096293568037072",
+      "text": "Yup",
+      "created_at": "Tue Feb 24 00:46:14 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026094035652505885",
+        "text": "In LOTR, hobbits in the shire spent so long sheltered from evil that they don't even really believe it exists. \n\nThe west is like the shire.",
+        "created_at": "Tue Feb 24 00:37:15 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 60287,
+          "friends_count": 993,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 782,
+          "favorite_count": 6835,
+          "reply_count": 233,
+          "quote_count": 45
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235211953,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3169,
+        "favorite_count": 38523,
+        "reply_count": 1629,
+        "quote_count": 67
+      }
+    },
     {
       "id": "2026085126787219956",
       "text": "RT @Starlink: Connect to reliable high-speed internet in minutes 🛰️❤️",

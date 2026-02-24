@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235203132,
+    "followers_count": 235211953,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260224",
-  "last_updated": "2026-02-24T00:22:31.590992",
-  "tweet_count": 2,
+  "last_updated": "2026-02-24T03:01:44.586899",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2026085070721953904",
@@ -120,6 +120,170 @@
       "quoted": null,
       "stats": {
         "retweet_count": 164,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026096293568037072",
+      "text": "Yup",
+      "created_at": "Tue Feb 24 00:46:14 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026094035652505885",
+        "text": "In LOTR, hobbits in the shire spent so long sheltered from evil that they don't even really believe it exists. \n\nThe west is like the shire.",
+        "created_at": "Tue Feb 24 00:37:15 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 60287,
+          "friends_count": 993,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 782,
+          "favorite_count": 6835,
+          "reply_count": 233,
+          "quote_count": 45
+        }
+      },
+      "stats": {
+        "retweet_count": 3169,
+        "favorite_count": 38523,
+        "reply_count": 1629,
+        "quote_count": 67
+      }
+    },
+    {
+      "id": "2026096366364295427",
+      "text": "RT @ArthurMacwaters: @elonmusk when the people who are supposed to guard against evil participate in it, they should face especially harsh…",
+      "created_at": "Tue Feb 24 00:46:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026087316016771437",
+        "text": "@elonmusk when the people who are supposed to guard against evil participate in it, they should face especially harsh consequences. \n\nhttps://t.co/cCNtFYFpbg",
+        "created_at": "Tue Feb 24 00:10:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026049234404012144",
+          "text": "Tolerating evil...is Evil.\n\nBritish politicians put political correctness over the safety of their country's daughters.\n\nBritish judges punished whistleblowers and let rapists free\n\nBritish newspapers ignored the scandal of a century. \n\nJustice must be done. https://t.co/KBvNCkhDUk",
+          "created_at": "Mon Feb 23 21:39:14 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2026049023346614272",
+              "url": "https://pbs.twimg.com/media/HB342i4aIAAUo8v.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2026049118947430400",
+              "url": "https://pbs.twimg.com/media/HB348HBa0AAqzMc.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1317327383628705793",
+            "name": "Arthur MacWaters",
+            "screen_name": "ArthurMacwaters",
+            "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+            "followers_count": 60287,
+            "friends_count": 993,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 82,
+            "favorite_count": 377,
+            "reply_count": 38,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 60287,
+          "friends_count": 993,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 421,
+          "favorite_count": 2174,
+          "reply_count": 197,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 421,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026096838139695295",
+      "text": "RT @techdevnotes: xAI now have MCP server for API Docs https://t.co/2ewHSeETrr",
+      "created_at": "Tue Feb 24 00:48:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026090712480063488",
+          "url": "https://pbs.twimg.com/media/HB4exLAXoAA6Nt9.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2026090719815885099",
+        "text": "xAI now have MCP server for API Docs https://t.co/2ewHSeETrr",
+        "created_at": "Tue Feb 24 00:24:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026090712480063488",
+            "url": "https://pbs.twimg.com/media/HB4exLAXoAA6Nt9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech | https://t.co/L0xyXaUV2y",
+          "followers_count": 55948,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 190,
+          "favorite_count": 1090,
+          "reply_count": 219,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 190,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
