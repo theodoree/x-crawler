@@ -1,12 +1,68 @@
 {
   "date": "20260224",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-24T18:21:39.248556",
-  "tweet_count": 245,
-  "unique_tweet_count": 245,
-  "total_crawled": 441,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-02-24T20:21:46.810297",
+  "tweet_count": 246,
+  "unique_tweet_count": 246,
+  "total_crawled": 445,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2026381742408610132",
+      "text": "RT @tim_cook: As part of our $600B commitment, Mac mini will be produced in the US for the first time later this year!\n\nWe're accelerating…",
+      "created_at": "Tue Feb 24 19:40:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026351829928624257",
+        "text": "As part of our $600B commitment, Mac mini will be produced in the US for the first time later this year!\n\nWe're accelerating our progress even further— producing more AI servers and opening an all-new Apple Advanced Manufacturing Center for hands-on training. https://t.co/NO5DeZvPwP",
+        "created_at": "Tue Feb 24 17:41:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026351091361918976",
+            "url": "https://video.twimg.com/amplify_video/2026351091361918976/vid/avc1/1080x1080/D_EfX-R2lixGuN_P.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1636590253",
+          "name": "Tim Cook",
+          "screen_name": "tim_cook",
+          "description": "Apple CEO  Auburn 🏀 🏈 Duke 🏀 National Parks 🏞️ “Life's most persistent and urgent question is, 'What are you doing for others?'” - MLK. he/him",
+          "followers_count": 14617815,
+          "friends_count": 70,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1180,
+          "favorite_count": 12717,
+          "reply_count": 945,
+          "quote_count": 262
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235266211,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1180,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2026352282917548261",
       "text": "Cool",
