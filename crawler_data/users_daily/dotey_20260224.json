@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 185605,
+    "followers_count": 185763,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260224",
-  "last_updated": "2026-02-24T06:23:43.802776",
-  "tweet_count": 6,
+  "last_updated": "2026-02-24T08:15:55.279249",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2026115426061865230",
@@ -236,6 +236,45 @@
         "retweet_count": 0,
         "favorite_count": 1,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026205146183520621",
+      "text": "改代码后让 Agent 自动更新 Spec 这个我是不支持的：\n1. 不仅费 token 还难保持一致，偶尔一次没同步好就不一致了\n2. 没必要\n不能把 AI 理解项目的方式像人理解项目的方式，AI 是任务驱动的，单个任务绝大部分时候并不需要理解全局\nhttps://t.co/oo6HTzZdjP",
+      "created_at": "Tue Feb 24 07:58:46 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026197083783582100",
+        "text": "@dotey 不是，改代码后让agent自动更新就好。\n\n理解这个design，比每次都从代码里从头理解要高效很多",
+        "created_at": "Tue Feb 24 07:26:44 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "38167656",
+          "name": "Jeffery Kaneda　金田達也",
+          "screen_name": "JefferyTatsuya",
+          "description": "https://t.co/XMkEfLzyoK\n\n- https://t.co/TAbYHGeBnW (AI搜索引擎）\n- https://t.co/OZfPxx93LH （企业知识引擎）\n\n- https://t.co/eRORaOHar0 Felo字幕会议纪要",
+          "followers_count": 21838,
+          "friends_count": 1455,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
