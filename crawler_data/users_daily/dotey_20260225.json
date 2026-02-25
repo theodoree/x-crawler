@@ -1,0 +1,93 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 186453,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260225",
+  "last_updated": "2026-02-25T00:23:57.871109",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2026450430977360383",
+      "text": "谢谢补充\nhttps://t.co/91zEX0pNwE",
+      "created_at": "Wed Feb 25 00:13:27 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026447599616798917",
+        "text": "不对呀， 主讲人应该是Mihai Eric https://t.co/ijRZ1kPDwx。这堂课是斯坦福时下最受欢迎的课。如果你打开Syllabus， 里面每堂课的PPT/Slide都有， 光看他和他请来的嘉宾的Slide， 还有课外阅读，都是一个很好的学习机会。\n斯坦福的课程， 都有几个特点：1）一是与时俱进， 课程根据业界发展不断更新，从来没有什么教材，都是老师自己编的讲义； 2）就是就近硅谷请来重量级的嘉宾，譬如CS25 Transformer https://t.co/TPGv4MR7xS干脆就是嘉宾授课； 3）一般他们都会把讲义upload到网上， 差不多算是网上公开课了， 有时候还可以跟着做作业。",
+        "created_at": "Wed Feb 25 00:02:11 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1479852652150337542",
+          "name": "Michael Guo",
+          "screen_name": "Michaelzsguo",
+          "description": "Building AI agents and AI-native orgs. Demystifying AI in practice.  EN/中文",
+          "followers_count": 254,
+          "friends_count": 367,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026451165995552907",
+      "text": "对，有课件就可以用 AI 辅助自学\nhttps://t.co/ns5xLBrM0H",
+      "created_at": "Wed Feb 25 00:16:22 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026450299553198427",
+        "text": "其实有大纲有ppt有参考资料，虽然没有讲课视频，已经足够让AI自己重编一门课了，还可以直接用中文讲。\n简单的话，就是把每周的资料塞进notebookLM，生成视频概览。精致一些的话，要不然让deep research写教案也行。",
+        "created_at": "Wed Feb 25 00:12:55 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "22107872",
+          "name": "goldengrape",
+          "screen_name": "goldengrape",
+          "description": "躲在世界的外面，愉快地张望，",
+          "followers_count": 13815,
+          "friends_count": 243,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

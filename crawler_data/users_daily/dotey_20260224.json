@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 186408,
+    "followers_count": 186453,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260224",
-  "last_updated": "2026-02-24T22:10:00.954864",
-  "tweet_count": 7,
+  "last_updated": "2026-02-25T00:23:57.872226",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2026115426061865230",
@@ -276,6 +276,73 @@
         "favorite_count": 1,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2026436507611926973",
+      "text": "Claude Code 这个更新不错，可以把 Claude 当小龙虾🦞用了，简单来说就是你用 claude rc 运行 claude，然后会生成一个链接或者二维码，你扫描二维码或者打开链接，就可以从手机上或者其他电脑上控制你本机的 claude code。\n\n由于两边都要登录相同的 claude 账号，所以即使别人知道你的 URL 也无法控制你的电脑，倒是不用担心安全问题。\n\n目前只有 Max 订阅用户能用，Pro 还要等等",
+      "created_at": "Tue Feb 24 23:18:07 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026418433911603668",
+        "text": "New in Claude Code: Remote Control.\n\nKick off a task in your terminal and pick it up from your phone while you take a walk or join a meeting. \n\nClaude keeps running on your machine, and you can control the session from the Claude app or https://t.co/er6Blrr63e https://t.co/FxUVDecyVJ",
+        "created_at": "Tue Feb 24 22:06:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026417722394021888",
+            "url": "https://video.twimg.com/amplify_video/2026417722394021888/vid/avc1/1080x1080/JzFH0UlylpC8DVQ9.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+          "followers_count": 536980,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1231,
+          "favorite_count": 13459,
+          "reply_count": 591,
+          "quote_count": 1070
+        }
+      },
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 86,
+        "reply_count": 18,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2026438910151152007",
+      "text": "斯坦福大学去年秋季开了一门新课 CS146S，叫\"现代软件开发者\"，由知名风投 a16z 的合伙人 Martin Casado 主讲，核心主题就一个：AI 时代怎么写代码。\n\n课程的基本观点是，软件开发已经从\"从零手写代码\"变成了\"规划→AI生成→修改→循环\"的新工作流。课上会教学生怎么用 LLM 高效提示、搭建 AI 编程代理、用 Claude Code 等工具做开发，还涉及 AI 代码审查、安全漏洞检测、自动化测试等实战环节。\n\n阵容很豪华，每周都有业界嘉宾来讲课——Cognition（Devin 背后的公司）的研究负责人、Claude Code 的创造者 Boris Cherney、终端工具 Warp 的 CEO、代码安全公司 Semgrep 的 CEO、Vercel 的 AI 研究负责人等等，基本把 AI 编程工具链上的关键玩家请了个遍。\n\n课程为期一个学期，3 学分，要求有编程基础，每周大概 10-12 小时的投入。最终项目是做一个展示现代开发实践的作品。\n\nhttps://t.co/6ecEpIQ7A2",
+      "created_at": "Tue Feb 24 23:27:40 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026438900894310400",
+          "url": "https://pbs.twimg.com/media/HB9bcZ7WoAARpve.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 165,
+        "reply_count": 7,
+        "quote_count": 3
       }
     }
   ]
