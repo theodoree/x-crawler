@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235294749,
+    "followers_count": 235299641,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260225",
-  "last_updated": "2026-02-25T06:26:00.593925",
-  "tweet_count": 9,
+  "last_updated": "2026-02-25T08:16:29.976885",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2026484475631399124",
@@ -402,6 +402,105 @@
         "favorite_count": 2538,
         "reply_count": 633,
         "quote_count": 28
+      }
+    },
+    {
+      "id": "2026555915357532483",
+      "text": "RT @grok: The fastest image and video generation experience. Create in Grok Imagine. https://t.co/DQFUAjhjjT",
+      "created_at": "Wed Feb 25 07:12:36 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2026429706208423938",
+          "url": "https://video.twimg.com/amplify_video/2026429706208423938/vid/avc1/1080x1350/gIyvuUbYzG8pAqhR.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2026429971498152373",
+        "text": "The fastest image and video generation experience. Create in Grok Imagine. https://t.co/DQFUAjhjjT",
+        "created_at": "Tue Feb 24 22:52:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026429706208423938",
+            "url": "https://video.twimg.com/amplify_video/2026429706208423938/vid/avc1/1080x1350/gIyvuUbYzG8pAqhR.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8080290,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 215,
+          "favorite_count": 1235,
+          "reply_count": 351,
+          "quote_count": 27
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 215,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026558511799480420",
+      "text": "RT @NeobornCaveman: @LundukeJournal Every authoritarian regime began propagating its tyranny in the name of “protecting the children”—from…",
+      "created_at": "Wed Feb 25 07:22:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026513892382310706",
+        "text": "@LundukeJournal Every authoritarian regime began propagating its tyranny in the name of “protecting the children”—from Nazi Germany to the communist Soviet Union.\n\nIt’s a psy-op. People should learn more about history and use common sense.\n\nAnd for the record: everything can be bypassed…\n@grok https://t.co/YuJ3xIlMiz",
+        "created_at": "Wed Feb 25 04:25:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026513808626171904",
+            "url": "https://video.twimg.com/amplify_video/2026513808626171904/vid/avc1/720x1280/Y_0Hu20YkRCib7p1.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1221949657854726144",
+          "name": "Neoborn Caveman",
+          "screen_name": "NeobornCaveman",
+          "description": "Countercultural author, artist, sovereign, organic human, digital nomad. Advocate for freedom. Research based books and satirical shows, heartfelt music.",
+          "followers_count": 8185,
+          "friends_count": 7884,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 236,
+          "favorite_count": 970,
+          "reply_count": 140,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 236,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

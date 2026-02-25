@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 186613,
+    "followers_count": 186675,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260225",
-  "last_updated": "2026-02-25T06:26:00.618825",
-  "tweet_count": 6,
+  "last_updated": "2026-02-25T08:16:29.970324",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2026450430977360383",
@@ -240,6 +240,60 @@
         "retweet_count": 6,
         "favorite_count": 37,
         "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2026564921429839991",
+      "text": "https://t.co/cWuygSAY95",
+      "created_at": "Wed Feb 25 07:48:23 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 20,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026568217175404746",
+      "text": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)\nhttps://t.co/BI3DlRvk0B",
+      "created_at": "Wed Feb 25 08:01:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026562149762625618",
+        "text": "@dotey github上有这个老师公开这门课的作业练习，可以跟着做 https://t.co/7ITtijHOKF",
+        "created_at": "Wed Feb 25 07:37:22 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2005982343568449538",
+          "name": "i rissun",
+          "screen_name": "i_rissun",
+          "description": "",
+          "followers_count": 1,
+          "friends_count": 66,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
         "quote_count": 1
       }
     }

@@ -1,12 +1,205 @@
 {
   "date": "20260225",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-25T06:26:00.564612",
-  "tweet_count": 213,
-  "unique_tweet_count": 213,
-  "total_crawled": 404,
-  "duplicates_removed": 191,
+  "last_crawl_time": "2026-02-25T08:16:29.940022",
+  "tweet_count": 217,
+  "unique_tweet_count": 217,
+  "total_crawled": 413,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2026568217175404746",
+      "text": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)\nhttps://t.co/BI3DlRvk0B",
+      "created_at": "Wed Feb 25 08:01:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026562149762625618",
+        "text": "@dotey github上有这个老师公开这门课的作业练习，可以跟着做 https://t.co/7ITtijHOKF",
+        "created_at": "Wed Feb 25 07:37:22 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2005982343568449538",
+          "name": "i rissun",
+          "screen_name": "i_rissun",
+          "description": "",
+          "followers_count": 1,
+          "friends_count": 66,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 186675,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2026564921429839991",
+      "text": "https://t.co/cWuygSAY95",
+      "created_at": "Wed Feb 25 07:48:23 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 186675,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 20,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026558511799480420",
+      "text": "RT @NeobornCaveman: @LundukeJournal Every authoritarian regime began propagating its tyranny in the name of “protecting the children”—from…",
+      "created_at": "Wed Feb 25 07:22:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026513892382310706",
+        "text": "@LundukeJournal Every authoritarian regime began propagating its tyranny in the name of “protecting the children”—from Nazi Germany to the communist Soviet Union.\n\nIt’s a psy-op. People should learn more about history and use common sense.\n\nAnd for the record: everything can be bypassed…\n@grok https://t.co/YuJ3xIlMiz",
+        "created_at": "Wed Feb 25 04:25:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026513808626171904",
+            "url": "https://video.twimg.com/amplify_video/2026513808626171904/vid/avc1/720x1280/Y_0Hu20YkRCib7p1.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1221949657854726144",
+          "name": "Neoborn Caveman",
+          "screen_name": "NeobornCaveman",
+          "description": "Countercultural author, artist, sovereign, organic human, digital nomad. Advocate for freedom. Research based books and satirical shows, heartfelt music.",
+          "followers_count": 8185,
+          "friends_count": 7884,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 236,
+          "favorite_count": 970,
+          "reply_count": 140,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235299641,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 236,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026555915357532483",
+      "text": "RT @grok: The fastest image and video generation experience. Create in Grok Imagine. https://t.co/DQFUAjhjjT",
+      "created_at": "Wed Feb 25 07:12:36 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2026429706208423938",
+          "url": "https://video.twimg.com/amplify_video/2026429706208423938/vid/avc1/1080x1350/gIyvuUbYzG8pAqhR.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2026429971498152373",
+        "text": "The fastest image and video generation experience. Create in Grok Imagine. https://t.co/DQFUAjhjjT",
+        "created_at": "Tue Feb 24 22:52:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026429706208423938",
+            "url": "https://video.twimg.com/amplify_video/2026429706208423938/vid/avc1/1080x1350/gIyvuUbYzG8pAqhR.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8080290,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 215,
+          "favorite_count": 1235,
+          "reply_count": 351,
+          "quote_count": 27
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235299641,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 215,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2026539901924291041",
       "text": "Cool",
