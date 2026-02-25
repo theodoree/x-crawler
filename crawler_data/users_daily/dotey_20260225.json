@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 186579,
+    "followers_count": 186613,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260225",
-  "last_updated": "2026-02-25T04:39:07.098102",
-  "tweet_count": 5,
+  "last_updated": "2026-02-25T06:26:00.618825",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2026450430977360383",
@@ -202,6 +202,45 @@
         "favorite_count": 18,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2026528869902069965",
+      "text": "这条新闻很多人把焦点放在“1周”用AI做出来上面，但是也要看看为什么能一周做出来。\n\n这个项目能成功，靠的是几个条件同时到位。\n\n首先，Next.js 文档极其完善，Stack Overflow 上积累了海量问答，这些内容早就进了大模型的训练数据，让 AI 实现一个 getServerSideProps，它不会瞎编，因为它确实被训练过。\n\n其次，Next.js 自带几千个端到端测试，团队直接搬过来当验收标准，相当于有了一份可以机器验证的\"规格说明书\"。\n\n再加上 Vite 本身已经解决了打包、热更新这些底层难题，AI 不用从零造轮子，只需要在 Vite 上面\"教\"它说 Next.js 的语言。\n\n最后也是最关键的：模型能力到了。\n\nCloudFlare 团队认为几个月前这事还做不了，因为早期模型无法在这么大的代码库里保持一致性，而现在的模型能把整个架构装进上下文窗口，甚至会自己去翻 Next.js 和 React 的内部实现来排查 bug。\n\n这四个条件缺任何一个，效果都会大打折扣。\n\n工作流程其实很简单直接。\n\n工程经理先花几小时和 Claude 讨论架构方案，定好蓝图，然后按模块拆任务：\n定义任务、让 AI 写代码和测试、跑测试、过了就合并、没过就把报错扔回给 AI 让它改。\n\nPR 的代码审查也交给了 AI agent，形成了几乎全自动的反馈闭环。\n\n但这不是按一下按钮就完事。AI 经常自信满满地写出看似正确但行为不对的代码，架构决策、优先级判断、识别 AI 走偏了，这些仍然要人来把控。\n\n用博客的原话说：给 AI 好的方向、好的上下文、好的护栏，它就能高产；但方向盘必须在人手里。",
+      "created_at": "Wed Feb 25 05:25:08 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026415441149571095",
+        "text": "We rebuilt Next.js in a week. No, really.\n\nThe team ported the framework to run natively on Workers to prove what’s possible with edge-first architecture. Dive into the technical hurdles we solved to eliminate Node.js dependencies.\n\nhttps://t.co/GqYBiZ5Qum",
+        "created_at": "Tue Feb 24 21:54:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "32499999",
+          "name": "Cloudflare",
+          "screen_name": "Cloudflare",
+          "description": "Cloudflare is the world’s leading #ConnectivityCloud, and we have our eyes set on an ambitious goal — to help build a #BetterInternet.",
+          "followers_count": 267980,
+          "friends_count": 5397,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 273,
+          "favorite_count": 2781,
+          "reply_count": 84,
+          "quote_count": 185
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 37,
+        "reply_count": 2,
+        "quote_count": 1
       }
     }
   ]
