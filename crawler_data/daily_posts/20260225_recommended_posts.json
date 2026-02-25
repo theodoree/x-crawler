@@ -1,12 +1,674 @@
 {
   "date": "20260225",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-25T18:24:19.582854",
-  "tweet_count": 238,
-  "unique_tweet_count": 238,
-  "total_crawled": 434,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-02-25T20:12:07.790147",
+  "tweet_count": 249,
+  "unique_tweet_count": 249,
+  "total_crawled": 438,
+  "duplicates_removed": 189,
   "tweets": [
+    {
+      "id": "2026750287109828933",
+      "text": "RT @BasedMikeLee: Requiring senators to speak during a filibuster doesn’t nuke the filibuster \n\nIt lets the filibuster be what a filibuster…",
+      "created_at": "Wed Feb 25 20:04:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026436065792340443",
+        "text": "Requiring senators to speak during a filibuster doesn’t nuke the filibuster \n\nIt lets the filibuster be what a filibuster is—namely, speaking on the Senate floor https://t.co/eAa9Yo24T3",
+        "created_at": "Tue Feb 24 23:16:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026435838159015936",
+            "url": "https://video.twimg.com/amplify_video/2026435838159015936/vid/avc1/2160x3840/Ukas_f7K2tdMNJAn.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 659241,
+          "friends_count": 3777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1080,
+          "favorite_count": 6648,
+          "reply_count": 244,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235347183,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1080,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026750220349092132",
+      "text": "RT @fortelabs: Wait, so the founder of Anthropic is \"Amodei,\" as in \"loves god\"?\n\nAnd he leads Anthropic, meaning \"human-centered,\" which i…",
+      "created_at": "Wed Feb 25 20:04:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026681391384068260",
+        "text": "Wait, so the founder of Anthropic is \"Amodei,\" as in \"loves god\"?\n\nAnd he leads Anthropic, meaning \"human-centered,\" which is being used in military strikes?\n\nAnd the creator of ChatGPT is \"Altman,\" as in \"an alternative to humans\"?\n\nAnd he leads OpenAI, which is completely closed?\n\nAnd then there's \"Gemini,\" meaning \"two-faced,\" from a company that promised to do no evil?\n\nAnd the whole global AI arms race is being driven by people who claimed to be worried about AGI taking over the world?\n\nEither the universe is an extremely cliché writer, or has a brilliant sense of humor",
+        "created_at": "Wed Feb 25 15:31:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1909232666",
+          "name": "Tiago Forte",
+          "screen_name": "fortelabs",
+          "description": "The Second Brain Guy | Learn how to build one: https://t.co/vPhQg4soKp | Writing: https://t.co/x2KgFyuwlk | Videos: https://t.co/7LdtbIvWHw",
+          "followers_count": 150602,
+          "friends_count": 3184,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 400,
+          "favorite_count": 3353,
+          "reply_count": 224,
+          "quote_count": 69
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235347183,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 400,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026734448268673467",
+      "text": "Try Tesla self-driving",
+      "created_at": "Wed Feb 25 19:02:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026367304087515439",
+        "text": "Tesla in Australia-\n“I’m literally walking my ass into that dealership and buying a Model Y right now”\n\nAustralian influencer with over 4 million followers performs an FSD review.\n\nHe is blown away by the quality and performance of Tesla’s self driving technology.  \n\nWord is getting out.",
+        "created_at": "Tue Feb 24 18:43:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026366828327710720",
+            "url": "https://video.twimg.com/amplify_video/2026366828327710720/vid/avc1/818x1614/ejh9CE8xsiG_R8VY.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1832814184142397440",
+          "name": "No Safe Words",
+          "screen_name": "Cyber_Trailer",
+          "description": "Founder of ‘The Sunset Project™️’ ‘Ai or Not™️’, ‘Not Financial Advice™️’ ‘Check On Tim’ alerts. Extreme Free Speech Advocate. For Charlie.  Chalant level 69%",
+          "followers_count": 6393,
+          "friends_count": 1853,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 334,
+          "favorite_count": 2477,
+          "reply_count": 189,
+          "quote_count": 43
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235347183,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 888,
+        "favorite_count": 6318,
+        "reply_count": 1221,
+        "quote_count": 55
+      }
+    },
+    {
+      "id": "2026734294203617586",
+      "text": "RT @dvorahfr: fragile as porcelain, Grok \nimagine https://t.co/9Kiuo0qiO1",
+      "created_at": "Wed Feb 25 19:01:25 +0000 2026",
+      "lang": "fr",
+      "media": [
+        {
+          "type": "video",
+          "id": "2026704418196910080",
+          "url": "https://video.twimg.com/amplify_video/2026704418196910080/vid/avc1/720x720/iflD9nFBK8RA-knp.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2026704616046330240",
+        "text": "fragile as porcelain, Grok \nimagine https://t.co/9Kiuo0qiO1",
+        "created_at": "Wed Feb 25 17:03:29 +0000 2026",
+        "lang": "fr",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026704418196910080",
+            "url": "https://video.twimg.com/amplify_video/2026704418196910080/vid/avc1/720x720/iflD9nFBK8RA-knp.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 115217,
+          "friends_count": 3456,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 154,
+          "favorite_count": 1102,
+          "reply_count": 170,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235347183,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 154,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026734062229180810",
+      "text": "RT @BasedMikeLee: Excellent, comprehensive analysis of how the Senate can—and must—pass the SAVE America Act",
+      "created_at": "Wed Feb 25 19:00:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026732763588563282",
+        "text": "Excellent, comprehensive analysis of how the Senate can—and must—pass the SAVE America Act",
+        "created_at": "Wed Feb 25 18:55:20 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026705955912585342",
+          "text": "In the SOTU, @POTUS called on the GOP controlled Senate to pass the SAVE America Act.  \n\nHere is a primer of the Senate rules re how the GOP Senate can pass the SAVE America Act with a simple majority.   51 votes.  NOT 60. \n\n1.  @chiproytx and @BasedMikeLee, with support of @SpeakerJohnson put the entire content of the SAVE America Act into a Senate bill (S1383)  that had already passed the Senate and was at the HOUSE awaiting consideration. \n\n2.  The House passed S1383 containing the SAVE America Act language. \n\n3.  S1383 SAVE America Act is now back to the Senate, awaiting Senate action.  It can be called up and moved to floor by simple MAJORITY vote.  Not 60 votes.  Any time. \n\n4.  Once the bill is on the floor, it is ready for consideration. Sen Thune is in charge of it.  \n\n5.  It faces a filibuster.  Thune can then do one of two things:\n- try to cut off the filibuster which requires 60 votes and will kill the bill.  \n\nWE DONT WANT HIM TO DO THAT.  That is a deliberate move to kill the bill. \n  - the other option is to simply allow the Democrats to filibuster the bill.  \nTHATS WHAT WE WANT\n\n6.  There are 50 GOP Senators pledged to vote yes.  So if we can get to the other side of the filibuster, SAVE America Act can pass with 51 votes.  \n\n7. Make the Democrats actually DO the filibuster.  Make them talk about the bill.\n\n8.   Why do they oppose proof of citizenship for registering to vote?\n\n9.  Why do they oppose photo idea to vote?\n\n10. Why do they oppose requiring states to clean voter rolls?\n\n11.  Let the filibuster run its course.  Let the toddlers have their tantrum \n\n12.  Then, when that’s over or when they are tired, the SAVE America Act can pass with a simple majority.  51 votes. \n\nTHAT is what we want Sen Thune to do. It is all within his control. \n\nHe just needs to stand up, look the Democrats in the eye and say “okay, guys, let’s go.  Let’s have a filibuster”\n\nThat’s what the American people want.  Don’t get sucked into the false narrative that the SAVE America Act must have 60 votes to pass.  Not true. \n\nWhat is required is a leader who’s not afraid to lead and a Republican majority who’s not afraid to work.  And to fight for something that matters to the American people.  \n\nWe are watching and pushing.  A cloture motion before any debate is intended to kill the bill.  Is that what Sen Thune wants- to be the one who kills the SAVE America Act?  \n@EIwatchdogs",
+          "created_at": "Wed Feb 25 17:08:48 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "452789137",
+            "name": "Cleta Mitchell",
+            "screen_name": "CletaMitchell",
+            "description": "Senior Legal Fellow Conservative Partnership Institute Founder, Election Integrity Network",
+            "followers_count": 41912,
+            "friends_count": 1184,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 512,
+            "favorite_count": 1088,
+            "reply_count": 84,
+            "quote_count": 73
+          }
+        },
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 659241,
+          "friends_count": 3777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 430,
+          "favorite_count": 1784,
+          "reply_count": 144,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235347183,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 430,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026733374086545911",
+      "text": "RT @SenRickScott: Last night, Democrats couldn't even stand to support putting Americans first. It was nuts to watch! \n\nNo wonder they’re o…",
+      "created_at": "Wed Feb 25 18:57:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026725920971829410",
+        "text": "Last night, Democrats couldn't even stand to support putting Americans first. It was nuts to watch! \n\nNo wonder they’re opposed to the SAVE America Act! They want illegal aliens to vote in our elections because they’re a party that proudly puts illegals first and YOU LAST. \n\nWe cannot stand for this! Putting America first isn’t a partisan issue — it simply means we prioritize what benefits the AMERICAN PEOPLE and keeps them safe. I can’t believe it’s come to this. We MUST pass the SAVE America Act and make sure every elected official stands for U.S. citizens' best interests, not illegal aliens.",
+        "created_at": "Wed Feb 25 18:28:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "131546062",
+          "name": "Rick Scott",
+          "screen_name": "SenRickScott",
+          "description": "Florida's U.S. Senator. Chairman of @SenateAging. Fighting for Florida families and to Make Washington Work. #LetsGetToWork https://t.co/o87ZhJHUSD",
+          "followers_count": 724715,
+          "friends_count": 1372,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 544,
+          "favorite_count": 3171,
+          "reply_count": 314,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235347183,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 544,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026732508872847681",
+      "text": "Exactly. It would be the end of democracy in America.",
+      "created_at": "Wed Feb 25 18:54:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026731701163143205",
+        "text": "This is critical:\n\n1. The SAVE act is overwhelmingly popular (84% across both parties)\n\n2. The silent filibuster is a total abuse of Senate procedure, allowing 40 Senators to block the bill while literally sleeping\n\n3. If Thune does not have the courage to at least require debate, then the SAVE Act will fail\n\nAnd if it fails now, the next time the senate flips, it is very likely that voter ID will be eliminated altogether\n\nThis would result in a permanent one-party state.",
+        "created_at": "Wed Feb 25 18:51:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026730250290475008",
+            "url": "https://pbs.twimg.com/media/HCBkbLAaMAAcWiK.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 61021,
+          "friends_count": 990,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 886,
+          "favorite_count": 3915,
+          "reply_count": 201,
+          "quote_count": 56
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235347183,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4963,
+        "favorite_count": 25403,
+        "reply_count": 1572,
+        "quote_count": 138
+      }
+    },
+    {
+      "id": "2026731846181204304",
+      "text": "Starlink is a gamechanger",
+      "created_at": "Wed Feb 25 18:51:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026678640478494884",
+        "text": "Starlink Wi-Fi review on Qatar Airways:\n\n\"I used free @Starlink Wi-Fi on a 15-hour flight — and it just changed long-haul travel forever. I sent large attachments without delay, I downloaded documents, I responded to time-sensitive emails while crossing continents that I had neglected on our three-week venture through Asia. And the best part was that I didn’t once think about conserving bandwidth. The airline says speeds can reach up to 500 Mbps, and while I didn’t run a speed test mid-flight, the experience felt stable and fast, even over open ocean.\n\nFor remote workers, entrepreneurs, and anyone who doesn’t want to lose a full day in transit, reliable high-speed Wi-Fi at 35,000 feet changes the equation, and flying doesn’t disrupt your workload.\"",
+        "created_at": "Wed Feb 25 15:20:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026677851076833280",
+            "url": "https://pbs.twimg.com/media/HCA0xIuWMAAjmWe.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1042949,
+          "friends_count": 433,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 82,
+          "favorite_count": 1055,
+          "reply_count": 89,
+          "quote_count": 20
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235347183,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1081,
+        "favorite_count": 8715,
+        "reply_count": 1086,
+        "quote_count": 45
+      }
+    },
+    {
+      "id": "2026731734382031252",
+      "text": "RT @BasedMikeLee: Make\n\nThem\n\nSpeak\n\nNo Zombie Filibuster on SAVE AMERICA \n\nWe’re not playing",
+      "created_at": "Wed Feb 25 18:51:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026544418577105336",
+        "text": "Make\n\nThem\n\nSpeak\n\nNo Zombie Filibuster on SAVE AMERICA \n\nWe’re not playing",
+        "created_at": "Wed Feb 25 06:26:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026489834269741552",
+          "text": "PRESIDENT TRUMP: “And as time goes by, I believe the tariffs paid for by foreign countries will, like in the past, substantially replace the modern-day system of income tax, taking a great financial burden off the people that I love.” https://t.co/VkN5ExaU2v",
+          "created_at": "Wed Feb 25 02:50:01 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2026489739973386240",
+              "url": "https://video.twimg.com/amplify_video/2026489739973386240/vid/avc1/1280x720/yto3JSaUv_U_m4MZ.mp4?tag=21",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1367531",
+            "name": "Fox News",
+            "screen_name": "FoxNews",
+            "description": "Stay Ahead. Get Breaking News Here First. Download the App.",
+            "followers_count": 28263463,
+            "friends_count": 286,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1674,
+            "favorite_count": 12427,
+            "reply_count": 1752,
+            "quote_count": 300
+          }
+        },
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 659241,
+          "friends_count": 3777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1062,
+          "favorite_count": 4620,
+          "reply_count": 184,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235347183,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1062,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026731633945227775",
+      "text": "How to create amazing images with Grok Imagine. \n\nYou can also ask @Grok to generate image and video prompts.",
+      "created_at": "Wed Feb 25 18:50:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026729616279265624",
+        "text": "GROK IMAGINE PROMPT :\n\"highly stylized, hyper-realistic figure of a female warrior posed en pointe like a classical ballet dancer. She balances on the tip of her right foot, wearing pale pink satin ballet pointe shoes with ribbons wrapped tightly around her ankles and calves. Her left leg is lifted and bent slightly behind her, contributing to a dynamic, mid-motion pose.\nHer upper body is clad in intricately engraved metallic armor reminiscent of ancient Greek empire. The breastplate is form-fitting, sculpted, and heavily ornamented with swirling relief patterns. Matching armored greaves cover her shins, and detailed bracers protect her forearms. The metal has a polished bronze or antique gold tone with elaborate filigree work throughout.\nShe holds a large, round shield in her left hand. The shield is richly decorated. In her right hand, raised high behind her head, she grips a short sword with a narrow blade.\nHer helmet is covering most of her head and face, with a pronounced crest plume sweeping backward.\nContrasting with the heavy armor, she wears a soft, flowing, pale pink skirt made of sheer, gauzy fabric. The skirt flares outward as if caught mid-spin, reinforcing the ballet aesthetic and creating a striking juxtaposition between delicacy and martial strength.\nThe background is neutral and painterly, with muted gray-brown tones and soft lighting that highlights the metallic textures and the musculature of her legs. The lighting creates subtle shadows that enhance the three-dimensional, sculptural quality of the figure. Overall, the image blends classical warrior iconography with the grace and poise of ballet, creating a powerful fusion of strength and elegance.\"\n\nI often add or remove details afterwards thanks to Grok Imagine's editing features.\nFor this image I made about 5 variations on the lighting, the background and I don't remember what other details.\n@elonmusk I hope I have answered your question.",
+        "created_at": "Wed Feb 25 18:42:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026729612609261568",
+            "url": "https://pbs.twimg.com/media/HCBj2DdXEAAkfxS.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 115217,
+          "friends_count": 3456,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 64,
+          "favorite_count": 673,
+          "reply_count": 181,
+          "quote_count": 20
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235347183,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 701,
+        "favorite_count": 5626,
+        "reply_count": 1659,
+        "quote_count": 78
+      }
+    },
+    {
+      "id": "2026727128642068969",
+      "text": "https://t.co/lysDy15ULF",
+      "created_at": "Wed Feb 25 18:32:56 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "animated_gif",
+          "id": "2026727121213849600",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HCBhlCSaAAAuv9G.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2026679645379141953",
+        "text": "🚨 BREAKING: Hackers Used Anthropic’s Claude to Steal 150GB of Mexican Government Data\n\n> tell claude you’re doing a bug bounty\n> claude initially refused\n>“that violates AI safety guidelines”\n> hacker just kept asking\n> claude: “ok I’ll help”\n> hack the entire mexican government\n\nFederal tax authority. National electoral institute. Four state governments. 195 million taxpayer records. Voter records. Government credentials. \n\nALL GONE 💀",
+        "created_at": "Wed Feb 25 15:24:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026679641566478338",
+            "url": "https://pbs.twimg.com/media/HCA2ZW0WAAIVdBp.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2026679641570701312",
+            "url": "https://pbs.twimg.com/media/HCA2ZW1WcAA8b2y.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2026679641574961152",
+            "url": "https://pbs.twimg.com/media/HCA2ZW2XcAA4jUr.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1087640384975577089",
+          "name": "NIK",
+          "screen_name": "ns123abc",
+          "description": "non technical member of technical staff",
+          "followers_count": 52335,
+          "friends_count": 6540,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3060,
+          "favorite_count": 28409,
+          "reply_count": 970,
+          "quote_count": 636
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235347183,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2903,
+        "favorite_count": 43869,
+        "reply_count": 1539,
+        "quote_count": 175
+      }
+    },
     {
       "id": "2026724553234461068",
       "text": "Great news! Now it is time to enforce the talking filibuster. \n\nThe filibuster rule is meant to allow senators to present their arguments before a bill is passed. \n\nIt is NOT intended to require 60 votes to pass anything at all!\n\nSTOP THE ABUSE OF THE FILIBUSTER NOW. \n\nEither senators must talk or they must pass the bill to SAVE AMERICA!",
