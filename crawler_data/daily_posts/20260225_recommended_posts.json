@@ -1,12 +1,53 @@
 {
   "date": "20260225",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-25T03:02:18.057449",
-  "tweet_count": 203,
-  "unique_tweet_count": 203,
-  "total_crawled": 400,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-02-25T04:39:07.069856",
+  "tweet_count": 204,
+  "unique_tweet_count": 204,
+  "total_crawled": 403,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2026512661979046000",
+      "text": "推荐高密度信息大图提示词\n作者 @WaytoAGI \n\n链接：https://t.co/800kkBim5c https://t.co/PkKIgOf8SU",
+      "created_at": "Wed Feb 25 04:20:44 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026512608317132801",
+          "url": "https://pbs.twimg.com/media/HB-eeveX0AER-Yo.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2026512608384241664",
+          "url": "https://pbs.twimg.com/media/HB-eevuX0AA7VO2.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2026512608380006400",
+          "url": "https://pbs.twimg.com/media/HB-eevtXMAAP5i2.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 186579,
+        "friends_count": 1555,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 18,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2026484475631399124",
       "text": "RT @tegmark: Anthropic 2024: You can trust that we'll keep all our safety promises\nAntropic 2026: Nvm https://t.co/seQChL90FX",

@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 186528,
+    "followers_count": 186579,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260225",
-  "last_updated": "2026-02-25T03:02:18.109287",
-  "tweet_count": 4,
+  "last_updated": "2026-02-25T04:39:07.098102",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2026450430977360383",
@@ -169,6 +169,37 @@
       "stats": {
         "retweet_count": 0,
         "favorite_count": 3,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026512661979046000",
+      "text": "推荐高密度信息大图提示词\n作者 @WaytoAGI \n\n链接：https://t.co/800kkBim5c https://t.co/PkKIgOf8SU",
+      "created_at": "Wed Feb 25 04:20:44 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026512608317132801",
+          "url": "https://pbs.twimg.com/media/HB-eeveX0AER-Yo.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2026512608384241664",
+          "url": "https://pbs.twimg.com/media/HB-eevuX0AA7VO2.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2026512608380006400",
+          "url": "https://pbs.twimg.com/media/HB-eevtXMAAP5i2.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 18,
         "reply_count": 0,
         "quote_count": 0
       }
