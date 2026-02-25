@@ -1,0 +1,66 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 235284627,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260225",
+  "last_updated": "2026-02-25T03:02:18.085078",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2026484475631399124",
+      "text": "RT @tegmark: Anthropic 2024: You can trust that we'll keep all our safety promises\nAntropic 2026: Nvm https://t.co/seQChL90FX",
+      "created_at": "Wed Feb 25 02:28:43 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026408918633545729",
+          "url": "https://pbs.twimg.com/media/HB9ALNTWAAELUrq.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2026408922194522324",
+        "text": "Anthropic 2024: You can trust that we'll keep all our safety promises\nAntropic 2026: Nvm https://t.co/seQChL90FX",
+        "created_at": "Tue Feb 24 21:28:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026408918633545729",
+            "url": "https://pbs.twimg.com/media/HB9ALNTWAAELUrq.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2530947115",
+          "name": "Max Tegmark",
+          "screen_name": "tegmark",
+          "description": "Known as Mad Max for my unorthodox ideas and passion for adventure, my scientific interests range from artificial intelligence to the ultimate nature of reality",
+          "followers_count": 153818,
+          "friends_count": 37,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 146,
+          "favorite_count": 958,
+          "reply_count": 140,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 146,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
