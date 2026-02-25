@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 186888,
+    "followers_count": 186892,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260225",
-  "last_updated": "2026-02-25T20:12:07.851007",
-  "tweet_count": 10,
+  "last_updated": "2026-02-25T22:08:42.245114",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2026450430977360383",
@@ -479,6 +479,67 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2026755174761431119",
+      "text": "https://t.co/q69ej3I70K",
+      "created_at": "Wed Feb 25 20:24:23 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2026756475801186704",
+      "text": "Claude Code/Cowork 迭代还真快，小龙虾🦞的定时任务也学过来了。\n\n现在有了远程操控 /remote-control 和定时任务，🦞的大部分任务都可以做了。\n\nAnthropic 的桌面工具 Cowork 新增了\"定时任务\"功能，用户可以让 Claude 在指定时间自动完成重复性工作——比如每天早上生成简报、每周更新表格、每周五准备团队演示文稿。\n\nCowork 是 Anthropic 今年推出的桌面端 AI 助手，面向非开发者用户，主打本地文件处理和任务自动化，目前支持 macOS 和 Windows，处于研究预览阶段，所有付费 Claude 用户均可使用。\n\n除了定时任务，这次更新还带来两个变化：\n一是上线了插件系统，为 Cowork 增加设计、工程、运营等垂直领域的专业能力；\n二是在侧边栏新增了自定义面板，把插件、技能和外部连接器的管理集中到一处。\n\n简单说，Cowork 正在从一个随叫随到的助手，变成一个能自己按时干活的自动化工具。\n\n这个方向和 AI Agent 的大趋势一致——不只是回答问题，而是主动替你完成工作流。",
+      "created_at": "Wed Feb 25 20:29:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026720870631354429",
+        "text": "New in Cowork: scheduled tasks.\n\nClaude can now complete recurring tasks at specific times automatically: a morning brief, weekly spreadsheet updates, Friday team presentations. https://t.co/7ucKZbAVip",
+        "created_at": "Wed Feb 25 18:08:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026717570380992512",
+            "url": "https://video.twimg.com/amplify_video/2026717570380992512/vid/avc1/3840x2160/YR20Pe8QAwgffqyE.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+          "followers_count": 570484,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 688,
+          "favorite_count": 10738,
+          "reply_count": 636,
+          "quote_count": 905
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 22,
+        "reply_count": 1,
+        "quote_count": 2
       }
     }
   ]
