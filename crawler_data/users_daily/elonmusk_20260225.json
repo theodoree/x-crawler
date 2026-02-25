@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235330885,
+    "followers_count": 235340260,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260225",
-  "last_updated": "2026-02-25T16:28:21.882170",
-  "tweet_count": 27,
+  "last_updated": "2026-02-25T18:24:19.615907",
+  "tweet_count": 30,
   "tweets": [
     {
       "id": "2026484475631399124",
@@ -1216,6 +1216,99 @@
         "favorite_count": 8585,
         "reply_count": 1817,
         "quote_count": 70
+      }
+    },
+    {
+      "id": "2026719624994369541",
+      "text": "Made with @Grok Imagine",
+      "created_at": "Wed Feb 25 18:03:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 38,
+        "favorite_count": 377,
+        "reply_count": 214,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2026719833778532570",
+      "text": "RT @jessalanfields: @XFreeze People don’t want woke AI. They want AI that tells them the truth.",
+      "created_at": "Wed Feb 25 18:03:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026709112927531182",
+        "text": "@XFreeze People don’t want woke AI. They want AI that tells them the truth.",
+        "created_at": "Wed Feb 25 17:21:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16052860",
+          "name": "Jess Fields",
+          "screen_name": "jessalanfields",
+          "description": "Entrepreneur and business strategist. Dad of 5. ☦️",
+          "followers_count": 27517,
+          "friends_count": 6167,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 141,
+          "favorite_count": 1481,
+          "reply_count": 268,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 141,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026724553234461068",
+      "text": "Great news! Now it is time to enforce the talking filibuster. \n\nThe filibuster rule is meant to allow senators to present their arguments before a bill is passed. \n\nIt is NOT intended to require 60 votes to pass anything at all!\n\nSTOP THE ABUSE OF THE FILIBUSTER NOW. \n\nEither senators must talk or they must pass the bill to SAVE AMERICA!",
+      "created_at": "Wed Feb 25 18:22:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026683745328148979",
+        "text": "Great that @LeaderJohnThune has agreed to force the Senate to vote on the SAVE America Act\n\nA vote isn’t enough; President Trump and the American people are calling on us to PASS this bill\n\nFor that reason, senators wanting to filibuster it must be required to speak",
+        "created_at": "Wed Feb 25 15:40:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 659062,
+          "friends_count": 3777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1144,
+          "favorite_count": 4204,
+          "reply_count": 388,
+          "quote_count": 55
+        }
+      },
+      "stats": {
+        "retweet_count": 104,
+        "favorite_count": 565,
+        "reply_count": 161,
+        "quote_count": 1
       }
     }
   ]
