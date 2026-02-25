@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 186807,
+    "followers_count": 186846,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260225",
-  "last_updated": "2026-02-25T14:22:16.946178",
-  "tweet_count": 8,
+  "last_updated": "2026-02-25T16:28:21.874269",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2026450430977360383",
@@ -295,6 +295,127 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2026677900192211206",
+      "text": "RT @WaytoAGI: 感谢宝玉老师推荐！可以让龙虾沉淀成skill，建议使用nano banana pro 4k 生图API生成（一定是4K的哦）\n\n下图是总结的昨晚直播内容，实测即使给到的信息不够全面也能先搜索提炼再生成… https://t.co/G2stRC9GWC",
+      "created_at": "Wed Feb 25 15:17:19 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026666397267537926",
+          "url": "https://pbs.twimg.com/media/HCAqWb9aMAYb1Dp.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2026666397443760128",
+          "url": "https://pbs.twimg.com/media/HCAqWcnbIAAR-wB.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2026666397271732230",
+          "url": "https://pbs.twimg.com/media/HCAqWb-aMAYluKS.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2026666397271736320",
+          "url": "https://pbs.twimg.com/media/HCAqWb-aQAAQQYU.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2026667142553199008",
+        "text": "感谢宝玉老师推荐！可以让龙虾沉淀成skill，建议使用nano banana pro 4k 生图API生成（一定是4K的哦）\n\n下图是总结的昨晚直播内容，实测即使给到的信息不够全面也能先搜索提炼再生成\n\n有人觉得密度太大不好看，其实可以让它总结某个知识点，自己再根据图片信息倒推完整内容，相当于作为提词器，检查自己对知识点的掌握程度✌️",
+        "created_at": "Wed Feb 25 14:34:35 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026666397267537926",
+            "url": "https://pbs.twimg.com/media/HCAqWb9aMAYb1Dp.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2026666397443760128",
+            "url": "https://pbs.twimg.com/media/HCAqWcnbIAAR-wB.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2026666397271732230",
+            "url": "https://pbs.twimg.com/media/HCAqWb-aMAYluKS.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2026666397271736320",
+            "url": "https://pbs.twimg.com/media/HCAqWb-aQAAQQYU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2026512661979046000",
+          "text": "推荐高密度信息大图提示词\n作者 @WaytoAGI \n\n链接：https://t.co/800kkBim5c https://t.co/PkKIgOf8SU",
+          "created_at": "Wed Feb 25 04:20:44 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2026512608317132801",
+              "url": "https://pbs.twimg.com/media/HB-eeveX0AER-Yo.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2026512608384241664",
+              "url": "https://pbs.twimg.com/media/HB-eevuX0AA7VO2.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2026512608380006400",
+              "url": "https://pbs.twimg.com/media/HB-eevtXMAAP5i2.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3178231",
+            "name": "宝玉",
+            "screen_name": "dotey",
+            "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+            "followers_count": 186846,
+            "friends_count": 1555,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 68,
+            "favorite_count": 311,
+            "reply_count": 32,
+            "quote_count": 5
+          }
+        },
+        "user": {
+          "id": "732353",
+          "name": "WaytoAGI｜通往AGI之路",
+          "screen_name": "WaytoAGI",
+          "description": "🔗 Empowering more people through AI｜联结上百万人的 AI 开源社区｜https://t.co/UTIpHstWff  实现通用人工智能（AGI）也许有很长的路要走，我们的目标是让每个人的学习过程少走弯路，让更多的人因 AI 而强大。",
+          "followers_count": 18583,
+          "friends_count": 574,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 16,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
