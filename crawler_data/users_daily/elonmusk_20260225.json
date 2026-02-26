@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235353875,
+    "followers_count": 235357043,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260225",
-  "last_updated": "2026-02-25T22:08:42.254482",
-  "tweet_count": 41,
+  "last_updated": "2026-02-26T00:20:01.937952",
+  "tweet_count": 42,
   "tweets": [
     {
       "id": "2026484475631399124",
@@ -1861,6 +1861,52 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2026783064265994633",
+      "text": "Cool",
+      "created_at": "Wed Feb 25 22:15:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026715211370213878",
+        "text": "MrBeast reveals once enough airlines start using Starlink, he’ll only book flights that have it\n\n“Oh this flight has an extra hour layover? I don’t care, there’s Starlink. I’ll sit in the back of the plane if it gives me Starlink. I really don’t care, Starlink is amazing”\n\n“Most people listening probably haven’t used it but for reference when I filmed in Antarctica the only way to get any signal was Starlink. We had this four hour drive in the middle of Africa, you put Starlink on top of the car and you get perfect signal the entire ride”\n\n“And I think what Elon Musk is accomplishing with SpaceX, there’s no doubt it’s going to fundamentally progress humanity in unfathomable ways. In our lifetime, someone’s going to go to Mars thanks to SpaceX, I really do believe that”",
+        "created_at": "Wed Feb 25 17:45:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026715087743102978",
+            "url": "https://video.twimg.com/amplify_video/2026715087743102978/vid/avc1/1280x720/l9p14MQnhum2PbHT.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "977664738195681281",
+          "name": "Jack",
+          "screen_name": "Jackkk",
+          "description": "Crypto + Clips: Working with @notthreadguy @counterpartytv | @base | @solana | Partner @yeet | Business: @R3ACHNTWRK",
+          "followers_count": 31050,
+          "friends_count": 4986,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 711,
+          "favorite_count": 14040,
+          "reply_count": 370,
+          "quote_count": 102
+        }
+      },
+      "stats": {
+        "retweet_count": 2446,
+        "favorite_count": 37971,
+        "reply_count": 1955,
+        "quote_count": 65
       }
     }
   ]

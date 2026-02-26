@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 186892,
+    "followers_count": 186904,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260225",
-  "last_updated": "2026-02-25T22:08:42.245114",
-  "tweet_count": 12,
+  "last_updated": "2026-02-26T00:20:01.928309",
+  "tweet_count": 14,
   "tweets": [
     {
       "id": "2026450430977360383",
@@ -540,6 +540,90 @@
         "favorite_count": 22,
         "reply_count": 1,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2026785816916234388",
+      "text": "跟 Agent Skills 火一样，首先是模型能力到了+Agent 工具成熟了，然后能力泛化能做非编程任务，从技术圈到了非技术圈",
+      "created_at": "Wed Feb 25 22:26:09 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026778028747973104",
+        "text": "非常不理解的是，为什么似乎在2026年之后，短短两个月之内，coding agent 似乎瞬间就飞起了？",
+        "created_at": "Wed Feb 25 21:55:12 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1477948736156454913",
+          "name": "马东锡 NLP",
+          "screen_name": "dongxi_nlp",
+          "description": "Prev. PhD @Stockholm_Uni | Alumni @KTHuniversity @uppsalauni Sharing insights on AI, autonomous agents, and large language & reasoning models",
+          "followers_count": 36780,
+          "friends_count": 934,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 48,
+          "reply_count": 12,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 21,
+        "reply_count": 3,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2026804536489226639",
+      "text": "不意外，挺好的",
+      "created_at": "Wed Feb 25 23:40:32 +0000 2026",
+      "lang": "ja",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026778885057085785",
+        "text": "尽管所有行业都在战战兢兢迎接AI对现有就业岗位的冲击，但软件工程师的招聘信息却在快速增长，同比增长11%...软件工程师的招聘数量在去年5月触底后拉出一个V型反转，惊不惊喜，意不意外？ https://t.co/uwQKDmScdE",
+        "created_at": "Wed Feb 25 21:58:36 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026778879919026176",
+            "url": "https://pbs.twimg.com/media/HCCQpyfWcAA4sZa.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "75947931",
+          "name": "Jeff Li",
+          "screen_name": "jefflijun",
+          "description": "▶ YouTuber: 隐枫视野；Financial Times: https://t.co/JeKZGMr6cp",
+          "followers_count": 60996,
+          "friends_count": 478,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 56,
+          "reply_count": 8,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "reply_count": 3,
+        "quote_count": 0
       }
     }
   ]
