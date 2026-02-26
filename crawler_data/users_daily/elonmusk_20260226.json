@@ -1,0 +1,890 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 235362785,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260226",
+  "last_updated": "2026-02-26T02:59:47.495932",
+  "tweet_count": 18,
+  "tweets": [
+    {
+      "id": "2026815176939573403",
+      "text": "RT @AutismCapital: 🚨FYI: Gavin Newsom has already signed California Assembly Bill 1043 which mandates that operating systems including Wind…",
+      "created_at": "Thu Feb 26 00:22:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026797750738891022",
+        "text": "🚨FYI: Gavin Newsom has already signed California Assembly Bill 1043 which mandates that operating systems including Windows, Linux, macOS, and FreeBSD implement system-level age (identity) verification.\n\nThis takes effect on January 1st, 2027.\n\nColorado also has a similar act called SB26-051 which is currently advancing through the committees and ready for full Senate consideration. It would come into effect on January 1st, 2028 if passed.\n\nUtah, Texas, Louisiana, and Alabama all currently have app layer verification laws, but not OS level YET. \n\nSo OS level verification isn't a future thing. It's happening now. They are chokepointing the internet.\n\nEnjoy these days.",
+        "created_at": "Wed Feb 25 23:13:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026797713703186435",
+            "url": "https://pbs.twimg.com/media/HCChyDzaMAMCQL6.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2026688386770366541",
+          "text": "It can always get worse, Anon. Heed these warnings. Resist as much as possible. This is bipartisan. Everyone deserves their right to privacy. Whether you want to say F ICE or call your homie a homo online — whatever side you’re on, you must fight this. Pay attention. https://t.co/GmazM3GDF7",
+          "created_at": "Wed Feb 25 15:59:00 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2026688382500483078",
+              "url": "https://pbs.twimg.com/media/HCA-WJVaMAYifLj.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1297651178256257024",
+            "name": "Autism Capital 🧩",
+            "screen_name": "AutismCapital",
+            "description": "Citizen journalism with a humorous flair. Following Fintech, Crypto, AI, Longevity, Politics, Memes, and whatever the current thing is.",
+            "followers_count": 1080507,
+            "friends_count": 0,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 401,
+            "favorite_count": 1886,
+            "reply_count": 45,
+            "quote_count": 10
+          }
+        },
+        "user": {
+          "id": "1297651178256257024",
+          "name": "Autism Capital 🧩",
+          "screen_name": "AutismCapital",
+          "description": "Citizen journalism with a humorous flair. Following Fintech, Crypto, AI, Longevity, Politics, Memes, and whatever the current thing is.",
+          "followers_count": 1080507,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1488,
+          "favorite_count": 5580,
+          "reply_count": 426,
+          "quote_count": 173
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1488,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026817667806670980",
+      "text": "Inevitable",
+      "created_at": "Thu Feb 26 00:32:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026704992678133888",
+        "text": "this is as wild as OpenAI dropping the \"open\", probably wilder: https://t.co/Lg1jjlwjtT",
+        "created_at": "Wed Feb 25 17:04:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "70831441",
+          "name": "Soumith Chintala",
+          "screen_name": "soumithchintala",
+          "description": "Building new things @thinkymachines.  Also dabble in robotics at NYU.  Cofounded @PyTorch. AI is delicious when it is accessible and open-source.",
+          "followers_count": 283027,
+          "friends_count": 1190,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 106,
+          "favorite_count": 1276,
+          "reply_count": 116,
+          "quote_count": 54
+        }
+      },
+      "stats": {
+        "retweet_count": 777,
+        "favorite_count": 7301,
+        "reply_count": 1087,
+        "quote_count": 44
+      }
+    },
+    {
+      "id": "2026818240299806863",
+      "text": "RT @xDaily: NEWS: xAI's Grok 4.20 beta1 has debuted at #1 on the Search Arena leaderboard, scoring 1226 in blind pairwise human voting and…",
+      "created_at": "Thu Feb 26 00:34:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026758878323515717",
+        "text": "NEWS: xAI's Grok 4.20 beta1 has debuted at #1 on the Search Arena leaderboard, scoring 1226 in blind pairwise human voting and outranking GPT-5.2 (1219) and Gemini-3.\n\nThe model also ranks #4 overall in Text Arena with a score of 1492, on par with Gemini 3.1 Pro. Results are preliminary, based on approximately 4,000 head-to-head votes. https://t.co/HMMif4rArk",
+        "created_at": "Wed Feb 25 20:39:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "752567226",
+          "name": "X Daily News",
+          "screen_name": "xDaily",
+          "description": "Your #1 News source on everything X + xAI and now SpaceX | Contributors: @HXMnCK, @xUpdatesRadar and @swak_12 I | Hit Follow and sign up for notifications! 🔔",
+          "followers_count": 331126,
+          "friends_count": 5324,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 147,
+          "favorite_count": 788,
+          "reply_count": 76,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 147,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026818389650600223",
+      "text": "RT @ArthurMacwaters: it's not asylum if you use taxpayer dollars to vacation in the place you fled",
+      "created_at": "Thu Feb 26 00:35:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026732557593895054",
+        "text": "it's not asylum if you use taxpayer dollars to vacation in the place you fled",
+        "created_at": "Wed Feb 25 18:54:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026731239219277941",
+          "text": "Are these people really refugees? https://t.co/7qzpHlD0eX",
+          "created_at": "Wed Feb 25 18:49:16 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2026731235679285250",
+              "url": "https://pbs.twimg.com/media/HCBlUh3aMAIKten.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1485689970593468416",
+            "name": "The Rabbit Hole",
+            "screen_name": "TheRabbitHole",
+            "description": "Navigating the discourse",
+            "followers_count": 1087155,
+            "friends_count": 1783,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 614,
+            "favorite_count": 3845,
+            "reply_count": 79,
+            "quote_count": 28
+          }
+        },
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 61323,
+          "friends_count": 990,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 576,
+          "favorite_count": 3386,
+          "reply_count": 161,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 576,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026823233279045944",
+      "text": "Big difference",
+      "created_at": "Thu Feb 26 00:54:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026582062895882457",
+        "text": "Hungary 477 rapes. UK 70,000 rapes annually.\n\nAnd the EU is doing everything it can to bring down Orban and flood Hungary with rapists.",
+        "created_at": "Wed Feb 25 08:56:30 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1098197906585255938",
+          "name": "Catherine Blaiklock",
+          "screen_name": "blaiklockBP",
+          "description": "Founder of The Brexit Party. RESIST. FREEDOM once gone doesn’t come back. @restorebritain_ Rupert Lowe for PM",
+          "followers_count": 49439,
+          "friends_count": 1090,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1954,
+          "favorite_count": 9105,
+          "reply_count": 271,
+          "quote_count": 50
+        }
+      },
+      "stats": {
+        "retweet_count": 7047,
+        "favorite_count": 50291,
+        "reply_count": 1365,
+        "quote_count": 103
+      }
+    },
+    {
+      "id": "2026823328145817924",
+      "text": "RT @TheRabbitHole: Can men become women?\n\nChatGPT says yes.\nGemini says it depends and hints at gender pseudoscience.\n\nOnly Grok 4.20 corre…",
+      "created_at": "Thu Feb 26 00:55:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026797676407488885",
+        "text": "Can men become women?\n\nChatGPT says yes.\nGemini says it depends and hints at gender pseudoscience.\n\nOnly Grok 4.20 correctly answers no. https://t.co/IYloJhk9xq",
+        "created_at": "Wed Feb 25 23:13:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026797672955523072",
+            "url": "https://pbs.twimg.com/media/HCChvsAaMAA-63a.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1087155,
+          "friends_count": 1783,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 361,
+          "favorite_count": 2123,
+          "reply_count": 241,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 361,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026823589190869400",
+      "text": "RT @ianmiles: Ten men, every single one of Pakistani migrant background, were convicted today in a British court for attempting to murder a…",
+      "created_at": "Thu Feb 26 00:56:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026669886458716609",
+        "text": "Ten men, every single one of Pakistani migrant background, were convicted today in a British court for attempting to murder a mother and her 13-year-old daughter by petrol-bombing their Stoke-on-Trent home in 2021.\n\nThe gang demanded one man, then doused the house in petrol and set the mother on fire in front of her child. The 31-year-old mother suffered 65% burns and was in a two-month coma. The 13-year old girl suffered 15% burns. Both forced to jump from a first-floor window.\n\nThis wasn’t “youths” or “Asians”. The perpetrators were identified as Shakil Uddin, Lukman Khan, Riyadh Iqbal, Muhammad Sufyaan-Shah, Tayyeb Majeed, Ali Abbas, Haris Mahmood, Naveed Hussain, Kashif & Bilal Ahmed.",
+        "created_at": "Wed Feb 25 14:45:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026669880125313024",
+            "url": "https://pbs.twimg.com/media/HCAthKnaUAAHE6X.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16106584",
+          "name": "Ian Miles Cheong",
+          "screen_name": "ianmiles",
+          "description": "I say the quiet part out loud. Hit the follow button if you can read this.",
+          "followers_count": 1257929,
+          "friends_count": 1370,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1183,
+          "favorite_count": 3632,
+          "reply_count": 402,
+          "quote_count": 80
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1183,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026823901708431872",
+      "text": "Try it out",
+      "created_at": "Thu Feb 26 00:57:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026764510867120516",
+        "text": "Free grok imagine image &amp;  video gen for a day, take the chance!",
+        "created_at": "Wed Feb 25 21:01:29 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2786462342",
+          "name": "Hexiang (Frank) Hu",
+          "screen_name": "hexiang",
+          "description": "@xAI | making @grok imagine\nPrev: Gemini & Imagen @GoogleDeepMind.",
+          "followers_count": 3983,
+          "friends_count": 795,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 176,
+          "reply_count": 52,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 590,
+        "favorite_count": 4120,
+        "reply_count": 1059,
+        "quote_count": 38
+      }
+    },
+    {
+      "id": "2026824152125157607",
+      "text": "The universe",
+      "created_at": "Thu Feb 26 00:58:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026800008872259787",
+        "text": "Solar is so obviously the future for energy in Africa.\n\n(and everywhere else)",
+        "created_at": "Wed Feb 25 23:22:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 68697,
+          "friends_count": 440,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 42,
+          "favorite_count": 244,
+          "reply_count": 91,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 757,
+        "favorite_count": 7729,
+        "reply_count": 1398,
+        "quote_count": 71
+      }
+    },
+    {
+      "id": "2026825011458355686",
+      "text": "RT @CllrKieran: I have made the decision to join Restore Britain. I believe that this is the only movement at the moment with serious credi…",
+      "created_at": "Thu Feb 26 01:01:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026628255768277362",
+        "text": "I have made the decision to join Restore Britain. I believe that this is the only movement at the moment with serious credibility, a truly patriotic approach, and based solutions! \n\nI'm looking forward to the next chapter of my journey. \nWe must @RestoreBritain_ https://t.co/9IYWeskvWt",
+        "created_at": "Wed Feb 25 12:00:03 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026621271342043136",
+            "url": "https://video.twimg.com/amplify_video/2026621271342043136/vid/avc1/1920x1080/Q9Kz7acln0XSXgZd.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1809248401948889088",
+          "name": "Kieran Mishchuk",
+          "screen_name": "CllrKieran",
+          "description": "Restore Britain 🇬🇧 | Proud Councillor for Milton Regis | It's time to put Britain first!\nAll views are my own",
+          "followers_count": 5101,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1296,
+          "favorite_count": 11675,
+          "reply_count": 744,
+          "quote_count": 113
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1296,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026825657527971992",
+      "text": "RT @TeslaAUNZ: Model Y wins the EV of the year in NZ 🇳🇿\n\nhttps://t.co/Pgk1lv7nv3 https://t.co/ywZIKDGBSS",
+      "created_at": "Thu Feb 26 01:04:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2026808753170034688",
+          "url": "https://video.twimg.com/amplify_video/2026808753170034688/vid/avc1/3840x2160/yprGtMBuRnpqxQBQ.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2026809538368954569",
+        "text": "Model Y wins the EV of the year in NZ 🇳🇿\n\nhttps://t.co/Pgk1lv7nv3 https://t.co/ywZIKDGBSS",
+        "created_at": "Thu Feb 26 00:00:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026808753170034688",
+            "url": "https://video.twimg.com/amplify_video/2026808753170034688/vid/avc1/3840x2160/yprGtMBuRnpqxQBQ.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1676905146482315264",
+          "name": "Tesla Australia & New Zealand",
+          "screen_name": "TeslaAUNZ",
+          "description": "Building a world of amazing abundance 🦘🇦🇺🇳🇿🌏",
+          "followers_count": 20157,
+          "friends_count": 23,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 227,
+          "favorite_count": 1348,
+          "reply_count": 134,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 227,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026825850830860403",
+      "text": "RT @chamath: China added more solar capacity in 2025 than America has installed in its entire history.\n\nThat's the most important energy ch…",
+      "created_at": "Thu Feb 26 01:05:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026348327097471265",
+        "text": "China added more solar capacity in 2025 than America has installed in its entire history.\n\nThat's the most important energy chart you'll see today.\n\nAnd 2025 was also the first year when small-scale distributed solar pulled in more investments than utility-scale solar farms globally.\n\nConsidering that the U.S. has hundreds of GW stuck waiting for grid connections, the conditions are aligned to start putting solar + storage on every American home.\n\nMy research team put together a Deep Dive on solar, if you want the full breakdown.\n\nHere’s the link: https://t.co/NppxPJDM1s",
+        "created_at": "Tue Feb 24 17:27:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026348324593573888",
+            "url": "https://pbs.twimg.com/media/HB8JEK6boAAWisW.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3291691",
+          "name": "Chamath Palihapitiya",
+          "screen_name": "chamath",
+          "description": "God is in the details.",
+          "followers_count": 1968851,
+          "friends_count": 1086,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 513,
+          "favorite_count": 2776,
+          "reply_count": 490,
+          "quote_count": 63
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 513,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026826402218258728",
+      "text": "RT @BasilTheGreat: Another brilliant Community Note for Reform UK",
+      "created_at": "Thu Feb 26 01:07:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026547709042160053",
+        "text": "Another brilliant Community Note for Reform UK",
+        "created_at": "Wed Feb 25 06:39:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2025987016249524602",
+          "text": "Reform UK will deport all illegal migrants.",
+          "created_at": "Mon Feb 23 17:32:00 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1094881364887986177",
+            "name": "Reform UK",
+            "screen_name": "reformparty_uk",
+            "description": "The biggest party in British politics. Led by @Nigel_Farage 🇬🇧",
+            "followers_count": 536871,
+            "friends_count": 33,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 309,
+            "favorite_count": 4771,
+            "reply_count": 1505,
+            "quote_count": 120
+          }
+        },
+        "user": {
+          "id": "1722014154322575360",
+          "name": "Basil the Great",
+          "screen_name": "BasilTheGreat",
+          "description": "--//-- Restore Britain --//--\n\nDM for submissions/credit/deletion",
+          "followers_count": 287069,
+          "friends_count": 5022,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 306,
+          "favorite_count": 2096,
+          "reply_count": 115,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 306,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026831072978415727",
+      "text": "Absolutely",
+      "created_at": "Thu Feb 26 01:25:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026711288076751270",
+        "text": "If you do not burn with rage over the barbarism perpetrated by these animals against British girls, it means you have a defective soul.",
+        "created_at": "Wed Feb 25 17:30:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1316521894028378117",
+          "name": "The Chivalry Guild",
+          "screen_name": "ChivalryGuild",
+          "description": "An ideal whose time has come again...",
+          "followers_count": 209073,
+          "friends_count": 1393,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 781,
+          "favorite_count": 5590,
+          "reply_count": 169,
+          "quote_count": 33
+        }
+      },
+      "stats": {
+        "retweet_count": 3556,
+        "favorite_count": 31007,
+        "reply_count": 1234,
+        "quote_count": 60
+      }
+    },
+    {
+      "id": "2026833291882766812",
+      "text": "RT @XFreeze: SpaceX is bringing Dragon home Thursday, February 26\n\nAfter 185 days docked to the ISS, the CRS-33 spacecraft will undock at 1…",
+      "created_at": "Thu Feb 26 01:34:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026831024609702270",
+        "text": "SpaceX is bringing Dragon home Thursday, February 26\n\nAfter 185 days docked to the ISS, the CRS-33 spacecraft will undock at 12:05 PM EST, with a splashdown off the California coast expected just before midnight\n\nIt’s carrying over 4,000 lbs of wild cargo: frozen stem cells for ALS and Parkinson's research, materials 3D-printed in zero gravity, and Bioprinted liver tissue & blood vessels for organ transplants\n\nThese breakthroughs could completely revolutionize healthcare on Earth and tech for upcoming missions",
+        "created_at": "Thu Feb 26 01:25:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026829565096767491",
+            "url": "https://pbs.twimg.com/media/HCC-wDfaMAMPOoM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 157177,
+          "friends_count": 1611,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 340,
+          "favorite_count": 1710,
+          "reply_count": 281,
+          "quote_count": 28
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 340,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026838275445715172",
+      "text": "Sounds accurate",
+      "created_at": "Thu Feb 26 01:54:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026800068531982785",
+        "text": "Mitch McConnell, Bill Cassidy, Lisa Murkowski, and Susan Collins.",
+        "created_at": "Wed Feb 25 23:22:47 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "36529101",
+          "name": "Sean Davis",
+          "screen_name": "seanmdav",
+          "description": "CEO and Co-Founder of @FDRLST\n\nWinner of the 2025 Dao Prize for Excellence in Investigative Journalism",
+          "followers_count": 629781,
+          "friends_count": 5553,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 921,
+          "favorite_count": 3337,
+          "reply_count": 431,
+          "quote_count": 82
+        }
+      },
+      "stats": {
+        "retweet_count": 1040,
+        "favorite_count": 8304,
+        "reply_count": 885,
+        "quote_count": 34
+      }
+    },
+    {
+      "id": "2026842939260022925",
+      "text": "RT @seanmdav: This is classic failure theater from Thune. He doesn’t want to do the work of forcing Democrats to maintain a real filibuster…",
+      "created_at": "Thu Feb 26 02:13:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026688675451417037",
+        "text": "This is classic failure theater from Thune. He doesn’t want to do the work of forcing Democrats to maintain a real filibuster, so he’s just going to file cloture on their zombie filibuster, which will fail. \n\nThen he can immediately move on to what he really cares about: passing corporate welfare for K Street.\n\nFailure theater from do-nothing Republicans should be mocked and condemned, not praised.",
+        "created_at": "Wed Feb 25 16:00:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026672085196562877",
+          "text": "🚨 BREAKING: Senate Leader John Thune confirms HE'S FORCING A VOTE on the SAVE America Act, he will put Democrats ON THE RECORD opposing the 85-15 issue \n\nThis MUST pass! Voter ID, citizenship — common sense 🇺🇸\n\n\"We will put the Democrats on the record! [...] We'll get it on the floor, have a vote, we will make sure the Democrats are ON THE RECORD.\"\n\n\"It's a stark contrast between Republicans and Democrats on how they want to handle elections.\"\n\n\"This is gonna put them in a VERY difficult position. If I were running as a Democrat in the 2026 midterm elections, I would NOT want to have to defend that position!\" @LeaderJohnThune",
+          "created_at": "Wed Feb 25 14:54:13 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2026671680307740672",
+              "url": "https://video.twimg.com/amplify_video/2026671680307740672/vid/avc1/1920x1080/icWcKJrDGfc6oOp2.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "763094579491008512",
+            "name": "Eric Daugherty",
+            "screen_name": "EricLDaugh",
+            "description": "Chief Content Officer @RightLineNews @FLVoiceNews | Marylander-turned-Floridian | Politics & breaking news alerts | “Men must vote” - Charlie Kirk",
+            "followers_count": 949105,
+            "friends_count": 2455,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3335,
+            "favorite_count": 14454,
+            "reply_count": 1935,
+            "quote_count": 381
+          }
+        },
+        "user": {
+          "id": "36529101",
+          "name": "Sean Davis",
+          "screen_name": "seanmdav",
+          "description": "CEO and Co-Founder of @FDRLST\n\nWinner of the 2025 Dao Prize for Excellence in Investigative Journalism",
+          "followers_count": 629781,
+          "friends_count": 5553,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1853,
+          "favorite_count": 5751,
+          "reply_count": 419,
+          "quote_count": 132
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1853,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026843723192217767",
+      "text": "RT @WesternLensman: Chuck Schumer is asked what kind of “immigration deal” he’d like to pursue in the Senate.\n\nThe main feature:\n\n“A path t…",
+      "created_at": "Thu Feb 26 02:16:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026652323045413160",
+        "text": "Chuck Schumer is asked what kind of “immigration deal” he’d like to pursue in the Senate.\n\nThe main feature:\n\n“A path to citizenship for 11 million people who are here.\"\n\nOnce in a while, he says it out loud. https://t.co/uUKUWfObUS",
+        "created_at": "Wed Feb 25 13:35:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026652071789793280",
+            "url": "https://video.twimg.com/amplify_video/2026652071789793280/vid/avc1/1280x720/bMe5o2W1PhwcsT_P.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1674861136498286605",
+          "name": "Western Lensman",
+          "screen_name": "WesternLensman",
+          "description": "🇺🇸 Video Producer | Politics | Media | American 🇺🇸",
+          "followers_count": 384463,
+          "friends_count": 783,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1840,
+          "favorite_count": 7888,
+          "reply_count": 1039,
+          "quote_count": 215
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1840,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
