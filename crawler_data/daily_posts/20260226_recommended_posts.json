@@ -1,12 +1,541 @@
 {
   "date": "20260226",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-26T16:20:42.505936",
-  "tweet_count": 237,
-  "unique_tweet_count": 237,
-  "total_crawled": 431,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-02-26T18:16:53.338221",
+  "tweet_count": 247,
+  "unique_tweet_count": 247,
+  "total_crawled": 437,
+  "duplicates_removed": 190,
   "tweets": [
+    {
+      "id": "2027084535754821774",
+      "text": "RT @RestoreBritain_: Restore Britain would reverse the proposed firearms licence changes. \n\nUnnecessary, bureaucratic, and would criminalis…",
+      "created_at": "Thu Feb 26 18:13:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027040549971116388",
+        "text": "Restore Britain would reverse the proposed firearms licence changes. \n\nUnnecessary, bureaucratic, and would criminalise responsible farmers while doing nothing for public safety.\n\nWe would leave responsible gun owners alone.\n\nRestore Britain is the party for rural Britain.",
+        "created_at": "Thu Feb 26 15:18:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1930183861176090624",
+          "name": "Restore Britain",
+          "screen_name": "RestoreBritain_",
+          "description": "Let’s Restore Britain. Join our party here:",
+          "followers_count": 307134,
+          "friends_count": 62,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 344,
+          "favorite_count": 3225,
+          "reply_count": 117,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235399542,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 344,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027084248361193476",
+      "text": "RT @Asmongold: @cosmepolitics The two main issues that alienate people away from trans acceptance are trans kids and trans in sports (95% M…",
+      "created_at": "Thu Feb 26 18:12:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027080345464484125",
+        "text": "@cosmepolitics The two main issues that alienate people away from trans acceptance are trans kids and trans in sports (95% MtF)\n\nIf you look at any opinion poll, the overwhelming majority of people are against them, and for good reason\n\nStop pushing those issues and you'll double your support",
+        "created_at": "Thu Feb 26 17:56:30 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "147039284",
+          "name": "Zack",
+          "screen_name": "Asmongold",
+          "description": "Professional Neckbeard--Daily streams on https://t.co/BqNJkRKL0F and https://t.co/WHdqUUTp1E",
+          "followers_count": 1257650,
+          "friends_count": 1389,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 104,
+          "favorite_count": 2063,
+          "reply_count": 137,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235399542,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 104,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027079431312003567",
+      "text": "RT @AISafetyMemes: Anthropic CEO: next year, AI models may “able to replicate and survive in the wild”\n\nDARIO AMODEI: Yeah, I think A.S.L.…",
+      "created_at": "Thu Feb 26 17:52:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "1779016347709808803",
+        "text": "Anthropic CEO: next year, AI models may “able to replicate and survive in the wild”\n\nDARIO AMODEI: Yeah, I think A.S.L. [AI Safety Level] 3 could easily happen this year or next year. I think A.S.L. 4 —\n\nEZRA KLEIN: Oh, Jesus Christ.\n\nDARIO: No, no, I told you. I’m a believer in exponentials. I think A.S.L. 4 could happen anywhere from 2025 to 2028.\n\nEZRA: So that is fast.\n\nDARIO: Yeah, no, no, I’m truly talking about the near future here.\n\n…\n\nEZRA KLEIN: What do you specify A.S.L. 3 as? What are you implying A.S.L. 4 is?\n\nDARIO AMODEI: A.S.L. 3 is triggered by risks related to misuse of biology and cyber technology. A.S.L. 4, we’re working on now.\n\n… so for example, on biology, the way we’ve defined it — and we’re still refining the test, but the way we’ve defined it is, relative to use of a Google search, there’s a substantial increase in risk as would be evaluated by, say, the national security community of misuse of biology, creation of bioweapons, that either the proliferation or spread of it is greater than it was before, or the capabilities are substantially greater than it was before.\n\nWe’ll probably have some more exact quantitative thing, working with folks who are ex-government biodefense folks, but something like this accounts for 20 percent of the total source of risk of biological attacks, or something increases the risk by 20 percent or something like that. So that would be a very concrete version of it. It’s just, it takes us time to develop very concrete criteria. So that would be like A.S.L. 3.\n\nA.S.L. 4 is going to be more about, on the misuse side, enabling state-level actors to greatly increase their capability, which is much harder than enabling random people. So where we would worry that North Korea or China or Russia could greatly enhance their offensive capabilities in various military areas with A.I. in a way that would give them a substantial advantage at the geopolitical level. And on the autonomy side, it’s various measures of these models are pretty close to being able to replicate and survive in the wild.\n\nSo it feels maybe one step short of models that would, I think, raise truly existential questions.\"",
+        "created_at": "Sat Apr 13 05:18:44 +0000 2024",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1779015040739495937",
+            "url": "https://pbs.twimg.com/media/GLBUwQFa0AE5syC.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1315709346689568770",
+          "name": "AI Notkilleveryoneism Memes ⏸️",
+          "screen_name": "AISafetyMemes",
+          "description": "Techno-optimist, but AGI is not like the other technologies.\n\nStep 1: make memes.\nStep 2: ??? \nStep 3: lower p(doom)",
+          "followers_count": 114742,
+          "friends_count": 1258,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 204,
+          "favorite_count": 1053,
+          "reply_count": 156,
+          "quote_count": 32
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235399542,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 204,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027079042621648926",
+      "text": "RT @SERobinsonJr: STARLINK: Virgin Media O2 has officially launched their Starlink powered O2 Satellite, the first satellite-powered mobile…",
+      "created_at": "Thu Feb 26 17:51:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027064471911379049",
+        "text": "STARLINK: Virgin Media O2 has officially launched their Starlink powered O2 Satellite, the first satellite-powered mobile data service in the UK.\n\nThe service uses Starlink Direct to Cell and O2’s licensed spectrum to deliver connectivity directly to mobile devices. It boosts UK landmass coverage from 89% to 95%. \n\nPer Stephanie Bednarek, VP of Starlink Commercial Sales, \"Delivering Starlink Direct to Cell in partnership with Virgin Media O2 underscores the importance of keeping people connected no matter where they are. For the first time, millions of people across the UK will have access to data, voice and video through apps, and messaging in remote areas where terrestrial coverage isn’t available.\"\n\nIt starts as a £3-per-month add-on, available initially on the latest Samsung smartphones, with plans to expand device and app support soon. Ultimate Plan customers will receive it at no extra cost in the near future.",
+        "created_at": "Thu Feb 26 16:53:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027064252171776000",
+            "url": "https://pbs.twimg.com/media/HCGUMo-XcAAl6cD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1234183597583740929",
+          "name": "S.E. Robinson, Jr.",
+          "screen_name": "SERobinsonJr",
+          "description": "Geeking on Space, EVs, Tunnels, BCIs & AI. Writer/Owner of @ELONCHRON — daily easy-to-read chronicle on Musk companies.",
+          "followers_count": 48849,
+          "friends_count": 592,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 101,
+          "favorite_count": 585,
+          "reply_count": 94,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235399542,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 101,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027078840607183097",
+      "text": "RT @boringcompany: Tunneling has begun in Nashville - we are 2.5 feet in!\n\nLooking ahead:\n- Weeks 1-3: Prufrock-MB1 launches and undergoes…",
+      "created_at": "Thu Feb 26 17:50:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026799971983569151",
+        "text": "Tunneling has begun in Nashville - we are 2.5 feet in!\n\nLooking ahead:\n- Weeks 1-3: Prufrock-MB1 launches and undergoes a series of tests and calibrations (low production)\n- Weeks 4-6: scale to high production\n- Week 7: Prufrock-MB2 arrives https://t.co/4cTfjdZCET",
+        "created_at": "Wed Feb 25 23:22:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026799921433817088",
+            "url": "https://video.twimg.com/amplify_video/2026799921433817088/vid/avc1/360x640/hEWYvaC8aqt7Qdo-.mp4?tag=21",
+            "bitrate": 950000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "859816394556284929",
+          "name": "The Boring Company",
+          "screen_name": "boringcompany",
+          "description": "Beat the snail",
+          "followers_count": 1101900,
+          "friends_count": 9,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 671,
+          "favorite_count": 8716,
+          "reply_count": 409,
+          "quote_count": 89
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235399542,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 671,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027078787821969454",
+      "text": "Terrible",
+      "created_at": "Thu Feb 26 17:50:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026955397538660854",
+        "text": "The first openly trans lawmaker, a Democrat, pleads guilty to child sex charges involving kids as young as 3-years old.\n\nhttps://t.co/X16OrvuwHu",
+        "created_at": "Thu Feb 26 09:40:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1987614649454338048",
+            "url": "https://video.twimg.com/amplify_video/1987614649454338048/vid/avc1/1180x666/2UjbWZm8dB9s_hYj.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1390762874809761793",
+          "name": "Defiant L’s",
+          "screen_name": "DefiantLs",
+          "description": "Exposing hypocrisy, one day at a time. | DM submissions | Partner @Kalshi",
+          "followers_count": 1712174,
+          "friends_count": 183,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4155,
+          "favorite_count": 10883,
+          "reply_count": 521,
+          "quote_count": 390
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235399542,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4069,
+        "favorite_count": 23173,
+        "reply_count": 1726,
+        "quote_count": 167
+      }
+    },
+    {
+      "id": "2027077873383997508",
+      "text": "💯",
+      "created_at": "Thu Feb 26 17:46:40 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027043615378202826",
+        "text": "Forcing senators to talk during the filibuster is literally how the filibuster is supposed to work.\nRepublicans either don’t want to sit through another 25 hour speech by Cory Booker or are being paid off by lobbyists. Either way, they’re betraying us for personal gain or comfort",
+        "created_at": "Thu Feb 26 15:30:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "37190937",
+          "name": "The Redheaded libertarian",
+          "screen_name": "TRHLofficial",
+          "description": "HOST @SpacesXJosie @Timcast • 1776 Autodidact • “We’ll keep you :)” -CK • Catholic • America Only • Do No Harm But Take No Sh*t • Baby Machine",
+          "followers_count": 919424,
+          "friends_count": 1893,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1178,
+          "favorite_count": 5305,
+          "reply_count": 269,
+          "quote_count": 47
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235399542,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1617,
+        "favorite_count": 11760,
+        "reply_count": 792,
+        "quote_count": 35
+      }
+    },
+    {
+      "id": "2027077540360446179",
+      "text": "RT @MattFinkes: I’ll say it again, when there’s a piece of legislation that 80% of America agrees on and the leader of the senate is trying…",
+      "created_at": "Thu Feb 26 17:45:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027009145774153912",
+        "text": "I’ll say it again, when there’s a piece of legislation that 80% of America agrees on and the leader of the senate is trying to tell you that he can’t get the majority party(95% of whom approve) to solidify 50 votes, you aren’t being represented, you are being ruled.",
+        "created_at": "Thu Feb 26 13:13:35 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026913230992429237",
+          "text": "Ask yourself one question. \n\nWhy would the majority leader, \n\nNot try everything in his power to pass a 95% issue in his party?\n\nhttps://t.co/k8KssCX8tH",
+          "created_at": "Thu Feb 26 06:52:27 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2026757057093783552",
+              "url": "https://video.twimg.com/amplify_video/2026757057093783552/vid/avc1/858x482/kCDx46h8VWJoZ7Ba.mp4?tag=21",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1512105705184145415",
+            "name": "Dr Manhattva",
+            "screen_name": "Manhattva",
+            "description": "The Omniscient X Peacemaker of Enlightenment.",
+            "followers_count": 41870,
+            "friends_count": 2889,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2728,
+            "favorite_count": 13723,
+            "reply_count": 1766,
+            "quote_count": 347
+          }
+        },
+        "user": {
+          "id": "261994280",
+          "name": "Matt Finkes",
+          "screen_name": "MattFinkes",
+          "description": "#Buckeye for life and one of the Original Silver Bullets.",
+          "followers_count": 20510,
+          "friends_count": 564,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1016,
+          "favorite_count": 3893,
+          "reply_count": 299,
+          "quote_count": 57
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235399542,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1016,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027077132632113511",
+      "text": "RT @TaraServatius: Zohran Mamdani last week: We're broke and we're  gonna need to raise your property taxes 10%\n\nZohran Mamdani &amp; AOC this…",
+      "created_at": "Thu Feb 26 17:43:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026821402263687441",
+        "text": "Zohran Mamdani last week: We're broke and we're  gonna need to raise your property taxes 10%\n\nZohran Mamdani &amp; AOC this week:  We're offering free daycare for illegals. Here's how you sign up.",
+        "created_at": "Thu Feb 26 00:47:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026397322079273221",
+          "text": "Zohran Mamdani and AOC just put out a video promoting FREE DAYCARE for illegal aliens... completely in Spanish.\n\nDemocrats are taking Americans' money and spending it on foreign invaders.\n\nhttps://t.co/JQmYmfd7Gy",
+          "created_at": "Tue Feb 24 20:42:24 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2026378543324598272",
+              "url": "https://video.twimg.com/amplify_video/2026378543324598272/vid/avc1/1548x888/44QHBQNQCE8kUUym.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1326229737551912960",
+            "name": "Libs of TikTok",
+            "screen_name": "libsoftiktok",
+            "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+            "followers_count": 4663061,
+            "friends_count": 1055,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 17970,
+            "favorite_count": 55444,
+            "reply_count": 4305,
+            "quote_count": 1485
+          }
+        },
+        "user": {
+          "id": "256693327",
+          "name": "Tara Servatius",
+          "screen_name": "TaraServatius",
+          "description": "Host of The Tara Show, 6-10am, M-F, 98.9 WORD FM, The Voice of the Carolinas & N. Georgia. Born free. Determined to keep it that way. Wife, mom.",
+          "followers_count": 97120,
+          "friends_count": 43514,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3163,
+          "favorite_count": 12470,
+          "reply_count": 446,
+          "quote_count": 137
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235399542,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3163,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2027049265777070505",
       "text": "Absolutely. \n\nOtherwise, the filibuster will be killed immediately if Dems get the House, Senate and Presidency in 2029. \n\nThey already tried to do it and were stopped by Manchin &amp; Sinema, who were then kicked out of the Dem party.",
@@ -5113,6 +5642,55 @@
       "stats": {
         "retweet_count": 1,
         "favorite_count": 22,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026451165995552907",
+      "text": "对，有课件就可以用 AI 辅助自学\nhttps://t.co/ns5xLBrM0H",
+      "created_at": "Wed Feb 25 00:16:22 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026450299553198427",
+        "text": "其实有大纲有ppt有参考资料，虽然没有讲课视频，已经足够让AI自己重编一门课了，还可以直接用中文讲。\n简单的话，就是把每周的资料塞进notebookLM，生成视频概览。精致一些的话，要不然让deep research写教案也行。",
+        "created_at": "Wed Feb 25 00:12:55 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "22107872",
+          "name": "goldengrape",
+          "screen_name": "goldengrape",
+          "description": "躲在世界的外面，愉快地张望，",
+          "followers_count": 13859,
+          "friends_count": 243,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 25,
+          "reply_count": 1,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 187189,
+        "friends_count": 1556,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
         "reply_count": 1,
         "quote_count": 0
       }
