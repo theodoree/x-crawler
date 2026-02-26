@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 187189,
+    "followers_count": 187198,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260226",
-  "last_updated": "2026-02-26T18:16:53.393821",
-  "tweet_count": 1,
+  "last_updated": "2026-02-26T20:12:17.621601",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2026892941189390340",
@@ -75,6 +75,45 @@
       "quoted": null,
       "stats": {
         "retweet_count": 11,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027114202930844020",
+      "text": "RT @geekplux: 《一代人的博客，一代人的青春注脚》\n\nhttps://t.co/1EI6y3KtTd\n\n今天感慨良多，遂写了篇小文。\n顺手 @xleaps 和 @pongba 两位低调的大佬。",
+      "created_at": "Thu Feb 26 20:11:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2026520082453512249",
+        "text": "《一代人的博客，一代人的青春注脚》\n\nhttps://t.co/1EI6y3KtTd\n\n今天感慨良多，遂写了篇小文。\n顺手 @xleaps 和 @pongba 两位低调的大佬。",
+        "created_at": "Wed Feb 25 04:50:13 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "561612944",
+          "name": "GeekPlux",
+          "screen_name": "geekplux",
+          "description": "唱跳 Vibe 网球🎾推上分享生活。🇨🇳🇭🇰🇺🇸\nTG 日记 https://t.co/c6io6eldEM ，播客闲聊🎙️ @beyondcodefm ，🤪 EN @geekplux_en",
+          "followers_count": 24334,
+          "friends_count": 617,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 55,
+          "reply_count": 7,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 4,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
