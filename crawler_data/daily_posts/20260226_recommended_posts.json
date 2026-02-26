@@ -1,12 +1,528 @@
 {
   "date": "20260226",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-26T08:15:35.901773",
-  "tweet_count": 222,
-  "unique_tweet_count": 222,
-  "total_crawled": 419,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-02-26T10:18:33.259597",
+  "tweet_count": 231,
+  "unique_tweet_count": 231,
+  "total_crawled": 422,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2026945014237159831",
+      "text": "RT @dvorahfr: Baby mermaid by grok Imagine https://t.co/7OyK4e86Pu",
+      "created_at": "Thu Feb 26 08:58:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2026940923251163137",
+          "url": "https://video.twimg.com/ext_tw_video/2026940923251163137/pu/vid/avc1/1072x720/2GGaVzxjcb3fLZ90.mp4?tag=19",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2026940948102381590",
+        "text": "Baby mermaid by grok Imagine https://t.co/7OyK4e86Pu",
+        "created_at": "Thu Feb 26 08:42:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026940923251163137",
+            "url": "https://video.twimg.com/ext_tw_video/2026940923251163137/pu/vid/avc1/1072x720/2GGaVzxjcb3fLZ90.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 116190,
+          "friends_count": 3457,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 177,
+          "favorite_count": 988,
+          "reply_count": 291,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235370916,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 177,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026943489775415687",
+      "text": "RT @damienslash: That conversation with your left wing friend but they're actually honest with you https://t.co/oSVSWsnxCr",
+      "created_at": "Thu Feb 26 08:52:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2026737088184381441",
+          "url": "https://video.twimg.com/ext_tw_video/2026737088184381441/pu/vid/avc1/720x1280/K2sNtkqHc8wicxYE.mp4?tag=19",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2026737142626414718",
+        "text": "That conversation with your left wing friend but they're actually honest with you https://t.co/oSVSWsnxCr",
+        "created_at": "Wed Feb 25 19:12:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026737088184381441",
+            "url": "https://video.twimg.com/ext_tw_video/2026737088184381441/pu/vid/avc1/720x1280/K2sNtkqHc8wicxYE.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "391311108",
+          "name": "Damien Slash",
+          "screen_name": "damienslash",
+          "description": "Parody & Satire. Comedian/Level 9000 troll.  Poe's Law. 🐸 Featured by Fox News, Sky News, Daily Wire, MSNBC, ABC",
+          "followers_count": 51422,
+          "friends_count": 550,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1368,
+          "favorite_count": 7346,
+          "reply_count": 249,
+          "quote_count": 98
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235370916,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1368,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026942204170940504",
+      "text": "Much tunneling",
+      "created_at": "Thu Feb 26 08:47:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026940631667613924",
+        "text": "The Boring Company is officially tunneling in 3 states simultaneously today: Nevada, Texas, and Tennessee\n\nand doing it for ~99% less compared to traditional tunneling\n\n→ Nevada: Scaling the massive Vegas EV Loop  \n→ Tennessee: Nashville Music City Loop just broke ground  \n→ Texas: Prufrock manufacturing & Giga Texas tunnels\n\nThe Boring Company just pulls up a Prufrock and starts digging",
+        "created_at": "Thu Feb 26 08:41:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026939668433096704",
+            "url": "https://video.twimg.com/amplify_video/2026939668433096704/vid/avc1/640x360/CbsAqTYa2XXouJ6z.mp4?tag=21",
+            "bitrate": 832000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 157432,
+          "friends_count": 1613,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 123,
+          "favorite_count": 904,
+          "reply_count": 175,
+          "quote_count": 22
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235370916,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1072,
+        "favorite_count": 8969,
+        "reply_count": 1155,
+        "quote_count": 44
+      }
+    },
+    {
+      "id": "2026941537003995224",
+      "text": "RT @dvorahfr: Understand the Universe with xAI \n\nGrok Imagine. https://t.co/s71TMfKA8j",
+      "created_at": "Thu Feb 26 08:44:55 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2026881310430515200",
+          "url": "https://video.twimg.com/ext_tw_video/2026881310430515200/pu/vid/avc1/720x720/npsdvuzzhG7EDn2P.mp4?tag=19",
+          "bitrate": 1280000
+        }
+      ],
+      "retweet": {
+        "id": "2026881332450673108",
+        "text": "Understand the Universe with xAI \n\nGrok Imagine. https://t.co/s71TMfKA8j",
+        "created_at": "Thu Feb 26 04:45:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026881310430515200",
+            "url": "https://video.twimg.com/ext_tw_video/2026881310430515200/pu/vid/avc1/720x720/npsdvuzzhG7EDn2P.mp4?tag=19",
+            "bitrate": 1280000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 116190,
+          "friends_count": 3457,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 138,
+          "favorite_count": 738,
+          "reply_count": 156,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235370916,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 138,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2026941378438250550",
+      "text": "Good question",
+      "created_at": "Thu Feb 26 08:44:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026913230992429237",
+        "text": "Ask yourself one question. \n\nWhy would the majority leader, \n\nNot try everything in his power to pass a 95% issue in his party?\n\nhttps://t.co/k8KssCX8tH",
+        "created_at": "Thu Feb 26 06:52:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026757057093783552",
+            "url": "https://video.twimg.com/amplify_video/2026757057093783552/vid/avc1/858x482/kCDx46h8VWJoZ7Ba.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1512105705184145415",
+          "name": "Dr Manhattva",
+          "screen_name": "Manhattva",
+          "description": "The Omniscient X Peacemaker of Enlightenment.",
+          "followers_count": 41414,
+          "friends_count": 2889,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 323,
+          "favorite_count": 1822,
+          "reply_count": 268,
+          "quote_count": 38
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235370916,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2431,
+        "favorite_count": 14705,
+        "reply_count": 1232,
+        "quote_count": 74
+      }
+    },
+    {
+      "id": "2026940589422555269",
+      "text": "The hecklers are guilty of high treason",
+      "created_at": "Thu Feb 26 08:41:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026927715027144778",
+        "text": "Rupert Lowe asks \"What about the human rights of the British people not to be raped, stabbed or killed by foreigners who should never have been in our country to begin with\"\n\nOTHER MP'S ARE OUTRAGED AND HECKLE HIM\n\nWhat the f*ck is going on? https://t.co/96csuWET8J",
+        "created_at": "Thu Feb 26 07:50:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026927075211235328",
+            "url": "https://video.twimg.com/amplify_video/2026927075211235328/vid/avc1/1920x1080/o5nbtHm4FCW5E_EI.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1722014154322575360",
+          "name": "Basil the Great",
+          "screen_name": "BasilTheGreat",
+          "description": "--//-- Restore Britain --//--\n\nDM for submissions/credit/deletion",
+          "followers_count": 287234,
+          "friends_count": 5021,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1748,
+          "favorite_count": 9651,
+          "reply_count": 331,
+          "quote_count": 69
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235370916,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4341,
+        "favorite_count": 28525,
+        "reply_count": 1169,
+        "quote_count": 72
+      }
+    },
+    {
+      "id": "2026940300351123872",
+      "text": "Hmm",
+      "created_at": "Thu Feb 26 08:40:00 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026890969640014187",
+        "text": "Funny how that works. https://t.co/i3Y6zcChbf",
+        "created_at": "Thu Feb 26 05:23:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026890961800867841",
+            "url": "https://pbs.twimg.com/media/HCD2l0CXMAErAFi.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1342174584594960384",
+          "name": "iamyesyouareno",
+          "screen_name": "iamyesyouareno",
+          "description": "everything you need to know.",
+          "followers_count": 483371,
+          "friends_count": 804,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 862,
+          "favorite_count": 7880,
+          "reply_count": 774,
+          "quote_count": 195
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235370916,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4402,
+        "favorite_count": 55646,
+        "reply_count": 5965,
+        "quote_count": 763
+      }
+    },
+    {
+      "id": "2026937670279282826",
+      "text": "Tunnels are so underrated",
+      "created_at": "Thu Feb 26 08:29:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026886691689214084",
+        "text": "The real story is the $25 million per mile price tag they’re betting on.\n\nNashville’s own 2018 light rail plan priced at $200 million per mile. New York’s East Side Access cost $3.5 billion per mile. The LA Metro expansion is running $1 billion per mile. The Boring Company says it can build 13 miles of twin tunnels through Nashville for $240-300 million total.\n\nThat’s a 95% cost reduction from the industry average. If the number holds, it rewrites the economics of every transit project in America. If it doesn’t, a few hundred million in private capital evaporates and taxpayers lose nothing. That risk asymmetry explains why Tennessee said yes when LA, Chicago, Baltimore, and DC all said no.\n\nThe engineering gamble is wild. 12-foot diameter tunnels instead of 28-foot. Fully electric Prufrock machines that mine continuously instead of stopping every 5 feet to install lining segments. Zero people in the tunnel during operations. A machine that “porpoises” into the ground from a truck instead of requiring million-dollar launch pits and cranes.\n\nEvery one of those innovations has worked in Las Vegas sand. None have been tested in karst limestone, the geology that creates sinkholes, caves, and underground streams. Their own CEO said at the unveiling that Nashville would not be their choice if they were optimizing for easiest places to tunnel.\n\nThis tells you everything about what The Boring Company is actually trying to prove. Nashville is where the thesis meets the hardest possible geology. 50 inches of annual rainfall versus Vegas’s 4. Rock that creates underground caves and streams. They just signed a construction contract in Dubai too, meaning they need Nashville to work before the next project launches.\n\nThe internal memo from the governor’s office estimates 1 mile per month. The Boring Company’s website claims 1 mile per week. That 4x gap between political planning and corporate marketing will determine whether this finishes in 2027 or 2030.\n\nWeek 7, when Prufrock-MB2 arrives, is when this gets real. Two machines boring simultaneously through Tennessee limestone will answer the question the entire tunneling industry has been debating for a decade: whether a startup can actually outrun the physics that made infrastructure the slowest-moving sector in construction.",
+        "created_at": "Thu Feb 26 05:06:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "101805159",
+          "name": "Aakash Gupta",
+          "screen_name": "aakashgupta",
+          "description": "✍️ https://t.co/8fvSCtAXgi: $61K/m\n🤝 https://t.co/SqC3jTyhav: $32K/m\n🎙️ https://t.co/fmB6Zf5n9X: $21K/m\n💼 https://t.co/STzr4npZxO: $16K/m",
+          "followers_count": 188321,
+          "friends_count": 758,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 107,
+          "favorite_count": 995,
+          "reply_count": 106,
+          "quote_count": 20
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235370916,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 635,
+        "favorite_count": 6081,
+        "reply_count": 937,
+        "quote_count": 37
+      }
+    },
+    {
+      "id": "2026936805342458290",
+      "text": "They’re being taught to hate America",
+      "created_at": "Thu Feb 26 08:26:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026705884135498079",
+        "text": "In the span of just one generation Democrats went from having pride in America at basically the same level as Republicans to now only 1/3 of Democrats feel that way. \n\nRepublican numbers have held.\n\nWhat’s going on here? https://t.co/o1HYBe9PGv",
+        "created_at": "Wed Feb 25 17:08:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026705879832117248",
+            "url": "https://pbs.twimg.com/media/HCBOQn-WwAAaNwK.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "101852818",
+          "name": "Eric Schmitt",
+          "screen_name": "Eric_Schmitt",
+          "description": "Husband • Dad • United States Senator for Missouri • Diehard #STLCards fan",
+          "followers_count": 253423,
+          "friends_count": 2893,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 254,
+          "favorite_count": 1266,
+          "reply_count": 306,
+          "quote_count": 49
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235370916,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2075,
+        "favorite_count": 14174,
+        "reply_count": 1883,
+        "quote_count": 100
+      }
+    },
     {
       "id": "2026931824895865204",
       "text": "Yes",
