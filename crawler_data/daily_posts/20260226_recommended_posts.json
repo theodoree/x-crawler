@@ -1,12 +1,91 @@
 {
   "date": "20260226",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-26T04:36:54.812276",
-  "tweet_count": 218,
-  "unique_tweet_count": 218,
+  "last_crawl_time": "2026-02-26T06:22:58.230951",
+  "tweet_count": 219,
+  "unique_tweet_count": 219,
   "total_crawled": 418,
-  "duplicates_removed": 200,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2026892941189390340",
+      "text": "RT @goocarlos: Honored that @Forbes shared our story today. Thank you to @annatonger for spending the time to understand Dify’s journey and…",
+      "created_at": "Thu Feb 26 05:31:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2026536744263495948",
+        "text": "Honored that @Forbes shared our story today. Thank you to @annatonger for spending the time to understand Dify’s journey and where we’re headed next!",
+        "created_at": "Wed Feb 25 05:56:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026290392426316274",
+          "text": "Luyu Zhang is part of a new wave of Chinese founders who are building at home but betting their companies in America.\n\nRead the full story:\nhttps://t.co/bV5P6ldxOK (Photo: Dify) https://t.co/dQCyv5Qde1",
+          "created_at": "Tue Feb 24 13:37:30 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2026290387900592128",
+              "url": "https://pbs.twimg.com/media/HB7UXz6acAAkUlx.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "91478624",
+            "name": "Forbes",
+            "screen_name": "Forbes",
+            "description": "Sign up now for Forbes' free daily newsletter for unmatched insights and exclusive reporting: https://t.co/v3UAa9BzAT",
+            "followers_count": 20290033,
+            "friends_count": 4612,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 39,
+            "favorite_count": 195,
+            "reply_count": 17,
+            "quote_count": 14
+          }
+        },
+        "user": {
+          "id": "14046502",
+          "name": "Luyu Zhang",
+          "screen_name": "goocarlos",
+          "description": "CEO&Founder of @dify_ai",
+          "followers_count": 22677,
+          "friends_count": 902,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 11,
+          "favorite_count": 65,
+          "reply_count": 12,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 187016,
+        "friends_count": 1556,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2026843723192217767",
       "text": "RT @WesternLensman: Chuck Schumer is asked what kind of “immigration deal” he’d like to pursue in the Senate.\n\nThe main feature:\n\n“A path t…",
