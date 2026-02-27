@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 187699,
+    "followers_count": 187741,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260227",
-  "last_updated": "2026-02-27T16:12:51.266594",
-  "tweet_count": 3,
+  "last_updated": "2026-02-27T18:12:46.652537",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2027202554330050994",
@@ -85,6 +85,45 @@
         "favorite_count": 8,
         "reply_count": 1,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2027423354601296249",
+      "text": "程序员更是如此好么😂\n用爱发电贡献开源代码让 AI 训练\n为 AI 做各种 Agent 写各种 Skills\n生怕 AI 不能取代自己",
+      "created_at": "Fri Feb 27 16:39:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027183502345809967",
+        "text": "今天，数学脑朋友悲伤得跟我说，Peter Thiel说了AI彻底把数学脑在过去这几十年获取“超额收益”的局面给打破了\n\n数学脑们卷来卷去，卷出来个AI，然后把自己给干废了",
+        "created_at": "Fri Feb 27 00:46:24 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1597654998971604992",
+          "name": "金融汪",
+          "screen_name": "yuyy614893671",
+          "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+          "followers_count": 65470,
+          "friends_count": 531,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 19,
+          "favorite_count": 221,
+          "reply_count": 32,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 15,
+        "reply_count": 7,
+        "quote_count": 1
       }
     }
   ]

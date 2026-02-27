@@ -1,12 +1,145 @@
 {
   "date": "20260227",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-27T16:12:51.206704",
-  "tweet_count": 226,
-  "unique_tweet_count": 226,
+  "last_crawl_time": "2026-02-27T18:12:46.592530",
+  "tweet_count": 228,
+  "unique_tweet_count": 228,
   "total_crawled": 426,
-  "duplicates_removed": 200,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2027439623786664221",
+      "text": "RT @IterIntellectus: dostoevsky said if you gave people everything they wanted, cakes, entertainment and nothing to worry about except the…",
+      "created_at": "Fri Feb 27 17:44:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027327343283380583",
+        "text": "dostoevsky said if you gave people everything they wanted, cakes, entertainment and nothing to worry about except the continuation of the species, they’d start breaking things out of boredom\n\nhe was right\n\nwe got comfortable enough that people started manufacturing their own suffering and building identities around the invented problem, to the point where mutilation is seen as healthcare. \nbecause a life without struggle felt like a life without meaning. \nthe idea of being broken gave them something to solve and someone to fight, an identity and a sense of community \n\nbut, once the problem gets “solved” nothing changes, obviously. the emptiness was there before the “problem” (it’s always there), and it’ll be there after. the cause of the problem is never fixed\n\nthese people never wanted to be fixed, they wanted to feel special",
+        "created_at": "Fri Feb 27 10:17:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026914106771411429",
+          "text": "This ‘trans man’ is depressed because nobody notices her or makes a fuss over her ‘transness’.\n‘We just want to live our lives’ means ‘give us constant validation and attention’ https://t.co/gWVdirGMDu",
+          "created_at": "Thu Feb 26 06:55:55 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2026914099242651648",
+              "url": "https://pbs.twimg.com/media/HCELoluW0AAyMjt.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2026914099129397249",
+              "url": "https://pbs.twimg.com/media/HCELolTWsAEj7Vw.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1463122003737600008",
+            "name": "Will Harley 🇧🇪🇬🇧",
+            "screen_name": "Hardley76",
+            "description": "Adult human male. Lawyer BE/UK. Linguist. Mancunian. Bruxellois.",
+            "followers_count": 2629,
+            "friends_count": 2278,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 355,
+            "favorite_count": 5972,
+            "reply_count": 414,
+            "quote_count": 182
+          }
+        },
+        "user": {
+          "id": "1655936149733654530",
+          "name": "vittorio",
+          "screen_name": "IterIntellectus",
+          "description": "practice expert\n\n“unique online personality”\n\nformer TPOT thinker (exiled)\n\nprofessional shitpoaster @SpaceX\n\ndon't take me seriously",
+          "followers_count": 171659,
+          "friends_count": 2327,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1515,
+          "favorite_count": 12267,
+          "reply_count": 346,
+          "quote_count": 60
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235470735,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1515,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027423354601296249",
+      "text": "程序员更是如此好么😂\n用爱发电贡献开源代码让 AI 训练\n为 AI 做各种 Agent 写各种 Skills\n生怕 AI 不能取代自己",
+      "created_at": "Fri Feb 27 16:39:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027183502345809967",
+        "text": "今天，数学脑朋友悲伤得跟我说，Peter Thiel说了AI彻底把数学脑在过去这几十年获取“超额收益”的局面给打破了\n\n数学脑们卷来卷去，卷出来个AI，然后把自己给干废了",
+        "created_at": "Fri Feb 27 00:46:24 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1597654998971604992",
+          "name": "金融汪",
+          "screen_name": "yuyy614893671",
+          "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+          "followers_count": 65470,
+          "friends_count": 531,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 19,
+          "favorite_count": 221,
+          "reply_count": 32,
+          "quote_count": 5
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 187741,
+        "friends_count": 1557,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 15,
+        "reply_count": 7,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2027382409776570546",
       "text": "RT @SpaceX: Deployment of 29 @Starlink satellites confirmed",

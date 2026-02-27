@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235461817,
+    "followers_count": 235470735,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260227",
-  "last_updated": "2026-02-27T16:12:51.239057",
-  "tweet_count": 23,
+  "last_updated": "2026-02-27T18:12:46.624980",
+  "tweet_count": 24,
   "tweets": [
     {
       "id": "2027189961548828708",
@@ -1187,6 +1187,80 @@
       "quoted": null,
       "stats": {
         "retweet_count": 196,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027439623786664221",
+      "text": "RT @IterIntellectus: dostoevsky said if you gave people everything they wanted, cakes, entertainment and nothing to worry about except the…",
+      "created_at": "Fri Feb 27 17:44:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027327343283380583",
+        "text": "dostoevsky said if you gave people everything they wanted, cakes, entertainment and nothing to worry about except the continuation of the species, they’d start breaking things out of boredom\n\nhe was right\n\nwe got comfortable enough that people started manufacturing their own suffering and building identities around the invented problem, to the point where mutilation is seen as healthcare. \nbecause a life without struggle felt like a life without meaning. \nthe idea of being broken gave them something to solve and someone to fight, an identity and a sense of community \n\nbut, once the problem gets “solved” nothing changes, obviously. the emptiness was there before the “problem” (it’s always there), and it’ll be there after. the cause of the problem is never fixed\n\nthese people never wanted to be fixed, they wanted to feel special",
+        "created_at": "Fri Feb 27 10:17:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026914106771411429",
+          "text": "This ‘trans man’ is depressed because nobody notices her or makes a fuss over her ‘transness’.\n‘We just want to live our lives’ means ‘give us constant validation and attention’ https://t.co/gWVdirGMDu",
+          "created_at": "Thu Feb 26 06:55:55 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2026914099242651648",
+              "url": "https://pbs.twimg.com/media/HCELoluW0AAyMjt.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2026914099129397249",
+              "url": "https://pbs.twimg.com/media/HCELolTWsAEj7Vw.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1463122003737600008",
+            "name": "Will Harley 🇧🇪🇬🇧",
+            "screen_name": "Hardley76",
+            "description": "Adult human male. Lawyer BE/UK. Linguist. Mancunian. Bruxellois.",
+            "followers_count": 2629,
+            "friends_count": 2278,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 355,
+            "favorite_count": 5972,
+            "reply_count": 414,
+            "quote_count": 182
+          }
+        },
+        "user": {
+          "id": "1655936149733654530",
+          "name": "vittorio",
+          "screen_name": "IterIntellectus",
+          "description": "practice expert\n\n“unique online personality”\n\nformer TPOT thinker (exiled)\n\nprofessional shitpoaster @SpaceX\n\ndon't take me seriously",
+          "followers_count": 171659,
+          "friends_count": 2327,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1515,
+          "favorite_count": 12267,
+          "reply_count": 346,
+          "quote_count": 60
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1515,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
