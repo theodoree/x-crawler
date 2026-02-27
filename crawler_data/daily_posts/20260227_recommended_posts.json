@@ -1,12 +1,501 @@
 {
   "date": "20260227",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-27T08:13:47.553401",
-  "tweet_count": 213,
-  "unique_tweet_count": 213,
-  "total_crawled": 405,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-02-27T10:14:29.474639",
+  "tweet_count": 220,
+  "unique_tweet_count": 220,
+  "total_crawled": 413,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2027306848236487031",
+      "text": "RT @SpaceX: The first Starship V3 has left the build site to begin prelaunch testing https://t.co/DMZVMuRQVl",
+      "created_at": "Fri Feb 27 08:56:32 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027143139170148352",
+          "url": "https://pbs.twimg.com/media/HCHb8d8bYAAykux.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2027143274775908352",
+          "url": "https://pbs.twimg.com/media/HCHcEXHXEAA8cqm.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2027143307890176000",
+          "url": "https://pbs.twimg.com/media/HCHcGSeasAAOM2_.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2027143337233305600",
+          "url": "https://pbs.twimg.com/media/HCHcH_yXUAAEfap.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2027143801949618205",
+        "text": "The first Starship V3 has left the build site to begin prelaunch testing https://t.co/DMZVMuRQVl",
+        "created_at": "Thu Feb 26 22:08:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027143139170148352",
+            "url": "https://pbs.twimg.com/media/HCHb8d8bYAAykux.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027143274775908352",
+            "url": "https://pbs.twimg.com/media/HCHcEXHXEAA8cqm.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027143307890176000",
+            "url": "https://pbs.twimg.com/media/HCHcGSeasAAOM2_.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027143337233305600",
+            "url": "https://pbs.twimg.com/media/HCHcH_yXUAAEfap.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41096420,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2481,
+          "favorite_count": 16265,
+          "reply_count": 1067,
+          "quote_count": 355
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235442005,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2481,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027306160412664049",
+      "text": "RT @mitchdeg: 'Tesla and SpaceX are the 2 most exciting companies in the world' @elonmusk \n\nYep, and that's why I'm thrilled to spend a ver…",
+      "created_at": "Fri Feb 27 08:53:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027244799368056880",
+        "text": "'Tesla and SpaceX are the 2 most exciting companies in the world' @elonmusk \n\nYep, and that's why I'm thrilled to spend a very significant amount of time, on a daily basis, studying their progress to push humanity forward.\n\nMuch more than just an investment with potentially huge rewards, it's first and foremost a source of intellectual thrill.\n\nThe Tesla model, and everything Elon Musk is trying to accomplish, isn't easy to grasp, and it's clearly not the superficial, sloppy, and biased work of these incompetent journalists that's unfortunately going to open the public's eyes.\n\nThat's a shame... what a pity!",
+        "created_at": "Fri Feb 27 04:49:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2027145743933292864",
+          "text": "I had the pleasure to speak with Elon last week on the future of Giga Berlin. Great conversation!",
+          "created_at": "Thu Feb 26 22:16:22 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1283514442337128454",
+            "name": "André Thierig",
+            "screen_name": "AndrThie",
+            "description": "Giga Berlin",
+            "followers_count": 9669,
+            "friends_count": 61,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 363,
+            "favorite_count": 2845,
+            "reply_count": 188,
+            "quote_count": 16
+          }
+        },
+        "user": {
+          "id": "55762792",
+          "name": "Michel de Guilhermier",
+          "screen_name": "mitchdeg",
+          "description": "Entrepreneur, Investor, Mentor, Hiker, Swimmer, Diver, Wildlife photographer. AI, Humanoid Robotics & Car Autonomy. #Tesla #Palantir #Nvidia",
+          "followers_count": 16341,
+          "friends_count": 311,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 142,
+          "favorite_count": 760,
+          "reply_count": 119,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235442005,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 142,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027305144074064082",
+      "text": "RT @TRobinsonNewEra: They are legalising the rape of europes women https://t.co/OcmAboYw5a",
+      "created_at": "Fri Feb 27 08:49:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2027121159058108416",
+          "url": "https://video.twimg.com/amplify_video/2027121159058108416/vid/avc1/1080x1920/dB7DsMVPdBB-V4fC.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2027121567231013011",
+        "text": "They are legalising the rape of europes women https://t.co/OcmAboYw5a",
+        "created_at": "Thu Feb 26 20:40:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2027121159058108416",
+            "url": "https://video.twimg.com/amplify_video/2027121159058108416/vid/avc1/1080x1920/dB7DsMVPdBB-V4fC.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2027072838515949590",
+          "text": "🇪🇸 In Spain, a Senegalese migrant who raped a 14-year-old girl will pay a fine instead of going to prison.\n\nA 26-year-old migrant raped a girl he met on Instagram.\n\nDespite the migrant admitting in court that he had raped her, he was just sentenced to 60 days of community service and a €7500 fine.\n\nThe prosecution initially demanded 9 years in prison, but the migrant was saved by a plea deal",
+          "created_at": "Thu Feb 26 17:26:40 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2027070867272876033",
+              "url": "https://pbs.twimg.com/media/HCGaNsJXwAEQ3bF.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1222773302441148416",
+            "name": "Visegrád 24",
+            "screen_name": "visegrad24",
+            "description": "Aggregating and curating news, politics and current affairs.",
+            "followers_count": 1641262,
+            "friends_count": 2255,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 1094,
+            "favorite_count": 3576,
+            "reply_count": 393,
+            "quote_count": 134
+          }
+        },
+        "user": {
+          "id": "374712154",
+          "name": "Tommy Robinson 🇬🇧",
+          "screen_name": "TRobinsonNewEra",
+          "description": "Journalist Support us: https://t.co/IBf12EjvdO My books: https://t.co/deh3pH9EEk for direct contact https://t.co/zOcM3ad9DX",
+          "followers_count": 1906125,
+          "friends_count": 12961,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3424,
+          "favorite_count": 11721,
+          "reply_count": 477,
+          "quote_count": 76
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235442005,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3424,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027299997621096854",
+      "text": "RT @TheCaptainEli: Just stood 10 meters (~33 feet) from Starship today in Boca Chica. Heat tiles, flaps, the full stainless steel monster t…",
+      "created_at": "Fri Feb 27 08:29:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027289457989177574",
+        "text": "Just stood 10 meters (~33 feet) from Starship today in Boca Chica. Heat tiles, flaps, the full stainless steel monster towering right there — insanely close.\n\nNo other place on Earth lets the public get this close to real, operational spacecraft.\nElon’s companies just do things differently. \n\nOpen. Bold. Accessible.\n\nThis is how you inspire the world — and especially the next generation. 🚀",
+        "created_at": "Fri Feb 27 07:47:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027289452196814848",
+            "url": "https://pbs.twimg.com/media/HCJhBAcWYAAzf7P.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1265526183137067010",
+          "name": "Captain Eli",
+          "screen_name": "TheCaptainEli",
+          "description": "Tesla investor. here to support Elon Musk!           https://t.co/tMNK7QdlVi",
+          "followers_count": 22594,
+          "friends_count": 510,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 313,
+          "favorite_count": 1830,
+          "reply_count": 264,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235442005,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 313,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027298438401179878",
+      "text": "Only get better from here",
+      "created_at": "Fri Feb 27 08:23:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027185555637784659",
+        "text": "Ahahahaha. Elon fucking cooked up self driving and still most don’t believe it’s real. I love this shit. I thought it was trash 2 years ago but now I’m sitting here laughing, shaking my head daily. \n\nThat crazy son of a bitch did it, man. \n\nJust got through the DC gauntlet. Still haven’t touched the steering wheel or pedals today. Started in Raleigh. Multiple downpours, daytime, night time. Doesn’t matter. \n\nIt just cooks through everything",
+        "created_at": "Fri Feb 27 00:54:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "481812746",
+          "name": "Mike P",
+          "screen_name": "mikepat711",
+          "description": "We have fun here",
+          "followers_count": 17159,
+          "friends_count": 3256,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 181,
+          "favorite_count": 3470,
+          "reply_count": 236,
+          "quote_count": 24
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235442005,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 898,
+        "favorite_count": 10635,
+        "reply_count": 1392,
+        "quote_count": 51
+      }
+    },
+    {
+      "id": "2027297630943121561",
+      "text": "RT @Not_the_Bee: Now imagine if they actually reported all of them instead of the authorities joining in.",
+      "created_at": "Fri Feb 27 08:19:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027256292461486083",
+        "text": "Now imagine if they actually reported all of them instead of the authorities joining in.",
+        "created_at": "Fri Feb 27 05:35:39 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2027061079835046034",
+          "text": "The Rape of England\n\nThe amount of rape in England has quadrupled in about 10 years. Now the highest in the western world, about 100 times worse per 100,000 people than Poland\n\nWhat changed? https://t.co/8BFDxOsnHj",
+          "created_at": "Thu Feb 26 16:39:57 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2027061074374107136",
+              "url": "https://pbs.twimg.com/media/HCGRTqwXIAAWBex.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1237544283743432704",
+            "name": "sucks",
+            "screen_name": "powerbottomdad1",
+            "description": "power bottom dad is for the people",
+            "followers_count": 68994,
+            "friends_count": 5673,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 133,
+            "favorite_count": 902,
+            "reply_count": 82,
+            "quote_count": 41
+          }
+        },
+        "user": {
+          "id": "1299007622968901637",
+          "name": "Not the Bee",
+          "screen_name": "Not_the_Bee",
+          "description": "What a time to 🐝 alive.\n\nPersonal thoughts shared as posts or replies from this account are usually those of our CEO, @dandillondev",
+          "followers_count": 544017,
+          "friends_count": 535,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 277,
+          "favorite_count": 1216,
+          "reply_count": 107,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235442005,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 277,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027297171423510707",
+      "text": "RT @gemoscatelli: @zerohedge @grok explain Block business model like I'm a 90 yo illiterate grandma from Sicilia who runs a pizzeria",
+      "created_at": "Fri Feb 27 08:18:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027280844113514803",
+        "text": "@zerohedge @grok explain Block business model like I'm a 90 yo illiterate grandma from Sicilia who runs a pizzeria",
+        "created_at": "Fri Feb 27 07:13:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1264899552869527552",
+          "name": "Gerardo Moscatelli",
+          "screen_name": "gemoscatelli",
+          "description": "MITx Biology - MITx Data Science \nSciences Po Paris - Global Head Trader at LDC, CHS and Sodrugestvo",
+          "followers_count": 5205,
+          "friends_count": 1871,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 130,
+          "favorite_count": 635,
+          "reply_count": 75,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235442005,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 130,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2027295332426715348",
       "text": "RT @AndrThie: I had the pleasure to speak with Elon last week on the future of Giga Berlin. Great conversation!",
