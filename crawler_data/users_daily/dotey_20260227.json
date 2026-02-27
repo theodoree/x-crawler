@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 187756,
+    "followers_count": 187770,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260227",
-  "last_updated": "2026-02-27T20:08:53.170298",
-  "tweet_count": 4,
+  "last_updated": "2026-02-27T22:06:44.196041",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2027202554330050994",
@@ -123,6 +123,45 @@
         "retweet_count": 0,
         "favorite_count": 15,
         "reply_count": 7,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2027500382910615893",
+      "text": "Anthropic 和五角大楼这周彻底闹翻了。五角大楼要求 Claude 向军方开放所有合法用途，不设任何限制。\n\nAnthropic 拒绝了，坚持 AI 不能用于大规模监控美国公民，也不能用于全自主致命武器。\n\n五角大楼给了最后通牒，限今天下午 5:01 前答复，否则取消 2 亿美元合同，还威胁动用《国防生产法》，把 Anthropic 列为供应链风险。\n\nDario Amodei 公开回应：我们在良心上无法答应他们的要求。\n\nTrump 随后在 Truth Social 发帖，命令所有联邦机构立即停用 Anthropic 技术。\n\nSam Altman 今天也表态了。他给 OpenAI 全员发了内部备忘录：\n不管事情怎么走到这一步，这已经不只是 Anthropic 和五角大楼之间的问题了，这是整个行业的问题。我们一直认为 AI 不应被用于大规模监控或自主致命武器。这些是我们的主要红线。\n\nOpenAI 和 Google 的员工也联合签署了声援 Anthropic 的公开信。\n\nIlya Sutskever 对此发了一条推文，大意如下：\nAnthropic 没有退让，这非常好。OpenAI 采取了类似立场，这很有分量。未来还会有更多这种性质的挑战，而且会更严峻。到那时候，相关领导者必须挺身而出，激烈的竞争对手必须放下分歧。很高兴看到今天这一幕。",
+      "created_at": "Fri Feb 27 21:45:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027486969174102261",
+        "text": "It’s extremely good that Anthropic has not backed down, and it’s siginficant that OpenAI has taken a similar stance.\n\nIn the future, there will be much more challenging situations of this nature, and it will be critical for the relevant leaders to rise up to the occasion, for fierce competitors to put their differences aside.  Good to see that happen today.",
+        "created_at": "Fri Feb 27 20:52:16 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720046887",
+          "name": "Ilya Sutskever",
+          "screen_name": "ilyasut",
+          "description": "SSI @SSI",
+          "followers_count": 594835,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 694,
+          "favorite_count": 6586,
+          "reply_count": 324,
+          "quote_count": 113
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 25,
+        "reply_count": 3,
         "quote_count": 1
       }
     }

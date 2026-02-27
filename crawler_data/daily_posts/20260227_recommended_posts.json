@@ -1,12 +1,307 @@
 {
   "date": "20260227",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-27T20:08:53.115096",
-  "tweet_count": 228,
-  "unique_tweet_count": 228,
+  "last_crawl_time": "2026-02-27T22:06:44.136341",
+  "tweet_count": 233,
+  "unique_tweet_count": 233,
   "total_crawled": 428,
-  "duplicates_removed": 200,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2027504375019807032",
+      "text": "This is actually what is happening in Europe. \n\nUnconscionable evil.",
+      "created_at": "Fri Feb 27 22:01:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027477304675332583",
+        "text": "https://t.co/VY1gMoidhQ",
+        "created_at": "Fri Feb 27 20:13:52 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027477300418334720",
+            "url": "https://pbs.twimg.com/media/HCML3NmaUAA1kZq.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1761161502877200384",
+          "name": "Moongazer",
+          "screen_name": "joeybeastmarket",
+          "description": "world famous oystermaxxi. pioneer of the 6 egg method. steamed mussel expert. raw garlic purist. patriot. @miladycult guerrilla marketing. white for life",
+          "followers_count": 24510,
+          "friends_count": 511,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 509,
+          "favorite_count": 4934,
+          "reply_count": 23,
+          "quote_count": 4
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235484009,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 645,
+        "favorite_count": 3806,
+        "reply_count": 425,
+        "quote_count": 17
+      }
+    },
+    {
+      "id": "2027503391497429094",
+      "text": "RT @BasedMikeLee: These are the fruits of the Zombie Filibuster, highlighted in blue👇\n\nThe Senate’s unwavering devotion to the Zombie Filib…",
+      "created_at": "Fri Feb 27 21:57:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027400229402882130",
+        "text": "These are the fruits of the Zombie Filibuster, highlighted in blue👇\n\nThe Senate’s unwavering devotion to the Zombie Filibuster—and to the light-duty legislative schedule it facilitates—is what’s hindering the progress of the SAVE America Act\n\nMaintaining a light workweek for the convenience of senators isn’t a good reason not to do what it takes to pass a bill that 85% of Americans want\n\nBut make no mistake—that’s a big part of what we’re dealing with here\n\nWe don’t necessarily have to use the talking filibuster all of the time—or even most of the time—but we must be willing to use it when it’s necessary\n\nWith the SAVE America Act, it is very, very necessary\n\nAmplify this message if you agree",
+        "created_at": "Fri Feb 27 15:07:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027400225384464384",
+            "url": "https://pbs.twimg.com/media/HCLFw2uWgAAMURX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 661046,
+          "friends_count": 3782,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2862,
+          "favorite_count": 6314,
+          "reply_count": 524,
+          "quote_count": 184
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235484009,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2862,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027500382910615893",
+      "text": "Anthropic 和五角大楼这周彻底闹翻了。五角大楼要求 Claude 向军方开放所有合法用途，不设任何限制。\n\nAnthropic 拒绝了，坚持 AI 不能用于大规模监控美国公民，也不能用于全自主致命武器。\n\n五角大楼给了最后通牒，限今天下午 5:01 前答复，否则取消 2 亿美元合同，还威胁动用《国防生产法》，把 Anthropic 列为供应链风险。\n\nDario Amodei 公开回应：我们在良心上无法答应他们的要求。\n\nTrump 随后在 Truth Social 发帖，命令所有联邦机构立即停用 Anthropic 技术。\n\nSam Altman 今天也表态了。他给 OpenAI 全员发了内部备忘录：\n不管事情怎么走到这一步，这已经不只是 Anthropic 和五角大楼之间的问题了，这是整个行业的问题。我们一直认为 AI 不应被用于大规模监控或自主致命武器。这些是我们的主要红线。\n\nOpenAI 和 Google 的员工也联合签署了声援 Anthropic 的公开信。\n\nIlya Sutskever 对此发了一条推文，大意如下：\nAnthropic 没有退让，这非常好。OpenAI 采取了类似立场，这很有分量。未来还会有更多这种性质的挑战，而且会更严峻。到那时候，相关领导者必须挺身而出，激烈的竞争对手必须放下分歧。很高兴看到今天这一幕。",
+      "created_at": "Fri Feb 27 21:45:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027486969174102261",
+        "text": "It’s extremely good that Anthropic has not backed down, and it’s siginficant that OpenAI has taken a similar stance.\n\nIn the future, there will be much more challenging situations of this nature, and it will be critical for the relevant leaders to rise up to the occasion, for fierce competitors to put their differences aside.  Good to see that happen today.",
+        "created_at": "Fri Feb 27 20:52:16 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720046887",
+          "name": "Ilya Sutskever",
+          "screen_name": "ilyasut",
+          "description": "SSI @SSI",
+          "followers_count": 594835,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 694,
+          "favorite_count": 6586,
+          "reply_count": 324,
+          "quote_count": 113
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 187770,
+        "friends_count": 1557,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 25,
+        "reply_count": 3,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2027487681689894995",
+      "text": "RT @RubinReportShow: 🚨WOW: @TRobinsonNewEra reveals why he released his factual documentary knowing it meant jail — and why @elonmusk platf…",
+      "created_at": "Fri Feb 27 20:55:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027475011553165788",
+        "text": "🚨WOW: @TRobinsonNewEra reveals why he released his factual documentary knowing it meant jail — and why @elonmusk platforming him on @X made every second of solitary confinement worth it. 💪\n\n\"I went to jail and when I called home, my son was like 'Dad! Dad! Dad!' Elon Musk shared the film! and I was like YES\"",
+        "created_at": "Fri Feb 27 20:04:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2027473327586193408",
+            "url": "https://video.twimg.com/amplify_video/2027473327586193408/vid/avc1/1920x1080/lBzDOL7RRZ_5BREM.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1719029058002968576",
+          "name": "The Rubin Report",
+          "screen_name": "RubinReportShow",
+          "description": "The Rubin Report is hosted by Dave Rubin (@rubinreport) and is live every weekday at 11am ET on Rumble, YouTube, and Locals",
+          "followers_count": 40993,
+          "friends_count": 31,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 741,
+          "favorite_count": 3274,
+          "reply_count": 244,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235484009,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 741,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027487179451339172",
+      "text": "RT @SpaceX: SpaceX shares the same goal as NASA of returning to the Moon with a permanent presence as expeditiously and safely as possible.…",
+      "created_at": "Fri Feb 27 20:53:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027435344635773086",
+        "text": "SpaceX shares the same goal as NASA of returning to the Moon with a permanent presence as expeditiously and safely as possible. We look forward to working with NASA to fly missions that demonstrate valuable progress towards establishing a permanent, sustainable presence on the lunar surface. Frequent human exploration flights help establish a sustainable presence for humans in space.",
+        "created_at": "Fri Feb 27 17:27:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2027408590902841414",
+          "text": "President Trump gave the world the Artemis Program, and NASA and our partners have the plan to deliver. We will standardize architecture where possible, add missions and accelerate flight rate, execute in an evolutionary way, and safely return American astronauts to the Moon, this time to stay.\n\nThis is the NASA that once changed the world. This is the NASA that will do it again.",
+          "created_at": "Fri Feb 27 15:40:50 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2027407173400100864",
+              "url": "https://video.twimg.com/amplify_video/2027407173400100864/vid/avc1/3840x2160/92Xzy2anVaSlwrO0.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2000593641480605696",
+            "name": "NASA Administrator Jared Isaacman",
+            "screen_name": "NASAAdmin",
+            "description": "Serving President Donald J. Trump as the 15th @NASA Administrator | Leading the next Golden Age of space discovery 🚀",
+            "followers_count": 87046,
+            "friends_count": 44,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1056,
+            "favorite_count": 5893,
+            "reply_count": 461,
+            "quote_count": 207
+          }
+        },
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41103035,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 811,
+          "favorite_count": 5169,
+          "reply_count": 361,
+          "quote_count": 33
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235484009,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 811,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2027439623786664221",
       "text": "RT @IterIntellectus: dostoevsky said if you gave people everything they wanted, cakes, entertainment and nothing to worry about except the…",
