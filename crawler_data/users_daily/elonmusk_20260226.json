@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235412343,
+    "followers_count": 235418075,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260226",
-  "last_updated": "2026-02-26T22:09:07.378497",
-  "tweet_count": 50,
+  "last_updated": "2026-02-27T00:23:04.195035",
+  "tweet_count": 51,
   "tweets": [
     {
       "id": "2026815176939573403",
@@ -2362,6 +2362,66 @@
         "favorite_count": 9263,
         "reply_count": 1667,
         "quote_count": 68
+      }
+    },
+    {
+      "id": "2027148561759256581",
+      "text": "RT @SawyerMerritt: Based on my research, more than 5,700 commercial aircraft either already have SpaceX’s @Starlink installed or are under…",
+      "created_at": "Thu Feb 26 22:27:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027111179957551485",
+        "text": "Based on my research, more than 5,700 commercial aircraft either already have SpaceX’s @Starlink installed or are under contract to receive it. That would account for ~19% of the active global commercial aircraft fleet when all installs are completed.\n\nSpaceX has already gotten two of the top four largest U.S. airlines to adopt Starlink (United and Southwest).\n\nList of airlines/operators that have publicly announced Starlink internet adoption for their fleet:\n• Southwest Airlines\n• United Airlines\n• British Airways\n• Emirates\n• Qatar Airlines\n• Air France\n• Hawaiian Airlines\n• Alaska Airlines\n• Virgin Atlantic\n• Lufthansa\n• Korean air\n• Air Baltic\n• Aer Lingus\n• Air Busan\n• Air Dolomiti\n• Air New Zealand\n• Air Seoul\n• Asiana Airlines\n• Austrian Airlines\n• Swiss Airlines\n• Scandinavian Airlines\n• Gulf Air\n• Iberia\n• Discover Airlines\n• flydubai\n• ITA Airways\n• Vueling\n• Brussels Airlines\n• Jin Air\n• LEVEL\n• WestJet\n• Edelweiss Air\n• JSX\n• ZipAir\n• Eurowings\n\nAnd all this doesn't even include business jets. More than 1,000 business jets are currently equipped with Starlink, representing more than 50% of all active tails. Starlink's aviation division is and will no doubt continue to see massive growth.",
+        "created_at": "Thu Feb 26 19:59:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027108548900007936",
+            "url": "https://pbs.twimg.com/media/HCG8fDJXsAAJPKS.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027108559700258816",
+            "url": "https://pbs.twimg.com/media/HCG8frYWcAABprx.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027108564708610048",
+            "url": "https://pbs.twimg.com/media/HCG8f-Cb0AAdzSL.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027108569686892545",
+            "url": "https://pbs.twimg.com/media/HCG8gQlWYAE9iZF.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1043434,
+          "friends_count": 433,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 433,
+          "favorite_count": 2644,
+          "reply_count": 311,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 433,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
