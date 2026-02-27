@@ -1,12 +1,37 @@
 {
   "date": "20260227",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-27T04:35:38.279451",
-  "tweet_count": 204,
-  "unique_tweet_count": 204,
+  "last_crawl_time": "2026-02-27T06:19:25.664267",
+  "tweet_count": 205,
+  "unique_tweet_count": 205,
   "total_crawled": 404,
-  "duplicates_removed": 200,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2027265200781402351",
+      "text": "https://t.co/qTwZJQGUMB",
+      "created_at": "Fri Feb 27 06:11:03 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 187328,
+        "friends_count": 1556,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 8,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2027216789927784559",
       "text": "Should note that SpaceX will only try to catch the ship with the tower after two perfect soft landings in the ocean.\n\nThe risk of the ship breaking up over land needs to be very low.",
