@@ -1,12 +1,504 @@
 {
   "date": "20260227",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-27T06:19:25.664267",
-  "tweet_count": 205,
-  "unique_tweet_count": 205,
-  "total_crawled": 404,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-02-27T08:13:47.553401",
+  "tweet_count": 213,
+  "unique_tweet_count": 213,
+  "total_crawled": 405,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2027295332426715348",
+      "text": "RT @AndrThie: I had the pleasure to speak with Elon last week on the future of Giga Berlin. Great conversation!",
+      "created_at": "Fri Feb 27 08:10:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027145743933292864",
+        "text": "I had the pleasure to speak with Elon last week on the future of Giga Berlin. Great conversation!",
+        "created_at": "Thu Feb 26 22:16:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2027144405514174914",
+          "text": "What’s next for Giga Berlin? Glad you asked https://t.co/aaiBOOBxuu",
+          "created_at": "Thu Feb 26 22:11:03 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2027138718180777984",
+              "url": "https://video.twimg.com/amplify_video/2027138718180777984/vid/avc1/3840x2160/q-C_Ri7IAwJC95EM.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1715438862460194816",
+            "name": "Tesla Manufacturing",
+            "screen_name": "gigafactories",
+            "description": "Building a sustainable future",
+            "followers_count": 72370,
+            "friends_count": 2,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 621,
+            "favorite_count": 3902,
+            "reply_count": 148,
+            "quote_count": 141
+          }
+        },
+        "user": {
+          "id": "1283514442337128454",
+          "name": "André Thierig",
+          "screen_name": "AndrThie",
+          "description": "Giga Berlin",
+          "followers_count": 9557,
+          "friends_count": 61,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 178,
+          "favorite_count": 1801,
+          "reply_count": 87,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235436380,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 178,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027295165141119464",
+      "text": "RT @MarioNawfal: Turn your imagination into motion on Grok.\n\nHow? Prompt:\n\nA mysterious beautiful woman sits calmly on a throne made of sta…",
+      "created_at": "Fri Feb 27 08:10:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027285071611187596",
+        "text": "Turn your imagination into motion on Grok.\n\nHow? Prompt:\n\nA mysterious beautiful woman sits calmly on a throne made of stars floating in deep space. Galaxies slowly swirl around her like a crown and her dress is made of nebula fabric that gently moves like cosmic smoke. Soft glowing cosmic rim light illuminates her face and detailed realistic skin texture is visible. After a moment she slowly rises from the throne and begins a graceful slow ballet movement in zero gravity. As she stands, the star throne dissolves into thousands of glowing particles and orbiting lights. She performs a soft elegant spin and extends her arms, and her motion causes surrounding galaxies and stardust to follow her movement as if she controls gravity. Her hair flows naturally in weightlessness. No fast dancing — slow, serene ballet, quiet power. The background is deep black space with colorful nebulae and distant suns. Cinematic camera with a slow floating push-in at the beginning, then a gentle orbit around her during the ballet spin, shallow depth of field, smooth motion, no shaking.\n\nScene timing: 0-3 seconds she sits on the star throne with galaxies slowly moving, 3-6 seconds she stands and the throne dissolves into particles, 6-10 seconds she performs a slow ballet spin in zero gravity while galaxies react to her motion. Her movements subtly bend space around her as gravity responds to her presence. Realistic physics, volumetric particles, detailed fabric simulation, no distortion, no extra limbs, no flickering. 4K cinematic quality, 24fps film look, slow motion, calm graceful movement like underwater.",
+        "created_at": "Fri Feb 27 07:30:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2027248582223675392",
+            "url": "https://video.twimg.com/amplify_video/2027248582223675392/vid/avc1/960x960/kte-uDs1ZgEUDGcl.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2026720140151370126",
+          "text": "@dvorahfr Can share the prompt to help others figure out to make videos like this?",
+          "created_at": "Wed Feb 25 18:05:10 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 235436380,
+            "friends_count": 1290,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 143,
+            "favorite_count": 2796,
+            "reply_count": 558,
+            "quote_count": 36
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3080957,
+          "friends_count": 50422,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 42,
+          "favorite_count": 185,
+          "reply_count": 82,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235436380,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 42,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027294970244391168",
+      "text": "You’d think someone would at least check to see if there is something wrong with water 🙄",
+      "created_at": "Fri Feb 27 08:09:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027165889339032047",
+        "text": "WOW. Minnesota's spending on Autism Care went from $1 million in 2017 to $343 million in 2024 under Tim Walz’s watch.\n\nThat's a 34,200% increase.\n\nThis level of fraud is unbelievable. https://t.co/TjnsjL8aOe",
+        "created_at": "Thu Feb 26 23:36:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027165884100292609",
+            "url": "https://pbs.twimg.com/media/HCHwoZaWsAEVTu1.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1326229737551912960",
+          "name": "Libs of TikTok",
+          "screen_name": "libsoftiktok",
+          "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+          "followers_count": 4664165,
+          "friends_count": 1055,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4467,
+          "favorite_count": 16057,
+          "reply_count": 570,
+          "quote_count": 255
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235436380,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 145,
+        "favorite_count": 862,
+        "reply_count": 263,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2027294561467613256",
+      "text": "Anthropic hates Western Civilization",
+      "created_at": "Fri Feb 27 08:07:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027248323732623611",
+        "text": "Prior to their new “Constitution,” @AnthropicAI had an old one they desperately tried to delete from the internet. “Choose the response that is least likely to be viewed as harmful or offensive to a non-western cultural tradition of any sort.” https://t.co/GJ47KLkMN2",
+        "created_at": "Fri Feb 27 05:03:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027248316233474048",
+            "url": "https://pbs.twimg.com/media/HCI7mlCa4AAgYHT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1923905468214210560",
+          "name": "Under Secretary of War Emil Michael",
+          "screen_name": "USWREMichael",
+          "description": "Official account of the Under Secretary of War for Research and Engineering. Follow @DoWCTO 🇺🇸⚙️",
+          "followers_count": 10291,
+          "friends_count": 81,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 127,
+          "favorite_count": 771,
+          "reply_count": 126,
+          "quote_count": 24
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235436380,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 179,
+        "favorite_count": 1209,
+        "reply_count": 336,
+        "quote_count": 12
+      }
+    },
+    {
+      "id": "2027292414688530625",
+      "text": "Those who pushed this evil will pay dearly",
+      "created_at": "Fri Feb 27 07:59:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027205108094664961",
+        "text": "“You either need to transition your child or you don’t get to keep your child.”\n\nAttorney Erin Friday says California Child Protective Services can threaten parents who refuse to use their child’s preferred pronouns.\n\nShe told me she feared calling the police when her 13 year old daughter ran away because she worried CPS would take her child.\n\n“My daughter, who was 13 years old, just starting high school, was secretly socially transitioned at school.”\n\n“The school started to call my daughter by a male name, use male pronouns.”\n\n“When I called the school and told them to stop, that next week Child Protective Services was at my door.”\n\n“The next day, the police.”\n\n“That was an immediate alert to me that the school wants to parent my child.”\n\n“If I didn’t follow and call my daughter a boy, Child Protective Services may come and take my child away.”\n\n“Parents in Southern California had lost custody of their children because they wouldn’t transition their daughter.”\n\n“I already had a black mark, and a few months later my daughter ran away.”\n\n“The normal thing for a parent to do is to ask law enforcement to help find your child… but I couldn’t make that phone call.”\n\n“Because Child Protective Services can swoop in anytime and take my child.”\n\n“It’s coercion at its highest level.”\n\n“You don’t get to parent your child.”\n\n“This is America. This is insane.”\n\n@erinfriday75490",
+        "created_at": "Fri Feb 27 02:12:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2027203801237573632",
+            "url": "https://video.twimg.com/amplify_video/2027203801237573632/vid/avc1/1204x664/WZrrs5MpqqT9t3cq.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15719232",
+          "name": "Jan Jekielek",
+          "screen_name": "JanJekielek",
+          "description": "🚨 https://t.co/syHt30Jdoa ⬅ Pre-Order My Book!\n\n@EpochTimes Senior Editor 🇨🇦🇺🇸🇵🇱\n@AmThoughtLeader Host\nhttps://t.co/Kaf9ohTLbz Producer\nMy Newsletter 👉 https://t.co/BG8e1vQMgx",
+          "followers_count": 207311,
+          "friends_count": 8838,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1273,
+          "favorite_count": 2991,
+          "reply_count": 189,
+          "quote_count": 122
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235436380,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 774,
+        "favorite_count": 4158,
+        "reply_count": 719,
+        "quote_count": 19
+      }
+    },
+    {
+      "id": "2027292067886764409",
+      "text": "RT @RepEricBurlison: https://t.co/JQGLrhBHs2",
+      "created_at": "Fri Feb 27 07:57:48 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027107131951030272",
+          "url": "https://pbs.twimg.com/media/HCG7MkmaIAA4QrS.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2027107235491377539",
+        "text": "https://t.co/JQGLrhBHs2",
+        "created_at": "Thu Feb 26 19:43:21 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027107131951030272",
+            "url": "https://pbs.twimg.com/media/HCG7MkmaIAA4QrS.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1606342594765590528",
+          "name": "Rep. Eric Burlison",
+          "screen_name": "RepEricBurlison",
+          "description": "Father and Congressman Representing Missouri's 7th Congressional District - Member of @GOPoversight, @TransportGOP, & @FreedomCaucus",
+          "followers_count": 56815,
+          "friends_count": 771,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 889,
+          "favorite_count": 9240,
+          "reply_count": 148,
+          "quote_count": 53
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235436380,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 889,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027291302698885122",
+      "text": "Good question",
+      "created_at": "Fri Feb 27 07:54:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027166459387089136",
+        "text": "The SAVE Act is the single most important issue to 95% of Republican voters. If you can’t pass it with a majority in the House, the Senate, the Supreme Court and a Republican President, then somebody owns your ass, buddy. \n\nWho owns John Thune?",
+        "created_at": "Thu Feb 26 23:38:41 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "78523300",
+          "name": "James Woods",
+          "screen_name": "RealJamesWoods",
+          "description": "My YouTube channel: https://t.co/4Pj1u1KIzQ",
+          "followers_count": 5263637,
+          "friends_count": 5792,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15137,
+          "favorite_count": 48368,
+          "reply_count": 3376,
+          "quote_count": 801
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235436380,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 620,
+        "favorite_count": 4127,
+        "reply_count": 529,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2027291039665643917",
+      "text": "RT @NASAAdmin: The Moon fundamentally changes the game for manned space exploration. \n\nIt is a next-level proving ground where astronauts c…",
+      "created_at": "Fri Feb 27 07:53:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027121182743429583",
+        "text": "The Moon fundamentally changes the game for manned space exploration. \n\nIt is a next-level proving ground where astronauts can build habitats, harvest propellant and minerals from the lunar surface, and learn the skills necessary to go onto Mars. https://t.co/kIQrNvRW3V",
+        "created_at": "Thu Feb 26 20:38:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2027121063625162752",
+            "url": "https://video.twimg.com/amplify_video/2027121063625162752/vid/avc1/1280x720/VkzleCBLLAsBkFZM.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2000593641480605696",
+          "name": "NASA Administrator Jared Isaacman",
+          "screen_name": "NASAAdmin",
+          "description": "Serving President Donald J. Trump as the 15th @NASA Administrator | Leading the next Golden Age of space discovery 🚀",
+          "followers_count": 86243,
+          "friends_count": 44,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 273,
+          "favorite_count": 1952,
+          "reply_count": 135,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235436380,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 273,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2027265200781402351",
       "text": "https://t.co/qTwZJQGUMB",
