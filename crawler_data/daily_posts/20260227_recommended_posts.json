@@ -1,12 +1,188 @@
 {
   "date": "20260227",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-27T00:23:04.156372",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-02-27T02:59:21.536638",
+  "tweet_count": 204,
+  "unique_tweet_count": 204,
+  "total_crawled": 400,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2027216789927784559",
+      "text": "Should note that SpaceX will only try to catch the ship with the tower after two perfect soft landings in the ocean.\n\nThe risk of the ship breaking up over land needs to be very low.",
+      "created_at": "Fri Feb 27 02:58:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235425146,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 13,
+        "reply_count": 1,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2027204661179044003",
+      "text": "Anthropic 向开源贡献者免费送半年 Claude Max\n\nAnthropic 推出\"Claude for Open Source\"计划，向开源社区的维护者和核心贡献者提供 6 个月免费的 Claude Max 20x 订阅。\n\nClaude Max 20x 是目前 Claude 最高级别的付费方案，正常订阅价格不菲，这次相当于直接把最强工具送到开源开发者手里。\n\n申请门槛不算低：你需要是 GitHub 星标 5000 以上或 NPM 月下载量超百万的公开项目的主要维护者或核心团队成员，且近三个月内有活跃的代码提交、版本发布或 PR 审核记录。\n\n不过 Anthropic 也留了口子：如果你维护的项目虽然不那么显眼，但整个生态都在默默依赖它，同样可以申请。\n\n项目采用滚动审核，总共接受最多一万名贡献者。\n\n这一举措的意图很明确：让写代码的人用上最好的 AI 编程工具，同时把 Claude 更深地植入开发者的日常工作流。\n\n申请地址：https://t.co/Kmamr5oVHJ",
+      "created_at": "Fri Feb 27 02:10:29 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027129030571634721",
+        "text": "Excited to announce Claude for Open Source ❤️\n\nWe're giving 6 months of free Claude Max 20x to open source maintainers and core contributors.\n\nIf you maintain a popular project or contribute across open source, please apply!\n\nhttps://t.co/inuh0hxREA",
+        "created_at": "Thu Feb 26 21:09:57 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "879696238953865217",
+          "name": "Lydia Hallie ✨",
+          "screen_name": "lydiahallie",
+          "description": "Claude Code @AnthropicAI",
+          "followers_count": 62782,
+          "friends_count": 38,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 488,
+          "favorite_count": 4672,
+          "reply_count": 242,
+          "quote_count": 141
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 187272,
+        "friends_count": 1556,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 29,
+        "reply_count": 7,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2027202554330050994",
+      "text": "Claude Code 新增\"自动记忆\"功能 https://t.co/24zag047Ru \n\nAnthropic 为其命令行编码工具 Claude Code 上线了自动记忆（Auto Memory）功能。\n\n开启后，Claude 会在工作过程中自动记录项目中学到的上下文：比如构建命令、调试技巧、代码风格偏好、架构要点等，并在下次会话中自动调用，不需要用户手动记录任何东西。\n\n此前 Claude Code 已经支持 https://t.co/k5gfrsJiDu 文件，但那是用户写给 Claude 的指令。\n\n新增的 https://t.co/wdYpQc1q03 则相反，是 Claude 自己维护的\"笔记本\"。\n\n用户也可以直接告诉 Claude\"记住我们用 pnpm 而不是 npm\"，它就会写入记忆文件。\n\n技术细节上，每个项目的记忆存储在本地目录 ~/.claude/projects/ 下，会话启动时自动加载 https://t.co/YAPv7h70sj 的前 200 行，更详细的内容按需读取。\n\n该功能默认开启，可通过 /memory 命令或配置文件关闭。\n\n这个功能解决的是开发者反复向 AI 解释项目背景的痛点：用得越久，Claude 对项目越熟悉。\n\n相关文档：https://t.co/7nNFKqDkHW",
+      "created_at": "Fri Feb 27 02:02:07 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2027109158986870784",
+          "url": "https://video.twimg.com/amplify_video/2027109158986870784/vid/avc1/1920x1080/0fLpdy-X5Hpg5E-6.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 187272,
+        "friends_count": 1556,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 40,
+        "reply_count": 6,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2027189961548828708",
+      "text": "Starship V3 SN1 headed for ground tests. \n\nI am highly confident that the V3 design will achieve full reusability.",
+      "created_at": "Fri Feb 27 01:12:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027143801949618205",
+        "text": "The first Starship V3 has left the build site to begin prelaunch testing https://t.co/DMZVMuRQVl",
+        "created_at": "Thu Feb 26 22:08:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027143139170148352",
+            "url": "https://pbs.twimg.com/media/HCHb8d8bYAAykux.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027143274775908352",
+            "url": "https://pbs.twimg.com/media/HCHcEXHXEAA8cqm.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027143307890176000",
+            "url": "https://pbs.twimg.com/media/HCHcGSeasAAOM2_.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027143337233305600",
+            "url": "https://pbs.twimg.com/media/HCHcH_yXUAAEfap.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41094618,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1487,
+          "favorite_count": 9964,
+          "reply_count": 618,
+          "quote_count": 233
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235425146,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2829,
+        "favorite_count": 26242,
+        "reply_count": 2490,
+        "quote_count": 195
+      }
+    },
     {
       "id": "2027159428114362386",
       "text": "Block大裁员：Jack Dorsey 砍掉近半员工，称 AI 改变了公司运营方式\n\nBlock（前身为 Square）CEO Jack Dorsey 宣布裁员约 4000 人，将公司从超过 1 万人缩减至不到 6000 人，裁员比例接近一半。这是 Block 历史上规模最大的一次裁员。\n\nJack 在致全员信中强调，裁员并非因为经营困难——公司毛利润仍在增长，客户规模持续扩大，盈利能力也在改善。他给出的理由是：AI工具配合更精简扁平的团队，正在从根本上改变公司的运作方式，而这种变化还在加速。\n\n他表示自己在“逐步缓慢裁员”和“一次到位”之间选择了后者，认为反复裁员对士气和信任的伤害更大。被裁员工将获得至少 20 周薪资（加每年工龄1周）、股权归属延续到 5 月底、6 个月医保及 5000 美元过渡补贴。\n\nJack 在信中明确了 Block 的未来方向：\n以AI为核心重建公司运营，并让客户能够直接利用Block的能力自行构建功能。\n\nBlock 旗下拥有 Cash App 和 Square 两大支付产品，此次裁员是科技行业“AI驱动组织瘦身”趋势中规模最大的案例之一，后续值得关注这种激进转型能否兑现 Jack 的承诺。",

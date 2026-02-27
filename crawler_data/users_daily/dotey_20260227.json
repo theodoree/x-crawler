@@ -1,0 +1,76 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 187272,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260227",
+  "last_updated": "2026-02-27T02:59:21.591785",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2027202554330050994",
+      "text": "Claude Code 新增\"自动记忆\"功能 https://t.co/24zag047Ru \n\nAnthropic 为其命令行编码工具 Claude Code 上线了自动记忆（Auto Memory）功能。\n\n开启后，Claude 会在工作过程中自动记录项目中学到的上下文：比如构建命令、调试技巧、代码风格偏好、架构要点等，并在下次会话中自动调用，不需要用户手动记录任何东西。\n\n此前 Claude Code 已经支持 https://t.co/k5gfrsJiDu 文件，但那是用户写给 Claude 的指令。\n\n新增的 https://t.co/wdYpQc1q03 则相反，是 Claude 自己维护的\"笔记本\"。\n\n用户也可以直接告诉 Claude\"记住我们用 pnpm 而不是 npm\"，它就会写入记忆文件。\n\n技术细节上，每个项目的记忆存储在本地目录 ~/.claude/projects/ 下，会话启动时自动加载 https://t.co/YAPv7h70sj 的前 200 行，更详细的内容按需读取。\n\n该功能默认开启，可通过 /memory 命令或配置文件关闭。\n\n这个功能解决的是开发者反复向 AI 解释项目背景的痛点：用得越久，Claude 对项目越熟悉。\n\n相关文档：https://t.co/7nNFKqDkHW",
+      "created_at": "Fri Feb 27 02:02:07 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2027109158986870784",
+          "url": "https://video.twimg.com/amplify_video/2027109158986870784/vid/avc1/1920x1080/0fLpdy-X5Hpg5E-6.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 40,
+        "reply_count": 6,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2027204661179044003",
+      "text": "Anthropic 向开源贡献者免费送半年 Claude Max\n\nAnthropic 推出\"Claude for Open Source\"计划，向开源社区的维护者和核心贡献者提供 6 个月免费的 Claude Max 20x 订阅。\n\nClaude Max 20x 是目前 Claude 最高级别的付费方案，正常订阅价格不菲，这次相当于直接把最强工具送到开源开发者手里。\n\n申请门槛不算低：你需要是 GitHub 星标 5000 以上或 NPM 月下载量超百万的公开项目的主要维护者或核心团队成员，且近三个月内有活跃的代码提交、版本发布或 PR 审核记录。\n\n不过 Anthropic 也留了口子：如果你维护的项目虽然不那么显眼，但整个生态都在默默依赖它，同样可以申请。\n\n项目采用滚动审核，总共接受最多一万名贡献者。\n\n这一举措的意图很明确：让写代码的人用上最好的 AI 编程工具，同时把 Claude 更深地植入开发者的日常工作流。\n\n申请地址：https://t.co/Kmamr5oVHJ",
+      "created_at": "Fri Feb 27 02:10:29 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027129030571634721",
+        "text": "Excited to announce Claude for Open Source ❤️\n\nWe're giving 6 months of free Claude Max 20x to open source maintainers and core contributors.\n\nIf you maintain a popular project or contribute across open source, please apply!\n\nhttps://t.co/inuh0hxREA",
+        "created_at": "Thu Feb 26 21:09:57 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "879696238953865217",
+          "name": "Lydia Hallie ✨",
+          "screen_name": "lydiahallie",
+          "description": "Claude Code @AnthropicAI",
+          "followers_count": 62782,
+          "friends_count": 38,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 488,
+          "favorite_count": 4672,
+          "reply_count": 242,
+          "quote_count": 141
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 29,
+        "reply_count": 7,
+        "quote_count": 3
+      }
+    }
+  ]
+}

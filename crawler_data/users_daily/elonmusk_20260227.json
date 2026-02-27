@@ -1,0 +1,90 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 235425146,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260227",
+  "last_updated": "2026-02-27T02:59:21.565614",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2027189961548828708",
+      "text": "Starship V3 SN1 headed for ground tests. \n\nI am highly confident that the V3 design will achieve full reusability.",
+      "created_at": "Fri Feb 27 01:12:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027143801949618205",
+        "text": "The first Starship V3 has left the build site to begin prelaunch testing https://t.co/DMZVMuRQVl",
+        "created_at": "Thu Feb 26 22:08:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027143139170148352",
+            "url": "https://pbs.twimg.com/media/HCHb8d8bYAAykux.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027143274775908352",
+            "url": "https://pbs.twimg.com/media/HCHcEXHXEAA8cqm.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027143307890176000",
+            "url": "https://pbs.twimg.com/media/HCHcGSeasAAOM2_.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027143337233305600",
+            "url": "https://pbs.twimg.com/media/HCHcH_yXUAAEfap.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41094618,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1487,
+          "favorite_count": 9964,
+          "reply_count": 618,
+          "quote_count": 233
+        }
+      },
+      "stats": {
+        "retweet_count": 2829,
+        "favorite_count": 26242,
+        "reply_count": 2490,
+        "quote_count": 195
+      }
+    },
+    {
+      "id": "2027216789927784559",
+      "text": "Should note that SpaceX will only try to catch the ship with the tower after two perfect soft landings in the ocean.\n\nThe risk of the ship breaking up over land needs to be very low.",
+      "created_at": "Fri Feb 27 02:58:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 13,
+        "reply_count": 1,
+        "quote_count": 1
+      }
+    }
+  ]
+}
