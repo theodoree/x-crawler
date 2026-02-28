@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235533764,
+    "followers_count": 235543516,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260228",
-  "last_updated": "2026-02-28T20:06:03.884223",
-  "tweet_count": 8,
+  "last_updated": "2026-02-28T22:05:29.987815",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2027547187174076536",
@@ -376,6 +376,51 @@
         "favorite_count": 2759,
         "reply_count": 638,
         "quote_count": 39
+      }
+    },
+    {
+      "id": "2027838911964238231",
+      "text": "If you’d like to see less politics or crypto, just select all except those ones.\n\nThis is an “early access” feature, so expect it to improve rapidly.",
+      "created_at": "Sat Feb 28 20:10:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027822953052987604",
+        "text": "an immediate improvement 🔥 https://t.co/SBl6oIstOd",
+        "created_at": "Sat Feb 28 19:07:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027822948728639488",
+            "url": "https://pbs.twimg.com/media/HCRGOl5bEAA3oBk.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1578127809792409616",
+          "name": "Dan",
+          "screen_name": "KettlebellDan",
+          "description": "Hi I’m Dan a proud X employee and founder of the prestigious Kettlebell Krüe 🦾 Follow me for a daily X tip of the day for all of 2026",
+          "followers_count": 84097,
+          "friends_count": 1355,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 70,
+          "favorite_count": 872,
+          "reply_count": 190,
+          "quote_count": 69
+        }
+      },
+      "stats": {
+        "retweet_count": 2310,
+        "favorite_count": 24491,
+        "reply_count": 4467,
+        "quote_count": 437
       }
     }
   ]

@@ -1,12 +1,67 @@
 {
   "date": "20260228",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-28T20:06:03.856949",
-  "tweet_count": 217,
-  "unique_tweet_count": 217,
-  "total_crawled": 416,
+  "last_crawl_time": "2026-02-28T22:05:29.956948",
+  "tweet_count": 218,
+  "unique_tweet_count": 218,
+  "total_crawled": 417,
   "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2027838911964238231",
+      "text": "If you’d like to see less politics or crypto, just select all except those ones.\n\nThis is an “early access” feature, so expect it to improve rapidly.",
+      "created_at": "Sat Feb 28 20:10:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027822953052987604",
+        "text": "an immediate improvement 🔥 https://t.co/SBl6oIstOd",
+        "created_at": "Sat Feb 28 19:07:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027822948728639488",
+            "url": "https://pbs.twimg.com/media/HCRGOl5bEAA3oBk.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1578127809792409616",
+          "name": "Dan",
+          "screen_name": "KettlebellDan",
+          "description": "Hi I’m Dan a proud X employee and founder of the prestigious Kettlebell Krüe 🦾 Follow me for a daily X tip of the day for all of 2026",
+          "followers_count": 84097,
+          "friends_count": 1355,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 70,
+          "favorite_count": 872,
+          "reply_count": 190,
+          "quote_count": 69
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235543516,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2310,
+        "favorite_count": 24491,
+        "reply_count": 4467,
+        "quote_count": 437
+      }
+    },
     {
       "id": "2027836581038465028",
       "text": "Prediction of the future is the best measure of intelligence",
