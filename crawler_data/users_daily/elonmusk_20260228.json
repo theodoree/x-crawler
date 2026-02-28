@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235510996,
+    "followers_count": 235523613,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260228",
-  "last_updated": "2026-02-28T16:06:36.278667",
-  "tweet_count": 5,
+  "last_updated": "2026-02-28T18:06:59.302524",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2027547187174076536",
@@ -271,6 +271,66 @@
         "favorite_count": 10039,
         "reply_count": 1247,
         "quote_count": 65
+      }
+    },
+    {
+      "id": "2027804599772443017",
+      "text": "RT @SawyerMerritt: 𝕏 just officially launched the For You timeline filter that allows you to only see posts about topics that you are inter…",
+      "created_at": "Sat Feb 28 17:54:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027787700300841137",
+        "text": "𝕏 just officially launched the For You timeline filter that allows you to only see posts about topics that you are interested in. You can select multiple topics.\n\nTap the drop down menu button on “For You” at the top of your timeline to access it. https://t.co/9HumUDyTkw",
+        "created_at": "Sat Feb 28 16:47:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027787697587204097",
+            "url": "https://pbs.twimg.com/media/HCQmKtKXsAEK53A.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1043902,
+          "friends_count": 433,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 153,
+          "favorite_count": 1123,
+          "reply_count": 195,
+          "quote_count": 39
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 153,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027804731343524008",
+      "text": "You can now select topics for your timeline, so if you’re tired of political ragebait, you can select something else 😂\n\nJust tap on For You.",
+      "created_at": "Sat Feb 28 17:54:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1028,
+        "favorite_count": 14061,
+        "reply_count": 2838,
+        "quote_count": 219
       }
     }
   ]

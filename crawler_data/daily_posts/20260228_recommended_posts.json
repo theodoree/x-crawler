@@ -1,12 +1,141 @@
 {
   "date": "20260228",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-28T16:06:36.248068",
-  "tweet_count": 213,
-  "unique_tweet_count": 213,
+  "last_crawl_time": "2026-02-28T18:06:59.274742",
+  "tweet_count": 216,
+  "unique_tweet_count": 216,
   "total_crawled": 413,
-  "duplicates_removed": 200,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2027804731343524008",
+      "text": "You can now select topics for your timeline, so if you’re tired of political ragebait, you can select something else 😂\n\nJust tap on For You.",
+      "created_at": "Sat Feb 28 17:54:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235523613,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1028,
+        "favorite_count": 14061,
+        "reply_count": 2838,
+        "quote_count": 219
+      }
+    },
+    {
+      "id": "2027804599772443017",
+      "text": "RT @SawyerMerritt: 𝕏 just officially launched the For You timeline filter that allows you to only see posts about topics that you are inter…",
+      "created_at": "Sat Feb 28 17:54:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027787700300841137",
+        "text": "𝕏 just officially launched the For You timeline filter that allows you to only see posts about topics that you are interested in. You can select multiple topics.\n\nTap the drop down menu button on “For You” at the top of your timeline to access it. https://t.co/9HumUDyTkw",
+        "created_at": "Sat Feb 28 16:47:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027787697587204097",
+            "url": "https://pbs.twimg.com/media/HCQmKtKXsAEK53A.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1043902,
+          "friends_count": 433,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 153,
+          "favorite_count": 1123,
+          "reply_count": 195,
+          "quote_count": 39
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235523613,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 153,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027781097585582263",
+      "text": "帮转，YouMind招人",
+      "created_at": "Sat Feb 28 16:21:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027657913746264500",
+        "text": "YouMind 从去年开始，对所有入职员工，都可报销 AI 订阅费。可以是自己日常使用的 AI 产品，也可以是做产品分析时产生的 AI 费用。一个月的报销费，从几十到上千刀都可以。\n\n同时，我们也不会去评估 tokens 消耗。想消耗多的，就多消耗。想少花 tokens 多用人脑的，就可以少花。\n\n让人使用 AI 无负担，同时尊重每个人本身的能力。相信 人 + AI 会远大于 AI，不守旧，也不过于激进，是我们的心态。\n\n持续招聘以下人才：\n1. 优秀的全球化 CMO 联创，虚位以待 + 期待\n2. 类似 Peak 的 AI 科学家，让 YouMind 有机会超越 Manus\n3. 优秀的 Agent 全干工程师，来 YouMind，不后悔\n\n期待我们的相遇。能一起让这个世界有所不同，顺便赚大钱。\n\n有兴趣者，可 X 私信我，或邮件：contact@youmind.ai",
+        "created_at": "Sat Feb 28 08:11:33 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16681326",
+          "name": "Frank Wang 玉伯",
+          "screen_name": "lifesinger",
+          "description": "I am curious and honest",
+          "followers_count": 28337,
+          "friends_count": 1065,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 16,
+          "favorite_count": 146,
+          "reply_count": 38,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 188536,
+        "friends_count": 1558,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2027644868881957020",
       "text": "True",

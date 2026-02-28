@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 188482,
+    "followers_count": 188536,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260228",
-  "last_updated": "2026-02-28T16:06:36.304250",
-  "tweet_count": 8,
+  "last_updated": "2026-02-28T18:06:59.326785",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2027556224825282852",
@@ -296,6 +296,45 @@
         "retweet_count": 8,
         "favorite_count": 34,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027781097585582263",
+      "text": "帮转，YouMind招人",
+      "created_at": "Sat Feb 28 16:21:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027657913746264500",
+        "text": "YouMind 从去年开始，对所有入职员工，都可报销 AI 订阅费。可以是自己日常使用的 AI 产品，也可以是做产品分析时产生的 AI 费用。一个月的报销费，从几十到上千刀都可以。\n\n同时，我们也不会去评估 tokens 消耗。想消耗多的，就多消耗。想少花 tokens 多用人脑的，就可以少花。\n\n让人使用 AI 无负担，同时尊重每个人本身的能力。相信 人 + AI 会远大于 AI，不守旧，也不过于激进，是我们的心态。\n\n持续招聘以下人才：\n1. 优秀的全球化 CMO 联创，虚位以待 + 期待\n2. 类似 Peak 的 AI 科学家，让 YouMind 有机会超越 Manus\n3. 优秀的 Agent 全干工程师，来 YouMind，不后悔\n\n期待我们的相遇。能一起让这个世界有所不同，顺便赚大钱。\n\n有兴趣者，可 X 私信我，或邮件：contact@youmind.ai",
+        "created_at": "Sat Feb 28 08:11:33 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16681326",
+          "name": "Frank Wang 玉伯",
+          "screen_name": "lifesinger",
+          "description": "I am curious and honest",
+          "followers_count": 28337,
+          "friends_count": 1065,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 16,
+          "favorite_count": 146,
+          "reply_count": 38,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "reply_count": 2,
         "quote_count": 0
       }
     }
