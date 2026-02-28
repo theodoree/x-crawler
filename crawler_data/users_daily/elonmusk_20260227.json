@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235484009,
+    "followers_count": 235487614,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260227",
-  "last_updated": "2026-02-27T22:06:44.168569",
-  "tweet_count": 28,
+  "last_updated": "2026-02-28T00:19:18.154261",
+  "tweet_count": 29,
   "tweets": [
     {
       "id": "2027189961548828708",
@@ -1470,6 +1470,75 @@
         "favorite_count": 3806,
         "reply_count": 425,
         "quote_count": 17
+      }
+    },
+    {
+      "id": "2027507959396528614",
+      "text": "RT @WesleyHuntTX: What work Senator, like NOT passing the SAVE ACT?",
+      "created_at": "Fri Feb 27 22:15:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027395071574691937",
+        "text": "What work Senator, like NOT passing the SAVE ACT?",
+        "created_at": "Fri Feb 27 14:47:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2027360022976418155",
+          "text": "“... we’ve got enough performance artists in D.C.,” @JohnCornyn tells @JMart. https://t.co/3hlq5RUxat https://t.co/CDQ1um6DFe",
+          "created_at": "Fri Feb 27 12:27:50 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2027359987115454464",
+              "url": "https://pbs.twimg.com/media/HCKhKrfbcAAask9.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "16291449",
+            "name": "Michael Kruse",
+            "screen_name": "michaelkruse",
+            "description": "Senior staff writer, @POLITICO and @POLITICOMag. @DavidsonCollege alum and St. Pete Times grad. Love Lauren and the girls.",
+            "followers_count": 25046,
+            "friends_count": 7312,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 9,
+            "favorite_count": 49,
+            "reply_count": 23,
+            "quote_count": 3
+          }
+        },
+        "user": {
+          "id": "1112744620247662592",
+          "name": "Wesley Hunt",
+          "screen_name": "WesleyHuntTX",
+          "description": "Father, Husband, Army Veteran, West Point Graduate, Congressman TX-38, Candidate for U.S. Senate | Follow @HuntforSenate for updates  (American/Apache Pilot)",
+          "followers_count": 446844,
+          "friends_count": 625,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 648,
+          "favorite_count": 3036,
+          "reply_count": 219,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 648,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
