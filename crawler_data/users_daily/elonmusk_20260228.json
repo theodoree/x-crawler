@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235488998,
+    "followers_count": 235486418,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260228",
-  "last_updated": "2026-02-28T02:49:27.038938",
-  "tweet_count": 1,
+  "last_updated": "2026-02-28T04:27:40.162794",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2027547187174076536",
@@ -75,6 +75,51 @@
       "quoted": null,
       "stats": {
         "retweet_count": 455,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027590141964144814",
+      "text": "RT @xAIMemphis: Had a great time hosting  @MarshaBlackburn and @SenBrentTaylor today at MACROHARD. \n\nWe showed them how @xai is keeping uti…",
+      "created_at": "Sat Feb 28 03:42:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027550338866086269",
+        "text": "Had a great time hosting  @MarshaBlackburn and @SenBrentTaylor today at MACROHARD. \n\nWe showed them how @xai is keeping utility costs down for the community while building the world's largest AI supercomputer.\n\nWe appreciate their support. https://t.co/2UoA7Z84EI",
+        "created_at": "Sat Feb 28 01:04:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027550330079100928",
+            "url": "https://pbs.twimg.com/media/HCNOSGSXQAAsvn4.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1937236128010240001",
+          "name": "xAI Memphis",
+          "screen_name": "xAIMemphis",
+          "description": "",
+          "followers_count": 23726,
+          "friends_count": 53,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 213,
+          "favorite_count": 1655,
+          "reply_count": 171,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 212,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

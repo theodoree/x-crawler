@@ -1,12 +1,190 @@
 {
   "date": "20260228",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-28T02:49:27.003396",
-  "tweet_count": 206,
-  "unique_tweet_count": 206,
-  "total_crawled": 400,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-02-28T04:27:40.126340",
+  "tweet_count": 210,
+  "unique_tweet_count": 210,
+  "total_crawled": 406,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2027591729939964168",
+      "text": "https://t.co/jQJRZEG26q",
+      "created_at": "Sat Feb 28 03:48:33 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 188050,
+        "friends_count": 1558,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 34,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027590141964144814",
+      "text": "RT @xAIMemphis: Had a great time hosting  @MarshaBlackburn and @SenBrentTaylor today at MACROHARD. \n\nWe showed them how @xai is keeping uti…",
+      "created_at": "Sat Feb 28 03:42:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027550338866086269",
+        "text": "Had a great time hosting  @MarshaBlackburn and @SenBrentTaylor today at MACROHARD. \n\nWe showed them how @xai is keeping utility costs down for the community while building the world's largest AI supercomputer.\n\nWe appreciate their support. https://t.co/2UoA7Z84EI",
+        "created_at": "Sat Feb 28 01:04:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027550330079100928",
+            "url": "https://pbs.twimg.com/media/HCNOSGSXQAAsvn4.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1937236128010240001",
+          "name": "xAI Memphis",
+          "screen_name": "xAIMemphis",
+          "description": "",
+          "followers_count": 23726,
+          "friends_count": 53,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 213,
+          "favorite_count": 1655,
+          "reply_count": 171,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235486418,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 212,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027579901457408492",
+      "text": "刚刚，Sam 宣布 OpenAI 与美国国防部正式达成协议，将在其机密网络中部署 AI 模型，称国防部对安全表现出深切尊重。\n\n协议签署的同一天，特朗普刚下令联邦政府全面停止与 Anthropic 的合作。\n\n协议写入了 OpenAI 的两条核心安全原则：禁止国内大规模监控，以及武力使用（包括自主武器系统）必须由人类负责。讽刺的是，这些条件与 Anthropic 此前坚持的几乎完全相同。\n\nOpenAI 还将仅在云端部署模型，不进入无人机等边缘设备，并派驻持有安全许可的工程师监控模型运行。",
+      "created_at": "Sat Feb 28 03:01:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027578652477821175",
+        "text": "Tonight, we reached an agreement with the Department of War to deploy our models in their classified network.\n\nIn all of our interactions, the DoW displayed a deep respect for safety and a desire to partner to achieve the best possible outcome.\n\nAI safety and wide distribution of benefits are the core of our mission. Two of our most important safety principles are prohibitions on domestic mass surveillance and human responsibility for the use of force, including for autonomous weapon systems.  The DoW agrees with these principles, reflects them in law and policy, and we put them into our agreement.\n\nWe also will build technical safeguards to ensure our models behave as they should, which the DoW also wanted. We will deploy FDEs to help with our models and to ensure their safety, we will deploy on cloud networks only.\n\nWe are asking the DoW to offer these same terms to all AI companies, which in our opinion we think everyone should be willing to accept. We have expressed our strong desire to see things de-escalate away from legal and governmental actions and towards reasonable agreements.\n\nWe remain committed to serve all of humanity as best we can. The world is a complicated, messy, and sometimes dangerous place.",
+        "created_at": "Sat Feb 28 02:56:35 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screen_name": "sama",
+          "description": "AI is cool i guess",
+          "followers_count": 4406832,
+          "friends_count": 987,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1431,
+          "favorite_count": 13187,
+          "reply_count": 4399,
+          "quote_count": 2667
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 188050,
+        "friends_count": 1558,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 132,
+        "reply_count": 55,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2027577657156571153",
+      "text": "这条推文来自战争部副部长 Emil Michael，他在试图反驳 Anthropic 声明中“尚未收到战争部直接沟通”的说法，并质疑 Anthropic 的诚意。\n\n他列出的时间线大致如下（均为当天）：\n\n昨晚 10:54，Michael 给 Anthropic CEO Dario Amodei 发了邮件。\n\n今天下午 3:47，总统在 Truth Social 发帖（暗示白宫已公开施压）。\n\n3:51，Dario 回了一封带修改意见的邮件。\n\n5:01，Michael 打电话给 Dario，没接，同时发了消息。\n\n5:02，Michael 打给 Dario 的“商业伙伴”（大概率是 Anthropic 总裁 Daniela Amodei，Dario 的姐姐），对方说“会试着找到他”，Michael 怀疑对方当时有律师在场并在打字记录通话内容，还暗示这可能违反加州的双方同意录音法。\n\n5:14，战争部长发推宣布供应链风险认定。晚上 8:25，Anthropic 发布声明称“未收到战争部直接沟通”。到 9:04 发推时，Michael 说 Dario 仍未回复他的电话和消息。\n\nMichael 最后反问“这像是善意谈判吗？”，估计是想把叙事翻转过来，暗示是 Anthropic 在回避沟通，而非政府单方面施压。\n\n不过值得注意的是，从时间线看，总统发帖和战争部长的公开认定几乎同时发生在下午，而 Michael 打电话给 Dario 是在认定公布前仅十几分钟。这更像是在“通知”而非“谈判”。\n\nAnthropic 说“未收到直接沟通”，可能指的是未收到正式的书面通知或官方渠道沟通，而非私人电话。双方显然在争夺舆论叙事的主动权。",
+      "created_at": "Sat Feb 28 02:52:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027568070034608173",
+        "text": "Timeline of events:\nToday at 9:04pm. No response yet to my calls or messages to @DarioAmodei. \nToday at 825pm, @AnthropicAI writes “we have not received direct communication from the Department of War.” \nToday: 5:14pm SecWar tweets supply chain risk designation. \nToday: I call Dario’s business partner at 5:02pm asking to speak to Dario because he hasn’t gotten back to me. She is typing while we speak and likely has lawyers in the room with no notification to me (that’s a guess! CA is a two party consent law so am hoping no laws were broken!). Says she “will try to locate him.”\nToday:  I call Dario at 5:01. No Answer. I message Dario asking to talk as well.  \nToday:  Dario sends an email with redlines 3:51pm\nToday:  @POTUS sends Truth at 3:47pm\nYesterday:  I email Dario comments at 10:54pm.  \n\nDoes this sound like GOOD FAITH?",
+        "created_at": "Sat Feb 28 02:14:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1923905468214210560",
+          "name": "Under Secretary of War Emil Michael",
+          "screen_name": "USWREMichael",
+          "description": "Official account of the Under Secretary of War for Research and Engineering. Follow @DoWCTO 🇺🇸⚙️",
+          "followers_count": 12997,
+          "friends_count": 81,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 225,
+          "favorite_count": 2166,
+          "reply_count": 348,
+          "quote_count": 68
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 188050,
+        "friends_count": 1558,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 14,
+        "reply_count": 5,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2027564552448016446",
       "text": "OpenAI 正在与美国国防部谈判一份 AI 部署合同，就在同一天，特朗普下令联邦政府全面停止与 Anthropic 合作。据 Fortune 报道，Sam Altman 在周五的全员会上向员工通报了谈判进展，合同尚未签署。\n\n五角大楼接受了 OpenAI 提出的安全红线：不用于自主武器、不搞国内大规模监控、不做关键决策，而这些条件和 Anthropic 坚持的几乎一模一样。\n\n此前五角大楼连续多天抨击 Anthropic 的限制条件是“意识形态化”和“觉醒主义”，威胁取消其价值高达 2 亿美元的合同。\n\n但换成 OpenAI 提同样的条件，国防部就欣然接受了。\n\n特朗普政府认为 Anthropic CEO Dario Amodei 是“激进左派”，五角大楼高层则说他的问题在于意识形态。而 OpenAI 在政治站队上一直没踩雷。\n\nAltman 在内部备忘录中表态：“重要的是做正确的事，而不是做看起来强硬但不真诚的事。”\n\n与此同时，OpenAI 和 Google 员工正呼吁公司高层声援 Anthropic。\n\nAltman 说“我支持 Dario”，然后同一天就去谈接手他的合同。",
