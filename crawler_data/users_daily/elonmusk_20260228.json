@@ -1,0 +1,84 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 235488998,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260228",
+  "last_updated": "2026-02-28T02:49:27.038938",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2027547187174076536",
+      "text": "RT @Starlink: Starlink Direct to Cell is now available in the UK and will provide data with voice, video and messaging to customers in area…",
+      "created_at": "Sat Feb 28 00:51:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027528623994114297",
+        "text": "Starlink Direct to Cell is now available in the UK and will provide data with voice, video and messaging to customers in areas with no terrestrial service",
+        "created_at": "Fri Feb 27 23:37:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2026946266739916916",
+          "text": "NEWS: We’ve become the first UK network to switch on direct-to-device satellite connectivity 🛰️ \n\nEnabling our customers to stay connected in areas with no traditional mobile coverage, O2 Satellite automatically connects in areas with no cellular coverage. \n\nFrom today, O2 Satellite supports text messaging and data across apps including WhatsApp, Messenger and Google Maps – providing an additional layer of reassurance when customers move to areas beyond traditional mobile coverage. \n\nCustomers can opt-in to O2 Satellite as a £3-per-month bolt-on – and will be included at no extra cost for Ultimate Plan customers in the coming weeks 📲 \n\nPress release 👉 https://t.co/qNfcmeVofF",
+          "created_at": "Thu Feb 26 09:03:43 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2026946245642575872",
+              "url": "https://pbs.twimg.com/media/HCEo3wZWYAAa-O7.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1393246281053638662",
+            "name": "Virgin Media O2 News",
+            "screen_name": "VMO2News",
+            "description": "We’re Virgin Media O2 and we’re here to upgrade the UK. Follow us for latest news, director updates, and more from #TeamVirginMediaO2.",
+            "followers_count": 5012,
+            "friends_count": 850,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 29,
+            "favorite_count": 173,
+            "reply_count": 43,
+            "quote_count": 5
+          }
+        },
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1554140,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 455,
+          "favorite_count": 2426,
+          "reply_count": 406,
+          "quote_count": 31
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 455,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
