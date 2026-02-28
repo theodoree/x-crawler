@@ -1,12 +1,190 @@
 {
   "date": "20260228",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-02-28T06:09:54.497334",
-  "tweet_count": 210,
-  "unique_tweet_count": 210,
+  "last_crawl_time": "2026-02-28T08:07:05.145987",
+  "tweet_count": 213,
+  "unique_tweet_count": 213,
   "total_crawled": 410,
-  "duplicates_removed": 200,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2027644868881957020",
+      "text": "True",
+      "created_at": "Sat Feb 28 07:19:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027434648800747845",
+        "text": "To any future historians reading this, this era will make a lot more sense if you remember that every name is the opposite of what it really is. The antifascists are fascists, the antiracists are racists, the fact-checkers are propagandists, etc. Hopefully this has been fixed by your time.",
+        "created_at": "Fri Feb 27 17:24:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243794322",
+          "name": "Tristin Hopper",
+          "screen_name": "TristinHopper",
+          "description": "Columnist and reporter at National Post, Canada's only newspaper. Most influential person of Canada. Canada moral leader. Beloved Canadian role model",
+          "followers_count": 42617,
+          "friends_count": 7453,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1775,
+          "favorite_count": 11259,
+          "reply_count": 414,
+          "quote_count": 98
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235480169,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1109,
+        "favorite_count": 10039,
+        "reply_count": 1247,
+        "quote_count": 65
+      }
+    },
+    {
+      "id": "2027632419780891134",
+      "text": "RT @Asmongold: @Pokket Because I think we need to have immigration law and deport illegal aliens?\n\nThere was an election, and this was a co…",
+      "created_at": "Sat Feb 28 06:30:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027605544887063004",
+        "text": "@Pokket Because I think we need to have immigration law and deport illegal aliens?\n\nThere was an election, and this was a core issue people voted on\n\nIt's cringe as fuck seeing the privileged class of infulencers virtue signaling for something they never experience the consequences from",
+        "created_at": "Sat Feb 28 04:43:27 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "147039284",
+          "name": "Zack",
+          "screen_name": "Asmongold",
+          "description": "Professional Neckbeard--Daily streams on https://t.co/BqNJkRKL0F and https://t.co/WHdqUUTp1E",
+          "followers_count": 1259129,
+          "friends_count": 1393,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1288,
+          "favorite_count": 28773,
+          "reply_count": 571,
+          "quote_count": 41
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235480169,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1288,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027630872569241888",
+      "text": "RT @MarioNawfal: SpaceX Starbase just dropped the coolest parade float Brownsville has ever seen, a glowing rocket with the full SPACEX log…",
+      "created_at": "Sat Feb 28 06:24:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027603290687426647",
+        "text": "SpaceX Starbase just dropped the coolest parade float Brownsville has ever seen, a glowing rocket with the full SPACEX logo lighting up the night during Charro Days.\n\nFifth year running and it's awesome.\nhttps://t.co/i98aJgMgdi",
+        "created_at": "Sat Feb 28 04:34:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2027591228410265600",
+            "url": "https://video.twimg.com/ext_tw_video/2027591228410265600/pu/vid/avc1/1080x1920/DK6aYdhGFr-KG8hJ.mp4?tag=19",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2018214811260350716",
+          "text": "Starbase has come a long way",
+          "created_at": "Mon Feb 02 06:48:02 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 235480169,
+            "friends_count": 1290,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 11166,
+            "favorite_count": 136393,
+            "reply_count": 4419,
+            "quote_count": 302
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3086386,
+          "friends_count": 50439,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 429,
+          "favorite_count": 2929,
+          "reply_count": 305,
+          "quote_count": 36
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235480169,
+        "friends_count": 1290,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 429,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2027591729939964168",
       "text": "https://t.co/jQJRZEG26q",
