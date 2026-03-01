@@ -1,12 +1,127 @@
 {
   "date": "20260301",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-01T03:04:38.387701",
-  "tweet_count": 207,
-  "unique_tweet_count": 207,
-  "total_crawled": 400,
-  "duplicates_removed": 193,
+  "last_crawl_time": "2026-03-01T04:40:49.160770",
+  "tweet_count": 209,
+  "unique_tweet_count": 209,
+  "total_crawled": 407,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2027953916365672815",
+      "text": "Another one bites the dust",
+      "created_at": "Sun Mar 01 03:47:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235566945,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6652,
+        "favorite_count": 83631,
+        "reply_count": 6561,
+        "quote_count": 748
+      }
+    },
+    {
+      "id": "2027953848690544776",
+      "text": "RT @ArthurMacwaters: this is insanity:\n\n&gt; Trump neutralized two major dictators in less than 24hrs total combat time and 0 American casualt…",
+      "created_at": "Sun Mar 01 03:47:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027926246383096136",
+        "text": "this is insanity:\n\n> Trump neutralized two major dictators in less than 24hrs total combat time and 0 American casualties \n\n> by contrast, @LeaderJohnThune has failed for months to pass a voter id bill supported by 84% of Americans \n\n> the only thing he has to do is require debate instead of a silent filibuster \n\nthe gap in skill, patriotism and political willpower is almost too wide to comprehend",
+        "created_at": "Sun Mar 01 01:57:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027926237315010560",
+            "url": "https://pbs.twimg.com/media/HCSkKx3bEAA1P2t.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027926237373730818",
+            "url": "https://pbs.twimg.com/media/HCSkKyFbEAI4n94.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2027866384508793149",
+          "text": "&gt; be Trump\n&gt; capture Maduro in 14 hrs with no casualties\n&gt; people of Venezuela rejoice \n&gt; no forever war \n\n&gt; warn Iran not to harm protestors \n&gt; kill ayatollah in &lt;12 hrs\n&gt; people of Iran rejoice\n&gt; no forever war\n\nliterally once-in-a-century talent https://t.co/5Vc8N8IolZ",
+          "created_at": "Sat Feb 28 21:59:56 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2027866379345711104",
+              "url": "https://pbs.twimg.com/media/HCRtuljb0AASnOt.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1317327383628705793",
+            "name": "Arthur MacWaters",
+            "screen_name": "ArthurMacwaters",
+            "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+            "followers_count": 62374,
+            "friends_count": 992,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 733,
+            "favorite_count": 6820,
+            "reply_count": 67,
+            "quote_count": 15
+          }
+        },
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & politics, founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 62374,
+          "friends_count": 992,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 946,
+          "favorite_count": 5376,
+          "reply_count": 232,
+          "quote_count": 41
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235566945,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 946,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2027930095311102194",
       "text": "RT @ArthurMacwaters: grok vs claude on Iran \n\nrealtime information is valuable https://t.co/9eH6Jp6koq",
