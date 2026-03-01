@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 188847,
+    "followers_count": 188849,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260301",
-  "last_updated": "2026-03-01T20:06:27.661635",
-  "tweet_count": 5,
+  "last_updated": "2026-03-01T22:05:36.414515",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2027902125036970128",
@@ -183,6 +183,52 @@
       "quoted": null,
       "stats": {
         "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028205533103067332",
+      "text": "RT @xiaohu: 卧槽 \n\nClaude 动手抄 OpenAI 老家了\n\n一键把你在 ChatGPT 攒的记忆全搬走\n\nAnthropic 上线了一个记忆迁移工具（Memory Import），让你把 ChatGPT、Gemini 等 AI 助手里积累的个人偏好和上下文，…",
+      "created_at": "Sun Mar 01 20:27:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2027988341938122846",
+        "text": "卧槽 \n\nClaude 动手抄 OpenAI 老家了\n\n一键把你在 ChatGPT 攒的记忆全搬走\n\nAnthropic 上线了一个记忆迁移工具（Memory Import），让你把 ChatGPT、Gemini 等 AI 助手里积累的个人偏好和上下文，一键导入到 Claude 的记忆系统里。\n\n众所周知 ChatGPT 的一大核心竞争力就是其 记忆系统 很完善...\n\n 你用的越久，GPT越懂你，你越离不开。\n\nClaude这个工具简直是釜底抽薪...\n\nClaude 官方这个工具的最大优势是：直接写入 Claude 记忆系统，不需要绕路，不需要装插件，三步完成。",
+        "created_at": "Sun Mar 01 06:04:33 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2027988037783998464",
+            "url": "https://video.twimg.com/amplify_video/2027988037783998464/vid/avc1/1920x1080/macaecseqiHCptVV.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1764818331822182400",
+          "name": "小互",
+          "screen_name": "xiaohu",
+          "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+          "followers_count": 96824,
+          "friends_count": 1587,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 212,
+          "favorite_count": 1253,
+          "reply_count": 57,
+          "quote_count": 35
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 212,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
