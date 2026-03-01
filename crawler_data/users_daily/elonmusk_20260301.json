@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235593321,
+    "followers_count": 235607871,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260301",
-  "last_updated": "2026-03-01T12:08:42.985962",
-  "tweet_count": 19,
+  "last_updated": "2026-03-01T14:06:44.295531",
+  "tweet_count": 24,
   "tweets": [
     {
       "id": "2027905747057598796",
@@ -970,6 +970,215 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2028084997060530689",
+      "text": "Grok Imagine upgraded again",
+      "created_at": "Sun Mar 01 12:28:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027997368210362382",
+        "text": "xAI just added \"extend from frame\" to Grok Imagine. You can now extend any animation by up to 10 seconds. https://t.co/80I6y1ILZ4",
+        "created_at": "Sun Mar 01 06:40:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2027997312338038787",
+            "url": "https://video.twimg.com/amplify_video/2027997312338038787/vid/avc1/1080x1080/kjfPinPFyZc2Q0qQ.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C · asm · AI & art via grok · @tetsuocorp · @7etsuo · @a_g_e_n_c",
+          "followers_count": 229659,
+          "friends_count": 951,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 62,
+          "favorite_count": 628,
+          "reply_count": 107,
+          "quote_count": 22
+        }
+      },
+      "stats": {
+        "retweet_count": 887,
+        "favorite_count": 7556,
+        "reply_count": 1311,
+        "quote_count": 64
+      }
+    },
+    {
+      "id": "2028085545214119954",
+      "text": "Electricity output is the single best proxy for industrial capacity",
+      "created_at": "Sun Mar 01 12:30:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028003792948531632",
+        "text": "🇨🇳 China now generates 40% more electricity than the US and EU combined. https://t.co/ERz2bPCtvy",
+        "created_at": "Sun Mar 01 07:05:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028003786870898688",
+            "url": "https://pbs.twimg.com/media/HCTqsweWQAAzJ7d.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1335132884278108161",
+          "name": "World of Statistics",
+          "screen_name": "stats_feed",
+          "description": "There are three kinds of lies: lies, damned lies, and statistics. @Kalshi partner.",
+          "followers_count": 4995611,
+          "friends_count": 405,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 752,
+          "favorite_count": 3368,
+          "reply_count": 318,
+          "quote_count": 146
+        }
+      },
+      "stats": {
+        "retweet_count": 4213,
+        "favorite_count": 33495,
+        "reply_count": 2633,
+        "quote_count": 324
+      }
+    },
+    {
+      "id": "2028086861122486674",
+      "text": "The names of those who block the Save Act will go down in infamy",
+      "created_at": "Sun Mar 01 12:36:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027947444584255793",
+        "text": "https://t.co/OXSpCVJLAm",
+        "created_at": "Sun Mar 01 03:22:02 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "video",
+            "id": "2027947391815716866",
+            "url": "https://video.twimg.com/amplify_video/2027947391815716866/vid/avc1/576x444/wjA7CRpXiEDxOWjM.mp4?tag=21",
+            "bitrate": 832000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 649996,
+          "friends_count": 2763,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 311,
+          "favorite_count": 1845,
+          "reply_count": 65,
+          "quote_count": 24
+        }
+      },
+      "stats": {
+        "retweet_count": 8151,
+        "favorite_count": 60365,
+        "reply_count": 2060,
+        "quote_count": 137
+      }
+    },
+    {
+      "id": "2028088898111332785",
+      "text": "Grok Imagine\n https://t.co/3hjVwKlmn3",
+      "created_at": "Sun Mar 01 12:44:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2028015814687805440",
+          "url": "https://video.twimg.com/ext_tw_video/2028015814687805440/pu/vid/avc1/720x1072/v_CQg4F-5O5AIuPb.mp4?tag=22",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1473,
+        "favorite_count": 16602,
+        "reply_count": 3213,
+        "quote_count": 224
+      }
+    },
+    {
+      "id": "2028099621575180392",
+      "text": "😑",
+      "created_at": "Sun Mar 01 13:26:44 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027992251104956919",
+        "text": "JUST IN: Elon Musk says \"people can pretend or dress up all they want…\"\n\n\"But they can't force their mental illness to be my new reality.\" https://t.co/lLpDbhdhrG",
+        "created_at": "Sun Mar 01 06:20:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027992238131687424",
+            "url": "https://pbs.twimg.com/media/HCTgMiEWsAAIepq.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2027992238131671040",
+            "url": "https://pbs.twimg.com/media/HCTgMiEWcAA43RA.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1852499847133143040",
+          "name": "Remarks",
+          "screen_name": "remarks",
+          "description": "Bringing you the latest, fastest, unbiased & unparalleled remarks in real-time | Focusing on US news | Brought to you by @WatcherGuru & @BRICSinfo",
+          "followers_count": 111962,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1261,
+          "favorite_count": 11887,
+          "reply_count": 614,
+          "quote_count": 138
+        }
+      },
+      "stats": {
+        "retweet_count": 4362,
+        "favorite_count": 56354,
+        "reply_count": 2421,
+        "quote_count": 119
       }
     }
   ]
