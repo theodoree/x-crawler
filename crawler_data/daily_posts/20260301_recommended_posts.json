@@ -1,12 +1,219 @@
 {
   "date": "20260301",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-01T16:06:27.832140",
-  "tweet_count": 231,
-  "unique_tweet_count": 231,
-  "total_crawled": 429,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-03-01T18:07:25.103671",
+  "tweet_count": 234,
+  "unique_tweet_count": 234,
+  "total_crawled": 431,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2028156798306300201",
+      "text": "RT @cloudwu: @yfractal 其实，在 AI 写代码之前，在任何一个大的软件公司你都能见到无数同事写的代码，给出一样的评价：“你说他聪明吧，他能写出这种代码。你说他蠢吧，写的东西还真能跑” 。区别只在于，老板可以开掉不满意的，再招聘一个。现在选择没那么多了。",
+      "created_at": "Sun Mar 01 17:13:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2028091666838757719",
+        "text": "@yfractal 其实，在 AI 写代码之前，在任何一个大的软件公司你都能见到无数同事写的代码，给出一样的评价：“你说他聪明吧，他能写出这种代码。你说他蠢吧，写的东西还真能跑” 。区别只在于，老板可以开掉不满意的，再招聘一个。现在选择没那么多了。",
+        "created_at": "Sun Mar 01 12:55:08 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "21308096",
+          "name": "云风",
+          "screen_name": "cloudwu",
+          "description": "Coder, Freelancer, Blogger, Gamer, Father of 2 kids, Rock climber. Author of open source projects : skynet, ltask, sproto, luaecs, lua-bgfx, soluna, etc.",
+          "followers_count": 50599,
+          "friends_count": 70,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 53,
+          "reply_count": 4,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 188838,
+        "friends_count": 1558,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028149278820942331",
+      "text": "RT @JessePeltan: This is extremely common in China and you can literally watch it happen through historical satellite imagery.\n\nMany sites…",
+      "created_at": "Sun Mar 01 16:44:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028133662319943703",
+        "text": "This is extremely common in China and you can literally watch it happen through historical satellite imagery.\n\nMany sites were developed with coal, and have since been converted into solar farms.\n\nGo look at google earth and see for yourself.",
+        "created_at": "Sun Mar 01 15:42:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2027729517419106649",
+          "text": "Largest ever solar farm built on coal mine subsidence area got put into operation in Ningxia.\n\nThis 4GW solar farm generates 6.8TWh of electricity per yr &amp; covers ~20000 acres of land.\n\nSolar panel can be used to generate power in many abandoned waste land. https://t.co/E6ZELPNAlz",
+          "created_at": "Sat Feb 28 12:56:05 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2027728833059880960",
+              "url": "https://pbs.twimg.com/media/HCPwoVtaAAA7T5-.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "43463961",
+            "name": "tphuang",
+            "screen_name": "tphuang",
+            "description": "My random thoughts on EVs, clean energy, chips, aerospace and other tech. Find more extended pieces at substack https://t.co/Jmo8iyjHrn",
+            "followers_count": 31582,
+            "friends_count": 386,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 54,
+            "favorite_count": 396,
+            "reply_count": 47,
+            "quote_count": 17
+          }
+        },
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 69635,
+          "friends_count": 420,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 282,
+          "favorite_count": 1630,
+          "reply_count": 300,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235640439,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 282,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028149041473749207",
+      "text": "RT @BillboardChris: Anyone but a straight, able-bodied, white man may apply for this assistant professor job.\n\nHow is this legal?",
+      "created_at": "Sun Mar 01 16:43:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028120594362106316",
+        "text": "Anyone but a straight, able-bodied, white man may apply for this assistant professor job.\n\nHow is this legal?",
+        "created_at": "Sun Mar 01 14:50:05 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2027851749802017187",
+          "text": "The University of Toronto is hiring a biology professor. Selection will be limited to candidates who identify as women, trans, nonbinary, Two-Spirit, and gender fluid, racialized persons/visible minorities, Indigenous Peoples, persons with disabilities. The salary range is $138,000 to $153,000.",
+          "created_at": "Sat Feb 28 21:01:47 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2027851441180946432",
+              "url": "https://pbs.twimg.com/media/HCRgJEjasAAVC70.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1290800267441532928",
+            "name": "Brian Atlas",
+            "screen_name": "BrianAtlas",
+            "description": "🇺🇸 Owner/Host @whatever",
+            "followers_count": 52174,
+            "friends_count": 1,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 766,
+            "favorite_count": 2422,
+            "reply_count": 752,
+            "quote_count": 199
+          }
+        },
+        "user": {
+          "id": "191167764",
+          "name": "Billboard Chris 🌎",
+          "screen_name": "BillboardChris",
+          "description": "Traveling the world to stop child transition, one conversation at a time. https://t.co/mnvUyaYjTL https://t.co/DN4D6NANIM",
+          "followers_count": 521226,
+          "friends_count": 980,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1532,
+          "favorite_count": 6572,
+          "reply_count": 646,
+          "quote_count": 74
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235640439,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1532,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2028113898419687856",
       "text": "RT @visegrad24: Ilhan Omar’s father was a colonel serving in the genocidal regime of Somali dictator Siad Barre.\n\nHis years of service incl…",

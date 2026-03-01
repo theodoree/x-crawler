@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 188815,
+    "followers_count": 188838,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260301",
-  "last_updated": "2026-03-01T16:06:27.891716",
-  "tweet_count": 4,
+  "last_updated": "2026-03-01T18:07:25.132018",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2027902125036970128",
@@ -144,6 +144,45 @@
       "quoted": null,
       "stats": {
         "retweet_count": 31,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028156798306300201",
+      "text": "RT @cloudwu: @yfractal 其实，在 AI 写代码之前，在任何一个大的软件公司你都能见到无数同事写的代码，给出一样的评价：“你说他聪明吧，他能写出这种代码。你说他蠢吧，写的东西还真能跑” 。区别只在于，老板可以开掉不满意的，再招聘一个。现在选择没那么多了。",
+      "created_at": "Sun Mar 01 17:13:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2028091666838757719",
+        "text": "@yfractal 其实，在 AI 写代码之前，在任何一个大的软件公司你都能见到无数同事写的代码，给出一样的评价：“你说他聪明吧，他能写出这种代码。你说他蠢吧，写的东西还真能跑” 。区别只在于，老板可以开掉不满意的，再招聘一个。现在选择没那么多了。",
+        "created_at": "Sun Mar 01 12:55:08 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "21308096",
+          "name": "云风",
+          "screen_name": "cloudwu",
+          "description": "Coder, Freelancer, Blogger, Gamer, Father of 2 kids, Rock climber. Author of open source projects : skynet, ltask, sproto, luaecs, lua-bgfx, soluna, etc.",
+          "followers_count": 50599,
+          "friends_count": 70,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 53,
+          "reply_count": 4,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
