@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235543516,
+    "followers_count": 235543761,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260228",
-  "last_updated": "2026-02-28T22:05:29.987815",
-  "tweet_count": 9,
+  "last_updated": "2026-03-01T00:23:27.298637",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2027547187174076536",
@@ -421,6 +421,141 @@
         "favorite_count": 24491,
         "reply_count": 4467,
         "quote_count": 437
+      }
+    },
+    {
+      "id": "2027878337016709409",
+      "text": "Try Tesla self-driving",
+      "created_at": "Sat Feb 28 22:47:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027477169954546135",
+        "text": "FSD Supervised today is a completely different experience compared to earlier versions",
+        "created_at": "Fri Feb 27 20:13:20 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24712813,
+          "friends_count": 55,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 655,
+          "favorite_count": 4697,
+          "reply_count": 446,
+          "quote_count": 39
+        }
+      },
+      "stats": {
+        "retweet_count": 1257,
+        "favorite_count": 13552,
+        "reply_count": 2420,
+        "quote_count": 114
+      }
+    },
+    {
+      "id": "2027888598037463444",
+      "text": "RT @mweinbach: First flight with starlink, this is so nice https://t.co/LHbKcAXl5I",
+      "created_at": "Sat Feb 28 23:28:12 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027663292286595072",
+          "url": "https://pbs.twimg.com/media/HCO1BXTXcAAKHms.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2027663298427072883",
+        "text": "First flight with starlink, this is so nice https://t.co/LHbKcAXl5I",
+        "created_at": "Sat Feb 28 08:32:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027663292286595072",
+            "url": "https://pbs.twimg.com/media/HCO1BXTXcAAKHms.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3239896262",
+          "name": "Max Weinbach",
+          "screen_name": "mweinbach",
+          "description": "Analyst @creativestrat | Analyst and Market Research Firm | Typo ignorer \nEmail: max@creativestrategies.com",
+          "followers_count": 284975,
+          "friends_count": 7222,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 168,
+          "favorite_count": 1654,
+          "reply_count": 151,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 168,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027889702712328619",
+      "text": "Grok",
+      "created_at": "Sat Feb 28 23:32:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027889344363593876",
+        "text": "In times of split second decision making by our nation’s top leaders — it’s clear which AI our military should be using. \n\nTruth-seeking is @grok’s best feature. https://t.co/CTZbY4XhtT",
+        "created_at": "Sat Feb 28 23:31:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027889340588630017",
+            "url": "https://pbs.twimg.com/media/HCSCnG2WIAE_Ptg.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 208914,
+          "friends_count": 893,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 357,
+          "favorite_count": 2454,
+          "reply_count": 491,
+          "quote_count": 99
+        }
+      },
+      "stats": {
+        "retweet_count": 2639,
+        "favorite_count": 21311,
+        "reply_count": 3106,
+        "quote_count": 231
       }
     }
   ]
