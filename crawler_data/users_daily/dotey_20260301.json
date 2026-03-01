@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 188653,
+    "followers_count": 188705,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260301",
-  "last_updated": "2026-03-01T06:16:22.115024",
-  "tweet_count": 2,
+  "last_updated": "2026-03-01T08:07:49.959433",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2027902125036970128",
@@ -63,6 +63,90 @@
         "favorite_count": 28,
         "reply_count": 6,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2028006094879047737",
+      "text": "看这张对比图，OpenClaw Vibe 了快上百万行了，怎么维护还是挺有挑战的😂\nhttps://t.co/rLds4ZGsZS https://t.co/vUec3C8cSa",
+      "created_at": "Sun Mar 01 07:15:06 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2028003437309227008",
+          "url": "https://pbs.twimg.com/media/HCTqYaQWcAAIqL7.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2027732798023602297",
+        "text": "期待反噬。",
+        "created_at": "Sat Feb 28 13:09:07 +0000 2026",
+        "lang": "ja",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1712095004",
+          "name": "i5ting",
+          "screen_name": "i5ting",
+          "description": "前阿里，字节前端技术专家，关注Node.js AI Agent开发和Moonbit语言",
+          "followers_count": 12660,
+          "friends_count": 2934,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 7,
+          "reply_count": 4,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 13,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028017233201435128",
+      "text": "RT @vista8: https://t.co/UsMfslH2Yz",
+      "created_at": "Sun Mar 01 07:59:21 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2027765124828905529",
+        "text": "https://t.co/UsMfslH2Yz",
+        "created_at": "Sat Feb 28 15:17:34 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6690032",
+          "name": "向阳乔木",
+          "screen_name": "vista8",
+          "description": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+          "followers_count": 95836,
+          "friends_count": 1499,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 31,
+          "favorite_count": 204,
+          "reply_count": 9,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 31,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
