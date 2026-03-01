@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235591858,
+    "followers_count": 235593321,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260301",
-  "last_updated": "2026-03-01T10:06:29.716398",
-  "tweet_count": 18,
+  "last_updated": "2026-03-01T12:08:42.985962",
+  "tweet_count": 19,
   "tweets": [
     {
       "id": "2027905747057598796",
@@ -889,6 +889,87 @@
         "favorite_count": 11146,
         "reply_count": 1399,
         "quote_count": 79
+      }
+    },
+    {
+      "id": "2028073226304102842",
+      "text": "RT @SpaceX: Falcon 9 launches 25 @Starlink satellites from California https://t.co/56jvvb5BJ0",
+      "created_at": "Sun Mar 01 11:41:51 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2028071552819064832",
+          "url": "https://pbs.twimg.com/media/HCUoVQTa8AAVkNg.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2028071606988460032",
+          "url": "https://pbs.twimg.com/media/HCUoYaGaUAA6yG5.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2028071643235667968",
+          "url": "https://pbs.twimg.com/media/HCUoahIa0AAZCwn.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2028071666958626816",
+          "url": "https://pbs.twimg.com/media/HCUob5gacAAiUKT.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2028072801706582056",
+        "text": "Falcon 9 launches 25 @Starlink satellites from California https://t.co/56jvvb5BJ0",
+        "created_at": "Sun Mar 01 11:40:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028071552819064832",
+            "url": "https://pbs.twimg.com/media/HCUoVQTa8AAVkNg.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2028071606988460032",
+            "url": "https://pbs.twimg.com/media/HCUoYaGaUAA6yG5.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2028071643235667968",
+            "url": "https://pbs.twimg.com/media/HCUoahIa0AAZCwn.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2028071666958626816",
+            "url": "https://pbs.twimg.com/media/HCUob5gacAAiUKT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41116973,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 294,
+          "favorite_count": 1820,
+          "reply_count": 408,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 294,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
