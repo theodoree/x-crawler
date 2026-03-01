@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235607871,
+    "followers_count": 235626459,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260301",
-  "last_updated": "2026-03-01T14:06:44.295531",
-  "tweet_count": 24,
+  "last_updated": "2026-03-01T16:06:27.864000",
+  "tweet_count": 26,
   "tweets": [
     {
       "id": "2027905747057598796",
@@ -1179,6 +1179,90 @@
         "favorite_count": 56354,
         "reply_count": 2421,
         "quote_count": 119
+      }
+    },
+    {
+      "id": "2028113604948463667",
+      "text": "Yes, and destroying democracy",
+      "created_at": "Sun Mar 01 14:22:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028097691264172081",
+        "text": "They are subverting the will of their own voters.",
+        "created_at": "Sun Mar 01 13:19:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1841988608825466880",
+          "name": "America",
+          "screen_name": "america",
+          "description": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+          "followers_count": 1190080,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 968,
+          "favorite_count": 7443,
+          "reply_count": 258,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 3876,
+        "favorite_count": 37550,
+        "reply_count": 2233,
+        "quote_count": 106
+      }
+    },
+    {
+      "id": "2028113898419687856",
+      "text": "RT @visegrad24: Ilhan Omar’s father was a colonel serving in the genocidal regime of Somali dictator Siad Barre.\n\nHis years of service incl…",
+      "created_at": "Sun Mar 01 14:23:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028103997098283012",
+        "text": "Ilhan Omar’s father was a colonel serving in the genocidal regime of Somali dictator Siad Barre.\n\nHis years of service included  the 1977-1979 Oagden War which saw horrific crimes and human rights abuses.\n\nYou father was amongst those responsible for the horrors of war. https://t.co/qadIs5n02i",
+        "created_at": "Sun Mar 01 13:44:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028103991666544640",
+            "url": "https://pbs.twimg.com/media/HCVF1cbWEAACn-t.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1222773302441148416",
+          "name": "Visegrád 24",
+          "screen_name": "visegrad24",
+          "description": "Aggregating and curating news, politics and current affairs.",
+          "followers_count": 1661492,
+          "friends_count": 2266,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 3155,
+          "favorite_count": 13300,
+          "reply_count": 537,
+          "quote_count": 102
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3155,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

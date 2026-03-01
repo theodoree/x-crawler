@@ -1,12 +1,116 @@
 {
   "date": "20260301",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-01T14:06:44.263147",
-  "tweet_count": 229,
-  "unique_tweet_count": 229,
-  "total_crawled": 423,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-03-01T16:06:27.832140",
+  "tweet_count": 231,
+  "unique_tweet_count": 231,
+  "total_crawled": 429,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2028113898419687856",
+      "text": "RT @visegrad24: Ilhan Omar’s father was a colonel serving in the genocidal regime of Somali dictator Siad Barre.\n\nHis years of service incl…",
+      "created_at": "Sun Mar 01 14:23:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028103997098283012",
+        "text": "Ilhan Omar’s father was a colonel serving in the genocidal regime of Somali dictator Siad Barre.\n\nHis years of service included  the 1977-1979 Oagden War which saw horrific crimes and human rights abuses.\n\nYou father was amongst those responsible for the horrors of war. https://t.co/qadIs5n02i",
+        "created_at": "Sun Mar 01 13:44:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028103991666544640",
+            "url": "https://pbs.twimg.com/media/HCVF1cbWEAACn-t.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1222773302441148416",
+          "name": "Visegrád 24",
+          "screen_name": "visegrad24",
+          "description": "Aggregating and curating news, politics and current affairs.",
+          "followers_count": 1661492,
+          "friends_count": 2266,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 3155,
+          "favorite_count": 13300,
+          "reply_count": 537,
+          "quote_count": 102
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235626459,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3155,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028113604948463667",
+      "text": "Yes, and destroying democracy",
+      "created_at": "Sun Mar 01 14:22:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028097691264172081",
+        "text": "They are subverting the will of their own voters.",
+        "created_at": "Sun Mar 01 13:19:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1841988608825466880",
+          "name": "America",
+          "screen_name": "america",
+          "description": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+          "followers_count": 1190080,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 968,
+          "favorite_count": 7443,
+          "reply_count": 258,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235626459,
+        "friends_count": 1288,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3876,
+        "favorite_count": 37550,
+        "reply_count": 2233,
+        "quote_count": 106
+      }
+    },
     {
       "id": "2028099621575180392",
       "text": "😑",
