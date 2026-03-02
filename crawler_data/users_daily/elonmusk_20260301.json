@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235669274,
+    "followers_count": 235678749,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260301",
-  "last_updated": "2026-03-01T22:05:36.392439",
-  "tweet_count": 31,
+  "last_updated": "2026-03-02T00:21:01.306561",
+  "tweet_count": 32,
   "tweets": [
     {
       "id": "2027905747057598796",
@@ -1525,6 +1525,75 @@
         "favorite_count": 7212,
         "reply_count": 1566,
         "quote_count": 70
+      }
+    },
+    {
+      "id": "2028242253467336927",
+      "text": "RT @chriswithans: CATO will classify him as “right wing” because he’s a religiously-inspired jihadist and “American” because he’s naturaliz…",
+      "created_at": "Sun Mar 01 22:53:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028195708294316160",
+        "text": "CATO will classify him as “right wing” because he’s a religiously-inspired jihadist and “American” because he’s naturalized.  That’s how their vaunted terrorist database works.\n\nBut then they’ll also be classifying him as a net-paying immigrant because he won’t be taking social security.  I’m serious.  I am not exaggerating.",
+        "created_at": "Sun Mar 01 19:48:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2028171028900266261",
+          "text": "BREAKING: @FoxNews has obtained a photo of the Austin, TX mass shooter, armed & wearing a sweater that says “Property of Allah”. He has not been identified by authorities, but multiple federal law enforcement sources tell FOX he is a 53-year-old naturalized US citizen who was born in Senegal and was living in Pflugerville, TX. I am told he was also wearing an undershirt that had an Iranian flag on it.",
+          "created_at": "Sun Mar 01 18:10:29 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2028171024877932544",
+              "url": "https://pbs.twimg.com/media/HCWCzSmW0AAnjQj.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1071585991",
+            "name": "Bill Melugin",
+            "screen_name": "BillMelugin_",
+            "description": "Congressional correspondent for @foxnews in DC. 4x EMMY winner, 3x Edward R. Murrow winner, 4x RTNA Golden Mike winner. @Cronkite_ASU grad & SoCal native.",
+            "followers_count": 627831,
+            "friends_count": 3634,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3806,
+            "favorite_count": 12480,
+            "reply_count": 901,
+            "quote_count": 652
+          }
+        },
+        "user": {
+          "id": "333176681",
+          "name": "Chris",
+          "screen_name": "chriswithans",
+          "description": "'Nonplussed' correction enthusiast.  'Irregardless' normalization advocate.",
+          "followers_count": 12773,
+          "friends_count": 1245,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1113,
+          "favorite_count": 8931,
+          "reply_count": 270,
+          "quote_count": 32
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1113,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
