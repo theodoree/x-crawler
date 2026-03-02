@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 189030,
+    "followers_count": 189041,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260302",
-  "last_updated": "2026-03-02T16:13:52.758501",
-  "tweet_count": 1,
+  "last_updated": "2026-03-02T18:14:51.334729",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2028298090403311679",
@@ -47,6 +47,51 @@
         "retweet_count": 1,
         "favorite_count": 25,
         "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028511100220658128",
+      "text": "帮转招人信息",
+      "created_at": "Mon Mar 02 16:41:48 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028409320803885463",
+        "text": "有没有base北京感兴趣的朋友，初创公司，非常早期，AI Agent 基础设施方向，全力拥抱AI！直接私信即可 https://t.co/d2L1laay8Z",
+        "created_at": "Mon Mar 02 09:57:22 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028409310615928832",
+            "url": "https://pbs.twimg.com/media/HCZbhWJbgAAIY7Z.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "797356078233251840",
+          "name": "左子祯",
+          "screen_name": "zuozizhen",
+          "description": "创造更多，探索更多",
+          "followers_count": 17383,
+          "friends_count": 264,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 72,
+          "reply_count": 18,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "reply_count": 1,
         "quote_count": 0
       }
     }
