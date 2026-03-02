@@ -1,12 +1,190 @@
 {
   "date": "20260302",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-02T00:21:01.275539",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-02T03:00:13.898768",
+  "tweet_count": 203,
+  "unique_tweet_count": 203,
+  "total_crawled": 400,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2028298090403311679",
+      "text": "问题是大部分就真的是在 Vibe Coding，但觉得自己是在 Agentic Engineering。",
+      "created_at": "Mon Mar 02 02:35:23 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028258969953935366",
+        "text": "我建议大家在用词的时候尽量使用 Agentic Engineering 而不是 Vibe Coding\n这个真的会影响 mindset\nCoding 越来越 cheap，但工程思维的价值是越来越高",
+        "created_at": "Sun Mar 01 23:59:56 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6782882",
+          "name": "Orange AI",
+          "screen_name": "oran_ge",
+          "description": "CEO of MarsWave. Build for agents, by agents.",
+          "followers_count": 164104,
+          "friends_count": 612,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 173,
+          "reply_count": 24,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 188875,
+        "friends_count": 1558,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 25,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028276817241755839",
+      "text": "RT @imPenny2x: This is one of the best transparency upgrades to 𝕏 since Elon took over. I have turned down more than one “offer” because th…",
+      "created_at": "Mon Mar 02 01:10:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028196064814416220",
+        "text": "This is one of the best transparency upgrades to 𝕏 since Elon took over. I have turned down more than one “offer” because the expectation was that you do not disclose. I hope it is brutally enforced. 𝕏 wins by dominating in authenticity and accountability and this is it.",
+        "created_at": "Sun Mar 01 19:49:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2028172473624395976",
+          "text": "Today we're announcing Paid Partnership labels on posts. X's core value is providing on authentic pulse on humanity.\n\nWhile we want to encourage people to build their businesses on X, undisclosed promotions hurt the integrity of the product and lead people to distrust the content they read on X.\n\nThis new feature will allow you to comply with regulations, but more importantly: it enables you to be transparent with your followers.",
+          "created_at": "Sun Mar 01 18:16:13 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2028171265757020160",
+              "url": "https://video.twimg.com/amplify_video/2028171265757020160/vid/avc1/1080x1080/Uby1KyI13afivEeh.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "636513296",
+            "name": "Nikita Bier",
+            "screen_name": "nikitabier",
+            "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+            "followers_count": 845721,
+            "friends_count": 2023,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 777,
+            "favorite_count": 8720,
+            "reply_count": 1873,
+            "quote_count": 560
+          }
+        },
+        "user": {
+          "id": "1522405142888255488",
+          "name": "Penny2x",
+          "screen_name": "imPenny2x",
+          "description": "American as f🇺🇸ck. Never lie. Tech, culture, family, and the Elon ecosystem. $TSLA.",
+          "followers_count": 132665,
+          "friends_count": 5298,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 295,
+          "favorite_count": 1683,
+          "reply_count": 144,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235692754,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 295,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028271693966516734",
+      "text": "Another all-time record in 𝕏 usage",
+      "created_at": "Mon Mar 02 00:50:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028265231944970601",
+        "text": "I would like to issue a correction to my previous post:\n\nThe biggest day on 𝕏 in history is today.",
+        "created_at": "Mon Mar 02 00:24:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "636513296",
+          "name": "Nikita Bier",
+          "screen_name": "nikitabier",
+          "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+          "followers_count": 845721,
+          "friends_count": 2023,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 819,
+          "favorite_count": 14208,
+          "reply_count": 1675,
+          "quote_count": 140
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235692754,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3836,
+        "favorite_count": 51680,
+        "reply_count": 3305,
+        "quote_count": 254
+      }
+    },
     {
       "id": "2028242253467336927",
       "text": "RT @chriswithans: CATO will classify him as “right wing” because he’s a religiously-inspired jihadist and “American” because he’s naturaliz…",

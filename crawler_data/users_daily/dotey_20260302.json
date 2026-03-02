@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 188875,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260302",
+  "last_updated": "2026-03-02T03:00:13.927945",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2028298090403311679",
+      "text": "问题是大部分就真的是在 Vibe Coding，但觉得自己是在 Agentic Engineering。",
+      "created_at": "Mon Mar 02 02:35:23 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028258969953935366",
+        "text": "我建议大家在用词的时候尽量使用 Agentic Engineering 而不是 Vibe Coding\n这个真的会影响 mindset\nCoding 越来越 cheap，但工程思维的价值是越来越高",
+        "created_at": "Sun Mar 01 23:59:56 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6782882",
+          "name": "Orange AI",
+          "screen_name": "oran_ge",
+          "description": "CEO of MarsWave. Build for agents, by agents.",
+          "followers_count": 164104,
+          "friends_count": 612,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 173,
+          "reply_count": 24,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 25,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    }
+  ]
+}

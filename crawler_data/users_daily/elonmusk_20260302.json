@@ -1,0 +1,124 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 235692754,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260302",
+  "last_updated": "2026-03-02T03:00:13.934984",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2028271693966516734",
+      "text": "Another all-time record in 𝕏 usage",
+      "created_at": "Mon Mar 02 00:50:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028265231944970601",
+        "text": "I would like to issue a correction to my previous post:\n\nThe biggest day on 𝕏 in history is today.",
+        "created_at": "Mon Mar 02 00:24:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "636513296",
+          "name": "Nikita Bier",
+          "screen_name": "nikitabier",
+          "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+          "followers_count": 845721,
+          "friends_count": 2023,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 819,
+          "favorite_count": 14208,
+          "reply_count": 1675,
+          "quote_count": 140
+        }
+      },
+      "stats": {
+        "retweet_count": 3836,
+        "favorite_count": 51680,
+        "reply_count": 3305,
+        "quote_count": 254
+      }
+    },
+    {
+      "id": "2028276817241755839",
+      "text": "RT @imPenny2x: This is one of the best transparency upgrades to 𝕏 since Elon took over. I have turned down more than one “offer” because th…",
+      "created_at": "Mon Mar 02 01:10:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028196064814416220",
+        "text": "This is one of the best transparency upgrades to 𝕏 since Elon took over. I have turned down more than one “offer” because the expectation was that you do not disclose. I hope it is brutally enforced. 𝕏 wins by dominating in authenticity and accountability and this is it.",
+        "created_at": "Sun Mar 01 19:49:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2028172473624395976",
+          "text": "Today we're announcing Paid Partnership labels on posts. X's core value is providing on authentic pulse on humanity.\n\nWhile we want to encourage people to build their businesses on X, undisclosed promotions hurt the integrity of the product and lead people to distrust the content they read on X.\n\nThis new feature will allow you to comply with regulations, but more importantly: it enables you to be transparent with your followers.",
+          "created_at": "Sun Mar 01 18:16:13 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2028171265757020160",
+              "url": "https://video.twimg.com/amplify_video/2028171265757020160/vid/avc1/1080x1080/Uby1KyI13afivEeh.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "636513296",
+            "name": "Nikita Bier",
+            "screen_name": "nikitabier",
+            "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+            "followers_count": 845721,
+            "friends_count": 2023,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 777,
+            "favorite_count": 8720,
+            "reply_count": 1873,
+            "quote_count": 560
+          }
+        },
+        "user": {
+          "id": "1522405142888255488",
+          "name": "Penny2x",
+          "screen_name": "imPenny2x",
+          "description": "American as f🇺🇸ck. Never lie. Tech, culture, family, and the Elon ecosystem. $TSLA.",
+          "followers_count": 132665,
+          "friends_count": 5298,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 295,
+          "favorite_count": 1683,
+          "reply_count": 144,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 295,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
