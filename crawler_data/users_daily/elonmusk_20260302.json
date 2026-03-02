@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235744408,
+    "followers_count": 235754018,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260302",
-  "last_updated": "2026-03-02T18:14:51.308609",
-  "tweet_count": 25,
+  "last_updated": "2026-03-02T20:10:25.975157",
+  "tweet_count": 26,
   "tweets": [
     {
       "id": "2028271693966516734",
@@ -1116,6 +1116,27 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2028548444802154781",
+      "text": "https://t.co/zyoI3heyAe",
+      "created_at": "Mon Mar 02 19:10:12 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2028548437663436800",
+          "url": "https://pbs.twimg.com/media/HCbaDmyaUAANPmF.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7933,
+        "favorite_count": 120565,
+        "reply_count": 5279,
+        "quote_count": 689
       }
     }
   ]

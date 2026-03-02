@@ -1,12 +1,43 @@
 {
   "date": "20260302",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-02T18:14:51.276458",
-  "tweet_count": 227,
-  "unique_tweet_count": 227,
-  "total_crawled": 421,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-03-02T20:10:25.942844",
+  "tweet_count": 228,
+  "unique_tweet_count": 228,
+  "total_crawled": 427,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2028548444802154781",
+      "text": "https://t.co/zyoI3heyAe",
+      "created_at": "Mon Mar 02 19:10:12 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2028548437663436800",
+          "url": "https://pbs.twimg.com/media/HCbaDmyaUAANPmF.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235754018,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7933,
+        "favorite_count": 120565,
+        "reply_count": 5279,
+        "quote_count": 689
+      }
+    },
     {
       "id": "2028528423736688907",
       "text": "RT @thatsKAIZEN: Please don’t use ChatGPT https://t.co/65EBvKyDNV",
