@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235698487,
+    "followers_count": 235707857,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260302",
-  "last_updated": "2026-03-02T08:14:09.172838",
-  "tweet_count": 8,
+  "last_updated": "2026-03-02T10:18:16.573754",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2028271693966516734",
@@ -383,6 +383,105 @@
       "quoted": null,
       "stats": {
         "retweet_count": 60,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028387896840052910",
+      "text": "Imagine keeps improving",
+      "created_at": "Mon Mar 02 08:32:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028385119656964521",
+        "text": "Example of using the Grok Imagine extension:\nHere is a 26-second scene without cuts, without editing, perfect stylistic coherence, made in 5 minutes.\n\n I requested two 10-second extensions and one 6-second extension.\n There is no loss of quality throughout the sequence and perfect sound consistency.",
+        "created_at": "Mon Mar 02 08:21:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028385055760941056",
+            "url": "https://video.twimg.com/ext_tw_video/2028385055760941056/pu/vid/avc1/1280x720/d1ce64ye83TuHxMj.mp4?tag=22",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 117444,
+          "friends_count": 3460,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 96,
+          "favorite_count": 709,
+          "reply_count": 159,
+          "quote_count": 26
+        }
+      },
+      "stats": {
+        "retweet_count": 1290,
+        "favorite_count": 10974,
+        "reply_count": 1593,
+        "quote_count": 62
+      }
+    },
+    {
+      "id": "2028388027723309144",
+      "text": "RT @XFreeze: You imagine, Grok Imagine does the magic 🪄 https://t.co/rahjVKziyu",
+      "created_at": "Mon Mar 02 08:32:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2028384043167858688",
+          "url": "https://video.twimg.com/amplify_video/2028384043167858688/vid/avc1/954x720/OPzB52IFpcf1Odw3.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2028385062920532000",
+        "text": "You imagine, Grok Imagine does the magic 🪄 https://t.co/rahjVKziyu",
+        "created_at": "Mon Mar 02 08:20:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028384043167858688",
+            "url": "https://video.twimg.com/amplify_video/2028384043167858688/vid/avc1/954x720/OPzB52IFpcf1Odw3.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 160540,
+          "friends_count": 1622,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 214,
+          "favorite_count": 1224,
+          "reply_count": 297,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 214,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
