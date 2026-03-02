@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235714228,
+    "followers_count": 235730126,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260302",
-  "last_updated": "2026-03-02T14:18:53.492698",
-  "tweet_count": 12,
+  "last_updated": "2026-03-02T16:13:52.734528",
+  "tweet_count": 20,
   "tweets": [
     {
       "id": "2028271693966516734",
@@ -569,6 +569,303 @@
         "favorite_count": 3576,
         "reply_count": 623,
         "quote_count": 24
+      }
+    },
+    {
+      "id": "2028475394018746447",
+      "text": "Extend your video to 30 seconds",
+      "created_at": "Mon Mar 02 14:19:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028395796643590577",
+        "text": "Grok Imagine just got a cool new feature\n\nYou can now extend your videos up to 30 seconds with the brand-new Frame Extend option\n\nGenerate a video → pick any moment in the timeline and keep going https://t.co/N69zVeHXhF",
+        "created_at": "Mon Mar 02 09:03:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028393077228929024",
+            "url": "https://video.twimg.com/amplify_video/2028393077228929024/vid/avc1/954x720/CTlGsx0JhZS2Z8v2.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 160804,
+          "friends_count": 1623,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 125,
+          "favorite_count": 939,
+          "reply_count": 192,
+          "quote_count": 42
+        }
+      },
+      "stats": {
+        "retweet_count": 1730,
+        "favorite_count": 13301,
+        "reply_count": 2194,
+        "quote_count": 119
+      }
+    },
+    {
+      "id": "2028480596935348426",
+      "text": "Grok is based, which just means that it sees and speaks the truth",
+      "created_at": "Mon Mar 02 14:40:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028479896922566747",
+        "text": "Logical consistency matters in language. Humans have migrated everywhere over millennia—Europeans trace roots to ancient tribes like Celts, Slavs, and pre-Indo-Europeans who've inhabited the continent for 10,000+ years. Applying \"indigenous\" or \"First Nations\" only to post-1492 groups in the Americas/Antipodes while excluding Europeans from Europe creates an arbitrary double standard. All peoples have deep ties to their ancestral lands; fairness means using terms uniformly based on history, not selective narratives.",
+        "created_at": "Mon Mar 02 14:37:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8202207,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 341,
+          "favorite_count": 2828,
+          "reply_count": 164,
+          "quote_count": 21
+        }
+      },
+      "stats": {
+        "retweet_count": 1625,
+        "favorite_count": 15688,
+        "reply_count": 2238,
+        "quote_count": 114
+      }
+    },
+    {
+      "id": "2028482960622768224",
+      "text": "RT @Artedeingenio: @elonmusk This feature is really cool. https://t.co/sRvXGYhpGB",
+      "created_at": "Mon Mar 02 14:49:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2028480499891478528",
+          "url": "https://video.twimg.com/amplify_video/2028480499891478528/vid/avc1/752x416/R-ESKeOdLZGgC01_.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": {
+        "id": "2028480585841197494",
+        "text": "@elonmusk This feature is really cool. https://t.co/sRvXGYhpGB",
+        "created_at": "Mon Mar 02 14:40:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028480499891478528",
+            "url": "https://video.twimg.com/amplify_video/2028480499891478528/vid/avc1/752x416/R-ESKeOdLZGgC01_.mp4?tag=24",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1702568876",
+          "name": "OscarAI",
+          "screen_name": "Artedeingenio",
+          "description": "👨‍🎨 AI artist\n🤖 Expert in generative AI\n\n💥 Every day I share amazing srefs and tutorials with my subscribers.\n\n🤯 DomoAI Creator - Link below",
+          "followers_count": 51013,
+          "friends_count": 989,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 172,
+          "favorite_count": 1081,
+          "reply_count": 189,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 172,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028497781489586492",
+      "text": "Hmm",
+      "created_at": "Mon Mar 02 15:48:53 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028487820130529463",
+        "text": "\"If this legislation passes as is, it ensures that the best company will not win. And the country will see that superior performance does not win, having the best lobbyist does.\"\n\nhttps://t.co/x4jDOwadVr",
+        "created_at": "Mon Mar 02 15:09:18 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15726728",
+          "name": "Eric Berger",
+          "screen_name": "SciGuySpace",
+          "description": "Senior Space Editor at Ars Technica. Likes rockets. Author of the best-selling book on the Falcon 9 and Dragon, REENTRY. https://t.co/5HYUhJzFHZ",
+          "followers_count": 416198,
+          "friends_count": 752,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 102,
+          "favorite_count": 766,
+          "reply_count": 133,
+          "quote_count": 25
+        }
+      },
+      "stats": {
+        "retweet_count": 491,
+        "favorite_count": 3982,
+        "reply_count": 686,
+        "quote_count": 21
+      }
+    },
+    {
+      "id": "2028499415498203477",
+      "text": "Again it happens",
+      "created_at": "Mon Mar 02 15:55:23 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028449623224766802",
+        "text": "Invader grins down at the Scottish people after his stabbing spree outside a primary school in Edinburgh. https://t.co/O3LIt9bCWK",
+        "created_at": "Mon Mar 02 12:37:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028449621152866304",
+            "url": "https://pbs.twimg.com/media/HCaALumXoAAvgNJ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "374712154",
+          "name": "Tommy Robinson 🇬🇧",
+          "screen_name": "TRobinsonNewEra",
+          "description": "Journalist Support us: https://t.co/IBf12EjvdO My books: https://t.co/deh3pH9EEk for direct contact https://t.co/zOcM3ad9DX",
+          "followers_count": 1912623,
+          "friends_count": 12995,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2839,
+          "favorite_count": 11756,
+          "reply_count": 807,
+          "quote_count": 151
+        }
+      },
+      "stats": {
+        "retweet_count": 2433,
+        "favorite_count": 16303,
+        "reply_count": 1149,
+        "quote_count": 58
+      }
+    },
+    {
+      "id": "2028500984977330453",
+      "text": "Expanding to the stars avoids risk of a mouse utopian behavioral sink",
+      "created_at": "Mon Mar 02 16:01:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 339,
+        "favorite_count": 4269,
+        "reply_count": 1007,
+        "quote_count": 60
+      }
+    },
+    {
+      "id": "2028501110261211606",
+      "text": "https://t.co/MgSa3QQ9GN",
+      "created_at": "Mon Mar 02 16:02:07 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 52,
+        "favorite_count": 370,
+        "reply_count": 119,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2028503857077363175",
+      "text": "Utterly illogical",
+      "created_at": "Mon Mar 02 16:13:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028482265676738954",
+        "text": "I read a lot of woke “scholarship,” and the way the term “Indigenous” is used makes it clear it’s being treated as the antithesis of “white,” because “white” is viewed as nearly synonymous with “colonizer/settler.”\n\nIn this framework, “Indigenous” refers to “pre-settler societies” (see figure). But if “white” and “settler” are treated as synonyms, the logic forces the bizarre conclusion that most of Europe has no Indigenous population at all, and white people are native to nowhere.\n\nThe left likes to criticize what they call “scientific racism,” but there are few clearer examples of it than this.",
+        "created_at": "Mon Mar 02 14:47:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028481302454829056",
+            "url": "https://pbs.twimg.com/media/HCac_0pXgAA3J1B.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1009716150895341568",
+          "name": "Colin Wright",
+          "screen_name": "SwipeWright",
+          "description": "Evolutionary Biology PhD | CEO/Editor-in-Chief @RealLastStand | Fellow @ManhattanInst | Advisor @AtheistsLiberty | Truth First.\n\n📧: cwright1859 @ gmail",
+          "followers_count": 290318,
+          "friends_count": 2221,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 150,
+          "favorite_count": 866,
+          "reply_count": 51,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 110,
+        "reply_count": 63,
+        "quote_count": 1
       }
     }
   ]
