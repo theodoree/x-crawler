@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235685496,
+    "followers_count": 235689369,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260302",
-  "last_updated": "2026-03-02T04:36:16.437341",
-  "tweet_count": 2,
+  "last_updated": "2026-03-02T06:20:28.996062",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2028271693966516734",
@@ -118,6 +118,51 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2028331960536625270",
+      "text": "Starlink",
+      "created_at": "Mon Mar 02 04:49:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028284498555924671",
+        "text": "Starlink Mobile’s next-gen satellites will deliver 5G speeds from space with 100x the data density of the current V1 generation satellites\n\nV2 satellites will seamlessly enable streaming, internet browsing, high-speed apps and voice calls, just like being connected to a terrestrial network → https://t.co/CV6MjKASx7",
+        "created_at": "Mon Mar 02 01:41:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028283903480590336",
+            "url": "https://pbs.twimg.com/media/HCXpdsKacAAnHFm.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1557895,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1390,
+          "favorite_count": 8682,
+          "reply_count": 617,
+          "quote_count": 205
+        }
+      },
+      "stats": {
+        "retweet_count": 2600,
+        "favorite_count": 26160,
+        "reply_count": 2287,
+        "quote_count": 136
       }
     }
   ]
