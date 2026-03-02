@@ -1,12 +1,116 @@
 {
   "date": "20260302",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-02T12:12:06.085863",
-  "tweet_count": 211,
-  "unique_tweet_count": 211,
-  "total_crawled": 411,
-  "duplicates_removed": 200,
+  "last_crawl_time": "2026-03-02T14:18:53.469999",
+  "tweet_count": 213,
+  "unique_tweet_count": 213,
+  "total_crawled": 305,
+  "duplicates_removed": 92,
   "tweets": [
+    {
+      "id": "2028473911248339387",
+      "text": "If one is to use the term “First Nations” or “Indigenous Peoples” or “Native Americans” in the Americas and Antipodes, then, in fairness, it should also apply to English, French, Spanish and other such peoples in Europe",
+      "created_at": "Mon Mar 02 14:14:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235714228,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 373,
+        "favorite_count": 3576,
+        "reply_count": 623,
+        "quote_count": 24
+      }
+    },
+    {
+      "id": "2028471510298694032",
+      "text": "RT @Starlink: Starlink Mobile is partnering with @deutschetelekom to support over 140M subscribers across 10 European countries. \n\nThe serv…",
+      "created_at": "Mon Mar 02 14:04:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028459012363309232",
+        "text": "Starlink Mobile is partnering with @deutschetelekom to support over 140M subscribers across 10 European countries. \n\nThe service will be the first in the region to launch V2 next-gen technology using our new Mobile Satellite Service spectrum, which will deliver 5G speeds to cell phones in remote areas. → https://t.co/CV6MjKASx7",
+        "created_at": "Mon Mar 02 13:14:50 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2028455278841090193",
+          "text": "Starting in 2028, we will complement our mobile network with satellite connectivity from @Starlink. This will allow us to close the very last white spots in Europe - for example inaccessible terrain or protected natural areas.\n\nMore on this: https://t.co/616ULGcuBA https://t.co/9GmBKGyt5w",
+          "created_at": "Mon Mar 02 13:00:00 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2028455271845040128",
+              "url": "https://pbs.twimg.com/media/HCaFUpEXkAA_Kyj.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "92224801",
+            "name": "Deutsche Telekom",
+            "screen_name": "deutschetelekom",
+            "description": "Hier postet das #CorporateCommunications Team 👉 https://t.co/nc60KWegQm | Für Kundenanliegen und Servicefälle: @Telekom_hilft 💡",
+            "followers_count": 78445,
+            "friends_count": 611,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 47,
+            "favorite_count": 441,
+            "reply_count": 56,
+            "quote_count": 25
+          }
+        },
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1562207,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 237,
+          "favorite_count": 1922,
+          "reply_count": 207,
+          "quote_count": 39
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235714228,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 237,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2028388027723309144",
       "text": "RT @XFreeze: You imagine, Grok Imagine does the magic 🪄 https://t.co/rahjVKziyu",
