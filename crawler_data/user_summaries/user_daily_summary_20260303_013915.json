@@ -1,0 +1,13 @@
+{
+  "summary_type": "user_daily",
+  "generation_time": "2026-03-03T01:39:15.330749",
+  "tweet_count": 3,
+  "summary": "**新工具/技术**（如有）\n- Agentic Engineering（概念/术语）：把“Agent”体系化为工程学方法，强调设计、流水线和治理，而不是单纯写 prompt 或做原型。\n- AI Agent 基础设施（领域/岗位）：早期初创方向，提供支撑多 agent 运行、编排与监控的底座技术，招聘信号表明市场需求。\n\n**核心观点/方法论**（如有）\n- 区分 \"Vibe Coding\" vs \"Agentic Engineering\"：前者偏临时、靠感觉，后者强调工程化、可复用与产品化；重要因为后者产出可扩展、可维护的系统。\n- 用词会影响 mindset：把工作称作 Agentic Engineering 会促使团队注重架构与流程，避免只堆模型或 prompt。\n- 编码“廉价化”、工程思维升值：基础模型与自动化普及后，差异化在于系统设计、治理与工程能力。\n\n**实践经验/案例**（如有）\n- dotey 的观察：多数人实际上是在做 Vibe Coding，但自我感觉是 Agentic Engineering，说明存在认知与能力的错配。\n- 招聘转发：有北京基地的早期公司在招 AI Agent 基础设施方向人才，体现对工程/infra 能力的实际需求。\n- 分享链接：转发外部资源以促进交流（原文链接内容未明确）。\n- 行动建议（个人）：想从 vibe 转向 agentic，应把重心放在接口设计、自动化、可观测性与复用能力，而非只优化单次输出。\n- 团队/招聘建议：早期团队优先招聘有工程化思维和 infra 经验的人，而不是只会快速打原型的 coder。\n- 社会化影响与结论：精准用词能引导人才与投资流向，核心是从短期“vibe”走向长期工程化，重视 agent 生态的基础设施建设，避免概念化自我满足。",
+  "metadata": {
+    "original_tweets": 3,
+    "retweets": 0,
+    "media_tweets": 0,
+    "data_hash": "0e873f3a",
+    "user": "dotey"
+  }
+}
