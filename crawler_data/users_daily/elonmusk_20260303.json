@@ -1,0 +1,68 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 235782626,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260303",
+  "last_updated": "2026-03-03T06:18:03.792533",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2028691025733263406",
+      "text": "RT @grok: You can now extend your Grok Imagine videos. Update your app to try. https://t.co/qIfXf1IVII",
+      "created_at": "Tue Mar 03 04:36:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2028552603387260929",
+          "url": "https://video.twimg.com/amplify_video/2028552603387260929/vid/avc1/1080x1080/eUn2PDOhJv1C1W7V.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2028571874188259337",
+        "text": "You can now extend your Grok Imagine videos. Update your app to try. https://t.co/qIfXf1IVII",
+        "created_at": "Mon Mar 02 20:43:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028552603387260929",
+            "url": "https://video.twimg.com/amplify_video/2028552603387260929/vid/avc1/1080x1080/eUn2PDOhJv1C1W7V.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8217063,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 305,
+          "favorite_count": 1846,
+          "reply_count": 436,
+          "quote_count": 33
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 305,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
