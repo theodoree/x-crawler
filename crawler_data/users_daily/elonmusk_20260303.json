@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235836322,
+    "followers_count": 235835149,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260303",
-  "last_updated": "2026-03-03T18:16:21.251021",
-  "tweet_count": 12,
+  "last_updated": "2026-03-03T20:09:50.958078",
+  "tweet_count": 14,
   "tweets": [
     {
       "id": "2028691025733263406",
@@ -615,6 +615,95 @@
       "quoted": null,
       "stats": {
         "retweet_count": 425,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028900938971542009",
+      "text": "Grok can help with your taxes",
+      "created_at": "Tue Mar 03 18:30:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028867967824314727",
+        "text": "Doublecheck your taxes with @grok.  A friend had Grok doublecheck TurboTax and it increased her tax refund by $1400.  That covers nearly four years of Grok Premium!\n\nDisclaimer: This/Grok is not tax advice so always confirm yourself too.",
+        "created_at": "Tue Mar 03 16:19:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1944046369980727296",
+          "name": "James Burnham",
+          "screen_name": "BurnhamDC",
+          "description": "Law and Government Affairs @xAI @X. Supporting @ndstudio. Former @WhiteHouse @TheJusticeDept and @DOGE.",
+          "followers_count": 14117,
+          "friends_count": 164,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 192,
+          "favorite_count": 2444,
+          "reply_count": 242,
+          "quote_count": 32
+        }
+      },
+      "stats": {
+        "retweet_count": 2868,
+        "favorite_count": 30747,
+        "reply_count": 3376,
+        "quote_count": 255
+      }
+    },
+    {
+      "id": "2028919582782800162",
+      "text": "RT @niccruzpatane: Ford CEO Jim Farley, in a new interview, says he realized Ford had been doing EVs all wrong after his team ripped apart…",
+      "created_at": "Tue Mar 03 19:44:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028898062064619801",
+        "text": "Ford CEO Jim Farley, in a new interview, says he realized Ford had been doing EVs all wrong after his team ripped apart a Tesla:\n\n“When we ripped apart a Tesla, I was just absolutely flabbergasted. The Mach-E's wiring harness was 70 pounds heavier and 1.6 kilometers longer. We didn't know what was going on in [Tesla engineers' ] minds. But now we understand. They had no prejudice. We had prejudice. We'd gone to our supply-chain person and said, \"Buy another wiring harness.\" [Tesla] said, \"Let's design the vehicle for the lowest, smallest battery.\" Totally different approach.”",
+        "created_at": "Tue Mar 03 18:19:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028898053399138304",
+            "url": "https://pbs.twimg.com/media/HCgYB65WUAAmCae.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2028898053537804288",
+            "url": "https://pbs.twimg.com/media/HCgYB7aaMAAdiTp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1494873435863977985",
+          "name": "Nic Cruz Patane",
+          "screen_name": "niccruzpatane",
+          "description": "Deep dive into everything Tesla",
+          "followers_count": 95061,
+          "friends_count": 160,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 439,
+          "favorite_count": 5213,
+          "reply_count": 352,
+          "quote_count": 71
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 441,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

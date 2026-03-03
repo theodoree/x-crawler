@@ -1,12 +1,317 @@
 {
   "date": "20260303",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-03T18:16:21.211820",
-  "tweet_count": 219,
-  "unique_tweet_count": 219,
-  "total_crawled": 416,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-03T20:09:50.926555",
+  "tweet_count": 225,
+  "unique_tweet_count": 225,
+  "total_crawled": 419,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2028919582782800162",
+      "text": "RT @niccruzpatane: Ford CEO Jim Farley, in a new interview, says he realized Ford had been doing EVs all wrong after his team ripped apart…",
+      "created_at": "Tue Mar 03 19:44:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028898062064619801",
+        "text": "Ford CEO Jim Farley, in a new interview, says he realized Ford had been doing EVs all wrong after his team ripped apart a Tesla:\n\n“When we ripped apart a Tesla, I was just absolutely flabbergasted. The Mach-E's wiring harness was 70 pounds heavier and 1.6 kilometers longer. We didn't know what was going on in [Tesla engineers' ] minds. But now we understand. They had no prejudice. We had prejudice. We'd gone to our supply-chain person and said, \"Buy another wiring harness.\" [Tesla] said, \"Let's design the vehicle for the lowest, smallest battery.\" Totally different approach.”",
+        "created_at": "Tue Mar 03 18:19:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028898053399138304",
+            "url": "https://pbs.twimg.com/media/HCgYB65WUAAmCae.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2028898053537804288",
+            "url": "https://pbs.twimg.com/media/HCgYB7aaMAAdiTp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1494873435863977985",
+          "name": "Nic Cruz Patane",
+          "screen_name": "niccruzpatane",
+          "description": "Deep dive into everything Tesla",
+          "followers_count": 95061,
+          "friends_count": 160,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 439,
+          "favorite_count": 5213,
+          "reply_count": 352,
+          "quote_count": 71
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235835149,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 441,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028908767673286719",
+      "text": "据说是从 DeepMind过去的新的 leader\nhttps://t.co/ClK7f9qINo",
+      "created_at": "Tue Mar 03 19:02:00 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028885623663411706",
+        "text": "@giffmana the new leader (do you know him? lol)\nhttps://t.co/ZCDw04Kg1O",
+        "created_at": "Tue Mar 03 17:30:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3426190841",
+          "name": "You Jiacheng",
+          "screen_name": "YouJiacheng",
+          "description": "a big fan of TileLang\n关注TileLang喵！关注TileLang谢谢喵！\nhttps://t.co/utshC0jrCO 十年老粉",
+          "followers_count": 10521,
+          "friends_count": 2238,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 101,
+          "reply_count": 7,
+          "quote_count": 5
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189320,
+        "friends_count": 1562,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028908345776648478",
+      "text": "Kaixin Li 离职\nhttps://t.co/jFA06gLGJP",
+      "created_at": "Tue Mar 03 19:00:19 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028880971945394553",
+        "text": "Signing off from @Alibaba_Qwen. Grateful for the chance to work with such brilliant minds. Proud of our impact. Onwards and upwards!",
+        "created_at": "Tue Mar 03 17:11:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1627257828338724864",
+          "name": "Kaixin Li",
+          "screen_name": "kxli_2000",
+          "description": "Final year PhD @ NUS\nPrev Qwen, Tiktok, Sea AI Lab\n\nAgents, Code and Multimodality\n\nCore contributor of Qwen3.5 & VL &Coder\n\n🖥️ScreenSpot-Pro",
+          "followers_count": 1047,
+          "friends_count": 139,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 34,
+          "favorite_count": 993,
+          "reply_count": 47,
+          "quote_count": 43
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189320,
+        "friends_count": 1562,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028904169986203703",
+      "text": "Qwen 技术负责人 Junyang Lin 今天在 X 上发了一条简短的告别：\"me stepping down. bye my beloved qwen.\"（我退出了。再见，我挚爱的 Qwen。）\n\n以下内容由 Grok 和 Claude 辅助整理：\n\n【1】事情来得很突然\n\n就在昨天，Qwen 团队刚发布了 Qwen3.5 小模型系列，0.8B 到 9B 四个版本，支持视觉理解和推理切换，本地跑只要 7GB 内存，性能吊打好几倍大的模型。社区一片叫好。\n\n结果今天一早，技术负责人就宣布走人了。\n\n更让人意外的是，这不是他自己想走的。Qwen 贡献者 Chen Cheng 第一时间回应：\n\n\"leaving wasn't your choice\"（离开不是你的选择）\n\n她说昨晚还跟 Junyang 一起发布 Qwen3.5 小模型，无法想象没有他的 Qwen 会是什么样。\n\n【2】不只走了一个人\n\nJunyang Lin 不是唯一离开的。Hyperbolic Labs CTO Yuchen Jin 确认，Qwen 另一位核心负责人 Binyuan Hui 也走了。这两位是那种北京时间凌晨 6 点还在协作上线模型的人。\n\n随后，Qwen3.5、Qwen VL、Qwen Coder 的核心贡献者 Kaixin Li 也发了告别帖：\n\n\"Signing off from Alibaba Qwen. Grateful for the chance... Onwards and upwards!\"\n\n目前确认离开的至少 3 到 4 人，全是核心骨干。\n\n【3】到底发生了什么？\n\n从各方回应拼出来的图大致是这样的：\n\n阿里云对 Qwen 团队的考核方式变了。Xinyu Yang 批评说，阿里云拿日活（DAU）这类消费级应用的指标来衡量基础模型团队，还用一位 Google Gemini 的非核心成员来替换 Junyang 的位置。一个做基础模型研究的团队，被当成做 App 的来管，创新自然就停了。\n\nYou Jiacheng 说得更直接：\n\n\"Alibaba-Cloud kicked out Qwen's tech lead\"（阿里云把 Qwen 的技术负责人赶走了）\n\n他提到接任者可能是 Hao Zhou，背景偏强化学习方向，社区对他能否带好 Qwen 持怀疑态度。\n\n还有人透露，新领导是绕过 Junyang 直接管理团队的，等于是架空。多位知情人士都指向同一个词：内部政治。\n\n【4】Qwen3 可能就是绝唱了\n\nPanda（Jiaxi Cui）的判断很悲观：Junyang 走后，Qwen3 系列可能是很长一段时间内的最后杰作，团队接下来会转向商业化。\n\n这个判断不是没有道理。Qwen 虽然技术上很强，在 Hugging Face 上下载量巨大，学术界和开发者都在用，但跟字节的豆包比，在国内消费市场的存在感确实弱。阿里云高层可能就是因为这一点，决定换方向换人。\n\nYuchen Jin 担心的是，Qwen 以后可能不再交付前沿开源模型，转向封闭商业化路线。\n\n【5】开源社区的反应\n\nX 上的讨论几乎一边倒。\n\nNathan Lambert 称之为\"legendary run\"（传奇之旅）。Unsloth AI 感谢 Qwen 对开源的贡献。Martin Ziqiao Ma 说 Qwen 一直是前沿实验室和外部社区之间的桥梁，这个桥可能要断了。\n\n批评声音也很多。Maziyar PANAHI 说希望他们出去建个新实验室，然后被阿里巴巴花 20 亿美元收购回来长个教训。Hugo Pinheiro 问了一个很多人想问的问题：为什么商业决策者总是在事情做得好的时候把它毁掉？\n\n社区里流传最广的一句话是：\"Qwen is nothing without its people.\"（Qwen 离开了做事的人，什么都不是。）\n\n【6】他们会去哪？\n\n目前没有确切消息。社区猜测的方向包括：自己创办新实验室、加入 DeepSeek 这类开源友好的团队，甚至有人喊话马斯克的 xAI 和 Hugging Face 赶紧把人抢了。\n\n不管去哪，这些人的能力摆在那里。Qwen 从小模型到大模型、从文本到多模态，能做出这样的成绩，靠的就是这批人。\n\n【最后】\n\n这件事是大公司里开源理想和商业化诉求的老矛盾。Qwen 团队用开源模型攒下了巨大的行业影响力和开发者口碑，但在公司内部的评价体系里，这些可能都不算 KPI。",
+      "created_at": "Tue Mar 03 18:43:43 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028865835373359513",
+        "text": "me stepping down. bye my beloved qwen.",
+        "created_at": "Tue Mar 03 16:11:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4473952878",
+          "name": "Junyang Lin",
+          "screen_name": "JustinLin610",
+          "description": "building Qwen universe @Alibaba_Qwen ❤️ 🍵 ☕️ 🍷 🥃",
+          "followers_count": 45394,
+          "friends_count": 2002,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 217,
+          "favorite_count": 5092,
+          "reply_count": 772,
+          "quote_count": 234
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189320,
+        "friends_count": 1562,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 129,
+        "reply_count": 22,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2028900938971542009",
+      "text": "Grok can help with your taxes",
+      "created_at": "Tue Mar 03 18:30:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028867967824314727",
+        "text": "Doublecheck your taxes with @grok.  A friend had Grok doublecheck TurboTax and it increased her tax refund by $1400.  That covers nearly four years of Grok Premium!\n\nDisclaimer: This/Grok is not tax advice so always confirm yourself too.",
+        "created_at": "Tue Mar 03 16:19:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1944046369980727296",
+          "name": "James Burnham",
+          "screen_name": "BurnhamDC",
+          "description": "Law and Government Affairs @xAI @X. Supporting @ndstudio. Former @WhiteHouse @TheJusticeDept and @DOGE.",
+          "followers_count": 14117,
+          "friends_count": 164,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 192,
+          "favorite_count": 2444,
+          "reply_count": 242,
+          "quote_count": 32
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235835149,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2868,
+        "favorite_count": 30747,
+        "reply_count": 3376,
+        "quote_count": 255
+      }
+    },
+    {
+      "id": "2028897907198603495",
+      "text": "OpenAI 发布了 GPT-5.3 Instant，替换 ChatGPT 中使用最广的日常对话模型 GPT-5.2 Instant。\n\n核心改进有三块：\n\n1. 第一是减少“说教感”\n\n之前的模型经常在回答前加一大段“我能帮什么、不能帮什么”的免责声明，或者对正常问题过度拒绝。新版本会直接回答问题，不再绕弯子。OpenAI 在博客里放了一个弓箭弹道计算的对比案例，旧版先用半屏篇幅解释安全边界，新版开头就进入正题。\n\n2. 第二是联网搜索质量提升\n\n旧版容易把搜索结果堆成链接列表，新版会结合自身知识对搜索内容做筛选和整合，把最相关的信息前置。博客用了一个棒球休赛期签约的例子，旧版回答的是上一个休赛期的旧闻，新版准确抓到了最新赛季的关键交易。\n\n3. 第三是事实准确性\n\n在高风险领域（医学、法律、金融）的内部测试中，联网场景下幻觉率降低了 26.8%，纯靠模型自身知识时降低了 19.7%。\n\nGPT-5.3 Instant 今天起面向所有 ChatGPT 用户上线，API 开发者可通过 gpt-5.3-chat-latest 调用。\n\n旧版 GPT-5.2 Instant 将保留三个月，6 月 3 日正式下线。",
+      "created_at": "Tue Mar 03 18:18:50 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028893701427302559",
+        "text": "GPT-5.3 Instant in ChatGPT is now rolling out to everyone.\n\nMore accurate, less cringe.\n\nhttps://t.co/oJpXsp9TBc",
+        "created_at": "Tue Mar 03 18:02:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4398626122",
+          "name": "OpenAI",
+          "screen_name": "OpenAI",
+          "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+          "followers_count": 4658069,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 556,
+          "favorite_count": 5303,
+          "reply_count": 867,
+          "quote_count": 447
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189320,
+        "friends_count": 1562,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 21,
+        "reply_count": 4,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2028879682590941629",
       "text": "RT @mranti: 即日起，发布未经许可使用人工智能生成武装冲突视频的用户，将被暂停参与X平台创作者收益分成计划90天。再次违规者将被永久取消该计划的参与资格。",
