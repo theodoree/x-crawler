@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235823561,
+    "followers_count": 235836322,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260303",
-  "last_updated": "2026-03-03T16:17:12.196024",
-  "tweet_count": 10,
+  "last_updated": "2026-03-03T18:16:21.251021",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2028691025733263406",
@@ -526,6 +526,98 @@
         "favorite_count": 47362,
         "reply_count": 4224,
         "quote_count": 300
+      }
+    },
+    {
+      "id": "2028867485685190889",
+      "text": "Major fraud",
+      "created_at": "Tue Mar 03 16:17:57 +0000 2026",
+      "lang": "ca",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028865672533643275",
+        "text": "If you incentivize something, you get more of it. *Having* a disability, in and of itself, is obviously bad. *Saying* you have one is beneficial.\n\nSame with the SF homelessness problem. Gee, why does the city that’s most accommodating to the homeless have so many homeless?",
+        "created_at": "Tue Mar 03 16:10:45 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1805961360687415296",
+          "name": "Hunter Ash",
+          "screen_name": "ArtemisConsort",
+          "description": "Kill the lie so the truth may live. Social media manager for @KeeperAI",
+          "followers_count": 66023,
+          "friends_count": 982,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 411,
+          "favorite_count": 2939,
+          "reply_count": 226,
+          "quote_count": 14
+        }
+      },
+      "stats": {
+        "retweet_count": 2781,
+        "favorite_count": 25007,
+        "reply_count": 1646,
+        "quote_count": 64
+      }
+    },
+    {
+      "id": "2028875691903922278",
+      "text": "RT @KTmBoyle: American Dynamism 🇺🇸 https://t.co/DgSGEDZjWo",
+      "created_at": "Tue Mar 03 16:50:34 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2028874043424673794",
+          "url": "https://video.twimg.com/amplify_video/2028874043424673794/vid/avc1/1920x1080/CjEM2HLG3dlTM6Mq.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2028874223528087706",
+        "text": "American Dynamism 🇺🇸 https://t.co/DgSGEDZjWo",
+        "created_at": "Tue Mar 03 16:44:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028874043424673794",
+            "url": "https://video.twimg.com/amplify_video/2028874043424673794/vid/avc1/1920x1080/CjEM2HLG3dlTM6Mq.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "78822934",
+          "name": "Katherine Boyle",
+          "screen_name": "KTmBoyle",
+          "description": "Co-Founder, American Dynamism. General Partner @a16z. Catholic. Mother. American. 🇺🇸 🚀💪",
+          "followers_count": 102803,
+          "friends_count": 995,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 425,
+          "favorite_count": 2143,
+          "reply_count": 291,
+          "quote_count": 41
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 425,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

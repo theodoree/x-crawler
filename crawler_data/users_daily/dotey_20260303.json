@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 189299,
+    "followers_count": 189309,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260303",
-  "last_updated": "2026-03-03T16:17:12.187331",
-  "tweet_count": 6,
+  "last_updated": "2026-03-03T18:16:21.242418",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2028636514146554258",
@@ -248,6 +248,69 @@
       "quoted": null,
       "stats": {
         "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028879682590941629",
+      "text": "RT @mranti: 即日起，发布未经许可使用人工智能生成武装冲突视频的用户，将被暂停参与X平台创作者收益分成计划90天。再次违规者将被永久取消该计划的参与资格。",
+      "created_at": "Tue Mar 03 17:06:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2028874506903998626",
+        "text": "即日起，发布未经许可使用人工智能生成武装冲突视频的用户，将被暂停参与X平台创作者收益分成计划90天。再次违规者将被永久取消该计划的参与资格。",
+        "created_at": "Tue Mar 03 16:45:51 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2028873177028555201",
+          "text": "Today we are revising our Creator Revenue Sharing policies to maintain authenticity of content on Timeline and prevent manipulation of the program. \n\nDuring times of war, it is critical that people have access to authentic information on the ground. With today’s AI technologies, it is trivial to create content that can mislead people.\n\nStarting now, users who post AI-generated videos of an armed conflict—without adding a disclosure that it was made with AI—will be suspended from Creator Revenue Sharing for 90 days. Subsequent violations will result in a permanent suspension from the program.\n\nThis will be flagged to us by any post with a Community Note or if the content contains meta data (or other signals) from generative AI tools. \n\nWe will continue to refine our policies and product to ensure X can be trusted during these critical moments.",
+          "created_at": "Tue Mar 03 16:40:34 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "636513296",
+            "name": "Nikita Bier",
+            "screen_name": "nikitabier",
+            "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+            "followers_count": 852108,
+            "friends_count": 2023,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2415,
+            "favorite_count": 17971,
+            "reply_count": 3676,
+            "quote_count": 1362
+          }
+        },
+        "user": {
+          "id": "5709522",
+          "name": "Michael Anti",
+          "screen_name": "mranti",
+          "description": "安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",
+          "followers_count": 353366,
+          "friends_count": 11384,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 31,
+          "reply_count": 4,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 4,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

@@ -1,12 +1,197 @@
 {
   "date": "20260303",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-03T16:17:12.156988",
-  "tweet_count": 216,
-  "unique_tweet_count": 216,
-  "total_crawled": 409,
-  "duplicates_removed": 193,
+  "last_crawl_time": "2026-03-03T18:16:21.211820",
+  "tweet_count": 219,
+  "unique_tweet_count": 219,
+  "total_crawled": 416,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2028879682590941629",
+      "text": "RT @mranti: 即日起，发布未经许可使用人工智能生成武装冲突视频的用户，将被暂停参与X平台创作者收益分成计划90天。再次违规者将被永久取消该计划的参与资格。",
+      "created_at": "Tue Mar 03 17:06:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2028874506903998626",
+        "text": "即日起，发布未经许可使用人工智能生成武装冲突视频的用户，将被暂停参与X平台创作者收益分成计划90天。再次违规者将被永久取消该计划的参与资格。",
+        "created_at": "Tue Mar 03 16:45:51 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2028873177028555201",
+          "text": "Today we are revising our Creator Revenue Sharing policies to maintain authenticity of content on Timeline and prevent manipulation of the program. \n\nDuring times of war, it is critical that people have access to authentic information on the ground. With today’s AI technologies, it is trivial to create content that can mislead people.\n\nStarting now, users who post AI-generated videos of an armed conflict—without adding a disclosure that it was made with AI—will be suspended from Creator Revenue Sharing for 90 days. Subsequent violations will result in a permanent suspension from the program.\n\nThis will be flagged to us by any post with a Community Note or if the content contains meta data (or other signals) from generative AI tools. \n\nWe will continue to refine our policies and product to ensure X can be trusted during these critical moments.",
+          "created_at": "Tue Mar 03 16:40:34 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "636513296",
+            "name": "Nikita Bier",
+            "screen_name": "nikitabier",
+            "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+            "followers_count": 852108,
+            "friends_count": 2023,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2415,
+            "favorite_count": 17971,
+            "reply_count": 3676,
+            "quote_count": 1362
+          }
+        },
+        "user": {
+          "id": "5709522",
+          "name": "Michael Anti",
+          "screen_name": "mranti",
+          "description": "安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",
+          "followers_count": 353366,
+          "friends_count": 11384,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 31,
+          "reply_count": 4,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189309,
+        "friends_count": 1560,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028875691903922278",
+      "text": "RT @KTmBoyle: American Dynamism 🇺🇸 https://t.co/DgSGEDZjWo",
+      "created_at": "Tue Mar 03 16:50:34 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2028874043424673794",
+          "url": "https://video.twimg.com/amplify_video/2028874043424673794/vid/avc1/1920x1080/CjEM2HLG3dlTM6Mq.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2028874223528087706",
+        "text": "American Dynamism 🇺🇸 https://t.co/DgSGEDZjWo",
+        "created_at": "Tue Mar 03 16:44:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028874043424673794",
+            "url": "https://video.twimg.com/amplify_video/2028874043424673794/vid/avc1/1920x1080/CjEM2HLG3dlTM6Mq.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "78822934",
+          "name": "Katherine Boyle",
+          "screen_name": "KTmBoyle",
+          "description": "Co-Founder, American Dynamism. General Partner @a16z. Catholic. Mother. American. 🇺🇸 🚀💪",
+          "followers_count": 102803,
+          "friends_count": 995,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 425,
+          "favorite_count": 2143,
+          "reply_count": 291,
+          "quote_count": 41
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235836322,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 425,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028867485685190889",
+      "text": "Major fraud",
+      "created_at": "Tue Mar 03 16:17:57 +0000 2026",
+      "lang": "ca",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028865672533643275",
+        "text": "If you incentivize something, you get more of it. *Having* a disability, in and of itself, is obviously bad. *Saying* you have one is beneficial.\n\nSame with the SF homelessness problem. Gee, why does the city that’s most accommodating to the homeless have so many homeless?",
+        "created_at": "Tue Mar 03 16:10:45 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1805961360687415296",
+          "name": "Hunter Ash",
+          "screen_name": "ArtemisConsort",
+          "description": "Kill the lie so the truth may live. Social media manager for @KeeperAI",
+          "followers_count": 66023,
+          "friends_count": 982,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 411,
+          "favorite_count": 2939,
+          "reply_count": 226,
+          "quote_count": 14
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235836322,
+        "friends_count": 1289,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2781,
+        "favorite_count": 25007,
+        "reply_count": 1646,
+        "quote_count": 64
+      }
+    },
     {
       "id": "2028866974751613156",
       "text": "RT @xleaps: 构建了一个我自己用起来很舒服的工具：Noah. 装在我的计算机上，装在我父母的计算机上，装在我小孩的计算机上，通过自然语言来解决任何 IT 类的疑难杂症, 比如打印机问题，路由问题，清理空间等等\n\n放出一个预览版供社区使用并提供反馈。\n目前需要 Clau…",
