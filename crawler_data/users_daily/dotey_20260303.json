@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 189172,
+    "followers_count": 189203,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260303",
-  "last_updated": "2026-03-03T06:18:03.785284",
-  "tweet_count": 3,
+  "last_updated": "2026-03-03T08:13:07.519672",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2028636514146554258",
@@ -92,6 +92,57 @@
         "favorite_count": 104,
         "reply_count": 35,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2028718320673780117",
+      "text": "RT @python_xxt: 一个非常好的知乎回答，推荐阅读\n\n为什么吹的神乎其神的波士顿动力机器人销声匿迹了？\n\n张子昕 ：\n\n人在波士顿红线上，下班了回答一下。这是一个有点长的故事。\n\n谢邀 @蝴蝶先生… https://t.co/fXpzHoXtoD",
+      "created_at": "Tue Mar 03 06:25:14 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2028692798078345216",
+          "url": "https://pbs.twimg.com/media/HCddWfPaYAAeboM.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2028692806236328160",
+        "text": "一个非常好的知乎回答，推荐阅读\n\n为什么吹的神乎其神的波士顿动力机器人销声匿迹了？\n\n张子昕 ：\n\n人在波士顿红线上，下班了回答一下。这是一个有点长的故事。\n\n谢邀 @蝴蝶先生\n\n首先声明，如果你真心认同\"波士顿动力用AI生成的/CG\"或者\"波士顿动力没有产品\"或者\"波士顿动力是骗钱公司\"，我的判断是开除人籍。建议直接退出这个回答然后去从幼儿园重新读起。\n\n至少在2022年之前，波士顿动力在足式机器人的全身运动控制水平上都是一骑绝尘的。他们的技术护城河是一套能够实时解算 whole-body MPC 的控制框架。搞过轨迹优化的朋友们都知道，求解一个包含20+自由度机器人全身动力学的非线性非凸轨迹优化问题有很多种方法，但是要在几十毫秒内得到一个质量不错的解并且能让机器人动起来就是另一个次元的问题了。这里面包含大量的数学技巧和工程细节，是经过很多年的打磨一点一点积累出来的结果。这一护城河在当时看来是非常难以跨越的。\n\n然后2020年，在风景秀丽的瑞士，一个隶属于苏黎世联邦理工（ETH）的实验室整了个大活。这个实验室就是大名鼎鼎的 Robotic Systems Lab (RSL)。RSL其实一直都非常顶级，可能是当年地球上除了波士顿动力以外唯一有能力写出并且部署 whole-body MPC 的组织，并且在 SLAM 方面也有很多重要的贡献。2020年，他们在 Science Robotics 上发表了一篇影响深远的论文：Learning quadrupedal locomotion over challenging terrain。在那个蛮荒年代，世界上除了波士顿动力以及MIT的 Biomimetic Robotics Lab 以外，还没多少人能把四足的控制器做到能够在野外地形上稳健走路。然后，RSL的老哥们直接把他们自己造的四足机器人拉到了瑞士的山山水水各种地形上遛了十几趟。最颠覆的事情是，他们直接把MPC的桌子掀飞了：咱们一点MPC不用，咱们用强化学习。\n\n从那之后，RSL在强化学习这条道路上直接起飞，发 Science Robotics 如同喝水。他们在仿真和 GPU 并行训练方面的工作直接催生了 Isaac 全家桶的诞生，他们开源的 rsl_rl 框架现在已经成为这个地球上几乎所有人形机器人公司训练控制器的基础，包括波士顿动力自己也是打不过就加入了。可以说，没有RSL的贡献，人形机器人行业的爆发还得再推迟一两年。\n\n在这种情况下，波士顿动力就有点尴尬了，特别是在2022年之后。MPC这块香饽饽突然就不香了，RSL的工作不仅牛逼，而且完全开源，让全世界的人们都享受到了强化学习的力量，而后续 RSL+NVIDIA 的持续发力也是直接把足式机器人的 locomotion 问题差不多完全解决了，whole-body control 也不再是梦，都是基于 rsl_rl 做的。然后宇树也崛起了，充分发挥东大的工业优势，把极其便宜的硬件送进了全世界的实验室里，人手一条 A1/Go1，再到后面人手一个G1，研究进程极速加快。波士顿动力的护城河就这么在很短的时间内被填平了。\n\n所谓的技术壁垒就这么被无情碾碎了，选择的重要性不言而喻。老黄说 NVIDIA 要一直有危机感，这是很对的。\n\n所以到底什么样的技术最后能胜出？能够易于迁移和 scale-up 的技术。满足这两点的技术会随意地把别的技术直接创死。举一个随意的例子，你在一个四足上调好了MPC，但你不能保证一样的算法结构在人形上就好使。你在四足上做好了RL，你的 infra 搞好了，改改 reward function 在人形上很快就能 work。现在的 motion tracking RL reward function 更是简单到令人发指。自由度的增多和机器人结构的变化给MPC带来的麻烦远大于RL。\n\n波士顿动力牛逼吗？曾经牛逼过，人家确实是足式机器人的先驱，2019年在CMU的 FRC High Bay 里坐着看着他们让 Atlas 翻跟头的 demo 感叹不如退学去北极开uber的景象还历历在目。而且他们作的 demo 确实也是激励了很多年轻人走入这个行业。\n\n现在呢？还是强的，毕竟工程底子和公司文化摆在那，机器人除了算法之外，对硬件的理解也是非常重要的一个部分，甚至有时候比算法更重要。\n\n销声匿迹了吗？完全错误，你们千万要注意啊，不要\"见着风，是得雨\"啊。无中生有的东西，你再帮他说一遍，等于你也有责任吧？\n\n处境艰难吗？难。可能除了特斯拉之外，在美国的机器人公司都面临着生产线搭建和生产成本的严峻问题，你不在中国造成本就是下不来（包括特斯拉自己可能也要在中国制造）。韩国现代在这方面来说是个好的靠山。波士顿动力最先产品化的东西是机器狗 Spot，走的是工厂巡检这个赛道。此外还有 Stretch（不是足式），走的是物流这个赛道。今年 CES 刚刚宣布了新的 E-Atlas 量产型号，似乎势头不错，但到底能干什么仍未可知。\n\n未来如何，谁知道呢。\n\n编辑于 2026-02-27 22:39 美国",
+        "created_at": "Tue Mar 03 04:43:50 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028692798078345216",
+            "url": "https://pbs.twimg.com/media/HCddWfPaYAAeboM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "880606715141529600",
+          "name": "Robinson · 鲁棒逊",
+          "screen_name": "python_xxt",
+          "description": "AI & Robustness in chaos.\n\nInsight  → Strategy → Operation\n\nNow,not How.\n\n我对现实世界的认知\n贫瘠到无法自知其贫瘠",
+          "followers_count": 26272,
+          "friends_count": 506,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 98,
+          "favorite_count": 536,
+          "reply_count": 33,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 98,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
