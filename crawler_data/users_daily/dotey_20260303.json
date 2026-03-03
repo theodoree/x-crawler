@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 189273,
+    "followers_count": 189299,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260303",
-  "last_updated": "2026-03-03T14:21:04.793058",
-  "tweet_count": 4,
+  "last_updated": "2026-03-03T16:17:12.187331",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2028636514146554258",
@@ -140,6 +140,114 @@
       "quoted": null,
       "stats": {
         "retweet_count": 98,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028854050091888910",
+      "text": "因为小龙虾🦞让以前没用过 claude code 这样 agent 的人用上了 agent\n让很多只用 claude code 写代码的人发现 agent 还可以做写代码之外的事情\n小龙虾让很多以前没管过人当过领导的突然有下属可以指挥了，那种微信群发一条：XX 你跟进一下\n小龙虾让 Agent 从戳一戳动一动变成了 7x24 牛马",
+      "created_at": "Tue Mar 03 15:24:34 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028821600624365758",
+        "text": "我逢人就问，小龙虾跟你做了什么震惊/牛逼/大开眼界的事情，基本上听完给我的感觉就是：啥，就这？我用 claude code 就是这么干的啊\n\n对我来说小龙虾多了一个通过 IM 控制的方式而已，另外小龙虾那些 case 都是授权多一点，skill 多一点，这些在 claude 里面完全可以实现\n\n来，跪求甩几个 case 把我这种土人震惊下！",
+        "created_at": "Tue Mar 03 13:15:37 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028820942739431425",
+            "url": "https://pbs.twimg.com/media/HCfR5fTbYAEt_2J.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "39716430",
+          "name": "plantegg",
+          "screen_name": "plantegg",
+          "description": "在这里没有AI 生成的内容，没有编故事\n工程师，网络、性能、CPU等领域。个人介绍：https://t.co/sdAwtv1et3",
+          "followers_count": 54043,
+          "friends_count": 440,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 26,
+          "reply_count": 25,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 19,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028866974751613156",
+      "text": "RT @xleaps: 构建了一个我自己用起来很舒服的工具：Noah. 装在我的计算机上，装在我父母的计算机上，装在我小孩的计算机上，通过自然语言来解决任何 IT 类的疑难杂症, 比如打印机问题，路由问题，清理空间等等\n\n放出一个预览版供社区使用并提供反馈。\n目前需要 Clau…",
+      "created_at": "Tue Mar 03 16:15:55 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2028842994258804930",
+        "text": "构建了一个我自己用起来很舒服的工具：Noah. 装在我的计算机上，装在我父母的计算机上，装在我小孩的计算机上，通过自然语言来解决任何 IT 类的疑难杂症, 比如打印机问题，路由问题，清理空间等等\n\n放出一个预览版供社区使用并提供反馈。\n目前需要 Claude API， 下一个版本加入其他模型和本地模型支持\n\nhttps://t.co/WwYTLpI3g0",
+        "created_at": "Tue Mar 03 14:40:38 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2028842027920609462",
+          "text": "Announcing Noah — a tool to address every aspect of your computer issues, running locally on your computer (Mac/Windows).\n\nIt diagnoses problems, explains what's wrong in plain English, asks before touching anything, and remembers what it's learned about your setup.\n\nFor now, it uses Claude API key, but soon will support other/local models. \n\nOpen source: https://t.co/EgbcPWXvSA",
+          "created_at": "Tue Mar 03 14:36:48 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "732363",
+            "name": "Eric Xu (e/Mettā)",
+            "screen_name": "xleaps",
+            "description": "polymath, polyglot, root of a ternary tree.\n\nAI Director @HubSpot \n\nprev @Meta @Google @Reddit\n\n三脚猫 martial artist 🥋\n\nRookie pilot 🛩️",
+            "followers_count": 32810,
+            "friends_count": 3278,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1,
+            "favorite_count": 6,
+            "reply_count": 0,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "732363",
+          "name": "Eric Xu (e/Mettā)",
+          "screen_name": "xleaps",
+          "description": "polymath, polyglot, root of a ternary tree.\n\nAI Director @HubSpot \n\nprev @Meta @Google @Reddit\n\n三脚猫 martial artist 🥋\n\nRookie pilot 🛩️",
+          "followers_count": 32810,
+          "friends_count": 3278,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 24,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

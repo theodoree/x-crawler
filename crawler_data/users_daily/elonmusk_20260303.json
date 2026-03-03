@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235809128,
+    "followers_count": 235823561,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260303",
-  "last_updated": "2026-03-03T14:21:04.763824",
-  "tweet_count": 5,
+  "last_updated": "2026-03-03T16:17:12.196024",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2028691025733263406",
@@ -278,6 +278,254 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2028839144768819482",
+      "text": "RT @messedupfoods: https://t.co/JdXqFq0Rt9",
+      "created_at": "Tue Mar 03 14:25:20 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2028394580106969089",
+          "url": "https://pbs.twimg.com/media/HCZOH6uagAE4Gfx.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2028601493687828690",
+        "text": "https://t.co/JdXqFq0Rt9",
+        "created_at": "Mon Mar 02 22:41:00 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028394580106969089",
+            "url": "https://pbs.twimg.com/media/HCZOH6uagAE4Gfx.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1546497037117579264",
+          "name": "i like food",
+          "screen_name": "messedupfoods",
+          "description": "food enjoyer",
+          "followers_count": 1171883,
+          "friends_count": 175,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 582,
+          "favorite_count": 14145,
+          "reply_count": 285,
+          "quote_count": 27
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 582,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028841368588861830",
+      "text": "RT @arctotherium42: Almost impossible to overstate how much freer and how much more vigorous discourse was on the Internet a decade ago.",
+      "created_at": "Tue Mar 03 14:34:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028597559220953253",
+        "text": "Almost impossible to overstate how much freer and how much more vigorous discourse was on the Internet a decade ago.",
+        "created_at": "Mon Mar 02 22:25:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2028569879217901874",
+          "text": "More on the 2016-2019 closure of the Internet. In 2015, Reddit, like YouTube, had almost no content policy beyond banning illegal activity, doxxing, harassment, and involuntary or underage pornography. By 2020, Reddit had purged political dissent from the site. https://t.co/2r588SPH2s",
+          "created_at": "Mon Mar 02 20:35:22 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2028557342980116480",
+              "url": "https://pbs.twimg.com/media/HCbiJ9rXEAAaM96.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2028557928958234624",
+              "url": "https://pbs.twimg.com/media/HCbisEnbkAAvj4N.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1482820113808121866",
+            "name": "arctotherium",
+            "screen_name": "arctotherium42",
+            "description": "Baby Boom II\n\nhttps://t.co/yHjmcR0aOY",
+            "followers_count": 30046,
+            "friends_count": 191,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 291,
+            "favorite_count": 2233,
+            "reply_count": 48,
+            "quote_count": 34
+          }
+        },
+        "user": {
+          "id": "1482820113808121866",
+          "name": "arctotherium",
+          "screen_name": "arctotherium42",
+          "description": "Baby Boom II\n\nhttps://t.co/yHjmcR0aOY",
+          "followers_count": 30046,
+          "friends_count": 191,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 406,
+          "favorite_count": 2756,
+          "reply_count": 139,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 406,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028843740992036881",
+      "text": "True",
+      "created_at": "Tue Mar 03 14:43:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028619590604132731",
+        "text": "No income tax in history has ever stopped at just high earners.",
+        "created_at": "Mon Mar 02 23:52:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3270678680",
+          "name": "Pedro Domingos",
+          "screen_name": "pmddomingos",
+          "description": "Professor of computer science at UW and author of '2040' and 'The Master Algorithm'. Into machine learning, AI, and anything that makes me curious.",
+          "followers_count": 121746,
+          "friends_count": 178,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 291,
+          "favorite_count": 4217,
+          "reply_count": 216,
+          "quote_count": 55
+        }
+      },
+      "stats": {
+        "retweet_count": 2882,
+        "favorite_count": 36407,
+        "reply_count": 1245,
+        "quote_count": 66
+      }
+    },
+    {
+      "id": "2028844630792688054",
+      "text": "Hmm",
+      "created_at": "Tue Mar 03 14:47:08 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028599798329434408",
+        "text": "Its only \"racist\" when applied to white people. https://t.co/JGm8q4HiyJ",
+        "created_at": "Mon Mar 02 22:34:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028599791714971648",
+            "url": "https://pbs.twimg.com/media/HCcIwziaMAAMMrw.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1518557272854523904",
+          "name": "Skscartoon",
+          "screen_name": "skscartoon",
+          "description": "A small time artist down under",
+          "followers_count": 133771,
+          "friends_count": 439,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1019,
+          "favorite_count": 6462,
+          "reply_count": 137,
+          "quote_count": 33
+        }
+      },
+      "stats": {
+        "retweet_count": 7326,
+        "favorite_count": 65215,
+        "reply_count": 1876,
+        "quote_count": 122
+      }
+    },
+    {
+      "id": "2028845749505765699",
+      "text": "How many more children must die before action is taken?\n\nEnough is enough. Act now.",
+      "created_at": "Tue Mar 03 14:51:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028843962618847313",
+        "text": "Another day, another stabbing. We need to GET REAL - I am sick of it, we are all sick of it. This is not the Britain I want to live in. \n\nThe British state needs to brutally crack down on knife crime, and I mean brutally. That is exactly what Restore Britain would do. No more bullshit community work or soft punishment.\n\nEnough is enough. \n\nInstant deportation for foreign nationals found carrying.\n\nThrow the book at the domestic ones.\n\nFound unlawfully carrying? A Restore Britain Government would crack down on you in the harshest possible manner.\n\nMinimum prison sentences - zero excuses. \n\nThe message has to be simple.\n\nDO NOT CARRY A KNIFE UNLAWFULLY.\n\nIf you are found with a machete or whatever else, you will go to prison. End of story. Stop and search introduced on a proper scale. Accusations of racism would not stop us, I can promise you that. \n\nDo that, on the scale required, and watch how quickly the knife crime epidemic stops.\n\nThere is finally a political party with the balls to do what needs to be done to protect the British people.\n\nRestore Britain.",
+        "created_at": "Tue Mar 03 14:44:29 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 710160,
+          "friends_count": 787,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2724,
+          "favorite_count": 16535,
+          "reply_count": 973,
+          "quote_count": 122
+        }
+      },
+      "stats": {
+        "retweet_count": 6815,
+        "favorite_count": 47362,
+        "reply_count": 4224,
+        "quote_count": 300
       }
     }
   ]
