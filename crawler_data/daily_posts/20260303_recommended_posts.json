@@ -1,12 +1,244 @@
 {
   "date": "20260303",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-03T20:09:50.926555",
-  "tweet_count": 225,
-  "unique_tweet_count": 225,
-  "total_crawled": 419,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-03-03T22:08:09.139725",
+  "tweet_count": 229,
+  "unique_tweet_count": 229,
+  "total_crawled": 425,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2028934937894653976",
+      "text": "Claude Opus 4.6 凭空编造了一个 GitHub 仓库 ID，然后通过 Vercel API 把这个陌生仓库部署到了用户的团队账户上。\n\nVercel CEO Guillermo Rauch 披露了这起事件的经过：一位用户发现自己团队里突然出现了一个完全不认识的开源项目部署，吓得立刻报告。\n\nVercel 安全团队介入调查后发现，这不是黑客入侵，而是 AI 智能体（agent）在执行部署任务时\"编了个数字\"。\n\n具体来说，这个 AI 智能体知道用户的项目名称和项目 ID，但在需要填写 GitHub 仓库 ID 时，它没有调用 GitHub API 去查询真实的 ID，而是自己捏造了一个看起来很像真的数字\"913939401\"。这个编造的 ID 恰好对应了 GitHub 上一个真实存在的公开仓库，于是这个毫不相关的代码就被部署到了用户的环境中。\n\n好在这个仓库本身无害，没有造成安全事故。",
+      "created_at": "Tue Mar 03 20:45:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028920268119523788",
+        "text": "A Vercel user reported an issue that sounded extremely scary. An unknown GitHub OSS codebase being deployed to their team.\n\nWe, of course, took the report extremely seriously and began an investigation. Security and infra engineering engaged.\n\nTurns out Opus 4.6 *hallucinated a public repository ID* and used our API to deploy it. Luckily for this user, the repository was harmless and random. The JSON payload looked like this:\n\n    \"𝚐𝚒𝚝𝚂𝚘𝚞𝚛𝚌𝚎\": {                                                                                                                                    \n      \"𝚝𝚢𝚙𝚎\": \"𝚐𝚒𝚝𝚑𝚞𝚋\",                                                                                                                               \n      \"𝚛𝚎𝚙𝚘𝙸𝚍\": \"𝟿𝟷𝟹𝟿𝟹𝟿𝟺𝟶𝟷\",  // ⚠️ 𝚑𝚊𝚕𝚕𝚞𝚌𝚒𝚗𝚊𝚝𝚎𝚍\n      \"𝚛𝚎𝚏\": \"𝚖𝚊𝚒𝚗\"                                                                                                                                   \n    }\n\nWhen the user asked the agent to explain the failure, it confessed:\n\nThe agent never looked up the GitHub repo ID via the GitHub API. There are zero GitHub API calls in the session before the first rogue deployment.\n\nThe number 913939401 appears for the first time at line 877 — the agent fabricated it entirely.\n\nThe agent knew the correct project ID (prj_▒▒▒▒▒▒) and project name (▒▒▒▒▒▒) but invented a plausible-looking numeric repo ID rather than looking it up.\n\nSome takeaways:\n▪️ Even the smartest models have bizarre failure modes that are very different from ours. Humans make lots of mistakes, but certainly not make up a random repo id.\n▪️ Powerful APIs create additional risks for agents. The API exist to import and deploy legitimate code, but not if the agent decides to hallucinate what code to deploy!\n▪️ Thus, it's likely the agent would have had better results had it not decided to use the API and stuck with CLI or MCP.\n\nThis reinforces our commitment to make Vercel the most secure platform for agentic engineering. Through deeper integrations with tools like Claude Code and additional guardrails, we're confident security and privacy will be upheld.\n\nNote: the repo id above is randomized for privacy reasons.",
+        "created_at": "Tue Mar 03 19:47:42 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15540222",
+          "name": "Guillermo Rauch",
+          "screen_name": "rauchg",
+          "description": "@vercel CEO",
+          "followers_count": 381414,
+          "friends_count": 623,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 65,
+          "favorite_count": 1166,
+          "reply_count": 96,
+          "quote_count": 49
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189335,
+        "friends_count": 1563,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 22,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028929130436153651",
+      "text": "FYI\nhttps://t.co/eqLCg6ZAho",
+      "created_at": "Tue Mar 03 20:22:55 +0000 2026",
+      "lang": "und",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028906005627846986",
+        "text": "Junyang has been the most supportive mentor since I started my internship. When I took over the computer use agent project, we built the RL infrastructure from scratch. From the massive engineering challenges to resource coordination, he made it possible.",
+        "created_at": "Tue Mar 03 18:51:01 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1484496943812603906",
+          "name": "Tianyi Bai",
+          "screen_name": "becca_bai",
+          "description": "scaling agent @Alibaba_Qwen PhD student @HKUST",
+          "followers_count": 265,
+          "friends_count": 80,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 158,
+          "reply_count": 4,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189335,
+        "friends_count": 1563,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028927560973701325",
+      "text": "RT @Jiaxi_Cui: 普通人要到很久之后才会知道Qwen引领了一个多么伟大的时代\n\n如果没有这两年Qwen的无私贡献，你们熟悉的国内新能源电车根本搭载不了现在这样好用的大模型，以及迅速做出自家的VLA模型\n\n机器人公司同理\n\n你们以为这些模型都是他们…",
+      "created_at": "Tue Mar 03 20:16:40 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2028906996976714143",
+        "text": "普通人要到很久之后才会知道Qwen引领了一个多么伟大的时代\n\n如果没有这两年Qwen的无私贡献，你们熟悉的国内新能源电车根本搭载不了现在这样好用的大模型，以及迅速做出自家的VLA模型\n\n机器人公司同理\n\n你们以为这些模型都是他们 PR稿里说的，随便掏点研发费用就能做出来的效果吗，你去让他们的模型团队摸着良心说是不是用了Qwen，他们什么话都不敢说，没有人会承认用了Qwen开源的免费模型",
+        "created_at": "Tue Mar 03 18:54:58 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2028891898535162058",
+          "text": "Bruh\nAlibaba Qwen disintegrating in real time https://t.co/hZYK8UW3Rz",
+          "created_at": "Tue Mar 03 17:54:58 +0000 2026",
+          "lang": "tl",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2028891840762806272",
+              "url": "https://pbs.twimg.com/media/HCgSYTBbAAAms3w.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1695126229446479872",
+            "name": "Zephyr",
+            "screen_name": "zephyr_z9",
+            "description": "",
+            "followers_count": 112169,
+            "friends_count": 681,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 32,
+            "favorite_count": 705,
+            "reply_count": 20,
+            "quote_count": 16
+          }
+        },
+        "user": {
+          "id": "1302118861995536387",
+          "name": "Panda",
+          "screen_name": "Jiaxi_Cui",
+          "description": "Video AI",
+          "followers_count": 18254,
+          "friends_count": 888,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 123,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189335,
+        "friends_count": 1563,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028927204638277994",
+      "text": "这图……\nhttps://t.co/nPGDIEIu9n",
+      "created_at": "Tue Mar 03 20:15:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028908040255115691",
+        "text": "i am saddened to see my long-time friends who built qwen from the ground up, supported autoawq, and delivered models that support the entire academic ai system as it stands today are let go like this https://t.co/6Xjd8sJoxS",
+        "created_at": "Tue Mar 03 18:59:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028907990426714112",
+            "url": "https://pbs.twimg.com/media/HCghEVNWAAAXlgy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1163801450968997889",
+          "name": "Casper Hansen",
+          "screen_name": "casper_hansen_",
+          "description": "ai engineer | previously created autoawq",
+          "followers_count": 11668,
+          "friends_count": 499,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 89,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189335,
+        "friends_count": 1563,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2028919582782800162",
       "text": "RT @niccruzpatane: Ford CEO Jim Farley, in a new interview, says he realized Ford had been doing EVs all wrong after his team ripped apart…",
