@@ -1,0 +1,61 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 189091,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260303",
+  "last_updated": "2026-03-03T03:02:02.346789",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2028636514146554258",
+      "text": "Claude Code也支持语音输入了",
+      "created_at": "Tue Mar 03 01:00:09 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028628570692890800",
+        "text": "Voice mode is rolling out now in Claude Code. It’s live for ~5% of users today, and will be ramping through the coming weeks.\n\nYou'll see a note on the welcome screen once you have access. /voice to toggle it on! https://t.co/P7GQ6pEANy",
+        "created_at": "Tue Mar 03 00:28:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028628068517183489",
+            "url": "https://video.twimg.com/amplify_video/2028628068517183489/vid/avc1/1080x1080/Sds23xYLAyHN0b8i.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "352806502",
+          "name": "Thariq",
+          "screen_name": "trq212",
+          "description": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+          "followers_count": 100487,
+          "friends_count": 1662,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 488,
+          "favorite_count": 6504,
+          "reply_count": 408,
+          "quote_count": 458
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 29,
+        "reply_count": 12,
+        "quote_count": 1
+      }
+    }
+  ]
+}
