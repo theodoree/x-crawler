@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 189335,
+    "followers_count": 189417,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260303",
-  "last_updated": "2026-03-03T22:08:09.172292",
-  "tweet_count": 15,
+  "last_updated": "2026-03-04T00:21:34.827258",
+  "tweet_count": 16,
   "tweets": [
     {
       "id": "2028636514146554258",
@@ -662,6 +662,45 @@
         "favorite_count": 22,
         "reply_count": 3,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2028957497076142080",
+      "text": "OpenAI 推理模型核心研究员 Max Schwarzer 宣布离职，下一站是 Anthropic。\n\nSchwarzer 在 OpenAI 的履历相当硬核——他是 o1 推理模型的早期参与者之一，o1-preview 最初就跑在他的一次实验性训练上。后来他主导了 o1 和 o3 的后训练（post-training，即模型训练完成后的对齐和调优阶段），并在过去一年里领导了整个后训练团队，先后交付了 GPT-5、5.1、5.2 和 5.3-Codex。\n\n简单说，这是 OpenAI 推理路线上的关键人物。\n\n他在告别帖中提到，离开的原因是想回归一线研究，不再做管理。他说自己对 Anthropic 的研究品味和价值观印象深刻，身边许多信任的同事近年也陆续加入了 Anthropic，他将在那里专注强化学习（RL）研究。\n\n值得注意的是，Schwarzer 特意感谢了 OpenAI CEO Sam Altman、CTO Mark Chen、CEO Fidji Simo 等高层，措辞相当体面，没有任何不愉快的暗示。但一位带队交付了 GPT-5 系列后训练的核心人才选择出走，本身就说明了一些问题。\n\n最近一两年，OpenAI 向 Anthropic 的人才流动已经不是个案，而是一个趋势。",
+      "created_at": "Tue Mar 03 22:15:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028939154944585989",
+        "text": "I've decided to leave OpenAI. I'm incredibly proud of all the work I've been part of here, from helping create the reasoning paradigm with @MillionInt, scaling up test-time compute with @polynoamial, working on RL algorithms with my fellow strawberries, shipping o1-preview (which started life as of one of my derisking runs), to post-training o1 and o3 with @ericmitchellai, @yanndubs and many others. I'm most proud of having led the post-training team here for the last year -- the team has done incredible work and shipped some really smart models, including GPT-5, 5.1, 5.2, and 5.3-Codex. OpenAI has genuinely some of the most talented researchers I have ever met, and I have learned more than I could have imagined knowing since I joined as a new grad. \n\nI want to thank @markchen90  @FidjiSimo  @sama  @merettm for all their support over my time here, and too many collaborators to name for the insights, ideas, and just plain fun we have had working together. After leading post-training for a year, though, I'm longing to start fresh and return to IC research work. I've been thinking about going back to technical research for quite some time, and I genuinely believe my colleagues and team here are set up to succeed going forward without me.\n\nI'm personally very excited for my next chapter -- I'm proud to be joining @AnthropicAI  to get back into the weeds in RL research, and I'm looking forward supporting my friends there at this important time. Many of people I most trust and respect have joined Anthropic over the last couple of years, and I'm excited to work with them again. I have also been very impressed with Anthropic's talent, research taste and values, and I'm excited to be part of what the company does next!",
+        "created_at": "Tue Mar 03 21:02:45 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1270443103912996864",
+          "name": "Max Schwarzer",
+          "screen_name": "max_a_schwarzer",
+          "description": "RL @AnthropicAI. Formerly VP of research leading post-training @OpenAI, PhD with Aaron Courville and Marc Bellemare at Mila",
+          "followers_count": 12699,
+          "friends_count": 303,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 562,
+          "favorite_count": 10335,
+          "reply_count": 308,
+          "quote_count": 174
+        }
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 137,
+        "reply_count": 15,
+        "quote_count": 2
       }
     }
   ]
