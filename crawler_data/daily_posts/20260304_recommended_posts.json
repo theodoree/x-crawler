@@ -1,12 +1,188 @@
 {
   "date": "20260304",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-04T12:11:17.378356",
-  "tweet_count": 220,
-  "unique_tweet_count": 220,
-  "total_crawled": 416,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-03-04T14:16:42.101283",
+  "tweet_count": 223,
+  "unique_tweet_count": 223,
+  "total_crawled": 420,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2029197957736919156",
+      "text": "Grok https://t.co/PJUGy4syzq",
+      "created_at": "Wed Mar 04 14:11:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235902834,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 244,
+        "favorite_count": 2086,
+        "reply_count": 743,
+        "quote_count": 24
+      }
+    },
+    {
+      "id": "2029197579138044377",
+      "text": "RT @lyndseyfifield: When I was a few weeks postpartum with my second child, I bundled us both up and waddled into the Fairfax County Circui…",
+      "created_at": "Wed Mar 04 14:09:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "1983962501378187318",
+        "text": "When I was a few weeks postpartum with my second child, I bundled us both up and waddled into the Fairfax County Circuit Court to testify against a man who had accosted my then-toddler daughter and I in a public bathroom while I was heavily pregnant.\n\nWhen I arrived I was brought into a room with his other victims and found out he had assaulted a woman in the same bathroom. I suddenly felt I had been lucky.\n\nThe arresting officer who had also interviewed me weeks prior was clearly eager to do everything right to keep this guy off the street—he found additional witnesses, pulled surveillance footage, followed every step to the letter.\n\nIt was physically painful and difficult for me to even be there—trying to discreetly feed and soothe my two week-old for 6 hours on hard benches when we should both be home in bed. It was also terrifying discreetly breastfeeding in the same room as this monster.\n\nWhen I finally took the stand, the attorney for the Commonwealth asked me if the man who was in the bathroom that day was in the room.\n\nI paused, confused—because I knew what was going to happen next.\n\nThe courtroom had been packed all day but as case after case was handled, ours was the last one—now it was just the judge, court reporter, bailiff, the defendant, his lawyer, the Commonwealth attorney, and I. \n\nThe arresting officer wasn't in the room. The other victim and her husband had been given a new court date and sent home.\n\nI adjusted my baby against my chest and looked at her as she repeated the question: Do you see the man you reported to police in this room today?\n\nWhy was she doing this? What was she doing?\n\nI was sweating in my oversized cashmere nursing sweater and I felt prickles down my back. Everyone was staring at me. I'm not a lawyer. She asked me a question... and she was “on my side” so I should answer it, right?\n\nI adjusted my baby again to give myself a free hand—and I pointed to him.\n\nAnd just as I expected, his lawyer immediately pointed out there was nobody else present in the courtroom who it could be and therefore we had violated his constitutional right to due process.\n\nThe judge agreed. Hell, *I* agreed—but then I asked WHY hadn't the Commonwealth given me a photo array to choose from? Why did she ASK that?\n\nToo late. It didn't matter that he was on surveillance footage entering the bathroom before us and pushing past us as we fled.\n\nHe was set free.\n\nAs I walked out of the court room the arresting officer spotted me from down the hall and ran over to me “Is it back in this courtroom? Is it starting?”\n\nNo, I told him, it's already over. He had been sent to another courtroom “by mistake.” He didn't even get a chance to testify. He looked horrified. \n\nThe Commonwealth attorney and “victims advocate” that morning assured us they were going to fight for us. They were SO SORRY this had happened to us. They were SO GRATEFUL that I had come to testify in my condition.\n\nInstead they seemingly intentionally let the monster walk free.\n\nIt's been two years. \n\nYesterday he was released on bail for yet another crime—one of at least THIRTEEN he's committed since that day in court—including sexual abuse of a child under 15.\n\nHis arrest record from just the last 5 years spans four pages on the Virginia court website.\n\nLook at how many women—and CHILDREN—he's victimized since that day. \n\nLook how many times his victims have gone to court just as I did only to see him set free again and again and again.\n\nThis is NOT happening by accident. \n\nThis is deliberate.",
+        "created_at": "Thu Oct 30 18:21:35 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1983923811339644928",
+            "url": "https://pbs.twimg.com/media/G4hQMfRWsAASx3V.png"
+          },
+          {
+            "type": "photo",
+            "id": "1983958856481882112",
+            "url": "https://pbs.twimg.com/media/G4hwEYmXwAA5uD1.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16347021",
+          "name": "Lyndsey Fifield",
+          "screen_name": "lyndseyfifield",
+          "description": "🏠 homemaker 🇺🇸 visiting fellow @IWF",
+          "followers_count": 37325,
+          "friends_count": 2918,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 24659,
+          "favorite_count": 69985,
+          "reply_count": 2900,
+          "quote_count": 1742
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235902834,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 24659,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029196036296880466",
+      "text": "RT @SpaceX: Falcon 9 launches 29 @Starlink satellites from Florida https://t.co/GMLUDFBTao",
+      "created_at": "Wed Mar 04 14:03:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2029172949320908806",
+          "url": "https://pbs.twimg.com/media/HCkSC-AawAYDrYL.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2029172981478428672",
+          "url": "https://pbs.twimg.com/media/HCkSE1zXkAAkyi6.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2029173014689148929",
+          "url": "https://pbs.twimg.com/media/HCkSGxha8AENWGL.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2029173031084670979",
+          "url": "https://pbs.twimg.com/media/HCkSHumawAMd3Fp.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2029173176123449567",
+        "text": "Falcon 9 launches 29 @Starlink satellites from Florida https://t.co/GMLUDFBTao",
+        "created_at": "Wed Mar 04 12:32:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029172949320908806",
+            "url": "https://pbs.twimg.com/media/HCkSC-AawAYDrYL.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2029172981478428672",
+            "url": "https://pbs.twimg.com/media/HCkSE1zXkAAkyi6.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2029173014689148929",
+            "url": "https://pbs.twimg.com/media/HCkSGxha8AENWGL.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2029173031084670979",
+            "url": "https://pbs.twimg.com/media/HCkSHumawAMd3Fp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41162603,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 529,
+          "favorite_count": 3446,
+          "reply_count": 356,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235902834,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 529,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2029143784546811921",
       "text": "RT @WesRoth: xAI has officially rolled out a major User Interface (UI) overhaul for the Grok Imagine feature within the Grok mobile app and…",
