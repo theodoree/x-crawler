@@ -1,12 +1,61 @@
 {
   "date": "20260304",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-04T04:36:52.227776",
-  "tweet_count": 205,
-  "unique_tweet_count": 205,
-  "total_crawled": 402,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-04T06:16:36.246896",
+  "tweet_count": 206,
+  "unique_tweet_count": 206,
+  "total_crawled": 405,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2029073677547892903",
+      "text": "RT @CuiMao: https://t.co/KsFGdX3XzR",
+      "created_at": "Wed Mar 04 05:57:17 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2029054338946220181",
+        "text": "https://t.co/KsFGdX3XzR",
+        "created_at": "Wed Mar 04 04:40:27 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1558317849508122629",
+          "name": "CuiMao",
+          "screen_name": "CuiMao",
+          "description": "AI  Developer ｜ OpenClaw ｜ ComfyUI ｜\nTG 互助学习群https://t.co/Ha8LFayYSN",
+          "followers_count": 39739,
+          "friends_count": 1140,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 29,
+          "favorite_count": 185,
+          "reply_count": 44,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189847,
+        "friends_count": 1566,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2029050086789931338",
       "text": "OpenAI CEO Sam Altman 在周二的全员大会上对员工摊牌：五角大楼怎么使用 OpenAI 的 AI，公司说了不算。\n\n他举了具体的例子——\"也许你觉得打伊朗是对的、入侵委内瑞拉是错的，但你没有资格对此发表意见。\"他明确表示，OpenAI 不能\"做出作战决策\"。\n\n这场大会的背景是：上周五，就在 Anthropic 被特朗普政府列为\"供应链风险\"的同一天，OpenAI 火速宣布与五角大楼达成协议，接替 Anthropic 在国防部的位置。时机之巧，引发轩然大波。\n\nAltman 在内部备忘录中也承认这笔交易\"看起来既投机又草率\"，不应该\"赶在周五发出来\"。他说 OpenAI 本意是想缓和局势，但效果适得其反。\n\n目前 OpenAI 正在重新修订合同条款，将明确写入禁止将 AI 用于美国公民的国内监控——这恰恰是 Anthropic 当初与五角大楼谈崩的核心争议点之一。\n\n大会上还有一个值得注意的细节。Altman 提到了 Elon Musk 的 xAI，说\"至少会有另一个玩家——我猜是 xAI——他们基本会说'你想怎么用就怎么用'\"。言下之意，OpenAI 好歹还有安全底线，但竞争对手可能没有。\n\n用户已经用脚投票了。Anthropic 的 Claude 首次在美国 App Store 下载量超越 ChatGPT，而 ChatGPT 的一星评价在周六暴增了 775%。OpenAI 内部也有超过 60 名员工签署公开信，声援 Anthropic 的立场。",
