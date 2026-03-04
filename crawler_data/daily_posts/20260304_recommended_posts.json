@@ -1,12 +1,197 @@
 {
   "date": "20260304",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-04T02:57:30.116876",
-  "tweet_count": 202,
-  "unique_tweet_count": 202,
-  "total_crawled": 400,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-03-04T04:36:52.227776",
+  "tweet_count": 205,
+  "unique_tweet_count": 205,
+  "total_crawled": 402,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2029050086789931338",
+      "text": "OpenAI CEO Sam Altman 在周二的全员大会上对员工摊牌：五角大楼怎么使用 OpenAI 的 AI，公司说了不算。\n\n他举了具体的例子——\"也许你觉得打伊朗是对的、入侵委内瑞拉是错的，但你没有资格对此发表意见。\"他明确表示，OpenAI 不能\"做出作战决策\"。\n\n这场大会的背景是：上周五，就在 Anthropic 被特朗普政府列为\"供应链风险\"的同一天，OpenAI 火速宣布与五角大楼达成协议，接替 Anthropic 在国防部的位置。时机之巧，引发轩然大波。\n\nAltman 在内部备忘录中也承认这笔交易\"看起来既投机又草率\"，不应该\"赶在周五发出来\"。他说 OpenAI 本意是想缓和局势，但效果适得其反。\n\n目前 OpenAI 正在重新修订合同条款，将明确写入禁止将 AI 用于美国公民的国内监控——这恰恰是 Anthropic 当初与五角大楼谈崩的核心争议点之一。\n\n大会上还有一个值得注意的细节。Altman 提到了 Elon Musk 的 xAI，说\"至少会有另一个玩家——我猜是 xAI——他们基本会说'你想怎么用就怎么用'\"。言下之意，OpenAI 好歹还有安全底线，但竞争对手可能没有。\n\n用户已经用脚投票了。Anthropic 的 Claude 首次在美国 App Store 下载量超越 ChatGPT，而 ChatGPT 的一星评价在周六暴增了 775%。OpenAI 内部也有超过 60 名员工签署公开信，声援 Anthropic 的立场。",
+      "created_at": "Wed Mar 04 04:23:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029043458086748670",
+        "text": "🚨 BREAKING: OPENAI CEO ALL-HANDS MEETING TRANSCRIPT LEAKED\n\n>altman to his own employees:\n>\"you don't get to weigh in on that\"\n>regarding whether iran strikes or venezuela\n>invasion were good or bad\n>openai doesn't \"get to make operational decisions\" on how the DoD uses their AI\n>hegseth makes all the calls\n\n>also altman: admits the deal \"looked opportunistic and sloppy\"\n>says they \"shouldn't have rushed to get this out on friday\"\n>the friday in question: the same day anthropic got blacklisted\n>so he KNOWS how this would reflect \n>did it anyway\n>admits it in front of the whole company\n\non xAI:\n>\"there will be at least one other actor,”\n>“which I assume will be xAI\"\n>\"which effectively will say 'We'll do whatever you want'\"\n\n>telling his employees xAI has no guardrails\n>while also admitting openai's position\n>\"we have principles but they're negotiable\"\n\nLMFAO 💀",
+        "created_at": "Wed Mar 04 03:57:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029043450675396608",
+            "url": "https://pbs.twimg.com/media/HCicRJ9XAAAKYs8.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2029043450654433280",
+            "url": "https://pbs.twimg.com/media/HCicRJ4XIAAy5hK.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2029043450788859904",
+            "url": "https://pbs.twimg.com/media/HCicRKYaUAA_Ujh.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1087640384975577089",
+          "name": "NIK",
+          "screen_name": "ns123abc",
+          "description": "non technical member of technical staff",
+          "followers_count": 55055,
+          "friends_count": 6633,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 17,
+          "favorite_count": 211,
+          "reply_count": 24,
+          "quote_count": 10
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189764,
+        "friends_count": 1566,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 3,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029040459977257072",
+      "text": "哈哈，现在X的伪造战争视频大部分是Sora2生成的",
+      "created_at": "Wed Mar 04 03:45:18 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029024577624650041",
+        "text": "@jaydwivedi_ Wrong—Sora is currently the most popular app for producing fake war videos.\n\nVirtually every single one posted on X in the last 48 hours has Sora metadata. OpenAI has cornered the market in misinformation. Absolutely revolutionary technology. https://t.co/6615UjsafV",
+        "created_at": "Wed Mar 04 02:42:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029023864106434561",
+            "url": "https://pbs.twimg.com/media/HCiKdETawAElrov.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2029023864102199296",
+            "url": "https://pbs.twimg.com/media/HCiKdESaIAAxTH5.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2029023863934468103",
+            "url": "https://pbs.twimg.com/media/HCiKdDqawAc4bNt.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "636513296",
+          "name": "Nikita Bier",
+          "screen_name": "nikitabier",
+          "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+          "followers_count": 854905,
+          "friends_count": 2023,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 211,
+          "favorite_count": 4395,
+          "reply_count": 275,
+          "quote_count": 51
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189764,
+        "friends_count": 1566,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 18,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029035380448673941",
+      "text": "OpenAI 正在自建代码托管平台，要做 GitHub 的替代品\n\n据 The Information 的独家报道，OpenAI 正在开发一个新的代码托管平台，目标是替代 GitHub。GitHub 是全球最大的代码协作平台，几乎所有软件工程师每天都离不开它，存代码、提交修改、团队协作全靠它。\n\n起因很实际：OpenAI 的工程师近几个月频繁遭遇 GitHub 的服务中断，严重干扰了开发工作流。\n\n这不是 OpenAI 一家的感受，GitHub 最近确实不太稳定。The Register 今年 2 月报道，GitHub 的稳定性持续下滑，2025 年某些时段可用性一度跌破 90%。今天（3 月 3 日）GitHub 又出了一次故障，Actions、Copilot、Pull Requests 等多个核心服务同时受影响。\n\n目前这个项目还处于早期阶段，预计至少还要好几个月才能完成。它最初是为了减少对 GitHub 的依赖，可能只是内部工具，也可能发展成商业产品。据悉，OpenAI 内部已有员工在讨论是否将这个平台对外销售给客户。\n\n我怎么觉得 OpenAI 东一榔头西一棒锤的……",
+      "created_at": "Wed Mar 04 03:25:07 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028966588410675226",
+        "text": "holy shit openai did the thing https://t.co/XjIFJwxePT",
+        "created_at": "Tue Mar 03 22:51:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028966536833318914",
+            "url": "https://pbs.twimg.com/media/HChWULkawAIUfks.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "33521530",
+          "name": "swyx",
+          "screen_name": "swyx",
+          "description": "achieve ambition with intentionality, intensity, and integrity.\n\naffiliations:\n- @dxtipshq \n- @cognition\n- @temporalio\n- @aidotengineer\n- @latentspacepod",
+          "followers_count": 145343,
+          "friends_count": 3550,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 21,
+          "favorite_count": 562,
+          "reply_count": 52,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 189764,
+        "friends_count": 1566,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 14,
+        "reply_count": 6,
+        "quote_count": 2
+      }
+    },
     {
       "id": "2029023808359633016",
       "text": "RT @paulwalker99318: 晚点LatePost的独家报道：\n---\n同一天，Qwen 的后训练负责人郁博文也正式离职，他的工作将由今年初加入阿里通义实验室的前 DeepMind 高级资深研究员周浩接任。周浩向阿里云 CTO、通义实验室负责人周靖人汇报。\n\n我们还…",
