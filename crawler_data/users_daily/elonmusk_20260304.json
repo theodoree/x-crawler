@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235910103,
+    "followers_count": 235923707,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260304",
-  "last_updated": "2026-03-04T16:13:59.787907",
-  "tweet_count": 23,
+  "last_updated": "2026-03-04T18:15:07.015611",
+  "tweet_count": 25,
   "tweets": [
     {
       "id": "2029109981816209712",
@@ -1142,6 +1142,90 @@
       "quoted": null,
       "stats": {
         "retweet_count": 1224,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029241569392660566",
+      "text": "RT @SawyerMerritt: NEWS: Tesla ranked 1st on supply chain sustainability in the 2026 Lead the Charge auto/EV supply chain scorecard.\n\n\"@Tes…",
+      "created_at": "Wed Mar 04 17:04:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029231098731852204",
+        "text": "NEWS: Tesla ranked 1st on supply chain sustainability in the 2026 Lead the Charge auto/EV supply chain scorecard.\n\n\"@Tesla remains the top performing automaker of the Leaderboard for the second year running, and increased its overall score by 6 percentage points, while Ford only managed 2 percentage points. The gap between the two companies has widened: Tesla is now almost 5 percentage points ahead of Ford.\n\nTesla reclaimed the top position in the battery section with an impressive 20 percentage point score increase. Tesla is now the first company to score more than 50% in this subsection and also the first company to fully meet the battery emissions disclosure indicator, after disclosing the individual contributions of cell production and key materials (including lithium, nickel, cobalt and graphite) to its battery supply chain emissions.\n\nTesla disclosed a new offtake agreement for low-carbon aluminum in North America, with an emission intensity below 2kg of CO2e per kg of aluminum which is achieved commercially through usage of post-consumer recycled scrap content. The company also disclosed additional details about its efforts to enhance aluminum recycling.\"\n\nI've linked the full 105 page @Lead_theCharge report in the thread below.",
+        "created_at": "Wed Mar 04 16:22:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029225849707438080",
+            "url": "https://pbs.twimg.com/media/HClCKLTaIAAANmE.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1045147,
+          "friends_count": 434,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 262,
+          "favorite_count": 1747,
+          "reply_count": 196,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 262,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029242193127588298",
+      "text": "RT @imPenny2x: In the past couple months, I’ve driven 62 miles, and my Tesla drove 2750.",
+      "created_at": "Wed Mar 04 17:06:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029224492879462770",
+        "text": "In the past couple months, I’ve driven 62 miles, and my Tesla drove 2750.",
+        "created_at": "Wed Mar 04 15:56:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1522405142888255488",
+          "name": "Penny2x",
+          "screen_name": "imPenny2x",
+          "description": "American as f🇺🇸ck. Never lie. Tech, culture, family, and the Elon ecosystem. $TSLA.",
+          "followers_count": 132732,
+          "friends_count": 5300,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 164,
+          "favorite_count": 1730,
+          "reply_count": 279,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 164,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

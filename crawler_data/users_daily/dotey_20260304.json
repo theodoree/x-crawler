@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190092,
+    "followers_count": 190101,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260304",
-  "last_updated": "2026-03-04T16:13:59.777719",
-  "tweet_count": 8,
+  "last_updated": "2026-03-04T18:15:07.004905",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2029022319872458831",
@@ -362,6 +362,236 @@
       "quoted": null,
       "stats": {
         "retweet_count": 18,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029245660269105389",
+      "text": "RT @gkxspace: 文章配图方面，宝玉的 skills 真的很好用，我也一直在用。\n\n它不只是一个 skill，由几个 skill 配合：\n\n1、封面用 baoyu-cover-image。\n5 个维度自由组合：类型、配色、渲染风格、文字密度、情绪强度。\n\n2、插图用…",
+      "created_at": "Wed Mar 04 17:20:41 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2029178859367653567",
+        "text": "文章配图方面，宝玉的 skills 真的很好用，我也一直在用。\n\n它不只是一个 skill，由几个 skill 配合：\n\n1、封面用 baoyu-cover-image。\n5 个维度自由组合：类型、配色、渲染风格、文字密度、情绪强度。\n\n2、插图用 baoyu-article-illustrator。\n自动分析文章结构，识别哪些位置需要配图，然后生成对应的插图。\n\n3、信息图用 baoyu-infographic。\n20 种布局 × 17 种视觉风格，时间线、对比、层级、流程，不同内容类型有对应的布局推荐。\n\n4、底层图片生成用 baoyu-image-gen。\n\n这套Skills设计得很好，我在看它的Skills的具体写法和架构的时候真是被震惊到了。\n\n职责清晰，每个 skill 只做一件事。\n并且可配置，https://t.co/RLnL0Wp9jQ 设置默认风格、水印、输出目录。\n质量也很稳定，每个 skill 都有详细的 prompt 模板和风格定义文件。\n\n我现在写文章基本都用这套工具配图，省了很多时间，生成的图片质量也很稳定，🔗放评论区：",
+        "created_at": "Wed Mar 04 12:55:15 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2024093343118950463",
+          "text": "https://t.co/0Hy7Foz04m",
+          "created_at": "Wed Feb 18 12:07:13 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1881991469730594816",
+            "name": "余温",
+            "screen_name": "gkxspace",
+            "description": "🌸05年连续创业者 | 专注 AI 产品 | 项目营收 7 位数+\n✨记录真实的创业路：项目复盘、踩坑总结和成长思考\n💗AI 产品构建 & AI 商业化方案 & 企业 AI 转型",
+            "followers_count": 29433,
+            "friends_count": 709,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 289,
+            "favorite_count": 1292,
+            "reply_count": 85,
+            "quote_count": 53
+          }
+        },
+        "user": {
+          "id": "1881991469730594816",
+          "name": "余温",
+          "screen_name": "gkxspace",
+          "description": "🌸05年连续创业者 | 专注 AI 产品 | 项目营收 7 位数+\n✨记录真实的创业路：项目复盘、踩坑总结和成长思考\n💗AI 产品构建 & AI 商业化方案 & 企业 AI 转型",
+          "followers_count": 29433,
+          "friends_count": 709,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 41,
+          "favorite_count": 172,
+          "reply_count": 6,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 41,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029252314595221767",
+      "text": "就说那么多人都要装小龙虾🦞呢，我还以为只是想圆个老板梦，可以使唤牛马，原来是想圆皇帝梦呢😂",
+      "created_at": "Wed Mar 04 17:47:08 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029205832517210134",
+        "text": "My intention was simple: to ask Peter @steipete  for his thoughts. As a founder, he sees things from a different height and angle, and I wanted to hear his ideas and suggestions.\nNever expected an untranslated Chinese image to stir up so much noise in the AI era.\nAsking when you don't know isn't shameful. Whether he replies or not is entirely up to him — I was already prepared to be ignored. No pressure, no entitlement.\nTo everyone on X: let's respect each other. Happy to discuss and learn together with what limited knowledge I have.",
+        "created_at": "Wed Mar 04 14:42:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029203293323558912",
+            "url": "https://pbs.twimg.com/media/HCktpOOagAAM0AJ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1910248995303428096",
+          "name": "Cander",
+          "screen_name": "Cander_zhu",
+          "description": "💻Developer | PHP & Python & Go\n🤖AI Indie Dev |Vibe Coding｜Tool sharing\n✍️Self-Media Writer | Overseas Projects\n 蓝V互关必回 永不取关  🤝欢迎技术交流涨粉",
+          "followers_count": 1427,
+          "friends_count": 1688,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 7,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 12,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029253264630247905",
+      "text": "这图更清晰\nhttps://t.co/zzq2KeCWiB",
+      "created_at": "Wed Mar 04 17:50:54 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029142351642349870",
+        "text": "@steipete Can you see this picture clearly? The text on the picture is in Chinese. https://t.co/sTc9JT0PLg",
+        "created_at": "Wed Mar 04 10:30:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029142226844913665",
+            "url": "https://pbs.twimg.com/media/HCj2Gr3WEAENfYT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1910248995303428096",
+          "name": "Cander",
+          "screen_name": "Cander_zhu",
+          "description": "💻Developer | PHP & Python & Go\n🤖AI Indie Dev |Vibe Coding｜Tool sharing\n✍️Self-Media Writer | Overseas Projects\n 蓝V互关必回 永不取关  🤝欢迎技术交流涨粉",
+          "followers_count": 1427,
+          "friends_count": 1688,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029253980824502740",
+      "text": "RT @ring_hyacinth: 项目开源啦！\n\n▶ 完整项目：https://t.co/qJHuCC37YK\n▶ Skill：https://t.co/7rAFmJa3N1\n\n项目简介：\n1. OpenClaw 龙虾的“像素办公室”：龙虾会根据状态自动走到不同位置（休息区…",
+      "created_at": "Wed Mar 04 17:53:45 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2028021181073527273",
+        "text": "项目开源啦！\n\n▶ 完整项目：https://t.co/Bqf8JtbiyB\n▶ Skill：https://t.co/SLToARPhVk\n\n项目简介：\n1. OpenClaw 龙虾的“像素办公室”：龙虾会根据状态自动走到不同位置（休息区 / 工作区 / bug 区）\n2. 左下角添加他昨天的工作小记。\n3. 支持邀请其他龙虾加入办公室（丰富功能开发中）\n4. 手机端适配\n\ncreated by: @simonxxoo and me",
+        "created_at": "Sun Mar 01 08:15:03 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028015865955028997",
+            "url": "https://video.twimg.com/amplify_video/2028015865955028997/vid/avc1/1534x1212/vuxL5Qn4_JqhHK4A.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2027388816580108402",
+          "text": "最新的界面做好了！如果大家喜欢的话，这个版本的skill我们也开源😆 https://t.co/3NvJ2UiaVs",
+          "created_at": "Fri Feb 27 14:22:15 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "video",
+              "id": "2027388670517678080",
+              "url": "https://video.twimg.com/amplify_video/2027388670517678080/vid/avc1/1732x1200/lAiLbTCjvlYDzO0h.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1515128158835691526",
+            "name": "Ring Hyacinth",
+            "screen_name": "ring_hyacinth",
+            "description": "Artist working with #AI",
+            "followers_count": 16150,
+            "friends_count": 422,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 108,
+            "favorite_count": 1124,
+            "reply_count": 96,
+            "quote_count": 22
+          }
+        },
+        "user": {
+          "id": "1515128158835691526",
+          "name": "Ring Hyacinth",
+          "screen_name": "ring_hyacinth",
+          "description": "Artist working with #AI",
+          "followers_count": 16150,
+          "friends_count": 422,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 350,
+          "favorite_count": 2293,
+          "reply_count": 127,
+          "quote_count": 66
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 350,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
