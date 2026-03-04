@@ -1,0 +1,99 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 189668,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260304",
+  "last_updated": "2026-03-04T02:57:30.144990",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2029022319872458831",
+      "text": "RT @plantegg: 阿里的 qwen 核心开发 leader 突然离职，以我 10 年的阿里经验，这个一点都不稀奇\n\n随着创始人慢慢退出，现在剩下的大多都是猴精猴精(相对理想主义者)自私的聪明人\n\n那些踏实干活的人得不到激励，反而从外面招了一个会舔的 leader 过来…",
+      "created_at": "Wed Mar 04 02:33:13 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2029009868703842601",
+        "text": "阿里的 qwen 核心开发 leader 突然离职，以我 10 年的阿里经验，这个一点都不稀奇\n\n随着创始人慢慢退出，现在剩下的大多都是猴精猴精(相对理想主义者)自私的聪明人\n\n那些踏实干活的人得不到激励，反而从外面招了一个会舔的 leader 过来后整个团队高速腐化掉，这些 leader 大多是会虫，把事情搞烂的高手\n\n但是 HR 还会极力维护他们，我给你们讲个例子：我们以前的团队有个Google 来的技术高 P(不是 M 的管理岗)，整天除了扯名字架构啥都不会，带团队几年了什么都没干出来，HR 还极力维护说这人天天写代码，我说写的代码，以及代码提交量能在 aone 里 share 下吗？HR 说不能。其实不是说你非要写代码，就是说作为技术高 P 你要能解决问题对吧\n\n这种水货最可怕的不是拿了工资不干活，为了维护他们自身的地位他们会拼命把水搅浑，让自己留下来或者晋升，其实阿里一点都不怕你吃空饷，就怕你拿着阿里的高工资，还整天挖墙脚\n\n外面都说阿里 HR 太强势了，而恰恰是这个强势造就了阿里早期的牛逼，但这些年阿里的 HR 在一号位面前丢掉了独立监督的强势，变成了一号位的舔狗和秘书，然后对普通员工还是强势，那么剩下的就只有一号位胡作非为了，普通员工反感跑路，劣币驱良币正在上演……",
+        "created_at": "Wed Mar 04 01:43:44 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "39716430",
+          "name": "plantegg",
+          "screen_name": "plantegg",
+          "description": "在这里没有AI 生成的内容，没有编故事\n工程师，网络、性能、CPU等领域。个人介绍：https://t.co/sdAwtv1et3",
+          "followers_count": 54098,
+          "friends_count": 440,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 126,
+          "reply_count": 14,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029023808359633016",
+      "text": "RT @paulwalker99318: 晚点LatePost的独家报道：\n---\n同一天，Qwen 的后训练负责人郁博文也正式离职，他的工作将由今年初加入阿里通义实验室的前 DeepMind 高级资深研究员周浩接任。周浩向阿里云 CTO、通义实验室负责人周靖人汇报。\n\n我们还…",
+      "created_at": "Wed Mar 04 02:39:08 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2029001938013196592",
+        "text": "晚点LatePost的独家报道：\n---\n同一天，Qwen 的后训练负责人郁博文也正式离职，他的工作将由今年初加入阿里通义实验室的前 DeepMind 高级资深研究员周浩接任。周浩向阿里云 CTO、通义实验室负责人周靖人汇报。\n\n我们还了解到，Qwen Code 负责人惠彬原也于 2026 年 1 月从阿里离职，加入 Meta。此后林俊旸曾接手负责 Qwen Code，就在上周，林俊旸还在社交媒体分享 Qwen Coding Agent 相关的招聘信息。\n……\n\n林俊旸最终选择离开，很可能与 Qwen 团队正经历的组织调整有关。\n\n林俊旸直接负责的 Qwen（通义千问）团队隶属于阿里云 CTO 周靖人负责的通义实验室。近期，通义实验室计划将 Qwen 团队分拆，从涵盖不同训练流程和模态的 “垂直整合” 体系，变成预训练、后训练、文本、多模态等一个个分开的水平分工团队，这些团队仍隶属通义实验室。林俊旸的管理范围被缩小。\n\n把模型团队拆开、打散的变化，也不符合林俊旸对技术趋势的判断。去年至今，林俊旸曾多次提及，他认为预训练、后训练，乃至 Infra 和训练团队应该更紧密地结合和沟通。Qwen 模型团队从去年中开始组建自己的 Infra 团队，这部分工作原来主要由阿里云的人工智能平台 PAI 负责，PAI 同时支持来自通义实验室不同团队的 Infra 需求。\n\n横向对比中国其他大公司的 AI 团队布局，字节 Seed 内部存在不同团队做同一方向、同一模态的 “赛马”；在豆包主模型系列，则按照预训练、后训练的流程来划分小团队；腾讯在去年的调整后，变得更加整合，模型训练和 Infra 团队都由姚顺雨管理。\n……",
+        "created_at": "Wed Mar 04 01:12:13 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029001473179459584",
+            "url": "https://pbs.twimg.com/media/HCh2FvmbIAA1pUu.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1693270225104572416",
+          "name": "Bruce🐼",
+          "screen_name": "paulwalker99318",
+          "description": "Vibe Builder | 关注软件工程与 AI Agent | 实践 & 分享。",
+          "followers_count": 1182,
+          "friends_count": 795,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 12,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
