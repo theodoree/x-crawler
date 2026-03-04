@@ -1,12 +1,263 @@
 {
   "date": "20260304",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-04T18:15:06.973267",
-  "tweet_count": 237,
-  "unique_tweet_count": 237,
-  "total_crawled": 431,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-03-04T20:10:20.770276",
+  "tweet_count": 242,
+  "unique_tweet_count": 242,
+  "total_crawled": 437,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2029277201250631784",
+      "text": "MCP 一年多了都没死，Agent Skills 现在是所有 Agent 的核心基础，OpenClaw 之所以强大，靠的就是一堆 Skills\n可能规范会升级，但是会存在很久",
+      "created_at": "Wed Mar 04 19:26:01 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029026103734747616",
+        "text": "看了下Skills这玩意，感觉是一个活不到半年的技术方向，算了，不要浪费生命在上面....",
+        "created_at": "Wed Mar 04 02:48:15 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1999391256577998849",
+          "name": "李国宝",
+          "screen_name": "liguobao2077",
+          "description": "实名上网 | 爆栈工程师 | 有一只小黑猫。\n卖桃子不卖课，欢迎来玩~\nhttps://t.co/lWObacGj9E 首席推荐官\nhttps://t.co/YYnh123oay 全干开发",
+          "followers_count": 121,
+          "friends_count": 173,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 151,
+          "reply_count": 42,
+          "quote_count": 4
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190092,
+        "friends_count": 1566,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029275188680901030",
+      "text": "我都做过，结论一样。DAU 超千万的产品，这些产品不是一天就到这个量的，也是迭代出来的。到了这个量后，都有一套稳定的架构，每次无论新功能还是改动的代码也不会太多，有一套规范防止你改出大问题，也不需要去用 spec driven\nhttps://t.co/OPcS63izfT",
+      "created_at": "Wed Mar 04 19:18:01 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029272293864817114",
+        "text": "@dotey 还是分场景的，你这是独立开发者写小应用的视角。如果是一个线上产品，DAU超千万，PCU超百万。你今天写的代码下周就会随着版本外放到线上，你的模式是行不通的。 简单来说，这是个人作坊和工业化生产管线的区别，没有好坏与对错，屁股决定脑袋。",
+        "created_at": "Wed Mar 04 19:06:31 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "105412373",
+          "name": "Ace",
+          "screen_name": "Go_Ace",
+          "description": "Chinese|THU|1989|software major|google&apple fan| android | ios|Linux&meego developer|",
+          "followers_count": 122,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190092,
+        "friends_count": 1566,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029268131995074615",
+      "text": "那时候其实已经有互联网，有Google了，当然很快就访问不了了，baidu 搜索技术资料效果很差。\n\n那时候没有GIT但是有SVN，是中心化的源代码管理。\n\nSVN有个设计，就是某个代码文件同时只能有一个人checkout修改，有人在修改文件其他人就得等，以至于下班之前checkin代码成了大部分项目团队的硬性规定，否则其他人就没法修改代码了。\n\nSVN 似乎也没有分支的概念，或者根本不需要，没 git 那么好，但是能管理。\n\n前端在 jQuery 之前是 vanilla js，不需要打包，不需要混淆，更早的时候连 ajax call 都没有，用个隐藏的 iframe 定时刷新\n\n学习主要是靠买书，后来有一些不错的技术博客，比如博客堂、博客园。\n\n更早的时候技术论坛其实氛围很好的，大家互帮互助，最流行的标题之一是：“冰天雪地赤身裸体跪求XXXX”。\n\n部署服务是真的麻烦，一堆配置要手动修改，经常出错导致生产环境故障。\n\n没有 Docker 但是有物理机，自己买服务器放到机房托管，1U 的机器一年几千块。\n\n那时候托管机房一个重要的因素是要考虑南北互联，不在一个区域的速度天差地别。\n\n其实挺有趣的，每天能学新知识，不焦虑，也没那么卷，是很好的时代。",
+      "created_at": "Wed Mar 04 18:49:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029069863013237038",
+        "text": "很难想象上代目程序员是如何工作的，没有Git，没有docker，上个线还要手动打包传过去，Java后端还在用jsp，servlet，写个项目要配置一堆文件，前端还在jQuery，最要命的是资料匮乏，没有系统的学习资源，新手遇到一个问题可能卡很久没办法解决，上代目程序员都怎么熬出来的啊？",
+        "created_at": "Wed Mar 04 05:42:08 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1496714588918026242",
+          "name": "橘子喵🍥",
+          "screen_name": "using_YueCheng",
+          "description": "社畜💊娘 | hrt 2023-9-3 | 笨蛋后端程序员 | 被灵活就业中",
+          "followers_count": 2566,
+          "friends_count": 813,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 13,
+          "favorite_count": 343,
+          "reply_count": 172,
+          "quote_count": 20
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190092,
+        "friends_count": 1566,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 27,
+        "reply_count": 11,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2029268083043688905",
+      "text": "Wow",
+      "created_at": "Wed Mar 04 18:49:47 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1935353770981884022",
+        "text": "Huge repository of information about OpenAI and Altman just dropped — 'The OpenAI Files'.\n\nThere's so much crazy shit in there. Here's what Claude highlighted to me:\n\n1. Altman listed himself as Y Combinator chairman in SEC filings for years — a total fabrication (?!):\n\n\"To smooth his exit [from YC], Altman proposed he move from president to chairman. He pre-emptively published a blog post on the firm's website announcing the change.\n\nBut the firm's partnership had never agreed, and the announcement was later scrubbed from the post.\"\n\n\"...Despite the retraction, Altman continued falsely listing himself as chairman in SEC filings for years, despite never actually holding the position.\"\n\n(WTAF.)\n\n2. OpenAI's profit cap was quietly changed to increase 20% annually — at that rate it would exceed $100 trillion in 40 years. The change was not disclosed and OpenAI continued to take credit for its capped-profit structure without acknowledging the modification.\n\n3. Despite claiming to Congress he has \"no equity in OpenAI,\" Altman held indirect stakes through Sequoia and Y Combinator funds.\n\n4. Altman owns 7.5% of Reddit — when Reddit announced its OpenAI partnership, Altman's net worth jumped $50 million. Altman invested in Rain AI, then OpenAI signed a letter of intent to buy $51 million of chips from them.\n\n5. Rumours suggest Altman may receive a 7% stake worth ~$20 billion in the restructured company.\n\n5. OpenAI had a major security breach in 2023 where a hacker stole AI technology details but didn't report it for over a year. OpenAI fired Leopold Aschenbrenner explicitly because he shared security concerns with the board.\n\n6. Altman denied knowing about equity clawback provisions that threatened departing employees' millions in vested equity if the ever criticised OpenAI. But Vox found he personally signed the documents authorizing them in April 2023. These restrictive NDAs even prohibited employees from acknowledging their existence.\n\n7. Senior employees at Altman's first startup Loopt twice tried to get the board to fire him for \"deceptive and chaotic behavior\".\n\n9. OpenAI's leading researcher Ilya Sutskever told the board: \"I don't think Sam is the guy who should have the finger on the button for AGI\".\n\nSutskever provided the board a self-destructing PDF with Slack screenshots documenting \"dozens of examples of lying or other toxic behavior.\n\n10. Mira Murati (CTO) said: \"I don't feel comfortable about Sam leading us to AGI\"\n\n11. The Amodei siblings described Altman's management tactics as \"gaslighting\" and \"psychological abuse\".\n\n12. At least 5 other OpenAI executives gave the board similar negative feedback about Altman.\n\n13. Altman owned the OpenAI Startup Fund personally but didn't disclose this to the board for years. Altman demanded to be informed whenever board members spoke to employees, limiting oversight.\n\n14. Altman told board members that other board members wanted someone removed when it was \"absolutely false\". An independent review after Altman's firing found \"many instances\" of him \"saying different things to different people\"\n\n15. OpenAI required employees to waive their federal right to whistleblower compensation. Former employees filed SEC complaints alleging OpenAI illegally prevented them from reporting to regulators.\n\n16. While publicly supporting AI regulation, OpenAI simultaneously lobbied to weaken the EU AI Act.\n\nBy 2025, Altman completely reversed his stance, calling the government approval he once advocated \"disastrous\" and OpenAI now supports federal preemption of all state AI safety laws even before any federal regulation exists.\n\nObviously this is only a fraction of what's in the apparently 10,000 words on the site. Link below if you'd like to look over.\n\n(I've skipped over the issues with OpenAI's restructure which I've written about before already, but in a way that's really the bigger issue.)",
+        "created_at": "Wed Jun 18 15:07:50 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "47268595",
+          "name": "Rob Wiblin",
+          "screen_name": "robertwiblin",
+          "description": "Host of the 80,000 Hours Podcast.\n\nExploring the inviolate sphere of ideas one interview at a time: https://t.co/2YMw00bkIQ",
+          "followers_count": 47433,
+          "friends_count": 808,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3758,
+          "favorite_count": 17003,
+          "reply_count": 1279,
+          "quote_count": 758
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235898884,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1838,
+        "favorite_count": 14297,
+        "reply_count": 1499,
+        "quote_count": 76
+      }
+    },
+    {
+      "id": "2029267012254625883",
+      "text": "Yeah",
+      "created_at": "Wed Mar 04 18:45:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029215384801264092",
+        "text": "The “Wikilaundering” scandal is finally blowing wide open and it’s worse than we thought\n\nA massive investigation by The Bureau of Investigative Journalism just exposed the ugly truth: Wikipedia is corrupt to its core\n\nYou do not get information. You get propaganda.... articles manipulated by the highest bidder, billionaires, PR firms, and woke activists\n\nHere’s exactly how the rot works:\n📍 Shadow Network: London-based PR firms like Portland Communications run secret “black hat” editors and middlemen to bypass every rule\n\n📍 Reputation Scrubbing on Steroids: They delete scandals, human rights abuses, and even controversial Epstein files for powerful politicians...... while scrubbing migrant worker deaths and slave labor scandals for Qatar, covering up ties to terrorists, and burying corporate crimes for billionaire clients\n\n📍 The Price of Truth: Billionaires and corporations pay huge money to bury failures and push lies while their “achievements” sit at the top\n\n📍 Gatekeeping at Scale: A tiny insider group controls what billions see as “fact”\n\nWikipedia is not an encyclopedia\nIt’s a bought-and-paid-for propaganda brochure run for the elite and woke activists\n\nThis is exactly why Elon was hell-bent on creating Grokipedia.......the exact opposite: information that can’t be corrupted, altered by price, and is written by real AI that delivers raw data and unfiltered truth instead of the sanitized woke lies sold to the highest bidder\n\nStop trusting the laundered version of reality",
+        "created_at": "Wed Mar 04 15:20:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029214862677786624",
+            "url": "https://pbs.twimg.com/media/HCk4KpbaQAAOjfi.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 161732,
+          "friends_count": 1637,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1992,
+          "favorite_count": 6392,
+          "reply_count": 335,
+          "quote_count": 173
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235898884,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4980,
+        "favorite_count": 25148,
+        "reply_count": 1411,
+        "quote_count": 108
+      }
+    },
     {
       "id": "2029253980824502740",
       "text": "RT @ring_hyacinth: 项目开源啦！\n\n▶ 完整项目：https://t.co/qJHuCC37YK\n▶ Skill：https://t.co/7rAFmJa3N1\n\n项目简介：\n1. OpenClaw 龙虾的“像素办公室”：龙虾会根据状态自动走到不同位置（休息区…",

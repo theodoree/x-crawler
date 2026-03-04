@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190101,
+    "followers_count": 190092,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260304",
-  "last_updated": "2026-03-04T18:15:07.004905",
-  "tweet_count": 12,
+  "last_updated": "2026-03-04T20:10:20.802040",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2029022319872458831",
@@ -594,6 +594,123 @@
         "retweet_count": 350,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029268131995074615",
+      "text": "那时候其实已经有互联网，有Google了，当然很快就访问不了了，baidu 搜索技术资料效果很差。\n\n那时候没有GIT但是有SVN，是中心化的源代码管理。\n\nSVN有个设计，就是某个代码文件同时只能有一个人checkout修改，有人在修改文件其他人就得等，以至于下班之前checkin代码成了大部分项目团队的硬性规定，否则其他人就没法修改代码了。\n\nSVN 似乎也没有分支的概念，或者根本不需要，没 git 那么好，但是能管理。\n\n前端在 jQuery 之前是 vanilla js，不需要打包，不需要混淆，更早的时候连 ajax call 都没有，用个隐藏的 iframe 定时刷新\n\n学习主要是靠买书，后来有一些不错的技术博客，比如博客堂、博客园。\n\n更早的时候技术论坛其实氛围很好的，大家互帮互助，最流行的标题之一是：“冰天雪地赤身裸体跪求XXXX”。\n\n部署服务是真的麻烦，一堆配置要手动修改，经常出错导致生产环境故障。\n\n没有 Docker 但是有物理机，自己买服务器放到机房托管，1U 的机器一年几千块。\n\n那时候托管机房一个重要的因素是要考虑南北互联，不在一个区域的速度天差地别。\n\n其实挺有趣的，每天能学新知识，不焦虑，也没那么卷，是很好的时代。",
+      "created_at": "Wed Mar 04 18:49:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029069863013237038",
+        "text": "很难想象上代目程序员是如何工作的，没有Git，没有docker，上个线还要手动打包传过去，Java后端还在用jsp，servlet，写个项目要配置一堆文件，前端还在jQuery，最要命的是资料匮乏，没有系统的学习资源，新手遇到一个问题可能卡很久没办法解决，上代目程序员都怎么熬出来的啊？",
+        "created_at": "Wed Mar 04 05:42:08 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1496714588918026242",
+          "name": "橘子喵🍥",
+          "screen_name": "using_YueCheng",
+          "description": "社畜💊娘 | hrt 2023-9-3 | 笨蛋后端程序员 | 被灵活就业中",
+          "followers_count": 2566,
+          "friends_count": 813,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 13,
+          "favorite_count": 343,
+          "reply_count": 172,
+          "quote_count": 20
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 27,
+        "reply_count": 11,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2029275188680901030",
+      "text": "我都做过，结论一样。DAU 超千万的产品，这些产品不是一天就到这个量的，也是迭代出来的。到了这个量后，都有一套稳定的架构，每次无论新功能还是改动的代码也不会太多，有一套规范防止你改出大问题，也不需要去用 spec driven\nhttps://t.co/OPcS63izfT",
+      "created_at": "Wed Mar 04 19:18:01 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029272293864817114",
+        "text": "@dotey 还是分场景的，你这是独立开发者写小应用的视角。如果是一个线上产品，DAU超千万，PCU超百万。你今天写的代码下周就会随着版本外放到线上，你的模式是行不通的。 简单来说，这是个人作坊和工业化生产管线的区别，没有好坏与对错，屁股决定脑袋。",
+        "created_at": "Wed Mar 04 19:06:31 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "105412373",
+          "name": "Ace",
+          "screen_name": "Go_Ace",
+          "description": "Chinese|THU|1989|software major|google&apple fan| android | ios|Linux&meego developer|",
+          "followers_count": 122,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029277201250631784",
+      "text": "MCP 一年多了都没死，Agent Skills 现在是所有 Agent 的核心基础，OpenClaw 之所以强大，靠的就是一堆 Skills\n可能规范会升级，但是会存在很久",
+      "created_at": "Wed Mar 04 19:26:01 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029026103734747616",
+        "text": "看了下Skills这玩意，感觉是一个活不到半年的技术方向，算了，不要浪费生命在上面....",
+        "created_at": "Wed Mar 04 02:48:15 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1999391256577998849",
+          "name": "李国宝",
+          "screen_name": "liguobao2077",
+          "description": "实名上网 | 爆栈工程师 | 有一只小黑猫。\n卖桃子不卖课，欢迎来玩~\nhttps://t.co/lWObacGj9E 首席推荐官\nhttps://t.co/YYnh123oay 全干开发",
+          "followers_count": 121,
+          "friends_count": 173,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 151,
+          "reply_count": 42,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "reply_count": 3,
         "quote_count": 0
       }
     }
