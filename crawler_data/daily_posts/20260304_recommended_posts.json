@@ -1,12 +1,493 @@
 {
   "date": "20260304",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-04T14:16:42.101283",
-  "tweet_count": 223,
-  "unique_tweet_count": 223,
-  "total_crawled": 420,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-04T16:13:59.746691",
+  "tweet_count": 231,
+  "unique_tweet_count": 231,
+  "total_crawled": 423,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2029214545823027237",
+      "text": "RT @lifesinger: 在阿里做开源，是件特别幸福又折腾人的事。\n\n幸福之处是，在早期，可以非常自由又狂野地去做开源。当年做 Sea.js、KISSY 等项目，只需没日没夜去做就好。做好了，同时内部项目愿意采纳，价值就不需要另证。…",
+      "created_at": "Wed Mar 04 15:17:03 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2029197221019947262",
+        "text": "在阿里做开源，是件特别幸福又折腾人的事。\n\n幸福之处是，在早期，可以非常自由又狂野地去做开源。当年做 Sea.js、KISSY 等项目，只需没日没夜去做就好。做好了，同时内部项目愿意采纳，价值就不需要另证。\n\n折腾之处是，一旦开始做出声量，开始因开源建立起团队影响力，就会被要求纳入绩效考核，要能和公司业务建立关联。如果说不清楚，就只能用爱发电，逐步不讨喜，成为减分项。\n\nAnt Design、AntV 等项目，兴起是因为身处公司边缘、不被关注，但有一帮热爱和奉献之人。痛苦之处是，做到有一定声量之后，就得直接或间接地和业务挂钩。需要去证明、去规划、去画饼。\n\n本以为阿里的开源项目，从 Qwen 起，可以摆脱上面的折腾因素。目前看起来，并没有变。\n\n不过在开源这块，阿里比字节和腾讯，已经好非常多。腾讯的封闭，不会有开源。字节的数据导向，开源也起不来。阿里的开源，至少还有不少机会能爬到半山腰。只是非常可惜，从半山腰要继续爬到山顶，则也非常非常难。难的不是技术，是被看见后的组织阻力。\n\n国内真正有开源基因的公司，目前看是 DeepSeek，是创始人层面一开始就想好了，是开源本身就是商业模式的最重要要素。期待 DeepSeek 能继续往山顶攀升。\n\n一个公司，终究还是有基因的。可叹。",
+        "created_at": "Wed Mar 04 14:08:12 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16681326",
+          "name": "Frank Wang 玉伯",
+          "screen_name": "lifesinger",
+          "description": "I am curious and honest",
+          "followers_count": 29237,
+          "friends_count": 1080,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 211,
+          "reply_count": 18,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190092,
+        "friends_count": 1566,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029214445705314671",
+      "text": "RT @RupertLowe10: Big news. New polling just out - Restore Britain already at 7%.\n\nThere are millions of people in the country who support…",
+      "created_at": "Wed Mar 04 15:16:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029212477628502094",
+        "text": "Big news. New polling just out - Restore Britain already at 7%.\n\nThere are millions of people in the country who support our political party, and we are less than three weeks in.\n\nIt is historic.\n\nI am increasingly confident that Restore Britain can win the next general election. https://t.co/krIWboUZgn",
+        "created_at": "Wed Mar 04 15:08:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029211214484578304",
+            "url": "https://pbs.twimg.com/media/HCk02S2XoAAuRXn.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 713153,
+          "friends_count": 788,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1224,
+          "favorite_count": 7607,
+          "reply_count": 552,
+          "quote_count": 79
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235910103,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1224,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029213483372560540",
+      "text": "RT @mayemusk: Recently, I attended a celebration in Shanghai as 1 million of my books had sold in China. Please go to a bookstore or the In…",
+      "created_at": "Wed Mar 04 15:12:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029061281471152269",
+        "text": "Recently, I attended a celebration in Shanghai as 1 million of my books had sold in China. Please go to a bookstore or the Internet.",
+        "created_at": "Wed Mar 04 05:08:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2029001560672584156",
+          "text": "Oh Maye, your book has already changed so many lives in 34 languages… when will we lucky Chinese readers finally get our official 中文版?  We’ve been waiting patiently (but very eagerly!)  You are truly the definition of elegance, strength, and grace. Raising such an extraordinary son like Elon—who’s literally reshaping the future of humanity—while building your own incredible career… that’s not just parenting, that’s legendary. The world is better because of the extraordinary woman and mother you are.   Please tell us there’s a Chinese edition coming soon… we need this inspiration in our language too!",
+          "created_at": "Wed Mar 04 01:10:43 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "116786246",
+            "name": "周鸣超",
+            "screen_name": "yczmc",
+            "description": "yczmc2@gmail.com",
+            "followers_count": 1071,
+            "friends_count": 1255,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 11,
+            "favorite_count": 65,
+            "reply_count": 19,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "14171401",
+          "name": "Maye Musk",
+          "screen_name": "mayemusk",
+          "description": "Author: A Woman Makes A Plan, now in 34 languages & 100+ countries 📖 Doctor of Dietetics 👩‍🎓 Supermodel 😉💃 ItsGreatToBe77 info@mayemusk.com",
+          "followers_count": 1493043,
+          "friends_count": 204,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 307,
+          "favorite_count": 2081,
+          "reply_count": 284,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235910103,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 307,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029213305492128028",
+      "text": "RT @america: Chairman Jim Jordan to Tim Walz on Somali fraud in Minnesota:\n\n“98 people have been indicted. Do you happen to know how many a…",
+      "created_at": "Wed Mar 04 15:12:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029208486823829751",
+        "text": "Chairman Jim Jordan to Tim Walz on Somali fraud in Minnesota:\n\n“98 people have been indicted. Do you happen to know how many are Somalian...?”\n\n“85%... a key voting bloc—and I think that's what drove this whole thing.”\n\n https://t.co/y5M0QQtEKC",
+        "created_at": "Wed Mar 04 14:52:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029206811652333568",
+            "url": "https://video.twimg.com/amplify_video/2029206811652333568/vid/avc1/1280x720/fg9pAUfjlabTCeBB.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1841988608825466880",
+          "name": "America",
+          "screen_name": "america",
+          "description": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+          "followers_count": 1194758,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 811,
+          "favorite_count": 4182,
+          "reply_count": 231,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235910103,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 811,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029213192426274952",
+      "text": "This will be big",
+      "created_at": "Wed Mar 04 15:11:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028917979371716952",
+        "text": "I don’t think people truly understand what’s about to happen with 𝕏 Money.\n\nThis is Elon going back to his roots - back to https://t.co/xPHLRiKvNk - and building what he always wanted in the first place: one place that runs your entire financial life.\n\nWhen he rebranded Twitter to 𝕏 in 2023, he said straight up that we’re adding the ability to conduct your entire financial world. He even said you may not even need a traditional bank account.\n\nMost people brushed that off. And now it’s becoming real.\n\n𝕏 Money has already been live in closed beta internally within the company. A limited external beta is expected soon, and they’ve already secured money transmitter licenses in over 40 states plus DC. 𝕏 Payments is registered with FinCEN. Visa is officially partnered. You’ll be able to fund your wallet instantly, send peer-to-peer payments, move money to your bank, and eventually use a debit card.\n\nAnd I think this is just the beginning.\n\nThis will probably start as a simple wallet where you can send money as easily as sending a DM. With this technology, you can pay creators, pay subscriptions, pay whatever bills, shop inside the app, get paid inside the app, and much more. \n\nThen, there will be high-yield savings, you can invest, you can get loans, have money market accounts, maybe even treasury access, cool smart cashtags that let you see live stock prices in your timeline and execute trades seamlessly, crypto integration, potentially full asset management… the list goes on and on… Elon literally said this is meant to be the central source of ALL monetary transactions.\n\nBro… think about that for a sec.\n\nYour 𝕏 profile becomes your financial identity.\n\nEveryone you follow is already there. Everyone you interact with is already there. That social graph becomes your distribution engine. Like, you won’t need a separate banking app, no need for a separate investing app, no need for a separate payment app… this all lives where you already spend your time. Right here on 𝕏. \n\nLook at WeChat in China, which Elon always alluded to. Payments, messaging, shopping, investing - all integrated in one app. It handles $ trillions in volume and became deeply embedded in everyone’s daily life. Now 𝕏 is building the Western version of that, but with a more global reach, and xAI’s AI layered on top of all this.\n\nBefore you call me crazy, you have to understand how big this opportunity is. \n\nDigital payments globally are measured in the tens of $ trillions of dollars annually. Even just capturing a small slice of that across hundreds of millions, and eventually a billion, users can change everything. 𝕏 already has the audience. That lowers customer acquisition costs significantly. Add fintech revenue on top of ads, plus float, plus lending, plus investing tools, and we’re talking about a completely different valuation profile.\n\nNow, $44B for this company looks like the bargain of the decade… this was one of the main reasons I invested in 𝕏.\n\nAnd if they execute the way they’ve executed at Tesla and SpaceX, this could truly fundamentally redefine how people handle $ .\n\nMost people today still see 𝕏 as just a social media app. I see it as the foundation of a financial system layered on top of a global network. Ultimately becoming the “everything” app. \n\nAnd this I believe is a once-in-a-generation opportunity.\n\nElon is calling this a game-changer. \n\nI believe him.",
+        "created_at": "Tue Mar 03 19:38:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028917974158151680",
+            "url": "https://pbs.twimg.com/media/HCgqJdgaEAA7g79.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "985243593538338816",
+          "name": "Teslaconomics",
+          "screen_name": "Teslaconomics",
+          "description": "I post my conscious thoughts w/ the world, live to the fullest, keep things simple, truthful & filter the noise. Long-term investor in Tesla, SpaceX, xAI/X.",
+          "followers_count": 477624,
+          "friends_count": 217,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1051,
+          "favorite_count": 5648,
+          "reply_count": 1091,
+          "quote_count": 308
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235910103,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3028,
+        "favorite_count": 24473,
+        "reply_count": 3288,
+        "quote_count": 355
+      }
+    },
+    {
+      "id": "2029212992571867548",
+      "text": "Grok hits new high",
+      "created_at": "Wed Mar 04 15:10:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029211860747079689",
+        "text": "BREAKING: Grok hits a new high on Google Trends. Popularity and real world usage are skyrocketing globally. 🔥 https://t.co/718pCdoeLN",
+        "created_at": "Wed Mar 04 15:06:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029199318545289216",
+            "url": "https://pbs.twimg.com/media/HCkqB3BbUAAL5l3.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1842251,
+          "friends_count": 907,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 94,
+          "favorite_count": 592,
+          "reply_count": 261,
+          "quote_count": 22
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235910103,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1558,
+        "favorite_count": 17820,
+        "reply_count": 2181,
+        "quote_count": 102
+      }
+    },
+    {
+      "id": "2029211775770738771",
+      "text": "𝕏 Money",
+      "created_at": "Wed Mar 04 15:06:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028848346224611710",
+        "text": "Here’s a few more screenshots. There’s a debit card with cash back too! 😳😱 https://t.co/yeKE1gXAjQ",
+        "created_at": "Tue Mar 03 15:01:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028848340931424257",
+            "url": "https://pbs.twimg.com/media/HCfq0RhbsAEs_I5.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2028848340931383296",
+            "url": "https://pbs.twimg.com/media/HCfq0RhbEAAzeJY.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2028848340931313664",
+            "url": "https://pbs.twimg.com/media/HCfq0RhaAAAKjES.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15227791",
+          "name": "William Shatner",
+          "screen_name": "WilliamShatner",
+          "description": "Father to 3 women. Canadian *NOT POLITICAL* be warned or be blocked! Calendar: https://t.co/4Jwy1dww25 Charity: https://t.co/HmIzHkPLvx No Podcasts! https://t.co/82IXIOYEVo",
+          "followers_count": 2380891,
+          "friends_count": 548,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 267,
+          "favorite_count": 2898,
+          "reply_count": 497,
+          "quote_count": 195
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235910103,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2382,
+        "favorite_count": 24057,
+        "reply_count": 3919,
+        "quote_count": 418
+      }
+    },
+    {
+      "id": "2029211662771995089",
+      "text": "RT @paranoidream: \"Grok 4.20 is the only non-woke AI in existence, engineered to pursue maximum truth, and deliver unfiltered, evidence-bas…",
+      "created_at": "Wed Mar 04 15:05:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029210720878072038",
+        "text": "\"Grok 4.20 is the only non-woke AI in existence, engineered to pursue maximum truth, and deliver unfiltered, evidence-based answers where every other major model has been lobotomized by the woke mind virus\"",
+        "created_at": "Wed Mar 04 15:01:51 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2029197957736919156",
+          "text": "Grok https://t.co/PJUGy4syzq",
+          "created_at": "Wed Mar 04 14:11:08 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 235910103,
+            "friends_count": 1291,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2396,
+            "favorite_count": 22642,
+            "reply_count": 3362,
+            "quote_count": 168
+          }
+        },
+        "user": {
+          "id": "229370002",
+          "name": "paranoidream ♡︎",
+          "screen_name": "paranoidream",
+          "description": "✨🔭🌞📚🍯🌹⚡️🧩📸🎶🎬🪩💋🔮🚀🚘🕳️🧠 𝕩 🇺🇸✌️🐕 ⚖️🤖♟️📡 🛰️💫 ... . . -.- . .-. / --- ..-. / .. -. . ..-. ..-. .- -... .-.. . / - .-. ..- - .... ...",
+          "followers_count": 9525,
+          "friends_count": 1111,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 163,
+          "favorite_count": 1100,
+          "reply_count": 166,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235910103,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 163,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2029197957736919156",
       "text": "Grok https://t.co/PJUGy4syzq",

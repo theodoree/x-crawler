@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190022,
+    "followers_count": 190092,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260304",
-  "last_updated": "2026-03-04T14:16:42.159446",
-  "tweet_count": 7,
+  "last_updated": "2026-03-04T16:13:59.777719",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2029022319872458831",
@@ -323,6 +323,45 @@
       "quoted": null,
       "stats": {
         "retweet_count": 62,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029214545823027237",
+      "text": "RT @lifesinger: 在阿里做开源，是件特别幸福又折腾人的事。\n\n幸福之处是，在早期，可以非常自由又狂野地去做开源。当年做 Sea.js、KISSY 等项目，只需没日没夜去做就好。做好了，同时内部项目愿意采纳，价值就不需要另证。…",
+      "created_at": "Wed Mar 04 15:17:03 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2029197221019947262",
+        "text": "在阿里做开源，是件特别幸福又折腾人的事。\n\n幸福之处是，在早期，可以非常自由又狂野地去做开源。当年做 Sea.js、KISSY 等项目，只需没日没夜去做就好。做好了，同时内部项目愿意采纳，价值就不需要另证。\n\n折腾之处是，一旦开始做出声量，开始因开源建立起团队影响力，就会被要求纳入绩效考核，要能和公司业务建立关联。如果说不清楚，就只能用爱发电，逐步不讨喜，成为减分项。\n\nAnt Design、AntV 等项目，兴起是因为身处公司边缘、不被关注，但有一帮热爱和奉献之人。痛苦之处是，做到有一定声量之后，就得直接或间接地和业务挂钩。需要去证明、去规划、去画饼。\n\n本以为阿里的开源项目，从 Qwen 起，可以摆脱上面的折腾因素。目前看起来，并没有变。\n\n不过在开源这块，阿里比字节和腾讯，已经好非常多。腾讯的封闭，不会有开源。字节的数据导向，开源也起不来。阿里的开源，至少还有不少机会能爬到半山腰。只是非常可惜，从半山腰要继续爬到山顶，则也非常非常难。难的不是技术，是被看见后的组织阻力。\n\n国内真正有开源基因的公司，目前看是 DeepSeek，是创始人层面一开始就想好了，是开源本身就是商业模式的最重要要素。期待 DeepSeek 能继续往山顶攀升。\n\n一个公司，终究还是有基因的。可叹。",
+        "created_at": "Wed Mar 04 14:08:12 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16681326",
+          "name": "Frank Wang 玉伯",
+          "screen_name": "lifesinger",
+          "description": "I am curious and honest",
+          "followers_count": 29237,
+          "friends_count": 1080,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 211,
+          "reply_count": 18,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
