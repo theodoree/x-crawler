@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190092,
+    "followers_count": 190097,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260304",
-  "last_updated": "2026-03-04T20:10:20.802040",
-  "tweet_count": 15,
+  "last_updated": "2026-03-04T22:08:43.468555",
+  "tweet_count": 17,
   "tweets": [
     {
       "id": "2029022319872458831",
@@ -711,6 +711,90 @@
         "retweet_count": 0,
         "favorite_count": 7,
         "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029289299691053175",
+      "text": "RT @yatingzhao_ux: 我最近接触的一些团队，鼓励自己的设计师能够更多探索 AI 以提高效率，但效果并不好。设计师也很迷茫，觉得模糊的新流程反而降低效率。我觉得一个不错的做法是：\n\n第一，让你的设计师近期不要太忙碌，或是每隔一阵子有一个不太忙碌的时期。\n\n第二，成…",
+      "created_at": "Wed Mar 04 20:14:06 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2029195322161787007",
+        "text": "我最近接触的一些团队，鼓励自己的设计师能够更多探索 AI 以提高效率，但效果并不好。设计师也很迷茫，觉得模糊的新流程反而降低效率。我觉得一个不错的做法是：\n\n第一，让你的设计师近期不要太忙碌，或是每隔一阵子有一个不太忙碌的时期。\n\n第二，成立一个搞砸了也不重要的试错项目，让设计师用 AI 去做这个项目。\n\n你觉得呢，有什么更好的方式吗？",
+        "created_at": "Wed Mar 04 14:00:40 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1255471267198783495",
+          "name": "Yating Zhao",
+          "screen_name": "yatingzhao_ux",
+          "description": "HCI + Design | Founder https://t.co/JNUVOlWwCi | Discuss your project in DM or book a call",
+          "followers_count": 10229,
+          "friends_count": 4204,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 25,
+          "reply_count": 10,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029308744795082981",
+      "text": "Codex App 终于支持 windows 了\n\nOpenAI 的 Codex App 正式登陆 Windows，支持原生运行，也支持 WSL（Windows 子系统，让 Windows 用户跑 Linux 环境的工具）。终端方面全面兼容 PowerShell、命令提示符、Git Bash 和 WSL，覆盖了大多数 Windows 开发者的日常习惯。\n\n最值得关注的是沙盒机制。Codex 在 Windows 上构建了一套原生的智能体沙盒，通过操作系统层面的控制，限制 AI 只能在你指定的工作目录内写文件，同时默认阻断对外网络请求，除非你手动放行。AI 编码助手在执行任务时权限过宽一直是业界隐患，这套设计在功能可用性和安全边界之间做了明确的取舍。\n\n此次更新还新增了 7 个\"在 XXX 中打开\"应用集成，以及两个 Windows 专属技能：WinUI（Windows 原生界面开发框架）和 https://t.co/bd7IOj2iWD。\n\n同步放出的还有一则 Windows 全栈工程师的招聘职位。",
+      "created_at": "Wed Mar 04 21:31:22 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029252598851879265",
+        "text": "The Codex app is now live on Windows.\n\nThe app runs both natively and in WSL, with integrated terminals for PowerShell, Command Prompt, Git Bash, or WSL.\n\nWe also built the first Windows-native agent sandbox — using OS-level controls to block filesystem writes outside your working folder and prevent outbound network access unless you explicitly approve it.\n\nPlus: 7 new “Open in …” apps and 2 new Windows skills (WinUI + https://t.co/r7nDJ6PFcc).\n\nTry it and tell us what you think.",
+        "created_at": "Wed Mar 04 17:48:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029250876519714816",
+            "url": "https://pbs.twimg.com/media/HClY67cbkAAe5xr.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "58865213",
+          "name": "Andrew Ambrosino",
+          "screen_name": "ajambrosino",
+          "description": "Codex App @OpenAI",
+          "followers_count": 10055,
+          "friends_count": 1286,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 69,
+          "favorite_count": 821,
+          "reply_count": 68,
+          "quote_count": 29
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "reply_count": 2,
         "quote_count": 0
       }
     }
