@@ -1,12 +1,554 @@
 {
   "date": "20260304",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-04T08:11:11.033589",
-  "tweet_count": 207,
-  "unique_tweet_count": 207,
-  "total_crawled": 406,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-04T10:13:02.097382",
+  "tweet_count": 216,
+  "unique_tweet_count": 216,
+  "total_crawled": 407,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2029137431719809060",
+      "text": "RT @elonmusk: @JTLonsdale “Are you gay?” 🤣🤣",
+      "created_at": "Wed Mar 04 10:10:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029136665311420696",
+        "text": "@JTLonsdale “Are you gay?” 🤣🤣",
+        "created_at": "Wed Mar 04 10:07:35 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 235885621,
+          "friends_count": 1291,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 40,
+          "favorite_count": 370,
+          "reply_count": 202,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235885621,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 40,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029136370724487376",
+      "text": "RT @teslaeurope: FSD Supervised in the Netherlands navigates chaotic traffic in city center with ease",
+      "created_at": "Wed Mar 04 10:06:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2028965156039082048",
+        "text": "FSD Supervised in the Netherlands navigates chaotic traffic in city center with ease",
+        "created_at": "Tue Mar 03 22:46:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2028836698746962067",
+          "text": "I went for a full self-driving ride in The Hague, Netherlands, with @teslaeurope. The 30-minute ride was completely smooth, like a chauffeur was driving. I was really impressed, especially in the city center with lots of bikes and chaotic traffic. It was very prudent. https://t.co/t5KNz5kLH0",
+          "created_at": "Tue Mar 03 14:15:37 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2028835964295217152",
+              "url": "https://video.twimg.com/amplify_video/2028835964295217152/vid/avc1/3840x2160/OLDIsk33Q_87lSk1.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1410202847388516364",
+            "name": "ryan van der veer",
+            "screen_name": "sumbios",
+            "description": "Stock-picker since 2019 — Aspiring Generalist — Systems Engineering, Policy analysis and Management @TPMTUDelft",
+            "followers_count": 469,
+            "friends_count": 1529,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 55,
+            "favorite_count": 574,
+            "reply_count": 22,
+            "quote_count": 12
+          }
+        },
+        "user": {
+          "id": "1620480811303866369",
+          "name": "Tesla Europe, Middle East & Africa",
+          "screen_name": "teslaeurope",
+          "description": "All things Tesla Europe, Middle East & Africa",
+          "followers_count": 161847,
+          "friends_count": 19,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 231,
+          "favorite_count": 1717,
+          "reply_count": 105,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235885621,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 231,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029133930428023189",
+      "text": "Haha cool",
+      "created_at": "Wed Mar 04 09:56:43 +0000 2026",
+      "lang": "tl",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028936688689352818",
+        "text": "Marc Benioff, CEO of Salesforce, said he used Grok to make the viral image because ChatGPT refused to create it.\n\nThat’s the difference between open creativity and corporate censorship.\n\nGrok for the win.\n\n https://t.co/bsVqAQONFW",
+        "created_at": "Tue Mar 03 20:52:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1978926212459184128",
+            "url": "https://video.twimg.com/amplify_video/1978926212459184128/vid/avc1/1920x1080/ag-M6Z1H_DvTHTWK.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1841906,
+          "friends_count": 907,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 265,
+          "favorite_count": 2836,
+          "reply_count": 130,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235885621,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 386,
+        "favorite_count": 3755,
+        "reply_count": 761,
+        "quote_count": 22
+      }
+    },
+    {
+      "id": "2029131230281969857",
+      "text": "RT @AdamLowisz: Grok Imagine has gotten really good ✨ https://t.co/NxsJoxKR0w",
+      "created_at": "Wed Mar 04 09:45:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029112758730407936",
+          "url": "https://video.twimg.com/ext_tw_video/2029112758730407936/pu/vid/avc1/720x1066/WmQ5qlKRUHwOZma1.mp4?tag=22",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2029112785771078062",
+        "text": "Grok Imagine has gotten really good ✨ https://t.co/NxsJoxKR0w",
+        "created_at": "Wed Mar 04 08:32:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029112758730407936",
+            "url": "https://video.twimg.com/ext_tw_video/2029112758730407936/pu/vid/avc1/720x1066/WmQ5qlKRUHwOZma1.mp4?tag=22",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2029056391894139208",
+          "text": "The image quality is truly incredible.\nGrok Imagine 💋 https://t.co/YVlXm5CbfX",
+          "created_at": "Wed Mar 04 04:48:36 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2029056353281732608",
+              "url": "https://video.twimg.com/ext_tw_video/2029056353281732608/pu/vid/avc1/720x1072/tBR6YOOvs3qekbzM.mp4?tag=22",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2178040394",
+            "name": "Déborah",
+            "screen_name": "dvorahfr",
+            "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+            "followers_count": 118152,
+            "friends_count": 3460,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 195,
+            "favorite_count": 1097,
+            "reply_count": 234,
+            "quote_count": 12
+          }
+        },
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 48585,
+          "friends_count": 6048,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 72,
+          "favorite_count": 482,
+          "reply_count": 153,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235885621,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 72,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029123695202189570",
+      "text": "RT @XFreeze: Try Grok Imagine – create what wins your heart https://t.co/eA0EZO7mlW",
+      "created_at": "Wed Mar 04 09:16:02 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2028721131926986752",
+          "url": "https://video.twimg.com/amplify_video/2028721131926986752/vid/avc1/954x720/zKui4YSZb7UDYRAq.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2029117644612182056",
+        "text": "Try Grok Imagine – create what wins your heart https://t.co/eA0EZO7mlW",
+        "created_at": "Wed Mar 04 08:52:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028721131926986752",
+            "url": "https://video.twimg.com/amplify_video/2028721131926986752/vid/avc1/954x720/zKui4YSZb7UDYRAq.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 161331,
+          "friends_count": 1635,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 166,
+          "favorite_count": 963,
+          "reply_count": 228,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235885621,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 166,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029123591871308272",
+      "text": "Tesla will be one of the companies to make AGI and probably the first to make it in humanoid/atom-shaping form",
+      "created_at": "Wed Mar 04 09:15:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235885621,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2280,
+        "favorite_count": 24451,
+        "reply_count": 3958,
+        "quote_count": 374
+      }
+    },
+    {
+      "id": "2029116183858037053",
+      "text": "RT @dvorahfr: It took me less than 10 minutes to create this scene. The longest part was finding the style for my initial image.\nI used Gro…",
+      "created_at": "Wed Mar 04 08:46:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029112532204498969",
+        "text": "It took me less than 10 minutes to create this scene. The longest part was finding the style for my initial image.\nI used Grok Imagine's extension video to ensure perfect continuity of style, voice, and music.\n\nThen I animated it, prompting in my native language without asking for any dialogue. Grok understood everything I asked and created a dialogue between the children in perfect French.\n\nI later posted the same children with a prompt in English, and this time, the dialogue was in English.\n\nI used Grok Imagine to create the image, animate it, and then extend the video to 30 seconds.\nI then started again with an image that I modified through editing and used it to tell another story.",
+        "created_at": "Wed Mar 04 08:31:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029110715282243584",
+            "url": "https://video.twimg.com/amplify_video/2029110715282243584/vid/avc1/1080x1080/PkhlUkFXzctDhFsI.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 118152,
+          "friends_count": 3460,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 214,
+          "favorite_count": 1233,
+          "reply_count": 323,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235885621,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 214,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029111516562375101",
+      "text": "RT @dvorahfr: The image quality is truly incredible.\nGrok Imagine 💋 https://t.co/YVlXm5CbfX",
+      "created_at": "Wed Mar 04 08:27:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029056353281732608",
+          "url": "https://video.twimg.com/ext_tw_video/2029056353281732608/pu/vid/avc1/720x1072/tBR6YOOvs3qekbzM.mp4?tag=22",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2029056391894139208",
+        "text": "The image quality is truly incredible.\nGrok Imagine 💋 https://t.co/YVlXm5CbfX",
+        "created_at": "Wed Mar 04 04:48:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029056353281732608",
+            "url": "https://video.twimg.com/ext_tw_video/2029056353281732608/pu/vid/avc1/720x1072/tBR6YOOvs3qekbzM.mp4?tag=22",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 118152,
+          "friends_count": 3460,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 195,
+          "favorite_count": 1097,
+          "reply_count": 234,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235885621,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 195,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029109981816209712",
+      "text": "RT @teslaownersSV: STARLINK SATELLITE EXPANSION IS ONE OF THE LARGEST AND FASTEST INFRASTRUCTURE BUILDS IN HUMAN HISTORY\n\nSpaceX has now la…",
+      "created_at": "Wed Mar 04 08:21:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029093399798923547",
+        "text": "STARLINK SATELLITE EXPANSION IS ONE OF THE LARGEST AND FASTEST INFRASTRUCTURE BUILDS IN HUMAN HISTORY\n\nSpaceX has now launched over 11,400 Starlink satellites, with nearly 10,000 currently in orbit and active.\n\nThe constellation is growing so fast that Starlink already serves more than 9 million users across 150+ countries and territories — and the real explosion is still ahead.\n\nHere’s why this scale is a massive deal:\n•  True global coverage is almost complete The latest V2 satellites (larger, more powerful, with laser links) are filling the final gaps. Polar regions, deep oceans, remote deserts, and mountain ranges that never had reliable internet are now coming online fast.\n\n•  Direct-to-Cell is coming soon Regular smartphones will soon connect directly to Starlink satellites — no dish needed. Emergency calls, texts, and basic data will work literally anywhere on Earth.\n\n•  Speeds & reliability keep improving Average speeds are already 100–300+ Mbps with low latency. As more satellites join, the network gets faster, more resilient, and capable of handling tens of millions of users.\n\n•  Real-world impact is already enormous\n•  Disaster zones restored within hours\n•  Rural schools and hospitals in Africa, South America, and Asia now have high-speed internet for the first time\n•  Commercial flights, ships, mining operations, and remote communities run on Starlink\n•  Conflict zones stayed connected when ground networks were destroyed\n\n•  It funds the multiplanetary future Starlink revenue is the main cash engine paying for Starship development. Every new satellite launched is helping build the vehicle that will take humanity to Mars.\nThis isn’t just “satellite internet.”\n\nThis is the largest, fastest-deployed global communications network ever created — turning “no signal” into a sentence from the past for billions of people.\n\nThe expansion is relentless, and the best is still coming.",
+        "created_at": "Wed Mar 04 07:15:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029093294362509313",
+            "url": "https://video.twimg.com/amplify_video/2029093294362509313/vid/avc1/1320x2064/X8vP8lof2aMKDMHL.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.",
+          "followers_count": 1397651,
+          "friends_count": 830,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 544,
+          "favorite_count": 2157,
+          "reply_count": 362,
+          "quote_count": 57
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235885621,
+        "friends_count": 1291,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 544,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2029085242980499460",
       "text": "RT @Xinyu2ML: 中文发一下今天通义大会的内容吧，感觉是没有转机了\n\n1. 首席hr自称这波调整是扩充更多人才，提供更多资源\n2. 阿里是模型公司，qwen是集团的事情，而不只是基模的事情，集团来做大闭环，要快速发展，组织形式没沟通好\n3.…",
