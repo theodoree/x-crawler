@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190191,
+    "followers_count": 190227,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260305",
-  "last_updated": "2026-03-05T04:35:35.975262",
-  "tweet_count": 3,
+  "last_updated": "2026-03-05T06:18:26.381679",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2029351191323291905",
@@ -102,6 +102,144 @@
         "favorite_count": 86,
         "reply_count": 17,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2029416204339708177",
+      "text": "高质量长文，推荐阅读。这文章只有长期使用 AI 和本身有很好写作功底的才写的出来，至于有没有 AI 辅助一点不重要，甚至于我也看不出来。\n\n人文工作者如果用好 AI 跟程序员用 AI 一样可以极大的放大自身能力，把很多粗活累活交给 AI 干，自己可以聚焦于更高维度的事情。\n\n人文工作者和程序员其实底层还是有很多相通的，都是基于素材输出文本内容，这其实也是 AI 最擅长的。\n\n所不同的是程序代码更标准化更容易校验，但是写作标准更依赖人的品味，而比较难的 AI 自动评判。\n\n像我这样的程序员出身用 AI 辅助写作，特别擅长“工业化”：分解写作流程，让 AI 从中做好阶段性工作，比如分析提炼素材、写多份大纲、根据素材和大纲去写作、自动化配图、自动发布等等。\n\n但局限在于文学水平不足，品味不够，所以质量有限😅\n\n如果是文学水平高的，可以借助 AI 写出相当高质量的内容，因为他们能清楚的看出来 AI 写的地方哪有问题，指挥 AI 去改进就好了。\n\n就跟专业程序员用 AI 写代码一样，一看 AI 生成的代码就知道“味道”怎么样，怎么调整，最终质量比自己写只高不低。但水平品味不够就难做到。\n\nAI 是杠杆，对程序员和人文工作者尤其如此。",
+      "created_at": "Thu Mar 05 04:38:22 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029362155607474359",
+        "text": "https://t.co/HbeeCAYRdl",
+        "created_at": "Thu Mar 05 01:03:36 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "391755597",
+          "name": "MasterPa",
+          "screen_name": "HanyangWang",
+          "description": "东西南北溜达人。 拍照、写字、播客、溜达。你就把我当弱智。和朋友在做 @Funes_World For English @MornMushroom",
+          "followers_count": 15919,
+          "friends_count": 4454,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 38,
+          "favorite_count": 167,
+          "reply_count": 11,
+          "quote_count": 15
+        }
+      },
+      "stats": {
+        "retweet_count": 30,
+        "favorite_count": 204,
+        "reply_count": 12,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2029428437023178834",
+      "text": "自动配图\nhttps://t.co/BnRu1klEu4",
+      "created_at": "Thu Mar 05 05:26:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2011907793520116215",
+        "text": "https://t.co/8cAHpVroAU",
+        "created_at": "Thu Jan 15 21:06:12 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 190227,
+          "friends_count": 1568,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 289,
+          "favorite_count": 1253,
+          "reply_count": 68,
+          "quote_count": 45
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2029428568644620576",
+      "text": "我开源的 skills\nhttps://t.co/FIbU7a9Zcx",
+      "created_at": "Thu Mar 05 05:27:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029436348025753646",
+      "text": "很多人买阿里的股票是因为看好千问……",
+      "created_at": "Thu Mar 05 05:58:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029415980544434508",
+        "text": "Alibaba stock dropped 13.4% this week, and kept falling after key Qwen leaders announced their departures.\n\nSeems the market doesn’t have much faith that Qwen 4 will remain a frontier open-source model without these people. https://t.co/p1hriXWj11",
+        "created_at": "Thu Mar 05 04:37:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029414985903030272",
+            "url": "https://pbs.twimg.com/media/HCnuLWiawAAIwqy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "800854096219471872",
+          "name": "Yuchen Jin",
+          "screen_name": "Yuchenj_UW",
+          "description": "Co-founder & CTO @hyperbolic_labs cooking fun AI systems. Prev: OctoAI (acquired by @nvidia) building Apache TVM, PhD @ University of Washington.",
+          "followers_count": 97091,
+          "friends_count": 698,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 13,
+          "favorite_count": 203,
+          "reply_count": 13,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 13,
+        "reply_count": 7,
+        "quote_count": 0
       }
     }
   ]
