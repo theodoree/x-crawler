@@ -1,12 +1,72 @@
 {
   "date": "20260305",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-05T20:13:28.468447",
-  "tweet_count": 271,
-  "unique_tweet_count": 271,
-  "total_crawled": 468,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-05T22:08:27.684579",
+  "tweet_count": 272,
+  "unique_tweet_count": 272,
+  "total_crawled": 471,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2029680314998456820",
+      "text": "除了编程 Agent 方面，OpenAI 的 GPT-4.5 和 o1 pro 是巅峰",
+      "created_at": "Thu Mar 05 22:07:51 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029584076123041867",
+        "text": "GPT o3 好过 5.2 thinking。\n\n所以我一直坚信，5.2 就是个骗局，是个便宜货。 https://t.co/gb8JxYF8FY",
+        "created_at": "Thu Mar 05 15:45:26 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029584072536944640",
+            "url": "https://pbs.twimg.com/media/HCqH9fVa8AAEljk.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2029584072524320768",
+            "url": "https://pbs.twimg.com/media/HCqH9fSaUAAiF-Z.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1373764522482143234",
+          "name": "Lexi 勒西",
+          "screen_name": "lexi_labs",
+          "description": "Tech/Finance advice and vibes",
+          "followers_count": 12961,
+          "friends_count": 3056,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 11,
+          "reply_count": 2,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190489,
+        "friends_count": 1569,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2029638496135385540",
       "text": "🤨",
