@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190477,
+    "followers_count": 190478,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260305",
-  "last_updated": "2026-03-05T18:39:22.881598",
-  "tweet_count": 14,
+  "last_updated": "2026-03-05T20:13:28.525553",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2029351191323291905",
@@ -500,6 +500,51 @@
         "retweet_count": 1,
         "favorite_count": 3,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029628065773474271",
+      "text": "OpenAI 发布 GPT-5.4，定位为专业工作场景的旗舰模型，同步推出面向高复杂任务的 GPT-5.4 Pro 版本。\n\n这次发布的最大亮点是 GPT-5.4 成为 OpenAI 首个原生支持\"电脑操控\"（Computer Use）的通用模型——也就是说，它可以像人一样通过截图、点击鼠标、敲击键盘来操作真实的电脑界面。\n\n在 OSWorld-Verified 桌面操控测试中，GPT-5.4 以 75% 的成功率超过人类（72.4%），而上一代 GPT-5.2 只有 47.3%。\n\n在知识类工作方面，GPT-5.4 在涵盖 44 种职业的 GDPval 基准测试中，与行业专业人士打平或胜出的比例达到 83%，GPT-5.2 的这一数字是 70.9%。\n\n投行建模任务的内部评测得分从 68.4% 跳升到 87.3%，生成演示文稿的效果在人工评审中有 68% 的概率优于前代。\n\n编程能力上，GPT-5.4 整合了此前专为写代码设计的 GPT-5.3-Codex 的能力，在 SWE-Bench Pro 上得分 57.7%，与 GPT-5.3-Codex 的 56.8% 相当，但延迟更低。\n\n另一个实用改进是\"工具搜索\"（Tool Search）：以往给模型配备大量外部工具时，所有工具定义都要塞进提示词里，动辄消耗数万个 token。\n\nGPT-5.4 改为按需查找工具，在测试中将 token 消耗减少了 47%，对于依赖大量 MCP 工具的开发者来说成本节省明显。\n\n在 ChatGPT 中，GPT-5.4 Thinking 将支持在生成过程中展示思考计划，用户可以中途介入调整方向——不用等模型跑完再重新来过。\n\n定价方面，API 输入价格从 GPT-5.2 的每百万 token 1.75 美元涨至 2.50 美元，输出价格从 14 美元涨至 15 美元。GPT-5.4 今天起向 ChatGPT Plus、Team、Pro 用户开放，取代 GPT-5.2 Thinking 成为默认推理模型，GPT-5.2 Thinking 将在三个月后于 2026 年 6 月 5 日正式退役。",
+      "created_at": "Thu Mar 05 18:40:14 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029620619743219811",
+        "text": "GPT-5.4 Thinking and GPT-5.4 Pro are rolling out now in ChatGPT.\n\nGPT-5.4 is also now available in the API and Codex.\n\nGPT-5.4 brings our advances in reasoning, coding, and agentic workflows into one frontier model. https://t.co/1hy6xXLAmJ",
+        "created_at": "Thu Mar 05 18:10:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029619861773844480",
+            "url": "https://pbs.twimg.com/media/HCqogsobgAAAo2U.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4398626122",
+          "name": "OpenAI",
+          "screen_name": "OpenAI",
+          "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+          "followers_count": 4665033,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1478,
+          "favorite_count": 12516,
+          "reply_count": 925,
+          "quote_count": 1023
+        }
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 45,
+        "reply_count": 10,
         "quote_count": 0
       }
     }

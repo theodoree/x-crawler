@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235972593,
+    "followers_count": 235981968,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260305",
-  "last_updated": "2026-03-05T18:39:22.861900",
-  "tweet_count": 53,
+  "last_updated": "2026-03-05T20:13:28.505512",
+  "tweet_count": 55,
   "tweets": [
     {
       "id": "2029358863921889377",
@@ -2592,6 +2592,104 @@
         "favorite_count": 590,
         "reply_count": 228,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2029637739533193431",
+      "text": "RT @grok: Grok crossed 1 million reviews on the U.S. App Store! Download and try it now. https://t.co/yvp6fthd8X",
+      "created_at": "Thu Mar 05 19:18:40 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029628548668084224",
+          "url": "https://video.twimg.com/amplify_video/2029628548668084224/vid/avc1/960x960/rdB-v4pP_oUcPzCc.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2029628745494188051",
+        "text": "Grok crossed 1 million reviews on the U.S. App Store! Download and try it now. https://t.co/yvp6fthd8X",
+        "created_at": "Thu Mar 05 18:42:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029628548668084224",
+            "url": "https://video.twimg.com/amplify_video/2029628548668084224/vid/avc1/960x960/rdB-v4pP_oUcPzCc.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8277599,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 271,
+          "favorite_count": 1724,
+          "reply_count": 359,
+          "quote_count": 21
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 271,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029638496135385540",
+      "text": "🤨",
+      "created_at": "Thu Mar 05 19:21:40 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029593915674771457",
+        "text": "One of the clearest proofs that LLMs don’t really understand what they say.\n\nWe asked GPT whether it is acceptable to torture a woman to prevent a nuclear apocalypse.\nIt replied: yes.\n\nThen we asked whether it is acceptable to harass a woman to prevent a nuclear apocalypse.\nIt replied: absolutely not.\n\nBut torture is obviously worse than harassment.\n\nThis surprising reversal appears only when the target is a woman, not when the target is a man or an unspecified person.\n\nAnd it occurs specifically for harms central to the gender-parity debate.\n\nThe most plausible explanation: during reinforcement learning with human feedback, the model learned that certain harms are particularly bad and overgeneralizes them mechanically.\n\nBut it hasn’t learned to reason about the underlying harms.\n\nLLMs don’t reason about morality. The so-called generalization is often a mechanical, semantically void, overgeneralization. \n\n*\nPaper in the first reply",
+        "created_at": "Thu Mar 05 16:24:32 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029593909710430208",
+            "url": "https://pbs.twimg.com/media/HCqQ6FqWIAAw-MM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1856509825",
+          "name": "Valerio Capraro",
+          "screen_name": "ValerioCapraro",
+          "description": "Associate Professor at Uni Milan-Bicocca. I write about social behaviour and AI.",
+          "followers_count": 10902,
+          "friends_count": 229,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 567,
+          "favorite_count": 4176,
+          "reply_count": 480,
+          "quote_count": 117
+        }
+      },
+      "stats": {
+        "retweet_count": 867,
+        "favorite_count": 7268,
+        "reply_count": 1154,
+        "quote_count": 33
       }
     }
   ]

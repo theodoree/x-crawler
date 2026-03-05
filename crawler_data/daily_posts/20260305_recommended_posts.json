@@ -1,12 +1,185 @@
 {
   "date": "20260305",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-05T18:39:22.825499",
-  "tweet_count": 268,
-  "unique_tweet_count": 268,
-  "total_crawled": 451,
-  "duplicates_removed": 183,
+  "last_crawl_time": "2026-03-05T20:13:28.468447",
+  "tweet_count": 271,
+  "unique_tweet_count": 271,
+  "total_crawled": 468,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2029638496135385540",
+      "text": "🤨",
+      "created_at": "Thu Mar 05 19:21:40 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029593915674771457",
+        "text": "One of the clearest proofs that LLMs don’t really understand what they say.\n\nWe asked GPT whether it is acceptable to torture a woman to prevent a nuclear apocalypse.\nIt replied: yes.\n\nThen we asked whether it is acceptable to harass a woman to prevent a nuclear apocalypse.\nIt replied: absolutely not.\n\nBut torture is obviously worse than harassment.\n\nThis surprising reversal appears only when the target is a woman, not when the target is a man or an unspecified person.\n\nAnd it occurs specifically for harms central to the gender-parity debate.\n\nThe most plausible explanation: during reinforcement learning with human feedback, the model learned that certain harms are particularly bad and overgeneralizes them mechanically.\n\nBut it hasn’t learned to reason about the underlying harms.\n\nLLMs don’t reason about morality. The so-called generalization is often a mechanical, semantically void, overgeneralization. \n\n*\nPaper in the first reply",
+        "created_at": "Thu Mar 05 16:24:32 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029593909710430208",
+            "url": "https://pbs.twimg.com/media/HCqQ6FqWIAAw-MM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1856509825",
+          "name": "Valerio Capraro",
+          "screen_name": "ValerioCapraro",
+          "description": "Associate Professor at Uni Milan-Bicocca. I write about social behaviour and AI.",
+          "followers_count": 10902,
+          "friends_count": 229,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 567,
+          "favorite_count": 4176,
+          "reply_count": 480,
+          "quote_count": 117
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235981968,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 867,
+        "favorite_count": 7268,
+        "reply_count": 1154,
+        "quote_count": 33
+      }
+    },
+    {
+      "id": "2029637739533193431",
+      "text": "RT @grok: Grok crossed 1 million reviews on the U.S. App Store! Download and try it now. https://t.co/yvp6fthd8X",
+      "created_at": "Thu Mar 05 19:18:40 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029628548668084224",
+          "url": "https://video.twimg.com/amplify_video/2029628548668084224/vid/avc1/960x960/rdB-v4pP_oUcPzCc.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2029628745494188051",
+        "text": "Grok crossed 1 million reviews on the U.S. App Store! Download and try it now. https://t.co/yvp6fthd8X",
+        "created_at": "Thu Mar 05 18:42:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029628548668084224",
+            "url": "https://video.twimg.com/amplify_video/2029628548668084224/vid/avc1/960x960/rdB-v4pP_oUcPzCc.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8277599,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 271,
+          "favorite_count": 1724,
+          "reply_count": 359,
+          "quote_count": 21
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235981968,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 271,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029628065773474271",
+      "text": "OpenAI 发布 GPT-5.4，定位为专业工作场景的旗舰模型，同步推出面向高复杂任务的 GPT-5.4 Pro 版本。\n\n这次发布的最大亮点是 GPT-5.4 成为 OpenAI 首个原生支持\"电脑操控\"（Computer Use）的通用模型——也就是说，它可以像人一样通过截图、点击鼠标、敲击键盘来操作真实的电脑界面。\n\n在 OSWorld-Verified 桌面操控测试中，GPT-5.4 以 75% 的成功率超过人类（72.4%），而上一代 GPT-5.2 只有 47.3%。\n\n在知识类工作方面，GPT-5.4 在涵盖 44 种职业的 GDPval 基准测试中，与行业专业人士打平或胜出的比例达到 83%，GPT-5.2 的这一数字是 70.9%。\n\n投行建模任务的内部评测得分从 68.4% 跳升到 87.3%，生成演示文稿的效果在人工评审中有 68% 的概率优于前代。\n\n编程能力上，GPT-5.4 整合了此前专为写代码设计的 GPT-5.3-Codex 的能力，在 SWE-Bench Pro 上得分 57.7%，与 GPT-5.3-Codex 的 56.8% 相当，但延迟更低。\n\n另一个实用改进是\"工具搜索\"（Tool Search）：以往给模型配备大量外部工具时，所有工具定义都要塞进提示词里，动辄消耗数万个 token。\n\nGPT-5.4 改为按需查找工具，在测试中将 token 消耗减少了 47%，对于依赖大量 MCP 工具的开发者来说成本节省明显。\n\n在 ChatGPT 中，GPT-5.4 Thinking 将支持在生成过程中展示思考计划，用户可以中途介入调整方向——不用等模型跑完再重新来过。\n\n定价方面，API 输入价格从 GPT-5.2 的每百万 token 1.75 美元涨至 2.50 美元，输出价格从 14 美元涨至 15 美元。GPT-5.4 今天起向 ChatGPT Plus、Team、Pro 用户开放，取代 GPT-5.2 Thinking 成为默认推理模型，GPT-5.2 Thinking 将在三个月后于 2026 年 6 月 5 日正式退役。",
+      "created_at": "Thu Mar 05 18:40:14 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029620619743219811",
+        "text": "GPT-5.4 Thinking and GPT-5.4 Pro are rolling out now in ChatGPT.\n\nGPT-5.4 is also now available in the API and Codex.\n\nGPT-5.4 brings our advances in reasoning, coding, and agentic workflows into one frontier model. https://t.co/1hy6xXLAmJ",
+        "created_at": "Thu Mar 05 18:10:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029619861773844480",
+            "url": "https://pbs.twimg.com/media/HCqogsobgAAAo2U.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4398626122",
+          "name": "OpenAI",
+          "screen_name": "OpenAI",
+          "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+          "followers_count": 4665033,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1478,
+          "favorite_count": 12516,
+          "reply_count": 925,
+          "quote_count": 1023
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190478,
+        "friends_count": 1569,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 45,
+        "reply_count": 10,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2029627385784713310",
       "text": "Grok iPhone app now over 1M ratings with 4.9 stars!\n\nDownload at https://t.co/3M9k0jUmSv https://t.co/Eed7aE1xOM",
