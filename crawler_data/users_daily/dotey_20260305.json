@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190459,
+    "followers_count": 190477,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260305",
-  "last_updated": "2026-03-05T16:18:56.955446",
-  "tweet_count": 10,
+  "last_updated": "2026-03-05T18:39:22.881598",
+  "tweet_count": 14,
   "tweets": [
     {
       "id": "2029351191323291905",
@@ -332,6 +332,174 @@
         "retweet_count": 0,
         "favorite_count": 2,
         "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029600091342872862",
+      "text": "Qwen 的灵魂人物是阿里云 CTO？",
+      "created_at": "Thu Mar 05 16:49:04 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029560909178327467",
+        "text": "Not Alibaba PR trying to rewrite the story. “Junyang Lin is not of core importance, he’s just been active on overseas social media channels…The soul of Qwen is still Alibaba partner and Alicloud CTO.” https://t.co/GCg4ExKUHq",
+        "created_at": "Thu Mar 05 14:13:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029560906611339264",
+            "url": "https://pbs.twimg.com/media/HCpy5DiWsAAXG0E.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "82764535",
+          "name": "Ivy",
+          "screen_name": "ivylala",
+          "description": "Writes @ftChinese column 话语权时代 and Calling the Shots. Interested in the role of comms and external affairs in global tech companies. https://linktr.e",
+          "followers_count": 2821,
+          "friends_count": 2200,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 30,
+          "reply_count": 6,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 31,
+        "reply_count": 23,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2029600894111678731",
+      "text": "RT @yatingzhao_ux: 对于已经有一定体量的产品来说，在原来产品的基础上怎么叠加 AI 功能？或者怎么把原有的产品改造成更AI 原生的新产品？\n\n从各家的尝试来看，好像很多还没有找到好的解法。…",
+      "created_at": "Thu Mar 05 16:52:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2029557689693380884",
+        "text": "对于已经有一定体量的产品来说，在原来产品的基础上怎么叠加 AI 功能？或者怎么把原有的产品改造成更AI 原生的新产品？\n\n从各家的尝试来看，好像很多还没有找到好的解法。\n\n而做一个新产品比改造原有的产品要简单的多。可怎么利用原来的优势？原有的架构和用户是优势，很难利用。可经验和数据也是优势，重做时这些优势有多大？\n\n怎么现在感觉，对于这种产品“重新做 AI 原生的产品”不是选择的一种，其实是唯一的选择。还是说我想的太简化了。",
+        "created_at": "Thu Mar 05 14:00:35 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1255471267198783495",
+          "name": "Yating Zhao",
+          "screen_name": "yatingzhao_ux",
+          "description": "HCI + Design | Founder https://t.co/JNUVOlWwCi | Discuss your project in DM or book a call",
+          "followers_count": 10273,
+          "friends_count": 4205,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 10,
+          "reply_count": 2,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029621985416786097",
+      "text": "RT @yangyi: 公众号硅基立场分享的这篇《Qwen 和钉钉，无招和俊旸》写的很不错\n\n推荐阅读：https://t.co/fK1eAb86BS",
+      "created_at": "Thu Mar 05 18:16:04 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2029604196992045493",
+        "text": "公众号硅基立场分享的这篇《Qwen 和钉钉，无招和俊旸》写的很不错\n\n推荐阅读：https://t.co/fK1eAb86BS",
+        "created_at": "Thu Mar 05 17:05:23 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3122661542",
+          "name": "Yangyi",
+          "screen_name": "yangyi",
+          "description": "人机协同架构师\nReverb Marketing布道者\n新时代人机协同基站 - 牛马AI👉🏻https://t.co/QJVShfywLx\nYangyi实战手记👉🏻https://t.co/Pkue4jV8hK",
+          "followers_count": 119890,
+          "friends_count": 551,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029622358131040693",
+      "text": "感觉有点幻觉，Manus 才 1 岁😂",
+      "created_at": "Thu Mar 05 18:17:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029557773655003635",
+        "text": "🎂 Manus turns one today.\n\nOne year ago, Manus was a bold experiment.\n\nToday, it's so much more than we imagined - and we can't take the credit.\n\nYou can, though.\n\nYou helped us define what a general AI agent truly means. You turned a tool into part of your daily life. You proved that when Agent meets humans, what Agent connects isn’t just APIs - but imagination and reality.\n\nA mother found time for both work and her kids. An 86-year-old linguist built his dream app. A florist reimagined how she runs her shop.\n\nWe put it all into our first annual letter. The moments, the surprises, and where we're headed next.\n\nScroll to the bottom and add your photo. This letter isn't complete without you.\n\n🔗 Read the Full Letter: https://t.co/d84412cigE\n\n#ManusAI #ManusCommunity #Anniversary #ManusYearOne #AgentYearOne",
+        "created_at": "Thu Mar 05 14:00:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029557768433123328",
+            "url": "https://pbs.twimg.com/media/HCpwCY6XQAAqoZU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1897259968958730240",
+          "name": "Manus",
+          "screen_name": "ManusAI",
+          "description": "Manus from @Meta is the general AI agent that bridges minds and actions: it doesn't just think, it delivers results. \nTelegram: https://t.co/kdHdNxZ6xF",
+          "followers_count": 238184,
+          "friends_count": 28,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 38,
+          "favorite_count": 525,
+          "reply_count": 51,
+          "quote_count": 23
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
