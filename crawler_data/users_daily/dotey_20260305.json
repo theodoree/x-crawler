@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190409,
+    "followers_count": 190459,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260305",
-  "last_updated": "2026-03-05T14:18:49.386695",
-  "tweet_count": 9,
+  "last_updated": "2026-03-05T16:18:56.955446",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2029351191323291905",
@@ -293,6 +293,45 @@
         "retweet_count": 2,
         "favorite_count": 1,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029566386281062594",
+      "text": "其实人工干预下更好，比如你可以在合并的时候，指定以哪个稿子为基础搞，其他稿子合并哪些，这样会比AI自己做主更好\n另外推荐 Opus 4.6，目前效果最好\nhttps://t.co/HRNF1G5m99",
+      "created_at": "Thu Mar 05 14:35:08 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029482364997665031",
+        "text": "@dotey 主要是担心AI的审美能力不足。陷入“让AI去AI味的循环”。",
+        "created_at": "Thu Mar 05 09:01:16 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "25234569",
+          "name": "podai_浩子",
+          "screen_name": "podai001",
+          "description": "Tech / AI / Politics. \nFollow for daily insights.\n科技观察者\n技术 / AI / 地缘政治与键政日常\n用逻辑和事实看世界。",
+          "followers_count": 550,
+          "friends_count": 856,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 3,
         "quote_count": 0
       }
     }
