@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235906568,
+    "followers_count": 235915825,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260304",
-  "last_updated": "2026-03-04T22:08:43.479959",
-  "tweet_count": 30,
+  "last_updated": "2026-03-05T00:21:58.306900",
+  "tweet_count": 32,
   "tweets": [
     {
       "id": "2029109981816209712",
@@ -1468,6 +1468,96 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2029324575406973063",
+      "text": "True",
+      "created_at": "Wed Mar 04 22:34:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029293925396250748",
+        "text": "🙄👋🏻👇🏻\n\nYour deposits are held by Cross River Bank, Member FDIC and are insured by the FDIC up to $250,000 per individual and per legal entity for all accounts in each account ownership category held at the bank (combined), including accounts held in a representative capacity. https://t.co/dpetptYi4N",
+        "created_at": "Wed Mar 04 20:32:28 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029293921411698688",
+            "url": "https://pbs.twimg.com/media/HCmAEeKakAA_CLb.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15227791",
+          "name": "William Shatner",
+          "screen_name": "WilliamShatner",
+          "description": "Father to 3 women. Canadian *NOT POLITICAL* be warned or be blocked! Calendar: https://t.co/4Jwy1dww25 Charity: https://t.co/HmIzHkPLvx No Podcasts! https://t.co/82IXIOYEVo",
+          "followers_count": 2383346,
+          "friends_count": 548,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 72,
+          "favorite_count": 746,
+          "reply_count": 150,
+          "quote_count": 23
+        }
+      },
+      "stats": {
+        "retweet_count": 1363,
+        "favorite_count": 9838,
+        "reply_count": 1168,
+        "quote_count": 53
+      }
+    },
+    {
+      "id": "2029325431665770908",
+      "text": "Cool 😎",
+      "created_at": "Wed Mar 04 22:37:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029271294324154536",
+        "text": "Picked up my new Tesla from GigaBerlin. Great range &amp; super smooth on Deutsche Autobahn! Gute Arbeit @Tesla https://t.co/89UtvqNBH7",
+        "created_at": "Wed Mar 04 19:02:33 +0000 2026",
+        "lang": "de",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029269606141968384",
+            "url": "https://pbs.twimg.com/media/HClp9IuWwAAJofC.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "226986867",
+          "name": "Rob2628",
+          "screen_name": "Rob_2628",
+          "description": "Hi I'm Rob. I post about Gaming, @Diablo & @pathofexile & stream efficient, high-quality gameplay! https://t.co/aEk18dC723\nBusiness: rob@epictalent.gg",
+          "followers_count": 37602,
+          "friends_count": 225,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 114,
+          "favorite_count": 2040,
+          "reply_count": 307,
+          "quote_count": 32
+        }
+      },
+      "stats": {
+        "retweet_count": 2401,
+        "favorite_count": 36512,
+        "reply_count": 2081,
+        "quote_count": 80
       }
     }
   ]

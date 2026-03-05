@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 190111,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260305",
+  "last_updated": "2026-03-05T00:21:58.294344",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2029351191323291905",
+      "text": "Google Workspace 也有 cli 了",
+      "created_at": "Thu Mar 05 00:20:02 +0000 2026",
+      "lang": "ja",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029260986872676394",
+        "text": "Google Workspace CLIが出た：https://t.co/NgxiGdJvXj",
+        "created_at": "Wed Mar 04 18:21:35 +0000 2026",
+        "lang": "ja",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14459551",
+          "name": "Kazunori Sato",
+          "screen_name": "kazunori_279",
+          "description": "Developer Advocate, Cloud AI, Google. (The opinions expressed here by myself are my own, not those of my employer)",
+          "followers_count": 23457,
+          "friends_count": 2562,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 236,
+          "favorite_count": 1057,
+          "reply_count": 6,
+          "quote_count": 69
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

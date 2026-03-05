@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190097,
+    "followers_count": 190111,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260304",
-  "last_updated": "2026-03-04T22:08:43.468555",
-  "tweet_count": 17,
+  "last_updated": "2026-03-05T00:21:58.296205",
+  "tweet_count": 18,
   "tweets": [
     {
       "id": "2029022319872458831",
@@ -796,6 +796,51 @@
         "favorite_count": 9,
         "reply_count": 2,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2029330655633363452",
+      "text": "Anthropic CEO达里奥·阿莫迪在一份内部备忘录中向员工说明：公司与特朗普政府关系紧张，根本原因是Anthropic拒绝\"政治站队\"。\n\n他直接点名OpenAI：OpenAI总裁格雷格·布罗克曼夫妇曾向特朗普超级政治行动委员会捐款2500万美元，而Anthropic从未向特朗普捐款，也没有给予他所称的\"独裁者式吹捧\"。\n\n他还补充，Anthropic公开支持AI监管、如实陈述AI导致失业等政策问题，这些立场都与现任政府格格不入。\n\n针对OpenAI刚拿下的五角大楼合同，阿莫迪用\"安全剧场\"（safety theater）来形容其宣称的安全保障措施——意指这些承诺不过是做给外界看的表演，并无实质。\n\n他还说，DoD、Palantir（Anthropic在政府业务上的合作伙伴）以及公司的政治顾问，此前都误以为Anthropic想解决的问题正是\"如何配合演出这场戏\"。",
+      "created_at": "Wed Mar 04 22:58:26 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029285408446587187",
+        "text": "Anthropic CEO Dario Amodei told employees on Friday that the OpenAI-Pentagon deal was \"safety theater\" and the Trump administration didn't like Anthropic because it hadn't \"given dictator-style praise to Trump.\"\n\nHe expressed skepticism at the safeguards OpenAI touted. https://t.co/TJuZV3csG4",
+        "created_at": "Wed Mar 04 19:58:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029284828659785728",
+            "url": "https://pbs.twimg.com/media/HCl3zNBbIAAVbO_.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3997223540",
+          "name": "Stephanie Palazzolo",
+          "screen_name": "steph_palazzolo",
+          "description": "Writing AI Agenda @theinformation, texan, & horror movie aficionado // reach me at stephanie@theinformation.com or on Signal at 979-599-8091",
+          "followers_count": 17609,
+          "friends_count": 4472,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 144,
+          "favorite_count": 1114,
+          "reply_count": 40,
+          "quote_count": 58
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 28,
+        "reply_count": 3,
+        "quote_count": 1
       }
     }
   ]
