@@ -1,12 +1,61 @@
 {
   "date": "20260305",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-05T02:59:00.753420",
-  "tweet_count": 212,
-  "unique_tweet_count": 212,
-  "total_crawled": 290,
-  "duplicates_removed": 78,
+  "last_crawl_time": "2026-03-05T04:35:35.945969",
+  "tweet_count": 213,
+  "unique_tweet_count": 213,
+  "total_crawled": 412,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2029401617510928494",
+      "text": "Qwen 离职的都是香饽饽，之前看到 GLM 已经在拉人了，这边 Google DeepMind 也在拉人",
+      "created_at": "Thu Mar 05 03:40:24 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029362422851748094",
+        "text": "Qwen friends: \n\nif any of you want a new home to build great models and contribute to the open models ecosystem, please reach out! Lots of exciting things in the roadmap and so much to build ahead of us",
+        "created_at": "Thu Mar 05 01:04:39 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "207744565",
+          "name": "Omar Sanseviero",
+          "screen_name": "osanseviero",
+          "description": "Developer Experience Lead at @GoogleDeepMind\n\nBuilding Gemini API, Gemma, AI Studio and more AI products. My views\n\nex-Chief Llama Officer @huggingface 🇵🇪🇲🇽",
+          "followers_count": 62530,
+          "friends_count": 2734,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 33,
+          "favorite_count": 575,
+          "reply_count": 27,
+          "quote_count": 16
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190191,
+        "friends_count": 1568,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 86,
+        "reply_count": 17,
+        "quote_count": 2
+      }
+    },
     {
       "id": "2029384571788407254",
       "text": "Grok can watch videos for you",
