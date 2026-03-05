@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190227,
+    "followers_count": 190261,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260305",
-  "last_updated": "2026-03-05T06:18:26.381679",
-  "tweet_count": 7,
+  "last_updated": "2026-03-05T08:12:32.742143",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2029351191323291905",
@@ -239,6 +239,60 @@
         "retweet_count": 0,
         "favorite_count": 13,
         "reply_count": 7,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029443721637327027",
+      "text": "https://t.co/ebSt1rQVap",
+      "created_at": "Thu Mar 05 06:27:43 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 77,
+        "reply_count": 8,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2029445482888487253",
+      "text": "多稿合并\nhttps://t.co/XH8ldrx6vt",
+      "created_at": "Thu Mar 05 06:34:43 +0000 2026",
+      "lang": "ja",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029443721637327027",
+        "text": "https://t.co/ebSt1rQVap",
+        "created_at": "Thu Mar 05 06:27:43 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 190261,
+          "friends_count": 1568,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 77,
+          "reply_count": 8,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "reply_count": 0,
         "quote_count": 0
       }
     }

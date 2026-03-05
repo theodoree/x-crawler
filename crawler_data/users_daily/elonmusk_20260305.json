@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235932803,
+    "followers_count": 235931164,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260305",
-  "last_updated": "2026-03-05T06:18:26.392292",
-  "tweet_count": 9,
+  "last_updated": "2026-03-05T08:12:32.718482",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2029358863921889377",
@@ -456,6 +456,52 @@
         "favorite_count": 3176,
         "reply_count": 1041,
         "quote_count": 47
+      }
+    },
+    {
+      "id": "2029470027989352724",
+      "text": "RT @LaceyPresley: OMG the new Grok Imagine web update is EVERYTHING 😍✨  \n\nThe UI changes look absolutely AMAZING super clean, modern, and b…",
+      "created_at": "Thu Mar 05 08:12:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029328969976160704",
+        "text": "OMG the new Grok Imagine web update is EVERYTHING 😍✨  \n\nThe UI changes look absolutely AMAZING super clean, modern, and buttery smooth! Everything just flows better now, making image & video creation feel next-level intuitive and fun 🔥  \n\nxAI absolutely cooked with this redesign. The web experience hits different!  \n\nGo check it out yourself 👉 https://t.co/d5QI9Zdm4v  \n\nWho else is obsessed with the new look?? 👀",
+        "created_at": "Wed Mar 04 22:51:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029328912832962560",
+            "url": "https://video.twimg.com/amplify_video/2029328912832962560/vid/avc1/3024x1964/S4Z9xgUycUzZQxyJ.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1952872859153432577",
+          "name": "Lacey",
+          "screen_name": "LaceyPresley",
+          "description": "First principles: Imagine Mars. Build it. | AI Futurist | xAI | SpaceX | Tesla | Elon Musk I MarsForge™",
+          "followers_count": 6353,
+          "friends_count": 368,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 28,
+          "reply_count": 4,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
