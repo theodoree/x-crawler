@@ -1,12 +1,574 @@
 {
   "date": "20260305",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-05T00:21:58.265976",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-05T02:59:00.753420",
+  "tweet_count": 212,
+  "unique_tweet_count": 212,
+  "total_crawled": 290,
+  "duplicates_removed": 78,
   "tweets": [
+    {
+      "id": "2029384571788407254",
+      "text": "Grok can watch videos for you",
+      "created_at": "Thu Mar 05 02:32:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029375186064294297",
+        "text": "One of the most underrated features of Grok is its ability to summarize long videos for you.\n\nDrop in a video and get the summary in seconds.\n\nTry it now!\n\n https://t.co/XjWUIYcK36",
+        "created_at": "Thu Mar 05 01:55:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2014493721509724160",
+            "url": "https://video.twimg.com/amplify_video/2014493721509724160/vid/avc1/1080x1080/EX2N3JbhMAcqdHh7.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1842445,
+          "friends_count": 908,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 50,
+          "favorite_count": 284,
+          "reply_count": 100,
+          "quote_count": 15
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235924868,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 485,
+        "favorite_count": 3176,
+        "reply_count": 1041,
+        "quote_count": 47
+      }
+    },
+    {
+      "id": "2029379342002987127",
+      "text": "RT @wil_da_beast630: 99.1% were men. \n\nA bizarrely missed feminist opportunity is pointing out that 85% of violent criminals are dudes.\n\nIn…",
+      "created_at": "Thu Mar 05 02:11:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029375751754055857",
+        "text": "99.1% were men. \n\nA bizarrely missed feminist opportunity is pointing out that 85% of violent criminals are dudes.\n\nInventors too, though.",
+        "created_at": "Thu Mar 05 01:57:37 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2029273690790035615",
+          "text": "According to the United States Sentencing Commission, 71.2% of individuals sentenced for child p*rnography were White men, 18% were Hispanic men, 6% were Black men, and 4.8% were other races. \n\nIn conclusion, men, especially White men are the problem. https://t.co/QZBdotKyzq",
+          "created_at": "Wed Mar 04 19:12:04 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2029273687879499779",
+              "url": "https://pbs.twimg.com/media/HCltquYawAM68EF.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1697523547726290944",
+            "name": "Nora",
+            "screen_name": "Heal_within96",
+            "description": "Muslim first. Pan-African. An advocate for uncomfortable truths over soft lies, resilience and self-agency.",
+            "followers_count": 8882,
+            "friends_count": 767,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 173,
+            "favorite_count": 370,
+            "reply_count": 100,
+            "quote_count": 26
+          }
+        },
+        "user": {
+          "id": "1011008340367953920",
+          "name": "Wilfred Reilly",
+          "screen_name": "wil_da_beast630",
+          "description": "A college professor now, I am a former corporate executive, freedom rider, law student, and poor kid. Butlerian Jihad Advocate. Karen Appreciator.",
+          "followers_count": 169961,
+          "friends_count": 3684,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 162,
+          "favorite_count": 739,
+          "reply_count": 174,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235924868,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 162,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029379176273490414",
+      "text": "One day ♥️",
+      "created_at": "Thu Mar 05 02:11:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029268589711376617",
+        "text": "This picture was taken on Mars recently. https://t.co/JUaDR49vhg",
+        "created_at": "Wed Mar 04 18:51:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029268585718398981",
+            "url": "https://pbs.twimg.com/media/HClpBvWawAUlWZ2.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1842445,
+          "friends_count": 908,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 184,
+          "favorite_count": 1645,
+          "reply_count": 698,
+          "quote_count": 41
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235924868,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1734,
+        "favorite_count": 30908,
+        "reply_count": 3312,
+        "quote_count": 140
+      }
+    },
+    {
+      "id": "2029379085638791195",
+      "text": "Easy to make cool videos with @Grok\n\nhttps://t.co/u2y4RZSsOD",
+      "created_at": "Thu Mar 05 02:10:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028737230844710988",
+        "text": "Gn, 𝕏..·˚ ༘ ☾ ⋆｡˚ ☄︎\n\nGrok Imagine \"extend from frame\" 30 second continuous video.💫 https://t.co/XHrdpXhnZA",
+        "created_at": "Tue Mar 03 07:40:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028735874113138688",
+            "url": "https://video.twimg.com/amplify_video/2028735874113138688/vid/avc1/752x416/Oens9gzffUbyK7B2.mp4?tag=24",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C · asm · AI & art via grok · @tetsuocorp · @7etsuo · @a_g_e_n_c",
+          "followers_count": 230353,
+          "friends_count": 980,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 36,
+          "favorite_count": 360,
+          "reply_count": 62,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235924868,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 423,
+        "favorite_count": 3182,
+        "reply_count": 800,
+        "quote_count": 39
+      }
+    },
+    {
+      "id": "2029376228189438128",
+      "text": "Grok Video🥇",
+      "created_at": "Thu Mar 05 01:59:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029375140933329035",
+        "text": "Grok Imagine Video officially ranks #1 on the Arena Image-to-Video Leaderboard, completely dominating Google Veo 3.1 and every other model on the market https://t.co/43zmXG3ejt",
+        "created_at": "Thu Mar 05 01:55:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029374367650488320",
+            "url": "https://pbs.twimg.com/media/HCnJPDwXIAAYDo_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 162529,
+          "friends_count": 1639,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 39,
+          "favorite_count": 182,
+          "reply_count": 93,
+          "quote_count": 14
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235924868,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 617,
+        "favorite_count": 4833,
+        "reply_count": 1034,
+        "quote_count": 41
+      }
+    },
+    {
+      "id": "2029373372883452027",
+      "text": "Grok Imagine improves again",
+      "created_at": "Thu Mar 05 01:48:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029368045597057426",
+        "text": "Once upon a time...Grok Imagine https://t.co/DTshWuADXB",
+        "created_at": "Thu Mar 05 01:27:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029367999665160192",
+            "url": "https://video.twimg.com/ext_tw_video/2029367999665160192/pu/vid/avc1/720x1072/DIZ15Fh8I8beo9ud.mp4?tag=22",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 118386,
+          "friends_count": 3458,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 65,
+          "favorite_count": 429,
+          "reply_count": 123,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235924868,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 758,
+        "favorite_count": 7366,
+        "reply_count": 1570,
+        "quote_count": 55
+      }
+    },
+    {
+      "id": "2029372985547866170",
+      "text": "Cool",
+      "created_at": "Thu Mar 05 01:46:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028947781990400274",
+        "text": "Grok Heavy one-shotted the full C code gen!\nhttps://t.co/9AuMdrqYUp",
+        "created_at": "Tue Mar 03 21:37:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1956611529568391169",
+            "url": "https://video.twimg.com/amplify_video/1956611529568391169/vid/avc1/1902x1080/8CFCKHst2r8kjlFN.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C · asm · AI & art via grok · @tetsuocorp · @7etsuo · @a_g_e_n_c",
+          "followers_count": 230353,
+          "friends_count": 980,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 153,
+          "favorite_count": 1970,
+          "reply_count": 132,
+          "quote_count": 31
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235924868,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 890,
+        "favorite_count": 12440,
+        "reply_count": 918,
+        "quote_count": 50
+      }
+    },
+    {
+      "id": "2029359835456913459",
+      "text": "RT @cb_doge: BREAKING: Grokipedia traffic is up 52.61% as compared to last month. 🔥 https://t.co/OHRonco8vl",
+      "created_at": "Thu Mar 05 00:54:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2028838110906269696",
+          "url": "https://pbs.twimg.com/media/HCfhgztXwAApoy7.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2028838339647013122",
+        "text": "BREAKING: Grokipedia traffic is up 52.61% as compared to last month. 🔥 https://t.co/OHRonco8vl",
+        "created_at": "Tue Mar 03 14:22:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028838110906269696",
+            "url": "https://pbs.twimg.com/media/HCfhgztXwAApoy7.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1842445,
+          "friends_count": 908,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 412,
+          "favorite_count": 2561,
+          "reply_count": 404,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235924868,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 412,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029359835083350396",
+      "text": "https://t.co/XMBR2lx1zD",
+      "created_at": "Thu Mar 05 00:54:23 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190161,
+        "friends_count": 1568,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 38,
+        "reply_count": 5,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2029358863921889377",
+      "text": "RT @dvorahfr: Hatching a chick in 3 ten-second sequences with the Grok Imagine extension https://t.co/VMCv333Glg",
+      "created_at": "Thu Mar 05 00:50:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029248499947323395",
+          "url": "https://video.twimg.com/amplify_video/2029248499947323395/vid/avc1/720x720/ZfZrP2ltqIfnX247.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2029254546271465594",
+        "text": "Hatching a chick in 3 ten-second sequences with the Grok Imagine extension https://t.co/VMCv333Glg",
+        "created_at": "Wed Mar 04 17:56:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029248499947323395",
+            "url": "https://video.twimg.com/amplify_video/2029248499947323395/vid/avc1/720x720/ZfZrP2ltqIfnX247.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 118386,
+          "friends_count": 3458,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 238,
+          "favorite_count": 1293,
+          "reply_count": 205,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 235924868,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 238,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2029351191323291905",
       "text": "Google Workspace 也有 cli 了",
@@ -11270,6 +11832,104 @@
         "favorite_count": 185,
         "reply_count": 18,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2026205146183520621",
+      "text": "改代码后让 Agent 自动更新 Spec 这个我是不支持的：\n1. 不仅费 token 还难保持一致，偶尔一次没同步好就不一致了\n2. 没必要\n不能把 AI 理解项目的方式像人理解项目的方式，AI 是任务驱动的，单个任务绝大部分时候并不需要理解全局\nhttps://t.co/oo6HTzZdjP",
+      "created_at": "Tue Feb 24 07:58:46 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026197083783582100",
+        "text": "@dotey 不是，改代码后让agent自动更新就好。\n\n理解这个design，比每次都从代码里从头理解要高效很多",
+        "created_at": "Tue Feb 24 07:26:44 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "38167656",
+          "name": "Jeffery Kaneda　金田達也",
+          "screen_name": "JefferyTatsuya",
+          "description": "https://t.co/XMkEfLzyoK\n\n- https://t.co/TAbYHGeBnW (AI搜索引擎）\n- https://t.co/OZfPxx93LH （企业知识引擎）\n\n- https://t.co/eRORaOHar0 Felo字幕会议纪要",
+          "followers_count": 21880,
+          "friends_count": 1456,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190161,
+        "friends_count": 1568,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2007625140566118731",
+      "text": "我个人不喜欢 Spec-Driven Development，有点像瀑布模型写系统设计文档，理论上看起来很牛，但是并不好操作，另外容易想的太多。\n\n我比较推崇小版本迭代，不需要写详细的 spec，几句简单的 prompt 就可以开始生成，每次写一个可以跑起来的版本，然后一点点迭代，每次迭代完都是可以运行的版本\n\n另外大多数时候，Claude Code 的 Plan Mode 就足够好用了，根据你当前想实现的，会写一个 plan 文档，可以反复沟通确认。",
+      "created_at": "Sun Jan 04 01:28:28 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2007622652341739683",
+        "text": "第一步，AI澄清需求这一部分，可以借用规格驱动开发（Spec-Driven Development）的思想：\n\n就是让AI给人设问，最后完整澄清一套需求，达成自己的目的。\n\n规格驱动开发包括了经典三步流程：\n\n首先：\n先写一个最小规格（Minimal Spec）或自然语言描述从一个简短、高层次的需求开始，例如： 构建一个 Flask API，支持图片上传并进行基本处理（如调整大小、转换格式）。\n\n不需要一开始就写得很详细，只需给 AI 一个明确的方向。可以直接写在聊天框、https://t.co/WvwQ6kIThM 文件或 spec.txt 中。\n\n然后：\n让 Claude 主动采访你，澄清细节，生成完整规格在同一个对话中，指示 Claude 使用提问工具（例如 AskUserQuestionTool）向你提出问题。\n\nClaude 会像产品经理或资深工程师一样，系统性地询问：-边缘案例：上传超大文件怎么办？支持哪些图片格式？-错误处理：上传失败时返回什么状态码和错误信息？\n-接口设计：Endpoint 路径、请求方式、是否需要认证？\n-性能与安全：处理时间限制、是否需要异步、文件存储方式？\n-测试要求：需要哪些单元测试或集成测试？\n\n最后：\n\n新建一个干净的 Session，让 Claude 根据完整规格自主实施开启全新对话（清空上下文），只提供代码库访问权限和刚才生成的完整规格。\n指示 Claude：严格按照这份 spec 自主完成所有开发工作，包括阅读代码、编写代码、添加测试、运行测试、修复 bug，直到全部通过。\n上下文干净，AI 完全聚焦于规格，不会受到之前聊天记录的干扰。\n\n可以借用规格驱动开发（Spec-Driven Development）的思想，就是让AI给人设问，最后完整澄清一套需求，达成自己的目的。\n\n规格驱动开发包括了经典三步流程：\n\n首先：\n先写一个最小规格（Minimal Spec）或自然语言描述从一个简短、高层次的需求开始，例如： 构建一个 Flask API，支持图片上传并进行基本处理（如调整大小、转换格式）。\n\n不需要一开始就写得很详细，只需给 AI 一个明确的方向。可以直接写在聊天框、https://t.co/WvwQ6kIThM 文件或 spec.txt 中。\n\n然后：\n让 Claude 主动采访你，澄清细节，生成完整规格在同一个对话中，指示 Claude 使用提问工具（例如 AskUserQuestionTool）向你提出问题。\n\nClaude 会像产品经理或资深工程师一样，系统性地询问：\n-边缘案例：上传超大文件怎么办？支持哪些图片格式？\n-错误处理：上传失败时返回什么状态码和错误信息？\n-接口设计：Endpoint 路径、请求方式、是否需要认证？\n-性能与安全：处理时间限制、是否需要异步、文件存储方式？\n-测试要求：需要哪些单元测试或集成测试？\n\n最后：\n新建一个干净的 Session，让 Claude 根据完整规格自主实施开启全新对话（清空上下文），只提供代码库访问权限和刚才生成的完整规格。\n\n指示 Claude：严格按照这份 spec 自主完成所有开发工作，包括阅读代码、编写代码、添加测试、运行测试、修复 bug，直到全部通过。\n\n这样上下文干净，AI 完全聚焦于规格，不会受到之前聊天记录的干扰。\n\n软件工程师可以很方便的拿到一个可用的产品原型以及一份经过详细澄清的需求文档。",
+        "created_at": "Sun Jan 04 01:18:34 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1995690021521948674",
+          "name": "李志 | Rational Investing",
+          "screen_name": "LZRationalnvest",
+          "description": "理智投资（Rational Investing）。\n美股行情观察  & 数字游民分享 & 出海探索者。\n金融行业程序员、前字节跳动打工人。\n正在用代码和资本（AI/美股/加密）构建自由生活。 \n🏃‍♂️ 也是个严肃的跑者 (全马350、半马150)。\n👆关注我，摆脱焦虑，我们一起慢慢变富。",
+          "followers_count": 12978,
+          "friends_count": 659,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 24,
+          "reply_count": 2,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190161,
+        "friends_count": 1568,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 222,
+        "reply_count": 52,
+        "quote_count": 14
       }
     }
   ]
