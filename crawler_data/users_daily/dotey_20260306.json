@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190740,
+    "followers_count": 190777,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260306",
-  "last_updated": "2026-03-06T16:17:27.591421",
-  "tweet_count": 6,
+  "last_updated": "2026-03-06T18:13:05.835555",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2029788344670945643",
@@ -204,6 +204,76 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2029954980971487449",
+      "text": "熟悉的味道😂",
+      "created_at": "Fri Mar 06 16:19:16 +0000 2026",
+      "lang": "ja",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029950221459849473",
+        "text": "The latest on Alibaba's Qwen saga, Alibaba made its position clear in this piece:  \n\n1. \"The rules are not to be bent, and he is challenging the company's system.\" “制度是不能碰的，而他在挑战公司制度。”\n\n2. \"We cannot make individual god... and at what price would be worth to keep Junyang?\" (silence from the team) 蒋芳又回应，不能神化个人...她随后问团队：那么大家期待以什么代价来挽留俊旸呢？没有人回答这个问题。\n\n3. “In extreme situations, Alibaba has made its bottom line clear: the individual will must submit to organizational needs.” 极端情况下，阿里亮出了底线：个人意志要服从组织需求\n\nAlibaba Corp speak is a language and culture of its own.",
+        "created_at": "Fri Mar 06 16:00:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029947864130928640",
+            "url": "https://pbs.twimg.com/media/HCvS08oWQAAwk4u.png"
+          },
+          {
+            "type": "photo",
+            "id": "2029948381326385152",
+            "url": "https://pbs.twimg.com/media/HCvTTDVWoAAzlJD.png"
+          },
+          {
+            "type": "photo",
+            "id": "2029949679908069376",
+            "url": "https://pbs.twimg.com/media/HCvUeo7WoAAlPyl.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "82764535",
+          "name": "Ivy",
+          "screen_name": "ivylala",
+          "description": "Writes @ftChinese column 话语权时代 and Calling the Shots. Interested in the role of comms and external affairs in global tech companies. https://linktr.e",
+          "followers_count": 2903,
+          "friends_count": 2208,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 28,
+          "reply_count": 5,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 39,
+        "reply_count": 14,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029969547927658673",
+      "text": "https://t.co/2d79m0wEz7",
+      "created_at": "Fri Mar 06 17:17:09 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 47,
+        "reply_count": 2,
+        "quote_count": 1
       }
     }
   ]
