@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236036611,
+    "followers_count": 236043731,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260306",
-  "last_updated": "2026-03-06T20:08:52.901171",
-  "tweet_count": 33,
+  "last_updated": "2026-03-06T22:07:34.806137",
+  "tweet_count": 34,
   "tweets": [
     {
       "id": "2029787439192232165",
@@ -1518,6 +1518,51 @@
         "favorite_count": 6537,
         "reply_count": 1674,
         "quote_count": 59
+      }
+    },
+    {
+      "id": "2030041740800119120",
+      "text": "The truth shall set you free",
+      "created_at": "Fri Mar 06 22:04:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030034986544386155",
+        "text": "May the truth always prevail. https://t.co/N8Oxj89jWo",
+        "created_at": "Fri Mar 06 21:37:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030034981809188864",
+            "url": "https://pbs.twimg.com/media/HCwiD3RacAAu1Uy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 211200,
+          "friends_count": 900,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 32,
+          "favorite_count": 226,
+          "reply_count": 23,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 121,
+        "favorite_count": 1013,
+        "reply_count": 438,
+        "quote_count": 15
       }
     }
   ]

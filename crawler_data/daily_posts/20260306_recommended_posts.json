@@ -1,12 +1,229 @@
 {
   "date": "20260306",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-06T20:08:52.861483",
-  "tweet_count": 249,
-  "unique_tweet_count": 249,
-  "total_crawled": 446,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-06T22:07:34.771393",
+  "tweet_count": 254,
+  "unique_tweet_count": 254,
+  "total_crawled": 449,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2030041740800119120",
+      "text": "The truth shall set you free",
+      "created_at": "Fri Mar 06 22:04:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030034986544386155",
+        "text": "May the truth always prevail. https://t.co/N8Oxj89jWo",
+        "created_at": "Fri Mar 06 21:37:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030034981809188864",
+            "url": "https://pbs.twimg.com/media/HCwiD3RacAAu1Uy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 211200,
+          "friends_count": 900,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 32,
+          "favorite_count": 226,
+          "reply_count": 23,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236043731,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 121,
+        "favorite_count": 1013,
+        "reply_count": 438,
+        "quote_count": 15
+      }
+    },
+    {
+      "id": "2030032884514324614",
+      "text": "Claude Code desktop 支持 Schedule Tasks 了",
+      "created_at": "Fri Mar 06 21:28:50 +0000 2026",
+      "lang": "et",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030019397335843288",
+        "text": "Today we're launching local scheduled tasks in Claude Code desktop. \n\nCreate a schedule for tasks that you want to run regularly. They'll run as long as your computer is awake. https://t.co/15AYd0NHqR",
+        "created_at": "Fri Mar 06 20:35:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030019113637269505",
+            "url": "https://video.twimg.com/amplify_video/2030019113637269505/vid/avc1/1080x1080/3HxHpHLJRs6enkOp.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "352806502",
+          "name": "Thariq",
+          "screen_name": "trq212",
+          "description": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+          "followers_count": 109513,
+          "friends_count": 1684,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 171,
+          "favorite_count": 3272,
+          "reply_count": 203,
+          "quote_count": 121
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190793,
+        "friends_count": 1569,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 5,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2030032653789860191",
+      "text": "勘误：\n超级霸王 -&gt; 超级解霸\n\n把超级解霸和小霸王DVD混一起了😅",
+      "created_at": "Fri Mar 06 21:27:55 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190793,
+        "friends_count": 1569,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030027367729475752",
+      "text": "claude code hook + 叠加logo\nhttps://t.co/g79OrqAgBY",
+      "created_at": "Fri Mar 06 21:06:55 +0000 2026",
+      "lang": "ja",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029675964158890269",
+        "text": "@georgehanu @0xTiby hooking into the thinking state is trivial: https://t.co/KKzYmpjTja\n\nthe hard part is actually overlaying the dvd logo! doing some pty proxy nonsense but it's still a lil buggy",
+        "created_at": "Thu Mar 05 21:50:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1645542770566627330",
+          "name": "nolen",
+          "screen_name": "itseieio",
+          "description": "one million checkboxes/chessboards, https://t.co/rXQU7beXZU, https://t.co/qH1JodNJMM, etc.\n\nthe internet can still be fun!\n\nalum recurse, jane street",
+          "followers_count": 24114,
+          "friends_count": 631,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 45,
+          "reply_count": 2,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190793,
+        "friends_count": 1569,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030026381141364953",
+      "text": "暴露年龄了😂\n第一次见应该还是 VCD\n超级霸王那时候可是装机必备\nhttps://t.co/QDgoqJb7n3",
+      "created_at": "Fri Mar 06 21:02:59 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029643776906432513",
+          "url": "https://video.twimg.com/amplify_video/2029643776906432513/vid/avc1/1632x1080/hT6EHf_73aDIUs2o.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190793,
+        "friends_count": 1569,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2030011916714758432",
       "text": "RT @yan5xu: 作为一个行业内的人，做个科普吧 hhh\n从底层往上捋一遍：\n最黑的一层，靠的是盗刷信用卡。有人手里攥着大批黑卡号，利用 OpenAI、Anthropic 等平台在支付验证环节的漏洞，批量注册账号。这种号成本几乎为零，被封了就再开一批。\n拿到账号之后怎么变…",
