@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190703,
+    "followers_count": 190740,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260306",
-  "last_updated": "2026-03-06T14:14:30.422361",
-  "tweet_count": 5,
+  "last_updated": "2026-03-06T16:17:27.591421",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2029788344670945643",
@@ -159,6 +159,51 @@
         "favorite_count": 61,
         "reply_count": 7,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2029945357560373265",
+      "text": "RT @gefei55: 之前 Kimi 说海外收入疯涨，我这里有可以印证的数据。\n2026年1月，Kimi 在 Stripe 的订单数相比于2025年12月增长了8280%，然后2026年2月相比于1月又增长了123.8% 。\n在2024到2025年24个月时间里，Kimi…",
+      "created_at": "Fri Mar 06 15:41:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2029847644009550165",
+        "text": "之前 Kimi 说海外收入疯涨，我这里有可以印证的数据。\n2026年1月，Kimi 在 Stripe 的订单数相比于2025年12月增长了8280%，然后2026年2月相比于1月又增长了123.8% 。\n在2024到2025年24个月时间里，Kimi 的订单都没有进入 Stripe 订单排行榜的前100名，但是在2026年1月立马飙升到了第22名，然后在2月升到了第9名。\n在2月排行榜里，也能看到 MiniMax 的身影，位居28位，相比于1月增长157% 。\n2026年2月数据，Kimi 的订单是 MiniMax 的3倍多一点。\n有个意外但也不意外的数据是，Grok 在2月增长到了第一名，而1月是第七名，并且从2025年9月开始就一直在涨，可能的原因是推特上大家可以用 Grok 给别人脱衣，给 Grok 带来了特别多的新增流量。\n另外值得一提的是 Manus，2025年3月上线，就立马进入了排行榜前100名，虽然只是第90名，这是很多人不知道的吧。\n之后 Manus 就一路高歌猛进，2025年4月第10名，接下来半年一直在10到20名徘徊，之后在2025年11月首次进入前10名，拿到了第5名的好成绩，接下来就没有跌出过前5名，2025年12月第4名，2026年1月第1名，2026年2月第4名。",
+        "created_at": "Fri Mar 06 09:12:45 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029847639878160385",
+            "url": "https://pbs.twimg.com/media/HCt3rIMaUAEfnnm.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "362252075",
+          "name": "哥飞",
+          "screen_name": "gefei55",
+          "description": "哥飞，出海鼓励师，SEO爱好者，Adsense玩家，出海AI工具方向创业者。\n同名公众号写了五百多篇出海搞流量免费教程文章。",
+          "followers_count": 49744,
+          "friends_count": 1212,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 44,
+          "reply_count": 7,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

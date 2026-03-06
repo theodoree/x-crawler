@@ -1,12 +1,775 @@
 {
   "date": "20260306",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-06T14:14:30.370596",
-  "tweet_count": 229,
-  "unique_tweet_count": 229,
-  "total_crawled": 427,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-03-06T16:17:27.559663",
+  "tweet_count": 244,
+  "unique_tweet_count": 244,
+  "total_crawled": 429,
+  "duplicates_removed": 185,
   "tweets": [
+    {
+      "id": "2029945357560373265",
+      "text": "RT @gefei55: 之前 Kimi 说海外收入疯涨，我这里有可以印证的数据。\n2026年1月，Kimi 在 Stripe 的订单数相比于2025年12月增长了8280%，然后2026年2月相比于1月又增长了123.8% 。\n在2024到2025年24个月时间里，Kimi…",
+      "created_at": "Fri Mar 06 15:41:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2029847644009550165",
+        "text": "之前 Kimi 说海外收入疯涨，我这里有可以印证的数据。\n2026年1月，Kimi 在 Stripe 的订单数相比于2025年12月增长了8280%，然后2026年2月相比于1月又增长了123.8% 。\n在2024到2025年24个月时间里，Kimi 的订单都没有进入 Stripe 订单排行榜的前100名，但是在2026年1月立马飙升到了第22名，然后在2月升到了第9名。\n在2月排行榜里，也能看到 MiniMax 的身影，位居28位，相比于1月增长157% 。\n2026年2月数据，Kimi 的订单是 MiniMax 的3倍多一点。\n有个意外但也不意外的数据是，Grok 在2月增长到了第一名，而1月是第七名，并且从2025年9月开始就一直在涨，可能的原因是推特上大家可以用 Grok 给别人脱衣，给 Grok 带来了特别多的新增流量。\n另外值得一提的是 Manus，2025年3月上线，就立马进入了排行榜前100名，虽然只是第90名，这是很多人不知道的吧。\n之后 Manus 就一路高歌猛进，2025年4月第10名，接下来半年一直在10到20名徘徊，之后在2025年11月首次进入前10名，拿到了第5名的好成绩，接下来就没有跌出过前5名，2025年12月第4名，2026年1月第1名，2026年2月第4名。",
+        "created_at": "Fri Mar 06 09:12:45 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029847639878160385",
+            "url": "https://pbs.twimg.com/media/HCt3rIMaUAEfnnm.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "362252075",
+          "name": "哥飞",
+          "screen_name": "gefei55",
+          "description": "哥飞，出海鼓励师，SEO爱好者，Adsense玩家，出海AI工具方向创业者。\n同名公众号写了五百多篇出海搞流量免费教程文章。",
+          "followers_count": 49744,
+          "friends_count": 1212,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 44,
+          "reply_count": 7,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190740,
+        "friends_count": 1569,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029940206447776023",
+      "text": "RT @Will_Tanner_1: Stephen Miller is 100% right here\n\nThe high culture that made the West so superior to everywhere else on Earth only came…",
+      "created_at": "Fri Mar 06 15:20:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029735213731905702",
+        "text": "Stephen Miller is 100% right here\n\nThe high culture that made the West so superior to everywhere else on Earth only came because Western Europe executed ~1% of each generation for centuries\n\nIn weeding the crime gene out of the population through centuries of capital punishment for everything from larceny to murder, Western Europe made itself a paradise, and blossomed into the greatest high civilization the world has ever seen over the 18th and 19th centuries\n\nSo, as he said, \"The West only achieved the place that it did in human history because it spent previous centuries eradicating the criminal elements within it’s territories. The West that we came to know that had the great music and architecture and science and the most powerful economy had spent centuries previous to that establishing order first.\" \n\nThat is 100% true. High civilization requires order, and requires the pruning of the tree of civilization to achieve it",
+        "created_at": "Fri Mar 06 01:46:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029730123004452865",
+            "url": "https://video.twimg.com/amplify_video/2029730123004452865/vid/avc1/1280x720/QHX3qFuL0ezJaITD.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1504181287468339208",
+          "name": "Will Tanner",
+          "screen_name": "Will_Tanner_1",
+          "description": "Tradition is not the worship of ashes, but the preservation of fire | Co-Founder of @TAmTrib | WASP",
+          "followers_count": 159769,
+          "friends_count": 1362,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1353,
+          "favorite_count": 8301,
+          "reply_count": 533,
+          "quote_count": 83
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1353,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029935960323150200",
+      "text": "Starlink",
+      "created_at": "Fri Mar 06 15:03:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029934920999874941",
+        "text": "Starlink connects the unconnected, even in the most remote areas around the world 🛰️❤️",
+        "created_at": "Fri Mar 06 14:59:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1568241,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 71,
+          "favorite_count": 628,
+          "reply_count": 145,
+          "quote_count": 20
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1059,
+        "favorite_count": 10235,
+        "reply_count": 1868,
+        "quote_count": 67
+      }
+    },
+    {
+      "id": "2029935400559792611",
+      "text": "RT @DimaZeniuk: What are you feeling when you watch this? https://t.co/c6NaKXYUAf",
+      "created_at": "Fri Mar 06 15:01:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029915365694713856",
+          "url": "https://video.twimg.com/ext_tw_video/2029915365694713856/pu/vid/avc1/720x720/1MKZQZthX9r_35rG.mp4?tag=19",
+          "bitrate": 1280000
+        }
+      ],
+      "retweet": {
+        "id": "2029915408942387593",
+        "text": "What are you feeling when you watch this? https://t.co/c6NaKXYUAf",
+        "created_at": "Fri Mar 06 13:42:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029915365694713856",
+            "url": "https://video.twimg.com/ext_tw_video/2029915365694713856/pu/vid/avc1/720x720/1MKZQZthX9r_35rG.mp4?tag=19",
+            "bitrate": 1280000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1198495865301864448",
+          "name": "Dima Zeniuk",
+          "screen_name": "DimaZeniuk",
+          "description": "Tesla | SpaceX | Starlink | X |\nFree speech\n\nInspired by innovation | Future | Neuralink",
+          "followers_count": 121170,
+          "friends_count": 634,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 420,
+          "favorite_count": 3617,
+          "reply_count": 985,
+          "quote_count": 59
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 420,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029933901108662611",
+      "text": "RT @art_muse: QT Your Victorian Lady https://t.co/o6RNDaB7D4",
+      "created_at": "Fri Mar 06 14:55:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029814833210875904",
+          "url": "https://video.twimg.com/amplify_video/2029814833210875904/vid/avc1/464x688/031ezyJHDXv5veMa.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": {
+        "id": "2029814995618267528",
+        "text": "QT Your Victorian Lady https://t.co/o6RNDaB7D4",
+        "created_at": "Fri Mar 06 07:03:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029814833210875904",
+            "url": "https://video.twimg.com/amplify_video/2029814833210875904/vid/avc1/464x688/031ezyJHDXv5veMa.mp4?tag=24",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 16123,
+          "friends_count": 1347,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 163,
+          "favorite_count": 982,
+          "reply_count": 155,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 163,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029932064863346993",
+      "text": "Yes",
+      "created_at": "Fri Mar 06 14:48:13 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029905862253584446",
+        "text": "Anthropic’s Claude is racist https://t.co/eXvQzCprNy",
+        "created_at": "Fri Mar 06 13:04:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029905855504863240",
+            "url": "https://pbs.twimg.com/media/HCusnuTaUAg-mIc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4868124659",
+          "name": "Taya",
+          "screen_name": "travelingflying",
+          "description": "Entrepreneur| Investor| World traveler| Part-time online troll|Christian Conservative|Anti-woke| AI Enthusiast",
+          "followers_count": 165852,
+          "friends_count": 25114,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 345,
+          "favorite_count": 2378,
+          "reply_count": 295,
+          "quote_count": 101
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5825,
+        "favorite_count": 54090,
+        "reply_count": 3140,
+        "quote_count": 231
+      }
+    },
+    {
+      "id": "2029931972844466333",
+      "text": "Cool",
+      "created_at": "Fri Mar 06 14:47:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029901288029167895",
+        "text": "Do you know why I prefer Grok over Google? Grok search gives me real-time data from X and from the web. \n\nGrok gives me instant fact-checking and integrates reasoning to deliver more contextual, uncensored, and multifaceted results. https://t.co/ED0j8FDiY8",
+        "created_at": "Fri Mar 06 12:45:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029901268068749314",
+            "url": "https://video.twimg.com/ext_tw_video/2029901268068749314/pu/vid/avc1/720x720/-h-N-GhdWQ-OEsbU.mp4?tag=22",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1769074421438803968",
+          "name": "Testlabor",
+          "screen_name": "testerlabor",
+          "description": "Tech and AI Innovation Tester & researcher - Grok tester since 1.5 - News, Updates & Results.",
+          "followers_count": 12338,
+          "friends_count": 777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 46,
+          "favorite_count": 260,
+          "reply_count": 75,
+          "quote_count": 16
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 792,
+        "favorite_count": 5241,
+        "reply_count": 907,
+        "quote_count": 31
+      }
+    },
+    {
+      "id": "2029931890019553412",
+      "text": "RT @art_muse: Goodnight 🌖💫 https://t.co/cegs8GYmbk",
+      "created_at": "Fri Mar 06 14:47:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029690719531671552",
+          "url": "https://video.twimg.com/amplify_video/2029690719531671552/vid/avc1/720x1066/7QbqTuj77ulQA1It.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2029690778235158789",
+        "text": "Goodnight 🌖💫 https://t.co/cegs8GYmbk",
+        "created_at": "Thu Mar 05 22:49:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029690719531671552",
+            "url": "https://video.twimg.com/amplify_video/2029690719531671552/vid/avc1/720x1066/7QbqTuj77ulQA1It.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 16123,
+          "friends_count": 1347,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 183,
+          "favorite_count": 1220,
+          "reply_count": 114,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 183,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029931012814483517",
+      "text": "https://t.co/tUc1KNOyvP",
+      "created_at": "Fri Mar 06 14:44:02 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029928652444729344",
+          "url": "https://video.twimg.com/amplify_video/2029928652444729344/vid/avc1/720x1072/vRdVrBjofVVeynaN.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1881,
+        "favorite_count": 17943,
+        "reply_count": 2777,
+        "quote_count": 199
+      }
+    },
+    {
+      "id": "2029928674166997198",
+      "text": "RT @XFreeze: When Elon Musk started SpaceX, his closest friends showed him a compilation of rocket failures to talk him out of it\n\nThe indu…",
+      "created_at": "Fri Mar 06 14:34:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029853120076071044",
+        "text": "When Elon Musk started SpaceX, his closest friends showed him a compilation of rocket failures to talk him out of it\n\nThe industry joke was brutal: \"How do you make a small fortune in the rocket business? Start with a large one”\n\nIf he had stopped after seeing those failures, we wouldn’t have reusable rockets, Starship, and the multi-planetary dream. All these would be dead in the water\n\nhumanity would remain a single-planet \nspecies forever. Instead, we are on the doorstep of Mars",
+        "created_at": "Fri Mar 06 09:34:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029851237588578304",
+            "url": "https://video.twimg.com/amplify_video/2029851237588578304/vid/avc1/1080x1080/Dd9HG7_XJAJ8yA2m.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 163710,
+          "friends_count": 1643,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 355,
+          "favorite_count": 1972,
+          "reply_count": 262,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 355,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029928255780991274",
+      "text": "Truth about @DOGE",
+      "created_at": "Fri Mar 06 14:33:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029700514305430000",
+        "text": "Let’s set the record straight here, since this OPINION story circulating doesn’t get the facts right. \n\nCLAIM: DOGE fired NASA employees and eliminated positions.\n\nTRUTH: DOGE didn’t fire a single employee at NASA. A total of 23 positions were RIF’ed following an executive order in February eliminating DEI and other positions. All other departures from the agency last year were voluntary.\n\nCLAIM: The Trump Admin is “talking a big game” about beating China to the Moon.\n\nTRUTH: The Trump Administration created the Artemis Program. The Artemis Accords that over 60 nations have signed. President Trump created the Space Force. And, President Trump enacted the Space Policy that will finally, after 35 years, return Astronauts to the lunar environment and begin construction of a Moon Base.  \n\nCLAIM: NASA can’t intelligently work with industry without a chief economist.\n\nTRUTH:  Pretty much every OIG report at NASA on commercial programs being behind schedule, over budget or outright cancelled was written during a time of a Chief Economist.  Industry responds to common sense decisions, just look at the recent Artemis architecture update and the widespread, unanimous support from all the contractors. Not to mention the fact that the one person has funded the majority of commercial spaceflight to orbit is the current @NASAAdmin. There are currently more than 6 commercial companies looking to NASA to build a single space-station-as-a-service. It would appear that NASA is not the entity that requires an economist. \n\nCLAIM: DOGE was on a firing spree. \n\nTRUTH: Again, DOGE did not fire a SINGLE employee, let alone thousands. \n\nCLAIM: NASA’s being run on vibes alone. \n\nTRUTH: NASA is making common sense decisions to focus resources on the most pressing objectives in line with President Trump’s National Space Policy.\n\nThe only thing running on vibes alone is this piece.",
+        "created_at": "Thu Mar 05 23:28:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029700508093452289",
+            "url": "https://pbs.twimg.com/media/HCrx27lXEAE9-Sm.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1907894348319973378",
+          "name": "Bethany Stevens",
+          "screen_name": "NASASpox",
+          "description": "@NASA Comms | Serving President Trump under the leadership of @NASAAdmin",
+          "followers_count": 12504,
+          "friends_count": 115,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 560,
+          "favorite_count": 2883,
+          "reply_count": 130,
+          "quote_count": 31
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1748,
+        "favorite_count": 10208,
+        "reply_count": 857,
+        "quote_count": 37
+      }
+    },
+    {
+      "id": "2029927590237196461",
+      "text": "RT @andst7: Let me be clear: many EU embassies in Iran are using Starlink to communicate securely and protect their citizens. (Read the new…",
+      "created_at": "Fri Mar 06 14:30:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029916657485807692",
+        "text": "Let me be clear: many EU embassies in Iran are using Starlink to communicate securely and protect their citizens. (Read the news about the Dutch diplomat who tried to smuggle three kits into Iran a few days ago for the Netherlands embassy). Starlink is the most effective communication tool of our time, and Elon Musk has provided it in the toughest times: from natural disasters to victims of regimes. There is no French or European solution today. History will remember Elon and his bravery, not the cowardice of European governments.",
+        "created_at": "Fri Mar 06 13:46:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "541882699",
+          "name": "Andrea Stroppa 🐺 Claudius Nero's Legion 🐺",
+          "screen_name": "andst7",
+          "description": "investor in Tesla, xAI, Neuralink, SpaceX and whatever Elon does.",
+          "followers_count": 133416,
+          "friends_count": 734,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 310,
+          "favorite_count": 1895,
+          "reply_count": 138,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 310,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029925151077499345",
+      "text": "RT @SteveGuest: Another WOKE tech oligarch exposed.\n\nMeet OpenAI’s James Dyett.\n\n@dyett is anti-ICE and accused federal law enforcement off…",
+      "created_at": "Fri Mar 06 14:20:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029905385042112977",
+        "text": "Another WOKE tech oligarch exposed.\n\nMeet OpenAI’s James Dyett.\n\n@dyett is anti-ICE and accused federal law enforcement officers of “executing civilians in the streets.”\n\nIn response to the Trump admin posting, “Remember who you are, American,” he wrote, “This is so ominous... I believe (hope?) that the vast majority of Americans reject this.”\n\nHe even defended the communist Venezuelan dictator Nicolas Maduro.\n\nAnd he defended the woke cultural marxists who run Harvard.\n\nThis is who is behind OpenAI. Yikes.",
+        "created_at": "Fri Mar 06 13:02:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029905379493031936",
+            "url": "https://pbs.twimg.com/media/HCusMBBWMAAoWVC.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "341194704",
+          "name": "Steve Guest",
+          "screen_name": "SteveGuest",
+          "description": "Conservative communicator. Alum of: @TedCruz, @GOP, etc. @UCLA fan.",
+          "followers_count": 135536,
+          "friends_count": 4459,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 396,
+          "favorite_count": 1497,
+          "reply_count": 165,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 396,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029923751966760990",
+      "text": "Hmm",
+      "created_at": "Fri Mar 06 14:15:11 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029893309682913723",
+        "text": "🚨BREAKING: LEWIS HAMILTON SAYS HE WANTS AFRICANS TO TAKE BACK AFRICA AND KICK OUT EUROPEANS\n\nSorry... WHAT?\n\nSo it's RACIST if British people say we want to take Britain back for us but it's absolutely fine to say Africa for Africans https://t.co/4kwaNtn4Z4",
+        "created_at": "Fri Mar 06 12:14:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029893203403624448",
+            "url": "https://video.twimg.com/amplify_video/2029893203403624448/vid/avc1/480x854/4modRQnnw-t6wOkp.mp4?tag=21",
+            "bitrate": 950000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1722014154322575360",
+          "name": "Basil the Great",
+          "screen_name": "BasilTheGreat",
+          "description": "--//-- Restore Britain --//--\n\nDM for submissions/credit/deletion",
+          "followers_count": 291183,
+          "friends_count": 4959,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2750,
+          "favorite_count": 15401,
+          "reply_count": 3039,
+          "quote_count": 641
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236037468,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5867,
+        "favorite_count": 53722,
+        "reply_count": 4963,
+        "quote_count": 410
+      }
+    },
     {
       "id": "2029921987334918248",
       "text": "Probability of murder and cannibalism again is ~100%",
@@ -4500,6 +5263,55 @@
         "favorite_count": 11,
         "reply_count": 1,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2029428437023178834",
+      "text": "自动配图\nhttps://t.co/BnRu1klEu4",
+      "created_at": "Thu Mar 05 05:26:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2011907793520116215",
+        "text": "https://t.co/8cAHpVroAU",
+        "created_at": "Thu Jan 15 21:06:12 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 190740,
+          "friends_count": 1569,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 292,
+          "favorite_count": 1260,
+          "reply_count": 68,
+          "quote_count": 45
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190740,
+        "friends_count": 1569,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "reply_count": 2,
+        "quote_count": 1
       }
     },
     {
