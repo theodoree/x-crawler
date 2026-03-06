@@ -1,11 +1,11 @@
 {
   "date": "20260306",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-06T03:00:23.938224",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
+  "last_crawl_time": "2026-03-06T04:35:05.248096",
+  "tweet_count": 206,
+  "unique_tweet_count": 206,
   "total_crawled": 400,
-  "duplicates_removed": 200,
+  "duplicates_removed": 194,
   "tweets": [
     {
       "id": "2029693203256115480",
@@ -11254,6 +11254,276 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2027991266173108303",
+      "text": "For now",
+      "created_at": "Sun Mar 01 06:16:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027981570594775101",
+        "text": "Highest usage of 𝕏 ever",
+        "created_at": "Sun Mar 01 05:37:39 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 236010733,
+          "friends_count": 1292,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 26716,
+          "favorite_count": 329664,
+          "reply_count": 14193,
+          "quote_count": 2078
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236010733,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7177,
+        "favorite_count": 100513,
+        "reply_count": 3694,
+        "quote_count": 257
+      }
+    },
+    {
+      "id": "2027990176761581630",
+      "text": "🤨",
+      "created_at": "Sun Mar 01 06:11:51 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027974289174221198",
+        "text": "This got memory holed so fast",
+        "created_at": "Sun Mar 01 05:08:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15509954",
+          "name": "Nathan Lands",
+          "screen_name": "NathanLands",
+          "description": "CEO, Lore. Building sovereign AI systems for the United States.\n\nHost of Building America: https://t.co/AxtXrIdidW",
+          "followers_count": 79100,
+          "friends_count": 875,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1248,
+          "favorite_count": 8744,
+          "reply_count": 129,
+          "quote_count": 37
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236010733,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3258,
+        "favorite_count": 32978,
+        "reply_count": 1390,
+        "quote_count": 45
+      }
+    },
+    {
+      "id": "2027989847500034278",
+      "text": "People can pretend or dress up all they want and that’s fine, but they can’t force their mental illness to be my new reality!",
+      "created_at": "Sun Mar 01 06:10:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027602546773397955",
+        "text": "When you think about it for more than half a second, it is absolutely insane that pretending to be the opposite sex is considered to be a human rights movement.",
+        "created_at": "Sat Feb 28 04:31:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "310085287",
+          "name": "Sall Grover",
+          "screen_name": "salltweets",
+          "description": "Founder & CEO of giggle, a female social network - APP CURRENTLY UNDER RENOVATION. RELAUNCH SOON 💗 DM for media comments",
+          "followers_count": 175847,
+          "friends_count": 927,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3858,
+          "favorite_count": 34202,
+          "reply_count": 794,
+          "quote_count": 179
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236010733,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 34155,
+        "favorite_count": 271718,
+        "reply_count": 7325,
+        "quote_count": 1086
+      }
+    },
+    {
+      "id": "2027985259074121756",
+      "text": "RT @naval: Pure software is rapidly becoming un-investable.",
+      "created_at": "Sun Mar 01 05:52:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2027981651012473197",
+        "text": "Pure software is rapidly becoming un-investable.",
+        "created_at": "Sun Mar 01 05:37:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "745273",
+          "name": "Naval",
+          "screen_name": "naval",
+          "description": "Incompressible",
+          "followers_count": 3067773,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2239,
+          "favorite_count": 24091,
+          "reply_count": 1316,
+          "quote_count": 659
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236010733,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2239,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2027981570594775101",
+      "text": "Highest usage of 𝕏 ever",
+      "created_at": "Sun Mar 01 05:37:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2027959264099090669",
+        "text": "Today was the biggest day on 𝕏 in history.",
+        "created_at": "Sun Mar 01 04:09:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "636513296",
+          "name": "Nikita Bier",
+          "screen_name": "nikitabier",
+          "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+          "followers_count": 865285,
+          "friends_count": 2025,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4935,
+          "favorite_count": 67080,
+          "reply_count": 6049,
+          "quote_count": 936
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236010733,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 26716,
+        "favorite_count": 329664,
+        "reply_count": 14193,
+        "quote_count": 2078
+      }
+    },
+    {
+      "id": "2027981046726209952",
+      "text": "https://t.co/CUskUiWb1h",
+      "created_at": "Sun Mar 01 05:35:34 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190562,
+        "friends_count": 1569,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 132,
+        "reply_count": 13,
+        "quote_count": 6
       }
     }
   ]
