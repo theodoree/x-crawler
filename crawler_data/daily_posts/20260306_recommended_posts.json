@@ -1,12 +1,459 @@
 {
   "date": "20260306",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-06T06:16:35.886652",
-  "tweet_count": 211,
-  "unique_tweet_count": 211,
-  "total_crawled": 406,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-03-06T08:10:40.839051",
+  "tweet_count": 219,
+  "unique_tweet_count": 219,
+  "total_crawled": 411,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2029830928412160487",
+      "text": "RT @ns123abc: 🚨 BREAKING: Anthropic CEO just did a complete 180 in live interview\n\nDo you regret saying ‘dictator-style praise’ about Presi…",
+      "created_at": "Fri Mar 06 08:06:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029786601987965175",
+        "text": "🚨 BREAKING: Anthropic CEO just did a complete 180 in live interview\n\nDo you regret saying ‘dictator-style praise’ about President Trump?\n\nAnthropic CEO: \n>“I want to completely apologize for this memo”\n>“it was among the most disorienting times in Anthropic’s history”\n>“i wouldn’t describe it as a memo”\n>reframes 1,600 words sent to 2,000+ employees as a casual slack post\n>“it’s not a considered or refined version of my thinking”\n\nSo, will you apologize to President Trump? \n>“i’ve apologized to the people within the DoW”\n>“happy to speak to anyone”\n\nabsolute cinema",
+        "created_at": "Fri Mar 06 05:10:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029786543787753472",
+            "url": "https://video.twimg.com/amplify_video/2029786543787753472/vid/avc1/360x640/7yLu102RuinCNnYC.mp4?tag=21",
+            "bitrate": 950000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1087640384975577089",
+          "name": "NIK",
+          "screen_name": "ns123abc",
+          "description": "non technical member of technical staff",
+          "followers_count": 55771,
+          "friends_count": 6644,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 120,
+          "favorite_count": 1018,
+          "reply_count": 215,
+          "quote_count": 71
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236016197,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 120,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029826914215723265",
+      "text": "Common sense",
+      "created_at": "Fri Mar 06 07:50:23 +0000 2026",
+      "lang": "fr",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029605894745452725",
+        "text": "Mises obliterated the entire socialist project in 1920 with one devastating insight: \"Where there is no free market, there is no pricing mechanism; without a pricing mechanism, there is no economic calculation.\" The socialists spent the next century pretending this problem didn't exist while their economies collapsed around them.\n\nAnd yet here we are, watching politicians promise they can \"fix\" healthcare, housing, and energy markets through central planning. They can't even calculate the cost of their own programs correctly — how exactly are they going to allocate resources across an entire economy?\n\nEvery Venezuelan breadline, every Soviet grain shortage, every Chinese famine was just Mises being proven right in the most brutal way possible. But sure, let's try democratic socialism this time. What could go wrong?",
+        "created_at": "Thu Mar 05 17:12:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1194218823408373762",
+          "name": "Handre",
+          "screen_name": "Handrev",
+          "description": "The economy isn't broken. It's working exactly as designed. Just not for you. They call it monetary policy; we call it what it is: legalized theft.",
+          "followers_count": 16762,
+          "friends_count": 6291,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 471,
+          "favorite_count": 2038,
+          "reply_count": 96,
+          "quote_count": 35
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236016197,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 330,
+        "favorite_count": 2308,
+        "reply_count": 668,
+        "quote_count": 12
+      }
+    },
+    {
+      "id": "2029825572084535467",
+      "text": "Sounds high",
+      "created_at": "Fri Mar 06 07:45:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029678371462897908",
+        "text": "100% Of Audited Medicaid Claims For Autism Care In Colorado Were Improper Or Flawed: Report https://t.co/jeucbMaaDa",
+        "created_at": "Thu Mar 05 22:00:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "18856867",
+          "name": "zerohedge",
+          "screen_name": "zerohedge",
+          "description": "",
+          "followers_count": 2567456,
+          "friends_count": 945,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 529,
+          "favorite_count": 1760,
+          "reply_count": 72,
+          "quote_count": 32
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236016197,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 442,
+        "favorite_count": 3297,
+        "reply_count": 670,
+        "quote_count": 15
+      }
+    },
+    {
+      "id": "2029823150566035575",
+      "text": "RT @VladSaigau: What will a 100 kW/ton orbital compute satellite look like?\n\nWe’ve been building a satellite mass-budget model to show how…",
+      "created_at": "Fri Mar 06 07:35:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029643980695105947",
+        "text": "What will a 100 kW/ton orbital compute satellite look like?\n\nWe’ve been building a satellite mass-budget model to show how compute satellites will differ architecturally from Starlink.\n\nSatcom/Starlink baselines allocate ~35 % of dry mass to phased-array antennas, gimbals, and other continuous Earth-pointing mechanisms required for RF routing. \n\nCompute satellites will have no downlink; data moves via laser links to the Starlink constellation. The freed mass is completely reallocated to solar arrays and radiators, shifting us from an RF-routing architecture to a thermodynamic-optimised one.\n\nThe triangular bottleneck in orbital compute satellites is the three-way interdependence of solar generation, thermal rejection, and compute capability: any single subsystem can only scale as far as the other two allow, so true power-density gains require all three to advance in lockstep,  otherwise one becomes the binding constraint.\n\nCompute sats have no need for ultra-precise Earth-pointing, so solar arrays can be far lighter and flexible, using passive gravity-gradient and centrifugal tensioning in dawn-dusk SSO. \n\nOperating the compute ASICs at ~370 K, exactly as Elon highlighted, exploits the T⁴ scaling of blackbody radiation, boosting net heat rejection significantly, and thereby slashing the required radiator area (and therefore mass) dramatically. We believe radiators must deploy two-sided and sit in the shade of the solar arrays for optimal cold-space view factors, in order to hit 100kW/ton. \n\nAt first glance, thermal rejection becomes one of the largest subsystems (~34 % of dry mass). Yet this dominance only appears because projected PV efficiency gains and higher chip temperature enable 7× higher power throughput, greater than the expected headroom in radiator efficiency gains. The triangular bottleneck closes cleanly at 100.2 W/kg system power density, almost exactly the line in the sand Elon and SpaceX have drawn. \n\nAs finance folks who've had the privilege of learning from leading space-industry engineers, we offer this conceptual take with a grain of salt: these 100 kW/ton satellites would likely look quite different from Starlink satellites... \n\nWe imagine compute satellites will have a compact central bus housing only the dense compute payload and laser links, surrounded by large, light, thin-film solar arrays deployed radially like wings or sails, kept taut by passive gravity-gradient and centrifugal tensioning in dawn-dusk SSO. Paired with them will be two-sided deployable radiator fins, deliberately positioned in the permanent shade of the arrays for optimal cold-space view factors. \n\nWe are keen to learn more though so please share any suggestions.\n\nRead the full analysis here for all our modelling and charts 🧐\n\nhttps://t.co/k13AaxgBxP",
+        "created_at": "Thu Mar 05 19:43:28 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029643684338130944",
+            "url": "https://pbs.twimg.com/media/HCq-LWmW4AAa5qx.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1496125256624484362",
+          "name": "Vlad Saigau",
+          "screen_name": "VladSaigau",
+          "description": "Space Finance @ Mach33 | @yale grad | 🇬🇧🇷🇴 | INTP",
+          "followers_count": 3009,
+          "friends_count": 404,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 101,
+          "favorite_count": 582,
+          "reply_count": 88,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236016197,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 101,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029822599946195340",
+      "text": "lol",
+      "created_at": "Fri Mar 06 07:33:14 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029710802811519072",
+        "text": "Happens to the best of us. https://t.co/hkMIUTvl9r",
+        "created_at": "Fri Mar 06 00:09:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029704645455794180",
+            "url": "https://pbs.twimg.com/media/HCr1nwdaUAQvLDd.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1600964443122421769",
+          "name": "Community Notes & Violations",
+          "screen_name": "CNviolations",
+          "description": "I'm the guy you go to for brutal community notes and violations / DM submissions",
+          "followers_count": 1204312,
+          "friends_count": 34,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 57,
+          "favorite_count": 1388,
+          "reply_count": 81,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236016197,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 676,
+        "favorite_count": 12713,
+        "reply_count": 1474,
+        "quote_count": 49
+      }
+    },
+    {
+      "id": "2029805707244261557",
+      "text": "RT @MrAndyNgo: A Somali fraudster in Minnesota has been sentenced to five years in federal prison for his role in a conspiracy to bribe a b…",
+      "created_at": "Fri Mar 06 06:26:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029704369201913957",
+        "text": "A Somali fraudster in Minnesota has been sentenced to five years in federal prison for his role in a conspiracy to bribe a black female juror during a Somali fraud trial. They tried to bribe the juror with $120k cash in a bag, with instructions to make other jurors think the prosecution is racist. https://t.co/EOFnCX9YGt",
+        "created_at": "Thu Mar 05 23:43:26 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2835451658",
+          "name": "Andy Ngo",
+          "screen_name": "MrAndyNgo",
+          "description": "NYT bestselling journalist. Senior editor @TPostMillennial. Subscribe to my X; support my journalism and send news tips at: https://t.co/qNoFCtvckk",
+          "followers_count": 1824134,
+          "friends_count": 3715,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2534,
+          "favorite_count": 8745,
+          "reply_count": 388,
+          "quote_count": 70
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236016197,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2534,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029805383762727090",
+      "text": "RT @HedgieMarkets: 🦔 Meta contractors in Kenya told Swedish newspapers they're being asked to review intimate footage from Ray-Ban AI glass…",
+      "created_at": "Fri Mar 06 06:24:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029000875637686334",
+        "text": "🦔 Meta contractors in Kenya told Swedish newspapers they're being asked to review intimate footage from Ray-Ban AI glasses, including people undressing, using the bathroom, watching porn, and filming sex. One contractor said users often don't realize they're still recording when they set the glasses down. Meta sold 7 million pairs in 2025, up from 2 million in 2023-2024 combined.\n\nUsers can't use the AI features without agreeing to share data with Meta's servers, and the terms of service bury the fact that humans may manually review your footage. One annotator said \"if they knew about the extent of the data collection, no one would dare to use the glasses.\"\n\nMy Take\nThis is the Google Home story again but worse. At least with cameras in your house, you know where they are. These are glasses you wear on your face that keep recording when you take them off and set them on your nightstand. And the footage goes to contractors overseas who are paid to watch and label it for AI training. One worker described seeing a man leave the room, then his wife come in and change clothes. People forget the camera is still on.\n\nMeta buries all of this in terms of service nobody reads. The product is marketed as a cool way to capture your life and interact with AI. The reality is strangers in Kenya watching you undress so they can annotate the footage to make Zuckerberg's AI better. Seven million people bought these last year. I'd bet almost none of them understood what they were actually agreeing to.\n\nHedgie🤗",
+        "created_at": "Wed Mar 04 01:08:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2028955612478881792",
+            "url": "https://pbs.twimg.com/media/HChMYTLWwAAeDRc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1898261963601575936",
+          "name": "Hedgie",
+          "screen_name": "HedgieMarkets",
+          "description": "🦔 Making financial nonsense make sense, one prickly take at a time 🦔 | Weekly newsletter: https://t.co/zgdVSm4aAx | Not financial advice (I'm a Hedgehog)",
+          "followers_count": 31716,
+          "friends_count": 28,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8913,
+          "favorite_count": 24023,
+          "reply_count": 730,
+          "quote_count": 1019
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236016197,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 8913,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029805365538566188",
+      "text": "RT @andst7: You hear little or nothing on EU media and almost nothing from Brussels because Meta bought silence with a lot of euros (lobbyi…",
+      "created_at": "Fri Mar 06 06:24:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029690018982166716",
+        "text": "You hear little or nothing on EU media and almost nothing from Brussels because Meta bought silence with a lot of euros (lobbying, donations, agreements with media publishers). \n\nThis is the difference between Elon and Zuckerberg",
+        "created_at": "Thu Mar 05 22:46:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2029000875637686334",
+          "text": "🦔 Meta contractors in Kenya told Swedish newspapers they're being asked to review intimate footage from Ray-Ban AI glasses, including people undressing, using the bathroom, watching porn, and filming sex. One contractor said users often don't realize they're still recording when they set the glasses down. Meta sold 7 million pairs in 2025, up from 2 million in 2023-2024 combined.\n\nUsers can't use the AI features without agreeing to share data with Meta's servers, and the terms of service bury the fact that humans may manually review your footage. One annotator said \"if they knew about the extent of the data collection, no one would dare to use the glasses.\"\n\nMy Take\nThis is the Google Home story again but worse. At least with cameras in your house, you know where they are. These are glasses you wear on your face that keep recording when you take them off and set them on your nightstand. And the footage goes to contractors overseas who are paid to watch and label it for AI training. One worker described seeing a man leave the room, then his wife come in and change clothes. People forget the camera is still on.\n\nMeta buries all of this in terms of service nobody reads. The product is marketed as a cool way to capture your life and interact with AI. The reality is strangers in Kenya watching you undress so they can annotate the footage to make Zuckerberg's AI better. Seven million people bought these last year. I'd bet almost none of them understood what they were actually agreeing to.\n\nHedgie🤗",
+          "created_at": "Wed Mar 04 01:08:00 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2028955612478881792",
+              "url": "https://pbs.twimg.com/media/HChMYTLWwAAeDRc.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1898261963601575936",
+            "name": "Hedgie",
+            "screen_name": "HedgieMarkets",
+            "description": "🦔 Making financial nonsense make sense, one prickly take at a time 🦔 | Weekly newsletter: https://t.co/zgdVSm4aAx | Not financial advice (I'm a Hedgehog)",
+            "followers_count": 31716,
+            "friends_count": 28,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 8913,
+            "favorite_count": 24023,
+            "reply_count": 730,
+            "quote_count": 1019
+          }
+        },
+        "user": {
+          "id": "541882699",
+          "name": "Andrea Stroppa 🐺 Claudius Nero's Legion 🐺",
+          "screen_name": "andst7",
+          "description": "investor in Tesla, xAI, Neuralink, SpaceX and whatever Elon does.",
+          "followers_count": 133393,
+          "friends_count": 734,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 250,
+          "favorite_count": 1198,
+          "reply_count": 95,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236016197,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 250,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2029798271732838878",
       "text": "这确实是个因素\nhttps://t.co/rrxNb9u83G",
