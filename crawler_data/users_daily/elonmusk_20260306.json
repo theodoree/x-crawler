@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236030407,
+    "followers_count": 236025784,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260306",
-  "last_updated": "2026-03-06T12:11:08.906934",
-  "tweet_count": 16,
+  "last_updated": "2026-03-06T14:14:30.401669",
+  "tweet_count": 18,
   "tweets": [
     {
       "id": "2029787439192232165",
@@ -757,6 +757,97 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2029913998641254548",
+      "text": "True",
+      "created_at": "Fri Mar 06 13:36:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029821520529232364",
+        "text": "Take this in for a moment\n\nThe Home Secretary of the United Kingdom is on live national television saying English People don't exist\n\nShe's saying being English is a feeling or something you can take on no matter where in the world you are from\n\nWe are being ERASED https://t.co/aT71glNNjT",
+        "created_at": "Fri Mar 06 07:28:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029821252295184384",
+            "url": "https://video.twimg.com/amplify_video/2029821252295184384/vid/avc1/848x464/ullJlbxzyuacLtKq.mp4?tag=21",
+            "bitrate": 832000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1722014154322575360",
+          "name": "Basil the Great",
+          "screen_name": "BasilTheGreat",
+          "description": "--//-- Restore Britain --//--\n\nDM for submissions/credit/deletion",
+          "followers_count": 290884,
+          "friends_count": 4959,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2590,
+          "favorite_count": 9722,
+          "reply_count": 802,
+          "quote_count": 149
+        }
+      },
+      "stats": {
+        "retweet_count": 2512,
+        "favorite_count": 13718,
+        "reply_count": 1393,
+        "quote_count": 77
+      }
+    },
+    {
+      "id": "2029921987334918248",
+      "text": "Probability of murder and cannibalism again is ~100%",
+      "created_at": "Fri Mar 06 14:08:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029675444010684785",
+        "text": "https://t.co/1iWzpCgwAT",
+        "created_at": "Thu Mar 05 21:48:30 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029675439795388416",
+            "url": "https://pbs.twimg.com/media/HCrbDw5WwAAyGcC.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1749461080563154944",
+          "name": "Phairy Megan",
+          "screen_name": "tadgh_dc",
+          "description": "Dendrochronology postdoc",
+          "followers_count": 39902,
+          "friends_count": 11777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1293,
+          "favorite_count": 2792,
+          "reply_count": 334,
+          "quote_count": 230
+        }
+      },
+      "stats": {
+        "retweet_count": 639,
+        "favorite_count": 3462,
+        "reply_count": 755,
+        "quote_count": 44
       }
     }
   ]
