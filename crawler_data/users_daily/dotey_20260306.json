@@ -1,0 +1,114 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 190579,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260306",
+  "last_updated": "2026-03-06T06:16:35.915022",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2029788344670945643",
+      "text": "别着急吹 GPT-5.4，跟 Opus 4.6 还是有差距。\n\n目前我初步用下来的感觉：\n\n1. 写作依然不行，比GPT-5.2看起来有点进步，但离Opus 4.6 还有点远\n\n2. 过度思考，一个简单问题能思考半天\n\n3. 自作主张（为了你好式），我让它给我文章配图，它都不给我确认就帮我设置了风格、选了密度。插图每张给我做了3个版本\n\n大哥，画图token挺贵的！\n\n图2、图3都是它毙掉的版本，图1和图4是它留下来的，差别在哪里？！",
+      "created_at": "Fri Mar 06 05:17:07 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2029787138171060225",
+          "url": "https://pbs.twimg.com/media/HCtApdxXwAEZQ9U.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2029787314617196544",
+          "url": "https://pbs.twimg.com/media/HCtAzvFaIAAfG1W.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2029788106472423424",
+          "url": "https://pbs.twimg.com/media/HCtBh0-aAAApZBM.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2029788135018876930",
+          "url": "https://pbs.twimg.com/media/HCtBjfUaUAILKTM.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2029628065773474271",
+        "text": "OpenAI 发布 GPT-5.4，定位为专业工作场景的旗舰模型，同步推出面向高复杂任务的 GPT-5.4 Pro 版本。\n\n这次发布的最大亮点是 GPT-5.4 成为 OpenAI 首个原生支持\"电脑操控\"（Computer Use）的通用模型——也就是说，它可以像人一样通过截图、点击鼠标、敲击键盘来操作真实的电脑界面。\n\n在 OSWorld-Verified 桌面操控测试中，GPT-5.4 以 75% 的成功率超过人类（72.4%），而上一代 GPT-5.2 只有 47.3%。\n\n在知识类工作方面，GPT-5.4 在涵盖 44 种职业的 GDPval 基准测试中，与行业专业人士打平或胜出的比例达到 83%，GPT-5.2 的这一数字是 70.9%。\n\n投行建模任务的内部评测得分从 68.4% 跳升到 87.3%，生成演示文稿的效果在人工评审中有 68% 的概率优于前代。\n\n编程能力上，GPT-5.4 整合了此前专为写代码设计的 GPT-5.3-Codex 的能力，在 SWE-Bench Pro 上得分 57.7%，与 GPT-5.3-Codex 的 56.8% 相当，但延迟更低。\n\n另一个实用改进是\"工具搜索\"（Tool Search）：以往给模型配备大量外部工具时，所有工具定义都要塞进提示词里，动辄消耗数万个 token。\n\nGPT-5.4 改为按需查找工具，在测试中将 token 消耗减少了 47%，对于依赖大量 MCP 工具的开发者来说成本节省明显。\n\n在 ChatGPT 中，GPT-5.4 Thinking 将支持在生成过程中展示思考计划，用户可以中途介入调整方向——不用等模型跑完再重新来过。\n\n定价方面，API 输入价格从 GPT-5.2 的每百万 token 1.75 美元涨至 2.50 美元，输出价格从 14 美元涨至 15 美元。GPT-5.4 今天起向 ChatGPT Plus、Team、Pro 用户开放，取代 GPT-5.2 Thinking 成为默认推理模型，GPT-5.2 Thinking 将在三个月后于 2026 年 6 月 5 日正式退役。",
+        "created_at": "Thu Mar 05 18:40:14 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 190579,
+          "friends_count": 1569,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 32,
+          "favorite_count": 254,
+          "reply_count": 42,
+          "quote_count": 8
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 63,
+        "reply_count": 35,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2029798271732838878",
+      "text": "这确实是个因素\nhttps://t.co/rrxNb9u83G",
+      "created_at": "Fri Mar 06 05:56:34 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029796776048545864",
+        "text": "@dotey 那把think 由xhigh 改為low",
+        "created_at": "Fri Mar 06 05:50:37 +0000 2026",
+        "lang": "ja",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "758598267324149760",
+          "name": "Sui教主(🦈,💧)",
+          "screen_name": "JJJSUI",
+          "description": "曾被盗3000万美金等值$SUI的巨鲸 | 分享$SUI相关资讯和质押心得｜@JacksonProtocol @CardzGame华语推广大使",
+          "followers_count": 4780,
+          "friends_count": 1617,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
