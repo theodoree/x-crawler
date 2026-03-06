@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 235988619,
+    "followers_count": 235997726,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260305",
-  "last_updated": "2026-03-05T22:08:27.731680",
-  "tweet_count": 55,
+  "last_updated": "2026-03-06T00:26:18.947852",
+  "tweet_count": 56,
   "tweets": [
     {
       "id": "2029358863921889377",
@@ -2690,6 +2690,52 @@
         "favorite_count": 7268,
         "reply_count": 1154,
         "quote_count": 33
+      }
+    },
+    {
+      "id": "2029693203256115480",
+      "text": "RT @cb_doge: BREAKING: 𝕏 just launched Creator Subscriptions 2.0!\n New easy tools to help creators earn more and grow faster.\n\n• Exclusive…",
+      "created_at": "Thu Mar 05 22:59:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029680202616545349",
+        "text": "BREAKING: 𝕏 just launched Creator Subscriptions 2.0!\n New easy tools to help creators earn more and grow faster.\n\n• Exclusive Threads – Lock parts of your thread for subscribers only (tease publicly, paywall the rest)\n • New Share Cards – Beautiful auto cards to promote your subscriptions anywhere on X\n • Upgraded Paywalls – Shows your perks upfront so fans instantly see the value\n • Subs-Only on Profiles – Exclusive content now appears right in your main profile feed\n • New Dashboard – Simple earnings tracker + clear subscriber insights.\n\nBetter discovery, more conversions, all staying on X!",
+        "created_at": "Thu Mar 05 22:07:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029680048920481793",
+            "url": "https://video.twimg.com/amplify_video/2029680048920481793/vid/avc1/1036x1920/POa_l3HG7QsasuKw.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1844946,
+          "friends_count": 909,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 317,
+          "favorite_count": 1168,
+          "reply_count": 366,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 317,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
