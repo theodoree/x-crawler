@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236049281,
+    "followers_count": 236036611,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260306",
-  "last_updated": "2026-03-06T18:13:05.847731",
-  "tweet_count": 31,
+  "last_updated": "2026-03-06T20:08:52.901171",
+  "tweet_count": 33,
   "tweets": [
     {
       "id": "2029787439192232165",
@@ -1426,6 +1426,98 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2029995984227553383",
+      "text": "Yikes",
+      "created_at": "Fri Mar 06 19:02:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029990316938518596",
+        "text": "Curtis Yarvin says the West has \"no balls\" now and will simply turn into South Africa…\n\n\"Americans and Europeans will not resist the mass immigration and population replacement. You know, the thought that they will grab their muskets or whatever. It won't happen. Won’t happen at all. What will happen is exactly what happened in South Africa.\n\nThey will just acknowledge that they've lost their power and their country forever. And then they will sit quietly in their houses and build more and more barbed wire and electric fences until finally they are exterminated in one big pogrom. That's the future. That's what will happen to your children.\"",
+        "created_at": "Fri Mar 06 18:39:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029985449024868353",
+            "url": "https://video.twimg.com/amplify_video/2029985449024868353/vid/avc1/1160x648/R2CqC7tvKGY1pQol.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "437179266",
+          "name": "Geiger Capital",
+          "screen_name": "Geiger_Capital",
+          "description": "Markets/Economics/Politics | RIP Paul Volcker 🕊 Personal Views. Not Investment Advice.",
+          "followers_count": 339844,
+          "friends_count": 303,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1175,
+          "favorite_count": 4996,
+          "reply_count": 519,
+          "quote_count": 136
+        }
+      },
+      "stats": {
+        "retweet_count": 2389,
+        "favorite_count": 14643,
+        "reply_count": 1499,
+        "quote_count": 79
+      }
+    },
+    {
+      "id": "2030000419938914536",
+      "text": "Articles on 𝕏 growing crazy fast!",
+      "created_at": "Fri Mar 06 19:19:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029980825262117177",
+        "text": "Over the last 3 months, Articles on X have grown 18x. It is one of the fasting growing new products on the platform.\n\nToday we're making them even better: we're launching a Listen feature—powered by Grok Voice. You'll be able to listen while scrolling Timeline or on-the-go from your lock screen.\n\nIt's now available on iOS for top Articles in English and launching on more platforms soon. Here's how it works:",
+        "created_at": "Fri Mar 06 18:01:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029979287860957184",
+            "url": "https://video.twimg.com/amplify_video/2029979287860957184/vid/avc1/1080x1080/kTE0E0G9uWKKzCr2.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "636513296",
+          "name": "Nikita Bier",
+          "screen_name": "nikitabier",
+          "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+          "followers_count": 866717,
+          "friends_count": 2025,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 296,
+          "favorite_count": 3732,
+          "reply_count": 1140,
+          "quote_count": 175
+        }
+      },
+      "stats": {
+        "retweet_count": 996,
+        "favorite_count": 6537,
+        "reply_count": 1674,
+        "quote_count": 59
       }
     }
   ]
