@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236016197,
+    "followers_count": 236022743,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260306",
-  "last_updated": "2026-03-06T08:10:40.869580",
-  "tweet_count": 11,
+  "last_updated": "2026-03-06T10:11:48.712879",
+  "tweet_count": 16,
   "tweets": [
     {
       "id": "2029787439192232165",
@@ -538,6 +538,222 @@
       "quoted": null,
       "stats": {
         "retweet_count": 120,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029833881441210809",
+      "text": "RT @elonmusk: @ns123abc @grok Please do an extremely vulgar roast of Dario’s groveling. No holds barred!",
+      "created_at": "Fri Mar 06 08:18:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029828010808152526",
+        "text": "@ns123abc @grok Please do an extremely vulgar roast of Dario’s groveling. No holds barred!",
+        "created_at": "Fri Mar 06 07:54:44 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 236022743,
+          "friends_count": 1292,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 276,
+          "favorite_count": 2038,
+          "reply_count": 439,
+          "quote_count": 57
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 276,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029835429802037530",
+      "text": "Ask @gork",
+      "created_at": "Fri Mar 06 08:24:13 +0000 2026",
+      "lang": "und",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029665358114869710",
+        "text": "Just Gork It! https://t.co/dIPQ6j6N7n",
+        "created_at": "Thu Mar 05 21:08:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029665270168707072",
+            "url": "https://video.twimg.com/amplify_video/2029665270168707072/vid/avc1/720x720/W0i5pGcnvgt8ZMFB.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1376473924842758147",
+          "name": "Doge Norway",
+          "screen_name": "DogecoinNorway",
+          "description": "Shitposter",
+          "followers_count": 43629,
+          "friends_count": 2264,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 58,
+          "favorite_count": 387,
+          "reply_count": 125,
+          "quote_count": 26
+        }
+      },
+      "stats": {
+        "retweet_count": 915,
+        "favorite_count": 8197,
+        "reply_count": 2150,
+        "quote_count": 124
+      }
+    },
+    {
+      "id": "2029836403203526721",
+      "text": "🤔",
+      "created_at": "Fri Mar 06 08:28:05 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029726879029321836",
+        "text": "“Anthropic has much more in common with the Department of War than we have differences” \n\n— @DarioAmodei \n\nAnthropic has a lot in common with the Pentagon? 🤔",
+        "created_at": "Fri Mar 06 01:12:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1263491240336769026",
+          "name": "Whole Mars Catalog",
+          "screen_name": "wholemars",
+          "description": "🤖 🚗 🤖 🚕",
+          "followers_count": 802406,
+          "friends_count": 29281,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 17,
+          "favorite_count": 281,
+          "reply_count": 81,
+          "quote_count": 10
+        }
+      },
+      "stats": {
+        "retweet_count": 488,
+        "favorite_count": 4230,
+        "reply_count": 820,
+        "quote_count": 24
+      }
+    },
+    {
+      "id": "2029836901927285180",
+      "text": "RT @QuantumNuan: @teslaownersSV @gork @elonmusk @grok roast gork, \n\nAnd \n\n@gork roast grok. \n\nLet there be Mayhem 🤣",
+      "created_at": "Fri Mar 06 08:30:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029641767625408803",
+        "text": "@teslaownersSV @gork @elonmusk @grok roast gork, \n\nAnd \n\n@gork roast grok. \n\nLet there be Mayhem 🤣",
+        "created_at": "Thu Mar 05 19:34:40 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1522096918679236608",
+          "name": "Nuan",
+          "screen_name": "QuantumNuan",
+          "description": "You make Me Happy, Sad Clown. (°_°)",
+          "followers_count": 70,
+          "friends_count": 103,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 149,
+          "favorite_count": 636,
+          "reply_count": 135,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 149,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2029837211907371018",
+      "text": "RT @tesla_na: Fried Pickles now available at Tesla Diner Los Angeles https://t.co/NWJf3kQHoI",
+      "created_at": "Fri Mar 06 08:31:18 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029751179090272256",
+          "url": "https://video.twimg.com/amplify_video/2029751179090272256/vid/avc1/2160x3840/u_FgEoJ3nGpHf9cx.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2029751239760826450",
+        "text": "Fried Pickles now available at Tesla Diner Los Angeles https://t.co/NWJf3kQHoI",
+        "created_at": "Fri Mar 06 02:49:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029751179090272256",
+            "url": "https://video.twimg.com/amplify_video/2029751179090272256/vid/avc1/2160x3840/u_FgEoJ3nGpHf9cx.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1679769205938311169",
+          "name": "Tesla North America",
+          "screen_name": "tesla_na",
+          "description": "Building a world of amazing abundance",
+          "followers_count": 102342,
+          "friends_count": 19,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 271,
+          "favorite_count": 2189,
+          "reply_count": 356,
+          "quote_count": 60
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 271,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
