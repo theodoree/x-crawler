@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 193138,
+    "followers_count": 193208,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260307",
-  "last_updated": "2026-03-07T20:06:18.638953",
-  "tweet_count": 10,
+  "last_updated": "2026-03-07T22:05:42.166528",
+  "tweet_count": 13,
   "tweets": [
     {
       "id": "2030071940501602375",
@@ -327,6 +327,177 @@
         "retweet_count": 1,
         "favorite_count": 13,
         "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030391059780370507",
+      "text": "RT @yetone: 人们：wow，openclaw 杀死了 GUI！GUI 只是为了人类方便的妥协产物，GUI 是被淘汰的东西！人类再也不需要 GUI 软件了！以后只有为 Agent 造软件的人才会活下来！\n\nopenclaw 作者：wow，我发现 GUI 已经大于 CLI…",
+      "created_at": "Sat Mar 07 21:12:06 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2030360955344052710",
+        "text": "人们：wow，openclaw 杀死了 GUI！GUI 只是为了人类方便的妥协产物，GUI 是被淘汰的东西！人类再也不需要 GUI 软件了！以后只有为 Agent 造软件的人才会活下来！\n\nopenclaw 作者：wow，我发现 GUI 已经大于 CLI 了，GUI 竟然不用多开窗口哎！简直爽爆了！",
+        "created_at": "Sat Mar 07 19:12:28 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2030330442520445371",
+          "text": "Oh right i realize hell freezes over, we reached the point where app &gt; cli\n\nThat combined with the speed increase also means less windows necessary, codex goes brrrr now! https://t.co/jZroy2GaA1 https://t.co/dJe4ReyZfg",
+          "created_at": "Sat Mar 07 17:11:13 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2030330433926221824",
+              "url": "https://pbs.twimg.com/media/HC0uxcLWUAAlY-4.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "25401953",
+            "name": "Peter Steinberger 🦞",
+            "screen_name": "steipete",
+            "description": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+            "followers_count": 418030,
+            "friends_count": 2282,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 50,
+            "favorite_count": 1505,
+            "reply_count": 163,
+            "quote_count": 50
+          }
+        },
+        "user": {
+          "id": "147786784",
+          "name": "yetone",
+          "screen_name": "yetone",
+          "description": "Work at @isoformai\n\nBuilt a Coding Agent for Vim: avante.nvim\n\nBuilding: https://t.co/pfq9srNgsd\n\nBuilding: https://t.co/fpGnPR5t9C\n\nBuilding: https://t.co/cBN1yzJPIG",
+          "followers_count": 79102,
+          "friends_count": 4479,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 35,
+          "reply_count": 7,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030393386708898244",
+      "text": "RT @eraera: 3 4不赞同，软件行业从来不缺复杂问题。crud横行只是因为之前程序猿贵，只能搞crud",
+      "created_at": "Sat Mar 07 21:21:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2030361853717884993",
+        "text": "3 4不赞同，软件行业从来不缺复杂问题。crud横行只是因为之前程序猿贵，只能搞crud",
+        "created_at": "Sat Mar 07 19:16:02 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2030322285203370310",
+          "text": "近期对 AI 编程的一些认识：\n\n一、编辑器即将消失，Cursor 或将没落。\n\n事实就是，现在已经没多少人去动手敲代码了，工程师们大量使用 Codex 和 Claude Code 来处理编码工作，然后通过 Git 对比新旧代码，如果没问题就直接提交。\n\n二、代码质量变得廉价，将来没人会在意 AI 编程的“屎山”问题。\n\nAI 编程会带来明显的性能和代码膨胀问题。但“屎山”是源自人类自身脑容量的局限，而不是 AI 的局限。以 GPT 5.4 举例，单次可以处理高达 1M 的上下文。\n\n所以，你所认为的屎山，在 AI 面前可能从从容容。另外现有的硬件可以毫不费力的运行这些 AI 生产的软件，所以“屎山”不是问题，它只是工程师们的洁癖。\n\n三、编程技能变得廉价，没有编码经验的人，使用 AI 编程的生产效率更高。\n\n俗话说，乱拳打死老师傅，从古法编程过来的人，学过设计模式、快速排序的 N 种写法，以及所谓的程序设计艺术等等。但现在它们都不再奏效了，有了 AI，没人会在乎这些。\n\n反而是没有编程概念的新手，不关注代码质量，只关注结果，往往能 Vibe 的更快更好。这对小型项目来说，是完全没问题的。\n\n四、软件变得廉价，越来越多的软件公司正在倒闭\n\nAI 编程让人人都有了生产软件的能力，这在过去是程序员们的特权，但现在每个人都有掌握 AI 编程这个杠杆的权力。\n\n可以预见，随着AI 大语言模型的迭代，这些杠杆能撬动的价值只会越来越高。你只要掌握这种杠杆，不需要刻意学习专业技能，就能变得越来越强。\n\n软件将会变成快消品，变得价格低廉，生命周期短，同时也更强调精细化竞争。",
+          "created_at": "Sat Mar 07 16:38:49 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "766530325652484097",
+            "name": "Austin",
+            "screen_name": "austinit",
+            "description": "一个程序员，通过开发产品和投资赚钱。编程段子居多，请勿特别当真。",
+            "followers_count": 33387,
+            "friends_count": 312,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 8,
+            "favorite_count": 60,
+            "reply_count": 22,
+            "quote_count": 3
+          }
+        },
+        "user": {
+          "id": "50883",
+          "name": "eraera",
+          "screen_name": "eraera",
+          "description": "A blackbox is a network of blackboxes, the world is one such blackbox.",
+          "followers_count": 1128,
+          "friends_count": 194,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 6,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030402172962185277",
+      "text": "基于 AI Agent 的交互不是因为 CLI 多好，是因为基于 GUI 还没摸索出来，GUI 如果没设计好反而对使用效率是阻力。\n\n现在相当于先回归到原始 CLI 状态重新开始摸索 AI Agent 的最佳交互模式。",
+      "created_at": "Sat Mar 07 21:56:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030395082382491921",
+        "text": "GUI 死了，IDE也死了，你只需要 CLI。哦对了，你可能还是需要 Diff View 的，还有 git worktree ，LSP可能也得试试，Remote 也很重要。哦对了我们还做了一个 GUI App 包含了全部这些功能，你还可以在里面打开 integrated terminal。\n\n(手动狗头)",
+        "created_at": "Sat Mar 07 21:28:05 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "190219751",
+          "name": "rebornix",
+          "screen_name": "njukidreborn",
+          "description": "Peng Lyu. Eng Manager VS @Code & Copilot. Busy making the best editor for all. And sometimes @proxmobo and @agmente",
+          "followers_count": 4218,
+          "friends_count": 696,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 4,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 1,
         "quote_count": 0
       }
     }

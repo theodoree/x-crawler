@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236115658,
+    "followers_count": 236122003,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260307",
-  "last_updated": "2026-03-07T20:06:18.616232",
-  "tweet_count": 59,
+  "last_updated": "2026-03-07T22:05:42.179281",
+  "tweet_count": 60,
   "tweets": [
     {
       "id": "2030100379799802154",
@@ -2928,6 +2928,45 @@
         "favorite_count": 1320,
         "reply_count": 625,
         "quote_count": 25
+      }
+    },
+    {
+      "id": "2030390047908716665",
+      "text": "It’s not close",
+      "created_at": "Sat Mar 07 21:08:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030130765845905563",
+        "text": "Which would you rather have the Senate pass?",
+        "created_at": "Sat Mar 07 03:57:47 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 662357,
+          "friends_count": 3797,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4225,
+          "favorite_count": 8566,
+          "reply_count": 942,
+          "quote_count": 144
+        }
+      },
+      "stats": {
+        "retweet_count": 1182,
+        "favorite_count": 10051,
+        "reply_count": 1177,
+        "quote_count": 40
       }
     }
   ]
