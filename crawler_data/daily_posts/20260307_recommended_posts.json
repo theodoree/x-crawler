@@ -1,12 +1,1599 @@
 {
   "date": "20260307",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-07T06:11:21.086127",
-  "tweet_count": 216,
-  "unique_tweet_count": 216,
-  "total_crawled": 405,
-  "duplicates_removed": 189,
+  "last_crawl_time": "2026-03-07T08:07:16.391702",
+  "tweet_count": 244,
+  "unique_tweet_count": 244,
+  "total_crawled": 416,
+  "duplicates_removed": 172,
   "tweets": [
+    {
+      "id": "2030188983959916842",
+      "text": "RT @AdamLowisz: @elonmusk X needs more Grok DJ catgirls 😎🎧 https://t.co/RtsT5PWLwb",
+      "created_at": "Sat Mar 07 07:49:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2030180836113588224",
+          "url": "https://video.twimg.com/ext_tw_video/2030180836113588224/pu/vid/avc1/720x1072/wK_U1joTWzPDbB3s.mp4?tag=22",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2030180882447749429",
+        "text": "@elonmusk X needs more Grok DJ catgirls 😎🎧 https://t.co/RtsT5PWLwb",
+        "created_at": "Sat Mar 07 07:16:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030180836113588224",
+            "url": "https://video.twimg.com/ext_tw_video/2030180836113588224/pu/vid/avc1/720x1072/wK_U1joTWzPDbB3s.mp4?tag=22",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 48635,
+          "friends_count": 6074,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 73,
+          "favorite_count": 380,
+          "reply_count": 120,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 73,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030188642514182611",
+      "text": "RT @cb_doge: \"Elon Musk still works incredibly hard. I visited him recently, I left around midnight and he was still working. I think he mu…",
+      "created_at": "Sat Mar 07 07:47:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030183261071430074",
+        "text": "\"Elon Musk still works incredibly hard. I visited him recently, I left around midnight and he was still working. I think he must have gone till 2am. I don't know anybody who works as hard as him.\"\n\nElon works every waking hour, 7 days a week. That is why he wins. https://t.co/CcT0XGDuBM",
+        "created_at": "Sat Mar 07 07:26:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030183206339985409",
+            "url": "https://video.twimg.com/amplify_video/2030183206339985409/vid/avc1/1480x1080/cVDs3Tgb46oNCyO5.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1845586,
+          "friends_count": 910,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 119,
+          "favorite_count": 722,
+          "reply_count": 222,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 119,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030188528739451168",
+      "text": "RT @tetsuoai: xAI just dropped a Text to Speech API!\n\n5 voices (eve, ara, rex, sal, leo), inline speech tags, WebSocket streaming, and form…",
+      "created_at": "Sat Mar 07 07:47:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030186119724421628",
+        "text": "xAI just dropped a Text to Speech API!\n\n5 voices (eve, ara, rex, sal, leo), inline speech tags, WebSocket streaming, and format support from high-fidelity WAV all the way down to telephony mulaw.\n\nYou can write things like: \"So I walked in and [pause] there it was. [laugh] I honestly could not believe it!\"\n\nOr wrap sections: <whisper>It is a secret.</whisper>\nPauses, laughs, chuckles, sighs, breathing, pitch, speed, volume. Actual expressive control baked into the text itself.\n\nThree lines of curl to get started. No SDK needed.\nThis pairs with the xAI Realtime API. Voice in, voice out, Grok in the middle. The full stack is there now.\n\nBeta pricing. Go play with it.",
+        "created_at": "Sat Mar 07 07:37:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030185004702343168",
+            "url": "https://pbs.twimg.com/media/HCyqgWGboAAmJ14.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C · asm · AI & art via grok · @tetsuocorp · @7etsuo · @a_g_e_n_c\n\nAgenC //: 👾",
+          "followers_count": 231565,
+          "friends_count": 994,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 58,
+          "favorite_count": 334,
+          "reply_count": 83,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 58,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030187552997552253",
+      "text": "Grok Imagine gets better almost every day",
+      "created_at": "Sat Mar 07 07:43:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030180397053792268",
+        "text": "Grok Imagine Video is straight-up owning the Artificial Analysis Image-to-Video Arena leaderboard right now with that beastly 1,336 ELO score\n\nSource: @xDaily https://t.co/Yt9htrBSIV",
+        "created_at": "Sat Mar 07 07:15:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030132590015909888",
+            "url": "https://pbs.twimg.com/media/HCx61aLXkAAtjKF.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3166136,
+          "friends_count": 50736,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 43,
+          "reply_count": 25,
+          "quote_count": 4
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 203,
+        "favorite_count": 1306,
+        "reply_count": 585,
+        "quote_count": 17
+      }
+    },
+    {
+      "id": "2030187397099532706",
+      "text": "RT @XFreeze: SpaceX Falcon 9 created this beautiful \"jellyfish\" glow on its way up to deploy 29 Starlink satellites on March 4 https://t.co…",
+      "created_at": "Sat Mar 07 07:42:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030181449593409578",
+        "text": "SpaceX Falcon 9 created this beautiful \"jellyfish\" glow on its way up to deploy 29 Starlink satellites on March 4 https://t.co/zfebn68m2l",
+        "created_at": "Sat Mar 07 07:19:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030179172719677445",
+            "url": "https://pbs.twimg.com/media/HCylM4RaUAUKme-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 164291,
+          "friends_count": 1645,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 97,
+          "favorite_count": 492,
+          "reply_count": 101,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 97,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030184114800689600",
+      "text": "RT @VOLDEMORT2X: Lost dreams begins with love..\n\nA music video created using videos generated with Grok.\n\nMusic - Suno \nVideo - Grok Imagin…",
+      "created_at": "Sat Mar 07 07:29:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030154513798107346",
+        "text": "Lost dreams begins with love..\n\nA music video created using videos generated with Grok.\n\nMusic - Suno \nVideo - Grok Imagine\n\nMade by 🅶🆁🅾🅺\n\n@grok Imagine 💫\n\n https://t.co/RhsOVwQEqK",
+        "created_at": "Sat Mar 07 05:32:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1995716401147912192",
+            "url": "https://video.twimg.com/amplify_video/1995716401147912192/vid/avc1/1080x1522/WkbstrB83SNF8q2t.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1721704151615197184",
+          "name": "SPACELESS",
+          "screen_name": "VOLDEMORT2X",
+          "description": "Grok Imagine 💫",
+          "followers_count": 3411,
+          "friends_count": 672,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 93,
+          "favorite_count": 459,
+          "reply_count": 113,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 93,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030183773543776481",
+      "text": "RT @Z_XSophie: One image to Grok Imagine.\nResult: she dives in, swims through a glowing neon underwater world, and surfaces clean.\n30 secon…",
+      "created_at": "Sat Mar 07 07:28:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030005186073112610",
+        "text": "One image to Grok Imagine.\nResult: she dives in, swims through a glowing neon underwater world, and surfaces clean.\n30 seconds of pure flow. https://t.co/OYdKuwofcp",
+        "created_at": "Fri Mar 06 19:38:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030004814759829504",
+            "url": "https://video.twimg.com/amplify_video/2030004814759829504/vid/avc1/3840x2160/Om_UfWayyhezzB9c.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1445096722515087363",
+          "name": "SophieZX",
+          "screen_name": "Z_XSophie",
+          "description": "I’m here for EVERYTHING Elon: SpaceX, xAI, Tesla, Optimus, politics & details. And in the meantime Grok Imagine for the dreams. If not us, who? 🚀🎥",
+          "followers_count": 5377,
+          "friends_count": 2052,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 68,
+          "favorite_count": 468,
+          "reply_count": 97,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 68,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030182421287592420",
+      "text": "注意这一段：“Cursor 去年估算过，一个每月 200 美元的 Claude Code 订阅可能消耗高达 2000 美元的算力成本，这意味着 Anthropic 在大幅补贴。\n\n如今这种补贴力度似乎更加激进——据另一位接触过公司算力开支分析的人士称，这个 200 美元的套餐现在能消耗约 5000 美元的算力。”",
+      "created_at": "Sat Mar 07 07:23:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030162301001593064",
+        "text": "Forbes：Cursor 为 AI 编程霸主地位而战\n\n【1】\"战时状态\"\n\n1 月 5 日，Cursor 的员工们结束假期回到公司，迎接他们的是一场全员大会，演示文稿的标题赫然写着\"战时状态\"。\n\n假期期间，一些员工试用了 Anthropic 最新发布的模型 Opus 4.5，得出了一个令人不安的结论：这个模型的编程能力已经强到开发者不再需要逐行审查输出代码的程度。开发者不必再在 Cursor 的代码编辑器里与 AI 助手协作打磨代码，而是可以直接向自主运行的智能体（Agent）下达高层级指令，收到完整的功能模块——有时甚至是成品。这对 Cursor 来说是个大麻烦。\n\nCursor 的立身之本建立在一个截然不同的前提之上。CEO Michael Truell 在 2024 年接受 Forbes 采访时，将它描述为一种\"程序员的 Google Docs\"——一个人类与 AI 协同打磨代码的编辑器。\n\n但如果 AI 不再需要人类协作者，编辑器还有什么存在的必要？如果逐行编写和修改代码不再是程序员工作流的核心，Cursor 的核心产品逻辑就突然成了问号。\n\n在那场全员大会上，Cursor 管理层警告说，接下来几个月将是动荡期。项目可能被砍掉，优先级可能被重新洗牌。公司的新使命被标记为\"P0 #1\"（P0，即最高优先级任务）：\"打造最好的编程模型。\"\n\n不是最好的套壳产品，而是最好的模型。说这是一次氛围转变也好，在 Cursor 内部，这更像是一场清算。\n\n【2】增长与焦虑并存\n\n这正是当下局面如此令人错愕的原因。就在不久前，Cursor 看起来还几乎势不可挡。公司在 2025 年初的年化收入约为 1 亿美元，到 11 月就已突破 10 亿美元。最新一轮融资将公司估值推至近 300 亿美元，四位联合创始人全部跻身亿万富翁行列，Cursor 也跻身全球最有价值的 20 大私营公司之列。\n\n但在瞬息万变的 AI 世界里，势头的出现和消失都可能发生在一夜之间。\n\n到了 2 月，Anthropic 发布了更强大的 Opus 新版本后，X（前 Twitter）上开始涌现创业公司创始人的帖子，声称他们的团队已经抛弃了 Cursor，认为 Anthropic 和 OpenAI 这样的模型厂商会自己吃掉编程工具这一层。\n\n\"我提到的那些公司……大多数人的看法是，Cursor 今天就已经过时了。\"\n—— Insight Partners 联合创始人、前执行董事 Jerry Murdock，20VC 播客\n\n但数据讲述的是另一个故事。据知情人士透露，Cursor 的年化收入已突破 20 亿美元，三个月内翻了一番。企业信用卡公司 Ramp 和 Brex 的数据也显示收入持续增长至 2 月，不过 Ramp 指出 Cursor 在企业 AI 产品采购中的渗透率正在小幅下降。Claude Code 的强劲增长最终是否会冲击 Cursor 的增长，目前还不明朗。\n\n在公司内部，Cursor 管理层清楚地知道，软件开发的未来不在于逐行编写代码。作为应对，他们一直在构建研发实力，试图通过发表研究成果和利用海量专有数据，在发布最佳编程模型的竞赛中抢先一步，跑在 Anthropic 和 OpenAI 前面。与此同时，他们开始优先发展大型企业客户合同，因为企业合同比个人订阅更加稳定。\n\n目前，Cursor 的持续增长伴随着巨大的焦虑感。在公司内部，收入追踪一度让人分心到影响工作，以至于公司停止在 Slack 的 #numbers 频道发布每日收入数据。\n\n【3】精英大学校园\n\nCursor 由四位 MIT 好友在 2022 年创立，最初的方向是构建帮助机械工程师设计物理零件的模型。但几位创始人在这个领域毫无经验，于是果断转型，找到了让他们一飞冲天的产品方向：一款爆红的代码编辑器。公司超快的编程模型最终引爆了\"凭感觉编程\"（Vibe Coding）现象——由前特斯拉 AI 总监 Andrej Karpathy 提出——人们可以用自然语言甚至语音向 AI 模型描述需求，就能生成完整的 Web 应用。\n\nCursor 的创始人以及公司 400 名员工中的很大一部分都是二十五六岁的年轻人，整个公司与其说像一家企业，不如说更像一座精英大学校园。员工进办公室要脱鞋，经常工作到午夜之后，在公司洗澡，住的地方离办公室不过几个街区。\n\n---\n\n一年前，Cursor 还以\"只有 20 名员工、没有销售团队就把年化收入做到 1 亿美元\"的病毒式增长闻名。它的高速增长吸引了 Accel、Andreessen Horowitz 和 Thrive Capital 等重量级风投的关注，还获得了一些顶级模型的优先使用权。2025 年，Anthropic 让 Cursor 提前试用了自家模型，并利用 Cursor 的反馈来提升模型的编程能力，形成了一种\"竞合关系\"（co-opetition，既竞争又合作）。\n\n随着公司扩张到约 400 名员工，Cursor 已经占据了旧金山 North Beach 社区的四栋大楼，甚至把两栋办公楼之间公交站的广告位也征用了——贴上了一张印有全体员工姓名的海报。这大概就是 Cursor 版的\"到此一游\"。\n\n【4】转向智能体\n\n去年年初，Anthropic 主动联系了当时作为其最大客户的 Cursor，展示了一款名为 Claude Code 的新产品预览——这是一个界面极简的命令行工具，可以让开发者快速部署大批编程智能体。\n\n乍看之下，它似乎不会与 Cursor 的代码编辑器形成直接竞争。但事实已经不再如此。Claude Code 在六个月内年化收入就突破了 10 亿美元，上个月更是达到 25 亿美元，超过了 Cursor。与此同时，OpenAI 也在同一方向加速推进。2025 年 4 月重新上线编程智能体 Codex 后，CEO Sam Altman 表示其应用在第一周就被下载了超过 100 万次。\n\n创业公司创始人们告诉 Forbes，这场转变是深刻的。许多开发者不再逐行编写代码，而是开始\"指挥\"智能体——分配任务、审核输出、协调多个并行进程。\n\n\"这是软件开发诞生以来最大、最根本的变革。\"\n—— AI 语言学习应用 Speak 联合创始人兼 CTO Andrew Hsu\n\n该公司 50 人的工程团队全部在使用编程智能体（主要是 Claude Code，部分场景也用 Codex），原本需要数月才能上线的功能，现在几周就能交付。他说 Cursor 在代码审查中仍有一席之地，但这个角色正在缩小。\n\n【5】\"删掉产品\"\n\nCursor 的内部价值观里有一条直白的指令：\"删掉产品\"——这是在承认公司的未来在于类似 Claude Code 和 Codex 的编程智能体。上周，Cursor 宣布了对其\"Cloud Agents\"产品的重大更新：现在，多个智能体可以在各自独立的工作空间中同时处理不同任务，并记录工作过程。\n\n在内部，Cursor 管理层押注的是：企业客户会更看重一款不绑定单一模型提供商的产品。随着各家模型能力日新月异，天平随时可能倒向任何一方，这种担忧在开发者中与日俱增。\n\n【6】自研模型：降低依赖\n\nCursor 也在努力降低对 Anthropic 和 OpenAI 的依赖。他们的核心判断是：一个更小但专精于编程的模型——基于自有数据训练——即使面对竞争对手不断加大投入的大型前沿模型，也能保持竞争力。据知情人士透露，目前约有 20 名 AI 研究员在开发 Cursor 的 Composer 模型。这些模型以 DeepSeek、Kimi 和 Qwen 等强大的中国开源模型为基础，再通过额外训练和利用 Cursor 自有数据的强化学习进行优化。成效显著：Composer 1.5 速度快，是平台上第二受欢迎的模型，而且 Cursor 运行它的成本远低于采购 Anthropic 大模型的费用。不过对开发者来说价格仍然不低：根据 Cursor 官网信息，Composer 1.5 的输入价格为每百万 token 3.5 美元，而 OpenAI 的 GPT-5.3 Codex 在 Cursor 内的价格为 1.75 美元。\n\n【7】烧钱大战\n\n成本始终是一个挥之不去的挑战。Cursor 的大型竞争对手们愿意大举补贴。据一位了解公司内部分析的人士透露，Cursor 去年估算过，一个每月 200 美元的 Claude Code 订阅可能消耗高达 2000 美元的算力成本，这意味着 Anthropic 在大幅补贴。如今这种补贴力度似乎更加激进——据另一位接触过公司算力开支分析的人士称，这个 200 美元的套餐现在能消耗约 5000 美元的算力。\n\nCursor 也对部分用户进行补贴，但力度似乎不及 Anthropic。据知情人士透露，Cursor 的个人订阅利润率为负，但企业套餐的利润率为正。使用 Cursor 的企业可以选择 Teams 计划（面向初创公司，可随时取消），或者谈判签订企业合同（面向大型组织）。\n\n【8】押注企业客户\n\n拓展企业业务是通向稳定的一条路径。企业合同签约周期更长，但客户流失率更低。据知情人士称，Cursor 历史上只流失过一两个企业客户。但这些令人垂涎的企业合同在 Cursor 的营收中占比一直不高：据 Forbes 看到的文件显示，截至去年 11 月，企业合同仅占 Cursor 年化收入的 13.6%。据一位知情人士透露，如今 Cursor 约 60% 的收入来自企业客户，但 Forbes 无法确认其中企业合同的具体占比。\n\n公司的人员配置也反映了对企业市场的重视：一半员工专注于市场拓展相关职能。销售团队已经拿下了包括 Meta 和英伟达在内的大客户合同。\n\n【9】客户流失的信号\n\n压力正在不断累积。2 月份，房贷服务初创公司 Valon 的 90 多名员工取消了 Cursor 订阅。理由很直白：他们不再需要编辑器了。他们转向了 Claude Code 的强大智能体，将工作端到端全面自动化——系统间的数据迁移、Bug 修复——CEO Andrew Wang 表示这些任务的完成速度\"快了 10 倍\"。\n\n【10】多智能体的未来\n\n当软件开发界还在消化自主编程的冲击时，一个更新的范式正在浮现——多智能体系统：想象一下，一个开发者指挥着数十个智能体组成的团队，每个智能体都有自己的角色和职能，几乎就像人类队友一样协作。\n\n现在，Cursor 正在探索构建一个能管理数百个智能体同时协作的工具，他们内部称之为\"grind mode\"（智能体全力运转的高强度工作模式）。这其中有很多复杂问题需要解决：比如如何为每个智能体分配专门的角色。有时候，当这些智能体发现自己有太多\"同事\"时，就会开始偷懒、表现变差——跟人类一模一样。\n\n来源：Forbes: Cursor Goes To War For AI Coding Dominance\nhttps://t.co/5KtPVFMK8D",
+        "created_at": "Sat Mar 07 06:03:05 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030161969995456512",
+            "url": "https://pbs.twimg.com/media/HCyVjjIWIAAE0PM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 191029,
+          "friends_count": 1570,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 38,
+          "reply_count": 15,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 191029,
+        "friends_count": 1570,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 30,
+        "reply_count": 5,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2030180433929846823",
+      "text": "https://t.co/HxOa8Pp5My",
+      "created_at": "Sat Mar 07 07:15:09 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2030140480449835008",
+          "url": "https://video.twimg.com/amplify_video/2030140480449835008/vid/avc1/464x688/IIaVnK9I2g-1f-hO.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 556,
+        "favorite_count": 5094,
+        "reply_count": 2147,
+        "quote_count": 164
+      }
+    },
+    {
+      "id": "2030180202886627554",
+      "text": "RT @AdamLowisz: Almost 30 years ago 🫡🇺🇸 https://t.co/XS0F18c8kd",
+      "created_at": "Sat Mar 07 07:14:13 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030178481708122113",
+          "url": "https://pbs.twimg.com/media/HCykkqDawAE8pvy.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2030178485482758234",
+        "text": "Almost 30 years ago 🫡🇺🇸 https://t.co/XS0F18c8kd",
+        "created_at": "Sat Mar 07 07:07:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030178481708122113",
+            "url": "https://pbs.twimg.com/media/HCykkqDawAE8pvy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2030177277409906928",
+          "text": "19 years ago",
+          "created_at": "Sat Mar 07 07:02:36 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 236071350,
+            "friends_count": 1292,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 759,
+            "favorite_count": 5728,
+            "reply_count": 1103,
+            "quote_count": 36
+          }
+        },
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 48635,
+          "friends_count": 6074,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 118,
+          "favorite_count": 1144,
+          "reply_count": 187,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 118,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030179776141394376",
+      "text": "https://t.co/LfOYvCZFWn",
+      "created_at": "Sat Mar 07 07:12:32 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029883728231809024",
+          "url": "https://video.twimg.com/amplify_video/2029883728231809024/vid/avc1/464x688/nulg0ccZOdYOGWIa.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 865,
+        "favorite_count": 7293,
+        "reply_count": 1497,
+        "quote_count": 83
+      }
+    },
+    {
+      "id": "2030177363477041369",
+      "text": "RT @cb_doge: Post filters are now live on X profiles. https://t.co/TQNPq88Nhr",
+      "created_at": "Sat Mar 07 07:02:56 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2030175761865527306",
+          "url": "https://video.twimg.com/amplify_video/2030175761865527306/vid/avc1/1092x1080/6LaXDwSSD1mK9QsB.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2030176168989839815",
+        "text": "Post filters are now live on X profiles. https://t.co/TQNPq88Nhr",
+        "created_at": "Sat Mar 07 06:58:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030175761865527306",
+            "url": "https://video.twimg.com/amplify_video/2030175761865527306/vid/avc1/1092x1080/6LaXDwSSD1mK9QsB.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1845586,
+          "friends_count": 910,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 145,
+          "favorite_count": 693,
+          "reply_count": 236,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 145,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030177277409906928",
+      "text": "19 years ago",
+      "created_at": "Sat Mar 07 07:02:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030165297664303142",
+        "text": "Young Elon laying out his life's mission:\n\n- Help build the internet \n- Transition the world away from oil to clean energy \n- Make life multi-planetary (still working on it, but pretty damn close)\n\nElon basically scripted the last 25 years of human progress in one interview.\n\nWhat a blueprint.\n\nSource: @EvaFox @elonmusk",
+        "created_at": "Sat Mar 07 06:15:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030162828641107968",
+            "url": "https://video.twimg.com/amplify_video/2030162828641107968/vid/avc1/360x640/i58GNkcBf_I0z8uD.mp4?tag=21",
+            "bitrate": 950000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3166136,
+          "friends_count": 50736,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 106,
+          "favorite_count": 544,
+          "reply_count": 99,
+          "quote_count": 19
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 759,
+        "favorite_count": 5728,
+        "reply_count": 1103,
+        "quote_count": 36
+      }
+    },
+    {
+      "id": "2030176273381630062",
+      "text": "RT @Rothmus: https://t.co/iO6MPt7UKh",
+      "created_at": "Sat Mar 07 06:58:37 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030073907118534656",
+          "url": "https://pbs.twimg.com/media/HCxFdnWW8AAP2O9.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2030073909790302566",
+        "text": "https://t.co/iO6MPt7UKh",
+        "created_at": "Sat Mar 07 00:11:51 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030073907118534656",
+            "url": "https://pbs.twimg.com/media/HCxFdnWW8AAP2O9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 650924,
+          "friends_count": 2768,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 302,
+          "favorite_count": 4565,
+          "reply_count": 88,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 302,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030175668152193343",
+      "text": "RT @Tesla: FSD Supervised makes an 8h drive feel like a 30 minute errand",
+      "created_at": "Sat Mar 07 06:56:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030062487098499472",
+        "text": "FSD Supervised makes an 8h drive feel like a 30 minute errand",
+        "created_at": "Fri Mar 06 23:26:28 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24715047,
+          "friends_count": 55,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 384,
+          "favorite_count": 4155,
+          "reply_count": 407,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 384,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030175460819394593",
+      "text": "Yes",
+      "created_at": "Sat Mar 07 06:55:23 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029949668759609672",
+        "text": "You don't get social peace unless you're willing to permanently incarcerate -- or eliminate -- the worst 1% of society.",
+        "created_at": "Fri Mar 06 15:58:10 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "319495411",
+          "name": "Peter St Onge, Ph.D.",
+          "screen_name": "profstonge",
+          "description": "Daily Videos on Economics and Freedom\nFormer-professor, ex-bartender. \nWeekly Articles at https://t.co/kD3fDmtXws\nFollow and tap (🔔) for notifications",
+          "followers_count": 295033,
+          "friends_count": 12913,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 404,
+          "favorite_count": 2250,
+          "reply_count": 125,
+          "quote_count": 27
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 997,
+        "favorite_count": 9332,
+        "reply_count": 846,
+        "quote_count": 52
+      }
+    },
+    {
+      "id": "2030174979858264477",
+      "text": "帮转",
+      "created_at": "Sat Mar 07 06:53:28 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030161507338834166",
+        "text": "帮转一个前端岗位，方向还挺难得。\n\n飞猪北京交通前端 P6，既有真实的大业务场景，也有 Agent 落地和团队 AI 提效相关工作，不只是做页面和需求交付。\n\n对业务前端和 AI 应用落地都感兴趣的，可以把简历发送到\nshuke.cl@alibaba-inc.com",
+        "created_at": "Sat Mar 07 05:59:56 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1521688129559613440",
+          "name": "Tw93",
+          "screen_name": "HiTw93",
+          "description": "Father of Kaku · Mole · Pake • MiaoYan",
+          "followers_count": 120868,
+          "friends_count": 300,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 8,
+          "reply_count": 3,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 191029,
+        "friends_count": 1570,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030172278378614991",
+      "text": "RT @RokoMijic: Many people don't understand just how brutal diminishing returns in theoretical physics were. \n\nPhysics barely existed befor…",
+      "created_at": "Sat Mar 07 06:42:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029998388620493225",
+        "text": "Many people don't understand just how brutal diminishing returns in theoretical physics were. \n\nPhysics barely existed before 1820. After 1970, there was essentially nothing left to discover. \n\nIn 1819 there were probably less than 100 full-time paid physicists in the whole world. \n\nBy 2026 there are probably about a million physicists across academia and industry, and that number was already huge in the 1970s when physics sort of \"ended\" with QCD and electroweak unification. \n\nA small, brave band of gentlemen-scholars and amateurs worked out the most important parts of physical law in the 1800s. People doing it as a hobby! \n\nToday, vast armies of professionals equipped with supercomputers toil away in the quantum gravity dungeon, unable to make progress. \n\nDiminishing returns are brutal.",
+        "created_at": "Fri Mar 06 19:11:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2029990717225926858",
+          "text": "my point is that the low hanging fruits of physics were all picked in a brief window from about 1820 to 1970. \n\nBefore that, it was difficult to get anything done at all, there was no funding and almost nobody worked on physics professionally.\n\nAfter that, there were ~millions of people working on physics research but nobody really made any important progress because it was all too hard, too data-poor and unconstrained. \n\nIf you were born such that your productive years were outside this window, well bad luck",
+          "created_at": "Fri Mar 06 18:41:17 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1270449309402759171",
+            "name": "Roko 🐉",
+            "screen_name": "RokoMijic",
+            "description": "Radical Centrist, Transhumanist, Rationalist.\n\nhttps://t.co/KdIi1WetaJ",
+            "followers_count": 24601,
+            "friends_count": 2195,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 16,
+            "favorite_count": 551,
+            "reply_count": 18,
+            "quote_count": 5
+          }
+        },
+        "user": {
+          "id": "1270449309402759171",
+          "name": "Roko 🐉",
+          "screen_name": "RokoMijic",
+          "description": "Radical Centrist, Transhumanist, Rationalist.\n\nhttps://t.co/KdIi1WetaJ",
+          "followers_count": 24601,
+          "friends_count": 2195,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 446,
+          "favorite_count": 6080,
+          "reply_count": 445,
+          "quote_count": 81
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 446,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030169565167243521",
+      "text": "RT @JessePeltan: The beginning of wisdom is to call things by their proper name.\n\n- Confucius",
+      "created_at": "Sat Mar 07 06:31:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030162920554856501",
+        "text": "The beginning of wisdom is to call things by their proper name.\n\n- Confucius",
+        "created_at": "Sat Mar 07 06:05:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 70027,
+          "friends_count": 420,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 260,
+          "favorite_count": 1629,
+          "reply_count": 293,
+          "quote_count": 51
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 260,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030169514189688892",
+      "text": "RT @KatieMiller: As grooming gangs take over the UK, London’s birth rate is collapsing faster than anywhere else in the country. \n\nIt now h…",
+      "created_at": "Sat Mar 07 06:31:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029994614690648251",
+        "text": "As grooming gangs take over the UK, London’s birth rate is collapsing faster than anywhere else in the country. \n\nIt now has a birth rate of a paltry 1.2 births per woman. \n\nLondon faces a serious risk of becoming a childless city. The UK will cease to exist as it’s known today. https://t.co/oBQZZe5Pey",
+        "created_at": "Fri Mar 06 18:56:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029994610252976128",
+            "url": "https://pbs.twimg.com/media/HCv9V7gWEAAxeql.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 211907,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 199,
+          "favorite_count": 1053,
+          "reply_count": 170,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 199,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030169210828247376",
+      "text": "RT @JDVance: https://t.co/75TruOcJZg",
+      "created_at": "Sat Mar 07 06:30:33 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030116440792043520",
+          "url": "https://pbs.twimg.com/media/HCxsJZoXEAAKgXZ.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2030116776038568333",
+        "text": "https://t.co/75TruOcJZg",
+        "created_at": "Sat Mar 07 03:02:11 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030116440792043520",
+            "url": "https://pbs.twimg.com/media/HCxsJZoXEAAKgXZ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1542228578",
+          "name": "JD Vance",
+          "screen_name": "JDVance",
+          "description": "Christian, husband, dad. Vice President of the United States.",
+          "followers_count": 5262091,
+          "friends_count": 1145,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7841,
+          "favorite_count": 49670,
+          "reply_count": 3526,
+          "quote_count": 298
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7841,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030169046923325527",
+      "text": "RT @XFreeze: Grok Imagine audio just got even better\n\nImproved sound quality with audio that actually matches your scenes https://t.co/zH1p…",
+      "created_at": "Sat Mar 07 06:29:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030102971820999035",
+        "text": "Grok Imagine audio just got even better\n\nImproved sound quality with audio that actually matches your scenes https://t.co/zH1prwtIAK",
+        "created_at": "Sat Mar 07 02:07:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030102375994957824",
+            "url": "https://video.twimg.com/amplify_video/2030102375994957824/vid/avc1/954x720/05h544yB3_9dcp0i.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 164291,
+          "friends_count": 1645,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 116,
+          "favorite_count": 646,
+          "reply_count": 133,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 116,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030168071701418032",
+      "text": "Cool milestone",
+      "created_at": "Sat Mar 07 06:26:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029878357731492187",
+        "text": "Yesterday, Tesla surpassed the Volkswagen Group in quarterly sales in Norway. 🇳🇴\n\nThe core of VW Group includes the brands Volkswagen, Škoda, Audi, SEAT/Cupra, and Porsche. https://t.co/oDnPscvqWB",
+        "created_at": "Fri Mar 06 11:14:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029876611554643968",
+            "url": "https://pbs.twimg.com/media/HCuSBgGWkAAHocD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20472409",
+          "name": "Roland Pircher",
+          "screen_name": "piloly",
+          "description": "Visualization of Tesla sales & financial data to separate signal from noise.\n\nTesla & Musk supporter and long term $TSLA investor since 2017.",
+          "followers_count": 28206,
+          "friends_count": 420,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 160,
+          "favorite_count": 1449,
+          "reply_count": 71,
+          "quote_count": 33
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 889,
+        "favorite_count": 9921,
+        "reply_count": 778,
+        "quote_count": 31
+      }
+    },
+    {
+      "id": "2030167535782649989",
+      "text": "Just press the switch",
+      "created_at": "Sat Mar 07 06:23:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030152895149265404",
+        "text": "https://t.co/oHDYM4pUTt",
+        "created_at": "Sat Mar 07 05:25:43 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030152892431355904",
+            "url": "https://pbs.twimg.com/media/HCyNTKkaUAA9kU9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 236071350,
+          "friends_count": 1292,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2042,
+          "favorite_count": 18849,
+          "reply_count": 1322,
+          "quote_count": 138
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1031,
+        "favorite_count": 7169,
+        "reply_count": 1211,
+        "quote_count": 134
+      }
+    },
+    {
+      "id": "2030166830451397096",
+      "text": "因为做自媒体的自己今年真的35岁了😂",
+      "created_at": "Sat Mar 07 06:21:05 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030148242869301669",
+        "text": "【AI时代的程序员】去年还说35岁危机，现在说35真香，然后去蛐蛐零零后无活路。这些sb自媒体真是一点底线都没有。",
+        "created_at": "Sat Mar 07 05:07:14 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1712095004",
+          "name": "i5ting",
+          "screen_name": "i5ting",
+          "description": "前阿里，字节前端技术专家，关注Node.js AI Agent开发和Moonbit语言",
+          "followers_count": 12699,
+          "friends_count": 2942,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 15,
+          "reply_count": 1,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 191029,
+        "friends_count": 1570,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 38,
+        "reply_count": 13,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2030165554879942660",
+      "text": "RT @dvorahfr: xAI, understanding the Universe with Grok Imagine\n\nPrompt share with my subscribers in the thread⬇️ https://t.co/ei528FddZs",
+      "created_at": "Sat Mar 07 06:16:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029936241748164608",
+          "url": "https://video.twimg.com/amplify_video/2029936241748164608/vid/avc1/1072x720/x-XCWaA8i7Couvaz.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2029945397238522263",
+        "text": "xAI, understanding the Universe with Grok Imagine\n\nPrompt share with my subscribers in the thread⬇️ https://t.co/ei528FddZs",
+        "created_at": "Fri Mar 06 15:41:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029936241748164608",
+            "url": "https://video.twimg.com/amplify_video/2029936241748164608/vid/avc1/1072x720/x-XCWaA8i7Couvaz.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 119183,
+          "friends_count": 3460,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 142,
+          "favorite_count": 814,
+          "reply_count": 113,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 142,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030165346280497164",
+      "text": "Tesla Diner food is great",
+      "created_at": "Sat Mar 07 06:15:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029344840614592767",
+        "text": "Bite me https://t.co/91dBcFg4j2",
+        "created_at": "Wed Mar 04 23:54:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029344823195717632",
+            "url": "https://pbs.twimg.com/media/HCmuXWFb0AAH7xL.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1679769205938311169",
+          "name": "Tesla North America",
+          "screen_name": "tesla_na",
+          "description": "Building a world of amazing abundance",
+          "followers_count": 102674,
+          "friends_count": 19,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 489,
+          "favorite_count": 5340,
+          "reply_count": 494,
+          "quote_count": 102
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1500,
+        "favorite_count": 21638,
+        "reply_count": 2148,
+        "quote_count": 95
+      }
+    },
+    {
+      "id": "2030165244405026912",
+      "text": "RT @danWpriestley: Winter testing underway",
+      "created_at": "Sat Mar 07 06:14:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030094691652485501",
+        "text": "Winter testing underway",
+        "created_at": "Sat Mar 07 01:34:26 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2030094328627089859",
+          "text": "North to the future https://t.co/N4fTWUa5iJ",
+          "created_at": "Sat Mar 07 01:32:59 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2030094312651001856",
+              "url": "https://pbs.twimg.com/media/HCxYBX4akAASUhc.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2030094312613220352",
+              "url": "https://pbs.twimg.com/media/HCxYBXvaEAAOhXN.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2030094312445464581",
+              "url": "https://pbs.twimg.com/media/HCxYBXHaUAUaWCX.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1867171663961362432",
+            "name": "Tesla Semi",
+            "screen_name": "tesla_semi",
+            "description": "BAMF – the future of electric trucking",
+            "followers_count": 37605,
+            "friends_count": 6,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 764,
+            "favorite_count": 8256,
+            "reply_count": 474,
+            "quote_count": 203
+          }
+        },
+        "user": {
+          "id": "19069944",
+          "name": "Dan Priestley",
+          "screen_name": "danWpriestley",
+          "description": "Semi @ Tesla. Perpetually curious",
+          "followers_count": 15435,
+          "friends_count": 105,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 140,
+          "favorite_count": 1539,
+          "reply_count": 91,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236071350,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 140,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2030162301001593064",
       "text": "Forbes：Cursor 为 AI 编程霸主地位而战\n\n【1】\"战时状态\"\n\n1 月 5 日，Cursor 的员工们结束假期回到公司，迎接他们的是一场全员大会，演示文稿的标题赫然写着\"战时状态\"。\n\n假期期间，一些员工试用了 Anthropic 最新发布的模型 Opus 4.5，得出了一个令人不安的结论：这个模型的编程能力已经强到开发者不再需要逐行审查输出代码的程度。开发者不必再在 Cursor 的代码编辑器里与 AI 助手协作打磨代码，而是可以直接向自主运行的智能体（Agent）下达高层级指令，收到完整的功能模块——有时甚至是成品。这对 Cursor 来说是个大麻烦。\n\nCursor 的立身之本建立在一个截然不同的前提之上。CEO Michael Truell 在 2024 年接受 Forbes 采访时，将它描述为一种\"程序员的 Google Docs\"——一个人类与 AI 协同打磨代码的编辑器。\n\n但如果 AI 不再需要人类协作者，编辑器还有什么存在的必要？如果逐行编写和修改代码不再是程序员工作流的核心，Cursor 的核心产品逻辑就突然成了问号。\n\n在那场全员大会上，Cursor 管理层警告说，接下来几个月将是动荡期。项目可能被砍掉，优先级可能被重新洗牌。公司的新使命被标记为\"P0 #1\"（P0，即最高优先级任务）：\"打造最好的编程模型。\"\n\n不是最好的套壳产品，而是最好的模型。说这是一次氛围转变也好，在 Cursor 内部，这更像是一场清算。\n\n【2】增长与焦虑并存\n\n这正是当下局面如此令人错愕的原因。就在不久前，Cursor 看起来还几乎势不可挡。公司在 2025 年初的年化收入约为 1 亿美元，到 11 月就已突破 10 亿美元。最新一轮融资将公司估值推至近 300 亿美元，四位联合创始人全部跻身亿万富翁行列，Cursor 也跻身全球最有价值的 20 大私营公司之列。\n\n但在瞬息万变的 AI 世界里，势头的出现和消失都可能发生在一夜之间。\n\n到了 2 月，Anthropic 发布了更强大的 Opus 新版本后，X（前 Twitter）上开始涌现创业公司创始人的帖子，声称他们的团队已经抛弃了 Cursor，认为 Anthropic 和 OpenAI 这样的模型厂商会自己吃掉编程工具这一层。\n\n\"我提到的那些公司……大多数人的看法是，Cursor 今天就已经过时了。\"\n—— Insight Partners 联合创始人、前执行董事 Jerry Murdock，20VC 播客\n\n但数据讲述的是另一个故事。据知情人士透露，Cursor 的年化收入已突破 20 亿美元，三个月内翻了一番。企业信用卡公司 Ramp 和 Brex 的数据也显示收入持续增长至 2 月，不过 Ramp 指出 Cursor 在企业 AI 产品采购中的渗透率正在小幅下降。Claude Code 的强劲增长最终是否会冲击 Cursor 的增长，目前还不明朗。\n\n在公司内部，Cursor 管理层清楚地知道，软件开发的未来不在于逐行编写代码。作为应对，他们一直在构建研发实力，试图通过发表研究成果和利用海量专有数据，在发布最佳编程模型的竞赛中抢先一步，跑在 Anthropic 和 OpenAI 前面。与此同时，他们开始优先发展大型企业客户合同，因为企业合同比个人订阅更加稳定。\n\n目前，Cursor 的持续增长伴随着巨大的焦虑感。在公司内部，收入追踪一度让人分心到影响工作，以至于公司停止在 Slack 的 #numbers 频道发布每日收入数据。\n\n【3】精英大学校园\n\nCursor 由四位 MIT 好友在 2022 年创立，最初的方向是构建帮助机械工程师设计物理零件的模型。但几位创始人在这个领域毫无经验，于是果断转型，找到了让他们一飞冲天的产品方向：一款爆红的代码编辑器。公司超快的编程模型最终引爆了\"凭感觉编程\"（Vibe Coding）现象——由前特斯拉 AI 总监 Andrej Karpathy 提出——人们可以用自然语言甚至语音向 AI 模型描述需求，就能生成完整的 Web 应用。\n\nCursor 的创始人以及公司 400 名员工中的很大一部分都是二十五六岁的年轻人，整个公司与其说像一家企业，不如说更像一座精英大学校园。员工进办公室要脱鞋，经常工作到午夜之后，在公司洗澡，住的地方离办公室不过几个街区。\n\n---\n\n一年前，Cursor 还以\"只有 20 名员工、没有销售团队就把年化收入做到 1 亿美元\"的病毒式增长闻名。它的高速增长吸引了 Accel、Andreessen Horowitz 和 Thrive Capital 等重量级风投的关注，还获得了一些顶级模型的优先使用权。2025 年，Anthropic 让 Cursor 提前试用了自家模型，并利用 Cursor 的反馈来提升模型的编程能力，形成了一种\"竞合关系\"（co-opetition，既竞争又合作）。\n\n随着公司扩张到约 400 名员工，Cursor 已经占据了旧金山 North Beach 社区的四栋大楼，甚至把两栋办公楼之间公交站的广告位也征用了——贴上了一张印有全体员工姓名的海报。这大概就是 Cursor 版的\"到此一游\"。\n\n【4】转向智能体\n\n去年年初，Anthropic 主动联系了当时作为其最大客户的 Cursor，展示了一款名为 Claude Code 的新产品预览——这是一个界面极简的命令行工具，可以让开发者快速部署大批编程智能体。\n\n乍看之下，它似乎不会与 Cursor 的代码编辑器形成直接竞争。但事实已经不再如此。Claude Code 在六个月内年化收入就突破了 10 亿美元，上个月更是达到 25 亿美元，超过了 Cursor。与此同时，OpenAI 也在同一方向加速推进。2025 年 4 月重新上线编程智能体 Codex 后，CEO Sam Altman 表示其应用在第一周就被下载了超过 100 万次。\n\n创业公司创始人们告诉 Forbes，这场转变是深刻的。许多开发者不再逐行编写代码，而是开始\"指挥\"智能体——分配任务、审核输出、协调多个并行进程。\n\n\"这是软件开发诞生以来最大、最根本的变革。\"\n—— AI 语言学习应用 Speak 联合创始人兼 CTO Andrew Hsu\n\n该公司 50 人的工程团队全部在使用编程智能体（主要是 Claude Code，部分场景也用 Codex），原本需要数月才能上线的功能，现在几周就能交付。他说 Cursor 在代码审查中仍有一席之地，但这个角色正在缩小。\n\n【5】\"删掉产品\"\n\nCursor 的内部价值观里有一条直白的指令：\"删掉产品\"——这是在承认公司的未来在于类似 Claude Code 和 Codex 的编程智能体。上周，Cursor 宣布了对其\"Cloud Agents\"产品的重大更新：现在，多个智能体可以在各自独立的工作空间中同时处理不同任务，并记录工作过程。\n\n在内部，Cursor 管理层押注的是：企业客户会更看重一款不绑定单一模型提供商的产品。随着各家模型能力日新月异，天平随时可能倒向任何一方，这种担忧在开发者中与日俱增。\n\n【6】自研模型：降低依赖\n\nCursor 也在努力降低对 Anthropic 和 OpenAI 的依赖。他们的核心判断是：一个更小但专精于编程的模型——基于自有数据训练——即使面对竞争对手不断加大投入的大型前沿模型，也能保持竞争力。据知情人士透露，目前约有 20 名 AI 研究员在开发 Cursor 的 Composer 模型。这些模型以 DeepSeek、Kimi 和 Qwen 等强大的中国开源模型为基础，再通过额外训练和利用 Cursor 自有数据的强化学习进行优化。成效显著：Composer 1.5 速度快，是平台上第二受欢迎的模型，而且 Cursor 运行它的成本远低于采购 Anthropic 大模型的费用。不过对开发者来说价格仍然不低：根据 Cursor 官网信息，Composer 1.5 的输入价格为每百万 token 3.5 美元，而 OpenAI 的 GPT-5.3 Codex 在 Cursor 内的价格为 1.75 美元。\n\n【7】烧钱大战\n\n成本始终是一个挥之不去的挑战。Cursor 的大型竞争对手们愿意大举补贴。据一位了解公司内部分析的人士透露，Cursor 去年估算过，一个每月 200 美元的 Claude Code 订阅可能消耗高达 2000 美元的算力成本，这意味着 Anthropic 在大幅补贴。如今这种补贴力度似乎更加激进——据另一位接触过公司算力开支分析的人士称，这个 200 美元的套餐现在能消耗约 5000 美元的算力。\n\nCursor 也对部分用户进行补贴，但力度似乎不及 Anthropic。据知情人士透露，Cursor 的个人订阅利润率为负，但企业套餐的利润率为正。使用 Cursor 的企业可以选择 Teams 计划（面向初创公司，可随时取消），或者谈判签订企业合同（面向大型组织）。\n\n【8】押注企业客户\n\n拓展企业业务是通向稳定的一条路径。企业合同签约周期更长，但客户流失率更低。据知情人士称，Cursor 历史上只流失过一两个企业客户。但这些令人垂涎的企业合同在 Cursor 的营收中占比一直不高：据 Forbes 看到的文件显示，截至去年 11 月，企业合同仅占 Cursor 年化收入的 13.6%。据一位知情人士透露，如今 Cursor 约 60% 的收入来自企业客户，但 Forbes 无法确认其中企业合同的具体占比。\n\n公司的人员配置也反映了对企业市场的重视：一半员工专注于市场拓展相关职能。销售团队已经拿下了包括 Meta 和英伟达在内的大客户合同。\n\n【9】客户流失的信号\n\n压力正在不断累积。2 月份，房贷服务初创公司 Valon 的 90 多名员工取消了 Cursor 订阅。理由很直白：他们不再需要编辑器了。他们转向了 Claude Code 的强大智能体，将工作端到端全面自动化——系统间的数据迁移、Bug 修复——CEO Andrew Wang 表示这些任务的完成速度\"快了 10 倍\"。\n\n【10】多智能体的未来\n\n当软件开发界还在消化自主编程的冲击时，一个更新的范式正在浮现——多智能体系统：想象一下，一个开发者指挥着数十个智能体组成的团队，每个智能体都有自己的角色和职能，几乎就像人类队友一样协作。\n\n现在，Cursor 正在探索构建一个能管理数百个智能体同时协作的工具，他们内部称之为\"grind mode\"（智能体全力运转的高强度工作模式）。这其中有很多复杂问题需要解决：比如如何为每个智能体分配专门的角色。有时候，当这些智能体发现自己有太多\"同事\"时，就会开始偷懒、表现变差——跟人类一模一样。\n\n来源：Forbes: Cursor Goes To War For AI Coding Dominance\nhttps://t.co/5KtPVFMK8D",
