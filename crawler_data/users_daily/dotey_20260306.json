@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 190793,
+    "followers_count": 190810,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260306",
-  "last_updated": "2026-03-06T22:07:34.829279",
-  "tweet_count": 13,
+  "last_updated": "2026-03-07T00:21:11.417680",
+  "tweet_count": 17,
   "tweets": [
     {
       "id": "2029788344670945643",
@@ -459,6 +459,182 @@
         "favorite_count": 6,
         "reply_count": 5,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2030044135542116646",
+      "text": "OpenAI 推出\"Codex for Open Source\"计划，向开源项目的核心维护者免费提供六个月的 ChatGPT Pro，外加 API 额度和安全工具的有条件使用权。\n\n这个计划脱胎于此前 100 万美元的 Codex 开源基金。之前那个基金主要提供 API 额度，帮助开源团队用 Codex 自动化 PR 审查等流程。\n\n现在升级了——直接送 ChatGPT Pro 账号，让维护者日常写代码、审代码、处理 issue 都能用上。\n\n申请门槛不算高——核心维护者或广泛使用的公开项目都可以申请，即便不完全符合标准，OpenAI 也鼓励提交并说明理由。",
+      "created_at": "Fri Mar 06 22:13:32 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029998191043911955",
+        "text": "We’re launching Codex for Open Source to support the contributors who keep open-source software running.\n\nMaintainers can use Codex to review code, understand large codebases, and strengthen security coverage without taking on even more invisible work.\n\nhttps://t.co/ulWYlf7zhz https://t.co/4WexIEcNms",
+        "created_at": "Fri Mar 06 19:10:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029998126640287747",
+            "url": "https://video.twimg.com/amplify_video/2029998126640287747/vid/avc1/1280x720/ZMdqbgIfCNQeqJ0i.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1633874951508721686",
+          "name": "OpenAI Developers",
+          "screen_name": "OpenAIDevs",
+          "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+          "followers_count": 283702,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 176,
+          "favorite_count": 1928,
+          "reply_count": 167,
+          "quote_count": 91
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 37,
+        "reply_count": 6,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2030049807310446831",
+      "text": "“天地万物，朕赐给你，才是你的，朕不给，你不能抢。” https://t.co/CDLwhMGC0c",
+      "created_at": "Fri Mar 06 22:36:05 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2030049688875855873",
+          "url": "https://video.twimg.com/amplify_video/2030049688875855873/vid/avc1/480x360/AGwdFpIHb7C1eCEc.mp4?tag=21",
+          "bitrate": 832000
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2030044205813580112",
+        "text": "@dotey 月饼味😂",
+        "created_at": "Fri Mar 06 22:13:49 +0000 2026",
+        "lang": "ja",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "766600184",
+          "name": "plp",
+          "screen_name": "colcod",
+          "description": "coder.GPT",
+          "followers_count": 210,
+          "friends_count": 1212,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030057864371270116",
+      "text": "原来这个 Tool loaded 是个 bug，我这两天也遇到了 https://t.co/A4nMcrqxoR",
+      "created_at": "Fri Mar 06 23:08:06 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030057788882198528",
+          "url": "https://pbs.twimg.com/media/HCw2zaPWoAAHm4Z.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2030035457179013235",
+        "text": "@melvynxdev @claudeai This isn’t hiding anything, this is a bug. Fix going out today.",
+        "created_at": "Fri Mar 06 21:39:03 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "159337660",
+          "name": "Boris Cherny",
+          "screen_name": "bcherny",
+          "description": "Claude Code @anthropicai",
+          "followers_count": 299123,
+          "friends_count": 129,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 381,
+          "reply_count": 22,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030059053737529658",
+      "text": "RT @vista8: https://t.co/ZdQsxPJjmp",
+      "created_at": "Fri Mar 06 23:12:49 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2029935446810308817",
+        "text": "https://t.co/ZdQsxPJjmp",
+        "created_at": "Fri Mar 06 15:01:39 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6690032",
+          "name": "向阳乔木",
+          "screen_name": "vista8",
+          "description": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+          "followers_count": 96953,
+          "friends_count": 1504,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 179,
+          "favorite_count": 673,
+          "reply_count": 18,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 179,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

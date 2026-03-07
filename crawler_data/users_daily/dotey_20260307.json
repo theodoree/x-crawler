@@ -1,0 +1,37 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 190810,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260307",
+  "last_updated": "2026-03-07T00:21:11.416005",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2030071940501602375",
+      "text": "因为实在受不了微博头条文章的难用，写了个 Skill 叫 baoyu-post-to-weibo\n 帮我发布头条文章，可以自动把markdown文档和配图发布到头条文章，自动写标题、正文，自动插入上传图片，自动上传设置封面图。\n\n这个 skill 小龙虾🦞也能用，第一次需要手动登录一下。目前还不够完善，不过持续完善中。具体效果见视频。\n\n安装方式：\nnpx skills add jimliu/baoyu-skills\n\n开源项目地址：https://t.co/9eQxbYR5MM",
+      "created_at": "Sat Mar 07 00:04:02 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2030071773090418688",
+          "url": "https://video.twimg.com/amplify_video/2030071773090418688/vid/avc1/2560x1440/1mjXiolmnLflhHhj.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    }
+  ]
+}
