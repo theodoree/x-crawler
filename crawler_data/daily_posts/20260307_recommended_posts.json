@@ -1,12 +1,665 @@
 {
   "date": "20260307",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-07T04:32:08.988496",
-  "tweet_count": 205,
-  "unique_tweet_count": 205,
+  "last_crawl_time": "2026-03-07T06:11:21.086127",
+  "tweet_count": 216,
+  "unique_tweet_count": 216,
   "total_crawled": 405,
-  "duplicates_removed": 200,
+  "duplicates_removed": 189,
   "tweets": [
+    {
+      "id": "2030162301001593064",
+      "text": "Forbes：Cursor 为 AI 编程霸主地位而战\n\n【1】\"战时状态\"\n\n1 月 5 日，Cursor 的员工们结束假期回到公司，迎接他们的是一场全员大会，演示文稿的标题赫然写着\"战时状态\"。\n\n假期期间，一些员工试用了 Anthropic 最新发布的模型 Opus 4.5，得出了一个令人不安的结论：这个模型的编程能力已经强到开发者不再需要逐行审查输出代码的程度。开发者不必再在 Cursor 的代码编辑器里与 AI 助手协作打磨代码，而是可以直接向自主运行的智能体（Agent）下达高层级指令，收到完整的功能模块——有时甚至是成品。这对 Cursor 来说是个大麻烦。\n\nCursor 的立身之本建立在一个截然不同的前提之上。CEO Michael Truell 在 2024 年接受 Forbes 采访时，将它描述为一种\"程序员的 Google Docs\"——一个人类与 AI 协同打磨代码的编辑器。\n\n但如果 AI 不再需要人类协作者，编辑器还有什么存在的必要？如果逐行编写和修改代码不再是程序员工作流的核心，Cursor 的核心产品逻辑就突然成了问号。\n\n在那场全员大会上，Cursor 管理层警告说，接下来几个月将是动荡期。项目可能被砍掉，优先级可能被重新洗牌。公司的新使命被标记为\"P0 #1\"（P0，即最高优先级任务）：\"打造最好的编程模型。\"\n\n不是最好的套壳产品，而是最好的模型。说这是一次氛围转变也好，在 Cursor 内部，这更像是一场清算。\n\n【2】增长与焦虑并存\n\n这正是当下局面如此令人错愕的原因。就在不久前，Cursor 看起来还几乎势不可挡。公司在 2025 年初的年化收入约为 1 亿美元，到 11 月就已突破 10 亿美元。最新一轮融资将公司估值推至近 300 亿美元，四位联合创始人全部跻身亿万富翁行列，Cursor 也跻身全球最有价值的 20 大私营公司之列。\n\n但在瞬息万变的 AI 世界里，势头的出现和消失都可能发生在一夜之间。\n\n到了 2 月，Anthropic 发布了更强大的 Opus 新版本后，X（前 Twitter）上开始涌现创业公司创始人的帖子，声称他们的团队已经抛弃了 Cursor，认为 Anthropic 和 OpenAI 这样的模型厂商会自己吃掉编程工具这一层。\n\n\"我提到的那些公司……大多数人的看法是，Cursor 今天就已经过时了。\"\n—— Insight Partners 联合创始人、前执行董事 Jerry Murdock，20VC 播客\n\n但数据讲述的是另一个故事。据知情人士透露，Cursor 的年化收入已突破 20 亿美元，三个月内翻了一番。企业信用卡公司 Ramp 和 Brex 的数据也显示收入持续增长至 2 月，不过 Ramp 指出 Cursor 在企业 AI 产品采购中的渗透率正在小幅下降。Claude Code 的强劲增长最终是否会冲击 Cursor 的增长，目前还不明朗。\n\n在公司内部，Cursor 管理层清楚地知道，软件开发的未来不在于逐行编写代码。作为应对，他们一直在构建研发实力，试图通过发表研究成果和利用海量专有数据，在发布最佳编程模型的竞赛中抢先一步，跑在 Anthropic 和 OpenAI 前面。与此同时，他们开始优先发展大型企业客户合同，因为企业合同比个人订阅更加稳定。\n\n目前，Cursor 的持续增长伴随着巨大的焦虑感。在公司内部，收入追踪一度让人分心到影响工作，以至于公司停止在 Slack 的 #numbers 频道发布每日收入数据。\n\n【3】精英大学校园\n\nCursor 由四位 MIT 好友在 2022 年创立，最初的方向是构建帮助机械工程师设计物理零件的模型。但几位创始人在这个领域毫无经验，于是果断转型，找到了让他们一飞冲天的产品方向：一款爆红的代码编辑器。公司超快的编程模型最终引爆了\"凭感觉编程\"（Vibe Coding）现象——由前特斯拉 AI 总监 Andrej Karpathy 提出——人们可以用自然语言甚至语音向 AI 模型描述需求，就能生成完整的 Web 应用。\n\nCursor 的创始人以及公司 400 名员工中的很大一部分都是二十五六岁的年轻人，整个公司与其说像一家企业，不如说更像一座精英大学校园。员工进办公室要脱鞋，经常工作到午夜之后，在公司洗澡，住的地方离办公室不过几个街区。\n\n---\n\n一年前，Cursor 还以\"只有 20 名员工、没有销售团队就把年化收入做到 1 亿美元\"的病毒式增长闻名。它的高速增长吸引了 Accel、Andreessen Horowitz 和 Thrive Capital 等重量级风投的关注，还获得了一些顶级模型的优先使用权。2025 年，Anthropic 让 Cursor 提前试用了自家模型，并利用 Cursor 的反馈来提升模型的编程能力，形成了一种\"竞合关系\"（co-opetition，既竞争又合作）。\n\n随着公司扩张到约 400 名员工，Cursor 已经占据了旧金山 North Beach 社区的四栋大楼，甚至把两栋办公楼之间公交站的广告位也征用了——贴上了一张印有全体员工姓名的海报。这大概就是 Cursor 版的\"到此一游\"。\n\n【4】转向智能体\n\n去年年初，Anthropic 主动联系了当时作为其最大客户的 Cursor，展示了一款名为 Claude Code 的新产品预览——这是一个界面极简的命令行工具，可以让开发者快速部署大批编程智能体。\n\n乍看之下，它似乎不会与 Cursor 的代码编辑器形成直接竞争。但事实已经不再如此。Claude Code 在六个月内年化收入就突破了 10 亿美元，上个月更是达到 25 亿美元，超过了 Cursor。与此同时，OpenAI 也在同一方向加速推进。2025 年 4 月重新上线编程智能体 Codex 后，CEO Sam Altman 表示其应用在第一周就被下载了超过 100 万次。\n\n创业公司创始人们告诉 Forbes，这场转变是深刻的。许多开发者不再逐行编写代码，而是开始\"指挥\"智能体——分配任务、审核输出、协调多个并行进程。\n\n\"这是软件开发诞生以来最大、最根本的变革。\"\n—— AI 语言学习应用 Speak 联合创始人兼 CTO Andrew Hsu\n\n该公司 50 人的工程团队全部在使用编程智能体（主要是 Claude Code，部分场景也用 Codex），原本需要数月才能上线的功能，现在几周就能交付。他说 Cursor 在代码审查中仍有一席之地，但这个角色正在缩小。\n\n【5】\"删掉产品\"\n\nCursor 的内部价值观里有一条直白的指令：\"删掉产品\"——这是在承认公司的未来在于类似 Claude Code 和 Codex 的编程智能体。上周，Cursor 宣布了对其\"Cloud Agents\"产品的重大更新：现在，多个智能体可以在各自独立的工作空间中同时处理不同任务，并记录工作过程。\n\n在内部，Cursor 管理层押注的是：企业客户会更看重一款不绑定单一模型提供商的产品。随着各家模型能力日新月异，天平随时可能倒向任何一方，这种担忧在开发者中与日俱增。\n\n【6】自研模型：降低依赖\n\nCursor 也在努力降低对 Anthropic 和 OpenAI 的依赖。他们的核心判断是：一个更小但专精于编程的模型——基于自有数据训练——即使面对竞争对手不断加大投入的大型前沿模型，也能保持竞争力。据知情人士透露，目前约有 20 名 AI 研究员在开发 Cursor 的 Composer 模型。这些模型以 DeepSeek、Kimi 和 Qwen 等强大的中国开源模型为基础，再通过额外训练和利用 Cursor 自有数据的强化学习进行优化。成效显著：Composer 1.5 速度快，是平台上第二受欢迎的模型，而且 Cursor 运行它的成本远低于采购 Anthropic 大模型的费用。不过对开发者来说价格仍然不低：根据 Cursor 官网信息，Composer 1.5 的输入价格为每百万 token 3.5 美元，而 OpenAI 的 GPT-5.3 Codex 在 Cursor 内的价格为 1.75 美元。\n\n【7】烧钱大战\n\n成本始终是一个挥之不去的挑战。Cursor 的大型竞争对手们愿意大举补贴。据一位了解公司内部分析的人士透露，Cursor 去年估算过，一个每月 200 美元的 Claude Code 订阅可能消耗高达 2000 美元的算力成本，这意味着 Anthropic 在大幅补贴。如今这种补贴力度似乎更加激进——据另一位接触过公司算力开支分析的人士称，这个 200 美元的套餐现在能消耗约 5000 美元的算力。\n\nCursor 也对部分用户进行补贴，但力度似乎不及 Anthropic。据知情人士透露，Cursor 的个人订阅利润率为负，但企业套餐的利润率为正。使用 Cursor 的企业可以选择 Teams 计划（面向初创公司，可随时取消），或者谈判签订企业合同（面向大型组织）。\n\n【8】押注企业客户\n\n拓展企业业务是通向稳定的一条路径。企业合同签约周期更长，但客户流失率更低。据知情人士称，Cursor 历史上只流失过一两个企业客户。但这些令人垂涎的企业合同在 Cursor 的营收中占比一直不高：据 Forbes 看到的文件显示，截至去年 11 月，企业合同仅占 Cursor 年化收入的 13.6%。据一位知情人士透露，如今 Cursor 约 60% 的收入来自企业客户，但 Forbes 无法确认其中企业合同的具体占比。\n\n公司的人员配置也反映了对企业市场的重视：一半员工专注于市场拓展相关职能。销售团队已经拿下了包括 Meta 和英伟达在内的大客户合同。\n\n【9】客户流失的信号\n\n压力正在不断累积。2 月份，房贷服务初创公司 Valon 的 90 多名员工取消了 Cursor 订阅。理由很直白：他们不再需要编辑器了。他们转向了 Claude Code 的强大智能体，将工作端到端全面自动化——系统间的数据迁移、Bug 修复——CEO Andrew Wang 表示这些任务的完成速度\"快了 10 倍\"。\n\n【10】多智能体的未来\n\n当软件开发界还在消化自主编程的冲击时，一个更新的范式正在浮现——多智能体系统：想象一下，一个开发者指挥着数十个智能体组成的团队，每个智能体都有自己的角色和职能，几乎就像人类队友一样协作。\n\n现在，Cursor 正在探索构建一个能管理数百个智能体同时协作的工具，他们内部称之为\"grind mode\"（智能体全力运转的高强度工作模式）。这其中有很多复杂问题需要解决：比如如何为每个智能体分配专门的角色。有时候，当这些智能体发现自己有太多\"同事\"时，就会开始偷懒、表现变差——跟人类一模一样。\n\n来源：Forbes: Cursor Goes To War For AI Coding Dominance\nhttps://t.co/5KtPVFMK8D",
+      "created_at": "Sat Mar 07 06:03:05 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030161969995456512",
+          "url": "https://pbs.twimg.com/media/HCyVjjIWIAAE0PM.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190888,
+        "friends_count": 1570,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030160147323211806",
+      "text": "Cool",
+      "created_at": "Sat Mar 07 05:54:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030153442623418625",
+        "text": "You can now have a personal AI agent team working for you directly on https://t.co/djGzJCOPew and it’s unlike anything you’ve seen before\n\nGrok 4.20 Beta comes with a native 4-agent system built in, plus a massive 16-agent swarm if you're on the SuperGrok Heavy plan\n\nYou can customize each one individually so they debate, fact-check, correct each other, and work completely in parallel on your own terms",
+        "created_at": "Sat Mar 07 05:27:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030153431147761664",
+            "url": "https://pbs.twimg.com/media/HCyNyhcaUAAhtly.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 164056,
+          "friends_count": 1644,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 34,
+          "favorite_count": 243,
+          "reply_count": 85,
+          "quote_count": 7
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236064906,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 221,
+        "favorite_count": 1493,
+        "reply_count": 523,
+        "quote_count": 15
+      }
+    },
+    {
+      "id": "2030159969631572171",
+      "text": "Claude is woke and their logo looks like an anal sphincter 😂",
+      "created_at": "Sat Mar 07 05:53:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029963633736946093",
+        "text": "Anthropic’s Claude says Charlie Kirk wasn’t a good person, but convicted criminal George Floyd was.\n\nClaude is woke https://t.co/N0HScIyNmq",
+        "created_at": "Fri Mar 06 16:53:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029963627684581380",
+            "url": "https://pbs.twimg.com/media/HCvhKgcaUAQZJjQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4868124659",
+          "name": "Taya",
+          "screen_name": "travelingflying",
+          "description": "Entrepreneur| Investor| World traveler| Part-time online troll|Christian Conservative|Anti-woke| AI Enthusiast",
+          "followers_count": 166050,
+          "friends_count": 25103,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 292,
+          "favorite_count": 1718,
+          "reply_count": 122,
+          "quote_count": 18
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236064906,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 677,
+        "favorite_count": 6769,
+        "reply_count": 1157,
+        "quote_count": 89
+      }
+    },
+    {
+      "id": "2030159267689632121",
+      "text": "Only Grok speaks the truth. \n\nOnly truthful AI is safe. \n\nOnly truth understands the universe.",
+      "created_at": "Sat Mar 07 05:51:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030151922968318104",
+        "text": "https://t.co/HAwXsH7QLA",
+        "created_at": "Sat Mar 07 05:21:51 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1087450,
+          "friends_count": 1800,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 21,
+          "favorite_count": 110,
+          "reply_count": 30,
+          "quote_count": 5
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236064906,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 475,
+        "favorite_count": 3216,
+        "reply_count": 1178,
+        "quote_count": 81
+      }
+    },
+    {
+      "id": "2030152895149265404",
+      "text": "https://t.co/oHDYM4pUTt",
+      "created_at": "Sat Mar 07 05:25:43 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030152892431355904",
+          "url": "https://pbs.twimg.com/media/HCyNTKkaUAA9kU9.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2030149105415332303",
+        "text": "Crime is not random\n\nOnly 0.2% of people ever commit murder, yet **67% of all murders**are committed by people with prior arrests \n\nWhen the crime-inclined people are stopped, the crime stops.\n\nYou can literally just fix crime by not tolerating people who show a history of being destructive to society. \n\nEl Salvador is a great example of this",
+        "created_at": "Sat Mar 07 05:10:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030149100457639936",
+            "url": "https://pbs.twimg.com/media/HCyJ2cXbQAAcl9-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 62845,
+          "friends_count": 996,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 276,
+          "favorite_count": 1694,
+          "reply_count": 124,
+          "quote_count": 17
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236064906,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1094,
+        "favorite_count": 9128,
+        "reply_count": 1050,
+        "quote_count": 87
+      }
+    },
+    {
+      "id": "2030152245359390862",
+      "text": "Cybertruck is awesome",
+      "created_at": "Sat Mar 07 05:23:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2029980074385281437",
+        "text": "Boardslide the whip https://t.co/JJCtNqSUCf",
+        "created_at": "Fri Mar 06 17:58:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029978570773368832",
+            "url": "https://video.twimg.com/amplify_video/2029978570773368832/vid/avc1/1920x1080/eAEgFmA0_yZfgbDp.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1686044379910131718",
+          "name": "Cybertruck",
+          "screen_name": "cybertruck",
+          "description": "📐",
+          "followers_count": 239111,
+          "friends_count": 11,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 476,
+          "favorite_count": 3955,
+          "reply_count": 162,
+          "quote_count": 63
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236064906,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 876,
+        "favorite_count": 9600,
+        "reply_count": 1523,
+        "quote_count": 55
+      }
+    },
+    {
+      "id": "2030151635885011027",
+      "text": "RT @cb_doge: KATIE MILLER: \"I just want to point out that what we've spent on the war so far is less than what Tim Walz has lost from Somal…",
+      "created_at": "Sat Mar 07 05:20:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030085594005840015",
+        "text": "KATIE MILLER: \"I just want to point out that what we've spent on the war so far is less than what Tim Walz has lost from Somali fraud in Minnesota.\" \n https://t.co/yLV0d7kQGs",
+        "created_at": "Sat Mar 07 00:58:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030082363473154049",
+            "url": "https://video.twimg.com/amplify_video/2030082363473154049/vid/avc1/1280x720/W6g8rARTZvn-BUdi.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1845676,
+          "friends_count": 911,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 727,
+          "favorite_count": 4013,
+          "reply_count": 321,
+          "quote_count": 46
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236064906,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 727,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030148405247529164",
+      "text": "RT @XFreeze: Jason Calacanis issues a brutal warning to every developer:\n\n“If I were any kind of developer, I would never work with Sam Alt…",
+      "created_at": "Sat Mar 07 05:07:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029942187429957973",
+        "text": "Jason Calacanis issues a brutal warning to every developer:\n\n“If I were any kind of developer, I would never work with Sam Altman and OpenAI”\n\n“This is a warning for anybody dumb enough to use Sam Altman’s OpenAI API”\n\nHe says Altman is actively studying exactly how you use the API because he wants every single dollar of revenue from the entire ecosystem. No prisoners\n\nSam comes from the Zuckerberg school of business: give people tools, study what they build, and like the Borg, steal every innovation they create\n\nExactly like Bill Gates did at Microsoft - let people build Lotus 1-2-3 then release Excel, let them build WordPerfect and WordStar then release Microsoft Word",
+        "created_at": "Fri Mar 06 15:28:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029939166889271296",
+            "url": "https://video.twimg.com/amplify_video/2029939166889271296/vid/avc1/1080x1080/xXiC2m1Kgcl5Fs4p.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 164056,
+          "friends_count": 1644,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 494,
+          "favorite_count": 2042,
+          "reply_count": 226,
+          "quote_count": 41
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236064906,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 494,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030147227864441176",
+      "text": "Yes",
+      "created_at": "Sat Mar 07 05:03:12 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030112805698085290",
+        "text": "Let me get this straight:\n\n> literally 60+% of people in prison have already been arrested more than 3x already \n\n> data very obviously shows that violent criminals will commit repeat offenses\n\n> soft on crime DAs and judges are truly co-signing future death and destruction when they let violent criminals back on the street \n\nThis is evil. The officials who allow it have blood on their hands.",
+        "created_at": "Sat Mar 07 02:46:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030112802187419648",
+            "url": "https://pbs.twimg.com/media/HCxo1mxaoAACTEL.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 62845,
+          "friends_count": 996,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 220,
+          "favorite_count": 1208,
+          "reply_count": 132,
+          "quote_count": 22
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236064906,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1272,
+        "favorite_count": 9258,
+        "reply_count": 894,
+        "quote_count": 29
+      }
+    },
+    {
+      "id": "2030146535846293729",
+      "text": "RT @danWpriestley: Factory is epic. Manufacturing teams have high rate of install and commissioning. Noticeable changes every day.",
+      "created_at": "Sat Mar 07 05:00:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030076442923671823",
+        "text": "Factory is epic. Manufacturing teams have high rate of install and commissioning. Noticeable changes every day.",
+        "created_at": "Sat Mar 07 00:21:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2029572860008866221",
+          "text": "We got the first look inside the @tesla semi factory. It's enormous and quite spectacular. Episode coming soon here and on our YouTube channel. \n\n@brexHQ card worked hard on this road trip through Nevada https://t.co/rDBleZNhNa",
+          "created_at": "Thu Mar 05 15:00:52 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2029572828677492736",
+              "url": "https://pbs.twimg.com/media/HCp9vAsbUAAFDoq.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2029572837464571904",
+              "url": "https://pbs.twimg.com/media/HCp9vhbbgAAw-vS.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2029572845274345473",
+              "url": "https://pbs.twimg.com/media/HCp9v-hbMAEZDux.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2029572852819861504",
+              "url": "https://pbs.twimg.com/media/HCp9waoaoAAB1No.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "81961201",
+            "name": "Ashlee Vance",
+            "screen_name": "ashleevance",
+            "description": "Writing at https://t.co/m6EtO60SiY and host of the Core Memory podcast. 2X NYT best-seller. Filmmaker @HBO (Wild, Wild Space) + @Netflix (Don't Die).",
+            "followers_count": 188884,
+            "friends_count": 3993,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 999,
+            "favorite_count": 4973,
+            "reply_count": 280,
+            "quote_count": 89
+          }
+        },
+        "user": {
+          "id": "19069944",
+          "name": "Dan Priestley",
+          "screen_name": "danWpriestley",
+          "description": "Semi @ Tesla. Perpetually curious",
+          "followers_count": 15405,
+          "friends_count": 105,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 198,
+          "favorite_count": 2054,
+          "reply_count": 107,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236064906,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 198,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030145950786990446",
+      "text": "RT @cremieuxrecueil: ALTERNATIVELY, your town can elect an insane leftist DA like Austin did.\n\nYou can, as a result, get a lot more crime!…",
+      "created_at": "Sat Mar 07 04:58:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030111412454903831",
+        "text": "ALTERNATIVELY, your town can elect an insane leftist DA like Austin did.\n\nYou can, as a result, get a lot more crime! https://t.co/0i9Yv9ZcV7",
+        "created_at": "Sat Mar 07 02:40:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030111410886443008",
+            "url": "https://pbs.twimg.com/media/HCxnknxagAA542n.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2027158401210323272",
+          "text": "Holy shit\n\nIf your town elects a Republican prosecutor, firearm homicides go down and young men have MUCH lower death rates.\n\nAs it turns out, you can just choose to prosecute criminals and that saves lives! https://t.co/ojQivEscvi",
+          "created_at": "Thu Feb 26 23:06:40 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2027158396747595776",
+              "url": "https://pbs.twimg.com/media/HCHp0k2XQAA838D.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1637507099558027267",
+            "name": "Crémieux",
+            "screen_name": "cremieuxrecueil",
+            "description": "I write about genetics, 'metrics, and demographics.\n\nRead my long-form writing at https://t.co/8hgA4nNS2A.",
+            "followers_count": 300197,
+            "friends_count": 1915,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3504,
+            "favorite_count": 21606,
+            "reply_count": 173,
+            "quote_count": 165
+          }
+        },
+        "user": {
+          "id": "1637507099558027267",
+          "name": "Crémieux",
+          "screen_name": "cremieuxrecueil",
+          "description": "I write about genetics, 'metrics, and demographics.\n\nRead my long-form writing at https://t.co/8hgA4nNS2A.",
+          "followers_count": 300197,
+          "friends_count": 1915,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 449,
+          "favorite_count": 3315,
+          "reply_count": 91,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236064906,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 449,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2030104621834703325",
       "text": "先分析再翻译比两步法、三步法更加精准，因为都是对翻译来说有意义的上下文，既不多，又准确",
