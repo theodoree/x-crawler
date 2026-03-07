@@ -1,12 +1,93 @@
 {
   "date": "20260307",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-07T16:06:32.642407",
-  "tweet_count": 264,
-  "unique_tweet_count": 264,
-  "total_crawled": 463,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-07T18:07:19.621498",
+  "tweet_count": 266,
+  "unique_tweet_count": 266,
+  "total_crawled": 464,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2030344496823533902",
+      "text": "误会了，只是基于原推扯蛋，不是说我自己35😅",
+      "created_at": "Sat Mar 07 18:07:04 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 192970,
+        "friends_count": 1571,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030320346709082388",
+      "text": "Another 𝕏 peak usage record this week",
+      "created_at": "Sat Mar 07 16:31:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030297427165446541",
+        "text": "March 1, 2026. 𝕏 breaks its own record.\n\n513 billion user-seconds. In one day.\n\nPrevious high? 417 billion. Gone.\n\nWhen the world moves, it moves on 𝕏. https://t.co/Ovz0bU1Ixt",
+        "created_at": "Sat Mar 07 15:00:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030276626957647873",
+            "url": "https://video.twimg.com/amplify_video/2030276626957647873/vid/avc1/1920x1080/vOXdXmxIZi3Cvhmc.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3168897,
+          "friends_count": 50736,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 112,
+          "favorite_count": 724,
+          "reply_count": 165,
+          "quote_count": 30
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236108421,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2143,
+        "favorite_count": 19940,
+        "reply_count": 2657,
+        "quote_count": 136
+      }
+    },
     {
       "id": "2030309530001612801",
       "text": "RT @piloly: During the first week of March, Tesla sold more cars in Norway than all its competitors combined, achieving a market share of 5…",
