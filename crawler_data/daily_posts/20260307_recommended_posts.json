@@ -1,12 +1,77 @@
 {
   "date": "20260307",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-07T14:06:30.382999",
-  "tweet_count": 263,
-  "unique_tweet_count": 263,
+  "last_crawl_time": "2026-03-07T16:06:32.642407",
+  "tweet_count": 264,
+  "unique_tweet_count": 264,
   "total_crawled": 463,
-  "duplicates_removed": 200,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2030309530001612801",
+      "text": "RT @piloly: During the first week of March, Tesla sold more cars in Norway than all its competitors combined, achieving a market share of 5…",
+      "created_at": "Sat Mar 07 15:48:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030231662299136203",
+        "text": "During the first week of March, Tesla sold more cars in Norway than all its competitors combined, achieving a market share of 53.4%. This was also Tesla's best March ever. 🇳🇴 https://t.co/fYN5ksRCXc",
+        "created_at": "Sat Mar 07 10:38:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030230259312844800",
+            "url": "https://pbs.twimg.com/media/HCzTqgqXYAABLjJ.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030230308553932800",
+            "url": "https://pbs.twimg.com/media/HCzTtYGWwAASMir.png"
+          },
+          {
+            "type": "photo",
+            "id": "2030230704290979840",
+            "url": "https://pbs.twimg.com/media/HCzUEaVa4AAWiQi.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20472409",
+          "name": "Roland Pircher",
+          "screen_name": "piloly",
+          "description": "Visualization of Tesla sales & financial data to separate signal from noise.\n\nTesla & Musk supporter and long term $TSLA investor since 2017.",
+          "followers_count": 28303,
+          "friends_count": 420,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 179,
+          "favorite_count": 1494,
+          "reply_count": 161,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236104236,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 179,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2030203147877048650",
       "text": "RT @monicamoonx: grok imagine🪽. https://t.co/oNcc8QwTMk",

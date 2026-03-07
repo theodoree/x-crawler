@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236096617,
+    "followers_count": 236104236,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260307",
-  "last_updated": "2026-03-07T14:06:30.419705",
-  "tweet_count": 56,
+  "last_updated": "2026-03-07T16:06:32.676728",
+  "tweet_count": 57,
   "tweets": [
     {
       "id": "2030100379799802154",
@@ -2778,6 +2778,61 @@
       "quoted": null,
       "stats": {
         "retweet_count": 133,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030309530001612801",
+      "text": "RT @piloly: During the first week of March, Tesla sold more cars in Norway than all its competitors combined, achieving a market share of 5…",
+      "created_at": "Sat Mar 07 15:48:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030231662299136203",
+        "text": "During the first week of March, Tesla sold more cars in Norway than all its competitors combined, achieving a market share of 53.4%. This was also Tesla's best March ever. 🇳🇴 https://t.co/fYN5ksRCXc",
+        "created_at": "Sat Mar 07 10:38:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030230259312844800",
+            "url": "https://pbs.twimg.com/media/HCzTqgqXYAABLjJ.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030230308553932800",
+            "url": "https://pbs.twimg.com/media/HCzTtYGWwAASMir.png"
+          },
+          {
+            "type": "photo",
+            "id": "2030230704290979840",
+            "url": "https://pbs.twimg.com/media/HCzUEaVa4AAWiQi.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20472409",
+          "name": "Roland Pircher",
+          "screen_name": "piloly",
+          "description": "Visualization of Tesla sales & financial data to separate signal from noise.\n\nTesla & Musk supporter and long term $TSLA investor since 2017.",
+          "followers_count": 28303,
+          "friends_count": 420,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 179,
+          "favorite_count": 1494,
+          "reply_count": 161,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 179,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
