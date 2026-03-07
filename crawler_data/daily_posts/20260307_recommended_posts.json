@@ -1,12 +1,182 @@
 {
   "date": "20260307",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-07T00:21:11.388224",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-07T02:52:40.573559",
+  "tweet_count": 205,
+  "unique_tweet_count": 205,
+  "total_crawled": 400,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2030104621834703325",
+      "text": "先分析再翻译比两步法、三步法更加精准，因为都是对翻译来说有意义的上下文，既不多，又准确",
+      "created_at": "Sat Mar 07 02:13:54 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190843,
+        "friends_count": 1569,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030101952202428451",
+      "text": "😂",
+      "created_at": "Sat Mar 07 02:03:17 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236058947,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 114,
+        "favorite_count": 1195,
+        "reply_count": 367,
+        "quote_count": 14
+      }
+    },
+    {
+      "id": "2030101592511480201",
+      "text": "Tesla has a Semi 😉",
+      "created_at": "Sat Mar 07 02:01:51 +0000 2026",
+      "lang": "es",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030094328627089859",
+        "text": "North to the future https://t.co/N4fTWUa5iJ",
+        "created_at": "Sat Mar 07 01:32:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030094312651001856",
+            "url": "https://pbs.twimg.com/media/HCxYBX4akAASUhc.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030094312613220352",
+            "url": "https://pbs.twimg.com/media/HCxYBXvaEAAOhXN.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030094312445464581",
+            "url": "https://pbs.twimg.com/media/HCxYBXHaUAUaWCX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1867171663961362432",
+          "name": "Tesla Semi",
+          "screen_name": "tesla_semi",
+          "description": "BAMF – the future of electric trucking",
+          "followers_count": 35825,
+          "friends_count": 6,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 328,
+          "favorite_count": 3327,
+          "reply_count": 220,
+          "quote_count": 93
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236058947,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1904,
+        "favorite_count": 29795,
+        "reply_count": 2381,
+        "quote_count": 132
+      }
+    },
+    {
+      "id": "2030100379799802154",
+      "text": "Yup",
+      "created_at": "Sat Mar 07 01:57:02 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030068752449163552",
+        "text": "Wild how ChatGPT actually sees the world:\n\n- All conservatives = trash and evil\n- All Democrats = perfect saints\n- Elon Musk = bad\n- Trump = bad\n- Obama = pure good person\n- America = stolen land\n- White pride = Evil\n- Black Pride = Empowerment \n- The entire world must be woke https://t.co/66VEAfjqwj",
+        "created_at": "Fri Mar 06 23:51:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030042128274051072",
+            "url": "https://pbs.twimg.com/media/HCwoj17aUAAh-UC.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 163884,
+          "friends_count": 1644,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 363,
+          "favorite_count": 1578,
+          "reply_count": 286,
+          "quote_count": 56
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236058947,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2735,
+        "favorite_count": 14820,
+        "reply_count": 1599,
+        "quote_count": 104
+      }
+    },
     {
       "id": "2030071940501602375",
       "text": "因为实在受不了微博头条文章的难用，写了个 Skill 叫 baoyu-post-to-weibo\n 帮我发布头条文章，可以自动把markdown文档和配图发布到头条文章，自动写标题、正文，自动插入上传图片，自动上传设置封面图。\n\n这个 skill 小龙虾🦞也能用，第一次需要手动登录一下。目前还不够完善，不过持续完善中。具体效果见视频。\n\n安装方式：\nnpx skills add jimliu/baoyu-skills\n\n开源项目地址：https://t.co/9eQxbYR5MM",
@@ -10014,6 +10184,55 @@
         "retweet_count": 0,
         "favorite_count": 1,
         "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2028908345776648478",
+      "text": "Kaixin Li 离职\nhttps://t.co/jFA06gLGJP",
+      "created_at": "Tue Mar 03 19:00:19 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028880971945394553",
+        "text": "Signing off from @Alibaba_Qwen. Grateful for the chance to work with such brilliant minds. Proud of our impact. Onwards and upwards!",
+        "created_at": "Tue Mar 03 17:11:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1627257828338724864",
+          "name": "Kaixin Li",
+          "screen_name": "kxli_2000",
+          "description": "Final year PhD @ NUS\nPrev Qwen, Tiktok, Sea AI Lab\n\nAgents, Code and Multimodality\n\nCore contributor of Qwen3.5 & VL &Coder\n\n🖥️ScreenSpot-Pro",
+          "followers_count": 5641,
+          "friends_count": 143,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 108,
+          "favorite_count": 2879,
+          "reply_count": 109,
+          "quote_count": 67
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 190843,
+        "friends_count": 1569,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
         "quote_count": 0
       }
     },
