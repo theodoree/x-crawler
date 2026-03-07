@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 191029,
+    "followers_count": 191393,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260307",
-  "last_updated": "2026-03-07T08:07:16.446147",
-  "tweet_count": 6,
+  "last_updated": "2026-03-07T10:06:01.430193",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2030071940501602375",
@@ -189,6 +189,45 @@
         "retweet_count": 3,
         "favorite_count": 30,
         "reply_count": 5,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2030199144388722949",
+      "text": "Claude Code 新增 /loop 命令，让 AI 自动帮你盯活儿\n\nClaude Code 发布了 /loop 命令，可以设置定时任务，让 Claude 在后台按固定间隔自动执行指令，最长持续三天。\n\n比如你可以说\"/loop 盯着我所有的 PR，构建出错就自动修，有评论就开个分支去改\"，或者\"/loop 每天早上用 Slack 给我总结被 @ 的重要消息\"。本质上就是把 Claude Code 变成了一个能自己跑起来的值班助手。\n\n间隔支持秒、分、时、天，底层转成 cron 表达式执行。因为 cron 最小粒度是一分钟，秒级设置会被向上取整。也支持自然语言设一次性提醒，比如\"两小时后提醒我检查部署\"，用完自动删除。\n\n需要注意的是，这些任务只在当前会话内有效，关掉终端就没了，也不会补跑错过的任务。如果需要持久化的定时任务，得走 GitHub Actions 或桌面端的定时功能。",
+      "created_at": "Sat Mar 07 08:29:29 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030193932404150413",
+        "text": "Released today: /loop\n\n/loop is a powerful new way to schedule recurring tasks, for up to 3 days at a time\n\neg. “/loop babysit all my PRs. Auto-fix build issues and when comments come in, use a worktree agent to fix them”\n\neg. “/loop every morning use the Slack MCP to give me a summary of top posts I was tagged in”\n\nLet us know what you think!",
+        "created_at": "Sat Mar 07 08:08:47 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "159337660",
+          "name": "Boris Cherny",
+          "screen_name": "bcherny",
+          "description": "Claude Code @anthropicai",
+          "followers_count": 299825,
+          "friends_count": 129,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 183,
+          "favorite_count": 2694,
+          "reply_count": 176,
+          "quote_count": 74
+        }
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 51,
+        "reply_count": 10,
         "quote_count": 2
       }
     }
