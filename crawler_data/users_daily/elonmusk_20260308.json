@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236134963,
+    "followers_count": 236140164,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260308",
-  "last_updated": "2026-03-08T03:01:32.372044",
-  "tweet_count": 8,
+  "last_updated": "2026-03-08T04:35:05.041201",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2030443197256667615",
@@ -351,6 +351,136 @@
         "favorite_count": 8719,
         "reply_count": 1201,
         "quote_count": 49
+      }
+    },
+    {
+      "id": "2030490493767852338",
+      "text": "Either incarcerate or innocent people suffer",
+      "created_at": "Sun Mar 08 03:47:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030284548269900026",
+        "text": "Crimes committed with 1 or more prior arrest:\n\nMurder: 66%\nRape: 66%\nRobbery: 70%\nAssault: 71%\nBurglary: 77%\nTheft: 70%\nCar Theft: 78%\nFraud: 60%\nDrug Trafficking: 78%\nWeapons: 79%\nEtc\n\nThere should be no “career criminals”.\n\nYou can incarcerate your way out of crime.\n\nFacts.",
+        "created_at": "Sat Mar 07 14:08:51 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2327400218",
+          "name": "C3",
+          "screen_name": "C_3C_3",
+          "description": "",
+          "followers_count": 305095,
+          "friends_count": 8718,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1033,
+          "favorite_count": 4468,
+          "reply_count": 147,
+          "quote_count": 28
+        }
+      },
+      "stats": {
+        "retweet_count": 1673,
+        "favorite_count": 14005,
+        "reply_count": 1142,
+        "quote_count": 61
+      }
+    },
+    {
+      "id": "2030491311195713543",
+      "text": "RT @dwarkesh_sp: Gutenberg invented the most important technology of the millennium and immediately went bankrupt — and so did the bank tha…",
+      "created_at": "Sun Mar 08 03:50:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030353789493133372",
+        "text": "Gutenberg invented the most important technology of the millennium and immediately went bankrupt — and so did the bank that foreclosed on him, and so did his apprentices. \n\nGutenberg could make a batch of 300 books for the cost of one, but there weren't enough buyers in his small, landlocked village in Germany. \n\nIt it took the better part of a century of further innovations, social changes, and setting up of distribution networks before you could have a pamphlet like Luther's 95 thesis get from Wittenberg to London in 17 days.",
+        "created_at": "Sat Mar 07 18:44:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2029974946626293765",
+            "url": "https://video.twimg.com/amplify_video/2029974946626293765/vid/avc1/1080x1080/Z8TnY8egZQddXOFB.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1209960539390201864",
+          "name": "Dwarkesh Patel",
+          "screen_name": "dwarkesh_sp",
+          "description": "Host of @dwarkeshpodcast\n\nhttps://t.co/3SXlu7fy6N\nhttps://t.co/4DPAxODFYi\nhttps://t.co/hQfIWdM1Un",
+          "followers_count": 194538,
+          "friends_count": 1000,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 657,
+          "favorite_count": 4432,
+          "reply_count": 173,
+          "quote_count": 73
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 657,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030495482565267809",
+      "text": "RT @minenergybiz: Unreal numbers 👀⚡️\n\"JPMorgan estimates that, had Germany not phased out nuclear power, the country would have generated 5…",
+      "created_at": "Sun Mar 08 04:07:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030357438113698165",
+        "text": "Unreal numbers 👀⚡️\n\"JPMorgan estimates that, had Germany not phased out nuclear power, the country would have generated 50% less electricity from fossil fuels and 84% less electricity from natural gas in 2024. Electricity prices in Germany would have been around 25% lower, and the country would have imported half as much electricity..\"",
+        "created_at": "Sat Mar 07 18:58:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030357322480939008",
+            "url": "https://pbs.twimg.com/media/HC1HOj2W8AATvsB.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1127626405",
+          "name": "Oliver Groß",
+          "screen_name": "minenergybiz",
+          "description": "Investor, consultant, editor in chief, interested in mega trends, energy, mining, tech - The more I learn, the more I realize how much I don‘t know. DYODD.",
+          "followers_count": 18669,
+          "friends_count": 2002,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1664,
+          "favorite_count": 8104,
+          "reply_count": 297,
+          "quote_count": 199
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1664,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
