@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236165876,
+    "followers_count": 236177762,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260308",
-  "last_updated": "2026-03-08T18:07:11.775026",
-  "tweet_count": 40,
+  "last_updated": "2026-03-08T20:06:22.275765",
+  "tweet_count": 46,
   "tweets": [
     {
       "id": "2030443197256667615",
@@ -1927,6 +1927,296 @@
         "favorite_count": 626,
         "reply_count": 204,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2030711353711690173",
+      "text": "RT @DimaZeniuk: Super Heavy booster is pure engineering art \nhttps://t.co/MWO5565aNb",
+      "created_at": "Sun Mar 08 18:24:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2030578003869417472",
+          "url": "https://video.twimg.com/ext_tw_video/2030578003869417472/pu/vid/avc1/720x1280/T3pKDR_mBRQJPKkM.mp4?tag=12",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2030618855819653485",
+        "text": "Super Heavy booster is pure engineering art \nhttps://t.co/MWO5565aNb",
+        "created_at": "Sun Mar 08 12:17:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030578003869417472",
+            "url": "https://video.twimg.com/ext_tw_video/2030578003869417472/pu/vid/avc1/720x1280/T3pKDR_mBRQJPKkM.mp4?tag=12",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1198495865301864448",
+          "name": "Dima Zeniuk",
+          "screen_name": "DimaZeniuk",
+          "description": "Tesla | SpaceX | Starlink | X |\nFree speech\n\nInspired by innovation | Future | Neuralink",
+          "followers_count": 121485,
+          "friends_count": 635,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 566,
+          "favorite_count": 3881,
+          "reply_count": 340,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 566,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030731227125178431",
+      "text": "RT @Similarweb: Gemini was the fastest-growing Gen AI tool in year-over-year website visits in February 2026. https://t.co/hn3HwAHVk5",
+      "created_at": "Sun Mar 08 19:43:48 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030555240521756672",
+          "url": "https://pbs.twimg.com/media/HC37O6AbcAATaOH.png"
+        }
+      ],
+      "retweet": {
+        "id": "2030645713500287441",
+        "text": "Gemini was the fastest-growing Gen AI tool in year-over-year website visits in February 2026. https://t.co/hn3HwAHVk5",
+        "created_at": "Sun Mar 08 14:04:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030555240521756672",
+            "url": "https://pbs.twimg.com/media/HC37O6AbcAATaOH.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "24683972",
+          "name": "Similarweb",
+          "screen_name": "Similarweb",
+          "description": "The World’s Leading AI-Powered Digital Data Company. Listed on @NYSE: $SMWB",
+          "followers_count": 60664,
+          "friends_count": 284,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 149,
+          "favorite_count": 916,
+          "reply_count": 111,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 149,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030732062110445926",
+      "text": "China is rapidly reducing dependence on oil",
+      "created_at": "Sun Mar 08 19:47:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030727660859543687",
+        "text": "This is a way, WAY bigger deal than you think.",
+        "created_at": "Sun Mar 08 19:29:38 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 70212,
+          "friends_count": 421,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 35,
+          "favorite_count": 522,
+          "reply_count": 54,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 814,
+        "favorite_count": 7985,
+        "reply_count": 1410,
+        "quote_count": 66
+      }
+    },
+    {
+      "id": "2030733013265301943",
+      "text": "RT @rauchg: Incidentally this is why I like @xai’s mission to “understand the universe”.\n\nI want AI to make us super geniuses not super idi…",
+      "created_at": "Sun Mar 08 19:50:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030727162261807297",
+        "text": "Incidentally this is why I like @xai’s mission to “understand the universe”.\n\nI want AI to make us super geniuses not super idiots 😂",
+        "created_at": "Sun Mar 08 19:27:39 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15540222",
+          "name": "Guillermo Rauch",
+          "screen_name": "rauchg",
+          "description": "@vercel CEO",
+          "followers_count": 387671,
+          "friends_count": 630,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 85,
+          "favorite_count": 709,
+          "reply_count": 128,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 85,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030733851631194302",
+      "text": "RT @AdamLowisz: Look at Grok growing closely behind Google without the advantage of having the entire Google and Android ecosystem to lean…",
+      "created_at": "Sun Mar 08 19:54:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030731644303270199",
+        "text": "Look at Grok growing closely behind Google without the advantage of having the entire Google and Android ecosystem to lean on. That is quite the accomplishment.",
+        "created_at": "Sun Mar 08 19:45:27 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2030645713500287441",
+          "text": "Gemini was the fastest-growing Gen AI tool in year-over-year website visits in February 2026. https://t.co/hn3HwAHVk5",
+          "created_at": "Sun Mar 08 14:04:00 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2030555240521756672",
+              "url": "https://pbs.twimg.com/media/HC37O6AbcAATaOH.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "24683972",
+            "name": "Similarweb",
+            "screen_name": "Similarweb",
+            "description": "The World’s Leading AI-Powered Digital Data Company. Listed on @NYSE: $SMWB",
+            "followers_count": 60664,
+            "friends_count": 284,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 149,
+            "favorite_count": 916,
+            "reply_count": 111,
+            "quote_count": 26
+          }
+        },
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 48709,
+          "friends_count": 6076,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 84,
+          "favorite_count": 471,
+          "reply_count": 88,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 84,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030734946109632683",
+      "text": "Yes",
+      "created_at": "Sun Mar 08 19:58:35 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030599419049963569",
+        "text": "Is this the same ChatGPT that has government contracts?",
+        "created_at": "Sun Mar 08 11:00:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "33608041",
+          "name": "Kevin Sorbo",
+          "screen_name": "ksorbs",
+          "description": "Actor, director, producer, author.",
+          "followers_count": 2600638,
+          "friends_count": 637,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 380,
+          "favorite_count": 1244,
+          "reply_count": 97,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 253,
+        "favorite_count": 1685,
+        "reply_count": 481,
+        "quote_count": 6
       }
     }
   ]
