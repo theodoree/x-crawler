@@ -1,12 +1,188 @@
 {
   "date": "20260308",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-08T14:07:18.707653",
-  "tweet_count": 237,
-  "unique_tweet_count": 237,
+  "last_crawl_time": "2026-03-08T16:06:27.944810",
+  "tweet_count": 240,
+  "unique_tweet_count": 240,
   "total_crawled": 437,
-  "duplicates_removed": 200,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2030654273353032090",
+      "text": "RT @SpaceX: Falcon 9 launches 25 @Starlink satellites from California https://t.co/jOH8oYuhg8",
+      "created_at": "Sun Mar 08 14:38:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030619285391839232",
+          "url": "https://pbs.twimg.com/media/HC41ezvWkAA91_Q.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2030619292949954560",
+          "url": "https://pbs.twimg.com/media/HC41fP5WQAA63pD.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2030619431106207967",
+        "text": "Falcon 9 launches 25 @Starlink satellites from California https://t.co/jOH8oYuhg8",
+        "created_at": "Sun Mar 08 12:19:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030619285391839232",
+            "url": "https://pbs.twimg.com/media/HC41ezvWkAA91_Q.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030619292949954560",
+            "url": "https://pbs.twimg.com/media/HC41fP5WQAA63pD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41188380,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 720,
+          "favorite_count": 4610,
+          "reply_count": 479,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236172555,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 720,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030654189836153213",
+      "text": "Wow",
+      "created_at": "Sun Mar 08 14:37:41 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030526204332150831",
+        "text": "Los Angeles is so bad that you will get stabbed charging your car at the city library by a homeless man, and when an ambulance comes to save you, ANOTHER homeless man steals the ambulance while they’re tending to you at the scene leaving you no way to get to the hospital, and you die. \n\nSounds like South Africa…",
+        "created_at": "Sun Mar 08 06:09:07 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1857952572247781376",
+          "name": "SLC Fatigue",
+          "screen_name": "MarinasHammer",
+          "description": "Exposing Utah’s third-world violent crime, immigration, gang, & justice system problems. I post what the MSM doesn’t. Voice for crime victims. Christ is King ♱",
+          "followers_count": 8616,
+          "friends_count": 661,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2506,
+          "favorite_count": 12647,
+          "reply_count": 469,
+          "quote_count": 147
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236172555,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2782,
+        "favorite_count": 20238,
+        "reply_count": 1706,
+        "quote_count": 75
+      }
+    },
+    {
+      "id": "2030653880191619516",
+      "text": "RT @cb_doge: BREAKING: Grok traffic is up 480% year over year on web. 🔥\n\nGrok is quietly becoming one of the fastest growing AI platforms.…",
+      "created_at": "Sun Mar 08 14:36:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030561920051552283",
+        "text": "BREAKING: Grok traffic is up 480% year over year on web. 🔥\n\nGrok is quietly becoming one of the fastest growing AI platforms. 🚀 https://t.co/L7rX9INq3T",
+        "created_at": "Sun Mar 08 08:31:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030561862321127424",
+            "url": "https://video.twimg.com/amplify_video/2030561862321127424/vid/avc1/1080x1080/i5jjZqrzj5wjPE33.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1845856,
+          "friends_count": 910,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 297,
+          "favorite_count": 1751,
+          "reply_count": 341,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236172555,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 297,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2030565914916085775",
       "text": "RT @SuSu698822: 我也是作者之一，欢迎关注我们的项目：DeerFlow2.0🥹",
