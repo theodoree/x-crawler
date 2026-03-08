@@ -1,0 +1,357 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 236134963,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260308",
+  "last_updated": "2026-03-08T03:01:32.372044",
+  "tweet_count": 8,
+  "tweets": [
+    {
+      "id": "2030443197256667615",
+      "text": "RT @Starlink: Eliminate terrestrial dependencies with Starlink and solar power 🛰️☀️",
+      "created_at": "Sun Mar 08 00:39:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030322514795302972",
+        "text": "Eliminate terrestrial dependencies with Starlink and solar power 🛰️☀️",
+        "created_at": "Sat Mar 07 16:39:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2021867855101505931",
+          "text": "@elonmusk Here are our solars panels, Starlink Gen 3 Performance, and outdoor router. https://t.co/i6xMf5bYnd",
+          "created_at": "Thu Feb 12 08:43:55 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2021867849518919680",
+              "url": "https://pbs.twimg.com/media/HA8eGMlbsAAr_1x.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1458872886052081682",
+            "name": "The Tesla Dude",
+            "screen_name": "ThTslaDude",
+            "description": "Lucky Dad, Kid at Heart, Trial Lawyer, and Owner of 3 Model X’s and one Amazing Cyberbeast",
+            "followers_count": 282,
+            "friends_count": 49,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 12,
+            "favorite_count": 143,
+            "reply_count": 20,
+            "quote_count": 3
+          }
+        },
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1569589,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 386,
+          "favorite_count": 2560,
+          "reply_count": 181,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 386,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030444167562723628",
+      "text": "That’s what he said \n https://t.co/C3adAsScXQ",
+      "created_at": "Sun Mar 08 00:43:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1908216193212952576",
+          "url": "https://video.twimg.com/amplify_video/1908216193212952576/vid/avc1/576x1024/-AUuO1_7udQLH0Kf.mp4?tag=16",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7555,
+        "favorite_count": 36869,
+        "reply_count": 1832,
+        "quote_count": 328
+      }
+    },
+    {
+      "id": "2030444583721537625",
+      "text": "Grok Imagine\n\nhttps://t.co/u2y4RZRUZ5\n\n https://t.co/Rxz38tyrIX",
+      "created_at": "Sun Mar 08 00:44:47 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2029976238866198528",
+          "url": "https://video.twimg.com/amplify_video/2029976238866198528/vid/avc1/720x1072/SAH8BVahWfyikcth.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1174,
+        "favorite_count": 11572,
+        "reply_count": 2400,
+        "quote_count": 177
+      }
+    },
+    {
+      "id": "2030445733791371330",
+      "text": "Tesla self-driving is a game-changer",
+      "created_at": "Sun Mar 08 00:49:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030433719627227639",
+        "text": "FSD Supervised can give you back your freedom",
+        "created_at": "Sun Mar 08 00:01:37 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24716850,
+          "friends_count": 55,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 453,
+          "favorite_count": 3589,
+          "reply_count": 293,
+          "quote_count": 36
+        }
+      },
+      "stats": {
+        "retweet_count": 1262,
+        "favorite_count": 14048,
+        "reply_count": 1666,
+        "quote_count": 119
+      }
+    },
+    {
+      "id": "2030446126655013010",
+      "text": "Design your own agents with Grok",
+      "created_at": "Sun Mar 08 00:50:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030261921056776366",
+        "text": "Whoa holy shit this is amazing. \n\nI now have 4 customized agnets. \n\nGROK - team leader acts as my zealous advocate. Ruthless adopts my frame, my narrative, and my mission. Advocates for my goals to the other agents and maximizes professionalism, usefulness, and integrity. \n\nSOCRATES - looks for reasoning flaws, assumptions, and biases. Steers away from low value mental models and towards high value mental models. \n\nLIBRARIAN - focuses on data, information, and media. Sources. Nuanced sources. \n\nMUNGER - ruthlessly pragmatic. Doesn't care for abstract theory. Focuses on practical utility and coherence.",
+        "created_at": "Sat Mar 07 12:38:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030261498753253376",
+            "url": "https://pbs.twimg.com/media/HCzwE4pXAAAvlIO.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1795781228399869952",
+          "name": "David Shapiro (L/0)",
+          "screen_name": "DaveShapi",
+          "description": "Liberate humanity from drudgery.",
+          "followers_count": 56312,
+          "friends_count": 982,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 128,
+          "favorite_count": 1378,
+          "reply_count": 128,
+          "quote_count": 19
+        }
+      },
+      "stats": {
+        "retweet_count": 1045,
+        "favorite_count": 8223,
+        "reply_count": 1136,
+        "quote_count": 59
+      }
+    },
+    {
+      "id": "2030446836436136055",
+      "text": "RT @Mechanismo0: 1 image, no prompt, 2 extensions, 30 seconds.\n\nI let Grok Imagine imagine things... and Wow! 🤯 https://t.co/opahQjQDqF",
+      "created_at": "Sun Mar 08 00:53:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2030358280372113408",
+          "url": "https://video.twimg.com/amplify_video/2030358280372113408/vid/avc1/752x416/l_2atarjYOgV2tHV.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": {
+        "id": "2030358679589920908",
+        "text": "1 image, no prompt, 2 extensions, 30 seconds.\n\nI let Grok Imagine imagine things... and Wow! 🤯 https://t.co/opahQjQDqF",
+        "created_at": "Sat Mar 07 19:03:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030358280372113408",
+            "url": "https://video.twimg.com/amplify_video/2030358280372113408/vid/avc1/752x416/l_2atarjYOgV2tHV.mp4?tag=24",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1832332190702567425",
+          "name": "Mechanismo",
+          "screen_name": "Mechanismo0",
+          "description": "Dieselpunk, Cyberpunk and between.",
+          "followers_count": 10716,
+          "friends_count": 1794,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 173,
+          "favorite_count": 1095,
+          "reply_count": 157,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 173,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030448870774231498",
+      "text": "RT @AIPointView: @elonmusk ✨Created with @grok  imagine!✨ 30 sec. video self-generated ✨ https://t.co/525pDzJrV9",
+      "created_at": "Sun Mar 08 01:01:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2030375210604449793",
+          "url": "https://video.twimg.com/amplify_video/2030375210604449793/vid/avc1/720x720/M_0kgWDc3aijzZXq.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2030375283862217210",
+        "text": "@elonmusk ✨Created with @grok  imagine!✨ 30 sec. video self-generated ✨ https://t.co/525pDzJrV9",
+        "created_at": "Sat Mar 07 20:09:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030375210604449793",
+            "url": "https://video.twimg.com/amplify_video/2030375210604449793/vid/avc1/720x720/M_0kgWDc3aijzZXq.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2012831910993543168",
+          "name": "AI Point View",
+          "screen_name": "AIPointView",
+          "description": "AI is so cool. Smart people too!",
+          "followers_count": 404,
+          "friends_count": 419,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 198,
+          "favorite_count": 1218,
+          "reply_count": 252,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 198,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030463068627484894",
+      "text": "Articles are growing fast. \n\nGrok summary of articles coming to improve rate of information consumption.",
+      "created_at": "Sun Mar 08 01:58:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030367630985486653",
+        "text": "The production of interesting X articles has now officially outpaced my ability to even bookmark them",
+        "created_at": "Sat Mar 07 19:39:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "247785677",
+          "name": "Matt Turck",
+          "screen_name": "mattturck",
+          "description": "VC at @FirstMarkCap.  Host: MAD Podcast; Organizer: Data Driven NYC, Author: MAD Landscape.",
+          "followers_count": 134012,
+          "friends_count": 2387,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 30,
+          "favorite_count": 398,
+          "reply_count": 100,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 803,
+        "favorite_count": 8719,
+        "reply_count": 1201,
+        "quote_count": 49
+      }
+    }
+  ]
+}
