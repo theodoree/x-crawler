@@ -1,12 +1,191 @@
 {
   "date": "20260308",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-08T16:06:27.944810",
-  "tweet_count": 240,
-  "unique_tweet_count": 240,
-  "total_crawled": 437,
+  "last_crawl_time": "2026-03-08T18:07:11.745540",
+  "tweet_count": 243,
+  "unique_tweet_count": 243,
+  "total_crawled": 440,
   "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2030706395058762037",
+      "text": "Cybertruck",
+      "created_at": "Sun Mar 08 18:05:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030658535013679282",
+        "text": "With more than 3x better efficiency than the average truck, charging your Cybertruck at home is on average less than 1/3 the cost of fueling a combustion engine truck\n \nWith solar, it becomes basically free",
+        "created_at": "Sun Mar 08 14:54:57 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1686044379910131718",
+          "name": "Cybertruck",
+          "screen_name": "cybertruck",
+          "description": "📐",
+          "followers_count": 239837,
+          "friends_count": 11,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 128,
+          "favorite_count": 1505,
+          "reply_count": 81,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236165876,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 67,
+        "favorite_count": 626,
+        "reply_count": 204,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2030690281322934350",
+      "text": "RT @vista8: 一句话，生成大师级设计！\n\n不会PS、不懂配色、不认识艺术家？\n\n没关系，只需用一句话描述。\n\nAI自动选择最合适的艺术风格，为你生成专业级海报、封面和设计作品。\n\n启发自Mondo，拓展书籍/公众号/唱片封面等设计场景\n\n安装Skill\nnpx ski…",
+      "created_at": "Sun Mar 08 17:01:06 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2030586507493573039",
+        "text": "一句话，生成大师级设计！\n\n不会PS、不懂配色、不认识艺术家？\n\n没关系，只需用一句话描述。\n\nAI自动选择最合适的艺术风格，为你生成专业级海报、封面和设计作品。\n\n启发自Mondo，拓展书籍/公众号/唱片封面等设计场景\n\n安装Skill\nnpx skills add joeseesun/qiaomu-mondo-poster-design\n\nGithub见评论区",
+        "created_at": "Sun Mar 08 10:08:44 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030585919586418689",
+            "url": "https://pbs.twimg.com/media/HC4XIqbbwAE-yqT.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030586308352163840",
+            "url": "https://pbs.twimg.com/media/HC4XfSsaQAAn8T6.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030586381026934784",
+            "url": "https://pbs.twimg.com/media/HC4XjhbbQAAe5PW.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030586494474493952",
+            "url": "https://pbs.twimg.com/media/HC4XqIDboAAnu9E.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6690032",
+          "name": "向阳乔木",
+          "screen_name": "vista8",
+          "description": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+          "followers_count": 99563,
+          "friends_count": 1504,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 86,
+          "favorite_count": 420,
+          "reply_count": 23,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 194818,
+        "friends_count": 1575,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 86,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030689243119452482",
+      "text": "Many such cases",
+      "created_at": "Sun Mar 08 16:56:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1939783256620298492",
+        "text": "Stephen Ireland, who targeted me with endless abuse on here because I oppose the chemical castration of children and the removal of protected spaces for women and girls, has just been sentenced to 30 years in jail for child rape. https://t.co/0HHctRocB4",
+        "created_at": "Mon Jun 30 20:29:02 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1939782398704484352",
+            "url": "https://pbs.twimg.com/media/Gut90HBWAAAUTk7.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "1939782985659654144",
+            "url": "https://pbs.twimg.com/media/Gut-WRmXIAAAXYm.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "62513246",
+          "name": "J.K. Rowling",
+          "screen_name": "jk_rowling",
+          "description": "Author, founder of Lumos and Beira's Place, surname rhymes with bowling, not growling.",
+          "followers_count": 13823457,
+          "friends_count": 1157,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 73877,
+          "favorite_count": 367340,
+          "reply_count": 16605,
+          "quote_count": 4206
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236165876,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6322,
+        "favorite_count": 43718,
+        "reply_count": 1830,
+        "quote_count": 118
+      }
+    },
     {
       "id": "2030654273353032090",
       "text": "RT @SpaceX: Falcon 9 launches 25 @Starlink satellites from California https://t.co/jOH8oYuhg8",

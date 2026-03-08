@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 194737,
+    "followers_count": 194818,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260308",
-  "last_updated": "2026-03-08T16:06:28.003328",
-  "tweet_count": 3,
+  "last_updated": "2026-03-08T18:07:11.797545",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2030433701855633415",
@@ -178,6 +178,66 @@
       "quoted": null,
       "stats": {
         "retweet_count": 9,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030690281322934350",
+      "text": "RT @vista8: 一句话，生成大师级设计！\n\n不会PS、不懂配色、不认识艺术家？\n\n没关系，只需用一句话描述。\n\nAI自动选择最合适的艺术风格，为你生成专业级海报、封面和设计作品。\n\n启发自Mondo，拓展书籍/公众号/唱片封面等设计场景\n\n安装Skill\nnpx ski…",
+      "created_at": "Sun Mar 08 17:01:06 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2030586507493573039",
+        "text": "一句话，生成大师级设计！\n\n不会PS、不懂配色、不认识艺术家？\n\n没关系，只需用一句话描述。\n\nAI自动选择最合适的艺术风格，为你生成专业级海报、封面和设计作品。\n\n启发自Mondo，拓展书籍/公众号/唱片封面等设计场景\n\n安装Skill\nnpx skills add joeseesun/qiaomu-mondo-poster-design\n\nGithub见评论区",
+        "created_at": "Sun Mar 08 10:08:44 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030585919586418689",
+            "url": "https://pbs.twimg.com/media/HC4XIqbbwAE-yqT.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030586308352163840",
+            "url": "https://pbs.twimg.com/media/HC4XfSsaQAAn8T6.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030586381026934784",
+            "url": "https://pbs.twimg.com/media/HC4XjhbbQAAe5PW.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030586494474493952",
+            "url": "https://pbs.twimg.com/media/HC4XqIDboAAnu9E.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6690032",
+          "name": "向阳乔木",
+          "screen_name": "vista8",
+          "description": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+          "followers_count": 99563,
+          "friends_count": 1504,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 86,
+          "favorite_count": 420,
+          "reply_count": 23,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 86,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
