@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 194857,
+    "followers_count": 194876,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260308",
-  "last_updated": "2026-03-08T20:06:22.264550",
-  "tweet_count": 7,
+  "last_updated": "2026-03-08T22:05:56.569329",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2030433701855633415",
@@ -304,6 +304,21 @@
       }
     },
     {
+      "id": "2030735846383767837",
+      "text": "https://t.co/Npevm8gHZD",
+      "created_at": "Sun Mar 08 20:02:09 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 10,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
       "id": "2030736109529968818",
       "text": "本文由 baoyu-translate skill 翻译\nhttps://t.co/p28pNo0CBV",
       "created_at": "Sun Mar 08 20:03:12 +0000 2026",
@@ -337,6 +352,76 @@
       },
       "stats": {
         "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030766863672566126",
+      "text": "RT @dongxi_nlp: A：你是谁？\nB：我以前是 10X 工程师。\n\nA：现在？\nB：Taste…\n\nA：Taste 是啥？\nB：啥也不是…",
+      "created_at": "Sun Mar 08 22:05:24 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2030764143918080475",
+        "text": "A：你是谁？\nB：我以前是 10X 工程师。\n\nA：现在？\nB：Taste…\n\nA：Taste 是啥？\nB：啥也不是…",
+        "created_at": "Sun Mar 08 21:54:36 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2030289138126107074",
+          "text": "I was a 10x engineer. Now I'm useless. https://t.co/OlFdvrUEmo",
+          "created_at": "Sat Mar 07 14:27:06 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2030284224985550848",
+              "url": "https://video.twimg.com/amplify_video/2030284224985550848/vid/avc1/1920x1080/xPXMCnIwuOLP8foH.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2012653551407808512",
+            "name": "Mo",
+            "screen_name": "atmoio",
+            "description": "Exploring what AI actually is and sharing my learnings. Building @shapeworkspace, prev @standardnotes. Talking at https://t.co/814DpgwSzr and https://t.co/vlHyF3gEjn.",
+            "followers_count": 12192,
+            "friends_count": 18,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1048,
+            "favorite_count": 9491,
+            "reply_count": 967,
+            "quote_count": 410
+          }
+        },
+        "user": {
+          "id": "1477948736156454913",
+          "name": "马东锡 NLP",
+          "screen_name": "dongxi_nlp",
+          "description": "Prev. PhD @Stockholm_Uni | Alumni @KTHuniversity @uppsalauni Sharing insights on AI, autonomous agents, and large language & reasoning models",
+          "followers_count": 37288,
+          "friends_count": 944,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 1,
+          "reply_count": 2,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
