@@ -1,0 +1,66 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 193428,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260308",
+  "last_updated": "2026-03-08T00:21:33.488210",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2030433701855633415",
+      "text": "RT @jesselaunz: 如果感觉claude code表现得有点挫\n\n因为ta某一个版本开始自动设成medium effort了。\n\n打开/model 按左右键切换到high https://t.co/bwwBXe5Xhi",
+      "created_at": "Sun Mar 08 00:01:32 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "animated_gif",
+          "id": "2030386423749369856",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HC1hsehbYAA3znm.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2030386480850579494",
+        "text": "如果感觉claude code表现得有点挫\n\n因为ta某一个版本开始自动设成medium effort了。\n\n打开/model 按左右键切换到high https://t.co/bwwBXe5Xhi",
+        "created_at": "Sat Mar 07 20:53:54 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "animated_gif",
+            "id": "2030386423749369856",
+            "url": "https://pbs.twimg.com/tweet_video_thumb/HC1hsehbYAA3znm.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20571502",
+          "name": "Jesse Lau 遁一子",
+          "screen_name": "jesselaunz",
+          "description": "遁一子，a true man, free guy。油管洞见无界：https://t.co/dD6ecEaaH2\nPDF搜索站： https://t.co/ePYRL6mUtC\n英文名言：https://t.co/1qwYTIAhjx",
+          "followers_count": 29459,
+          "friends_count": 2013,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 6,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
