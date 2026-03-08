@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 194296,
+    "followers_count": 194404,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260308",
-  "last_updated": "2026-03-08T08:07:45.210599",
-  "tweet_count": 1,
+  "last_updated": "2026-03-08T10:06:43.854258",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2030433701855633415",
@@ -57,6 +57,127 @@
       "quoted": null,
       "stats": {
         "retweet_count": 3,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030557974662463761",
+      "text": "我在写 baoyu-skills 时，一开始就是让 agent 帮助生成commit message 和changelog\n\n为此写了一个skill：release-skills\nhttps://t.co/yuO57NR4OF\n每次发布只要说：发布更新\n就自动commit，写changelog，打tag\n\n还算通用 https://t.co/g9tA3aAK0B",
+      "created_at": "Sun Mar 08 08:15:21 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030557940566867968",
+          "url": "https://pbs.twimg.com/media/HC39sEdWQAAQmlu.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2030549554685513990",
+        "text": "不是我认真写 release notes，是 Codex 根据新版的 git 改动，自动生成了适合给用户看的更新内容，并翻译了多语言 https://t.co/uoN8t3NrMy",
+        "created_at": "Sun Mar 08 07:41:54 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030548685013368832",
+            "url": "https://pbs.twimg.com/media/HC31RU1bwAAJdmw.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "8504312",
+          "name": "Lex Tang",
+          "screen_name": "lexrus",
+          "description": "中年 iOS/macOS 开发，2006 届果粉。 👨🏻‍🦲 https://t.co/0IHFZ92Fy0 💬 https://t.co/twEXEcpKsD 🎬https://t.co/gNhF2lyDse",
+          "followers_count": 25537,
+          "friends_count": 1717,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 8,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 45,
+        "reply_count": 6,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2030565914916085775",
+      "text": "RT @SuSu698822: 我也是作者之一，欢迎关注我们的项目：DeerFlow2.0🥹",
+      "created_at": "Sun Mar 08 08:46:54 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2030291455080837241",
+        "text": "我也是作者之一，欢迎关注我们的项目：DeerFlow2.0🥹",
+        "created_at": "Sat Mar 07 14:36:18 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "1921839892503392326",
+          "text": "Bytedance, opensourced DeerFlow (Deep Exploration and Efficient Research Flow)\n\nLLM + Langchain + tools (web search, crawler, code exec).\n\nIts a community-driven Deep Research framework. https://t.co/xYjsvJZpzk",
+          "created_at": "Mon May 12 08:08:31 +0000 2025",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "1921839366533750784",
+              "url": "https://video.twimg.com/amplify_video/1921839366533750784/vid/avc1/1598x898/yS1jrbX3q7oVV0Gb.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2588345408",
+            "name": "Rohan Paul",
+            "screen_name": "rohanpaul_ai",
+            "description": "Compiling in real-time, the race towards AGI.\n\nThe Largest Show on X for AI.\n\n🗞️ Get my daily AI analysis newsletter to your email  👉 https://t.co/6LBxO8215l",
+            "followers_count": 139897,
+            "friends_count": 7547,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 119,
+            "favorite_count": 675,
+            "reply_count": 12,
+            "quote_count": 7
+          }
+        },
+        "user": {
+          "id": "1934618963725754368",
+          "name": "Cedar",
+          "screen_name": "SuSu698822",
+          "description": "AI Developer｜ 可以叫我雪松",
+          "followers_count": 2235,
+          "friends_count": 347,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 71,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
