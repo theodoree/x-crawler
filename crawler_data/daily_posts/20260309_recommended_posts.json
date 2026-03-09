@@ -1,12 +1,469 @@
 {
   "date": "20260309",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-09T03:02:35.708430",
-  "tweet_count": 218,
-  "unique_tweet_count": 218,
-  "total_crawled": 400,
-  "duplicates_removed": 182,
+  "last_crawl_time": "2026-03-09T04:38:23.418666",
+  "tweet_count": 227,
+  "unique_tweet_count": 227,
+  "total_crawled": 418,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2030861395060043957",
+      "text": "https://t.co/zluYQYC3rq",
+      "created_at": "Mon Mar 09 04:21:02 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2030857868988280832",
+          "url": "https://video.twimg.com/amplify_video/2030857868988280832/vid/avc1/720x1072/2UQumu3-w-WzQVBR.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236204174,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 284,
+        "favorite_count": 2121,
+        "reply_count": 815,
+        "quote_count": 25
+      }
+    },
+    {
+      "id": "2030856535317053685",
+      "text": "💯😂",
+      "created_at": "Mon Mar 09 04:01:44 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030852491743724009",
+        "text": "Incentives explain behaviors https://t.co/7tp57ClVOb",
+        "created_at": "Mon Mar 09 03:45:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030852488065400832",
+            "url": "https://pbs.twimg.com/media/HC8Jk_ZbQAAH_Qj.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1091296,
+          "friends_count": 1801,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 95,
+          "favorite_count": 729,
+          "reply_count": 52,
+          "quote_count": 10
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236204174,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1261,
+        "favorite_count": 11909,
+        "reply_count": 642,
+        "quote_count": 19
+      }
+    },
+    {
+      "id": "2030856275505094711",
+      "text": "I use this analogy a lot. \n\nThis is what a room full of computers looked like in old times: https://t.co/Y4a93z76lw",
+      "created_at": "Mon Mar 09 04:00:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030856273307238400",
+          "url": "https://pbs.twimg.com/media/HC8NBUhaAAAJIiq.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2030850967059714473",
+        "text": "A “computer” used to be a job title. \n\nThen a computer became a thing humans used. \n\nNow a computer is becoming a thing computers use.",
+        "created_at": "Mon Mar 09 03:39:36 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "745273",
+          "name": "Naval",
+          "screen_name": "naval",
+          "description": "Incompressible",
+          "followers_count": 3075061,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 296,
+          "favorite_count": 3401,
+          "reply_count": 335,
+          "quote_count": 57
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236204174,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1202,
+        "favorite_count": 13401,
+        "reply_count": 1070,
+        "quote_count": 75
+      }
+    },
+    {
+      "id": "2030855339747463173",
+      "text": "RT @alx: Trump says he will not sign another bill until the SAVE America Act is passed and is not going to stop talking about it. This shou…",
+      "created_at": "Mon Mar 09 03:56:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030851272694243556",
+        "text": "Trump says he will not sign another bill until the SAVE America Act is passed and is not going to stop talking about it. This should be the Senate’s sole focus.\n\nGet this done or you will be betraying your voters.\n\nWhere do you stand on the talking filibuster?\n\n-@LeaderJohnThune \n-@lisamurkowski \n-@SenJohnCurtis \n-@SenKevinCramer \n-@SenThomTillis",
+        "created_at": "Mon Mar 09 03:40:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030851262686642176",
+            "url": "https://pbs.twimg.com/media/HC8IdqgXQAAiwxc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "534023",
+          "name": "ALX 🇺🇸",
+          "screen_name": "alx",
+          "description": "American Supremacist",
+          "followers_count": 1040216,
+          "friends_count": 4235,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 508,
+          "favorite_count": 2223,
+          "reply_count": 249,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236204174,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 508,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030855200198758826",
+      "text": "RT @lyn_beatz: Grok Imagine 🥜 https://t.co/QO6wsD3Pvw",
+      "created_at": "Mon Mar 09 03:56:25 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2030702026254917632",
+          "url": "https://video.twimg.com/ext_tw_video/2030702026254917632/pu/vid/avc1/464x688/DZWwZBoRWZ-4BdQg.mp4?tag=22",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": {
+        "id": "2030702049659138469",
+        "text": "Grok Imagine 🥜 https://t.co/QO6wsD3Pvw",
+        "created_at": "Sun Mar 08 17:47:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030702026254917632",
+            "url": "https://video.twimg.com/ext_tw_video/2030702026254917632/pu/vid/avc1/464x688/DZWwZBoRWZ-4BdQg.mp4?tag=22",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1708559437005279232",
+          "name": "𝐋.𝐘.𝐍",
+          "screen_name": "lyn_beatz",
+          "description": "𝕷𝖎𝖌𝖍𝖙 𝖚𝖕 𝖙𝖍𝖊 𝖉𝖆𝖗𝖐𝖓𝖊𝖘𝖘",
+          "followers_count": 28432,
+          "friends_count": 659,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 55,
+          "favorite_count": 428,
+          "reply_count": 94,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236204174,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 55,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030852017988739479",
+      "text": "RT @SawyerMerritt: One year ago today, I took delivery of my Launch Series Model Y at Giga Texas.\n\nBest car I've ever owned. It can drive i…",
+      "created_at": "Mon Mar 09 03:43:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030849857347293689",
+        "text": "One year ago today, I took delivery of my Launch Series Model Y at Giga Texas.\n\nBest car I've ever owned. It can drive itself anywhere I need to go, is constantly improving, I never need to do any oil changes (I always hated those), and costs me just $18 to fully charge. https://t.co/8PAADq4SKi",
+        "created_at": "Mon Mar 09 03:35:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030847613659164672",
+            "url": "https://video.twimg.com/amplify_video/2030847613659164672/vid/avc1/3840x2160/YR-vCzDHCFDPfsh7.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1046694,
+          "friends_count": 436,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 168,
+          "favorite_count": 1515,
+          "reply_count": 222,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236204174,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 168,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030851099021005036",
+      "text": "RT @cybertruck: Desert monolith https://t.co/xmiqHmceiw",
+      "created_at": "Mon Mar 09 03:40:08 +0000 2026",
+      "lang": "cy",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030848859984003072",
+          "url": "https://pbs.twimg.com/media/HC8GRzvagAAeh6j.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2030848864757088355",
+        "text": "Desert monolith https://t.co/xmiqHmceiw",
+        "created_at": "Mon Mar 09 03:31:15 +0000 2026",
+        "lang": "cy",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030848859984003072",
+            "url": "https://pbs.twimg.com/media/HC8GRzvagAAeh6j.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1686044379910131718",
+          "name": "Cybertruck",
+          "screen_name": "cybertruck",
+          "description": "📐",
+          "followers_count": 240491,
+          "friends_count": 11,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 194,
+          "favorite_count": 1671,
+          "reply_count": 213,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236204174,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 194,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030844709061709837",
+      "text": "Grok 4.20 is hilarious 🤣 https://t.co/jzXJspkgsE",
+      "created_at": "Mon Mar 09 03:14:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236204174,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 396,
+        "favorite_count": 4251,
+        "reply_count": 1206,
+        "quote_count": 55
+      }
+    },
+    {
+      "id": "2030843724096504011",
+      "text": "RT @testerlabor: I will never hide the thinking trace from Grok and its agents. Watching them thinking and discuss is pure entertainment fo…",
+      "created_at": "Mon Mar 09 03:10:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030672164626612234",
+        "text": "I will never hide the thinking trace from Grok and its agents. Watching them thinking and discuss is pure entertainment for me. https://t.co/0a5QKDZQ6x",
+        "created_at": "Sun Mar 08 15:49:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030672115717042176",
+            "url": "https://pbs.twimg.com/media/HC5lh8Ca8AArry2.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1769074421438803968",
+          "name": "Testlabor",
+          "screen_name": "testerlabor",
+          "description": "Tech and AI Innovation Tester & researcher - Grok tester since 1.5 - News, Updates & Results.",
+          "followers_count": 12704,
+          "friends_count": 777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 112,
+          "favorite_count": 863,
+          "reply_count": 111,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236204174,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 112,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2030840522642952619",
       "text": "RT @alx: Twitter 1.0 under Bret Taylor.\n\nWill OpenAI ban sitting presidents from their services if they hurt their feelings? https://t.co/b…",
