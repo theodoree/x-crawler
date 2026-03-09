@@ -1,12 +1,227 @@
 {
   "date": "20260309",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-09T06:23:25.719529",
-  "tweet_count": 227,
-  "unique_tweet_count": 227,
+  "last_crawl_time": "2026-03-09T08:14:21.402987",
+  "tweet_count": 231,
+  "unique_tweet_count": 231,
   "total_crawled": 427,
-  "duplicates_removed": 200,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2030913482301083900",
+      "text": "🤔",
+      "created_at": "Mon Mar 09 07:48:01 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030833126956552287",
+        "text": "Sheep dogs are born the way they are, but pit bulls are only the way they are because of socio economic factors",
+        "created_at": "Mon Mar 09 02:28:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1504181287468339208",
+          "name": "Will Tanner",
+          "screen_name": "Will_Tanner_1",
+          "description": "Tradition is not the worship of ashes, but the preservation of fire | Co-Founder of @TAmTrib | WASP",
+          "followers_count": 160179,
+          "friends_count": 1364,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 480,
+          "favorite_count": 6238,
+          "reply_count": 90,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236212315,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 267,
+        "favorite_count": 2668,
+        "reply_count": 605,
+        "quote_count": 18
+      }
+    },
+    {
+      "id": "2030912082737242454",
+      "text": "😂",
+      "created_at": "Mon Mar 09 07:42:27 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030858134114226180",
+        "text": "Jim Cramer in 2010: “I’m not sure Tesla has a business plan that’s going to work, it’s not a smart investment”\n\nInverse Cramer is so real https://t.co/dFRUzFczsb",
+        "created_at": "Mon Mar 09 04:08:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030858080695484416",
+            "url": "https://video.twimg.com/amplify_video/2030858080695484416/vid/avc1/1046x576/QFUADFpMHezWsi0B.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1494873435863977985",
+          "name": "Nic Cruz Patane",
+          "screen_name": "niccruzpatane",
+          "description": "Deep dive into everything Tesla",
+          "followers_count": 95927,
+          "friends_count": 161,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 130,
+          "favorite_count": 1604,
+          "reply_count": 62,
+          "quote_count": 15
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236212315,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 809,
+        "favorite_count": 8581,
+        "reply_count": 896,
+        "quote_count": 28
+      }
+    },
+    {
+      "id": "2030911800984891796",
+      "text": "RT @Literariium: “The more laws, the less justice.”\n\n— Cicero https://t.co/hxnCa2vZWQ",
+      "created_at": "Mon Mar 09 07:41:20 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030595541298741248",
+          "url": "https://pbs.twimg.com/media/HC4f4uGagAA0jVE.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2030595544406770152",
+        "text": "“The more laws, the less justice.”\n\n— Cicero https://t.co/hxnCa2vZWQ",
+        "created_at": "Sun Mar 08 10:44:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030595541298741248",
+            "url": "https://pbs.twimg.com/media/HC4f4uGagAA0jVE.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1593532226922512386",
+          "name": "✒️",
+          "screen_name": "Literariium",
+          "description": "ink, paper and a restless heart.",
+          "followers_count": 68183,
+          "friends_count": 15,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 869,
+          "favorite_count": 6426,
+          "reply_count": 140,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236212315,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 869,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030910832213991919",
+      "text": "RT @nikitabier: Just dragged all my tax documents into Grok and said figure it out. Don't have the time for this bullshit anymore.",
+      "created_at": "Mon Mar 09 07:37:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030886287259910176",
+        "text": "Just dragged all my tax documents into Grok and said figure it out. Don't have the time for this bullshit anymore.",
+        "created_at": "Mon Mar 09 05:59:57 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "636513296",
+          "name": "Nikita Bier",
+          "screen_name": "nikitabier",
+          "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+          "followers_count": 873885,
+          "friends_count": 2026,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 163,
+          "favorite_count": 4101,
+          "reply_count": 877,
+          "quote_count": 39
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236212315,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 162,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2030861395060043957",
       "text": "https://t.co/zluYQYC3rq",
