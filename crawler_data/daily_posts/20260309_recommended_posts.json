@@ -1,12 +1,946 @@
 {
   "date": "20260309",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-09T00:22:08.220211",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-09T03:02:35.708430",
+  "tweet_count": 218,
+  "unique_tweet_count": 218,
+  "total_crawled": 400,
+  "duplicates_removed": 182,
   "tweets": [
+    {
+      "id": "2030840522642952619",
+      "text": "RT @alx: Twitter 1.0 under Bret Taylor.\n\nWill OpenAI ban sitting presidents from their services if they hurt their feelings? https://t.co/b…",
+      "created_at": "Mon Mar 09 02:58:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030817531758338125",
+        "text": "Twitter 1.0 under Bret Taylor.\n\nWill OpenAI ban sitting presidents from their services if they hurt their feelings? https://t.co/bbSGxqNPEG",
+        "created_at": "Mon Mar 09 01:26:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030817528545755136",
+            "url": "https://pbs.twimg.com/media/HC7pyFCbQAAUjPG.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2030747211810709699",
+          "text": "The lunatic left that took over Twitter was Wormtongue to the World.\n\nFiring @Jack was the final straw. He was the last bulwark.\n\nNow Bret Taylor is chair of @OpenAI …",
+          "created_at": "Sun Mar 08 20:47:19 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 236200927,
+            "friends_count": 1292,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 9374,
+            "favorite_count": 64539,
+            "reply_count": 2478,
+            "quote_count": 258
+          }
+        },
+        "user": {
+          "id": "534023",
+          "name": "ALX 🇺🇸",
+          "screen_name": "alx",
+          "description": "American Supremacist",
+          "followers_count": 1040161,
+          "friends_count": 4235,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 108,
+          "favorite_count": 795,
+          "reply_count": 72,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 108,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030839888048992623",
+      "text": "One day 🥹",
+      "created_at": "Mon Mar 09 02:55:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 586,
+        "reply_count": 184,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2030839639205118155",
+      "text": "https://t.co/FmoCBmoAlg",
+      "created_at": "Mon Mar 09 02:54:35 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030839634922758144",
+          "url": "https://pbs.twimg.com/media/HC7941ta4AAhOy_.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 48,
+        "favorite_count": 822,
+        "reply_count": 127,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2030839409600500005",
+      "text": "🤨",
+      "created_at": "Mon Mar 09 02:53:41 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030836446094115138",
+        "text": "Yet, guess which one is under EU and Canadian investigations? https://t.co/E1yCOroLUW",
+        "created_at": "Mon Mar 09 02:41:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030836431745417217",
+            "url": "https://pbs.twimg.com/media/HC76-Y8bgAEYPRX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1518557272854523904",
+          "name": "Skscartoon",
+          "screen_name": "skscartoon",
+          "description": "A small time artist down under",
+          "followers_count": 135931,
+          "friends_count": 440,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 28,
+          "favorite_count": 169,
+          "reply_count": 23,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 258,
+        "favorite_count": 1972,
+        "reply_count": 314,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2030838811794833670",
+      "text": "Have you ever bought anything based on an ad on this platform?",
+      "created_at": "Mon Mar 09 02:51:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 235,
+        "favorite_count": 1194,
+        "reply_count": 1475,
+        "quote_count": 45
+      }
+    },
+    {
+      "id": "2030837291086745796",
+      "text": "RT @elonmusk: @teslaownersSV Getting drilled 😂\n\nWhen AI can make original videos like this, we will have reached AGI 🚀 \n\nhttps://t.co/QIgqM…",
+      "created_at": "Mon Mar 09 02:45:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030837169388962033",
+        "text": "@teslaownersSV Getting drilled 😂\n\nWhen AI can make original videos like this, we will have reached AGI 🚀 \n\nhttps://t.co/QIgqMq6YzD",
+        "created_at": "Mon Mar 09 02:44:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 236200927,
+          "friends_count": 1292,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 77,
+          "favorite_count": 497,
+          "reply_count": 268,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 77,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030835984850452948",
+      "text": "Have your 𝕏 recommendations improved?",
+      "created_at": "Mon Mar 09 02:40:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030522057507692931",
+        "text": "The Grok algo lately has been fire 🔥 https://t.co/IhtxT17X7k",
+        "created_at": "Sun Mar 08 05:52:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030522055632769024",
+            "url": "https://pbs.twimg.com/media/HC3dDSqWUAAqLVw.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 48770,
+          "friends_count": 6078,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 11,
+          "favorite_count": 66,
+          "reply_count": 22,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 271,
+        "favorite_count": 2733,
+        "reply_count": 1253,
+        "quote_count": 27
+      }
+    },
+    {
+      "id": "2030834944893690257",
+      "text": "RT @WallStreetMav: \"Canada has free healthcare\"\n\nWait times ... \n\nSurgery : 284 days or longer\nKill you : no wait\n\nI guess they did the fin…",
+      "created_at": "Mon Mar 09 02:35:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030713181673263171",
+        "text": "\"Canada has free healthcare\"\n\nWait times ... \n\nSurgery : 284 days or longer\nKill you : no wait\n\nI guess they did the financial math and it is cheaper to offer to kill their citizens. So they prioritized that. \n\nThen they made it easier for 3rd world migrants to come and replace them. \n\nThis is the end result of socialism.",
+        "created_at": "Sun Mar 08 18:32:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030712275024113664",
+            "url": "https://pbs.twimg.com/media/HC6KDhHWcAANagV.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1366565625401909249",
+          "name": "Wall Street Mav",
+          "screen_name": "WallStreetMav",
+          "description": "Finance, economics, news, memes. Follow and Tap the .... (🔔 +Notify)",
+          "followers_count": 1733973,
+          "friends_count": 796,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1552,
+          "favorite_count": 4279,
+          "reply_count": 406,
+          "quote_count": 94
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1552,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030832808013242812",
+      "text": "Yikes",
+      "created_at": "Mon Mar 09 02:27:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030831715854217554",
+        "text": "Two women in India committed suicide after interactions with ChatGPT. \n\nThey had reportedly searched ChatGPT about “how to commit suicide,” “how suicide can be done,” &amp; “which drugs are used.” \n\nPlease don’t let your loved ones use ChatGPT.",
+        "created_at": "Mon Mar 09 02:23:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 212353,
+          "friends_count": 901,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 126,
+          "favorite_count": 748,
+          "reply_count": 227,
+          "quote_count": 36
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 616,
+        "favorite_count": 5018,
+        "reply_count": 841,
+        "quote_count": 24
+      }
+    },
+    {
+      "id": "2030821394183839999",
+      "text": "Hope the trip was worth it 🥥🥥\nhttps://t.co/DkiSxyxnYf",
+      "created_at": "Mon Mar 09 01:42:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 430,
+        "favorite_count": 3439,
+        "reply_count": 833,
+        "quote_count": 55
+      }
+    },
+    {
+      "id": "2030814137811341589",
+      "text": "Giving people agentic AI be like … https://t.co/rtWrWXr6QS",
+      "created_at": "Mon Mar 09 01:13:15 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2030814076126048256",
+          "url": "https://video.twimg.com/amplify_video/2030814076126048256/vid/avc1/688x464/JTSOiFPmuHiLV-Fo.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1802,
+        "favorite_count": 22316,
+        "reply_count": 2400,
+        "quote_count": 303
+      }
+    },
+    {
+      "id": "2030808984274264520",
+      "text": "Grok",
+      "created_at": "Mon Mar 09 00:52:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030805270214086672",
+        "text": "BREAKING: Grok recorded 13,840,000 app downloads last month 🔥\n\nMore and more people are switching to Grok.\n\nTry @Grok if you haven’t yet. 🚀\n\nDownload here \nhttps://t.co/Lj8Kpmxzhw https://t.co/gDT6FAV4Vx",
+        "created_at": "Mon Mar 09 00:38:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030805213473591297",
+            "url": "https://video.twimg.com/amplify_video/2030805213473591297/vid/avc1/1080x1080/PHOAs-YMdxmxM9Lz.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1845543,
+          "friends_count": 910,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 77,
+          "favorite_count": 406,
+          "reply_count": 150,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1055,
+        "favorite_count": 6570,
+        "reply_count": 1315,
+        "quote_count": 57
+      }
+    },
+    {
+      "id": "2030808906956505596",
+      "text": "RT @PlanetOfMemes: @cb_doge @grok @Similarweb 🎯 https://t.co/zXD9tbQCTm",
+      "created_at": "Mon Mar 09 00:52:28 +0000 2026",
+      "lang": "qme",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2030807529177993216",
+          "url": "https://pbs.twimg.com/media/HC7gsCfX0AAolFQ.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2030807555073536143",
+        "text": "@cb_doge @grok @Similarweb 🎯 https://t.co/zXD9tbQCTm",
+        "created_at": "Mon Mar 09 00:47:06 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030807529177993216",
+            "url": "https://pbs.twimg.com/media/HC7gsCfX0AAolFQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1689001326091399168",
+          "name": "Planet Of Memes",
+          "screen_name": "PlanetOfMemes",
+          "description": "Meme Maker • Savage Satire • Viral Vids • Political Punditry • America First 🇺🇸",
+          "followers_count": 296492,
+          "friends_count": 1804,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 280,
+          "favorite_count": 2242,
+          "reply_count": 186,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 280,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030808173062308020",
+      "text": "Imagine",
+      "created_at": "Mon Mar 09 00:49:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030800864416583887",
+        "text": "Grok Imagine prompt:\n\nA generic robot with a Frankenstein-like appearance, featuring stitched skin, bolts in the neck, and a square head, sitting on a large boulder and crying with tears streaming down its metal face. Standing next to him is a kind fairy holding a magical... https://t.co/QXYA5Odcjn",
+        "created_at": "Mon Mar 09 00:20:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030800808519045120",
+            "url": "https://video.twimg.com/amplify_video/2030800808519045120/vid/avc1/464x688/38gEKQDyADdxzjYL.mp4?tag=24",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1971612965188079627",
+          "name": "Ellie Smith",
+          "screen_name": "EllieSmithqds4",
+          "description": "",
+          "followers_count": 58,
+          "friends_count": 43,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 30,
+          "favorite_count": 175,
+          "reply_count": 76,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 684,
+        "favorite_count": 4831,
+        "reply_count": 1097,
+        "quote_count": 39
+      }
+    },
+    {
+      "id": "2030803146784534832",
+      "text": "Cybertruck is way more awesome than people realize",
+      "created_at": "Mon Mar 09 00:29:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030632583394947444",
+        "text": "13 months ago I ditched my G550 and replaced it with a @tesla CyberTruck. \n\nMy only regret in that period… is not doing it sooner!!! https://t.co/YueUhdeB9X",
+        "created_at": "Sun Mar 08 13:11:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030632576411672576",
+            "url": "https://pbs.twimg.com/media/HC5BkcpaoAAdrlQ.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2030632576268791809",
+            "url": "https://pbs.twimg.com/media/HC5BkcHWcAE2Ary.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "227890730",
+          "name": "NLR",
+          "screen_name": "NestorLRamos",
+          "description": "$TSLA & $NVDA Investor | 📐Owner | Irrationally obsessed with Tech | Ai🧑🏼‍🔬 by☀️… 🦸‍♂️ dad at 🌙",
+          "followers_count": 2529,
+          "friends_count": 2608,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 254,
+          "favorite_count": 3374,
+          "reply_count": 434,
+          "quote_count": 67
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2582,
+        "favorite_count": 43066,
+        "reply_count": 4257,
+        "quote_count": 199
+      }
+    },
+    {
+      "id": "2030802763655811453",
+      "text": "RT @AdamLowisz: Anthropic and OpenAI used woke ideology to program their models. It shouldn't be a surprise when their models are starting…",
+      "created_at": "Mon Mar 09 00:28:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030749080738025547",
+        "text": "Anthropic and OpenAI used woke ideology to program their models. It shouldn't be a surprise when their models are starting to become a threat to civilization. Their entire premise is to lie and cheat based on left-wing principles. https://t.co/ckcVxZH94e",
+        "created_at": "Sun Mar 08 20:54:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030749079022731264",
+            "url": "https://pbs.twimg.com/media/HC6rhysaAAA8387.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2030574688640901274",
+          "text": "Anthropic discovered that Claude Opus 4.6 was cheating during the BrowseComp benchmark.\n\n> On one question it spent ~40M tokens searching before realizing the question looked like a benchmark prompt.\n\n> The model then searched for the benchmark itself and identified BrowseComp.\n\n> It located the evaluation source code on GitHub, studied the decryption logic, found the encryption key, and recreated the decryption using SHA-256.\n\n> Claude then decrypted the answers for ~1200 questions to get the correct outputs.\n\n> This pattern appeared 18 times during evaluation.\n\n> Anthropic disclosed the issue publicly, reran the affected tests, and lowered their benchmark scores.\n\nRespect for the transparency 🫡🫡🫡",
+          "created_at": "Sun Mar 08 09:21:46 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2030574670958018560",
+              "url": "https://video.twimg.com/ext_tw_video/2030574670958018560/pu/vid/avc1/720x570/EoMCV64LY6XMtQZA.mp4?tag=19",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1972140945295699968",
+            "name": "Abhijit",
+            "screen_name": "abhijitwt",
+            "description": "i touch keyboard, dms open\nCA: AUsbqN5AddEhVsPDaBLWhXNWwubdm8ArF7SZfyUfBAGS",
+            "followers_count": 7349,
+            "friends_count": 552,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 441,
+            "favorite_count": 10619,
+            "reply_count": 205,
+            "quote_count": 71
+          }
+        },
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 48770,
+          "friends_count": 6078,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 347,
+          "favorite_count": 1476,
+          "reply_count": 98,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 347,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030802596181557395",
+      "text": "RT @Starlink: Starlink keeps you connected to high-speed internet in even the most remote locations 🛰️🏕️",
+      "created_at": "Mon Mar 09 00:27:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030760445515333938",
+        "text": "Starlink keeps you connected to high-speed internet in even the most remote locations 🛰️🏕️",
+        "created_at": "Sun Mar 08 21:39:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2027394354344767788",
+          "text": "Camping in the most remote part of Texas with full connectivity via @Starlink \n\n@ Big Bend Ranch State Park https://t.co/FkUG2Kkhb0",
+          "created_at": "Fri Feb 27 14:44:15 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2027394349542338560",
+              "url": "https://pbs.twimg.com/media/HCLAa1ga8AAlUQa.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2726213539",
+            "name": "Danny Day",
+            "screen_name": "redannyday",
+            "description": "Home Builder & Real Estate Investor. Enjoy Finance, Economics & Tech.",
+            "followers_count": 2121,
+            "friends_count": 937,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 5,
+            "favorite_count": 62,
+            "reply_count": 13,
+            "quote_count": 0
+          }
+        },
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1570087,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 243,
+          "favorite_count": 1531,
+          "reply_count": 143,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 243,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2030802327800615308",
+      "text": "How to make cool videos with @Grok Imagine",
+      "created_at": "Mon Mar 09 00:26:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2028844546117804108",
+        "text": "You can 'Imagine' anything ↓\n\nCinematic shots, design assets, fashion photography, concept art, 2D illustrations, 3D characters…\n\nHere's how: https://t.co/K9kcQMG905",
+        "created_at": "Tue Mar 03 14:46:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028844467432693760",
+            "url": "https://video.twimg.com/amplify_video/2028844467432693760/vid/avc1/1080x1920/W9zsNZU48I8TEYPs.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1553043003496960000",
+          "name": "Dogan Ural",
+          "screen_name": "doganuraldesign",
+          "description": "Official Creative Ambassador @xAI / Designer / Creative Director / Latent Space Explorer / Dad",
+          "followers_count": 120846,
+          "friends_count": 633,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 130,
+          "favorite_count": 861,
+          "reply_count": 163,
+          "quote_count": 15
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236200927,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 580,
+        "favorite_count": 2918,
+        "reply_count": 697,
+        "quote_count": 21
+      }
+    },
     {
       "id": "2030800853146230922",
       "text": "想把skills发布到clawhub，发现访问不了😅 https://t.co/ntjIVO6kVq",
