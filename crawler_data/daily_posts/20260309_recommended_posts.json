@@ -1,12 +1,171 @@
 {
   "date": "20260309",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-09T14:21:57.761010",
-  "tweet_count": 231,
-  "unique_tweet_count": 231,
+  "last_crawl_time": "2026-03-09T16:23:11.600124",
+  "tweet_count": 234,
+  "unique_tweet_count": 234,
   "total_crawled": 431,
-  "duplicates_removed": 200,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2031042859114369256",
+      "text": "😑",
+      "created_at": "Mon Mar 09 16:22:07 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031006906894934104",
+        "text": "This really is an all time photo. A protestor shouting about the pros of immigration is interrupted by an Islamic terrorist throwing a bomb jumping over him. https://t.co/3TyBfewCYT",
+        "created_at": "Mon Mar 09 13:59:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031006903203942400",
+            "url": "https://pbs.twimg.com/media/HC-WBInWUAAw9wc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1122265194036715520",
+          "name": "memetic_sisyphus",
+          "screen_name": "memeticsisyphus",
+          "description": "One must imagine I’m happy",
+          "followers_count": 76106,
+          "friends_count": 1102,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3689,
+          "favorite_count": 22439,
+          "reply_count": 194,
+          "quote_count": 143
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236241232,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 27,
+        "favorite_count": 195,
+        "reply_count": 96,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031042654117806409",
+      "text": "RT @christiandean_: Grok 4.1 is currently reviewing the entire corpus of EU legislation, one regulation at a time.\n\n21 / 149,183 so far.\n\nE…",
+      "created_at": "Mon Mar 09 16:21:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030816198145835301",
+        "text": "Grok 4.1 is currently reviewing the entire corpus of EU legislation, one regulation at a time.\n\n21 / 149,183 so far.\n\nEach with a single verdict: keep or delete. https://t.co/kkICWmoVSL",
+        "created_at": "Mon Mar 09 01:21:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030815782113083392",
+            "url": "https://pbs.twimg.com/media/HC7oMbEbgAAlEra.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1385207390853865472",
+          "name": "Christian Dean",
+          "screen_name": "christiandean_",
+          "description": "Building a language app on top of the most effective language acquisition theory.",
+          "followers_count": 3073,
+          "friends_count": 448,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 185,
+          "favorite_count": 2184,
+          "reply_count": 131,
+          "quote_count": 39
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236241232,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 185,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031019674721251608",
+      "text": "RT @Suyanzhenq: Openclaw的风也刮到美国退休人士圈了，今天听到一个目前可能是最好的龙虾🦞使用案例：\n\n有个朋友说他用openclaw替他念经，已经念了36665遍了，功德都积在他身上。\n\n我问他为啥不用念佛机呀？他说那个东西还得买，这个白嫖openai的订…",
+      "created_at": "Mon Mar 09 14:49:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2030969742526136607",
+        "text": "Openclaw的风也刮到美国退休人士圈了，今天听到一个目前可能是最好的龙虾🦞使用案例：\n\n有个朋友说他用openclaw替他念经，已经念了36665遍了，功德都积在他身上。\n\n我问他为啥不用念佛机呀？他说那个东西还得买，这个白嫖openai的订阅就行。\n\n🙃🙃",
+        "created_at": "Mon Mar 09 11:31:34 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "913269761735254017",
+          "name": "pippingg",
+          "screen_name": "Suyanzhenq",
+          "description": "From deep occran",
+          "followers_count": 5195,
+          "friends_count": 1405,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 49,
+          "reply_count": 9,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195384,
+        "friends_count": 1577,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2030913482301083900",
       "text": "🤔",

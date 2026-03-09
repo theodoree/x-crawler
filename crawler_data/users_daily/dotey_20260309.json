@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 195345,
+    "followers_count": 195384,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260309",
-  "last_updated": "2026-03-09T14:21:57.818847",
-  "tweet_count": 1,
+  "last_updated": "2026-03-09T16:23:11.659881",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2030800853146230922",
@@ -27,6 +27,45 @@
       "quoted": null,
       "stats": {
         "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031019674721251608",
+      "text": "RT @Suyanzhenq: Openclaw的风也刮到美国退休人士圈了，今天听到一个目前可能是最好的龙虾🦞使用案例：\n\n有个朋友说他用openclaw替他念经，已经念了36665遍了，功德都积在他身上。\n\n我问他为啥不用念佛机呀？他说那个东西还得买，这个白嫖openai的订…",
+      "created_at": "Mon Mar 09 14:49:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2030969742526136607",
+        "text": "Openclaw的风也刮到美国退休人士圈了，今天听到一个目前可能是最好的龙虾🦞使用案例：\n\n有个朋友说他用openclaw替他念经，已经念了36665遍了，功德都积在他身上。\n\n我问他为啥不用念佛机呀？他说那个东西还得买，这个白嫖openai的订阅就行。\n\n🙃🙃",
+        "created_at": "Mon Mar 09 11:31:34 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "913269761735254017",
+          "name": "pippingg",
+          "screen_name": "Suyanzhenq",
+          "description": "From deep occran",
+          "followers_count": 5195,
+          "friends_count": 1405,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 49,
+          "reply_count": 9,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

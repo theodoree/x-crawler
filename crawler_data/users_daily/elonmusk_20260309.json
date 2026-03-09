@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236227640,
+    "followers_count": 236241232,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260309",
-  "last_updated": "2026-03-09T14:21:57.794065",
-  "tweet_count": 35,
+  "last_updated": "2026-03-09T16:23:11.634256",
+  "tweet_count": 37,
   "tweets": [
     {
       "id": "2030795780991193569",
@@ -1497,6 +1497,96 @@
         "favorite_count": 2668,
         "reply_count": 605,
         "quote_count": 18
+      }
+    },
+    {
+      "id": "2031042654117806409",
+      "text": "RT @christiandean_: Grok 4.1 is currently reviewing the entire corpus of EU legislation, one regulation at a time.\n\n21 / 149,183 so far.\n\nE…",
+      "created_at": "Mon Mar 09 16:21:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030816198145835301",
+        "text": "Grok 4.1 is currently reviewing the entire corpus of EU legislation, one regulation at a time.\n\n21 / 149,183 so far.\n\nEach with a single verdict: keep or delete. https://t.co/kkICWmoVSL",
+        "created_at": "Mon Mar 09 01:21:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030815782113083392",
+            "url": "https://pbs.twimg.com/media/HC7oMbEbgAAlEra.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1385207390853865472",
+          "name": "Christian Dean",
+          "screen_name": "christiandean_",
+          "description": "Building a language app on top of the most effective language acquisition theory.",
+          "followers_count": 3073,
+          "friends_count": 448,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 185,
+          "favorite_count": 2184,
+          "reply_count": 131,
+          "quote_count": 39
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 185,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031042859114369256",
+      "text": "😑",
+      "created_at": "Mon Mar 09 16:22:07 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031006906894934104",
+        "text": "This really is an all time photo. A protestor shouting about the pros of immigration is interrupted by an Islamic terrorist throwing a bomb jumping over him. https://t.co/3TyBfewCYT",
+        "created_at": "Mon Mar 09 13:59:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031006903203942400",
+            "url": "https://pbs.twimg.com/media/HC-WBInWUAAw9wc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1122265194036715520",
+          "name": "memetic_sisyphus",
+          "screen_name": "memeticsisyphus",
+          "description": "One must imagine I’m happy",
+          "followers_count": 76106,
+          "friends_count": 1102,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3689,
+          "favorite_count": 22439,
+          "reply_count": 194,
+          "quote_count": 143
+        }
+      },
+      "stats": {
+        "retweet_count": 27,
+        "favorite_count": 195,
+        "reply_count": 96,
+        "quote_count": 0
       }
     }
   ]
