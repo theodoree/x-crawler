@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236186045,
+    "followers_count": 236191248,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260308",
-  "last_updated": "2026-03-08T22:05:56.582084",
-  "tweet_count": 58,
+  "last_updated": "2026-03-09T00:22:08.262725",
+  "tweet_count": 59,
   "tweets": [
     {
       "id": "2030443197256667615",
@@ -2770,6 +2770,52 @@
         "favorite_count": 6389,
         "reply_count": 1731,
         "quote_count": 99
+      }
+    },
+    {
+      "id": "2030795591458931029",
+      "text": "82k pax moved fast in Vegas tunnels by @boringcompany",
+      "created_at": "Sun Mar 08 23:59:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030784837729259897",
+        "text": "Vegas Loop safely moved ~82,000 passengers at the amazing @CONEXPOCONAGG construction trade show.  @LVCC https://t.co/mJ6fgNzb1K",
+        "created_at": "Sun Mar 08 23:16:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030776441101836288",
+            "url": "https://video.twimg.com/amplify_video/2030776441101836288/vid/avc1/1920x1080/1CKIJ5Sygq9EyZUG.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "859816394556284929",
+          "name": "The Boring Company",
+          "screen_name": "boringcompany",
+          "description": "Beat the snail",
+          "followers_count": 1105236,
+          "friends_count": 9,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 75,
+          "favorite_count": 675,
+          "reply_count": 38,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 474,
+        "favorite_count": 3559,
+        "reply_count": 450,
+        "quote_count": 10
       }
     }
   ]
