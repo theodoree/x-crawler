@@ -1,12 +1,149 @@
 {
   "date": "20260309",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-09T20:09:06.290463",
-  "tweet_count": 251,
-  "unique_tweet_count": 251,
-  "total_crawled": 449,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-03-09T22:08:24.023554",
+  "tweet_count": 255,
+  "unique_tweet_count": 255,
+  "total_crawled": 451,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2031126181446119808",
+      "text": "ClawHub account: JimLiu\nClawHub display name: Jim Liu 宝玉\nGitHub repository: https://t.co/FIbU7a9Zcx\n\nConflicting Skills\nhttps://t.co/CZIpA3bQIg\nhttps://t.co/sSvOKBOw7L\nhttps://t.co/X29JNr9FuG\nhttps://t.co/ZNob2Cl7ug\n\nAll those skills were forked from\nhttps://t.co/FIbU7a9Zcx",
+      "created_at": "Mon Mar 09 21:53:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195420,
+        "friends_count": 1579,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031124561182257210",
+      "text": "Hi @steipete and @4shadowed, is there a formal process to appeal ClawHub skill ownership or request a transfer? I’m running into a case where someone forked my repo and published some of my skill slugs first, and now I can’t publish/update them under my own account. \n\nThese skills are already used by many people on other platforms, so I’d strongly prefer not to rename them. Any guidance would be appreciated.",
+      "created_at": "Mon Mar 09 21:46:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195420,
+        "friends_count": 1579,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031117757459100030",
+      "text": "Anthropic 推出 Code Review：用一组 AI Agent 帮你做代码审查 https://t.co/YTzdoo0AGq\n\nAnthropic 今天发布了 Claude Code 的新功能 Code Review，针对 GitHub 上的每个 Pull Request（代码合并请求）自动派出一组 AI Agent 进行深度审查，目前面向 Team 和 Enterprise 计划用户开放研究预览。\n（注意个人用户还用不了）\n\n这个功能的背景：过去一年，Anthropic 内部工程师的代码产出增长了 200%，代码审查成了瓶颈。他们发现客户也面临同样的问题，开发者疲于应付，很多 PR 只是被快速扫一眼，而非认真审读。\n\nCode Review 的工作方式是：当 PR 提交后，系统自动派出多个 Agent 并行查找 bug，交叉验证以过滤误报，再按严重程度排序。\n\n最终在 PR 上生成一条汇总评论，外加逐行的具体标注。大型复杂的 PR 会分配更多 Agent 做更深的审查，小改动则轻量处理，平均审查时间约 20 分钟。\n\nAnthropic 自己已经内部使用了几个月。使用前，只有 16% 的 PR 能收到实质性审查意见；使用后，这个比例升到了 54%。\n\n在超过 1000 行改动的大 PR 中，84% 会被发现问题，平均每个 PR 找出 7.5 个问题。工程师对结果的认可度很高，不到 1% 的发现被标记为误报。\n\n他们举了个例子：一个看起来很常规的单行改动，实际上会导致生产环境的身份认证功能失效。Code Review 把它标记为严重问题，提交代码的工程师事后承认自己不会注意到这个问题。\n\n不过这个功能不便宜。它按 token 用量计费，每次审查平均花费 15 到 25 美元，随 PR 规模浮动。管理员可以设置月度预算上限、选择启用的仓库，也有分析看板追踪使用情况。\n\n值得注意的是，Code Review 不会自动批准 PR，最终是否合并仍由人决定。它的定位是补上人工审查的盲区，而非取代人类审查者。\n\nAnthropic 此前已有开源的 Claude Code GitHub Action 做轻量审查，这次的 Code Review 是更重量级、也更贵的选项。",
+      "created_at": "Mon Mar 09 21:19:44 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031087443961851904",
+          "url": "https://video.twimg.com/amplify_video/2031087443961851904/vid/avc1/1920x1080/xxAmejvnCLcAmnK9.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195420,
+        "friends_count": 1579,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 15,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031113292995784761",
+      "text": "RT @JaceHoiX: 看到几个博主发腾讯的qclaw，现在看到已经被暂停下载了，我来说说可能的原因。\n\n你们观察一下首页，这里面最有意思的一点是，有个小字标识这个产品是腾讯手机管家的出品。这个是我待了6年的部门，里面还是有些门门道道的。… https://t.co/lk3…",
+      "created_at": "Mon Mar 09 21:01:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2030894983277097434",
+        "text": "看到几个博主发腾讯的qclaw，现在看到已经被暂停下载了，我来说说可能的原因。\n\n你们观察一下首页，这里面最有意思的一点是，有个小字标识这个产品是腾讯手机管家的出品。这个是我待了6年的部门，里面还是有些门门道道的。\n\n当年，腾讯为什么要做手机安全？因为十多年前发生了著名的3Q大战，他们要防御360，防止360在移动互联网颠覆腾讯。所以腾讯手机管家来源于，腾讯收购广州的一个安全创始公司，并合并到MIG而来的。\n\n但是，腾讯手机管家不想只做防御，创始团队还是有雄心的，在微信还没出来时就开发了一款Q信，主攻移动互联网的即时通信。是不是很像现在的qclaw？但后来被微信打败了。Q信这个产品也关停了。\n\n后续发生了很多事，进行了非常多的内部创新，都失败了。另外主营业务开始崩塌，主要是手机都内置了安全应用，腾讯手机管家滑落成一个非常边缘的部门。很多核心员工被离职了，留在里面的人为了证明自己的价值依然在不停“内部创新”，不然就有可能继续被离职。\n\n腾讯手机管家招的人很多都是中大华工的计算机本硕，能力是绝对没问题的。问题是，这只是一个小部门孵化的产品，官网还只挂在手管而不是腾讯的网页下。\n\n这个qclaw就是一个“内部创新”的产品，接入的还是Kimi2.5，而不是接入元宝。他们的资源是很少的，唯一的优势就是跟微信一起在广州办公吧，可能对接微信会方便一点。\n\n马化腾重视起来的话，不会交给一个边缘部门操作，最终应该会是集团战略级产品。qclaw很可能会沦为下一个Q信，作为先卡住其他竞争对手陪跑的产品。之后让路给真的如weclaw之类的核心产品。我估计现在腾讯有不少于三个团队自己在孵化claw了，只是手管先发了出来。\n\n希望腾讯手机管家部门这次能把AI agent做起来吧，在内部赛马中击败其他claw。大家有的是能力，缺的只是一飞冲天的机会。",
+        "created_at": "Mon Mar 09 06:34:30 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030894906609405952",
+            "url": "https://pbs.twimg.com/media/HC8wKEyakAA99lv.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1242677086851960832",
+          "name": "Jace｜海",
+          "screen_name": "JaceHoiX",
+          "description": "深度Defi 爱好者｜投资者｜研究者\n\n套利者｜量化交易者",
+          "followers_count": 11729,
+          "friends_count": 2215,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 185,
+          "reply_count": 35,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195420,
+        "friends_count": 1579,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2031092414488694965",
       "text": "RT @libukai: 人啊，要想人前吹牛逼不被打脸，就得人后多花功夫好好练！\n\n前天小小吐槽了一下 @dotey  宝玉老师，说他做的 push-to-x skill 不够精致，连原生的代码样式都无法还原，还夸下海口要解决这个问题。\n\n这不苦熬了 2 个晚上，终于把流程优化…",
