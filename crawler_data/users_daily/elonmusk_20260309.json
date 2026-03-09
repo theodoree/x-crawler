@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236248391,
+    "followers_count": 236255880,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260309",
-  "last_updated": "2026-03-09T18:18:03.343822",
-  "tweet_count": 52,
+  "last_updated": "2026-03-09T20:09:06.332737",
+  "tweet_count": 53,
   "tweets": [
     {
       "id": "2030795780991193569",
@@ -2264,6 +2264,51 @@
         "favorite_count": 628,
         "reply_count": 330,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2031072416622064014",
+      "text": "lol",
+      "created_at": "Mon Mar 09 18:19:34 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031038279420719364",
+        "text": "These attacks, like all phishing, rely on social engineering. Attackers impersonate trusted contacts or services (such as the non-existent “Signal Support Bot”) to trick victims into handing over their login credentials or other information. To help prevent this, remember that your Signal SMS verification code is only ever needed when you are first signing up for the Signal app. 2/4",
+        "created_at": "Mon Mar 09 16:03:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031037596067926016",
+            "url": "https://pbs.twimg.com/media/HC-x7scXkAA3g3h.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "142415193",
+          "name": "Signal",
+          "screen_name": "signalapp",
+          "description": "Signal is a nonprofit end-to-end encrypted communications app. Privacy isn’t an optional mode, it’s the way Signal works. Every message, every call, every time.",
+          "followers_count": 610730,
+          "friends_count": 23,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 131,
+          "favorite_count": 641,
+          "reply_count": 65,
+          "quote_count": 30
+        }
+      },
+      "stats": {
+        "retweet_count": 900,
+        "favorite_count": 5509,
+        "reply_count": 1067,
+        "quote_count": 58
       }
     }
   ]

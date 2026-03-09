@@ -1,12 +1,147 @@
 {
   "date": "20260309",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-09T18:18:03.308814",
-  "tweet_count": 249,
-  "unique_tweet_count": 249,
-  "total_crawled": 434,
-  "duplicates_removed": 185,
+  "last_crawl_time": "2026-03-09T20:09:06.290463",
+  "tweet_count": 251,
+  "unique_tweet_count": 251,
+  "total_crawled": 449,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2031092414488694965",
+      "text": "RT @libukai: 人啊，要想人前吹牛逼不被打脸，就得人后多花功夫好好练！\n\n前天小小吐槽了一下 @dotey  宝玉老师，说他做的 push-to-x skill 不够精致，连原生的代码样式都无法还原，还夸下海口要解决这个问题。\n\n这不苦熬了 2 个晚上，终于把流程优化…",
+      "created_at": "Mon Mar 09 19:39:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031058988671086972",
+        "text": "人啊，要想人前吹牛逼不被打脸，就得人后多花功夫好好练！\n\n前天小小吐槽了一下 @dotey  宝玉老师，说他做的 push-to-x skill 不够精致，连原生的代码样式都无法还原，还夸下海口要解决这个问题。\n\n这不苦熬了 2 个晚上，终于把流程优化到位，把成功率给提升到接近 100% 了。\n\n下面的这个视频，就是在 Obsidian 中让 Claude Code 执行 obsidian-to-x skill，把一篇嵌入了十多张图片，以及三个代码块的 Markdown 文档发布到 X Article 的全过程录屏。\n\n总计耗时是3 分 48 秒，主要是图片的上传耗时太长，如果以文本为主，一分钟之内肯定可以解决问题。\n\n这个帖子转发的那篇文章，就是视频中完全依靠自动化流程完成的发布，你们看看代码块的效果是不是还挺漂亮的？\n\n优化这个 skill 的过程中，最大的挑战还是如何在 AI 的自由度和代码的稳定性之间找到最佳平衡点，既要能快速稳定完成主体流程，又要能灵活处理各种边缘情况，真是说起来容易做起来难啊。\n\n最后，感谢宝玉老师打下的良好基础，一切荣耀归功于它。由于我在这个 skill 中针对 Obsidian 的情况做了大幅的调整，就不去提交 PR 了。\n\n有兴趣的朋友，可以到评论中的 awesome-agent-skills repo 中的 skills 目录下翻翻看。我个人建议是，让 AI 阅读一下 skill 的内容，然后根据你的实际情况进行微调，那样的话能够达到最好的效果。",
+        "created_at": "Mon Mar 09 17:26:12 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031053313006088192",
+            "url": "https://video.twimg.com/amplify_video/2031053313006088192/vid/avc1/1662x1080/2gc-aYMDPIdXaDhR.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2031051533937480146",
+          "text": "https://t.co/5iZIL1kvfZ",
+          "created_at": "Mon Mar 09 16:56:35 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "17703982",
+            "name": "李不凯正在研究",
+            "screen_name": "libukai",
+            "description": "一人公司，做小做强 | 中文区 No.1 Agent Skills 仓库维护者 | 聚焦自动化流程，构建 101 个 AI 员工 | 已交 Premium + 保护费",
+            "followers_count": 4992,
+            "friends_count": 1662,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 0,
+            "favorite_count": 7,
+            "reply_count": 0,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "17703982",
+          "name": "李不凯正在研究",
+          "screen_name": "libukai",
+          "description": "一人公司，做小做强 | 中文区 No.1 Agent Skills 仓库维护者 | 聚焦自动化流程，构建 101 个 AI 员工 | 已交 Premium + 保护费",
+          "followers_count": 4992,
+          "friends_count": 1662,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 14,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195406,
+        "friends_count": 1577,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031072416622064014",
+      "text": "lol",
+      "created_at": "Mon Mar 09 18:19:34 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031038279420719364",
+        "text": "These attacks, like all phishing, rely on social engineering. Attackers impersonate trusted contacts or services (such as the non-existent “Signal Support Bot”) to trick victims into handing over their login credentials or other information. To help prevent this, remember that your Signal SMS verification code is only ever needed when you are first signing up for the Signal app. 2/4",
+        "created_at": "Mon Mar 09 16:03:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031037596067926016",
+            "url": "https://pbs.twimg.com/media/HC-x7scXkAA3g3h.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "142415193",
+          "name": "Signal",
+          "screen_name": "signalapp",
+          "description": "Signal is a nonprofit end-to-end encrypted communications app. Privacy isn’t an optional mode, it’s the way Signal works. Every message, every call, every time.",
+          "followers_count": 610730,
+          "friends_count": 23,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 131,
+          "favorite_count": 641,
+          "reply_count": 65,
+          "quote_count": 30
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236255880,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 900,
+        "favorite_count": 5509,
+        "reply_count": 1067,
+        "quote_count": 58
+      }
+    },
     {
       "id": "2031071183781941629",
       "text": "Not bad",
