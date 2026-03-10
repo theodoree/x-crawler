@@ -1,12 +1,542 @@
 {
   "date": "20260310",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-10T02:57:17.037821",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
+  "last_crawl_time": "2026-03-10T04:34:51.270191",
+  "tweet_count": 209,
+  "unique_tweet_count": 209,
   "total_crawled": 400,
-  "duplicates_removed": 200,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2031225886834569428",
+      "text": "RT @teslajapan: テスラ家庭用蓄電池 Powerwall 3 の日本展開を決定。 https://t.co/uzqalN1xrF",
+      "created_at": "Tue Mar 10 04:29:24 +0000 2026",
+      "lang": "ja",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031190912383201280",
+          "url": "https://pbs.twimg.com/media/HDA9X4OaMAAkizw.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2031191559191064923",
+        "text": "テスラ家庭用蓄電池 Powerwall 3 の日本展開を決定。 https://t.co/uzqalN1xrF",
+        "created_at": "Tue Mar 10 02:13:00 +0000 2026",
+        "lang": "ja",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031190912383201280",
+            "url": "https://pbs.twimg.com/media/HDA9X4OaMAAkizw.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "197801736",
+          "name": "Tesla Japan",
+          "screen_name": "teslajapan",
+          "description": "【テスラジャパン公式】 電気自動車やエナジー関連製品を通して、世界の持続可能エネルギーへのシフトを加速します。 テスラの試乗予約はこちら→ https://t.co/CLA7bOjLN7 テスラ家庭用蓄電池の設置相談はこちら→https://t.co/6ndyBAqjfH",
+          "followers_count": 67541,
+          "friends_count": 49,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 181,
+          "favorite_count": 1161,
+          "reply_count": 78,
+          "quote_count": 42
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236277363,
+        "friends_count": 1293,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 181,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031225820837195800",
+      "text": "💯",
+      "created_at": "Tue Mar 10 04:29:08 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031223251075223999",
+        "text": "Let me get this straight\n\n> the silent filibuster isn't in the Constitution, it's literally just made up procedure\n\n> it allows a 40-senator minority to block one of the most important and overwhelmingly popular bills of all time \n\n> luckily, the majority could easily end the silent filibuster and do the will of 84% the people. \n\nExcept… they continue to apply loser logic\n\nThis isn’t business as usual. \n\nAnyone trying to support loser logic isn’t just a loser, they’re literally destroying the future of secure elections.   \n\nWhich is traitorous",
+        "created_at": "Tue Mar 10 04:18:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031223245383544832",
+            "url": "https://pbs.twimg.com/media/HDBax6CaMAAxirU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 64003,
+          "friends_count": 991,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 71,
+          "favorite_count": 266,
+          "reply_count": 14,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236277363,
+        "friends_count": 1293,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 280,
+        "favorite_count": 1436,
+        "reply_count": 213,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2031225583510893046",
+      "text": "RT @SpaceX: Liftoff! https://t.co/xdAryTrayy",
+      "created_at": "Tue Mar 10 04:28:12 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031223727384305664",
+          "url": "https://video.twimg.com/amplify_video/2031223727384305664/vid/avc1/3840x2160/8it9TJcUvLqCfDNg.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2031223797357969888",
+        "text": "Liftoff! https://t.co/xdAryTrayy",
+        "created_at": "Tue Mar 10 04:21:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031223727384305664",
+            "url": "https://video.twimg.com/amplify_video/2031223727384305664/vid/avc1/3840x2160/8it9TJcUvLqCfDNg.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41201019,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 168,
+          "favorite_count": 1155,
+          "reply_count": 173,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236277363,
+        "friends_count": 1293,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 168,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031222069778673731",
+      "text": "RT @disksing: 我一直在说，AI 时代最能打的，还得是那些本身能力强，基本功扎实，还具备架构设计、项目管理经验的人。\n\n今天给大家看个最极端的现身说法——我们 CTO @dxhuang 单枪匹马搞出来的两个硬核项目：\n\nhttps://t.co/fwcsucxQRV…",
+      "created_at": "Tue Mar 10 04:14:14 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031214648725483793",
+        "text": "我一直在说，AI 时代最能打的，还得是那些本身能力强，基本功扎实，还具备架构设计、项目管理经验的人。\n\n今天给大家看个最极端的现身说法——我们 CTO @dxhuang 单枪匹马搞出来的两个硬核项目：\n\nhttps://t.co/rZB6a7EizB \nAgent 持久化记忆基础设施。支持 SQL + RAG 混合搜索、Context Engine、会话导入、SKILL、CLI……啥啥都有。\n\n我问他这一套花多久捣鼓出来的，他说2天😳\n\n如果说上面这个有人会说“给我多点时间我也行”，那再看下面这个：\n\nhttps://t.co/gFfQNHPjhQ\n一个完整的 Serverless PostgreSQL 云数据库。注意，这不是套壳，整个项目包括兼容 PostgreSQL 的数据库引擎，全都是从零撸出来的。\n\n基本上一个人花 2-3 个月业余时间，干完了百人团队几年的活……\n\n聊完我是真有危机感了，不由地开始考虑到时候失业了是开滴滴还是送外卖。",
+        "created_at": "Tue Mar 10 03:44:45 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "467102254",
+          "name": "象牙山刘能",
+          "screen_name": "disksing",
+          "description": "生活有时是喜剧，有时是悲剧，但是不管什么时候都可以发段子。｜因为淋过雨，看别人淋雨的时候，送上录音笔。｜先天离婚圣体，古希腊掌管录音笔的神。｜https://t.co/w5SkYgz0KA 〔备用账号 @shadiaofriend〕",
+          "followers_count": 44811,
+          "friends_count": 612,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 71,
+          "reply_count": 4,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195501,
+        "friends_count": 1583,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031222021426675760",
+      "text": "我觉得无论是 Dify 或者是 Cursor，都不能用静态的眼光去看他们。技术模式也许会过时，或者不那么流行，但旧的技术首先能卖的出去就还有现金流，然后团队本身也在调整，那就还有很大机会。\n\n毕竟公司团队都是人组成的，人是活的，会根据形势调整的。要不怎么说投资就是投人而不是公司不是项目呢",
+      "created_at": "Tue Mar 10 04:14:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031219696423547190",
+        "text": "@dotey 这个模式应该不是未来的趋势吧，skill模式才是未来的趋势！欢迎讨论！",
+        "created_at": "Tue Mar 10 04:04:48 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "111498339",
+          "name": "Alex Zhang",
+          "screen_name": "jojogh_007",
+          "description": "🚀 Building AI tools https://t.co/HKcQFU7gvI and   https://t.co/dw43IbNPwG",
+          "followers_count": 1671,
+          "friends_count": 6027,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195501,
+        "friends_count": 1583,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 18,
+        "reply_count": 3,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2031217295448592830",
+      "text": "开源 AI 应用开发平台 Dify 完成 3000 万美元 Pre-A 轮融资，由红杉资本（HSG）领投，GL Ventures、Alt-Alpha Capital（Bessemer Venture Partners 旗下新分拆基金）、五源资本、瑞穗利合投资和 NYX Ventures 跟投。其中五源资本是老股东追加投资。\n\nDify 成立于 2023 年 3 月，做的事情简单说就是：让不会写代码的人也能搭建 AI 工作流。它提供一个可视化的搭建界面和生产级基础设施，帮团队把大模型接入实际业务系统，比如文档审核流水线、企业内部知识助手、客服自动化等等。\n\n两年多下来，Dify 在 GitHub 上的星标数排到全球开源项目第 51 位，全球超过 140 万台机器在跑它的服务，覆盖 175 个国家和地区，有 280 家企业客户。\n\n这笔钱主要花在四个方向：让 Agent 工作流更稳更可靠、补齐企业级功能（权限、合规、审计等）、继续降低使用门槛让非开发者也能上手、以及壮大开源生态。\n\nDify 目前在旧金山湾区、东京、上海和苏州设有办公室。创始人的核心判断是：未来每个团队都会自己搭建 AI Agent 和工作流，而 Dify 要做的就是这个\"操作系统\"的逻辑层。",
+      "created_at": "Tue Mar 10 03:55:16 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031173195441787369",
+        "text": "Dify has raised $30M in our Pre-A round.\n\nWe started this in March 2023 with one conviction: AI should be accessible to everyone, not just the best-resourced teams. Two and a half years later, over 2,000 teams and 280 enterprises build their own AI workflows on Dify. Not adopting solutions. Building them.\n\nFull post from our CEO Luyu Zhang (@goocarlos): \nhttps://t.co/FvWKpnI3kX",
+        "created_at": "Tue Mar 10 01:00:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031146766096285696",
+            "url": "https://pbs.twimg.com/media/HDAVOOfaQAAmdF-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1633650246168502272",
+          "name": "Dify",
+          "screen_name": "dify_ai",
+          "description": "Build Production-Ready Agentic Workflow\n\nGitHub: https://t.co/MfnJ29Agzj\nDiscord: https://t.co/DJmS3kYvYZ\nReddit: https://t.co/EneVBsKTzR",
+          "followers_count": 21716,
+          "friends_count": 165,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 23,
+          "reply_count": 0,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195501,
+        "friends_count": 1583,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 9,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031217166541017491",
+      "text": "RT @KettlebellDan: geez have you seen how good Grok Imagine is getting \n\none shotted this video with a 6 word prompt https://t.co/g48q5KX8ka",
+      "created_at": "Tue Mar 10 03:54:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031150064085905409",
+          "url": "https://video.twimg.com/amplify_video/2031150064085905409/vid/avc1/464x688/jt-LbiEZrAA8vnPH.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": {
+        "id": "2031150114857955445",
+        "text": "geez have you seen how good Grok Imagine is getting \n\none shotted this video with a 6 word prompt https://t.co/g48q5KX8ka",
+        "created_at": "Mon Mar 09 23:28:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031150064085905409",
+            "url": "https://video.twimg.com/amplify_video/2031150064085905409/vid/avc1/464x688/jt-LbiEZrAA8vnPH.mp4?tag=24",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1578127809792409616",
+          "name": "Dan",
+          "screen_name": "KettlebellDan",
+          "description": "Hi I’m Dan a proud X employee and founder of the prestigious Kettlebell Krüe 🦾 Follow me for a daily X tip of the day for all of 2026",
+          "followers_count": 84437,
+          "friends_count": 1360,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 83,
+          "favorite_count": 675,
+          "reply_count": 199,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236277363,
+        "friends_count": 1293,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 83,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031214118955307435",
+      "text": "RT @berryxia: 🐶科研狗有福了啊～ 这个可以啊！\n\nalphaXiv 搞了一个skills，不用cc直接读pdf！\n可以从 alphaXiv 获取结构化的、AI 友好的论文概览。\n\n• PDF 直接喂给 AI → 格式混乱、效果差\n• alphaXiv Skill…",
+      "created_at": "Tue Mar 10 03:42:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031182671041429681",
+        "text": "🐶科研狗有福了啊～ 这个可以啊！\n\nalphaXiv 搞了一个skills，不用cc直接读pdf！\n可以从 alphaXiv 获取结构化的、AI 友好的论文概览。\n\n• PDF 直接喂给 AI → 格式混乱、效果差\n• alphaXiv Skill → 结构化数据，AI 更好理解\n https://t.co/99JPrvTlkN",
+        "created_at": "Tue Mar 10 01:37:40 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031119429573160962",
+            "url": "https://video.twimg.com/amplify_video/2031119429573160962/vid/avc1/1920x1080/-znXZky3YDOKPYhU.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "431617343",
+          "name": "Berryxia.AI",
+          "screen_name": "berryxia",
+          "description": "🧠✨Building AI tools AI System Prompt ❤️🐳      💻 Love Design & Coding & Share Prompt！ 💼📮:Andyhuo@me.com",
+          "followers_count": 28203,
+          "friends_count": 424,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 45,
+          "favorite_count": 223,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195501,
+        "friends_count": 1583,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 45,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031211256380575931",
+      "text": "RT @goocarlos: In March 2023, we started Dify with one belief: this technology should reach everyone equally.\nTwo and a half years later —…",
+      "created_at": "Tue Mar 10 03:31:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031177631547404298",
+        "text": "In March 2023, we started Dify with one belief: this technology should reach everyone equally.\nTwo and a half years later — 1.4 million devices, 175 countries, #51 on GitHub.\nToday we're announcing a $30M Pre-A round. But what I really want to talk about is what comes next: a world where every team builds software and Agents that are entirely their own — no adapting to off-the-shelf tools, no prerequisite engineering degree.\nDevelopers are where we start. Everyone is where we're going.\nWe have a long way to go.",
+        "created_at": "Tue Mar 10 01:17:39 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2031173195441787369",
+          "text": "Dify has raised $30M in our Pre-A round.\n\nWe started this in March 2023 with one conviction: AI should be accessible to everyone, not just the best-resourced teams. Two and a half years later, over 2,000 teams and 280 enterprises build their own AI workflows on Dify. Not adopting solutions. Building them.\n\nFull post from our CEO Luyu Zhang (@goocarlos): \nhttps://t.co/FvWKpnI3kX",
+          "created_at": "Tue Mar 10 01:00:01 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2031146766096285696",
+              "url": "https://pbs.twimg.com/media/HDAVOOfaQAAmdF-.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1633650246168502272",
+            "name": "Dify",
+            "screen_name": "dify_ai",
+            "description": "Build Production-Ready Agentic Workflow\n\nGitHub: https://t.co/MfnJ29Agzj\nDiscord: https://t.co/DJmS3kYvYZ\nReddit: https://t.co/EneVBsKTzR",
+            "followers_count": 21716,
+            "friends_count": 165,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 9,
+            "favorite_count": 23,
+            "reply_count": 0,
+            "quote_count": 11
+          }
+        },
+        "user": {
+          "id": "14046502",
+          "name": "Luyu Zhang",
+          "screen_name": "goocarlos",
+          "description": "CEO&Founder of @dify_ai",
+          "followers_count": 24960,
+          "friends_count": 906,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 44,
+          "reply_count": 17,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195501,
+        "friends_count": 1583,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2031157787578057034",
       "text": "True",
