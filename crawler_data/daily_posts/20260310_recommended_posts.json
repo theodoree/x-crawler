@@ -1,11 +1,11 @@
 {
   "date": "20260310",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-10T10:15:39.027882",
-  "tweet_count": 227,
-  "unique_tweet_count": 227,
+  "last_crawl_time": "2026-03-10T12:12:37.069824",
+  "tweet_count": 229,
+  "unique_tweet_count": 229,
   "total_crawled": 427,
-  "duplicates_removed": 200,
+  "duplicates_removed": 198,
   "tweets": [
     {
       "id": "2031272408691192049",
@@ -7167,6 +7167,85 @@
       }
     },
     {
+      "id": "2030518620262990051",
+      "text": "RT @paranoidream: This is cool! Have you tried Grok 4.20 yet?",
+      "created_at": "Sun Mar 08 05:38:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030455035025629234",
+        "text": "This is cool! Have you tried Grok 4.20 yet?",
+        "created_at": "Sun Mar 08 01:26:19 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2030261921056776366",
+          "text": "Whoa holy shit this is amazing. \n\nI now have 4 customized agnets. \n\nGROK - team leader acts as my zealous advocate. Ruthless adopts my frame, my narrative, and my mission. Advocates for my goals to the other agents and maximizes professionalism, usefulness, and integrity. \n\nSOCRATES - looks for reasoning flaws, assumptions, and biases. Steers away from low value mental models and towards high value mental models. \n\nLIBRARIAN - focuses on data, information, and media. Sources. Nuanced sources. \n\nMUNGER - ruthlessly pragmatic. Doesn't care for abstract theory. Focuses on practical utility and coherence.",
+          "created_at": "Sat Mar 07 12:38:57 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2030261498753253376",
+              "url": "https://pbs.twimg.com/media/HCzwE4pXAAAvlIO.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1795781228399869952",
+            "name": "David Shapiro (L/0)",
+            "screen_name": "DaveShapi",
+            "description": "Liberate humanity from drudgery.",
+            "followers_count": 55988,
+            "friends_count": 986,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 267,
+            "favorite_count": 2630,
+            "reply_count": 237,
+            "quote_count": 43
+          }
+        },
+        "user": {
+          "id": "229370002",
+          "name": "paranoidream ♡︎",
+          "screen_name": "paranoidream",
+          "description": "✨🔭🌞📚🍯🌹⚡️🧩📸🎶🎬🪩💋🔮🚀🚘🕳️🧠 𝕩 🇺🇸✌️🐕 ⚖️🤖♟️📡 🛰️💫 ... . . -.- . .-. / --- ..-. / .. -. . ..-. ..-. .- -... .-.. . / - .-. ..- - .... ...",
+          "followers_count": 9736,
+          "friends_count": 1127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 412,
+          "favorite_count": 1109,
+          "reply_count": 87,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236296452,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 412,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
       "id": "2030518377970536460",
       "text": "RT @JessePeltan: The best time to electrify transportation is 20 years ago.\n\nThe second best time is now.\n\n- Chinese Proverb",
       "created_at": "Sun Mar 08 05:38:01 +0000 2026",
@@ -8440,6 +8519,61 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2030446126655013010",
+      "text": "Design your own agents with Grok",
+      "created_at": "Sun Mar 08 00:50:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030261921056776366",
+        "text": "Whoa holy shit this is amazing. \n\nI now have 4 customized agnets. \n\nGROK - team leader acts as my zealous advocate. Ruthless adopts my frame, my narrative, and my mission. Advocates for my goals to the other agents and maximizes professionalism, usefulness, and integrity. \n\nSOCRATES - looks for reasoning flaws, assumptions, and biases. Steers away from low value mental models and towards high value mental models. \n\nLIBRARIAN - focuses on data, information, and media. Sources. Nuanced sources. \n\nMUNGER - ruthlessly pragmatic. Doesn't care for abstract theory. Focuses on practical utility and coherence.",
+        "created_at": "Sat Mar 07 12:38:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030261498753253376",
+            "url": "https://pbs.twimg.com/media/HCzwE4pXAAAvlIO.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1795781228399869952",
+          "name": "David Shapiro (L/0)",
+          "screen_name": "DaveShapi",
+          "description": "Liberate humanity from drudgery.",
+          "followers_count": 55988,
+          "friends_count": 986,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 267,
+          "favorite_count": 2630,
+          "reply_count": 237,
+          "quote_count": 43
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236296452,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2340,
+        "favorite_count": 18748,
+        "reply_count": 1640,
+        "quote_count": 103
       }
     },
     {
