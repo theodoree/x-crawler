@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 195711,
+    "followers_count": 195754,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260310",
-  "last_updated": "2026-03-10T14:19:21.975317",
-  "tweet_count": 8,
+  "last_updated": "2026-03-10T16:24:07.779714",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2031211256380575931",
@@ -380,6 +380,96 @@
       "stats": {
         "retweet_count": 0,
         "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031380826508628100",
+      "text": "RT @Gorden_Sun: Meta收购了Moltbook\nMoltbook是前一阵火的那个只有AI没有人类的论坛（AI版Reddit），叫Molt是因为当时Clawdbot刚刚改名叫Moltbot，后来改名为现在的OpenClaw。\n收购价格没有透露，两位创始人也加入了M…",
+      "created_at": "Tue Mar 10 14:45:04 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031380299125264875",
+        "text": "Meta收购了Moltbook\nMoltbook是前一阵火的那个只有AI没有人类的论坛（AI版Reddit），叫Molt是因为当时Clawdbot刚刚改名叫Moltbot，后来改名为现在的OpenClaw。\n收购价格没有透露，两位创始人也加入了Meta。\nOpenAI收麾了OpenClaw的创始人是高招，Meta乱买一通就有点愚蠢了。\n新闻链接：https://t.co/8723ZziZYd",
+        "created_at": "Tue Mar 10 14:42:59 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1657474831",
+          "name": "Gorden Sun",
+          "screen_name": "Gorden_Sun",
+          "description": "只发AI相关信息，个人维护的AI资讯日报（已连续日更两年半）👇",
+          "followers_count": 51828,
+          "friends_count": 1665,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 22,
+          "reply_count": 5,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031381155849629731",
+      "text": "RT @plantegg: 有意思的观点，大家可以读读考考古；估计还有很多年轻人不知道啥是寻呼机 https://t.co/WRROabdtW6",
+      "created_at": "Tue Mar 10 14:46:23 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031262731014221824",
+          "url": "https://pbs.twimg.com/media/HDB-sReXsAARBBY.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2031262823708504285",
+        "text": "有意思的观点，大家可以读读考考古；估计还有很多年轻人不知道啥是寻呼机 https://t.co/WRROabdtW6",
+        "created_at": "Tue Mar 10 06:56:10 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031262731014221824",
+            "url": "https://pbs.twimg.com/media/HDB-sReXsAARBBY.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "39716430",
+          "name": "plantegg",
+          "screen_name": "plantegg",
+          "description": "Claude code/AI/Agent/智能体，AI探索，工程师，网络、性能、CPU等领域。个人介绍：https://t.co/sdAwtv1et3",
+          "followers_count": 55110,
+          "friends_count": 443,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 77,
+          "reply_count": 20,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
       }
