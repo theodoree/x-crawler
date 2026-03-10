@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236265253,
+    "followers_count": 236269606,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260309",
-  "last_updated": "2026-03-09T22:08:24.065350",
-  "tweet_count": 53,
+  "last_updated": "2026-03-10T00:19:30.756798",
+  "tweet_count": 55,
   "tweets": [
     {
       "id": "2030795780991193569",
@@ -2309,6 +2309,72 @@
         "favorite_count": 5509,
         "reply_count": 1067,
         "quote_count": 58
+      }
+    },
+    {
+      "id": "2031156544583381262",
+      "text": "Real picture of @StarbaseTX https://t.co/u3YcQTHpbf",
+      "created_at": "Mon Mar 09 23:53:51 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031156540267483136",
+          "url": "https://pbs.twimg.com/media/HDAeHKHa0AATyZ9.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1561,
+        "favorite_count": 20791,
+        "reply_count": 1937,
+        "quote_count": 110
+      }
+    },
+    {
+      "id": "2031157787578057034",
+      "text": "True",
+      "created_at": "Mon Mar 09 23:58:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031079556329910475",
+        "text": "Elon will never stifle competition - SpaceX literally proves it with every launch\n\nHere's what most people don't know:\n\nSpaceX launches satellites for Starlink's direct competitors - OneWeb, Amazon's Project Kuiper, and others......on the exact same Falcon 9 rockets, with the same commercial terms, zero preferential treatment\n\nThat is Elon's own rocket boosting his rivals\n\nSpaceX completed a record-shattering 165 orbital launches in 2025 alone - more than the entire rest of the world combined",
+        "created_at": "Mon Mar 09 18:47:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031078807025889282",
+            "url": "https://pbs.twimg.com/media/HC_XafOaMAI5fGL.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 165898,
+          "friends_count": 1647,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 216,
+          "favorite_count": 1285,
+          "reply_count": 113,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 568,
+        "favorite_count": 4641,
+        "reply_count": 590,
+        "quote_count": 19
       }
     }
   ]

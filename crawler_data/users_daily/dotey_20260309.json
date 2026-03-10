@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 195420,
+    "followers_count": 195437,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260309",
-  "last_updated": "2026-03-09T22:08:24.054465",
-  "tweet_count": 7,
+  "last_updated": "2026-03-10T00:19:30.778287",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2030800853146230922",
@@ -235,6 +235,52 @@
         "retweet_count": 0,
         "favorite_count": 2,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031141408921280866",
+      "text": "看着很酷👍",
+      "created_at": "Mon Mar 09 22:53:43 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030868882911900066",
+        "text": "我们的AI作品集出炉啦！\n这是我们 2xLabs 近半年的心血总结 \n 汇集了已上线及未公开的视觉方案，\n其中涵盖：影视、剧集、2D动画、CG动画，\n以及各种特效领域。 所有画面 100% 纯AI生成！\n原创音乐：束丹年\n🤖 感谢大家长期以来的关注与支持❤️\n🔥 Our AI showreel is finally out!\nA culmination of our hard work at 2xLabs over the past 6 months. \n Bringing together both released and exclusive unreleased visual solutions, covering: Films & TV series, 2D & CG animation, and various Visual Effects (VFX). All visuals are 100% purely AI-generated! \nOriginal Music: Dannian Shu\n🤖 Thank you all for your continuous support! ❤️\n#2xLabs #AIVideo #AIFilm #GenerativeAI #AIAnimation #VFX #Showreel #Kling #可灵AI #Dreamina #即梦 #Sora #Runway #AIart #Seedance #Grok",
+        "created_at": "Mon Mar 09 04:50:48 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2030867745726967808",
+            "url": "https://video.twimg.com/amplify_video/2030867745726967808/vid/avc1/1920x1080/au__n6hBEleNqDeK.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1795292128404246529",
+          "name": "2XLabs",
+          "screen_name": "2x_labs",
+          "description": "AI Visual Labs | vip@rplus.design",
+          "followers_count": 1517,
+          "friends_count": 10,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 42,
+          "favorite_count": 294,
+          "reply_count": 18,
+          "quote_count": 12
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
