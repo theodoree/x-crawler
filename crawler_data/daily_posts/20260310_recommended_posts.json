@@ -1,12 +1,1034 @@
 {
   "date": "20260310",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-10T06:16:24.317794",
-  "tweet_count": 211,
-  "unique_tweet_count": 211,
-  "total_crawled": 409,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-03-10T08:12:42.540423",
+  "tweet_count": 227,
+  "unique_tweet_count": 227,
+  "total_crawled": 411,
+  "duplicates_removed": 184,
   "tweets": [
+    {
+      "id": "2031272408691192049",
+      "text": "💯",
+      "created_at": "Tue Mar 10 07:34:16 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031080554544652449",
+        "text": "Remember... https://t.co/apNoRZqjzO",
+        "created_at": "Mon Mar 09 18:51:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031080550035853312",
+            "url": "https://pbs.twimg.com/media/HC_Y_8cXkAA9Byu.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1689001326091399168",
+          "name": "Planet Of Memes",
+          "screen_name": "PlanetOfMemes",
+          "description": "Meme Maker • Savage Satire • Viral Vids • Political Punditry • America First 🇺🇸",
+          "followers_count": 296774,
+          "friends_count": 1806,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 168,
+          "favorite_count": 892,
+          "reply_count": 66,
+          "quote_count": 17
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1572,
+        "favorite_count": 12335,
+        "reply_count": 1063,
+        "quote_count": 48
+      }
+    },
+    {
+      "id": "2031272329578258673",
+      "text": "It really is 😀",
+      "created_at": "Tue Mar 10 07:33:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031263659092226376",
+        "text": "Grok Imagine is incredibly fun to play with 😂 https://t.co/6IdXPiNpLc",
+        "created_at": "Tue Mar 10 06:59:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031263515902881792",
+            "url": "https://video.twimg.com/amplify_video/2031263515902881792/vid/avc1/954x720/JNE_7GfAaMSl7L_q.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 166077,
+          "friends_count": 1646,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 26,
+          "favorite_count": 209,
+          "reply_count": 75,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 425,
+        "favorite_count": 3608,
+        "reply_count": 934,
+        "quote_count": 32
+      }
+    },
+    {
+      "id": "2031272183931023524",
+      "text": "RT @doganuraldesign: The quality here is insane\n\nNo upscale, no edit, just pure text prompts https://t.co/CXZh8YZOPX",
+      "created_at": "Tue Mar 10 07:33:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031086431112777729",
+          "url": "https://pbs.twimg.com/media/HC_eWRKX0AEMLTV.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2031086447650897920",
+          "url": "https://pbs.twimg.com/media/HC_eXOxXgAA-AW7.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2031086460208660480",
+          "url": "https://pbs.twimg.com/media/HC_eX9jXwAAC1ea.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2031086490776907777",
+          "url": "https://pbs.twimg.com/media/HC_eZvbaMAEUJdv.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2031087201233060332",
+        "text": "The quality here is insane\n\nNo upscale, no edit, just pure text prompts https://t.co/CXZh8YZOPX",
+        "created_at": "Mon Mar 09 19:18:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031086431112777729",
+            "url": "https://pbs.twimg.com/media/HC_eWRKX0AEMLTV.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2031086447650897920",
+            "url": "https://pbs.twimg.com/media/HC_eXOxXgAA-AW7.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2031086460208660480",
+            "url": "https://pbs.twimg.com/media/HC_eX9jXwAAC1ea.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2031086490776907777",
+            "url": "https://pbs.twimg.com/media/HC_eZvbaMAEUJdv.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2031047137484513448",
+          "text": "Can you 'imagine' that!?\n\nYes, you can. Here's how ↓ https://t.co/2p5PEStq9M",
+          "created_at": "Mon Mar 09 16:39:07 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2031045090484137984",
+              "url": "https://video.twimg.com/amplify_video/2031045090484137984/vid/avc1/1080x1920/wfr_MJAeH710TwtW.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1553043003496960000",
+            "name": "Dogan Ural",
+            "screen_name": "doganuraldesign",
+            "description": "Official Creative Ambassador @xAI / Designer / Creative Director / Latent Space Explorer / Dad",
+            "followers_count": 121361,
+            "friends_count": 633,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 37,
+            "favorite_count": 263,
+            "reply_count": 41,
+            "quote_count": 7
+          }
+        },
+        "user": {
+          "id": "1553043003496960000",
+          "name": "Dogan Ural",
+          "screen_name": "doganuraldesign",
+          "description": "Official Creative Ambassador @xAI / Designer / Creative Director / Latent Space Explorer / Dad",
+          "followers_count": 121361,
+          "friends_count": 633,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 102,
+          "favorite_count": 648,
+          "reply_count": 95,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 102,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031271503858155880",
+      "text": "RT @RapidResponse47: .@POTUS: \"The only reason you vote against voter ID is because you want to cheat — there's no other reason.\" 💯 https:/…",
+      "created_at": "Tue Mar 10 07:30:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031122124040024069",
+        "text": ".@POTUS: \"The only reason you vote against voter ID is because you want to cheat — there's no other reason.\" 💯 https://t.co/YaYmxObcOg",
+        "created_at": "Mon Mar 09 21:37:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031121906586226688",
+            "url": "https://video.twimg.com/amplify_video/2031121906586226688/vid/avc1/1280x720/MK7PUn6Nh79sadkS.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1881451105454002176",
+          "name": "Rapid Response 47",
+          "screen_name": "RapidResponse47",
+          "description": "Official White House Rapid Response account. Supporting @POTUS's America First agenda and holding the Fake News accountable. MAGA!",
+          "followers_count": 1604728,
+          "friends_count": 69,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3071,
+          "favorite_count": 16218,
+          "reply_count": 700,
+          "quote_count": 106
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3071,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031269370568348151",
+      "text": "Yeah",
+      "created_at": "Tue Mar 10 07:22:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031158890222539213",
+        "text": "This Wait But Why illustration becomes more relevant each day in AI. https://t.co/RM6IFBbAIq",
+        "created_at": "Tue Mar 10 00:03:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031158888410529792",
+            "url": "https://pbs.twimg.com/media/HDAgP1oWQAAp3vY.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 48938,
+          "friends_count": 6079,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 34,
+          "favorite_count": 195,
+          "reply_count": 55,
+          "quote_count": 10
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 451,
+        "favorite_count": 3807,
+        "reply_count": 722,
+        "quote_count": 23
+      }
+    },
+    {
+      "id": "2031269280583745827",
+      "text": "RT @SpaceX: Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://t.co/4jyNHW3mHq",
+      "created_at": "Tue Mar 10 07:21:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031225773927849984",
+          "url": "https://video.twimg.com/amplify_video/2031225773927849984/vid/avc1/3840x2160/dinUNELdow36UFon.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2031225967960604699",
+        "text": "Falcon 9’s first stage has landed on the A Shortfall of Gravitas droneship https://t.co/4jyNHW3mHq",
+        "created_at": "Tue Mar 10 04:29:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031225773927849984",
+            "url": "https://video.twimg.com/amplify_video/2031225773927849984/vid/avc1/3840x2160/dinUNELdow36UFon.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41201667,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 360,
+          "favorite_count": 2694,
+          "reply_count": 207,
+          "quote_count": 27
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 360,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031268135303852337",
+      "text": "RT @MarioNawfal: What if you directed your own short film? Update Grok Imagine.\n\nYour mind is the studio.\n\nSee what happens when you take c…",
+      "created_at": "Tue Mar 10 07:17:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031226269988249662",
+        "text": "What if you directed your own short film? Update Grok Imagine.\n\nYour mind is the studio.\n\nSee what happens when you take control.\n\n@grok https://t.co/9SRivadls6",
+        "created_at": "Tue Mar 10 04:30:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031225838037790720",
+            "url": "https://video.twimg.com/amplify_video/2031225838037790720/vid/avc1/3218x2160/zCJ6Qcd2AgGV4K7K.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2030187552997552253",
+          "text": "Grok Imagine gets better almost every day",
+          "created_at": "Sat Mar 07 07:43:26 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 236281353,
+            "friends_count": 1295,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2182,
+            "favorite_count": 14509,
+            "reply_count": 1898,
+            "quote_count": 65
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3182023,
+          "friends_count": 50736,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 108,
+          "favorite_count": 571,
+          "reply_count": 140,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 108,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031268069222527443",
+      "text": "Yes!",
+      "created_at": "Tue Mar 10 07:17:01 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031065406748701063",
+        "text": "Save our elections. It’s common sense.\n\nPASS THE SAVE AMERICA ACT! 🗳️ https://t.co/z0G9fl82Rq",
+        "created_at": "Mon Mar 09 17:51:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031064247585878019",
+            "url": "https://pbs.twimg.com/media/HC_KLBFaMAM_er8.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1879644163769335808",
+          "name": "The White House",
+          "screen_name": "WhiteHouse",
+          "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+          "followers_count": 4039154,
+          "friends_count": 6,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10918,
+          "favorite_count": 39783,
+          "reply_count": 2755,
+          "quote_count": 530
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1810,
+        "favorite_count": 10309,
+        "reply_count": 823,
+        "quote_count": 42
+      }
+    },
+    {
+      "id": "2031268019570401289",
+      "text": "RT @KnowledgeArchiv: 2,400 years ago Aristotle tried to warn us about multiculturalism https://t.co/Rt0p5s1x64",
+      "created_at": "Tue Mar 10 07:16:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031051376969883648",
+          "url": "https://pbs.twimg.com/media/HC--d2TboAAXxfO.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2031051410863964222",
+        "text": "2,400 years ago Aristotle tried to warn us about multiculturalism https://t.co/Rt0p5s1x64",
+        "created_at": "Mon Mar 09 16:56:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031051376969883648",
+            "url": "https://pbs.twimg.com/media/HC--d2TboAAXxfO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1481084085296517120",
+          "name": "The Knowledge Archivist",
+          "screen_name": "KnowledgeArchiv",
+          "description": "Useful knowledge from the lives of the Greatest People in History. Building @realatlaspress",
+          "followers_count": 191173,
+          "friends_count": 876,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3293,
+          "favorite_count": 11191,
+          "reply_count": 217,
+          "quote_count": 151
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3293,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031267388986204511",
+      "text": "RT @p_ferragu: If you had any doubt that Mamdani is a despicable and dangerous Islamist liar. Saturday Islamist terrorists threw a bomb at…",
+      "created_at": "Tue Mar 10 07:14:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2030954264139379100",
+        "text": "If you had any doubt that Mamdani is a despicable and dangerous Islamist liar. Saturday Islamist terrorists threw a bomb at the police protecting a rightwing protest. The mayor willfully attributes the incident to protesters. The bomb thrower shouted Allah akbar https://t.co/CzxfTof2IC",
+        "created_at": "Mon Mar 09 10:30:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2030954258334470144",
+            "url": "https://pbs.twimg.com/media/HC9mIzMX0AAnpaW.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "981179219207213057",
+          "name": "Pierre Ferragu",
+          "screen_name": "p_ferragu",
+          "description": "Commenting on technology - no investment advice. Proud producer of https://t.co/2o6yVCO1My",
+          "followers_count": 126701,
+          "friends_count": 82,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 244,
+          "favorite_count": 1211,
+          "reply_count": 128,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 244,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031266925238792649",
+      "text": "RT @SpaceX: Deployment of @EchoStar XXV confirmed https://t.co/VrYd2QtjxT",
+      "created_at": "Tue Mar 10 07:12:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031232591643262976",
+          "url": "https://video.twimg.com/amplify_video/2031232591643262976/vid/avc1/3840x2160/UOZ53x3eQavJPXKI.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2031232661184811428",
+        "text": "Deployment of @EchoStar XXV confirmed https://t.co/VrYd2QtjxT",
+        "created_at": "Tue Mar 10 04:56:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031232591643262976",
+            "url": "https://video.twimg.com/amplify_video/2031232591643262976/vid/avc1/3840x2160/UOZ53x3eQavJPXKI.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41201667,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 380,
+          "favorite_count": 2903,
+          "reply_count": 187,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 380,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031266892296630778",
+      "text": "RT @skscartoon: Funny how election security can be seen as \"racist\" https://t.co/St13Qry0Hx",
+      "created_at": "Tue Mar 10 07:12:20 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031265531920269312",
+          "url": "https://pbs.twimg.com/media/HDCBPTqaQAAGUrx.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2031265538765381947",
+        "text": "Funny how election security can be seen as \"racist\" https://t.co/St13Qry0Hx",
+        "created_at": "Tue Mar 10 07:06:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031265531920269312",
+            "url": "https://pbs.twimg.com/media/HDCBPTqaQAAGUrx.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2030972391023648802",
+          "text": "Go fuck yourself, Senator.\n\nAs a Black man, go fuck yourself.\n\nEspecially when I KNOW you're attempting to triangulate Black people into giving Third World ILLEGALS voting rights, so YOUR accursed political entity can stay in power forever and ever.\n\nYou're an evil man.",
+          "created_at": "Mon Mar 09 11:42:06 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "97000212",
+            "name": "Isaiah L. Carter 🇺🇸",
+            "screen_name": "IsaiahLCarter",
+            "description": "Host of @ApostateRadioNY with @NinoChavezX, Sunday nights at 8p! B-More born, NYC made. ⚽ head. Uncle. 1st of Mr & Mrs Carter's boys. Anti-Statist. 🇺🇸 FIRST.",
+            "followers_count": 179327,
+            "friends_count": 5981,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 10054,
+            "favorite_count": 52900,
+            "reply_count": 1262,
+            "quote_count": 279
+          }
+        },
+        "user": {
+          "id": "1518557272854523904",
+          "name": "Skscartoon",
+          "screen_name": "skscartoon",
+          "description": "A small time artist down under",
+          "followers_count": 137150,
+          "friends_count": 440,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 162,
+          "favorite_count": 987,
+          "reply_count": 78,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 162,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031266387143086271",
+      "text": "RT @XFreeze: xAI just turned 3 today, and the heart of xAI is in Memphis\n\nThe Memphis progress is actually insane\n\nIn just 36 months, xAI w…",
+      "created_at": "Tue Mar 10 07:10:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031258076880277993",
+        "text": "xAI just turned 3 today, and the heart of xAI is in Memphis\n\nThe Memphis progress is actually insane\n\nIn just 36 months, xAI went from literally nothing to this in Memphis:\n- Built the first phase in just 122 days (superhuman speed)\n- First to reach 1 GW coherent training center (world’s first gigawatt-scale AI training cluster)\n- 3 massive data centers\n- A coherent cluster of 330,000+ GPUs (world’s largest AI training system – Colossus)\n- 3,000+ jobs created\n- $30M+ paid in local taxes\n- 558 Tesla Megapacks installed for energy storage and grid stability\n\n…and much more\n\nThe shipping speed at xAI is unmatched\n\nMemphis is becoming an AI powerhouse",
+        "created_at": "Tue Mar 10 06:37:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031255082537492480",
+            "url": "https://pbs.twimg.com/media/HDB3vEraoAAxlf_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 166077,
+          "friends_count": 1646,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 123,
+          "favorite_count": 674,
+          "reply_count": 145,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 123,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031266298232189268",
+      "text": "RT @boringcompany: Prufrock-2 has emerged!  \n\nFun facts:\n- 2.28 miles long\n- Longest single Vegas Loop tunnel drive (previous TBC record wa…",
+      "created_at": "Tue Mar 10 07:09:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031092290127802867",
+        "text": "Prufrock-2 has emerged!  \n\nFun facts:\n- 2.28 miles long\n- Longest single Vegas Loop tunnel drive (previous TBC record was 2.26)\n- 4th tunnel at @WestgateVegas \n- ~68k cubic yards of dirt moved\n- ~4.8 miles of continuous conveyor belt driven w 6 motors totaling 825 hp https://t.co/Plcv9D8Ato",
+        "created_at": "Mon Mar 09 19:38:32 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031092237111799808",
+            "url": "https://video.twimg.com/amplify_video/2031092237111799808/vid/avc1/916x1630/b0rROdpi7mqJiIcS.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "859816394556284929",
+          "name": "The Boring Company",
+          "screen_name": "boringcompany",
+          "description": "Beat the snail",
+          "followers_count": 1106270,
+          "friends_count": 9,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 372,
+          "favorite_count": 4085,
+          "reply_count": 184,
+          "quote_count": 31
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 372,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031263754785272229",
+      "text": "True words",
+      "created_at": "Tue Mar 10 06:59:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2030972391023648802",
+        "text": "Go fuck yourself, Senator.\n\nAs a Black man, go fuck yourself.\n\nEspecially when I KNOW you're attempting to triangulate Black people into giving Third World ILLEGALS voting rights, so YOUR accursed political entity can stay in power forever and ever.\n\nYou're an evil man.",
+        "created_at": "Mon Mar 09 11:42:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "97000212",
+          "name": "Isaiah L. Carter 🇺🇸",
+          "screen_name": "IsaiahLCarter",
+          "description": "Host of @ApostateRadioNY with @NinoChavezX, Sunday nights at 8p! B-More born, NYC made. ⚽ head. Uncle. 1st of Mr & Mrs Carter's boys. Anti-Statist. 🇺🇸 FIRST.",
+          "followers_count": 179327,
+          "friends_count": 5981,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10054,
+          "favorite_count": 52900,
+          "reply_count": 1262,
+          "quote_count": 279
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 948,
+        "favorite_count": 9046,
+        "reply_count": 737,
+        "quote_count": 24
+      }
+    },
+    {
+      "id": "2031259415014420651",
+      "text": "If someone has mental rabies, they must be contained or killed or they will keep hurting and killing innocent people",
+      "created_at": "Tue Mar 10 06:42:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031116024679117304",
+        "text": "NEW: Texas teen shoots woman in the neck who was visiting her friend with cancer before stealing the car belonging to the woman with cancer.\n\n18-year-old Darius DeWayne Hall has been arrested for allegedly shooting Marietta Allison in northwest Houston.\n\nThe friend with cancer, Cassie Daniel, has shared a post detailing what happened.\n\n\"There wasn’t any parking, so Marietta had driven around the block to find a parking spot, and we heard the gunshot,\" Daniel said.\n\n\"We were later told that her heart stopped immediately when [Hall] shot her in the neck.\"\n\n\"The man took her purse, stole my car key, and took the car.\"\n\nHall was under juvenile suspension for multiple previous charges, including aggravated assault with a deadly weapon, according to court records.\n\nAnother avoidable death.",
+        "created_at": "Mon Mar 09 21:12:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031114782867435520",
+            "url": "https://video.twimg.com/amplify_video/2031114782867435520/vid/avc1/1080x1080/79hmRMMGA3griY4m.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "890061634181373952",
+          "name": "Collin Rugg",
+          "screen_name": "CollinRugg",
+          "description": "Co-Owner of Trending Politics | Investor | American 🇺🇸",
+          "followers_count": 2290983,
+          "friends_count": 854,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9945,
+          "favorite_count": 33652,
+          "reply_count": 3690,
+          "quote_count": 662
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236281353,
+        "friends_count": 1295,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3675,
+        "favorite_count": 26642,
+        "reply_count": 2492,
+        "quote_count": 196
+      }
+    },
     {
       "id": "2031231856071372830",
       "text": "转译：Harness 工程就是控制论\n\n读 OpenAI 那篇 Harness 工程的文章[1]时，我一直有种说不上来的感觉。然后突然想通了：这个模式我见过，不是一次——是三次。\n\n第一次是 18 世纪 80 年代瓦特的离心式调速器[2]。在它出现之前，得有个工人站在蒸汽机旁边，用手调节阀门。有了它之后，一个带配重飞球的机械装置能自动感知转速并调节阀门。工人并没有消失，但工作变了：从亲手拧阀门，变成设计调速器。\n\n第二次是 Kubernetes[3]。你声明期望状态——三个副本、这个镜像、这些资源限制。一个控制器持续观察实际状态。当两者出现偏差，控制器就会去协调：重启崩溃的 Pod、扩缩副本、回滚有问题的部署。工程师的工作从重启服务，变成了编写系统据以协调的规格说明。\n\n第三次就是现在。OpenAI 描述了这样一批工程师：他们不再写代码。取而代之的是设计环境、构建反馈回路、将架构约束编成规则——然后由 AI 智能体来写代码。五个月，一百万行代码[1]，没有一行是手写的。他们管这叫\"Harness 工程\"（Harness Engineering，意为为 AI 智能体搭建\"缰绳\"和\"马具\"般的约束框架）。\n\n三次，同一个模式。诺伯特·维纳[4]在 1948 年就给它起了名字：控制论（Cybernetics），来自希腊语 κυβερνήτης——舵手。你不再亲手拧阀门，而是掌舵。\n\n每一次这个模式出现，都是因为有人造出了足够强大的传感器和执行器，在那个层面闭合了反馈回路。\n\n为什么代码库是最后的堡垒\n\n代码库并非没有反馈回路，只是只在较低层面有。编译器在语法层面闭合回路。测试套件在行为层面闭合回路。代码检查工具在风格层面闭合回路。这些都是真正的控制论式控制——但它们只能检查那些可以机械验证的属性。能编译吗？能通过测试吗？符合规则吗？\n\n而在这之上的一切——这个改动符合系统架构吗？这个方案是不是正确的思路？这个抽象随着代码库增长会不会埋下隐患？——既没有传感器，也没有执行器。只有人类能在那个层面运作，而且是两侧同时运作：判断质量，编写修复。\n\n大语言模型同时改变了这两端。它们能在过去只有人类才能把控的层面进行感知——也能在同一层面采取行动：重构一个模块、重新设计一个不一致的接口、围绕真正重要的契约重写整个测试套件。反馈回路第一次可以在做出关键决策的层面闭合了。\n\n但闭合回路是必要条件，不是充分条件。瓦特的调速器需要调校。Kubernetes 的控制器需要正确的规格说明。而让大语言模型在你的代码库上工作，需要提供一样更难的东西。\n\n校准传感器和执行器\n\n让基本的反馈回路运转起来——智能体可以运行的测试、能输出可解析结果的 CI、能指向修复方向的错误信息——这只是基本门槛。Carlini 已经展示过这一点[5]：他让 16 个并行智能体构建了一个 C 编译器，用的是简单到令人惊讶的提示词[6]，但测试基础设施是精心设计的。\"我的大部分精力都花在了为 Claude 设计周围的环境——测试、环境、反馈机制。\"\n\n更难的问题是用你的系统特有的知识来校准传感器和执行器。大多数人卡在这里，然后把问题归咎于智能体。\n\n\"它老是做错。它不懂我们的代码库。\"这个诊断几乎总是错的。智能体失败不是因为能力不够，而是因为它需要的知识——什么叫\"好\"、你的架构鼓励哪些模式、回避哪些模式——锁在你脑子里，你从没把它外化出来。智能体不会靠耳濡目染来学习。如果你不写下来，它在第一百次运行时犯的错和第一次一模一样。\n\n这项工作的本质是让你的判断力变得机器可读。描述实际分层和依赖方向的架构文档。内置修复指引的自定义代码检查规则。编码了你团队审美标准的黄金准则。OpenAI 也发现了这一点[1]：他们每个周五花 20% 的时间清理\"AI 垃圾代码\"——直到他们把标准编进了 Harness 本身。\n\n唯一的出路\n\n这些实践所要求的一切——文档、自动化测试、编码化的架构决策、快速反馈回路——一直都是正确的。过去三十年出版的每一本软件工程书籍都在推荐它们。大多数人跳过这些步骤，因为跳过的代价是缓慢而弥散的：质量缓慢下滑、新人上手痛苦、技术债务悄悄累积。\n\n智能体化工程让这个代价变得极端。跳过文档，智能体就会无视你的规范——不是在一个 PR 上，而是在每一个 PR 上，以机器的速度，全天候地。跳过测试，反馈回路就根本无法闭合。跳过架构约束，漂移的速度会快过你修复的速度。而陷阱在于：如果智能体不知道\"干净\"长什么样，你也没法用智能体来收拾这个烂摊子。没有校准，制造问题的机器同样无法解决问题。\n\n实践没有变。忽视它们的代价已经变得无法承受。\n\n生成-验证不对称性——P vs NP[7] 背后的直觉，被 Cobbe 等人用大语言模型实证验证[8]——指明了未来的方向。生成一个正确的解比验证一个解要难。你不需要在实现能力上超越机器，你需要在评判能力上超越它：定义\"正确\"是什么样子，识别输出哪里不对，判断方向是否正确。\n\n那些设计了瓦特调速器的工人再也没有回去拧阀门。不是因为他们做不到，而是因为那已经没有意义了。\n\n引用链接\n[1] Harness 工程的文章: https://t.co/jzMo4arK5s\n[2] 瓦特的离心式调速器: https://t.co/ctRxZYFXeZ\n[3] Kubernetes: https://t.co/D7NdAdi8tV\n[4] 诺伯特·维纳: https://t.co/LGPwF5eL0u\n[5] Carlini 已经展示过这一点: https://t.co/2C8va2j7tE\n[6] 简单到令人惊讶的提示词: https://t.co/deEuA0EPtz\n[7] P vs NP: https://t.co/i5fKjcuDd0\n[8] 用大语言模型实证验证: https://t.co/ekSHhMP6zK",
