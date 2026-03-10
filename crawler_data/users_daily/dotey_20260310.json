@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 195754,
+    "followers_count": 195763,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260310",
-  "last_updated": "2026-03-10T16:24:07.779714",
-  "tweet_count": 10,
+  "last_updated": "2026-03-10T18:17:47.264497",
+  "tweet_count": 13,
   "tweets": [
     {
       "id": "2031211256380575931",
@@ -471,6 +471,155 @@
         "retweet_count": 8,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031423898290401341",
+      "text": "- 本质是什么？ \n通过 IM 指挥 claude code\n\n- 怎么实现的？ \nagent sdk + skills + 定时任务 + im 连接器 + 基于文档的记忆\n\n- 解决了什么问题？ \n满足了情绪价值和 AI 厂商 Token 卖不出去的问题\n\n- 适合拿来做什么？\n装逼和赛博念经\n所谓小龙虾帮约炮成功的一定是编的",
+      "created_at": "Tue Mar 10 17:36:14 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031404471620874637",
+        "text": "我对这届自媒体们很失望\n\n他们 FOMO Openclaw 一个多月\n\n用 AI 写了几万篇各种废话文学\n\n却没见过谁 2 分钟回答清楚最关键的四个问题\n\n- 本质是什么？\n- 怎么实现的？\n- 解决了什么问题？\n- 适合拿来做什么？\n\n这难道很难吗？这几个问题都是一句话能说清楚的\n\nAI 时代，用最短话/图进行表达才是优势啊",
+        "created_at": "Tue Mar 10 16:19:02 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "282522910",
+          "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤",
+          "screen_name": "passluo",
+          "description": "在所有文化中，对地狱的描述都是重复。",
+          "followers_count": 55501,
+          "friends_count": 1367,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 48,
+          "reply_count": 13,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 18,
+        "reply_count": 6,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031424127450406942",
+      "text": "帮转招聘",
+      "created_at": "Tue Mar 10 17:37:08 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031303999421559185",
+        "text": "😢😢😢\n打扰一下兄弟们，再发一次 月之暗面（kimi） 的招聘，急急急\n\n感兴趣邮箱： me@kaiyi.cool https://t.co/3AlzCfYaco",
+        "created_at": "Tue Mar 10 09:39:47 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031303748388270090",
+            "url": "https://pbs.twimg.com/media/HDCj_zGaMAo74JU.png"
+          },
+          {
+            "type": "photo",
+            "id": "2031303753673093121",
+            "url": "https://pbs.twimg.com/media/HDCkAGyaMAEX3hz.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2031303760342036485",
+            "url": "https://pbs.twimg.com/media/HDCkAfoaMAU5CP0.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2031303764918042624",
+            "url": "https://pbs.twimg.com/media/HDCkAwragAA2Ukq.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1102444843140182016",
+          "name": "Kai",
+          "screen_name": "real_kai42",
+          "description": "独立开发者，20k stars 开源项目 Qwerty Learner 作者，《Web Worker 播客》主播\n\n仅聊技术和生活，仅代表个人观点，不太擅长文字，但话痨∠(｀ω´*) \n\n主页/咨询服务/内推 : https://t.co/ZCsVg4rTbV\nex @Microsoft @BytedanceTalk @hulu",
+          "followers_count": 29354,
+          "friends_count": 1155,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 38,
+          "favorite_count": 375,
+          "reply_count": 70,
+          "quote_count": 16
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031427482931359863",
+      "text": "所以 Vibe Coding 取代的是谁？😂",
+      "created_at": "Tue Mar 10 17:50:28 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031377259312144654",
+        "text": "突发🧨：Amazon召开了了一场紧急会议，去讨论AI破坏其系统的情况及对策\n\nAWS使用了自己的AI编码工具箱，结果不得不花13个小时去修复系统\n\n未来初级和中级工程师不能再直接推送AI编译的代码，除非有高级工程师的签字批准 https://t.co/4J1vYZeVB3",
+        "created_at": "Tue Mar 10 14:30:54 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031377252810960896",
+            "url": "https://pbs.twimg.com/media/HDDm2UabMAAGJIB.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2031377252802498560",
+            "url": "https://pbs.twimg.com/media/HDDm2UYaEAAu3gq.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1597654998971604992",
+          "name": "金融汪",
+          "screen_name": "yuyy614893671",
+          "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+          "followers_count": 66878,
+          "friends_count": 545,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 58,
+          "reply_count": 4,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 4,
         "quote_count": 0
       }
     }

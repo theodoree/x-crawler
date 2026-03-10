@@ -1,12 +1,828 @@
 {
   "date": "20260310",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-10T16:24:07.723544",
-  "tweet_count": 269,
-  "unique_tweet_count": 269,
-  "total_crawled": 465,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-03-10T18:17:47.209162",
+  "tweet_count": 283,
+  "unique_tweet_count": 283,
+  "total_crawled": 469,
+  "duplicates_removed": 186,
   "tweets": [
+    {
+      "id": "2031430143240253771",
+      "text": "RT @KanekoaTheGreat: 🚨NEW: ICE has arrested a Mauritanian national accused of illegally voting in seven U.S. federal elections since 2008.…",
+      "created_at": "Tue Mar 10 18:01:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031417394946789383",
+        "text": "🚨NEW: ICE has arrested a Mauritanian national accused of illegally voting in seven U.S. federal elections since 2008.\n\nMahady Sacko, who was living in Pennsylvania, allegedly voted in the 2008, 2012, 2016, 2020, and 2024 elections, according to court documents.\n\nProsecutors say he lied about being a U.S. citizen each time he voted.\n\nHe cast ballots in person in most elections and even voted by mail in 2020.\n\nCases like this are exactly why supporters say the Save America Act is needed — to require proof of citizenship to vote in federal elections.",
+        "created_at": "Tue Mar 10 17:10:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031416839860113408",
+            "url": "https://pbs.twimg.com/media/HDEK2lqb0AAfhqB.png"
+          },
+          {
+            "type": "photo",
+            "id": "2031417036686110720",
+            "url": "https://pbs.twimg.com/media/HDELCC5aMAAbUK5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1085225533623783424",
+          "name": "KanekoaTheGreat",
+          "screen_name": "KanekoaTheGreat",
+          "description": "Learn the system I used to gain 1M+ followers, 5.5B impressions, & $217K on 𝕏. Join 1300+ students, go viral, & start earning: https://t.co/h7wKXJpuMV",
+          "followers_count": 1103227,
+          "friends_count": 4120,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 450,
+          "favorite_count": 1584,
+          "reply_count": 178,
+          "quote_count": 33
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236323628,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 450,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031429004146954656",
+      "text": "RT @Rothmus: https://t.co/84acrCVwXE",
+      "created_at": "Tue Mar 10 17:56:31 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031184708575375360",
+          "url": "https://pbs.twimg.com/media/HDA3uxPXMAAewW1.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2031184711561740656",
+        "text": "https://t.co/84acrCVwXE",
+        "created_at": "Tue Mar 10 01:45:47 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031184708575375360",
+            "url": "https://pbs.twimg.com/media/HDA3uxPXMAAewW1.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 652550,
+          "friends_count": 2768,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 407,
+          "favorite_count": 2156,
+          "reply_count": 85,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236323628,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 407,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031428963101454454",
+      "text": "RT @WhiteHouse: We either fix the integrity of America's elections, or we won't have a country left to fight for.\n\nDEMAND the Senate pass t…",
+      "created_at": "Tue Mar 10 17:56:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031396991238869117",
+        "text": "We either fix the integrity of America's elections, or we won't have a country left to fight for.\n\nDEMAND the Senate pass the SAVE AMERICA ACT 📲 https://t.co/erEOmkWDAS https://t.co/4AvoWsJm65",
+        "created_at": "Tue Mar 10 15:49:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031392073606189057",
+            "url": "https://pbs.twimg.com/media/HDD0VALXUAEqlcw.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1879644163769335808",
+          "name": "The White House",
+          "screen_name": "WhiteHouse",
+          "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+          "followers_count": 4044941,
+          "friends_count": 6,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4377,
+          "favorite_count": 14329,
+          "reply_count": 2077,
+          "quote_count": 244
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236323628,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4377,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031428875205677558",
+      "text": "RT @StarbaseTX: First, a new city. \n\nNext, a tech-forward, community-first police department.\n\nStarbase is hiring a Public Safety Director/…",
+      "created_at": "Tue Mar 10 17:56:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031422635859439966",
+        "text": "First, a new city. \n\nNext, a tech-forward, community-first police department.\n\nStarbase is hiring a Public Safety Director/Future Chief of Police to build it.\n\nDetails --&gt; https://t.co/VNIVBA3alM https://t.co/0fBWtkwPWJ",
+        "created_at": "Tue Mar 10 17:31:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031422628980789249",
+            "url": "https://pbs.twimg.com/media/HDEQHj0XEAE_-jm.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1917716982465716227",
+          "name": "StarbaseTX",
+          "screen_name": "StarbaseTX",
+          "description": "Located on the southern tip of Texas, Starbase is the newest city in the Rio Grande Valley",
+          "followers_count": 49831,
+          "friends_count": 5,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 122,
+          "favorite_count": 807,
+          "reply_count": 95,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236323628,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 122,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031427482931359863",
+      "text": "所以 Vibe Coding 取代的是谁？😂",
+      "created_at": "Tue Mar 10 17:50:28 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031377259312144654",
+        "text": "突发🧨：Amazon召开了了一场紧急会议，去讨论AI破坏其系统的情况及对策\n\nAWS使用了自己的AI编码工具箱，结果不得不花13个小时去修复系统\n\n未来初级和中级工程师不能再直接推送AI编译的代码，除非有高级工程师的签字批准 https://t.co/4J1vYZeVB3",
+        "created_at": "Tue Mar 10 14:30:54 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031377252810960896",
+            "url": "https://pbs.twimg.com/media/HDDm2UabMAAGJIB.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2031377252802498560",
+            "url": "https://pbs.twimg.com/media/HDDm2UYaEAAu3gq.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1597654998971604992",
+          "name": "金融汪",
+          "screen_name": "yuyy614893671",
+          "description": "油管频道：金融汪 ，网址：https://t.co/mE0zmyZHPv\n\n金融市场老兵，观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。",
+          "followers_count": 66878,
+          "friends_count": 545,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 58,
+          "reply_count": 4,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195763,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031424127450406942",
+      "text": "帮转招聘",
+      "created_at": "Tue Mar 10 17:37:08 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031303999421559185",
+        "text": "😢😢😢\n打扰一下兄弟们，再发一次 月之暗面（kimi） 的招聘，急急急\n\n感兴趣邮箱： me@kaiyi.cool https://t.co/3AlzCfYaco",
+        "created_at": "Tue Mar 10 09:39:47 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031303748388270090",
+            "url": "https://pbs.twimg.com/media/HDCj_zGaMAo74JU.png"
+          },
+          {
+            "type": "photo",
+            "id": "2031303753673093121",
+            "url": "https://pbs.twimg.com/media/HDCkAGyaMAEX3hz.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2031303760342036485",
+            "url": "https://pbs.twimg.com/media/HDCkAfoaMAU5CP0.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2031303764918042624",
+            "url": "https://pbs.twimg.com/media/HDCkAwragAA2Ukq.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1102444843140182016",
+          "name": "Kai",
+          "screen_name": "real_kai42",
+          "description": "独立开发者，20k stars 开源项目 Qwerty Learner 作者，《Web Worker 播客》主播\n\n仅聊技术和生活，仅代表个人观点，不太擅长文字，但话痨∠(｀ω´*) \n\n主页/咨询服务/内推 : https://t.co/ZCsVg4rTbV\nex @Microsoft @BytedanceTalk @hulu",
+          "followers_count": 29354,
+          "friends_count": 1155,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 38,
+          "favorite_count": 375,
+          "reply_count": 70,
+          "quote_count": 16
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195763,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031423898290401341",
+      "text": "- 本质是什么？ \n通过 IM 指挥 claude code\n\n- 怎么实现的？ \nagent sdk + skills + 定时任务 + im 连接器 + 基于文档的记忆\n\n- 解决了什么问题？ \n满足了情绪价值和 AI 厂商 Token 卖不出去的问题\n\n- 适合拿来做什么？\n装逼和赛博念经\n所谓小龙虾帮约炮成功的一定是编的",
+      "created_at": "Tue Mar 10 17:36:14 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031404471620874637",
+        "text": "我对这届自媒体们很失望\n\n他们 FOMO Openclaw 一个多月\n\n用 AI 写了几万篇各种废话文学\n\n却没见过谁 2 分钟回答清楚最关键的四个问题\n\n- 本质是什么？\n- 怎么实现的？\n- 解决了什么问题？\n- 适合拿来做什么？\n\n这难道很难吗？这几个问题都是一句话能说清楚的\n\nAI 时代，用最短话/图进行表达才是优势啊",
+        "created_at": "Tue Mar 10 16:19:02 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "282522910",
+          "name": "𝙋𝙖𝙨𝙨𝙡𝙪𝙤",
+          "screen_name": "passluo",
+          "description": "在所有文化中，对地狱的描述都是重复。",
+          "followers_count": 55501,
+          "friends_count": 1367,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 48,
+          "reply_count": 13,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195763,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 18,
+        "reply_count": 6,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031421689188475106",
+      "text": "Imagine",
+      "created_at": "Tue Mar 10 17:27:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031364005311427042",
+        "text": "Your creativity will be limitless with Grok Imagine and can’t be said the same with other AIs\n\nStart imagining with Grok https://t.co/Qrml6HdUCA",
+        "created_at": "Tue Mar 10 13:38:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031363912604725256",
+            "url": "https://video.twimg.com/amplify_video/2031363912604725256/vid/avc1/720x954/7_A7KGHCC7Jfon-i.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 166359,
+          "friends_count": 1647,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 53,
+          "favorite_count": 360,
+          "reply_count": 106,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236323628,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 528,
+        "favorite_count": 3460,
+        "reply_count": 1252,
+        "quote_count": 41
+      }
+    },
+    {
+      "id": "2031421553272041836",
+      "text": "RT @cb_doge: BREAKING: Grok has surpassed 2.5 billion website visits. https://t.co/UjiK636p8E",
+      "created_at": "Tue Mar 10 17:26:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031413783302963200",
+          "url": "https://video.twimg.com/amplify_video/2031413783302963200/vid/avc1/1080x1080/GM9TqAQf5pQDYdj0.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2031414015885513038",
+        "text": "BREAKING: Grok has surpassed 2.5 billion website visits. https://t.co/UjiK636p8E",
+        "created_at": "Tue Mar 10 16:56:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031413783302963200",
+            "url": "https://video.twimg.com/amplify_video/2031413783302963200/vid/avc1/1080x1080/GM9TqAQf5pQDYdj0.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1845810,
+          "friends_count": 910,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 180,
+          "favorite_count": 994,
+          "reply_count": 256,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236323628,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 180,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031421479129420132",
+      "text": "Share your best Grok Imagine prompts!\n\nMost people don’t know how, so this will help them.",
+      "created_at": "Tue Mar 10 17:26:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031077891904098584",
+        "text": "GROK IMAGINE PROMPT SHARE :\n\n\"a huge diamond-like lion, made of crystal, is roaring on the white beach, and next to it stands an elegant woman wearing a long dress, shimmering in the sunlight and sparkling like diamonds. the background features a clear blue sky and sea water, creating a dreamy scene.\"",
+        "created_at": "Mon Mar 09 18:41:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031077878645792769",
+            "url": "https://pbs.twimg.com/media/HC_WkcvWIAEXihC.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 120319,
+          "friends_count": 3462,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 63,
+          "favorite_count": 442,
+          "reply_count": 150,
+          "quote_count": 17
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236323628,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 767,
+        "favorite_count": 5652,
+        "reply_count": 1957,
+        "quote_count": 81
+      }
+    },
+    {
+      "id": "2031419923151618517",
+      "text": "RT @jk_rowling: And it will forever be appalling to me that a bunch of celebrities with influence over young people used their platforms to…",
+      "created_at": "Tue Mar 10 17:20:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031393005924438179",
+        "text": "And it will forever be appalling to me that a bunch of celebrities with influence over young people used their platforms to amplify unevidenced claims for the benefit of transitioning minors while smearing those urging caution as bigots.",
+        "created_at": "Tue Mar 10 15:33:28 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2031389632147910966",
+          "text": "@jk_rowling It will forever be amazing to me that people with medical degrees got in front of a camera and said that the effects of puberty blockers on children and  adolescents are fully reversible.\nThe horror.",
+          "created_at": "Tue Mar 10 15:20:04 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1543547311854440448",
+            "name": "DogsoverCats 🦴",
+            "screen_name": "chunderboolt",
+            "description": "I have opinions. I like cats, too.\nMy opinions may be different from yours, and it's ok. That's what my ancestors fought for.",
+            "followers_count": 480,
+            "friends_count": 937,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 129,
+            "favorite_count": 1707,
+            "reply_count": 58,
+            "quote_count": 4
+          }
+        },
+        "user": {
+          "id": "62513246",
+          "name": "J.K. Rowling",
+          "screen_name": "jk_rowling",
+          "description": "Author, founder of Lumos and Beira's Place, surname rhymes with bowling, not growling.",
+          "followers_count": 13828212,
+          "friends_count": 1156,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2847,
+          "favorite_count": 19638,
+          "reply_count": 450,
+          "quote_count": 60
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236323628,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2847,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031413897505419574",
+      "text": "Yes",
+      "created_at": "Tue Mar 10 16:56:29 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031412749532803580",
+        "text": "The US has much less secure elections than other major democracies \n\nWe have the most powerful nuclear arsenal and most consequential elections in the world…yet in many states it’s harder to buy a beer than cast a vote \n\nThis is a civilizational IQ test https://t.co/OHmRxJ9u9E",
+        "created_at": "Tue Mar 10 16:51:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031412746341044224",
+            "url": "https://pbs.twimg.com/media/HDEHIUHb0AArglZ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 64246,
+          "friends_count": 992,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 243,
+          "favorite_count": 875,
+          "reply_count": 120,
+          "quote_count": 40
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236323628,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2849,
+        "favorite_count": 13280,
+        "reply_count": 1108,
+        "quote_count": 61
+      }
+    },
+    {
+      "id": "2031412735385456788",
+      "text": "Thune needs to sings a different tune",
+      "created_at": "Tue Mar 10 16:51:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031393483043254319",
+        "text": "https://t.co/TE56Sg1JRO",
+        "created_at": "Tue Mar 10 15:35:22 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4239551",
+          "name": "@amuse",
+          "screen_name": "amuse",
+          "description": "Independent Publisher & Political Pundit. Subscriber Only DMs.",
+          "followers_count": 684202,
+          "friends_count": 621,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1144,
+          "favorite_count": 3413,
+          "reply_count": 135,
+          "quote_count": 118
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236323628,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7253,
+        "favorite_count": 35092,
+        "reply_count": 1910,
+        "quote_count": 244
+      }
+    },
+    {
+      "id": "2031405832177594440",
+      "text": "Tell your Senator that you want voting integrity passed. Every other country has this!",
+      "created_at": "Tue Mar 10 16:24:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031355211781124228",
+        "text": "The people support the SAVE America Act.\n\nTell your Senator you want it passed: (202) 224-3121 https://t.co/wlFR1xMidZ",
+        "created_at": "Tue Mar 10 13:03:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031355206102036495",
+            "url": "https://pbs.twimg.com/media/HDDSzCBaMA8hoWV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1841988608825466880",
+          "name": "America",
+          "screen_name": "america",
+          "description": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+          "followers_count": 1195298,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 778,
+          "favorite_count": 2644,
+          "reply_count": 203,
+          "quote_count": 61
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236323628,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7134,
+        "favorite_count": 31133,
+        "reply_count": 2610,
+        "quote_count": 287
+      }
+    },
     {
       "id": "2031405563188531220",
       "text": "RT @TRHLofficial: Senator Mike Lee explains the talking filibuster, which is literally just the filibuster.  https://t.co/kkRg4YqNrv",
