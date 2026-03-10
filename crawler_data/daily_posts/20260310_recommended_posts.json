@@ -1,12 +1,116 @@
 {
   "date": "20260310",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-10T20:09:41.625986",
-  "tweet_count": 291,
-  "unique_tweet_count": 291,
-  "total_crawled": 483,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-03-10T22:14:40.117394",
+  "tweet_count": 293,
+  "unique_tweet_count": 293,
+  "total_crawled": 491,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2031467100242587659",
+      "text": "Wow",
+      "created_at": "Tue Mar 10 20:27:54 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031435977298682113",
+        "text": "Incredible investigation today from @CBSNews. Our reporters visited \"ground zero\" for hospice fraud: Los Angeles, California. One building had 89 registered hospices . . . \n\nRead it here:\n\nhttps://t.co/cHuzIo4Xec",
+        "created_at": "Tue Mar 10 18:24:13 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "289548939",
+          "name": "Bari Weiss",
+          "screen_name": "bariweiss",
+          "description": "Editor-in-Chief @thefp and @CBSNews\nHost of @thehonestlypod\nFounder of @nelliebowles fan club",
+          "followers_count": 1125262,
+          "friends_count": 5738,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4315,
+          "favorite_count": 17994,
+          "reply_count": 1432,
+          "quote_count": 438
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236337978,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3870,
+        "favorite_count": 23668,
+        "reply_count": 1256,
+        "quote_count": 62
+      }
+    },
+    {
+      "id": "2031467039169405408",
+      "text": "The value of extreme precision",
+      "created_at": "Tue Mar 10 20:27:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031348695921471489",
+        "text": "In 1798, a scientist effectively “weighed” the Earth — without leaving his laboratory.\n\nThe English scientist Henry Cavendish designed an incredibly sensitive experiment. \n\nInside a quiet wooden shed, he hung a horizontal rod from a very thin wire. Two small lead spheres were attached to the ends of the rod.\n\nNearby, he placed two much larger lead balls.\n\nBecause of gravity, the large spheres slightly pulled the smaller ones. The force was extremely tiny — so small that the rod twisted by only a minute fraction of a degree.\n\nYet that tiny twist held a big secret.\n\nBy carefully measuring this small movement, Cavendish determined the strength of the gravitational attraction between objects. \n\nFrom this, scientists could calculate the mass of the entire Earth.\n\nHis estimate was remarkably close.\n\nCavendish calculated Earth’s mass to be about 6 × 10²⁴ kilograms, while modern measurements give 5.97 × 10²⁴ kilograms.\n\nSometimes the biggest discoveries come from measuring the smallest forces.",
+        "created_at": "Tue Mar 10 12:37:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031348686840823808",
+            "url": "https://pbs.twimg.com/media/HDDM3j4agAA3UHg.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1269209727721975809",
+          "name": "Math Files",
+          "screen_name": "Math_files",
+          "description": "Life is nonlinear.\nSo handle it using Math.",
+          "followers_count": 120836,
+          "friends_count": 5,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 966,
+          "favorite_count": 9073,
+          "reply_count": 380,
+          "quote_count": 78
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236337978,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1910,
+        "favorite_count": 15538,
+        "reply_count": 1245,
+        "quote_count": 57
+      }
+    },
     {
       "id": "2031449338698973422",
       "text": "RT @robertwrighter: Anthropic's Claude helped select hundreds of targets for the opening wave of Iran strikes. There's a good chance that o…",
