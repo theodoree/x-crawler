@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236277363,
+    "followers_count": 236273668,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260310",
-  "last_updated": "2026-03-10T04:34:51.298454",
-  "tweet_count": 4,
+  "last_updated": "2026-03-10T06:16:24.352272",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2031217166541017491",
@@ -211,6 +211,52 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2031228289998795237",
+      "text": "Yeah",
+      "created_at": "Tue Mar 10 04:38:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031078291117859252",
+        "text": "New York is cooked https://t.co/ST9U8Xo6t2",
+        "created_at": "Mon Mar 09 18:42:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031078180312764416",
+            "url": "https://video.twimg.com/amplify_video/2031078180312764416/vid/avc1/1920x1080/oxnsucnKdrGMdaII.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1798154287672864769",
+          "name": "PsyopAnime",
+          "screen_name": "PsyopAnime",
+          "description": "MEME ACCOUNT ✉️: PsyopAnimeOfficial@gmail.com https://t.co/cvmIGvPIuK",
+          "followers_count": 142904,
+          "friends_count": 927,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3759,
+          "favorite_count": 24757,
+          "reply_count": 425,
+          "quote_count": 264
+        }
+      },
+      "stats": {
+        "retweet_count": 2387,
+        "favorite_count": 20358,
+        "reply_count": 1486,
+        "quote_count": 111
       }
     }
   ]
