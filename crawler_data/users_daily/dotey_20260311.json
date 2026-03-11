@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 195793,
+    "followers_count": 195841,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260311",
-  "last_updated": "2026-03-11T00:19:13.131363",
-  "tweet_count": 2,
+  "last_updated": "2026-03-11T02:57:00.815591",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2031520553761145215",
@@ -84,6 +84,45 @@
       "quoted": null,
       "stats": {
         "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031540803097534902",
+      "text": "RT @dotey: @TaNGSoFT @swordholder0 如果你把 claude code 还看作一个只能写代码的 coding agent，那么说明你还不懂 claude code",
+      "created_at": "Wed Mar 11 01:20:46 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031475779402350955",
+        "text": "@TaNGSoFT @swordholder0 如果你把 claude code 还看作一个只能写代码的 coding agent，那么说明你还不懂 claude code",
+        "created_at": "Tue Mar 10 21:02:23 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 195841,
+          "friends_count": 1584,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 59,
+          "reply_count": 14,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

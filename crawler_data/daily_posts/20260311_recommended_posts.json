@@ -1,12 +1,61 @@
 {
   "date": "20260311",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-11T00:19:13.103110",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-11T02:57:00.787901",
+  "tweet_count": 201,
+  "unique_tweet_count": 201,
+  "total_crawled": 400,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2031540803097534902",
+      "text": "RT @dotey: @TaNGSoFT @swordholder0 如果你把 claude code 还看作一个只能写代码的 coding agent，那么说明你还不懂 claude code",
+      "created_at": "Wed Mar 11 01:20:46 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031475779402350955",
+        "text": "@TaNGSoFT @swordholder0 如果你把 claude code 还看作一个只能写代码的 coding agent，那么说明你还不懂 claude code",
+        "created_at": "Tue Mar 10 21:02:23 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 195841,
+          "friends_count": 1584,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 59,
+          "reply_count": 14,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195841,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2031520933756776683",
       "text": "RT @plantegg: 这就是说傅盛他们啊：文科出身的中年中高管，是对龙虾部署热情是最高的。\n\n这中间有几个综合因素。\n\n1. 他们从未在计算机自己部署过东西。\n\n2. 还残留着上升期中年人的自信和自傲。\n\n3. 对这些年的一些经济下降，有一股压抑的火，总想证明点啥。\n\n4…",
