@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236364920,
+    "followers_count": 236369043,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260311",
-  "last_updated": "2026-03-11T14:21:11.590279",
-  "tweet_count": 8,
+  "last_updated": "2026-03-11T16:19:40.319628",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2031609626358387156",
@@ -374,6 +374,326 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2031741235149557989",
+      "text": "RT @naval: AI is going to drain a lot of moats.",
+      "created_at": "Wed Mar 11 14:37:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031702075307176248",
+        "text": "AI is going to drain a lot of moats.",
+        "created_at": "Wed Mar 11 12:01:36 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "745273",
+          "name": "Naval",
+          "screen_name": "naval",
+          "description": "Incompressible",
+          "followers_count": 3083458,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 866,
+          "favorite_count": 9256,
+          "reply_count": 1064,
+          "quote_count": 197
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 866,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031741608425898109",
+      "text": "RT @dvorahfr: a touch of delicacy❣️\nGrok Imagine, video extension up to 30 sec https://t.co/AUUZrrj3ea",
+      "created_at": "Wed Mar 11 14:38:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031642233884319744",
+          "url": "https://video.twimg.com/ext_tw_video/2031642233884319744/pu/vid/avc1/720x720/WLKA0XJQfzjM7Gq-.mp4?tag=22",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2031642306936226300",
+        "text": "a touch of delicacy❣️\nGrok Imagine, video extension up to 30 sec https://t.co/AUUZrrj3ea",
+        "created_at": "Wed Mar 11 08:04:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031642233884319744",
+            "url": "https://video.twimg.com/ext_tw_video/2031642233884319744/pu/vid/avc1/720x720/WLKA0XJQfzjM7Gq-.mp4?tag=22",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 120877,
+          "friends_count": 3462,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 181,
+          "favorite_count": 1033,
+          "reply_count": 133,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 181,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031741709294743875",
+      "text": "RT @MarioNawfal: Grok Imagine 1.0 is insane.\n\nImagine V1.5. https://t.co/SxJeSitXL1",
+      "created_at": "Wed Mar 11 14:39:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031631417009123328",
+          "url": "https://video.twimg.com/amplify_video/2031631417009123328/vid/avc1/720x720/B9mT7tUCmoX9bfFD.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2031633724262281336",
+        "text": "Grok Imagine 1.0 is insane.\n\nImagine V1.5. https://t.co/SxJeSitXL1",
+        "created_at": "Wed Mar 11 07:30:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031631417009123328",
+            "url": "https://video.twimg.com/amplify_video/2031631417009123328/vid/avc1/720x720/B9mT7tUCmoX9bfFD.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2031066731956023468",
+          "text": "This is just Grok Imagine 1.0. \n\nV1.5 is a major upgrade.",
+          "created_at": "Mon Mar 09 17:56:58 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 236369043,
+            "friends_count": 1292,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 4176,
+            "favorite_count": 26715,
+            "reply_count": 3100,
+            "quote_count": 137
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3186467,
+          "friends_count": 50795,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 210,
+          "favorite_count": 1082,
+          "reply_count": 225,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 210,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031741919395786956",
+      "text": "RT @ArthurMacwaters: being a *literal* springboard \n\nfor a *literal* terrorist \n\nwhile verbatim saying \"we welcome everyone into this city\"…",
+      "created_at": "Wed Mar 11 14:39:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031631486789812436",
+        "text": "being a *literal* springboard \n\nfor a *literal* terrorist \n\nwhile verbatim saying \"we welcome everyone into this city\" \n\nis poetic perfection https://t.co/nqJJ4Fx2qI",
+        "created_at": "Wed Mar 11 07:21:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031630055164751880",
+            "url": "https://pbs.twimg.com/media/HDHMxWkaMAgQe0F.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2031615166199255155",
+          "text": "Libtard with the bullhorn is more dangerous",
+          "created_at": "Wed Mar 11 06:16:15 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 236369043,
+            "friends_count": 1292,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 14084,
+            "favorite_count": 138724,
+            "reply_count": 4247,
+            "quote_count": 313
+          }
+        },
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 64439,
+          "friends_count": 993,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 390,
+          "favorite_count": 2345,
+          "reply_count": 104,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 390,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031742157460214139",
+      "text": "RT @WilliamShatner: Also I’m going to wait on sending out a dollar to the Round 2 accounts. I’m going to randomize the 166 invitations for…",
+      "created_at": "Wed Mar 11 14:40:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031489269618114952",
+        "text": "Also I’m going to wait on sending out a dollar to the Round 2 accounts. I’m going to randomize the 166 invitations for an Elon dollar giveaway. \nAs you know Elon sent me more money; $69 to be exact. 👇🏻 So you will either get an Elon dollar or dollar. https://t.co/4ZPYbLJPlZ",
+        "created_at": "Tue Mar 10 21:55:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031489266161954817",
+            "url": "https://pbs.twimg.com/media/HDFMuWqaMAEx1tO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15227791",
+          "name": "William Shatner",
+          "screen_name": "WilliamShatner",
+          "description": "Father to 3 women. Canadian *NOT POLITICAL* be warned or be blocked! Calendar: https://t.co/4Jwy1dww25 Charity: https://t.co/HmIzHkPLvx No Podcasts! https://t.co/82IXIOYEVo",
+          "followers_count": 2394682,
+          "friends_count": 546,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 308,
+          "favorite_count": 2505,
+          "reply_count": 353,
+          "quote_count": 40
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 308,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031742857007272243",
+      "text": "Grok Imagine in a pond for 30 secs\nhttps://t.co/VIzyWh7cT8",
+      "created_at": "Wed Mar 11 14:43:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031676231087763456",
+          "url": "https://video.twimg.com/amplify_video/2031676231087763456/vid/avc1/1280x720/6IhgbCvgQTftkuQR.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1709,
+        "favorite_count": 14350,
+        "reply_count": 2974,
+        "quote_count": 186
+      }
+    },
+    {
+      "id": "2031751255060885911",
+      "text": "Macrohard or Digital Optimus is a joint xAI-Tesla project, coming as part of Tesla’s investment agreement with xAI. \n\nGrok is the master conductor/navigator with deep understanding of the world to direct digital Optimus, which is processing and actioning the past 5 secs of real-time computer screen video and keyboard/mouse actions. Grok is like a much more advanced and sophisticated version of turn-by-turn navigation software. \n\nYou can think of it as Digital Optimus AI being System 1 (instinctive part of the mind) and Grok being System 2. (thinking part of the mind). \n\nThis will run very competitively on the super low cost Tesla AI4 ($650) paired with relatively frugal use of the much more expensive xAI Nvidia hardware. And it will be the only real-time smart AI system. This is a big deal. \n\nIn principle, it is capable of emulating the function of entire companies. That is why the program is called MACROHARD, a funny reference to Microsoft. \n\nNo other company can yet do this.",
+      "created_at": "Wed Mar 11 15:17:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1963,
+        "favorite_count": 12131,
+        "reply_count": 2121,
+        "quote_count": 372
       }
     }
   ]

@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 195882,
+    "followers_count": 195896,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260311",
-  "last_updated": "2026-03-11T14:21:11.618141",
-  "tweet_count": 3,
+  "last_updated": "2026-03-11T16:19:40.348058",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2031520553761145215",
@@ -123,6 +123,136 @@
       "quoted": null,
       "stats": {
         "retweet_count": 3,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031744195325571327",
+      "text": "小扎在收购 AI 公司 https://t.co/2sey7Kw7l8",
+      "created_at": "Wed Mar 11 14:48:58 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031455737105321985",
+          "url": "https://video.twimg.com/amplify_video/2031455737105321985/vid/avc1/720x1280/U8rSJIR1aIbGNxcG.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 72,
+        "reply_count": 12,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2031750505006059931",
+      "text": "帮转求职",
+      "created_at": "Wed Mar 11 15:14:03 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031735889865662718",
+        "text": "被裁员了，求个机会，简历如图 https://t.co/iD6ZL56kpO",
+        "created_at": "Wed Mar 11 14:15:58 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031735886602498048",
+            "url": "https://pbs.twimg.com/media/HDItBjZa8AAGbgZ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "39716430",
+          "name": "plantegg",
+          "screen_name": "plantegg",
+          "description": "Claude code/AI/Agent/智能体，AI探索，工程师，网络、性能、CPU等领域。个人介绍：https://t.co/sdAwtv1et3",
+          "followers_count": 55310,
+          "friends_count": 443,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 24,
+          "favorite_count": 197,
+          "reply_count": 65,
+          "quote_count": 12
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031750739802878425",
+      "text": "RT @hwwaanng: 给不熟悉 Swift 圈子的介绍一下，Thomas Ricouard 是知名 SwiftUI 开源项目 ice cube  猛犸象客户端的作者✍️ 这个项目基本上你能找到最全面的开源+SwiftUI 大型 App 了，现在他也去 OpenAI 了。",
+      "created_at": "Wed Mar 11 15:14:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031545975987396794",
+        "text": "给不熟悉 Swift 圈子的介绍一下，Thomas Ricouard 是知名 SwiftUI 开源项目 ice cube  猛犸象客户端的作者✍️ 这个项目基本上你能找到最全面的开源+SwiftUI 大型 App 了，现在他也去 OpenAI 了。",
+        "created_at": "Wed Mar 11 01:41:19 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2031418688813830223",
+          "text": "I'm joining @OpenAI at the end of the month, and I can't wait to get started! \n\nI'll be working on everything related to Codex, bringing what I learned building Codex Monitor, and working with the developer experience team with @romainhuet!",
+          "created_at": "Tue Mar 10 17:15:32 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "15704456",
+            "name": "Thomas Ricouard",
+            "screen_name": "Dimillian",
+            "description": "🍎 Product engineer/Builder\n🤖 AI Stuff\n👨‍💻 Staff iOS engineer @medium\n🇫🇷 Entrepreneur, iOS/macOS & more\n🫡 Previously @glose 📖 @google 🔍 & various other",
+            "followers_count": 39999,
+            "friends_count": 3845,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 54,
+            "favorite_count": 2455,
+            "reply_count": 323,
+            "quote_count": 29
+          }
+        },
+        "user": {
+          "id": "1590927428",
+          "name": "Hwang",
+          "screen_name": "hwwaanng",
+          "description": "AI Startup, Design/Vibe/Shape \nmacOS 💻 ► https://t.co/XH9EadzmQ9\niOS 📱 ► https://t.co/4N7k9rP1er / https://t.co/YUTroLSHEo\nearly @AFFiNEOfficial",
+          "followers_count": 20061,
+          "friends_count": 3716,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 12,
+          "favorite_count": 218,
+          "reply_count": 10,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
