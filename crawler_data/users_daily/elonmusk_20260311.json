@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236346992,
+    "followers_count": 236335861,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260311",
-  "last_updated": "2026-03-11T06:18:26.976724",
-  "tweet_count": 5,
+  "last_updated": "2026-03-11T08:12:38.527948",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2031609626358387156",
@@ -231,6 +231,110 @@
         "favorite_count": 464,
         "reply_count": 130,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2031626463594856721",
+      "text": "RT @dvorahfr: My Betty Boop version with Grok Imagine 💋 https://t.co/ODrX289mo3",
+      "created_at": "Wed Mar 11 07:01:09 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031593479155986432",
+          "url": "https://video.twimg.com/ext_tw_video/2031593479155986432/pu/vid/avc1/720x1072/SxKM501zI0GDgbyc.mp4?tag=22",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2031593518167195947",
+        "text": "My Betty Boop version with Grok Imagine 💋 https://t.co/ODrX289mo3",
+        "created_at": "Wed Mar 11 04:50:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2031593479155986432",
+            "url": "https://video.twimg.com/ext_tw_video/2031593479155986432/pu/vid/avc1/720x1072/SxKM501zI0GDgbyc.mp4?tag=22",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 120611,
+          "friends_count": 3462,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 98,
+          "favorite_count": 780,
+          "reply_count": 183,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 98,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031626726254719166",
+      "text": "RT @atensnut: Yep! https://t.co/JjJetMkhzL",
+      "created_at": "Wed Mar 11 07:02:11 +0000 2026",
+      "lang": "und",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031555912310132737",
+          "url": "https://pbs.twimg.com/media/HDGJVq6XEAE3K5B.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2031555917943132588",
+        "text": "Yep! https://t.co/JjJetMkhzL",
+        "created_at": "Wed Mar 11 02:20:49 +0000 2026",
+        "lang": "und",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031555912310132737",
+            "url": "https://pbs.twimg.com/media/HDGJVq6XEAE3K5B.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "22677397",
+          "name": "Juanita Broaddrick",
+          "screen_name": "atensnut",
+          "description": "Author, \"You'd Better Put Some Ice On That\" retired RN & business owner, Speaker. 🇺🇸🇺🇸",
+          "followers_count": 1992425,
+          "friends_count": 13234,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2324,
+          "favorite_count": 12798,
+          "reply_count": 386,
+          "quote_count": 93
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2324,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
