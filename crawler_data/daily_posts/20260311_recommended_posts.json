@@ -1,12 +1,86 @@
 {
   "date": "20260311",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-11T20:10:23.073813",
-  "tweet_count": 224,
-  "unique_tweet_count": 224,
+  "last_crawl_time": "2026-03-11T22:08:08.423423",
+  "tweet_count": 226,
+  "unique_tweet_count": 226,
   "total_crawled": 424,
-  "duplicates_removed": 200,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2031841027112517742",
+      "text": "https://t.co/otDmJRcgYv",
+      "created_at": "Wed Mar 11 21:13:45 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195918,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 16,
+        "reply_count": 1,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2031833437829521572",
+      "text": "RT @94vanAI: https://t.co/mKrHgrua71",
+      "created_at": "Wed Mar 11 20:43:35 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2031700580997972215",
+        "text": "https://t.co/mKrHgrua71",
+        "created_at": "Wed Mar 11 11:55:40 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "725589139178045440",
+          "name": "PlayForge AI",
+          "screen_name": "94vanAI",
+          "description": "🌟 Manga-to-Real (The Dimensional Alchemist)\n🧠 AI Brain × ✍️ Prompt Grandmaster × 🎨 Anime Art Virtuoso\n— 📸 Pro Photorealistic Portraits | 🖍️ Top-Tier CG",
+          "followers_count": 6645,
+          "friends_count": 119,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 145,
+          "favorite_count": 922,
+          "reply_count": 27,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195918,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 145,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2031797055338004572",
       "text": "Join Tesla for real-world AGI or xAI for digital-world AGI",
