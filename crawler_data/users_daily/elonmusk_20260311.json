@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236369043,
+    "followers_count": 236372200,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260311",
-  "last_updated": "2026-03-11T16:19:40.319628",
-  "tweet_count": 15,
+  "last_updated": "2026-03-11T18:19:56.046529",
+  "tweet_count": 16,
   "tweets": [
     {
       "id": "2031609626358387156",
@@ -694,6 +694,45 @@
         "favorite_count": 12131,
         "reply_count": 2121,
         "quote_count": 372
+      }
+    },
+    {
+      "id": "2031797055338004572",
+      "text": "Join Tesla for real-world AGI or xAI for digital-world AGI",
+      "created_at": "Wed Mar 11 18:19:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031789006757773781",
+        "text": "We are actively hiring talented people to work on this extremely high impact project. Join @Tesla_AI or @xai to help accelerate this.",
+        "created_at": "Wed Mar 11 17:47:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "87657877",
+          "name": "Ashok Elluswamy",
+          "screen_name": "aelluswamy",
+          "description": "Leading AI @Tesla",
+          "followers_count": 206717,
+          "friends_count": 616,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 100,
+          "favorite_count": 974,
+          "reply_count": 57,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 43,
+        "favorite_count": 213,
+        "reply_count": 86,
+        "quote_count": 0
       }
     }
   ]

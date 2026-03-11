@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 195896,
+    "followers_count": 195910,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260311",
-  "last_updated": "2026-03-11T16:19:40.348058",
-  "tweet_count": 6,
+  "last_updated": "2026-03-11T18:19:56.075335",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2031520553761145215",
@@ -253,6 +253,158 @@
       "quoted": null,
       "stats": {
         "retweet_count": 12,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031774658127708539",
+      "text": "以前程序员是等编译，现在是等生成\nhttps://t.co/Dp8XK1G9gW",
+      "created_at": "Wed Mar 11 16:50:01 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2031515381160972288",
+          "url": "https://video.twimg.com/amplify_video/2031515381160972288/vid/avc1/720x1280/jmXZ_FzbNJJjxa0Y.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 48,
+        "reply_count": 8,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031776123273584893",
+      "text": "得咬金程（Peter Steinberger）者得天下 https://t.co/Z97huotPf7",
+      "created_at": "Wed Mar 11 16:55:51 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031775721152983040",
+          "url": "https://pbs.twimg.com/media/HDJRQOqWMAALjAC.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031787870105588082",
+      "text": "RT @farmostwood: 一个具体的例子，告诉大家如今的🦞有多么草台。\n\n我看到 @Khazix0918  说「Claude 更新了他们一个叫做 XXX 的 skill，特别牛逼。大家赶紧去升级吧。」\n我看了看，好像确实很牛逼。\n然后卡兹克说：「更新方式也究极无敌简单，…",
+      "created_at": "Wed Mar 11 17:42:31 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031629462895472704",
+        "text": "一个具体的例子，告诉大家如今的🦞有多么草台。\n\n我看到 @Khazix0918  说「Claude 更新了他们一个叫做 XXX 的 skill，特别牛逼。大家赶紧去升级吧。」\n我看了看，好像确实很牛逼。\n然后卡兹克说：「更新方式也究极无敌简单，你直接把这段话发给你的Agent就行。就这么一句话。然后你的Agent 就会自己去更新了。」\n这听起来也很合理。2026嘛，一切都应该这样 works like a magic。\n\n然后我就跟🦞说：去把这个升级了。\n🦞说：好嘞！已升级到 0.1.0 版。\n\n这时候本来应该就完事了，但我觉得哪里不对，因为我刚才自己大概看了一眼那个 skill 的内容，没看到版本号。我问 🦞：你这个 0.1.0 版本号哪来的？\n🦞：clawhub list 显示的呀。\n（clawhub 是 openclaw 用来管理 skill 的管理器，类似于传统软件的 npm 之类。）\n\n我不信邪，自己打开终端看了一下，确实是 0.1.0 版。\n但我觉得还是不对，问🦞：clawhub 里这个 XXX skill 和我让你升级的那个 claude 的 XXX skill 是一回事吗？\n🦞支支吾吾：反正是干同一件事的 skill。\n\n我自己手动查看了一下内容，不能说非常相近，只能说完全无关。\n我对🦞说：你先给我把 clawhub 里那个删了。\n🦞照办，然后说：以后你要调用 XXX，就会直接用 openclaw 原生的 XXX skill 了。\n我：等等等等，openclaw 自己也有一个 XXX？\n🦞：有啊，在另一个目录。\n我自己手动看了一下，是第三个不同的 XXX，这三个 XXX 除了整体目标一致以外实际内容天差地别。\n\n这他妈完全是 py/conda 的噩梦重现，而且糟糕无数倍。因为传统软件还有个编译门槛， skill 就是一堆纯文本，只要你起个名字是同名同姓的，根本无法实际管理版本。\n\n我只好虚弱地对🦞说：请记录下来我的 preference：如果以后我指示你安装某某 skill，请先跟我确认来源和具体内容，不要二话不说直接调用 clawhub。\n🦞：好嘞，已记录，更新了今日日志。\n\n我（过了一会儿）：不对，你把这个更新在今日日志里了？\n🦞：对啊。\n我：这是个长期有效的指令。你放在今天的日志里，以后我让你安装 skill，你怎么知道要去今天的日志里看一眼？\n🦞：对哦……\n\n我现在觉得吧，普通人还是先不要玩🦞了。",
+        "created_at": "Wed Mar 11 07:13:04 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6374912",
+          "name": "木遥",
+          "screen_name": "farmostwood",
+          "description": "https://t.co/pP51YHjSxc",
+          "followers_count": 14967,
+          "friends_count": 373,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 134,
+          "reply_count": 23,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031792843291873360",
+      "text": "RT @blackanger: 学习一下 /btw 的实现机制。\n\n因为 claude code agent 采用的是经典的 ReAct（Reasoning and Acting）单循环。所以我很好奇这个 /btw 是如何在 单 loop 中优雅实现的。\n\n以下内容是通过结合P…",
+      "created_at": "Wed Mar 11 18:02:17 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031737194910761396",
+        "text": "学习一下 /btw 的实现机制。\n\n因为 claude code agent 采用的是经典的 ReAct（Reasoning and Acting）单循环。所以我很好奇这个 /btw 是如何在 单 loop 中优雅实现的。\n\n以下内容是通过结合Piebald-AI 逆向工程项目、OutSight AI 的 MITM 代理分析，以及claude code 官方文档整理而来。\n\n---\n\n/btw 在不破坏 claude code 单 Loop 简洁性的前提下，通过\"降级调用\"（无工具、单次响应）实现轻量级的侧信道交互。\n\n该功能最早在 2025 年 12 月前后出现在二进制中（约 v2.0.73），经过多版本迭代后于 2026 年 3 月正式完善，现已在官方文档中有明确说明。\n\n根据 Claude Code 官方文档（https://t.co/96MDZSg6MM），/btw 被明确定位为 sub-agent 的\"逆运算\"：\n\n/btw is the inverse of a subagent: it sees your full conversation but has no tools, while a subagent has full tools but starts with an empty context.\n\n主 Loop 是\"有上下文 + 有工具\"的完整 Agent；/btw 和 sub-agent 分别是它在两个维度上的降维投影。\n\n三者形成了一个完整的能力矩阵。\n\n我主要是在想，/btw 实现机制是什么样的，才不会破坏 kv 缓存。\n\nClaude Code 使用一套统一的 `<system-reminder>` XML 标签机制来动态修改模型行为。这不是 /btw 独有的，而是一个被约 40 个不同功能共用的基础设施（包括 Plan Mode、文件修改通知、Token 用量提醒等）。\n\n根据 OutSight AI 通过 LiteLLM 代理拦截实际 API 调用的分析，system reminder 是作为 user 角色消息中的额外 text content block 注入的，而不是修改 system prompt。\n\n结合官方文档确认\"Claude cannot read files, run commands, or search when answering a side question\"，工具禁用很可能采用了双重保险策略：\n\nAPI 层： 通过设置 tool_choice: \"none\" 或省略 tools 数组，从 API 层面彻底阻断工具调用\nPrompt 层： System reminder 中明确指示\"you have NO tools available\"，从模型行为层面强化约束\n\n正常情况下 Claude Code 提供 18 个内置工具（Bash、Read、Write、Edit、MultiEdit、Glob、Grep、LS、WebFetch、TodoRead、TodoWrite、Task 等），在 btw 调用中全部被禁用。\n\n/btw 不是在主 loop 中\"插队\"，而是发起了一个独立的 API 调用。主任务继续处理，btw 的调用并行执行。这解释了为什么它能在 Claude 还在工作的时候响应 side question。\n\n/btw 的问答以可关闭的 overlay 形式展示，绝不写入主对话的 messages 数组。这意味着主任务恢复时，对话状态和 btw 之前完全一样，没有任何上下文污染。\n\n由于 btw 调用复用了主对话的完整历史作为上下文，而 system prompt 和前面的对话 turn 都不变，只有最后一条 user message 是新的，因此前缀部分自然命中缓存。额外成本仅为 172 tokens 的 system reminder + 用户问题 + 模型响应。\n\n用户按 Space、Enter 或 Escape 关闭 overlay 并返回主提示符。整个交互在终端的叠加层中完成，不影响底层的主对话流。\n\n由于 btw 的问答完全不写入主对话历史，主任务恢复时发送的 messages 数组和 btw 之前完全一致。因此，主对话的 prompt cache 零损耗。这是整个设计中最优雅的部分。",
+        "created_at": "Wed Mar 11 14:21:09 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2031506296697131352",
+          "text": "We just added /btw to Claude Code! \n\nUse it to have side chain conversations while Claude is working. https://t.co/hjO3YqvrPr",
+          "created_at": "Tue Mar 10 23:03:39 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2031506219714940928",
+              "url": "https://video.twimg.com/amplify_video/2031506219714940928/vid/avc1/1080x1080/WhBH4iX5JlhOqidH.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "352806502",
+            "name": "Thariq",
+            "screen_name": "trq212",
+            "description": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+            "followers_count": 120178,
+            "friends_count": 1701,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1397,
+            "favorite_count": 22947,
+            "reply_count": 1066,
+            "quote_count": 991
+          }
+        },
+        "user": {
+          "id": "7755562",
+          "name": "AlexZ 🦀",
+          "screen_name": "blackanger",
+          "description": "System in Rust, Application in AI.\nSlow down. Have fun. Live well.\nINTJ-A. No ism.\nLifelong Programmer and  Writer.\n\n🦀 保命",
+          "followers_count": 17253,
+          "friends_count": 1496,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 66,
+          "reply_count": 5,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
