@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196135,
+    "followers_count": 196137,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260312",
-  "last_updated": "2026-03-12T20:17:38.854979",
-  "tweet_count": 19,
+  "last_updated": "2026-03-12T22:08:23.060155",
+  "tweet_count": 22,
   "tweets": [
     {
       "id": "2031894425694019854",
@@ -852,6 +852,106 @@
         "retweet_count": 0,
         "favorite_count": 1,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032189698433482771",
+      "text": "Claude 现在能直接在对话里画图表了https://t.co/fUAy0m7l9Z\n\nClaude 新增可视化功能：用户在聊天过程中，Claude 可以直接生成交互式图表和示意图，无需跳转到其他工具，也不用写代码导出。\n\n这项功能目前以 Beta 形式上线，所有套餐均可使用，包括免费用户。\n\n此前 Claude 的 Artifacts 功能已经支持生成代码和网页预览，但可视化内容通常需要用户主动要求生成一个独立的 Artifacts。\n\n这次更新的区别在于，图表直接嵌入对话流中，更像是 Claude 在\"边说边画\"，而不是另开一个窗口展示结果。\n\n对于经常需要用 AI 解释流程、展示数据对比、或梳理系统架构的用户来说，这个功能省去了不少来回折腾。\n\n感兴趣的可以直接在 https://t.co/vefasn3rYt 体验。",
+      "created_at": "Thu Mar 12 20:19:15 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2032121339667234817",
+          "url": "https://video.twimg.com/amplify_video/2032121339667234817/vid/avc1/1920x1080/J4Ga_sOfK1tRV5ZG.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 15,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032206798749306940",
+      "text": "RT @9hills: 尝试翻译了几次，发现还是原版的效果好，去AI味可以直接安装这个 Skill。不用翻译中文效果也不错。\n\n来源：https://t.co/sxzSinD9hA\n\nhttps://t.co/klvo8N5dAK",
+      "created_at": "Thu Mar 12 21:27:12 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031978657003290934",
+        "text": "尝试翻译了几次，发现还是原版的效果好，去AI味可以直接安装这个 Skill。不用翻译中文效果也不错。\n\n来源：https://t.co/sxzSinD9hA\n\nhttps://t.co/klvo8N5dAK",
+        "created_at": "Thu Mar 12 06:20:38 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "116355740",
+          "name": "九原客",
+          "screen_name": "9hills",
+          "description": "喜欢一切美好的事物。目前聚焦在大模型领域。",
+          "followers_count": 24901,
+          "friends_count": 1042,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 31,
+          "favorite_count": 188,
+          "reply_count": 3,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 31,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032206937677295895",
+      "text": "帮转招聘",
+      "created_at": "Thu Mar 12 21:27:45 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032124083174043903",
+        "text": "兔子招人，名额 1 人，坐标深圳宝安\n\n岗位职责：技术支持\n工作内容：对兔友提供技术支持服务（小白用户太多了，需要抢救😂）\n\n薪资待遇：面议\n学历要求：大专\n\n工作时长：双休\n办公硬件：mac\n办公软件： claudecode/codex/openclaw\n团队成员：多位腾讯老登带队\n财务状况：正向现金流增长",
+        "created_at": "Thu Mar 12 15:58:31 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1941171614072344576",
+          "name": "兔妹_兔子",
+          "screen_name": "tuzi_ai",
+          "description": "让先进的人工智能技术触手可及。\n（https://t.co/ETQCPS2dTy | https://t.co/36x6wKtTR6 | https://t.co/VgLnn6s8dx | https://t.co/PjWAjJMSTJ）",
+          "followers_count": 6156,
+          "friends_count": 246,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 7,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
