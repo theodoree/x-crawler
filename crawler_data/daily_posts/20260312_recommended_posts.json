@@ -1,12 +1,116 @@
 {
   "date": "20260312",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-12T06:19:40.860757",
-  "tweet_count": 213,
-  "unique_tweet_count": 213,
-  "total_crawled": 410,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-12T08:14:13.910652",
+  "tweet_count": 215,
+  "unique_tweet_count": 215,
+  "total_crawled": 413,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2031989615448768982",
+      "text": "RT @robotaxi: Cybercab is designed from the ground up with everyone in mind",
+      "created_at": "Thu Mar 12 07:04:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031498955096531268",
+        "text": "Cybercab is designed from the ground up with everyone in mind",
+        "created_at": "Tue Mar 10 22:34:28 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2031475246776119515",
+          "text": "@congressdj Wow cool thanks! Also a nice detail about the STOP(hazards) button integrated with Braille for visually impaired people https://t.co/NdufZF9Rug",
+          "created_at": "Tue Mar 10 21:00:16 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2031475242208784386",
+              "url": "https://pbs.twimg.com/media/HDE_-DXa8AIy0ye.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "246417417",
+            "name": "Vadim M",
+            "screen_name": "vadimX_",
+            "description": "",
+            "followers_count": 1365,
+            "friends_count": 2158,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 7,
+            "favorite_count": 198,
+            "reply_count": 14,
+            "quote_count": 6
+          }
+        },
+        "user": {
+          "id": "1853866883851620352",
+          "name": "Tesla Robotaxi",
+          "screen_name": "robotaxi",
+          "description": "The future of autonomy",
+          "followers_count": 169463,
+          "friends_count": 5,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 381,
+          "favorite_count": 3345,
+          "reply_count": 198,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236380900,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 381,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031989543529038103",
+      "text": "If it’s allowed in an R-rated movie, it’s allowed in @Grok Imagine",
+      "created_at": "Thu Mar 12 07:03:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236380900,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1465,
+        "favorite_count": 25798,
+        "reply_count": 3406,
+        "quote_count": 300
+      }
+    },
     {
       "id": "2031973952319271101",
       "text": "帮转求职",
