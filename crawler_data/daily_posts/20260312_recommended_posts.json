@@ -1,12 +1,199 @@
 {
   "date": "20260312",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-12T16:24:52.821493",
-  "tweet_count": 261,
-  "unique_tweet_count": 261,
-  "total_crawled": 446,
-  "duplicates_removed": 185,
+  "last_crawl_time": "2026-03-12T18:23:35.104784",
+  "tweet_count": 264,
+  "unique_tweet_count": 264,
+  "total_crawled": 461,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2032152823790489810",
+      "text": "RT @HiTw93: https://t.co/RTkJ3NQKeS",
+      "created_at": "Thu Mar 12 17:52:43 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2032091246588518683",
+        "text": "https://t.co/RTkJ3NQKeS",
+        "created_at": "Thu Mar 12 13:48:02 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1521688129559613440",
+          "name": "Tw93",
+          "screen_name": "HiTw93",
+          "description": "Father of Kaku · Mole · Pake • MiaoYan",
+          "followers_count": 121518,
+          "friends_count": 299,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 154,
+          "favorite_count": 821,
+          "reply_count": 19,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196134,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 154,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032144370577600850",
+      "text": "挺好的话题：开发人员怎么把AI嵌入到产品中？\n当前和以后AI对现有产品的改变，作为开发人员需要那些实用的技术转变\n\n有兴趣的都可以留言讨论💡",
+      "created_at": "Thu Mar 12 17:19:08 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032133978308952516",
+        "text": "@dotey 宝玉老师，啥时候组织几场关于开发人员怎么把AI嵌入到产品中的讨论会吧，大家讨论一下当前和以后AI对现有产品的改变，作为开发人员需要那些实用的技术转变",
+        "created_at": "Thu Mar 12 16:37:50 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1212631826998521856",
+          "name": "Alice",
+          "screen_name": "John59346988",
+          "description": "",
+          "followers_count": 312,
+          "friends_count": 142,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196134,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 11,
+        "reply_count": 6,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032136405976068207",
+      "text": "RT @uge198568: 我当时拆解之后，其实也是做了和你一样的事情，并且在多个公众号账号里尝试过，也得到了反馈，是有效的。…",
+      "created_at": "Thu Mar 12 16:47:29 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031993049044463698",
+        "text": "我当时拆解之后，其实也是做了和你一样的事情，并且在多个公众号账号里尝试过，也得到了反馈，是有效的。\n\n可这种有效无法持续性，无法持续性的原因在于文风可以画皮，但是当你用某个文风去生产100个作品的时候，你会感受到很明显的规律，或者说文章的惯性，此刻你的粉丝会感受到不对劲，久而久之开始脱粉，最终白忙乎。\n\n整个闭环我二年前就走完了，所以我现在无比坚定一件事，自己写作非常重要，即使写的再烂，因为写的烂可以提升，可在错误的事情上犯了错，那原本可以用来提升自己的时间全部变成了试错，时间才是最宝贵的资源。\n\n也因如此，我对Ai更多的使用在于3点\n1，察觉自己，研究自己的心理活动和情绪\n2，通过对话式，费曼式来加速自己学习\n3，逆向拆解，从而让AI训练我的skills，而不是让AI用skills。当然这里通常是能力向的。",
+        "created_at": "Thu Mar 12 07:17:50 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2031989612739240366",
+          "text": "U哥拆解公众号的事儿，我前段时间也在做。\n\n我拆解的是抖音，把 200万-400万粉的“83萌叔”，姜胡说的表达风格做成 Skill \n\n1/ 转录他们所有高爆的视频成文字\n2/ 把文字喂给 Claude, 转 Skill\n3/ 输入主题文本，Skill 自动换皮\n\n但我卡在了下一步——这不是我想要的表达，内容屠宰场缺我这把刀吗？ https://t.co/8lmBBf2fo3",
+          "created_at": "Thu Mar 12 07:04:10 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2031986690513125377",
+              "url": "https://pbs.twimg.com/media/HDMRIQxbQAEpdIm.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2031986748860047360",
+              "url": "https://pbs.twimg.com/media/HDMRLqIaoAATZTQ.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2031987553931575296",
+              "url": "https://pbs.twimg.com/media/HDMR6hQbQAA16kp.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "155252642",
+            "name": "黄赟",
+            "screen_name": "huangyun_122",
+            "description": "Every great AI journey starts with a single Prompt\nvx: huangyun_122",
+            "followers_count": 77417,
+            "friends_count": 1163,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 21,
+            "favorite_count": 106,
+            "reply_count": 7,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "1948730310100979712",
+          "name": "U哥",
+          "screen_name": "uge198568",
+          "description": "在这里记录脑海中每天的奇思妙想或者胡说八道。\n📲 小红书：U哥帮你看号",
+          "followers_count": 4715,
+          "friends_count": 85,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 32,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196134,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2032122700500779365",
       "text": "Oh and it works in all AI4-equipped cars, so your car can do office work for you when not driving. \n\nWe’re also deploying millions of dedicated Digital Optimus units in the field at Superchargers where we have ~7 gigawatts of available power.",
