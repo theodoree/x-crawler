@@ -1,0 +1,111 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 236398064,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260312",
+  "last_updated": "2026-03-12T04:36:20.336241",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2031947884082716843",
+      "text": "RT @mayemusk: I’m so excited to be a speaker at #IndiaTodayConclave26 on March 13. Thank you @IndiaToday for inviting me to New Delhi. http…",
+      "created_at": "Thu Mar 12 04:18:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031761749213315567",
+        "text": "I’m so excited to be a speaker at #IndiaTodayConclave26 on March 13. Thank you @IndiaToday for inviting me to New Delhi. https://t.co/d313PdTWVk 🇮🇳🧡💚 https://t.co/dQ2bgJOwQl",
+        "created_at": "Wed Mar 11 15:58:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031761744297644032",
+            "url": "https://pbs.twimg.com/media/HDJEiq0W0AAlsLF.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14171401",
+          "name": "Maye Musk",
+          "screen_name": "mayemusk",
+          "description": "Author: A Woman Makes A Plan, now in 34 languages & 100+ countries 📖 Doctor of Dietetics 👩‍🎓 Supermodel 😉💃 ItsGreatToBe77 info@mayemusk.com",
+          "followers_count": 1495049,
+          "friends_count": 207,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 475,
+          "favorite_count": 2702,
+          "reply_count": 532,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 475,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031948786055201100",
+      "text": "RT @Geiger_Capital: Having basic Voter ID is now \"far-right\"…\n\nEvery developed nation in the world is far-right. https://t.co/IUiTzaZTdO",
+      "created_at": "Thu Mar 12 04:21:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031811321826562049",
+          "url": "https://pbs.twimg.com/media/HDJxodgW0AEQZ68.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2031811328608796902",
+        "text": "Having basic Voter ID is now \"far-right\"…\n\nEvery developed nation in the world is far-right. https://t.co/IUiTzaZTdO",
+        "created_at": "Wed Mar 11 19:15:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031811321826562049",
+            "url": "https://pbs.twimg.com/media/HDJxodgW0AEQZ68.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "437179266",
+          "name": "Geiger Capital",
+          "screen_name": "Geiger_Capital",
+          "description": "Markets/Economics/Politics | RIP Paul Volcker 🕊 Personal Views. Not Investment Advice.",
+          "followers_count": 342150,
+          "friends_count": 303,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 472,
+          "favorite_count": 3148,
+          "reply_count": 171,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 472,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

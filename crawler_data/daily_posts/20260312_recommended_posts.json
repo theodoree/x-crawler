@@ -1,12 +1,194 @@
 {
   "date": "20260312",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-12T03:00:45.049582",
-  "tweet_count": 207,
-  "unique_tweet_count": 207,
-  "total_crawled": 400,
-  "duplicates_removed": 193,
+  "last_crawl_time": "2026-03-12T04:36:20.307828",
+  "tweet_count": 210,
+  "unique_tweet_count": 210,
+  "total_crawled": 407,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2031948786055201100",
+      "text": "RT @Geiger_Capital: Having basic Voter ID is now \"far-right\"…\n\nEvery developed nation in the world is far-right. https://t.co/IUiTzaZTdO",
+      "created_at": "Thu Mar 12 04:21:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031811321826562049",
+          "url": "https://pbs.twimg.com/media/HDJxodgW0AEQZ68.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2031811328608796902",
+        "text": "Having basic Voter ID is now \"far-right\"…\n\nEvery developed nation in the world is far-right. https://t.co/IUiTzaZTdO",
+        "created_at": "Wed Mar 11 19:15:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031811321826562049",
+            "url": "https://pbs.twimg.com/media/HDJxodgW0AEQZ68.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "437179266",
+          "name": "Geiger Capital",
+          "screen_name": "Geiger_Capital",
+          "description": "Markets/Economics/Politics | RIP Paul Volcker 🕊 Personal Views. Not Investment Advice.",
+          "followers_count": 342150,
+          "friends_count": 303,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 472,
+          "favorite_count": 3148,
+          "reply_count": 171,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236398064,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 472,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031947884082716843",
+      "text": "RT @mayemusk: I’m so excited to be a speaker at #IndiaTodayConclave26 on March 13. Thank you @IndiaToday for inviting me to New Delhi. http…",
+      "created_at": "Thu Mar 12 04:18:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031761749213315567",
+        "text": "I’m so excited to be a speaker at #IndiaTodayConclave26 on March 13. Thank you @IndiaToday for inviting me to New Delhi. https://t.co/d313PdTWVk 🇮🇳🧡💚 https://t.co/dQ2bgJOwQl",
+        "created_at": "Wed Mar 11 15:58:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031761744297644032",
+            "url": "https://pbs.twimg.com/media/HDJEiq0W0AAlsLF.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14171401",
+          "name": "Maye Musk",
+          "screen_name": "mayemusk",
+          "description": "Author: A Woman Makes A Plan, now in 34 languages & 100+ countries 📖 Doctor of Dietetics 👩‍🎓 Supermodel 😉💃 ItsGreatToBe77 info@mayemusk.com",
+          "followers_count": 1495049,
+          "friends_count": 207,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 475,
+          "favorite_count": 2702,
+          "reply_count": 532,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236398064,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 475,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031946681445503191",
+      "text": "吃瓜，腾讯搞了个 skillhub，专门抓 clawhub 的数据😂 https://t.co/g6KjouQAPX",
+      "created_at": "Thu Mar 12 04:13:35 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031946528042930176",
+          "url": "https://pbs.twimg.com/media/HDLsmf6WUAA0EyR.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2031927362712117380",
+        "text": "@steipete Do you know that Tencent created a skillhub, which scraped all the skills from clawhub and imported them into its own platform? https://t.co/hHNLZMsWPG",
+        "created_at": "Thu Mar 12 02:56:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031926950911156225",
+            "url": "https://pbs.twimg.com/media/HDLay9aaIAEL6OT.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2031927269552504832",
+            "url": "https://pbs.twimg.com/media/HDLbFgcbQAA2nw9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "192231368",
+          "name": "SnowShadow",
+          "screen_name": "Alfredxia",
+          "description": "CTO @hundun.ai · HDDI = AI × Business Consulting · e/acc ⚡ we ship.",
+          "followers_count": 22,
+          "friends_count": 79,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 102,
+          "reply_count": 11,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195999,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 15,
+        "reply_count": 13,
+        "quote_count": 3
+      }
+    },
     {
       "id": "2031926334780264475",
       "text": "这条推文的套路是：用一个真实的大新闻（Amazon 确实裁了 16,000 人）作为钩子，然后叠加大量未经验证的内部\"爆料\"来制造恐慌传播。\n\n推文里混了真实信息和大量未经验证的耸动说法。\n\n已经确认的事实\n\nAmazon 在 1 月 28 日宣布裁员约 16,000 人，加上去年 10 月裁掉的 14,000 人，合计约 30,000 个岗位，是公司历史上最大规模的裁员。\n\nAmazon 人力资源高级副总裁 Beth Galetti 在致员工信中表示，裁员是为了\"减少层级、增加所有权、去除官僚主义\"，许多团队在 10 月已完成调整，另一些团队直到现在才完成。\n\nCEO Andy Jassy 去年曾公开表示，AI 带来的效率提升将导致公司员工总数逐步减少。不过Jassy 也说过，这次裁员并非由 AI 或财务问题驱动，而是文化调整。\n\nNPR 报道中两位匿名 Amazon 高级员工表示，管理层现在期望员工用 AI 工具弥补团队缩编后的人力缺口，还有专门的仪表盘追踪 AI 工具使用频率。但 Amazon 官方否认了这一说法。\n\n推文中存疑或无法核实的部分\n\n\"Phase One\"说法\n推文称 16,000 只是第一阶段，Q2 还有 14,000 人要裁。但 Galetti 明确写道公司并不打算形成每隔几个月大裁一次的\"新节奏\"。当然她也没有排除未来调整的可能性。\n\nAlexa 部门从 847 人砍到 23 人\n这个极端数字没有任何主流媒体报道佐证。Amazon 确实在 CES 2026 上展示了 Alexa+ 的 AI 升级，Alexa 团队有调整是可能的，但\"847 到 23\"这种精确数字缺乏来源。\n\n\"知识转移被录制并喂给训练数据\"\n没有任何可信报道提到这一做法。这属于典型的社交媒体恐慌叙事。\n\n\"$280M 季度薪资节省\"\n无出处。Amazon 上一轮裁员报告了约 18 亿美元的遣散费支出，但推文中的数字无法核实。\n\n\"用 Claude Sonnet 工作流替换整个团队\"\"班加罗尔 31 个用 Cursor 的外包\"\n这些细节过于具体又无法验证，是典型的社交媒体\"内幕人士\"写法。",

@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 195970,
+    "followers_count": 195999,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260312",
-  "last_updated": "2026-03-12T03:00:45.075689",
-  "tweet_count": 7,
+  "last_updated": "2026-03-12T04:36:20.366188",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2031894425694019854",
@@ -306,6 +306,62 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2031946681445503191",
+      "text": "吃瓜，腾讯搞了个 skillhub，专门抓 clawhub 的数据😂 https://t.co/g6KjouQAPX",
+      "created_at": "Thu Mar 12 04:13:35 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031946528042930176",
+          "url": "https://pbs.twimg.com/media/HDLsmf6WUAA0EyR.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2031927362712117380",
+        "text": "@steipete Do you know that Tencent created a skillhub, which scraped all the skills from clawhub and imported them into its own platform? https://t.co/hHNLZMsWPG",
+        "created_at": "Thu Mar 12 02:56:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031926950911156225",
+            "url": "https://pbs.twimg.com/media/HDLay9aaIAEL6OT.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2031927269552504832",
+            "url": "https://pbs.twimg.com/media/HDLbFgcbQAA2nw9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "192231368",
+          "name": "SnowShadow",
+          "screen_name": "Alfredxia",
+          "description": "CTO @hundun.ai · HDDI = AI × Business Consulting · e/acc ⚡ we ship.",
+          "followers_count": 22,
+          "friends_count": 79,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 102,
+          "reply_count": 11,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 15,
+        "reply_count": 13,
+        "quote_count": 3
       }
     }
   ]
