@@ -1,12 +1,165 @@
 {
   "date": "20260312",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-12T04:36:20.307828",
-  "tweet_count": 210,
-  "unique_tweet_count": 210,
-  "total_crawled": 407,
+  "last_crawl_time": "2026-03-12T06:19:40.860757",
+  "tweet_count": 213,
+  "unique_tweet_count": 213,
+  "total_crawled": 410,
   "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2031973952319271101",
+      "text": "帮转求职",
+      "created_at": "Thu Mar 12 06:01:57 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031963542996574538",
+        "text": "独立开发吃不上饭了，出来找找工作机会：\n\n18 年毕业在成都一家初创公司待了四年，主要做 web 前后端端开发（React/Node/Mongo栈），中间也涉及过一些 Electron/iOS/Android 开发。\n\n后面公司经营不下去，所有人都回家各找各妈了，于是想着试试能不能自己干。\n\n自己试着做了一些产品，然后发现其实自己干的难点在营销而不是开发。但人就是这样，不撞南墙不回头，尽管这样还是想自己一个人创造一些东西。于是就一直干到了现在。\n\n这中间一直是勒紧裤腰带在生活，只要吃的少，就不怕吃不饱。\n\n虽然金钱上的收入比较少，但因为时间地点比较自由，所以跑了很多地方，接触了很多不同的人，也看了一些书。\n\n这些对我自己的成长还是蛮大的，比如让我认清了自己究竟想要什么：就是想要钱。所以我就又出来找工作了。\n\n因为我最擅长的事是写代码，所以还是偏向于找写程序相关的工作，如果是和 AI 相关的那就更好了。而且写程序我还能带着我的助手们（Claude/Codex）一起工作。\n\n如果有其它有趣的工作，比如演短视频、教 AI 编程、活动策划啥的，如果合适，我也可以试试，但因为有些领域不是很熟悉，可能只能边学边做。\n\n总之，我的兴趣点在代码、影视、音乐、阅读、画画，在我兴趣点内的工作，也许我都可以尝试尝试。\n\n因为我喜欢晒太阳和呼吸清新的空气，所以地点偏向于深圳。如果工作吸引力大，在成都、杭州、上海等其它地方也是可以的。\n\n感谢你看完这么啰嗦的一大段话，如果你有兴趣让我和你一起工作，想知道我做过的事和是什么样的人的话，可以查看我的线上简历：\n\n https://t.co/tJzy7eW8UX",
+        "created_at": "Thu Mar 12 05:20:35 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "981057178214612992",
+          "name": "生活不独立开发 Nooc",
+          "screen_name": "noobnooc",
+          "description": "独立乞讨者、数字难民、AI 学徒；AI 记忆卡学习 https://t.co/M4uyG85O8M / Webhook、邮件电话提醒 https://t.co/DqZWORlijO / 数字游民社区 https://t.co/m6LZfbHFVj",
+          "followers_count": 6094,
+          "friends_count": 478,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 49,
+          "reply_count": 5,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195992,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031960194515943559",
+      "text": "RT @bridgemindai: Grok 4.20 Beta just dropped in the X API with a 2,000,000 token context window.\n\n2 million tokens. That's insane.\n\nLowest…",
+      "created_at": "Thu Mar 12 05:07:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031785355188342970",
+        "text": "Grok 4.20 Beta just dropped in the X API with a 2,000,000 token context window.\n\n2 million tokens. That's insane.\n\nLowest hallucination rate on the market. Lightning fast. Function calling. Structured outputs. Reasoning.\n\nGPT 5.4 has 1M context. Claude Opus 4.6 has 200K.\n\nxAI just doubled the competition.",
+        "created_at": "Wed Mar 11 17:32:32 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031785345914699776",
+            "url": "https://pbs.twimg.com/media/HDJaAdsXAAAUwlV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1767869376496107520",
+          "name": "BridgeMind",
+          "screen_name": "bridgemindai",
+          "description": "Build the future. Over 50,000 on YouTube. Join the fastest growing Vibe Coding community on the internet: https://t.co/wPvrAeqHmM",
+          "followers_count": 22830,
+          "friends_count": 9,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 154,
+          "favorite_count": 1142,
+          "reply_count": 193,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236390433,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 154,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031959202688618698",
+      "text": "https://t.co/4fD9xaoQIq \n腾讯官方回应：SkillHub 是基于 OpenClaw 生态的中国本地化技能平台，本质上是官方源的镜像，目的是为国内用户提供更快的访问速度。\n\n他们强调自己一直标注了 ClawHub 作为来源，并用数据说明效率：上线第一周处理了 180GB 流量（87万次下载），但只从官方源拉取了 1GB 数据。\n\n最后表态团队成员也是社区活跃贡献者，愿意支持生态并成为更好的赞助者。",
+      "created_at": "Thu Mar 12 05:03:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031951395751088639",
+        "text": "Hi Peter, we hear your concerns. SkillHub is a localized skills platform from Tencent built on the OpenClaw ecosystem, providing better availability & speed for users in China.\n\nWe are transparent that we act as a local mirror and have always credited ClawHub as the source. In our first week, we handled 180GB of traffic (870k downloads) for users, while only pulling 1GB (from non-concurrent requests) from the official source.\n\nMany of our team members are active contributors (code & PRs), and we are eager to support the ecosystem and become a better sponsor.",
+        "created_at": "Thu Mar 12 04:32:19 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2000391102923481088",
+          "name": "Tencent AI",
+          "screen_name": "TencentAI_News",
+          "description": "The official @Tencentglobal newsroom for AI updates and developer resources.",
+          "followers_count": 6076,
+          "friends_count": 84,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 40,
+          "reply_count": 14,
+          "quote_count": 4
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 195992,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2031948786055201100",
       "text": "RT @Geiger_Capital: Having basic Voter ID is now \"far-right\"…\n\nEvery developed nation in the world is far-right. https://t.co/IUiTzaZTdO",
