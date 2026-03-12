@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196092,
+    "followers_count": 196117,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260312",
-  "last_updated": "2026-03-12T14:20:33.694527",
-  "tweet_count": 10,
+  "last_updated": "2026-03-12T16:24:52.882587",
+  "tweet_count": 14,
   "tweets": [
     {
       "id": "2031894425694019854",
@@ -439,6 +439,184 @@
         "retweet_count": 0,
         "favorite_count": 1,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032102107797389817",
+      "text": "通常优化稿子我的思路是分成三步：\n第一步让AI扮演目标读者或听众的角色给出反馈\n第二步让AI扮演专业编辑去给出具体修改意见\n第三步是根据意见修改\n\n当然还是要人工审校把关才能真正做好，AI 更多是辅助",
+      "created_at": "Thu Mar 12 14:31:11 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031991090530959433",
+        "text": "@dotey 宝玉老师，优化逐字稿有哪些推荐的方法吗？",
+        "created_at": "Thu Mar 12 07:10:03 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "461784701",
+          "name": "北落",
+          "screen_name": "zx377359832",
+          "description": "自媒体内容创作者 | 聚焦生活方式 & 科技趋势 | 读书笔记控📚 | 分享交易策略 & 编程思维 | 一起进化思维，构建个人品牌",
+          "followers_count": 33,
+          "friends_count": 351,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 116,
+        "reply_count": 12,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2032104101866082464",
+      "text": "之所以分角色扮演输出，其实不完全是给AI看的，还是给自己看的，这样你更能清楚为什么要这么改，具体要怎么改，也是个向AI学习的机会",
+      "created_at": "Thu Mar 12 14:39:07 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032108159095959600",
+      "text": "RT @dontbesilent: 用 AI 优化短视频的稿子，我的个人方案：\n\n1️⃣ 尽量不让 AI 写逐字稿，不是说 AI 写不了（虽然落地成本也的确高），而是我觉得最终落地表达，是创作者需要有体感的\n\n只是把一些观点串联起来的话，打开镜头直接说就行了，甚至可以没有稿子…",
+      "created_at": "Thu Mar 12 14:55:14 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2032106999262167170",
+        "text": "用 AI 优化短视频的稿子，我的个人方案：\n\n1️⃣ 尽量不让 AI 写逐字稿，不是说 AI 写不了（虽然落地成本也的确高），而是我觉得最终落地表达，是创作者需要有体感的\n\n只是把一些观点串联起来的话，打开镜头直接说就行了，甚至可以没有稿子\n\n2️⃣ 那么退而求其次，首先，AI 需要保证我的短视频开头有流量，但这不是提示词工程的问题，是上下文工程的问题\n\n我需要让 claude code 知道我的本地文件夹里面，我过去所有短视频的数据，「哪些开头流量好」这是一个结果，几乎无法靠提示词工程做出来，直接抄答案就行了\n\n3️⃣ 除此之外，很重要的一点是，在短视频播放过程中，尽量不要让人觉得逻辑断裂导致跳出\n\n我会问 claude code：在当前的短视频文稿当中，你觉得哪些地方出现了逻辑断裂或者逻辑跳跃？用 Emoji 给我标注出来（这样看起来明显）\n\n标注了之后，具体这个断裂的地方是需要让 AI 来帮我写，还是我自己写，这个要具体情况具体讨论（所以体感是极其重要的）\n\n4️⃣ 在我的这个领域里，观众默认我应该短视频结尾给大家一个解决方案。因为通常来讲，我是暴露了一个问题，所以结尾就需要有 solution\n\n这就有两个来源，第一个是可以靠大模型直接推理出来，也就是让 AI 直接去写\n\n另外一个是，在我过往的大量短视频文稿中已经有，需要让 Agent 预处理一下那些文件，把那几十万字过一遍，分门别类去管理我曾经针对不同的场景提出的个性化的解决方案。比如你可以保留一个「解决方案.md」\n\n曾经写过的方案是可以复用的（大概长图 1 这样）\n\n短视频可以「编排」出来，并不一定每一篇都是从 0 开始创作",
+        "created_at": "Thu Mar 12 14:50:38 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032106033691443202",
+            "url": "https://pbs.twimg.com/media/HDN9q8wbQAIA6_5.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2032106292886847495",
+            "url": "https://pbs.twimg.com/media/HDN96CVbQAcHVI5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2032102107797389817",
+          "text": "通常优化稿子我的思路是分成三步：\n第一步让AI扮演目标读者或听众的角色给出反馈\n第二步让AI扮演专业编辑去给出具体修改意见\n第三步是根据意见修改\n\n当然还是要人工审校把关才能真正做好，AI 更多是辅助",
+          "created_at": "Thu Mar 12 14:31:11 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3178231",
+            "name": "宝玉",
+            "screen_name": "dotey",
+            "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+            "followers_count": 196117,
+            "friends_count": 1585,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 24,
+            "favorite_count": 116,
+            "reply_count": 12,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "1596695231717871616",
+          "name": "dontbesilent",
+          "screen_name": "dontbesilent",
+          "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+          "followers_count": 71725,
+          "friends_count": 1198,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 75,
+          "reply_count": 4,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032108203811480058",
+      "text": "https://t.co/jDASlSUt6Z",
+      "created_at": "Thu Mar 12 14:55:25 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032106999262167170",
+        "text": "用 AI 优化短视频的稿子，我的个人方案：\n\n1️⃣ 尽量不让 AI 写逐字稿，不是说 AI 写不了（虽然落地成本也的确高），而是我觉得最终落地表达，是创作者需要有体感的\n\n只是把一些观点串联起来的话，打开镜头直接说就行了，甚至可以没有稿子\n\n2️⃣ 那么退而求其次，首先，AI 需要保证我的短视频开头有流量，但这不是提示词工程的问题，是上下文工程的问题\n\n我需要让 claude code 知道我的本地文件夹里面，我过去所有短视频的数据，「哪些开头流量好」这是一个结果，几乎无法靠提示词工程做出来，直接抄答案就行了\n\n3️⃣ 除此之外，很重要的一点是，在短视频播放过程中，尽量不要让人觉得逻辑断裂导致跳出\n\n我会问 claude code：在当前的短视频文稿当中，你觉得哪些地方出现了逻辑断裂或者逻辑跳跃？用 Emoji 给我标注出来（这样看起来明显）\n\n标注了之后，具体这个断裂的地方是需要让 AI 来帮我写，还是我自己写，这个要具体情况具体讨论（所以体感是极其重要的）\n\n4️⃣ 在我的这个领域里，观众默认我应该短视频结尾给大家一个解决方案。因为通常来讲，我是暴露了一个问题，所以结尾就需要有 solution\n\n这就有两个来源，第一个是可以靠大模型直接推理出来，也就是让 AI 直接去写\n\n另外一个是，在我过往的大量短视频文稿中已经有，需要让 Agent 预处理一下那些文件，把那几十万字过一遍，分门别类去管理我曾经针对不同的场景提出的个性化的解决方案。比如你可以保留一个「解决方案.md」\n\n曾经写过的方案是可以复用的（大概长图 1 这样）\n\n短视频可以「编排」出来，并不一定每一篇都是从 0 开始创作",
+        "created_at": "Thu Mar 12 14:50:38 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032106033691443202",
+            "url": "https://pbs.twimg.com/media/HDN9q8wbQAIA6_5.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2032106292886847495",
+            "url": "https://pbs.twimg.com/media/HDN96CVbQAcHVI5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1596695231717871616",
+          "name": "dontbesilent",
+          "screen_name": "dontbesilent",
+          "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+          "followers_count": 71725,
+          "friends_count": 1198,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 75,
+          "reply_count": 4,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
