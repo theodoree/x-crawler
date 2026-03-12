@@ -1,0 +1,312 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 195970,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260312",
+  "last_updated": "2026-03-12T03:00:45.075689",
+  "tweet_count": 7,
+  "tweets": [
+    {
+      "id": "2031894425694019854",
+      "text": "感谢 OpenAI 🙏 https://t.co/uLbf0n6YSD",
+      "created_at": "Thu Mar 12 00:45:56 +0000 2026",
+      "lang": "ja",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031894369096318976",
+          "url": "https://pbs.twimg.com/media/HDK9KcsaQAAsEzb.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2030044135542116646",
+        "text": "OpenAI 推出\"Codex for Open Source\"计划，向开源项目的核心维护者免费提供六个月的 ChatGPT Pro，外加 API 额度和安全工具的有条件使用权。\n\n这个计划脱胎于此前 100 万美元的 Codex 开源基金。之前那个基金主要提供 API 额度，帮助开源团队用 Codex 自动化 PR 审查等流程。\n\n现在升级了——直接送 ChatGPT Pro 账号，让维护者日常写代码、审代码、处理 issue 都能用上。\n\n申请门槛不算高——核心维护者或广泛使用的公开项目都可以申请，即便不完全符合标准，OpenAI 也鼓励提交并说明理由。",
+        "created_at": "Fri Mar 06 22:13:32 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 195970,
+          "friends_count": 1585,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 12,
+          "favorite_count": 135,
+          "reply_count": 16,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 96,
+        "reply_count": 19,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2031894906474582142",
+      "text": "但是用不了😅 https://t.co/2ARWt8N9DJ",
+      "created_at": "Thu Mar 12 00:47:51 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031894895892242432",
+          "url": "https://pbs.twimg.com/media/HDK9pHKWIAAYOTc.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "reply_count": 10,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031900333685821577",
+      "text": "得先取消订阅\nhttps://t.co/RgdrKTkI4L",
+      "created_at": "Thu Mar 12 01:09:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031898661412880784",
+        "text": "@dotey 邮件里小字说得等当前pro订阅到期（但是我的plus订阅也提示这个）",
+        "created_at": "Thu Mar 12 01:02:46 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "936609800598597633",
+          "name": "Jason Young",
+          "screen_name": "Jason_Young1231",
+          "description": "Building CC Switch, a Claude Code, OpenCode and Codex assistant tool https://t.co/2aciSaL2Ia",
+          "followers_count": 7777,
+          "friends_count": 573,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031900910012502388",
+      "text": "这个文章拆解格式适合做成个skill，用来分析爆款文章👍\n\n拆解格式是：\n- 核心观点\n- 副观点\n- 说服策略\n- 情绪触发点\n- 金句\n- 情感曲线分析\n- 情感层次\n- 论证方式多样性\n- 视角转化分析\n- 语言风格特征\n\n提炼所有给观众制造情绪价值的句式\n\n提炼所有刺痛观众的句式",
+      "created_at": "Thu Mar 12 01:11:42 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031884461047271692",
+        "text": "二年前我在研究公众号的时候，我发现一个玄学博主，不靠玄学和带货，只做公众号，年入5000万+，这是明面上的钱，私下玄学咨询一次13000/小时，这笔钱有多少算不出。\n\n明面上的钱是他的知识星球，我刚刚看了下，今年效益不太好，1700多万。（4100+人/4199年）\n\n而在研究这人的时候，我做了这几件事\n1，所有公众号文章导出\n2，写了脚本和提示词，所有10万+的文章进行了拆解，拆解格式是：\n- 核心观点\n- 副观点\n- 说服策略\n- 情绪触发点\n- 金句\n- 情感曲线分析\n- 情感层次\n- 论证方式多样性\n- 视角转化分析\n- 语言风格特征\n3，提炼了所有给观众制造情绪价值的句式\n4，提炼了所有刺痛观众的句式\n5，把3和4的句式用AI做成音频文件\n\n以上就是全部逆向的方式。而我这件事做完，自己也没看，自己也没练，这就是我的问题。\n\n所以方法总是很容易提炼的，别人牛的能力也很容易逆向出来的。\n可你要拥有这种能力，真是只能下苦功夫，贼无聊，也贼枯燥，甚至贼恶心\n\n可没办法，这才是最难的一部分，而最难的部分决定了你是否能够成功和卓越。\n\n这也就是为何我至今没有通过正道年入千万真正的卡点",
+        "created_at": "Thu Mar 12 00:06:20 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1948730310100979712",
+          "name": "U哥",
+          "screen_name": "uge198568",
+          "description": "在这里记录脑海中每天的奇思妙想或者胡说八道。\n📲 小红书：U哥帮你看号",
+          "followers_count": 4009,
+          "friends_count": 84,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 161,
+          "reply_count": 20,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 196,
+        "reply_count": 9,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031907457232957565",
+      "text": "&gt; 加上\"互动钩子\"这个维度——爆款帖往往在结尾埋了让用户忍不住回复的点（提问、填空、争议）。\nhttps://t.co/pKmwuqlXJo",
+      "created_at": "Thu Mar 12 01:37:43 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031905854904287585",
+        "text": "@dotey 这个拆解框架太实用了！我之前正好在研究爆款内容的套路。建议加上\"互动钩子\"这个维度——爆款帖往往在结尾埋了让用户忍不住回复的点（提问、填空、争议）。这个skill做出来可以当成内容创作的逆向工程工具。",
+        "created_at": "Thu Mar 12 01:31:21 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1656969601648066560",
+          "name": "路易 | AI",
+          "screen_name": "LL_AIlo",
+          "description": "每天用AI做真实的事 | Agent / 工具 / 思考",
+          "followers_count": 6,
+          "friends_count": 39,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 1,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2031924492620956094",
+      "text": "RT @nash_su: 提升240倍！😱\n\nAI 连续工作1天2夜帮我把一个算法模型准确度提高了240倍，这太震撼了！\n\n前天下午，我用karpathy 大神的 autoresearch 的思路，编写了一个 program.md 文档，在一个GTX4090单卡机器上，让 Cl…",
+      "created_at": "Thu Mar 12 02:45:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2031919086679273836",
+        "text": "提升240倍！😱\n\nAI 连续工作1天2夜帮我把一个算法模型准确度提高了240倍，这太震撼了！\n\n前天下午，我用karpathy 大神的 autoresearch 的思路，编写了一个 program.md 文档，在一个GTX4090单卡机器上，让 Claude Code 按照文档要求帮我优化一个AI预测模型。\n\n当天就提升了24%，但是后续一直没有明显进步，直到昨晚，我用 /btw 给他说要大胆一些不要约束在当前思路，可以从底层修改。\n\n结果就在刚刚，完成了240倍的突破，AI 重构了模型架构，直接把 MSE 降低了240倍。\n\n1天两夜，将近48小时的连续运行，自己做了快70个实验，太震撼了",
+        "created_at": "Thu Mar 12 02:23:56 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031917474447527936",
+            "url": "https://pbs.twimg.com/media/HDLSLW1akAAoD9D.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2031300733128290324",
+          "text": "用 karpathy 大神的 autoresearch 的思路，让我一个 side project 的模型训练自己优化起来了\n\n看看一晚上能搞成啥样子\n\nautoresearch 核心其实就是一个 program.md 文件 https://t.co/IyPF0WFXNi",
+          "created_at": "Tue Mar 10 09:26:49 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2031300196454510597",
+              "url": "https://pbs.twimg.com/media/HDCgxDHaMAU8SE_.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "133153722",
+            "name": "nash_su - e/acc",
+            "screen_name": "nash_su",
+            "description": "e/acc - AI创业者，大部分INTJ，偶尔ENTJ。前OpenCSG联合创始人，前 IterCast/LinuxCast 创始人。马拉松爱好者（PB官方255，个人最好成绩249）",
+            "followers_count": 14004,
+            "friends_count": 1282,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 23,
+            "favorite_count": 156,
+            "reply_count": 10,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "133153722",
+          "name": "nash_su - e/acc",
+          "screen_name": "nash_su",
+          "description": "e/acc - AI创业者，大部分INTJ，偶尔ENTJ。前OpenCSG联合创始人，前 IterCast/LinuxCast 创始人。马拉松爱好者（PB官方255，个人最好成绩249）",
+          "followers_count": 14004,
+          "friends_count": 1282,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 46,
+          "reply_count": 4,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2031926334780264475",
+      "text": "这条推文的套路是：用一个真实的大新闻（Amazon 确实裁了 16,000 人）作为钩子，然后叠加大量未经验证的内部\"爆料\"来制造恐慌传播。\n\n推文里混了真实信息和大量未经验证的耸动说法。\n\n已经确认的事实\n\nAmazon 在 1 月 28 日宣布裁员约 16,000 人，加上去年 10 月裁掉的 14,000 人，合计约 30,000 个岗位，是公司历史上最大规模的裁员。\n\nAmazon 人力资源高级副总裁 Beth Galetti 在致员工信中表示，裁员是为了\"减少层级、增加所有权、去除官僚主义\"，许多团队在 10 月已完成调整，另一些团队直到现在才完成。\n\nCEO Andy Jassy 去年曾公开表示，AI 带来的效率提升将导致公司员工总数逐步减少。不过Jassy 也说过，这次裁员并非由 AI 或财务问题驱动，而是文化调整。\n\nNPR 报道中两位匿名 Amazon 高级员工表示，管理层现在期望员工用 AI 工具弥补团队缩编后的人力缺口，还有专门的仪表盘追踪 AI 工具使用频率。但 Amazon 官方否认了这一说法。\n\n推文中存疑或无法核实的部分\n\n\"Phase One\"说法\n推文称 16,000 只是第一阶段，Q2 还有 14,000 人要裁。但 Galetti 明确写道公司并不打算形成每隔几个月大裁一次的\"新节奏\"。当然她也没有排除未来调整的可能性。\n\nAlexa 部门从 847 人砍到 23 人\n这个极端数字没有任何主流媒体报道佐证。Amazon 确实在 CES 2026 上展示了 Alexa+ 的 AI 升级，Alexa 团队有调整是可能的，但\"847 到 23\"这种精确数字缺乏来源。\n\n\"知识转移被录制并喂给训练数据\"\n没有任何可信报道提到这一做法。这属于典型的社交媒体恐慌叙事。\n\n\"$280M 季度薪资节省\"\n无出处。Amazon 上一轮裁员报告了约 18 亿美元的遣散费支出，但推文中的数字无法核实。\n\n\"用 Claude Sonnet 工作流替换整个团队\"\"班加罗尔 31 个用 Cursor 的外包\"\n这些细节过于具体又无法验证，是典型的社交媒体\"内幕人士\"写法。",
+      "created_at": "Thu Mar 12 02:52:44 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031904439653597419",
+        "text": "Amazon just confirmed 16,000 layoffs but sources inside are telling me the real story is so much worse\n\nWord from three different VPs: the 16K number is just \"Phase One\" - internal docs show another 14,000 cuts planned for Q2\n\nA director in AWS walked me through their new \"efficiency matrix\" - entire teams being replaced by 2-3 senior engineers running Claude Sonnet workflows\n\nThe Alexa division got completely hollowed out. 847 engineers two months ago. 23 remaining after this week. All hardware development moved to a Bangalore team of 31 contractors with Cursor access\n\nHere's the sick part: they're making the outgoing engineers document their entire decision-making process into \"knowledge transfer sessions\" that are being recorded and fed directly into training datasets\n\nOne L7 told me he spent his final two weeks creating detailed prompt libraries and workflow documentation. Thought he was being helpful for the transition\n\nTurns out he was literally training the AI agent that replaced his entire org\n\nThe contractors offshore are using his exact prompts and shipping features 40% faster than his old team of 12 Americans ever did\n\nInternal Slack shows leadership celebrating \"operational excellence\" while badges get deactivated in real-time\n\nThey're calling it \"right-sizing for the AI era\" in the all-hands\n\nBut the P&L sheets I'm seeing show $280M in salary savings this quarter alone\n\nThe knowledge extraction is complete\n\nIf you're still at Amazon and haven't started job hunting, you're already dead",
+        "created_at": "Thu Mar 12 01:25:44 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2027429188400254976",
+          "name": "Tech Layoff Tracker",
+          "screen_name": "TechLayoffLover",
+          "description": "Nothing gets me going more than watching lazy, entitled tech workers who pretended to have real jobs finally get the boot.",
+          "followers_count": 27329,
+          "friends_count": 44,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 231,
+          "favorite_count": 1455,
+          "reply_count": 90,
+          "quote_count": 29
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
