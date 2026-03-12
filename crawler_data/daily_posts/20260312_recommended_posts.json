@@ -1,12 +1,435 @@
 {
   "date": "20260312",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-12T12:11:22.531717",
-  "tweet_count": 239,
-  "unique_tweet_count": 239,
-  "total_crawled": 436,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-12T14:20:33.632318",
+  "tweet_count": 246,
+  "unique_tweet_count": 246,
+  "total_crawled": 439,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2032098123607392561",
+      "text": "RT @GuntherEagleman: There are 2 bills on John Thune's desk that Americans overwhelmingly support.\n\n- Secure elections\n- Stop funding the T…",
+      "created_at": "Thu Mar 12 14:15:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031730450574528637",
+        "text": "There are 2 bills on John Thune's desk that Americans overwhelmingly support.\n\n- Secure elections\n- Stop funding the Taliban\n\n@LeaderJohnThune refuses to pass these common sense bills.\n\nIs John Thune really this corrupt?",
+        "created_at": "Wed Mar 11 13:54:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1355721251180961792",
+          "name": "Gunther Eagleman™",
+          "screen_name": "GuntherEagleman",
+          "description": "David J. Freeman - Political Commentator - America First - MAGA - Christian",
+          "followers_count": 1705688,
+          "friends_count": 102224,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8970,
+          "favorite_count": 25600,
+          "reply_count": 2027,
+          "quote_count": 468
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236392687,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 8970,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032098057001844982",
+      "text": "RT @Not_the_Bee: BBC says “deep wound” stab kits are now recommended on London buses for some strange, unstated reason\nhttps://t.co/9y3cgbL…",
+      "created_at": "Thu Mar 12 14:15:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031754521542860977",
+        "text": "BBC says “deep wound” stab kits are now recommended on London buses for some strange, unstated reason\nhttps://t.co/9y3cgbLSj4",
+        "created_at": "Wed Mar 11 15:30:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1299007622968901637",
+          "name": "Not the Bee",
+          "screen_name": "Not_the_Bee",
+          "description": "What a time to 🐝 alive.\n\nPersonal thoughts shared as posts or replies from this account are usually those of our CEO, @dandillondev",
+          "followers_count": 544614,
+          "friends_count": 544,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1434,
+          "favorite_count": 6765,
+          "reply_count": 166,
+          "quote_count": 76
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236392687,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1434,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032097866035183906",
+      "text": "RT @heavypulp: Used Grok Imagine’s new multi-image video reference feature for a lot of the shots in here. Adding multiple consistent chara…",
+      "created_at": "Thu Mar 12 14:14:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032063921310368069",
+        "text": "Used Grok Imagine’s new multi-image video reference feature for a lot of the shots in here. Adding multiple consistent characters, objects, backdrops etc etc across multiple shots.\n\nIt works scarily well and did an excellent job retaining the visual style I was going for despite some of the reference images being from very different looking sources.\n\nGrok Imagine continues to be the most fun (and increasingly most capable) AI generation tool to play with. \n\nThanks @grok! We always believed in you.",
+        "created_at": "Thu Mar 12 11:59:27 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2031716527901225372",
+          "text": "Everything is Computer, but Computer isn't Everything! https://t.co/4XxZ69jmBy",
+          "created_at": "Wed Mar 11 12:59:02 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2031715641531748352",
+              "url": "https://video.twimg.com/amplify_video/2031715641531748352/vid/avc1/3840x2160/v96p_1A8kBwkH3cB.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1667903437139238913",
+            "name": "Heavy Pulp",
+            "screen_name": "heavypulp",
+            "description": "Freshly Squeezed Visual Amalgamations. \n\nCustom work: pulp@heavypulp.media\n\nEVERYTHING IS COMPUTER.\nBUT COMPUTER ISN'T EVERYTHING.",
+            "followers_count": 31574,
+            "friends_count": 1135,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 143,
+            "favorite_count": 981,
+            "reply_count": 67,
+            "quote_count": 21
+          }
+        },
+        "user": {
+          "id": "1667903437139238913",
+          "name": "Heavy Pulp",
+          "screen_name": "heavypulp",
+          "description": "Freshly Squeezed Visual Amalgamations. \n\nCustom work: pulp@heavypulp.media\n\nEVERYTHING IS COMPUTER.\nBUT COMPUTER ISN'T EVERYTHING.",
+          "followers_count": 31574,
+          "friends_count": 1135,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 55,
+          "favorite_count": 225,
+          "reply_count": 50,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236392687,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 55,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032097556092895591",
+      "text": "RT @techdevnotes: Grok Imagine now supports Referencing Images with @ for Image Editing and Video on Web https://t.co/R8Uqr2ud2k",
+      "created_at": "Thu Mar 12 14:13:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032067212425482240",
+          "url": "https://pbs.twimg.com/media/HDNaXQRW0AA-bVN.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2032067617045774634",
+        "text": "Grok Imagine now supports Referencing Images with @ for Image Editing and Video on Web https://t.co/R8Uqr2ud2k",
+        "created_at": "Thu Mar 12 12:14:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032067212425482240",
+            "url": "https://pbs.twimg.com/media/HDNaXQRW0AA-bVN.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech",
+          "followers_count": 56742,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 44,
+          "favorite_count": 249,
+          "reply_count": 57,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236392687,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032097431748538745",
+      "text": "RT @seanmdav: Thune only needs a simple majority vote to proceed to the SAVE America Act. But he won’t do that. He doesn’t want you to see…",
+      "created_at": "Thu Mar 12 14:12:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2031737317015101702",
+        "text": "Thune only needs a simple majority vote to proceed to the SAVE America Act. But he won’t do that. He doesn’t want you to see the vote fail when people like McConnell vote against.\n\nSo instead of moving to the House-passed bill, he’s going to go out of his way to set up a 60-vote obstacle which will doom the bill to failure but will allow puke Republicans to pretend to support it since they know it’s dead anyway.\n\nThis is classic FAILURE THEATER.",
+        "created_at": "Wed Mar 11 14:21:38 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2031481317993422854",
+          "text": "Understand what Thune is doing right now. It’s not enough for him to kill the SAVE America Act. Thune has to kill it while also protecting his worst RINO colleagues from being\nexposed for opposing it.\n\nHow does Thune accomplish his? By avoiding a simple majority vote at all costs. Thune knows a public vote where Republicans get less than 50 votes—with people like Tillis and Curtis and McConnell and Murkowski voting against IT—is electoral poison. He doesn’t want it to pass, but he also can’t have it die at the hands of his own puke colleagues.\n\nSo how does Thune do this? By refusing to move to the already-passed House bill (this only requires a simple majority because the House message is privileged) and instead moving to a new, standalone Senate bill. A new Senate bill is not privileged, and therefore the motion to proceed to it is debatable, meaning it requires 60 votes. \n\nThune needs to kill the SAVE America Act, not expose any of his GOP colleagues as being against it, and be able to pretend that he tried. This is the actual Senate GOP trifecta—doing nothing while pretending they tried everything and protecting the worst of the worst the whole time. \n\nSo when you watch the GOP Senate bring up a brand new SAVE America Act bill and hold a single vote on a motion that needs 60 to pass, know that they’re doing it because they think you’re stupid.",
+          "created_at": "Tue Mar 10 21:24:23 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "36529101",
+            "name": "Sean Davis",
+            "screen_name": "seanmdav",
+            "description": "CEO and Co-Founder of @FDRLST\n\nWinner of the 2025 Dao Prize for Excellence in Investigative Journalism",
+            "followers_count": 630790,
+            "friends_count": 5552,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 13858,
+            "favorite_count": 37537,
+            "reply_count": 1606,
+            "quote_count": 988
+          }
+        },
+        "user": {
+          "id": "36529101",
+          "name": "Sean Davis",
+          "screen_name": "seanmdav",
+          "description": "CEO and Co-Founder of @FDRLST\n\nWinner of the 2025 Dao Prize for Excellence in Investigative Journalism",
+          "followers_count": 630790,
+          "friends_count": 5552,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3092,
+          "favorite_count": 8398,
+          "reply_count": 290,
+          "quote_count": 134
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236392687,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3092,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032097246372942226",
+      "text": "RT @dvorahfr: Grok Imagine UPDATE: \nYou can now integrate up to 5 reference images into your videos.\n\nImproved understanding of the prompt…",
+      "created_at": "Thu Mar 12 14:11:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032077561182769450",
+        "text": "Grok Imagine UPDATE: \nYou can now integrate up to 5 reference images into your videos.\n\nImproved understanding of the prompt\nImproved consistency between characters and settings https://t.co/OpDIEOlrvq",
+        "created_at": "Thu Mar 12 12:53:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032076755477856256",
+            "url": "https://video.twimg.com/amplify_video/2032076755477856256/vid/avc1/2160x3218/1tew9w7xPmBUx3Ds.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 121057,
+          "friends_count": 3459,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 59,
+          "favorite_count": 326,
+          "reply_count": 78,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236392687,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 59,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032097059868962932",
+      "text": "Have fun with friends &amp; family assembling images and turning them into videos, like a video version of LEGO!",
+      "created_at": "Thu Mar 12 14:11:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032040546282434968",
+        "text": "Grok Imagine just got a major update from @xai!\n\nYou can now specify up to 7 reference images for generating a video. The images can reference people, objects, or even keyframes. It's really very flexible!\n\n@Grok will then combine the references with your prompt into a video. 📹 https://t.co/9bIDPxOo7m",
+        "created_at": "Thu Mar 12 10:26:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032039527611613184",
+            "url": "https://pbs.twimg.com/media/HDNBLyTXwAAcQgW.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "8721292",
+          "name": "Mark Kretschmann",
+          "screen_name": "mark_k",
+          "description": "Follow me for:  AI & Software Engineering | Fitness | e/acc",
+          "followers_count": 33950,
+          "friends_count": 612,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 27,
+          "favorite_count": 262,
+          "reply_count": 32,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236392687,
+        "friends_count": 1292,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 211,
+        "favorite_count": 1429,
+        "reply_count": 507,
+        "quote_count": 19
+      }
+    },
     {
       "id": "2032044786082070725",
       "text": "RT @tetsuoai: Building AgenC: Grok 4.20, ZK Agents, Localnet Shakeout https://t.co/TPOmk9PD7k",
