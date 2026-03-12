@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 195918,
+    "followers_count": 195927,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260311",
-  "last_updated": "2026-03-11T22:08:08.453419",
-  "tweet_count": 12,
+  "last_updated": "2026-03-12T00:19:05.392732",
+  "tweet_count": 13,
   "tweets": [
     {
       "id": "2031520553761145215",
@@ -462,6 +462,51 @@
         "favorite_count": 16,
         "reply_count": 1,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2031864208225108465",
+      "text": "转译：现在最被低估的招聘，是找一个真正厉害的产品人。\n\n我说的产品人，绝对不是指产品经理。我觉得这应该算是一种全新的角色。\n\n我还没想好该怎么称呼，姑且叫\"产品思考者\"（product thinker）吧。\n\n一个对产品现状有直觉级理解的人，知道哪里还不够好，哪里让人眼前一亮，以及怎么一步步把它打磨得更锋利。\n\n某种意义上，这个人脑子里必须完整地装着这个产品两年后该长成什么样，然后从那个终点倒推回来。\n\n我这么说是因为，过去做东西很难的时候，工程是瓶颈，地位排序往往也反映了这一点。但现在做东西不难了。这意味着结果的差异，几乎完全转移到了判断力上：做什么、按什么顺序做、以及怎么讲这个故事。\n\n故事和产品本身一样重要。对内，它让团队围绕一个共同的\"为什么\"形成共识。对外，它塑造了用户第一次接触产品时的解读框架。\n\n你没办法事后给产品补一个叙事然后指望它能打动人，叙事从一开始就必须是承重结构。\n\n这种人最稀缺的版本，站在文化和深度技术的交叉点上。\n\n真正的\"双语者\"：既知道技术上什么是可行的，也知道哪些文化潮流是真实的、哪些只是昙花一现。正是这种组合，区分了让人觉得\"就该是这样\"的产品和让人觉得\"拼凑出来\"的产品。\n\n别急着杠说这种人一直都很有价值——我知道。\n\n我只是说，现在他们可能是房间里最重要的人。他们的价值正在以前所未有的方式复利式增长。",
+      "created_at": "Wed Mar 11 22:45:52 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2031864197819351041",
+          "url": "https://pbs.twimg.com/media/HDKhuP7bQAEe4VU.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2030404483897815089",
+        "text": "the most underrated hire right now is a great product person.\n\nwhen i say product person i'm def not talking about a product manager. perhaps i think there has to be somewhat of a new role. i don't have a good name for it yet but maybe something like \"product thinker\".. someone with an intuitive grasp of the product as it exists, where it's soft, where it sings, & how to iterate it toward something even sharper. in some sense, this person has to cohesively hold in their head where this product should be 2 years from now & work backwards from that.\n\ni say this cuz when building was hard, engineering was the bottleneck & the status hierarchy often reflected that. building is no longer hard. which means the variance in outcomes has shifted almost entirely to judgment on what to build, how to sequence it, & how to talk about it.\n\n& the story matters as much as the thing. internally, it organizes the team around a shared model of why. externally, it shapes the interpretive frame users bring to their first experience. you can't retrofit narrative onto a product & expect it to land, it has to be load bearing from the start.\n\nthe rarest version of this person sits at the intersection of culture & deep technology. someone genuinely bilingual. they know what's technically possible & they know which cultural currents are real vs. ephemeral. that combo is what separates products that feel inevitable from products that feel assembled.\n\nbefore ppl clap back with this person has always been valuable, i know.. i am just saying now they might be the most *important* person in the room. their value compounds like never before.",
+        "created_at": "Sat Mar 07 22:05:26 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1717671858521194496",
+          "name": "signüll",
+          "screen_name": "signulll",
+          "description": "village regard.",
+          "followers_count": 172913,
+          "friends_count": 1503,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 720,
+          "favorite_count": 6216,
+          "reply_count": 441,
+          "quote_count": 348
+        }
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 32,
+        "reply_count": 6,
+        "quote_count": 0
       }
     }
   ]
