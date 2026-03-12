@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196134,
+    "followers_count": 196135,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260312",
-  "last_updated": "2026-03-12T18:23:35.138340",
-  "tweet_count": 17,
+  "last_updated": "2026-03-12T20:17:38.854979",
+  "tweet_count": 19,
   "tweets": [
     {
       "id": "2031894425694019854",
@@ -774,6 +774,84 @@
         "retweet_count": 154,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032166187908350291",
+      "text": "&gt; 快速验证效果，避免为了造轮子而造轮子。\nhttps://t.co/XlSSsTD7tz",
+      "created_at": "Thu Mar 12 18:45:49 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032160177580023899",
+        "text": "首先得是快速验证效果，避免为了造轮子而造轮子。\n\n1. AI 功能直接上 claude agent sdk 足矣\n\n2. 把产品里，所有通过 UI 触发的 API 行为，全部封装成 API，再包装成 cli\n\n3. 把每个模块用法和流程，制作成 SKILL\n\n4. 产品的 Agent 内置 SKILL+cli，openclaw 也可以安装这一套工具\n\n现在产品已经可以通过 Agent 使用\n所有能在产品里实现的功能，都可以通过 AI 对话实现",
+        "created_at": "Thu Mar 12 18:21:56 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1712414505920323584",
+          "name": "YAN",
+          "screen_name": "_yan_labs",
+          "description": "https://t.co/Dd8DUQc4VR co-founder CTO. AI native. 搞点天使投资.",
+          "followers_count": 21,
+          "friends_count": 114,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032166355529519481",
+      "text": "&gt; 从写确定性逻辑转向设计概率性系统\n\nhttps://t.co/W3JoZKBzNd",
+      "created_at": "Thu Mar 12 18:46:29 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032160979203866724",
+        "text": "@dotey 最实际的转变：从写确定性逻辑转向设计概率性系统。以前写个 if-else 就行，现在得考虑 LLM 输出不稳定、延迟高、成本随 token 涨。工程习惯要大改，尤其是测试和 error handling。",
+        "created_at": "Thu Mar 12 18:25:07 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2024045556738457600",
+          "name": "Ne0@Digital",
+          "screen_name": "bigthing123456",
+          "description": "Private AI @GoogleDeepMind 正主@changochen11",
+          "followers_count": 7,
+          "friends_count": 364,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
         "quote_count": 0
       }
     }
