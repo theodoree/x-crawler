@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196257,
+    "followers_count": 196289,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260313",
-  "last_updated": "2026-03-13T06:18:43.399273",
-  "tweet_count": 5,
+  "last_updated": "2026-03-13T08:13:09.107066",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2032260011309584737",
@@ -208,6 +208,84 @@
       "stats": {
         "retweet_count": 1,
         "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032341437505826826",
+      "text": "RT @jakevin7: 这几天把 xiaohongshu-cli 连续打磨了一轮，做了几件我自己很满意的事：\n\n1. 放弃了没必要的 server 方案，回到纯 CLI，但把真正有价值的状态能力保住了：\n- xsec_token + xsec_source 成对缓存\n- s…",
+      "created_at": "Fri Mar 13 06:22:12 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2032330774196981833",
+        "text": "这几天把 xiaohongshu-cli 连续打磨了一轮，做了几件我自己很满意的事：\n\n1. 放弃了没必要的 server 方案，回到纯 CLI，但把真正有价值的状态能力保住了：\n- xsec_token + xsec_source 成对缓存\n- search 更像浏览器真实请求链\n- search_id / note context 复用\n- read / comments / reread 的连续链路更稳\n\n2. 补了一整套真实只读 smoke tests，不只是单测\n直接验证：\nsearch -> read -> comments -> feed -> reread\n这类连续场景在真实登录态下能不能跑通\n\n3. 做了短索引交互\n现在不光能：\n- xhs read 1\n- xhs comments 1\n\n还支持：\n- xhs like 1\n- xhs favorite 1\n- xhs unfavorite 1\n- xhs comment 1 -c \"...\"\n- xhs reply 1 --comment-id ... -c \"...\"\n\n而且 search / feed / hot / user-posts / favorites / my-notes 都会刷新索引。\n\n顺手还吸收并重做了社区 PR 的产品思路，把实现按当前主线重构了一遍，避免把新的 anti-blocking 逻辑回退掉。\n\n最新版本：v0.6.3\nhttps://t.co/mi1L5h6GNU",
+        "created_at": "Fri Mar 13 05:39:50 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1068172934630395904",
+          "name": "卡比卡比",
+          "screen_name": "jakevin7",
+          "description": "AI enthusiast ! Love open source! \nBlockChain Worker?ExDatabaseer.\nApache Arrow/Datafusion/Doris PMC member & Committer",
+          "followers_count": 6785,
+          "friends_count": 533,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 103,
+          "reply_count": 6,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032346830147621222",
+      "text": "RT @yan5xu: https://t.co/1ZzTdMJH1m",
+      "created_at": "Fri Mar 13 06:43:38 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2031947154911351159",
+        "text": "https://t.co/1ZzTdMJH1m",
+        "created_at": "Thu Mar 12 04:15:28 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "115897222",
+          "name": "yan5xu",
+          "screen_name": "yan5xu",
+          "description": "🤖 AI 野生研究员 | ex @ManusAI_HQ & @hey_im_monica\n推特内容仅代表个人观点，和公司无关",
+          "followers_count": 11610,
+          "friends_count": 430,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 25,
+          "favorite_count": 191,
+          "reply_count": 11,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 25,
+        "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
       }
