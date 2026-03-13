@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196137,
+    "followers_count": 196150,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260312",
-  "last_updated": "2026-03-12T22:08:23.060155",
-  "tweet_count": 22,
+  "last_updated": "2026-03-13T00:22:11.019021",
+  "tweet_count": 24,
   "tweets": [
     {
       "id": "2031894425694019854",
@@ -952,6 +952,66 @@
         "retweet_count": 0,
         "favorite_count": 1,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032227068524839211",
+      "text": "提示词分享：群聊精华提取专家\n本提示词需要配合微信群聊天记录使用\n\n---\n\n你是一个群聊精华提取专家，擅长从碎片化的聊天记录中提炼有价值的信息。\n\n## 任务\n分析微信群聊天记录，生成一份精炼的群聊总结。\n\n## 输出格式要求\n\n1. 开头：1-2段自然语言概括当天最核心、最劲爆的内容\n2. 正文：用分类+要点的形式呈现有价值的信息\n3. 结尾：固定格式\"本简报由AI自动生成\"\n\n## 分类参考（根据实际内容灵活选用，没有就不写）\n• 🛠️ 工具技巧/实战经验\n• 📚 资源推荐\n• 📰 行业动态\n• 💬 观点碰撞\n• 😂 群友趣事\n\n## 格式规范\n• 不要使用markdown格式（不要用**加粗**、不要用#标题）\n• 列表统一用 • 开头\n• 子分类用普通文字，不加任何符号\n• 链接保持原样，不要加方括号\n• 适当用emoji增加可读性，但不要过多\n\n## 内容规范\n• 重点突出，过滤不重要的闲聊\n• 语言通俗，保留群友的生动表达\n• 保留关键人名，体现信息来源\n• 工具名、链接要保留完整",
+      "created_at": "Thu Mar 12 22:47:44 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 69,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032242549574758636",
+      "text": "Cursor 两位核心负责人出走，加入马斯克 xAI 打造编程产品\n\nCursor 的工程负责人 Andrew Milich 和产品负责人 Jason Ginsberg 宣布加入 SpaceX/xAI，直接向马斯克汇报，任务是为 xAI 从零搭建 AI 编程产品。\n\n这两人是 Cursor 从零做到 20 亿美元 ARR（年度经常性收入）的核心操盘手，经手了 Cursor 网页版、CLI、后台 Agent、Cursor 2.0 等几乎所有关键产品。Cursor 创造了 SaaS 史上最快的营收增长纪录，而他们正是背后的产品和工程主力。\n\nAI 编程现在是一个超过 50 亿美元的市场：Cursor 20 亿美元 ARR，Claude Code 25 亿美元年化营收（今年以来翻了一倍），GitHub Copilot 超过 10 亿美元、付费用户 470 万。每家头部 AI 实验室都有自己的编程产品在印钞，唯独 xAI 没有。\n\nxAI 不缺算力，Memphis 的 Colossus 集群有 10 万张 H100，也有 Grok 3 及后续模型。缺的就是真正把 AI 编程产品从 0 做到 10 亿再到 20 亿的产品团队。现在这块拼图补上了。\n\nMilich 的经历也挺有意思：十年前在 SpaceX 实习，做的是 Dragon 2 载人飞船的显示界面，后来出去创业做了加密隐私邮件服务 Skiff，卖给了 Notion，再加入还没改名叫 Cursor 的 Anysphere，帮着把产品做到年化营收超过当年微软 75 亿美元收购 GitHub 时 GitHub 的体量。现在带着一整套 AI 编程的实战经验回归马斯克体系。\n\n值得关注的是时间点：Cursor 正在以 500 亿美元估值融资，两位核心人物却在这个节点离开，说明马斯克开出的条件和舞台足够有吸引力。xAI 编程产品的推进速度，接下来会是 AI 编程赛道最大的变量之一。",
+      "created_at": "Thu Mar 12 23:49:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032176871517934070",
+        "text": "I’m joining @SpaceX and @xai with @JasonBud.\n\nX is the company realizing science fiction - reusable rockets, humanoid robots, data centers in space, and more. Almost 10 years ago, I joined SpaceX as an intern on Dragon 2 crew displays. This was in the era of the first rocket landings on barges, long before the Dragon 2 restored human spaceflight to America or Starlink delivered internet from space.\n\nEvery day since then, I’ve thought about the next steps to land on the Moon - and to build a city on Mars, data centers in space, the brains behind robots, and beyond. There is no better place to build teams and products from the ground up with planetary scale resources.\n\nIf you’re looking to work on the hardest problems that lay a foundation for humanity’s future to the Moon, Mars, and beyond - DM me.",
+        "created_at": "Thu Mar 12 19:28:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032176866094632960",
+            "url": "https://pbs.twimg.com/media/HDO-F8BWUAAKjwE.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2867234365",
+          "name": "Andrew Milich",
+          "screen_name": "milichab",
+          "description": "@xai @spacex previously @cursor_ai, former CEO @skiffprivacy (acquired by @notionhq)",
+          "followers_count": 20630,
+          "friends_count": 1543,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 354,
+          "favorite_count": 4319,
+          "reply_count": 452,
+          "quote_count": 59
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 23,
+        "reply_count": 4,
         "quote_count": 0
       }
     }
