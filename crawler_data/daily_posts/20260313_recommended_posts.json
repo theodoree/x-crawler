@@ -1,12 +1,61 @@
 {
   "date": "20260313",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-13T16:12:40.379800",
-  "tweet_count": 250,
-  "unique_tweet_count": 250,
-  "total_crawled": 449,
+  "last_crawl_time": "2026-03-13T18:12:38.206264",
+  "tweet_count": 251,
+  "unique_tweet_count": 251,
+  "total_crawled": 450,
   "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2032512532917924190",
+      "text": "RT @Cernovich: Grok is the search engine that Google used to be. The results are actually what you were looking for, and then some. 10/10.",
+      "created_at": "Fri Mar 13 17:42:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032493473077604492",
+        "text": "Grok is the search engine that Google used to be. The results are actually what you were looking for, and then some. 10/10.",
+        "created_at": "Fri Mar 13 16:26:20 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "358545917",
+          "name": "Cernovich",
+          "screen_name": "Cernovich",
+          "description": "Read more. 👇 👇 👇",
+          "followers_count": 1473129,
+          "friends_count": 4287,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 289,
+          "favorite_count": 3342,
+          "reply_count": 298,
+          "quote_count": 31
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236461778,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 289,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2032487717146083350",
       "text": "RT @yan5xu: 正好也分享一下关于上下文压缩这个事情。\n\n我之前对上下文压缩这个事情也很头疼，尝试过各种压缩办法，摘要、滑动窗口等等，无论哪种总会发现后续工作会因为一些信息没了，不符合我的预期。\n\n后来想明白了，是压缩就一定会丢失信息，所以解决上下文窗口有限的办法不是不…",
