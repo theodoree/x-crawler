@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196397,
+    "followers_count": 196406,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260313",
-  "last_updated": "2026-03-13T20:09:21.959742",
-  "tweet_count": 8,
+  "last_updated": "2026-03-13T22:08:39.191085",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2032260011309584737",
@@ -349,6 +349,51 @@
       "stats": {
         "retweet_count": 3,
         "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032568646149747198",
+      "text": "Claude Opus 4.6 和 Sonnet 4.6 的 100 万 token 上下文窗口今天正式全面开放（GA），且不加价，按标准价格计费，无论请求长度是 9K 还是 900K token，单价完全一样。\n\nOpus 4.6 的定价是输入 $5、输出 $25（每百万 token），Sonnet 4.6 是 $3/$15。此前超过 20 万 token 的请求需要加 beta 标头，现在直接生效，已有代码无需改动。\n\n除了价格统一，这次更新还有几个实际变化：单次请求可处理的图片和 PDF 页数从 100 提升到 600；所有上下文长度享受相同的速率限制，不会因为请求变长而被限流。Claude Code 的 Max、Team 和 Enterprise 用户在使用 Opus 4.6 时将默认启用 100 万上下文，意味着对话压缩（compaction）频率大幅降低，更多对话历史得以完整保留。\n\n在准确率方面，Opus 4.6 在 MRCR v2 基准上得分 78.3%，Sonnet 4.6 在 GraphWalks BFS 上得分 68.4%，均为同类前沿模型在百万 token 长度下的最高分。简单说就是：窗口虽大，信息检索能力没有打折。\nAnthropic 引用了多家客户的反馈来说明实际效果。\n\nCognition（Devin 背后的公司）表示，此前大型代码差异塞不进 20 万上下文窗口，需要分批处理，容易丢失跨文件依赖；现在整个差异一次送入，代码审查质量更高，流程也更简单。Ramp 的工程师提到，Claude Code 在调试时经常消耗超过 10 万 token 检索各类数据源，一旦触发压缩就会丢失细节、陷入重复调试循环，百万上下文直接消除了这个问题。\n\n该功能今天起通过 Claude Platform 原生支持，也可通过 Amazon Bedrock、Google Cloud Vertex AI 和 Microsoft Foundry 使用。",
+      "created_at": "Fri Mar 13 21:25:03 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032509548297343196",
+        "text": "1 million context window: Now generally available for Claude Opus 4.6 and Claude Sonnet 4.6. https://t.co/jreruGukcm",
+        "created_at": "Fri Mar 13 17:30:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032505238658363394",
+            "url": "https://pbs.twimg.com/media/HDTovvJaMAI8jWP.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+          "followers_count": 737143,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1055,
+          "favorite_count": 15175,
+          "reply_count": 808,
+          "quote_count": 892
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 14,
         "reply_count": 0,
         "quote_count": 0
       }

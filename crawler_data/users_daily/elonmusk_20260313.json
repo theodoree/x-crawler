@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236467846,
+    "followers_count": 236473575,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260313",
-  "last_updated": "2026-03-13T20:09:21.933444",
-  "tweet_count": 59,
+  "last_updated": "2026-03-13T22:08:39.166911",
+  "tweet_count": 60,
   "tweets": [
     {
       "id": "2032289938033819929",
@@ -2852,6 +2852,75 @@
       "quoted": null,
       "stats": {
         "retweet_count": 1605,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032579285677125799",
+      "text": "RT @Starlink: Starlink providing reliable connectivity in Zimbabwe 🛰️❤️",
+      "created_at": "Fri Mar 13 22:07:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032542993077645661",
+        "text": "Starlink providing reliable connectivity in Zimbabwe 🛰️❤️",
+        "created_at": "Fri Mar 13 19:43:07 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2025589299941351564",
+          "text": "Starlink 🇿🇼 Chimanimani, Zimbabwe https://t.co/FidbXhTrFY",
+          "created_at": "Sun Feb 22 15:11:37 +0000 2026",
+          "lang": "ro",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2025589296690855936",
+              "url": "https://pbs.twimg.com/media/HBxWu7oXgAAp85-.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "925380675372494848",
+            "name": "willard shoko",
+            "screen_name": "WillarShoko",
+            "description": "Starlink Research and Consultant,\nHigh Speed Internet Consultants\nNOT AFFILIATED WITH STARLINK",
+            "followers_count": 10791,
+            "friends_count": 1998,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 6,
+            "favorite_count": 70,
+            "reply_count": 4,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1570815,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 126,
+          "favorite_count": 887,
+          "reply_count": 88,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 126,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
