@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236426641,
+    "followers_count": 236435749,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260313",
-  "last_updated": "2026-03-13T04:35:11.580593",
-  "tweet_count": 1,
+  "last_updated": "2026-03-13T06:18:43.375577",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2032289938033819929",
@@ -46,6 +46,136 @@
           "favorite_count": 173,
           "reply_count": 39,
           "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032325809600676340",
+      "text": "Progress",
+      "created_at": "Fri Mar 13 05:20:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032182002791624739",
+        "text": "xAI's Grok Imagine just took #1 on the Video Arena leaderboard (DesignArena by Arcada Labs)\n\n→ Elo: 1336 - 33 points clear of #2\n→ Win rate: 69.7% - highest on the entire board\n→ Battles: 15,590 - statistically rock solid\n\nBeats Veo 3 Fast, Veo 3.1 Fast, and Veo 3.1 - all at once\n\nAnd it does it in 21.3 seconds, while Google's models take over 40 seconds\n\nxAI went from nowhere to #1 in AI video. The pace of Grok Imagine improvement is unmatched",
+        "created_at": "Thu Mar 12 19:48:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032180500475895808",
+            "url": "https://pbs.twimg.com/media/HDPBZfJXYAA42iH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 166594,
+          "friends_count": 1650,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 50,
+          "favorite_count": 313,
+          "reply_count": 102,
+          "quote_count": 18
+        }
+      },
+      "stats": {
+        "retweet_count": 597,
+        "favorite_count": 4316,
+        "reply_count": 1140,
+        "quote_count": 43
+      }
+    },
+    {
+      "id": "2032340320378319128",
+      "text": "Important",
+      "created_at": "Fri Mar 13 06:17:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032192283995422945",
+        "text": "Grok has the lowest hallucination rate of any AI model because @elonmusk pushed for Grok to be maximally truth seeking. Other models will struggle with this because they are pushed to be inherently biased. Biased models will hallucinate more.",
+        "created_at": "Thu Mar 12 20:29:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 49286,
+          "friends_count": 6095,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 30,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 30,
+        "favorite_count": 160,
+        "reply_count": 77,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2032340498493686022",
+      "text": "RT @dvorahfr: Grok Imagine offers a wider range of tools:\nimage \nanimation\n image editor \nvideo extension \nAnd now \nUp to 5 image reference…",
+      "created_at": "Fri Mar 13 06:18:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032186591653859655",
+        "text": "Grok Imagine offers a wider range of tools:\nimage \nanimation\n image editor \nvideo extension \nAnd now \nUp to 5 image reference https://t.co/QJdjPpzK7q",
+        "created_at": "Thu Mar 12 20:06:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032186525648060416",
+            "url": "https://video.twimg.com/ext_tw_video/2032186525648060416/pu/vid/avc1/720x720/_hU68enSgQOhjskw.mp4?tag=19",
+            "bitrate": 1280000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 121305,
+          "friends_count": 3466,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 26,
+          "favorite_count": 127,
+          "reply_count": 25,
+          "quote_count": 4
         }
       },
       "quoted": null,

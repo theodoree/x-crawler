@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196230,
+    "followers_count": 196257,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260313",
-  "last_updated": "2026-03-13T04:35:11.572232",
-  "tweet_count": 3,
+  "last_updated": "2026-03-13T06:18:43.399273",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2032260011309584737",
@@ -130,6 +130,84 @@
       "stats": {
         "retweet_count": 0,
         "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032325533308977520",
+      "text": "传统软件时代，之所以有产品经理，是因为用户不知道自己想要什么，更做不出来，所以需要产品经理去翻译需求去定义产品。\n\n现在用户借助 AI Agent，并不需要复杂的产品设计，就可以做出来自己需要的功能。\n\n本来我原推也不针对所有产品经理，不否定产品经理价值\nhttps://t.co/IdeSaDXyIg",
+      "created_at": "Fri Mar 13 05:19:00 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032321141591978004",
+        "text": "@dotey 宝玉老师，我不是特别能认同，产品不等于功能，用户可能更合适当“单一功能经理”，他们最懂自己想要什么，在ai时代可以快速原型化出自己想要的功能。一个好的产品经理应该是冷静和克制的，一个产品中打包了若干功能，如何选择？如何安排逻辑？这些普通用户可能不太熟练。ai时代的产品经理要格外重视这些",
+        "created_at": "Fri Mar 13 05:01:33 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1538059446655385600",
+          "name": "Mutro",
+          "screen_name": "Mutro11",
+          "description": "Law Student；PM",
+          "followers_count": 14,
+          "friends_count": 133,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032327503675593128",
+      "text": "一个例子\nhttps://t.co/fmmczecw1e",
+      "created_at": "Fri Mar 13 05:26:50 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032269440545669402",
+        "text": "@dotey 嗯，我就是金融资深交易用户\n所以，我自己Vibe Coding出\n好几款金融自动交易程序产品\n不接受其他用户叽叽歪歪定制\n我比任何人都知道\n用户真正需要的是什么产品😨☺️",
+        "created_at": "Fri Mar 13 01:36:07 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1599631018679742464",
+          "name": "Hardison",
+          "screen_name": "Hardison0910",
+          "description": "AI Finance Creator🤗｜美国盈透证券自动交易程序产品公测👉https://t.co/xJmXx2V3tC  ｜个人作品展👉https://t.co/U890C6STWq｜漫画作品展👉https://t.co/SDQaLnF6SW｜【万能】EA产品👉https://t.co/ByhS3SiYYf",
+          "followers_count": 6015,
+          "friends_count": 2622,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 2,
         "reply_count": 0,
         "quote_count": 0
       }
