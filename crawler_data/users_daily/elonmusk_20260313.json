@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236448802,
+    "followers_count": 236451668,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260313",
-  "last_updated": "2026-03-13T10:12:03.755593",
-  "tweet_count": 19,
+  "last_updated": "2026-03-13T12:11:56.570349",
+  "tweet_count": 20,
   "tweets": [
     {
       "id": "2032289938033819929",
@@ -924,6 +924,51 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2032429109176062097",
+      "text": "They are traitors to the people",
+      "created_at": "Fri Mar 13 12:10:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032416400686617067",
+        "text": "I don't understand how politicians can so bluntly reject the will of the people like this. https://t.co/2Jt8iPTRRN",
+        "created_at": "Fri Mar 13 11:20:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032416390112845824",
+            "url": "https://pbs.twimg.com/media/HDSX8EhboAAX5hI.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1518557272854523904",
+          "name": "Skscartoon",
+          "screen_name": "skscartoon",
+          "description": "A small time artist down under",
+          "followers_count": 137659,
+          "friends_count": 444,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 95,
+          "favorite_count": 532,
+          "reply_count": 14,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 67,
+        "favorite_count": 275,
+        "reply_count": 123,
+        "quote_count": 2
       }
     }
   ]
