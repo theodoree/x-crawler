@@ -1,12 +1,1276 @@
 {
   "date": "20260313",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-13T12:11:56.539348",
-  "tweet_count": 227,
-  "unique_tweet_count": 227,
-  "total_crawled": 426,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-13T14:18:18.570917",
+  "tweet_count": 249,
+  "unique_tweet_count": 249,
+  "total_crawled": 427,
+  "duplicates_removed": 178,
   "tweets": [
+    {
+      "id": "2032459903865164108",
+      "text": "RT @JebraFaushay: I brought this painting to life using Grok.\n\nI could play around with this for days. I'm posting my ai-art and satire pic…",
+      "created_at": "Fri Mar 13 14:12:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032447626142957696",
+        "text": "I brought this painting to life using Grok.\n\nI could play around with this for days. I'm posting my ai-art and satire picture over on @TheWokeObserver, my new account, so I don't clutter your feed with Grok stuff here. https://t.co/meS3gMu78q",
+        "created_at": "Fri Mar 13 13:24:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032447060759216128",
+            "url": "https://video.twimg.com/amplify_video/2032447060759216128/vid/avc1/720x720/7Dr32HXnHDtv0pkP.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1524176909755510785",
+          "name": "Dr. Jebra Faushay",
+          "screen_name": "JebraFaushay",
+          "description": "Curator of cultural chaos, mostly satire. \nSubscribe for more content!\nFollow @TheWokeObserver for Grok & AI art\nhttps://t.co/Z7gEzsKKE4",
+          "followers_count": 267870,
+          "friends_count": 2308,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 59,
+          "favorite_count": 376,
+          "reply_count": 60,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 59,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032459782804943042",
+      "text": "RT @EvaFox: Create anything you can imagine with Grok Imagine✨\n\nNew tools let you choose the video size and quality, add different images t…",
+      "created_at": "Fri Mar 13 14:12:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032458484587938145",
+        "text": "Create anything you can imagine with Grok Imagine✨\n\nNew tools let you choose the video size and quality, add different images to a single video and seamlessly combine them, and extend the video's length. https://t.co/5pHlqqqnAj",
+        "created_at": "Fri Mar 13 14:07:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032458424827478016",
+            "url": "https://video.twimg.com/amplify_video/2032458424827478016/vid/avc1/720x1072/YaQH51rKfZIuhP42.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "959471389282578432",
+          "name": "Eva Fo𝕏 🦊 Claudius Nero's Legion",
+          "screen_name": "EvaFox",
+          "description": "Blogger covering SpaceX, Tesla, environment & space exploration 🖖🏼 ◉ Occasionally post memes",
+          "followers_count": 355755,
+          "friends_count": 1274,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 37,
+          "favorite_count": 226,
+          "reply_count": 70,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 37,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032459635438063647",
+      "text": "RT @AdamLowisz: @elonmusk The SAVE Act is a fork in the road moment for Western Civilization. https://t.co/PhZUQ3oha8",
+      "created_at": "Fri Mar 13 14:11:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032449738658992128",
+          "url": "https://pbs.twimg.com/media/HDS2RNia0AA7-aQ.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2032449740516794857",
+        "text": "@elonmusk The SAVE Act is a fork in the road moment for Western Civilization. https://t.co/PhZUQ3oha8",
+        "created_at": "Fri Mar 13 13:32:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032449738658992128",
+            "url": "https://pbs.twimg.com/media/HDS2RNia0AA7-aQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 49466,
+          "friends_count": 6097,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 78,
+          "favorite_count": 457,
+          "reply_count": 60,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 78,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032459363181621445",
+      "text": "RT @amuse: SAVE ACT: Once Senators return from their long weekend Leader Thune will hold a performative vote that he knows that won't pass.…",
+      "created_at": "Fri Mar 13 14:10:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032130644529029439",
+        "text": "SAVE ACT: Once Senators return from their long weekend Leader Thune will hold a performative vote that he knows that won't pass. Instead of forcing Democrats to actually filibuster or change the cloture rules he's going to be able to pretend like he has actually done his job. Democrats will be able to claim (correctly) that they didn't vote against the Save America Act but instead voted against closing debate. Republicans will be able to claim they voted for the act while actually voting to close debate on the act. Both sides get to claim they did something that never happened - the act was never given an up or down vote itself. Instead the senate will have just argued about procedural nonsense. Also, this performative vote will take time, time that could have been spent restoring pay for the thousands of federal workers who haven't been paid in a month.",
+        "created_at": "Thu Mar 12 16:24:35 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2032114734489555102",
+          "text": "Next week, I will bring the SAVE America Act to the floor. Senate Democrats will be forced to defend their outrageous positions on these issues and explain to the American people why common sense and the Democrat Party have parted ways. https://t.co/WrC6igztjN",
+          "created_at": "Thu Mar 12 15:21:22 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2032113689545871360",
+              "url": "https://video.twimg.com/amplify_video/2032113689545871360/vid/avc1/960x540/jSlavFZB-aBtvrCW.mp4?tag=21",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "296361085",
+            "name": "Leader John Thune",
+            "screen_name": "LeaderJohnThune",
+            "description": "Senate Majority Leader. Representing South Dakota. Father. Grandfather. Husband. Sports Fan. Avid Outdoorsman. Hates Shoveling Snow.",
+            "followers_count": 367054,
+            "friends_count": 370,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 4812,
+            "favorite_count": 29868,
+            "reply_count": 18253,
+            "quote_count": 1622
+          }
+        },
+        "user": {
+          "id": "4239551",
+          "name": "@amuse",
+          "screen_name": "amuse",
+          "description": "Independent Publisher & Political Pundit. Subscriber Only DMs.",
+          "followers_count": 684580,
+          "friends_count": 629,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1066,
+          "favorite_count": 2615,
+          "reply_count": 263,
+          "quote_count": 92
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1066,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032452913705226397",
+      "text": "RT @XFreeze: TRUMP JUST MADE IT SIMPLE: Pass the SAVE America Act or NOTHING Gets Signed\n\n“We want Voter ID., we want proof of citizenship……",
+      "created_at": "Fri Mar 13 13:45:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032451608844652629",
+        "text": "TRUMP JUST MADE IT SIMPLE: Pass the SAVE America Act or NOTHING Gets Signed\n\n“We want Voter ID., we want proof of citizenship… no men playing in women’s sports… no transgender mutilation of our children, very basic things that you wouldn’t even think we’d be talking about...”\n\nWe need to secure our elections with voter ID and proof of citizenship. Accurate voting is the bedrock of our country, and we can’t achieve that with widespread mail-in ballots that open the door to \"crooked elections\" 🗳️",
+        "created_at": "Fri Mar 13 13:39:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032448903027822592",
+            "url": "https://video.twimg.com/amplify_video/2032448903027822592/vid/avc1/1080x1080/JB7mA71Eb3fzKJbJ.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 166694,
+          "friends_count": 1650,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 427,
+          "favorite_count": 2144,
+          "reply_count": 314,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 427,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032452707160920357",
+      "text": "Exactly. Legacy media is a propaganda arm of the far left.",
+      "created_at": "Fri Mar 13 13:44:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032000589089906707",
+        "text": "You want to know how we know that Thune is a major problem?\n\nThe Media NEVER attacks him.",
+        "created_at": "Thu Mar 12 07:47:47 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17980523",
+          "name": "Bill Mitchell",
+          "screen_name": "mitchellvii",
+          "description": "CEO of YourVoice™ Studios, Inc.  Host of YourVoice America.  This account is owned and managed by Bill Mitchell.  So excited for the next 4 years!  #MAGA",
+          "followers_count": 496372,
+          "friends_count": 18883,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3145,
+          "favorite_count": 19282,
+          "reply_count": 354,
+          "quote_count": 110
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2438,
+        "favorite_count": 15024,
+        "reply_count": 978,
+        "quote_count": 66
+      }
+    },
+    {
+      "id": "2032445962552328668",
+      "text": "RT @nicksortor: 🚨 JUST IN: Elon Musk says “failing to pass SAVE is an act of high treason against the people of America”\n\nDamn right it is.…",
+      "created_at": "Fri Mar 13 13:17:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032442066827886631",
+        "text": "🚨 JUST IN: Elon Musk says “failing to pass SAVE is an act of high treason against the people of America”\n\nDamn right it is. You’re basically giving the GREEN LIGHT to widespread voter fraud, and intentionally destroying what’s left of election integrity.\n\nGET TO WORK, THUNE! https://t.co/QjZ7Mhmqk2",
+        "created_at": "Fri Mar 13 13:02:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032442060129583104",
+            "url": "https://pbs.twimg.com/media/HDSvSQyWQAAmlIh.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2162812627",
+          "name": "Nick Sortor",
+          "screen_name": "nicksortor",
+          "description": "On-scene covering stories MSM won’t. | Seen on @TuckerCarlson Tonight, Fox News, Newsmax, Timcast, etc. • Donate: https://t.co/HZRuyTRdE9 • media@sortor.us",
+          "followers_count": 1492777,
+          "friends_count": 18871,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2160,
+          "favorite_count": 7934,
+          "reply_count": 680,
+          "quote_count": 107
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2160,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032445650257002654",
+      "text": "RT @WallStreetMav: Sen John Thune seems absolutely determined to hand control of the House and Senate to Democrats in 2026.\n\nI really do no…",
+      "created_at": "Fri Mar 13 13:16:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032137596629852401",
+        "text": "Sen John Thune seems absolutely determined to hand control of the House and Senate to Democrats in 2026.\n\nI really do not understand how these people think. https://t.co/1Eu6nFVpFy",
+        "created_at": "Thu Mar 12 16:52:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032137404077760512",
+            "url": "https://pbs.twimg.com/media/HDOaM8jW4AAIVAP.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1366565625401909249",
+          "name": "Wall Street Mav",
+          "screen_name": "WallStreetMav",
+          "description": "Finance, economics, news, memes. Follow and Tap the .... (🔔 +Notify)",
+          "followers_count": 1734093,
+          "friends_count": 802,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 923,
+          "favorite_count": 4847,
+          "reply_count": 1017,
+          "quote_count": 108
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 923,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032445458124349691",
+      "text": "The Senate must enact the will of the people",
+      "created_at": "Fri Mar 13 13:15:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032115702795026594",
+        "text": "REMINDER: Americans support Voter ID regardless of race:\n\nBlack Voters: 76%\nWhite voters: 85%\nLatino voters: 82%\n\n https://t.co/ftkKQflZu2",
+        "created_at": "Thu Mar 12 15:25:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2018703521965547520",
+            "url": "https://video.twimg.com/amplify_video/2018703521965547520/vid/avc1/1920x1080/QXsJLMas19wCKR1i.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1841988608825466880",
+          "name": "America",
+          "screen_name": "america",
+          "description": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+          "followers_count": 1195554,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1391,
+          "favorite_count": 7251,
+          "reply_count": 250,
+          "quote_count": 119
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7354,
+        "favorite_count": 42216,
+        "reply_count": 2083,
+        "quote_count": 237
+      }
+    },
+    {
+      "id": "2032444820736860461",
+      "text": "Absolutely",
+      "created_at": "Fri Mar 13 13:13:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032133889959829810",
+        "text": "Mail in ballots are a fraud vector.\n\nNot even close to “safe”.\n\nMail in ballots the 6 Presidential elections:\n\n2004: 15 million\n2008: 23 million\n2012: 27 million\n2016: 33 million\n2020: 70 million\n2024: 49 million\n\nAnything stand out to you?\n\nInsane.\n\nPass the SAVE America Act.",
+        "created_at": "Thu Mar 12 16:37:29 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2327400218",
+          "name": "C3",
+          "screen_name": "C_3C_3",
+          "description": "",
+          "followers_count": 306818,
+          "friends_count": 8719,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1114,
+          "favorite_count": 4032,
+          "reply_count": 221,
+          "quote_count": 57
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2250,
+        "favorite_count": 15219,
+        "reply_count": 799,
+        "quote_count": 31
+      }
+    },
+    {
+      "id": "2032444579459547439",
+      "text": "RT @TRHLofficial: McCarthy did not go far enough and there is data to back that up.",
+      "created_at": "Fri Mar 13 13:12:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032437914437599296",
+        "text": "McCarthy did not go far enough and there is data to back that up.",
+        "created_at": "Fri Mar 13 12:45:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2032433138715021341",
+          "text": "https://t.co/N8eJmeDWIZ",
+          "created_at": "Fri Mar 13 12:26:35 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1485689970593468416",
+            "name": "The Rabbit Hole",
+            "screen_name": "TheRabbitHole",
+            "description": "Navigating the discourse",
+            "followers_count": 1093713,
+            "friends_count": 1805,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 100,
+            "favorite_count": 430,
+            "reply_count": 31,
+            "quote_count": 11
+          }
+        },
+        "user": {
+          "id": "37190937",
+          "name": "The Redheaded libertarian",
+          "screen_name": "TRHLofficial",
+          "description": "HOST @SpacesXJosie @Timcast • 1776 Autodidact • “We’ll keep you :)” -CK • Catholic • America Only • Do No Harm But Take No Sh*t • Baby Machine",
+          "followers_count": 919821,
+          "friends_count": 1896,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 245,
+          "favorite_count": 1547,
+          "reply_count": 96,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 245,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032444308914352538",
+      "text": "Yes",
+      "created_at": "Fri Mar 13 13:10:58 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032056416786080177",
+        "text": "It’s this simple.👇 https://t.co/CJLZwHvSDJ",
+        "created_at": "Thu Mar 12 11:29:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032056399782432768",
+            "url": "https://pbs.twimg.com/media/HDNQh4CXUAAzYvS.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2327400218",
+          "name": "C3",
+          "screen_name": "C_3C_3",
+          "description": "",
+          "followers_count": 306818,
+          "friends_count": 8719,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 965,
+          "favorite_count": 3701,
+          "reply_count": 151,
+          "quote_count": 80
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5947,
+        "favorite_count": 34202,
+        "reply_count": 1642,
+        "quote_count": 159
+      }
+    },
+    {
+      "id": "2032443998863057056",
+      "text": "Perversion is reaching new lows",
+      "created_at": "Fri Mar 13 13:09:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032416071421141378",
+        "text": "Fucking hell. How is this real? https://t.co/uflhej2dUL",
+        "created_at": "Fri Mar 13 11:18:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032416040307847168",
+            "url": "https://video.twimg.com/ext_tw_video/2032416040307847168/pu/vid/avc1/720x766/QOoefJ89_9AC1ht7.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1872569731829604352",
+          "name": "Retard Finder",
+          "screen_name": "IfindRetards",
+          "description": "I find retards and their posts on X.",
+          "followers_count": 852038,
+          "friends_count": 805,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 247,
+          "favorite_count": 1946,
+          "reply_count": 303,
+          "quote_count": 59
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 468,
+        "favorite_count": 2195,
+        "reply_count": 562,
+        "quote_count": 27
+      }
+    },
+    {
+      "id": "2032442230318022909",
+      "text": "Legendarily based 🦾",
+      "created_at": "Fri Mar 13 13:02:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032317362746048666",
+        "text": "\"Why did you identify this as one of the craziest grants?\"\n\n\"Because it references feminist and queer insights into prison abolition and LGBTQ studies.\"\n\n\"Any other reasons?\"\n\n\"No.\"\n\nLegendarily based. 😆\nhttps://t.co/3zj4bZvSSe",
+        "created_at": "Fri Mar 13 04:46:32 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032124738320154631",
+            "url": "https://video.twimg.com/amplify_video/2032124738320154631/vid/avc1/1080x1920/n4KnlyDjQsDR4M0-.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1009716150895341568",
+          "name": "Colin Wright",
+          "screen_name": "SwipeWright",
+          "description": "Evolutionary Biology PhD | CEO/Editor-in-Chief @RealLastStand | Fellow @ManhattanInst | Advisor @AtheistsLiberty | Truth First.\n\n📧: cwright1859 @ gmail",
+          "followers_count": 291822,
+          "friends_count": 2244,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 639,
+          "favorite_count": 7268,
+          "reply_count": 250,
+          "quote_count": 53
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2212,
+        "favorite_count": 18776,
+        "reply_count": 947,
+        "quote_count": 69
+      }
+    },
+    {
+      "id": "2032440938606522574",
+      "text": "Failing to pass SAVE is an act of high treason against the people of America",
+      "created_at": "Fri Mar 13 12:57:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 10705,
+        "favorite_count": 68423,
+        "reply_count": 4564,
+        "quote_count": 712
+      }
+    },
+    {
+      "id": "2032440757018300886",
+      "text": "RT @JakeCan72: Monday: Thune called everyone flooding his office a “paid influencer ecosystem.”\n\nTuesday: Elon posted his number to 200 mil…",
+      "created_at": "Fri Mar 13 12:56:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032176584870994012",
+        "text": "Monday: Thune called everyone flooding his office a “paid influencer ecosystem.”\n\nTuesday: Elon posted his number to 200 million people.\n\nToday: Thune hit the Senate floor calling Dems’ “Jim Crow 2.0” framing “deeply irresponsible” — an insult to those who actually lived through that era.\n\nHe still won’t kill the filibuster to pass the bill he calls “commonsense.”\n\nInsults the voters. Delivers the speech. Kills the bill.\n\nEvery single time.",
+        "created_at": "Thu Mar 12 19:27:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032176524699504640",
+            "url": "https://video.twimg.com/amplify_video/2032176524699504640/vid/avc1/576x1024/BrNM5qk04xt2v5aV.mp4?tag=21",
+            "bitrate": 2176000
+          },
+          {
+            "type": "video",
+            "id": "2032176524682760192",
+            "url": "https://video.twimg.com/amplify_video/2032176524682760192/vid/avc1/576x1024/nj4HpN_GBBnyJ2by.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2031354081118400610",
+          "text": "Let Senator Thune know that you support saving democracy in America.\n\nWe must pass the SAVE Act!",
+          "created_at": "Tue Mar 10 12:58:48 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 236460264,
+            "friends_count": 1294,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 30916,
+            "favorite_count": 108777,
+            "reply_count": 4854,
+            "quote_count": 935
+          }
+        },
+        "user": {
+          "id": "103084075",
+          "name": "Jake",
+          "screen_name": "JakeCan72",
+          "description": "100k+ 🇺🇸 MAGA Wins & Victories | Political Comedy | Health. Transparency. Highlights 👇 Stacking Ws 🔥 🔔 on for updates",
+          "followers_count": 114296,
+          "friends_count": 38592,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5949,
+          "favorite_count": 22490,
+          "reply_count": 560,
+          "quote_count": 142
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5949,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032440347968917567",
+      "text": "RT @cb_doge: ChatGPT pushing wokeness.\n\nGrok sticking to reality. https://t.co/SpAei2a1br",
+      "created_at": "Fri Mar 13 12:55:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032349231600844806",
+          "url": "https://pbs.twimg.com/media/HDRa27kbQAYJRY9.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2032354721894449295",
+        "text": "ChatGPT pushing wokeness.\n\nGrok sticking to reality. https://t.co/SpAei2a1br",
+        "created_at": "Fri Mar 13 07:14:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032349231600844806",
+            "url": "https://pbs.twimg.com/media/HDRa27kbQAYJRY9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1845691,
+          "friends_count": 912,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 566,
+          "favorite_count": 3056,
+          "reply_count": 391,
+          "quote_count": 55
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 566,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032440276099494361",
+      "text": "RT @cb_doge: The new Grok Imagine update is ❤️ https://t.co/3pWytAFbfT",
+      "created_at": "Fri Mar 13 12:54:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2032354360479653889",
+          "url": "https://video.twimg.com/amplify_video/2032354360479653889/vid/avc1/1080x1080/ILCMOOyKqfwDo3iF.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2032354423289364732",
+        "text": "The new Grok Imagine update is ❤️ https://t.co/3pWytAFbfT",
+        "created_at": "Fri Mar 13 07:13:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032354360479653889",
+            "url": "https://video.twimg.com/amplify_video/2032354360479653889/vid/avc1/1080x1080/ILCMOOyKqfwDo3iF.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1845691,
+          "friends_count": 912,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 372,
+          "favorite_count": 2755,
+          "reply_count": 426,
+          "quote_count": 41
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 372,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032438764862333255",
+      "text": "That’s what it is",
+      "created_at": "Fri Mar 13 12:48:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032383664219439181",
+        "text": "“He told police he was in the female toilets because “he wasn’t sure about his gender…”\n\nIt’s literally the get out of jail free card for sexual predator men.",
+        "created_at": "Fri Mar 13 09:10:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "310085287",
+          "name": "Sall Grover",
+          "screen_name": "salltweets",
+          "description": "Founder & CEO of giggle, a female social network - APP CURRENTLY UNDER RENOVATION. RELAUNCH SOON 💗 DM for media comments",
+          "followers_count": 176047,
+          "friends_count": 929,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2125,
+          "favorite_count": 8949,
+          "reply_count": 298,
+          "quote_count": 71
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1995,
+        "favorite_count": 16039,
+        "reply_count": 848,
+        "quote_count": 34
+      }
+    },
+    {
+      "id": "2032438600835731566",
+      "text": "RT @teslaownersSV: Space travel as common as ocean flights.\nStarship is making it possible. 🚀 https://t.co/nBSzizL66F",
+      "created_at": "Fri Mar 13 12:48:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2032151147478466561",
+          "url": "https://video.twimg.com/amplify_video/2032151147478466561/vid/avc1/640x480/9PID2hHOGQVc4V0-.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2032151172635902157",
+        "text": "Space travel as common as ocean flights.\nStarship is making it possible. 🚀 https://t.co/nBSzizL66F",
+        "created_at": "Thu Mar 12 17:46:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032151147478466561",
+            "url": "https://video.twimg.com/amplify_video/2032151147478466561/vid/avc1/640x480/9PID2hHOGQVc4V0-.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.\n2.8M followers",
+          "followers_count": 1398871,
+          "friends_count": 843,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 358,
+          "favorite_count": 1942,
+          "reply_count": 196,
+          "quote_count": 39
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 358,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032431178528219448",
+      "text": "RT @ianmiles: Another day, another horror story from the open borders nightmare. This Afghan \"migrant\" grabs a teenage girl off the street…",
+      "created_at": "Fri Mar 13 12:18:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032429657895927906",
+        "text": "Another day, another horror story from the open borders nightmare. This Afghan \"migrant\" grabs a teenage girl off the street and rapes her just ONE WEEK after assaulting a woman in her 20s. \n\nAnd guess what? He's still in the UK because spineless politicians prioritize invaders over their daughters. He’s never getting sent back because the courts won’t allow it anyway.",
+        "created_at": "Fri Mar 13 12:12:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032429646487425024",
+            "url": "https://pbs.twimg.com/media/HDSj_sXbEAASXKr.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16106584",
+          "name": "Ian Miles Cheong",
+          "screen_name": "ianmiles",
+          "description": "I say the quiet part out loud. Hit the follow button if you can read this.",
+          "followers_count": 1258845,
+          "friends_count": 1393,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 795,
+          "favorite_count": 2785,
+          "reply_count": 148,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 795,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032430496177934666",
+      "text": "And it’s getting better",
+      "created_at": "Fri Mar 13 12:16:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032347286953738689",
+        "text": "I didn't realize Grok imagine was *this* good holy... 😳",
+        "created_at": "Fri Mar 13 06:45:27 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1556550048862928898",
+          "name": "Beff (e/acc)",
+          "screen_name": "beffjezos",
+          "description": "founder @ e/acc //  thermo king @extropic // Kardashev scaling is all you need",
+          "followers_count": 208388,
+          "friends_count": 3066,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 59,
+          "favorite_count": 722,
+          "reply_count": 88,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236460264,
+        "friends_count": 1294,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 627,
+        "favorite_count": 6912,
+        "reply_count": 1132,
+        "quote_count": 60
+      }
+    },
     {
       "id": "2032429109176062097",
       "text": "They are traitors to the people",
