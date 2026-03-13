@@ -1,0 +1,60 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 236426139,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260313",
+  "last_updated": "2026-03-13T02:58:54.135975",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2032289938033819929",
+      "text": "RT @bridgemindai: Grok 4.20 Multi-Agent just took #1 on BridgeBench.\n\n96.1 overall. 100% completion rate. 87.8s latency.\n\nBeat GPT 5.4, Cla…",
+      "created_at": "Fri Mar 13 02:57:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032115857694826768",
+        "text": "Grok 4.20 Multi-Agent just took #1 on BridgeBench.\n\n96.1 overall. 100% completion rate. 87.8s latency.\n\nBeat GPT 5.4, Claude Sonnet 4.6, and Claude Opus 4.6.\n\nxAI came out of nowhere.\n\nThe multi-agent future is here. And Grok is leading it. https://t.co/D28gT6v1CW",
+        "created_at": "Thu Mar 12 15:25:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032115851424313344",
+            "url": "https://pbs.twimg.com/media/HDOGmaqWMAAUtDy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1767869376496107520",
+          "name": "BridgeMind",
+          "screen_name": "bridgemindai",
+          "description": "Build the future. Over 50,000 on YouTube. Join the fastest growing Vibe Coding community on the internet: https://t.co/wPvrAeqHmM",
+          "followers_count": 23013,
+          "friends_count": 12,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 26,
+          "favorite_count": 173,
+          "reply_count": 39,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

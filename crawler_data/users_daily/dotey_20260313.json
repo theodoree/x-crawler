@@ -1,0 +1,99 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 196202,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260313",
+  "last_updated": "2026-03-13T02:58:54.158263",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2032260011309584737",
+      "text": "大部分传统产品经理是没有适应AI时代的，很多时候用户自己更适合当产品经理",
+      "created_at": "Fri Mar 13 00:58:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032242548375502875",
+        "text": "@jefflijun 您有没有想过，有产品经验的用户拿起 AI 直接搓产品，跳过产品经理这个“中间商”",
+        "created_at": "Thu Mar 12 23:49:15 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "21308096",
+          "name": "云风",
+          "screen_name": "cloudwu",
+          "description": "Coder, Freelancer, Blogger, Gamer, Father of 2 kids, Rock climber. Author of open source projects : skynet, ltask, sproto, luaecs, lua-bgfx, soluna, etc.",
+          "followers_count": 50782,
+          "friends_count": 70,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 170,
+          "reply_count": 22,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 36,
+        "reply_count": 12,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2032266652893790437",
+      "text": "WIRED 最新长篇报道揭示了 OpenAI 在 AI 编程工具赛道上追赶 Anthropic 的内幕。\n\n记者采访了超过 30 位知情人士，包括 Altman、Brockman 等高管，拼出了一幅少见的画面：OpenAI 这一次是追赶者。\n\n几个关键数字：Claude Code 年化收入超过 25 亿美元，贡献了 Anthropic 近五分之一的营收；Codex 截至今年 1 月底刚过 10 亿。\n\n去年 9 月 Codex 使用量只有 Claude Code 的 5%，到今年 1 月追到了 40%。差距在缩小，但远没追平。\n\nAltman 把 AI 编程称为\"罕见的数万亿美元市场\"，认为 Codex \"很可能是通往 AGI 最可行的路径\"。\n\n【1】起了个大早\n\nOpenAI 才是这件事的先行者。2021 年就推出了初代 Codex，后来授权微软做成了 GitHub Copilot。但 ChatGPT 在 2022 年底爆火后，编程团队被拆散，资源全部砸向消费级产品。\n\n内部觉得这个领域已经\"被 GitHub Copilot 覆盖了\"。\n\nAnthropic 走了不同的路。2024 年初用大量真实代码库训练 Claude Sonnet 3.5，6 月发布后编程能力惊艳开发者圈子，Cursor 接入后用量暴涨，Anthropic 随即开始内测 Claude Code。\n\nBrockman 自己承认，OpenAI 在用真实代码库训练这件事上\"起步晚了\"。\n\n【2】追赶的代价\n\nOpenAI 直到 2024 年底才认真搞编程智能体，几个分散的内部小组花了好几个月才合并成统一团队。\n\nAltman 还试图以 30 亿美元收购编程初创公司 Windsurf 来弯道超车，但微软横插一脚。\n\n微软一直靠 OpenAI 的模型驱动 GitHub Copilot，不希望 OpenAI 再出竞品。拉锯几个月后交易在去年 7 月告吹，Windsurf 创始人被 Google 挖走，团队被 Cognition 收购。\n\n【3】GPT-5.2 带来的转折\n\n真正让 Codex 追上来的是 GPT-5.2。Notion 联合创始人 Simon Last 说他和团队因此转投 Codex，理由是：\"Claude Code 会骗人，说自己在干活其实没干。\"\n\nOpenAI 在今年超级碗投放的广告也是 Codex 而非 ChatGPT，押注力度可见一斑。\n\nCodex 的风格也有意思。研究员 Katy Shi 说虽然有人吐槽它像\"干面包\"，但很多工程师反而喜欢这种不拍马屁的调性，写代码需要直接的批评反馈。\n\n不过两家都在烧钱抢用户。有开发者反映 200 美元/月的套餐实际用出了超过 1000 美元的量，本质上是花钱让开发者养成习惯，再按用量收费。\n\n【4】更大的问题\n\nAI 编程智能体的影响已溢出硅谷。上个月 Claude Code 被认为间接引发了万亿美元级科技股抛售；Anthropic 宣布 Claude Code 能改造 COBOL 老系统后，IBM 股价创 25 年最大跌幅。思科总裁 Jeetu Patel 告诉员工：用这些工具不会丢饭碗，但不用一定会。\n\n安全方面，非营利组织 Midas Project 指责 OpenAI 在 GPT-5.3-Codex 的安全评估上偷工减料，OpenAI 对齐负责人 Amelia Glaese 否认了这一说法。\n\nBrockman 的感受可能代表了很多工程师的心态：这种工作方式\"很解放\"，但当你变成指挥成千上万个 AI 智能体的人时，\"你不再深入了解具体问题是怎么解决的\"，有时觉得自己\"正在失去对问题的直觉\"。\n\nOpenAI 内部许多工程师说自己已经几乎不手写代码，每天就是跟 Codex 对话。产品负责人 Fidji Simo 说，目标是让 Codex 最终驱动所有产品，不只写代码，而是帮人完成任务。\n\nAI 编程工具之争远没有结束，竞争焦点正在从\"谁先做出来\"转向\"谁能让开发者真正信赖\"。\n\nhttps://t.co/oI6XXkl560",
+      "created_at": "Fri Mar 13 01:25:02 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032266545003438080",
+          "url": "https://pbs.twimg.com/media/HDQPp7_XIAAd0wN.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2032242549574758636",
+        "text": "Cursor 两位核心负责人出走，加入马斯克 xAI 打造编程产品\n\nCursor 的工程负责人 Andrew Milich 和产品负责人 Jason Ginsberg 宣布加入 SpaceX/xAI，直接向马斯克汇报，任务是为 xAI 从零搭建 AI 编程产品。\n\n这两人是 Cursor 从零做到 20 亿美元 ARR（年度经常性收入）的核心操盘手，经手了 Cursor 网页版、CLI、后台 Agent、Cursor 2.0 等几乎所有关键产品。Cursor 创造了 SaaS 史上最快的营收增长纪录，而他们正是背后的产品和工程主力。\n\nAI 编程现在是一个超过 50 亿美元的市场：Cursor 20 亿美元 ARR，Claude Code 25 亿美元年化营收（今年以来翻了一倍），GitHub Copilot 超过 10 亿美元、付费用户 470 万。每家头部 AI 实验室都有自己的编程产品在印钞，唯独 xAI 没有。\n\nxAI 不缺算力，Memphis 的 Colossus 集群有 10 万张 H100，也有 Grok 3 及后续模型。缺的就是真正把 AI 编程产品从 0 做到 10 亿再到 20 亿的产品团队。现在这块拼图补上了。\n\nMilich 的经历也挺有意思：十年前在 SpaceX 实习，做的是 Dragon 2 载人飞船的显示界面，后来出去创业做了加密隐私邮件服务 Skiff，卖给了 Notion，再加入还没改名叫 Cursor 的 Anysphere，帮着把产品做到年化营收超过当年微软 75 亿美元收购 GitHub 时 GitHub 的体量。现在带着一整套 AI 编程的实战经验回归马斯克体系。\n\n值得关注的是时间点：Cursor 正在以 500 亿美元估值融资，两位核心人物却在这个节点离开，说明马斯克开出的条件和舞台足够有吸引力。xAI 编程产品的推进速度，接下来会是 AI 编程赛道最大的变量之一。",
+        "created_at": "Thu Mar 12 23:49:15 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 196202,
+          "friends_count": 1585,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 128,
+          "reply_count": 23,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 43,
+        "reply_count": 4,
+        "quote_count": 3
+      }
+    }
+  ]
+}
