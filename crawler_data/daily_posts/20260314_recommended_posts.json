@@ -1,12 +1,165 @@
 {
   "date": "20260314",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-14T04:35:00.472345",
-  "tweet_count": 214,
-  "unique_tweet_count": 214,
-  "total_crawled": 403,
-  "duplicates_removed": 189,
+  "last_crawl_time": "2026-03-14T06:16:58.861777",
+  "tweet_count": 217,
+  "unique_tweet_count": 217,
+  "total_crawled": 414,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2032688634306978217",
+      "text": "不相信的人，你怎么证明都没用\n相信的人，在拼命压榨 AI 的潜能和摸索最佳实践，早已超过 10x\nhttps://t.co/7QHZEi9sIk",
+      "created_at": "Sat Mar 14 05:21:50 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032687721052066196",
+        "text": "@dotey 没那么多话，挣钱就完了。😄🌟💰",
+        "created_at": "Sat Mar 14 05:18:12 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "913269761735254017",
+          "name": "pippingg",
+          "screen_name": "Suyanzhenq",
+          "description": "From deep occran",
+          "followers_count": 5216,
+          "friends_count": 1408,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196518,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032687130837684472",
+      "text": "AI Coding Agent 有没有 10x 提效没必要证明，证明也没多少意义，这就是个信仰，信则灵！",
+      "created_at": "Sat Mar 14 05:15:52 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032663497029673410",
+        "text": "ai coding agent最难的不是落地，而是怎么证明，从实际30%提效做成10x，我没想明白，诸君可有什么好的案例解法，请指教。",
+        "created_at": "Sat Mar 14 03:41:57 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1712095004",
+          "name": "i5ting",
+          "screen_name": "i5ting",
+          "description": "前阿里，字节前端技术专家，关注Node.js AI Agent开发和Moonbit语言",
+          "followers_count": 12769,
+          "friends_count": 2974,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 7,
+          "reply_count": 11,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196518,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032685516907565527",
+      "text": "RT @nonregemesse: The 1st century AD Roman Aqueduct of Segovia, in Spain, constructed from 20,400 granite blocks without mortar. \n\nThe brid…",
+      "created_at": "Sat Mar 14 05:09:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032644716752203990",
+        "text": "The 1st century AD Roman Aqueduct of Segovia, in Spain, constructed from 20,400 granite blocks without mortar. \n\nThe bridge structure, which transported water 17 km from mountain springs to Segovia until 1973, https://t.co/UiCdKFeOpd",
+        "created_at": "Sat Mar 14 02:27:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032644706115461120",
+            "url": "https://pbs.twimg.com/media/HDVnlz6XIAA7f0m.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1366448991148384260",
+          "name": "🏛 𝐒𝐭𝐞𝐯𝐞𝐧 🏛",
+          "screen_name": "nonregemesse",
+          "description": "Strategos of the Twittercon. Degrees in Prehistoric & Roman Archaeology, & Law. Enjoyer of Roman & Medieval history.",
+          "followers_count": 78525,
+          "friends_count": 37,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 398,
+          "favorite_count": 3051,
+          "reply_count": 257,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236493776,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 398,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2032675402238558261",
       "text": "RT @XFreeze: Elon Musk on the biggest danger of AI and robotics:\n\n“I think probably the biggest danger of AI or maybe the biggest danger of…",

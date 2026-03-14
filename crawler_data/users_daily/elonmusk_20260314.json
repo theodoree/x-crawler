@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236491608,
+    "followers_count": 236493776,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260314",
-  "last_updated": "2026-03-14T04:35:00.499777",
-  "tweet_count": 8,
+  "last_updated": "2026-03-14T06:16:58.900323",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2032662761889738929",
@@ -388,6 +388,51 @@
       "quoted": null,
       "stats": {
         "retweet_count": 89,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032685516907565527",
+      "text": "RT @nonregemesse: The 1st century AD Roman Aqueduct of Segovia, in Spain, constructed from 20,400 granite blocks without mortar. \n\nThe brid…",
+      "created_at": "Sat Mar 14 05:09:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032644716752203990",
+        "text": "The 1st century AD Roman Aqueduct of Segovia, in Spain, constructed from 20,400 granite blocks without mortar. \n\nThe bridge structure, which transported water 17 km from mountain springs to Segovia until 1973, https://t.co/UiCdKFeOpd",
+        "created_at": "Sat Mar 14 02:27:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032644706115461120",
+            "url": "https://pbs.twimg.com/media/HDVnlz6XIAA7f0m.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1366448991148384260",
+          "name": "🏛 𝐒𝐭𝐞𝐯𝐞𝐧 🏛",
+          "screen_name": "nonregemesse",
+          "description": "Strategos of the Twittercon. Degrees in Prehistoric & Roman Archaeology, & Law. Enjoyer of Roman & Medieval history.",
+          "followers_count": 78525,
+          "friends_count": 37,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 398,
+          "favorite_count": 3051,
+          "reply_count": 257,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 398,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

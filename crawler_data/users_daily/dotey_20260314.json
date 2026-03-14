@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196490,
+    "followers_count": 196518,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260314",
-  "last_updated": "2026-03-14T04:35:00.529290",
-  "tweet_count": 6,
+  "last_updated": "2026-03-14T06:16:58.891536",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2032613262525644985",
@@ -302,6 +302,84 @@
         "retweet_count": 0,
         "favorite_count": 3,
         "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032687130837684472",
+      "text": "AI Coding Agent 有没有 10x 提效没必要证明，证明也没多少意义，这就是个信仰，信则灵！",
+      "created_at": "Sat Mar 14 05:15:52 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032663497029673410",
+        "text": "ai coding agent最难的不是落地，而是怎么证明，从实际30%提效做成10x，我没想明白，诸君可有什么好的案例解法，请指教。",
+        "created_at": "Sat Mar 14 03:41:57 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1712095004",
+          "name": "i5ting",
+          "screen_name": "i5ting",
+          "description": "前阿里，字节前端技术专家，关注Node.js AI Agent开发和Moonbit语言",
+          "followers_count": 12769,
+          "friends_count": 2974,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 7,
+          "reply_count": 11,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032688634306978217",
+      "text": "不相信的人，你怎么证明都没用\n相信的人，在拼命压榨 AI 的潜能和摸索最佳实践，早已超过 10x\nhttps://t.co/7QHZEi9sIk",
+      "created_at": "Sat Mar 14 05:21:50 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032687721052066196",
+        "text": "@dotey 没那么多话，挣钱就完了。😄🌟💰",
+        "created_at": "Sat Mar 14 05:18:12 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "913269761735254017",
+          "name": "pippingg",
+          "screen_name": "Suyanzhenq",
+          "description": "From deep occran",
+          "followers_count": 5216,
+          "friends_count": 1408,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
