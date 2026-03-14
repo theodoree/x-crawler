@@ -1,12 +1,824 @@
 {
   "date": "20260314",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-14T06:16:58.861777",
-  "tweet_count": 217,
-  "unique_tweet_count": 217,
-  "total_crawled": 414,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-14T08:09:43.387365",
+  "tweet_count": 231,
+  "unique_tweet_count": 231,
+  "total_crawled": 417,
+  "duplicates_removed": 186,
   "tweets": [
+    {
+      "id": "2032712056118587635",
+      "text": "RT @SpaceX: Falcon 9 launches 25 @Starlink satellites from California https://t.co/J2qlYaBs3W",
+      "created_at": "Sat Mar 14 06:54:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032501072380522497",
+          "url": "https://pbs.twimg.com/media/HDTk9OjXcAEy7So.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2032501128542253071",
+          "url": "https://pbs.twimg.com/media/HDTlAfxXcA8kYvc.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2032501206464032879",
+        "text": "Falcon 9 launches 25 @Starlink satellites from California https://t.co/J2qlYaBs3W",
+        "created_at": "Fri Mar 13 16:57:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032501072380522497",
+            "url": "https://pbs.twimg.com/media/HDTk9OjXcAEy7So.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2032501128542253071",
+            "url": "https://pbs.twimg.com/media/HDTlAfxXcA8kYvc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41228738,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 738,
+          "favorite_count": 4952,
+          "reply_count": 407,
+          "quote_count": 49
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 738,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032711970852581772",
+      "text": "RT @GigaBasedDad: Elon gets it https://t.co/G8VKYRyWa9",
+      "created_at": "Sat Mar 14 06:54:34 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032669514639282176",
+          "url": "https://pbs.twimg.com/media/HDV-J23XEAAVdYQ.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2032669518766444880",
+        "text": "Elon gets it https://t.co/G8VKYRyWa9",
+        "created_at": "Sat Mar 14 04:05:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032669514639282176",
+            "url": "https://pbs.twimg.com/media/HDV-J23XEAAVdYQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1598212914971828225",
+          "name": "Giga Based Dad",
+          "screen_name": "GigaBasedDad",
+          "description": "Unapologetically Christian ✝️ - Husband and Father. Rancher. Homesteader. Raising Cows, Horses, Chickens, and Children.",
+          "followers_count": 417546,
+          "friends_count": 170,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 352,
+          "favorite_count": 2019,
+          "reply_count": 186,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 352,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032711910760870362",
+      "text": "RT @artisin_ai: Here is a little video I made using the new Grok video feature where you can animate more than one image in a video.\n\nI als…",
+      "created_at": "Sat Mar 14 06:54:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032345424271470970",
+        "text": "Here is a little video I made using the new Grok video feature where you can animate more than one image in a video.\n\nI also published an article below so you can see how I did it. Very simple!\n\nLots of fun 🙂 https://t.co/9W7DSCbhht",
+        "created_at": "Fri Mar 13 06:38:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032344891032842241",
+            "url": "https://video.twimg.com/amplify_video/2032344891032842241/vid/avc1/3840x2160/Fe9O_GyWwVDGrCJ5.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1807796930359029760",
+          "name": "G. Kim",
+          "screen_name": "artisin_ai",
+          "description": "AI Dreamer | Midjourney sref codes under my Highlights | Adobe Firefly Ambassador | Official Meta AI Creator | Photographer | gkimimages@gmail.com ♥️",
+          "followers_count": 10187,
+          "friends_count": 673,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 130,
+          "favorite_count": 811,
+          "reply_count": 115,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 130,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032711785162461625",
+      "text": "RT @teslaenergy: Powerwall 3 is coming to Japan this year\n\nSign up to receive updates https://t.co/rDMjpeiSg0",
+      "created_at": "Sat Mar 14 06:53:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032496459405520896",
+          "url": "https://pbs.twimg.com/media/HDTgwt4a8AAnMwU.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2032496721369153631",
+        "text": "Powerwall 3 is coming to Japan this year\n\nSign up to receive updates https://t.co/rDMjpeiSg0",
+        "created_at": "Fri Mar 13 16:39:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032496459405520896",
+            "url": "https://pbs.twimg.com/media/HDTgwt4a8AAnMwU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1405917556318392324",
+          "name": "Tesla Energy",
+          "screen_name": "teslaenergy",
+          "description": "Produce & store your own energy with Solar Panels, Solar Roof & Powerwall",
+          "followers_count": 254408,
+          "friends_count": 42,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 294,
+          "favorite_count": 2169,
+          "reply_count": 102,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 294,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032711315979215094",
+      "text": "RT @dvorahfr: I like to test the styles generated by Grok Imagine. https://t.co/eugBZKDEpv",
+      "created_at": "Sat Mar 14 06:51:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2032456370574794752",
+          "url": "https://video.twimg.com/amplify_video/2032456370574794752/vid/avc1/720x720/8V_y7iomPxg8FoH1.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2032652687561326983",
+        "text": "I like to test the styles generated by Grok Imagine. https://t.co/eugBZKDEpv",
+        "created_at": "Sat Mar 14 02:59:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032456370574794752",
+            "url": "https://video.twimg.com/amplify_video/2032456370574794752/vid/avc1/720x720/8V_y7iomPxg8FoH1.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 121894,
+          "friends_count": 3467,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 119,
+          "favorite_count": 648,
+          "reply_count": 121,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 119,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032711272454828506",
+      "text": "RT @XFreeze: https://t.co/3TgN0JA7re",
+      "created_at": "Sat Mar 14 06:51:47 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032664418224644096",
+          "url": "https://pbs.twimg.com/media/HDV5hNPbIAAVqIA.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2032664428118946122",
+        "text": "https://t.co/3TgN0JA7re",
+        "created_at": "Sat Mar 14 03:45:39 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032664418224644096",
+            "url": "https://pbs.twimg.com/media/HDV5hNPbIAAVqIA.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 166769,
+          "friends_count": 1650,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 435,
+          "favorite_count": 2873,
+          "reply_count": 134,
+          "quote_count": 27
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 435,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032709407566688519",
+      "text": "True",
+      "created_at": "Sat Mar 14 06:44:23 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032706313919098909",
+        "text": "The left used to love Elon until he started exposing government corruption. Then they started demonizing him. https://t.co/9HZCGof9GO",
+        "created_at": "Sat Mar 14 06:32:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032706311930974208",
+            "url": "https://pbs.twimg.com/media/HDWfnvdXEAAUkGJ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 49666,
+          "friends_count": 6098,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 121,
+          "favorite_count": 743,
+          "reply_count": 115,
+          "quote_count": 31
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2531,
+        "favorite_count": 23009,
+        "reply_count": 1595,
+        "quote_count": 85
+      }
+    },
+    {
+      "id": "2032706398677876892",
+      "text": "RT @Freedom_Toons: If Black Mirror Was Written in 1750 https://t.co/vgtvSmmEjk",
+      "created_at": "Sat Mar 14 06:32:25 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2032185611650555905",
+          "url": "https://video.twimg.com/amplify_video/2032185611650555905/vid/avc1/1920x1080/C1Q89Saiyno7eMRy.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2032195120385208427",
+        "text": "If Black Mirror Was Written in 1750 https://t.co/vgtvSmmEjk",
+        "created_at": "Thu Mar 12 20:40:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032185611650555905",
+            "url": "https://video.twimg.com/amplify_video/2032185611650555905/vid/avc1/1920x1080/C1Q89Saiyno7eMRy.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1311381893539979264",
+          "name": "FreedomToons",
+          "screen_name": "Freedom_Toons",
+          "description": "We're making a FULL LENGTH SHOW!\n\nSupport us at https://t.co/qsoK1fPRPQ to help us make it happen!",
+          "followers_count": 102158,
+          "friends_count": 171,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1008,
+          "favorite_count": 4789,
+          "reply_count": 190,
+          "quote_count": 84
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1008,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032706026261360751",
+      "text": "Hmm",
+      "created_at": "Sat Mar 14 06:30:57 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032562782248349793",
+        "text": "Yeah, so basically it turns out Meta has been heavily lobbying online age verification laws. They've lobbied over $2,000,000,000 to politicians in form of grants and donations.\n\nhttps://t.co/uNiv8BiIWO",
+        "created_at": "Fri Mar 13 21:01:45 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1158139840866791424",
+          "name": "vx-underground",
+          "screen_name": "vxunderground",
+          "description": "The largest collection of malware source code, samples, and papers on the internet.\n\nPassword: infected",
+          "followers_count": 424693,
+          "friends_count": 334,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7783,
+          "favorite_count": 33695,
+          "reply_count": 250,
+          "quote_count": 257
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 911,
+        "favorite_count": 7508,
+        "reply_count": 764,
+        "quote_count": 24
+      }
+    },
+    {
+      "id": "2032705948612198820",
+      "text": "RT @cb_doge: Grokipedia just got even better.\n\nNow when you click the search bar, it displays Trending Articles so you can jump straight in…",
+      "created_at": "Sat Mar 14 06:30:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032673446925045861",
+        "text": "Grokipedia just got even better.\n\nNow when you click the search bar, it displays Trending Articles so you can jump straight into what people are exploring right now. https://t.co/X2we6Bl2DP",
+        "created_at": "Sat Mar 14 04:21:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032673011128545280",
+            "url": "https://video.twimg.com/amplify_video/2032673011128545280/vid/avc1/1092x1080/Y2yCGLZTAhSgZLxR.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1845893,
+          "friends_count": 913,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 147,
+          "favorite_count": 663,
+          "reply_count": 138,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 147,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032705748510322858",
+      "text": "True",
+      "created_at": "Sat Mar 14 06:29:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032669789802364956",
+        "text": "Look how the Left used to talk about Elon just a few years ago https://t.co/TtCClH6kwC",
+        "created_at": "Sat Mar 14 04:06:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032669786447163393",
+            "url": "https://pbs.twimg.com/media/HDV-ZrbaMAEE9V4.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1492007194388279333",
+          "name": "Declaration of Memes",
+          "screen_name": "LibertyCappy",
+          "description": "🖤💛 Pro: God ✝️, Liberty, Family, Free-Markets, Homesteading, Charity, Homeschool, Satire, Arms, Natural Rights, Voluntaryism - Anti War",
+          "followers_count": 990823,
+          "friends_count": 999,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 167,
+          "favorite_count": 1317,
+          "reply_count": 118,
+          "quote_count": 21
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2254,
+        "favorite_count": 22864,
+        "reply_count": 1536,
+        "quote_count": 89
+      }
+    },
+    {
+      "id": "2032705536526004733",
+      "text": "RT @XFreeze: Let your kids explore the world of their imagination with Grok Imagine\n\nCuriosity is the greatest gift you can give them - let…",
+      "created_at": "Sat Mar 14 06:29:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032681943746093097",
+        "text": "Let your kids explore the world of their imagination with Grok Imagine\n\nCuriosity is the greatest gift you can give them - let their imagination run free https://t.co/o2wAPTWbuj",
+        "created_at": "Sat Mar 14 04:55:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032681454183079936",
+            "url": "https://video.twimg.com/amplify_video/2032681454183079936/vid/avc1/1072x720/nyHLXwgLmlvjl44-.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 166769,
+          "friends_count": 1650,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 119,
+          "favorite_count": 695,
+          "reply_count": 135,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 119,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032704722562617463",
+      "text": "How to",
+      "created_at": "Sat Mar 14 06:25:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032641770190946360",
+        "text": "How to use the Grok multi-image to video feature. \n\nImproved control over your settings, characters and more.\n\nTry it in the app and on web. https://t.co/C4beh09CW4",
+        "created_at": "Sat Mar 14 02:15:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032640652547338240",
+            "url": "https://video.twimg.com/amplify_video/2032640652547338240/vid/avc1/1080x1080/MiFOm9DsvK5Q8O93.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8406503,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 126,
+          "favorite_count": 794,
+          "reply_count": 150,
+          "quote_count": 36
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 607,
+        "favorite_count": 3645,
+        "reply_count": 867,
+        "quote_count": 28
+      }
+    },
+    {
+      "id": "2032704628744466729",
+      "text": "Same",
+      "created_at": "Sat Mar 14 06:25:23 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032676502211608838",
+        "text": "Many liberals just don’t know the gritty details of what they’re talking about. I was a soft-on-crime guy when I was picturing a starving orphan stealing bread. When I learned that death-row criminals are mostly guilty of things like “raped a 72 year old woman to death” I stopped caring about their rights or feelings.",
+        "created_at": "Sat Mar 14 04:33:38 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1805961360687415296",
+          "name": "Hunter Ash",
+          "screen_name": "ArtemisConsort",
+          "description": "Kill the lie so the truth may live. Social media manager for @KeeperAI",
+          "followers_count": 68285,
+          "friends_count": 999,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 180,
+          "favorite_count": 2284,
+          "reply_count": 96,
+          "quote_count": 16
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236502513,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 620,
+        "favorite_count": 5559,
+        "reply_count": 435,
+        "quote_count": 10
+      }
+    },
     {
       "id": "2032688634306978217",
       "text": "不相信的人，你怎么证明都没用\n相信的人，在拼命压榨 AI 的潜能和摸索最佳实践，早已超过 10x\nhttps://t.co/7QHZEi9sIk",
