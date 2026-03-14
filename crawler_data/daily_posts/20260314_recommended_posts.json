@@ -1,12 +1,177 @@
 {
   "date": "20260314",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-14T00:20:53.303639",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-14T02:57:35.792835",
+  "tweet_count": 203,
+  "unique_tweet_count": 203,
+  "total_crawled": 400,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2032616687401422944",
+      "text": "Ashok Elluswamy 是 Tesla 自动驾驶（Autopilot/FSD）团队的 AI 软件副总裁，Tesla AI 的实际技术负责人之一。https://t.co/Vj651TaDZd\n\n他也是 CMU 机器人硕士出身，在 Tesla 主导了端到端神经网络自动驾驶的技术路线，就是让一个神经网络直接从摄像头画面到方向盘控制一条龙搞定，不再拆成感知、规划、控制三个模块。Tesla FSD 能走到今天这个水平，他是核心推手。\n\n现在马斯克把他调过来接管 Macrohard 项目。Macrohard 是 xAI 和 Tesla 的联合项目，也叫\"Digital Optimus\"（数字版擎天柱），目标是做一个能自主操作电脑的 AI 智能体，用 Grok 做高层推理和规划，用 Tesla 的 AI 智能体实时处理屏幕画面并执行键盘鼠标操作。\n\n马斯克说它\"原则上可以模拟整个软件公司的功能\"，名字\"Macrohard\"是对 Microsoft 的调侃。\n\n这个项目之前由前 DeepMind 研究员 Toby Pohlen 负责，但他上任 16 天就走了。现在让 Elluswamy 来接，意味着马斯克不再信任 xAI 原班人马，直接从 Tesla 最核心的 AI 团队调人。而且 Macrohard 的技术思路本身就和 Tesla FSD 一脉相承：都是端到端实时处理视觉输入然后做决策，只不过一个看路，一个看屏幕。\n\n马斯克确实在 all in，把 Tesla、SpaceX、xAI 的资源全部搅在一起。但这也是他一贯的做法：哪里不行就从自己的其他公司调人过去\"救火\"。",
+      "created_at": "Sat Mar 14 00:35:57 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032505466186772945",
+        "text": "Ashok Elluswamy from Tesla is now leading Macrohard.\n\n@elonmusk is going all in. 🔥 https://t.co/L4EPJ1KjXu",
+        "created_at": "Fri Mar 13 17:13:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032505045208698880",
+            "url": "https://pbs.twimg.com/media/HDTokefakAAwVOr.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1567796763364585473",
+          "name": "Yatharth",
+          "screen_name": "yatharthmaan",
+          "description": "Spaceflight, technology & the current thing.\n\nK2 or you're not even trying! SpaceX & Elon fan.",
+          "followers_count": 55470,
+          "friends_count": 1043,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 110,
+          "favorite_count": 2009,
+          "reply_count": 64,
+          "quote_count": 33
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196468,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032615191565775241",
+      "text": "Devendra Chaplot 宣布加入 SpaceX 和 xAI，直接跟 Musk 合作。 https://t.co/vgmDFhm8GM \n这人履历很强。CMU 机器学习博士，IIT Bombay 本科，先在 Meta FAIR 做机器人视觉导航研究，Google Scholar 引用近 14000 次。后来加入 Mistral AI 创始团队，参与训练了 Mistral 7B、Mixtral 8x7B 等核心模型，还领导了多模态团队做出 Pixtral 系列。\n\n去年 2 月他加入了 Thinking Machines Lab（TML）的创始团队，就是 OpenAI 前 CTO Mira Murati 出来创办的那家公司，120 亿美元估值，团队里有 OpenAI 联合创始人 John Schulman、前 VP Lilian Weng 等人。现在从 TML 跳到 xAI。\n\n他在推文里说\"结合物理智能和数字智能\"，他本身就是做机器人导航出身，研究的就是让 AI 在真实物理环境中自主行动。SpaceX 做火箭和卫星，xAI 做大模型，他的背景刚好卡在两者交叉的位置。",
+      "created_at": "Sat Mar 14 00:30:00 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032596951435456797",
+        "text": "I'm joining SpaceX and xAI, working closely with Elon and team to build superintelligence.\n\nTogether SpaceX and xAI combine physical and digital intelligence under a leader who understands hardware at the deepest level. Add a high-agency culture with frontier-scale resources, and you get the possibility to achieve something truly unique.\n\nI’m excited to advance the fields I’ve obsessed over for years, from robotics research to building AI models on the founding teams of Mistral and TML. Both were extraordinary journeys with extraordinary people that shaped how I think about building intelligence from the ground up.\n\nGrateful for everything that brought me here and can’t wait to get started.",
+        "created_at": "Fri Mar 13 23:17:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032591882568740864",
+            "url": "https://pbs.twimg.com/media/HDU3jE3aMAAkHM6.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "133148364",
+          "name": "Devendra Chaplot",
+          "screen_name": "dchaplot",
+          "description": "Building superintelligence @xai",
+          "followers_count": 30101,
+          "friends_count": 473,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 725,
+          "favorite_count": 9912,
+          "reply_count": 1179,
+          "quote_count": 154
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196468,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032613262525644985",
+      "text": "Learn Claude Code 是真做的好，强烈推荐👍 \n项目作者：@baicai003\n\n很多人用 Claude Code 或 Cursor 写代码，觉得 AI 编程助手很神奇，但如果问一句\"它到底是怎么工作的\"，大部分人答不上来。\n\nLearn Claude Code 这个开源项目做的事情很简单：用 12 节课，从零开始搭一个类似 Claude Code 的 AI Agent，每节课只加一个机制，每个机制都有可运行的 Python 代码。\n\n这个项目的核心洞察是：所有 AI 编程 Agent 的底层都是同一个循环。用户发消息给模型，模型决定要不要调用工具，调用了就执行，把结果喂回去，继续循环，直到模型觉得任务完成了。\n\n整个 Agent 的最小实现不到 30 行代码。剩下的一切，规划、子任务拆分、上下文压缩、多 Agent 协作、工作目录隔离，都是在这个循环上面一层一层叠加的。12 节课就是这 12 层。\n\n学习路径设计得很讲究。\n\n前两节搞定核心循环和工具调用\n\n第三节加入计划能力（没有计划的 Agent 会跑偏）\n\n第四到六节处理子 Agent、技能加载和上下文压缩（上下文窗口是有限的，不压缩大项目根本跑不动）\n\n第七八节做任务持久化和后台执行，最后四节进入多 Agent 协作：组队、通信协议、自主领取任务、工作目录隔离。从一个人干活，到一个团队协作，复杂度是渐进的。\n\n项目配了一个交互式 Web 平台（https://t.co/ZyubKItvQK），有步骤图解、源码查看器和文档，支持英文、中文、日文三种语言。\n\n文档风格是\"心智模型优先\"：先讲问题是什么，再讲解决方案，配 ASCII 图，最后是最小可运行代码。\n\n对想搞懂 AI Agent 内部原理的开发者来说，这可能是目前最好的从零到一的学习路径。不需要什么前置知识，有 Python 基础就能跟。\n\n学完之后再去看 Claude Code 或者任何 Agent 框架的源码，会发现都和这个教程介绍的差不多。",
+      "created_at": "Sat Mar 14 00:22:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032594555099308056",
+        "text": "A great resource if you want to understand how AI coding agents work. Learn Claude Code walks through building a minimal Claude Code like agent from scratch, explaining each mechanism step by step. \n\nYou’ll see the core loop most coding agents share: call the model, execute tools, feed the results back, and iterate. A clean way to understand how these systems are actually built.\nhttps://t.co/LnIlVFLhiw",
+        "created_at": "Fri Mar 13 23:08:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031401908599242752",
+            "url": "https://pbs.twimg.com/media/HDD9ReYbwAAkbwi.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1521688129559613440",
+          "name": "Tw93",
+          "screen_name": "HiTw93",
+          "description": "Creator of Kaku · Mole · Pake · MiaoYan",
+          "followers_count": 122825,
+          "friends_count": 299,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 58,
+          "favorite_count": 377,
+          "reply_count": 8,
+          "quote_count": 7
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196468,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 140,
+        "favorite_count": 663,
+        "reply_count": 10,
+        "quote_count": 7
+      }
+    },
     {
       "id": "2032602691193762179",
       "text": "Welcome to @xAI!",
