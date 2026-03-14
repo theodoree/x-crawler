@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236536370,
+    "followers_count": 236527661,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260314",
-  "last_updated": "2026-03-14T14:10:29.108316",
-  "tweet_count": 35,
+  "last_updated": "2026-03-14T16:08:07.019326",
+  "tweet_count": 36,
   "tweets": [
     {
       "id": "2032662761889738929",
@@ -1675,6 +1675,59 @@
       "quoted": null,
       "stats": {
         "retweet_count": 2714,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032832937578868792",
+      "text": "RT @art_muse: Skater Girl 🛹 https://t.co/7oxIDUC23a",
+      "created_at": "Sat Mar 14 14:55:15 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2032825833295843328",
+          "url": "https://video.twimg.com/amplify_video/2032825833295843328/vid/avc1/720x720/ju7EUfSUkd3yzPXL.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2032825896910856248",
+        "text": "Skater Girl 🛹 https://t.co/7oxIDUC23a",
+        "created_at": "Sat Mar 14 14:27:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032825833295843328",
+            "url": "https://video.twimg.com/amplify_video/2032825833295843328/vid/avc1/720x720/ju7EUfSUkd3yzPXL.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 17066,
+          "friends_count": 1310,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 167,
+          "favorite_count": 1106,
+          "reply_count": 285,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 167,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

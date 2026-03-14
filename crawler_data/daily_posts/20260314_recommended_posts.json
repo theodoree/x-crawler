@@ -1,12 +1,75 @@
 {
   "date": "20260314",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-14T14:10:29.075573",
-  "tweet_count": 243,
-  "unique_tweet_count": 243,
-  "total_crawled": 431,
-  "duplicates_removed": 188,
+  "last_crawl_time": "2026-03-14T16:08:06.985026",
+  "tweet_count": 244,
+  "unique_tweet_count": 244,
+  "total_crawled": 443,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2032832937578868792",
+      "text": "RT @art_muse: Skater Girl 🛹 https://t.co/7oxIDUC23a",
+      "created_at": "Sat Mar 14 14:55:15 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2032825833295843328",
+          "url": "https://video.twimg.com/amplify_video/2032825833295843328/vid/avc1/720x720/ju7EUfSUkd3yzPXL.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2032825896910856248",
+        "text": "Skater Girl 🛹 https://t.co/7oxIDUC23a",
+        "created_at": "Sat Mar 14 14:27:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032825833295843328",
+            "url": "https://video.twimg.com/amplify_video/2032825833295843328/vid/avc1/720x720/ju7EUfSUkd3yzPXL.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 17066,
+          "friends_count": 1310,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 167,
+          "favorite_count": 1106,
+          "reply_count": 285,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236527661,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 167,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2032818554928771179",
       "text": "RT @Will_Tanner_1: Ages of the Founding Fathers on July 4, 1776: \n-James Monroe, 18\n-Aaron Burr, 20\n-Alexander Hamilton, 21\n-James Madison,…",
