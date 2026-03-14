@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236541471,
+    "followers_count": 236550623,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260314",
-  "last_updated": "2026-03-14T18:09:28.577607",
-  "tweet_count": 36,
+  "last_updated": "2026-03-14T20:06:50.553154",
+  "tweet_count": 37,
   "tweets": [
     {
       "id": "2032662761889738929",
@@ -1728,6 +1728,59 @@
       "quoted": null,
       "stats": {
         "retweet_count": 167,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032909911823364312",
+      "text": "RT @cb_doge: The new upgrade of Grok Imagine is absolutely 🔥🔥\n\nDownload @Grok and try it now. https://t.co/j309HBhSEe",
+      "created_at": "Sat Mar 14 20:01:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2032893191733563392",
+          "url": "https://video.twimg.com/amplify_video/2032893191733563392/vid/avc1/1080x1080/Qhudr54Q6rDDnjcz.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2032893300298944974",
+        "text": "The new upgrade of Grok Imagine is absolutely 🔥🔥\n\nDownload @Grok and try it now. https://t.co/j309HBhSEe",
+        "created_at": "Sat Mar 14 18:55:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032893191733563392",
+            "url": "https://video.twimg.com/amplify_video/2032893191733563392/vid/avc1/1080x1080/Qhudr54Q6rDDnjcz.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1845947,
+          "friends_count": 913,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 94,
+          "favorite_count": 645,
+          "reply_count": 250,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 94,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
