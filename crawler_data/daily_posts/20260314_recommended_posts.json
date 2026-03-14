@@ -1,12 +1,702 @@
 {
   "date": "20260314",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-14T12:09:32.540081",
-  "tweet_count": 231,
-  "unique_tweet_count": 231,
+  "last_crawl_time": "2026-03-14T14:10:29.075573",
+  "tweet_count": 243,
+  "unique_tweet_count": 243,
   "total_crawled": 431,
-  "duplicates_removed": 200,
+  "duplicates_removed": 188,
   "tweets": [
+    {
+      "id": "2032818554928771179",
+      "text": "RT @Will_Tanner_1: Ages of the Founding Fathers on July 4, 1776: \n-James Monroe, 18\n-Aaron Burr, 20\n-Alexander Hamilton, 21\n-James Madison,…",
+      "created_at": "Sat Mar 14 13:58:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032190391538127153",
+        "text": "Ages of the Founding Fathers on July 4, 1776: \n-James Monroe, 18\n-Aaron Burr, 20\n-Alexander Hamilton, 21\n-James Madison, 25\n-Thomas Jefferson, 33\n\nThere is indeed a problem with people today being unserious, but to pretend that age itself is the problem is ridiculous",
+        "created_at": "Thu Mar 12 20:22:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2031869010711601155",
+          "text": "If an 18-year-old kid has extremely strong opinions on Israel and foreign policy, something’s wrong there.\n\nThat’s not an opinion earned through years of learning and life experience. It’s the result of a kid spending hours on his phone, being conditioned by an algorithm.",
+          "created_at": "Wed Mar 11 23:04:57 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "31439580",
+            "name": "Joel Berry",
+            "screen_name": "JoelWBerry",
+            "description": "Managing Editor of @TheBabylonBee, bestselling author of Postmodern Pilgrim’s Progress, USMC vet, grumpy dad",
+            "followers_count": 173893,
+            "friends_count": 2783,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 747,
+            "favorite_count": 7703,
+            "reply_count": 3887,
+            "quote_count": 605
+          }
+        },
+        "user": {
+          "id": "1504181287468339208",
+          "name": "Will Tanner",
+          "screen_name": "Will_Tanner_1",
+          "description": "Tradition is not the worship of ashes, but the preservation of fire | Co-Founder of @TAmTrib | WASP",
+          "followers_count": 160569,
+          "friends_count": 1364,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2714,
+          "favorite_count": 30517,
+          "reply_count": 360,
+          "quote_count": 92
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2714,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032818117949403363",
+      "text": "RT @SpaceX: Falcon 9 launches 29 @Starlink satellites from Florida https://t.co/X02X5lhlSz",
+      "created_at": "Sat Mar 14 13:56:21 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032815724327010307",
+          "url": "https://pbs.twimg.com/media/HDYDIYZXAAMq4iq.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2032815851955482624",
+          "url": "https://pbs.twimg.com/media/HDYDPz2W8AAqZow.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2032815885082107904",
+          "url": "https://pbs.twimg.com/media/HDYDRvQXIAAC09u.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2032815938727227630",
+        "text": "Falcon 9 launches 29 @Starlink satellites from Florida https://t.co/X02X5lhlSz",
+        "created_at": "Sat Mar 14 13:47:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032815724327010307",
+            "url": "https://pbs.twimg.com/media/HDYDIYZXAAMq4iq.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2032815851955482624",
+            "url": "https://pbs.twimg.com/media/HDYDPz2W8AAqZow.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2032815885082107904",
+            "url": "https://pbs.twimg.com/media/HDYDRvQXIAAC09u.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41232271,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 217,
+          "favorite_count": 1384,
+          "reply_count": 253,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 217,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032817974307074090",
+      "text": "Try it!",
+      "created_at": "Sat Mar 14 13:55:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032809787960995846",
+        "text": "You can upload up to 100 files (Images, PDFs, or documents) - directly into Grok\n\nWhether it’s tax documents, medical records, confidential files, contracts, or office projects, Grok helps you analyze everything in seconds\n\nGrok can break down complex information, summarize key points, and even identify hidden loopholes inside contracts\n\nWork smarter. Let Grok handle the heavy lifting",
+        "created_at": "Sat Mar 14 13:23:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032809770697318400",
+            "url": "https://pbs.twimg.com/media/HDX9t1ZbYAAC9kp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 166936,
+          "friends_count": 1652,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 40,
+          "favorite_count": 271,
+          "reply_count": 88,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 306,
+        "favorite_count": 1746,
+        "reply_count": 693,
+        "quote_count": 12
+      }
+    },
+    {
+      "id": "2032817260319092896",
+      "text": "RT @dvorahfr: Image and 30-second video created with Grok Imagine in under 5 minutes. \n1. Image creation with editing \n2. Animation \n3. 10-…",
+      "created_at": "Sat Mar 14 13:52:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032354977595666786",
+        "text": "Image and 30-second video created with Grok Imagine in under 5 minutes. \n1. Image creation with editing \n2. Animation \n3. 10-second video extension \n4. 10-second video extension\n\nYour video is ready ❣️ https://t.co/rQEJuG1yFi",
+        "created_at": "Fri Mar 13 07:16:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032354926479687680",
+            "url": "https://video.twimg.com/ext_tw_video/2032354926479687680/pu/vid/avc1/720x1072/xm0YLW8YeSUlj9Ik.mp4?tag=22",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 122064,
+          "friends_count": 3468,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 92,
+          "favorite_count": 576,
+          "reply_count": 121,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 92,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032816772425068954",
+      "text": "RT @cb_doge: Recreated the iconic Iron Man movie scene using Grok Imagine’s new feature. https://t.co/Zu1omh9Dau",
+      "created_at": "Sat Mar 14 13:51:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2032722832786952192",
+          "url": "https://video.twimg.com/amplify_video/2032722832786952192/vid/avc1/1080x1080/xOqd7W10105-ZqCJ.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2032723121933828382",
+        "text": "Recreated the iconic Iron Man movie scene using Grok Imagine’s new feature. https://t.co/Zu1omh9Dau",
+        "created_at": "Sat Mar 14 07:38:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032722832786952192",
+            "url": "https://video.twimg.com/amplify_video/2032722832786952192/vid/avc1/1080x1080/xOqd7W10105-ZqCJ.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1845826,
+          "friends_count": 913,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 151,
+          "favorite_count": 993,
+          "reply_count": 255,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 151,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032815046582219094",
+      "text": "RT @testerlabor: Grok 4.20 Beta just took No1 on Artificial Analysis and scored in reasoning, intelligence, performance, and price analysis…",
+      "created_at": "Sat Mar 14 13:44:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032200306990158089",
+        "text": "Grok 4.20 Beta just took No1 on Artificial Analysis and scored in reasoning, intelligence, performance, and price analysis.\n\n- Lowest hallucination rate EVER: 22% \n- No1 Instruction Following: 82.9% on IFBench\n- 265 tokens/sec - fastest in class, >2x Grok 4.1 Fast\n\nVery remarkable because Grok 4.20 was released just about a month ago and is still in Beta. Huge congrats to xAI & Elon Musk",
+        "created_at": "Thu Mar 12 21:01:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032199287485186048",
+            "url": "https://video.twimg.com/amplify_video/2032199287485186048/vid/avc1/720x720/H4BlbSGMZZtQDY7k.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1769074421438803968",
+          "name": "Testlabor",
+          "screen_name": "testerlabor",
+          "description": "Tech and AI Innovation Tester & researcher - Grok tester since 1.5 - News, Updates & Results.",
+          "followers_count": 12833,
+          "friends_count": 776,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 114,
+          "favorite_count": 624,
+          "reply_count": 134,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 114,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032814398033768737",
+      "text": "Terafab Project launches in 7 days",
+      "created_at": "Sat Mar 14 13:41:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1059,
+        "favorite_count": 9670,
+        "reply_count": 2373,
+        "quote_count": 329
+      }
+    },
+    {
+      "id": "2032814104461848914",
+      "text": "RT @cstanley: Hey Instagram users, come use X Chat 😎",
+      "created_at": "Sat Mar 14 13:40:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032600742905757942",
+        "text": "Hey Instagram users, come use X Chat 😎",
+        "created_at": "Fri Mar 13 23:32:35 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2032546439042056241",
+          "text": "Meta is killing end-to-end encryption in Instagram DMs https://t.co/X1LRd2TCh2",
+          "created_at": "Fri Mar 13 19:56:48 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "14372486",
+            "name": "Engadget",
+            "screen_name": "engadget",
+            "description": "Engadget is the original home for technology news and reviews. https://t.co/XnAXVxyA78",
+            "followers_count": 2325078,
+            "friends_count": 238,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 56,
+            "favorite_count": 121,
+            "reply_count": 23,
+            "quote_count": 19
+          }
+        },
+        "user": {
+          "id": "45715045",
+          "name": "Christopher Stanley",
+          "screen_name": "cstanley",
+          "description": "{title: \"Security Engineering\", company: 〚\"@SpaceX\", \"@X\", “@xAI”〛, education: \"M.S Computer Science // Cyber Security\"}",
+          "followers_count": 112862,
+          "friends_count": 478,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 94,
+          "favorite_count": 735,
+          "reply_count": 127,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 94,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032813557575024689",
+      "text": "RT @SpaceX: Deployment of 29 @Starlink satellites confirmed",
+      "created_at": "Sat Mar 14 13:38:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032813441346326642",
+        "text": "Deployment of 29 @Starlink satellites confirmed",
+        "created_at": "Sat Mar 14 13:37:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41232271,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 195,
+          "favorite_count": 1309,
+          "reply_count": 302,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 195,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032811619307442215",
+      "text": "RT @PeterDiamandis: The computational power in your iPhone is &gt;100 million times more powerful than the computers that landed Apollo 11 on…",
+      "created_at": "Sat Mar 14 13:30:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032806489585496075",
+        "text": "The computational power in your iPhone is &gt;100 million times more powerful than the computers that landed Apollo 11 on the Moon. And yet, most people use it primarily to argue with strangers on the internet.\n\nThe future's already here—we just need to deploy it better.",
+        "created_at": "Sat Mar 14 13:10:09 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14710129",
+          "name": "Peter H. Diamandis, MD",
+          "screen_name": "PeterDiamandis",
+          "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+          "followers_count": 360425,
+          "friends_count": 807,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 320,
+          "favorite_count": 2040,
+          "reply_count": 343,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 320,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032804292676190605",
+      "text": "True",
+      "created_at": "Sat Mar 14 13:01:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032726127370706960",
+        "text": "The problem with most people is that they have never seen real evil \n\nThey are soft people who inherited good times, and assume it was always so\n\nTheir concept of crime is so soft and sympathetic that they have more pity for criminals than victims. \n\nBut real evil - wretched, twisted, soulless evil - is out there. \n\nIf the soft people do not wake up, a small number of evil people is all that it takes to destroy vast swaths of all that is good",
+        "created_at": "Sat Mar 14 07:50:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032726116264464384",
+            "url": "https://pbs.twimg.com/media/HDWxogWaUAAJvB6.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 64998,
+          "friends_count": 994,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 926,
+          "favorite_count": 3838,
+          "reply_count": 257,
+          "quote_count": 86
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3452,
+        "favorite_count": 17708,
+        "reply_count": 1631,
+        "quote_count": 107
+      }
+    },
+    {
+      "id": "2032804041865175204",
+      "text": "RT @XFreeze: Grok 4.20 ranks #2 on 𝜏²-Bench for Telecom Agentic Tool Use on Artificial Analysis\n\nwith 96.5% accuracy, outperforming Claude…",
+      "created_at": "Sat Mar 14 13:00:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032791851682439610",
+        "text": "Grok 4.20 ranks #2 on 𝜏²-Bench for Telecom Agentic Tool Use on Artificial Analysis\n\nwith 96.5% accuracy, outperforming Claude Opus 4.6 (max), GPT-5.4 (xhigh), and Gemini 3.1 Pro, while closing in on GLM-5\n\nTool calling is where the whole game is for AI agents, and this is where Grok 4.20 takes over",
+        "created_at": "Sat Mar 14 12:11:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032786950998929408",
+            "url": "https://pbs.twimg.com/media/HDXo9jZXMAAqBeL.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 166936,
+          "friends_count": 1652,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 145,
+          "favorite_count": 789,
+          "reply_count": 190,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236536370,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 145,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2032712056118587635",
       "text": "RT @SpaceX: Falcon 9 launches 25 @Starlink satellites from California https://t.co/J2qlYaBs3W",
