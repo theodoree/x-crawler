@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196406,
+    "followers_count": 196419,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260313",
-  "last_updated": "2026-03-13T22:08:39.191085",
-  "tweet_count": 9,
+  "last_updated": "2026-03-14T00:20:53.358281",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2032260011309584737",
@@ -395,6 +395,27 @@
         "retweet_count": 0,
         "favorite_count": 14,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032588861063168334",
+      "text": "xAI 大换血：12 位联合创始人只剩 2 位，马斯克承认\"一开始就没建对\"\n\n马斯克本周在 X 上公开表态：xAI\"一开始就没建对，正在从头重建。\"触发这番话的，是又一轮联合创始人出走。\n\n本周，联合创始人戴自航（Zihang Dai）离职，另一位联合创始人张国栋（Guodong Zhang）也告知同事即将离开，据报道他被马斯克归咎于编程产品的问题，随后被解除了核心职责。\n\n加上此前已经离开的 Jimmy Ba、Tony Wu、Greg Yang、Toby Pohlen 等人，xAI 在 2023 年成立时的 12 位联合创始人中，如今只剩下 Manuel Kroiss 和 Ross Nordeen 两人。\n\n这轮动荡的直接原因是 xAI 的 AI 编程产品表现不佳。Grok 聊天机器人和编程工具始终未能在付费用户中打开市场，与 Anthropic 的 Claude Code 和 OpenAI 的 Codex 差距明显。\n\n马斯克对此非常不满，从 SpaceX 和 Tesla 调派管理人员进驻 xAI，审查员工工作，并解雇了一些被认为表现不达标的人。据报道，训练数据质量是编程产品落后的关键原因之一。\n\n更能说明问题的一个细节是：马斯克上月在全员会上提拔前 DeepMind 研究员 Toby Pohlen 负责代号\"Macrohard\"（名字是对 Microsoft 的调侃）的数字智能体项目，声称这是公司\"最重要的方向\"。结果 Pohlen 16 天后就走了。\n\n与此同时，xAI 也在紧急补血。公司从 AI 编程明星公司 Cursor 挖来了两名高管 Andrew Milich 和 Jason Ginsberg，两人将直接向马斯克汇报。\n\nCursor 目前年化收入已达 20 亿美元，是 AI 编程赛道最炙手可热的公司之一。\n\n马斯克还公开发帖为过去的招聘失误道歉，表示正在回顾历史面试记录，重新联系被错过的候选人。\n\n这一切的大背景是：SpaceX 今年 2 月以 1.25 万亿美元的合并估值收购了 xAI（SpaceX 估值 1 万亿，xAI 估值 2500 亿），正在筹备可能创下历史纪录的 IPO。\n\n创始团队在 IPO 前夕大规模崩塌，对投资者信心显然不是好消息。据报道，xAI 内部员工抱怨持续的人事动荡正在损害士气，多位离职的创始工程师正在一起筹备新公司。\n\n马斯克把这比作 Tesla 早期的阵痛。但 Tesla 当年面对的是制造业的物理挑战，xAI 面对的是 Anthropic 和 OpenAI 已经跑在前面、人才争夺白热化的 AI 市场。\n\n12 个联合创始人走了 10 个，这已经不是正常的团队迭代，相当于创始团队的整体性瓦解。\n\n接下来要看的是：从 Cursor 挖来的新血、SpaceX 的管理方式，能否让 xAI 在 IPO 之前拿出像样的产品。",
+      "created_at": "Fri Mar 13 22:45:22 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032588201555087360",
+          "url": "https://pbs.twimg.com/media/HDU0M0BXUAAtdEt.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 42,
+        "reply_count": 9,
         "quote_count": 0
       }
     }

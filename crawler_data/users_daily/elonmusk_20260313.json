@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236473575,
+    "followers_count": 236480641,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260313",
-  "last_updated": "2026-03-13T22:08:39.166911",
-  "tweet_count": 60,
+  "last_updated": "2026-03-14T00:20:53.332889",
+  "tweet_count": 63,
   "tweets": [
     {
       "id": "2032289938033819929",
@@ -2924,6 +2924,148 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2032582089657430283",
+      "text": "RT @Eric_Schmitt: Only American citizens should be able to vote in our elections. Period.\n\nThis shouldn't be controversial.\n\nIf Democrats w…",
+      "created_at": "Fri Mar 13 22:18:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032467210984128809",
+        "text": "Only American citizens should be able to vote in our elections. Period.\n\nThis shouldn't be controversial.\n\nIf Democrats want to block something that the overwhelming majority of Americans agree with—be my guest.\n\nPass the SAVE America Act NOW! https://t.co/BR6KmtmYRo",
+        "created_at": "Fri Mar 13 14:41:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032467059452284929",
+            "url": "https://video.twimg.com/amplify_video/2032467059452284929/vid/avc1/1920x1080/_Qs7cJ8WfluXGmfD.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "101852818",
+          "name": "Eric Schmitt",
+          "screen_name": "Eric_Schmitt",
+          "description": "Husband • Dad • United States Senator for Missouri • Diehard #STLCards fan",
+          "followers_count": 254285,
+          "friends_count": 2894,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 987,
+          "favorite_count": 4692,
+          "reply_count": 487,
+          "quote_count": 40
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 987,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032598901212197136",
+      "text": "RT @boringcompany: Prufrock-3 launching off The Monster!\n\nThe Monster tilts down, allowing the boring machine to mine directly into the par…",
+      "created_at": "Fri Mar 13 23:25:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032593068508295283",
+        "text": "Prufrock-3 launching off The Monster!\n\nThe Monster tilts down, allowing the boring machine to mine directly into the parking lot ground without any pit/shaft/excavation. https://t.co/3kWKIk3n5v",
+        "created_at": "Fri Mar 13 23:02:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032593015995510786",
+            "url": "https://video.twimg.com/amplify_video/2032593015995510786/vid/avc1/720x1280/Z2HVYurEvWaTWDII.mp4?tag=21",
+            "bitrate": 2176000
+          },
+          {
+            "type": "photo",
+            "id": "2032593015974572032",
+            "url": "https://pbs.twimg.com/media/HDU4lDIasAAXn7O.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "859816394556284929",
+          "name": "The Boring Company",
+          "screen_name": "boringcompany",
+          "description": "Beat the snail",
+          "followers_count": 1106913,
+          "friends_count": 9,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 321,
+          "favorite_count": 2537,
+          "reply_count": 258,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 321,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032602691193762179",
+      "text": "Welcome to @xAI!",
+      "created_at": "Fri Mar 13 23:40:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032596951435456797",
+        "text": "I'm joining SpaceX and xAI, working closely with Elon and team to build superintelligence.\n\nTogether SpaceX and xAI combine physical and digital intelligence under a leader who understands hardware at the deepest level. Add a high-agency culture with frontier-scale resources, and you get the possibility to achieve something truly unique.\n\nI’m excited to advance the fields I’ve obsessed over for years, from robotics research to building AI models on the founding teams of Mistral and TML. Both were extraordinary journeys with extraordinary people that shaped how I think about building intelligence from the ground up.\n\nGrateful for everything that brought me here and can’t wait to get started.",
+        "created_at": "Fri Mar 13 23:17:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032591882568740864",
+            "url": "https://pbs.twimg.com/media/HDU3jE3aMAAkHM6.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "133148364",
+          "name": "Devendra Chaplot",
+          "screen_name": "dchaplot",
+          "description": "Building superintelligence @xai",
+          "followers_count": 18905,
+          "friends_count": 472,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 199,
+          "favorite_count": 3118,
+          "reply_count": 433,
+          "quote_count": 39
+        }
+      },
+      "stats": {
+        "retweet_count": 1245,
+        "favorite_count": 13126,
+        "reply_count": 1510,
+        "quote_count": 75
       }
     }
   ]
