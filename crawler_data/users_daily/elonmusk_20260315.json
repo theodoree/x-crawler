@@ -1,0 +1,113 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 236584375,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260315",
+  "last_updated": "2026-03-15T03:05:13.640708",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2033008480672690226",
+      "text": "RT @karaebel: Created using Grok Imagine multi-image to video.  \n\n4 base images, 6 videos. https://t.co/3XjtkYCPoq",
+      "created_at": "Sun Mar 15 02:32:47 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2032908101104640000",
+          "url": "https://video.twimg.com/amplify_video/2032908101104640000/vid/avc1/1920x1080/vZLmpufhHcs1zdxD.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2032910076038754538",
+        "text": "Created using Grok Imagine multi-image to video.  \n\n4 base images, 6 videos. https://t.co/3XjtkYCPoq",
+        "created_at": "Sat Mar 14 20:01:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032908101104640000",
+            "url": "https://video.twimg.com/amplify_video/2032908101104640000/vid/avc1/1920x1080/vZLmpufhHcs1zdxD.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485374408269176833",
+          "name": "Kara",
+          "screen_name": "karaebel",
+          "description": "Video Content Design @xAI @grok",
+          "followers_count": 1041,
+          "friends_count": 418,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 124,
+          "favorite_count": 836,
+          "reply_count": 128,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 124,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033008730913259959",
+      "text": "RT @Designarena: BREAKING: Grok Imagine by @xai takes 1st overall on Video Editing Arena, with an overall Elo of 1290.\n\nThe team's debut vi…",
+      "created_at": "Sun Mar 15 02:33:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032986618035056744",
+        "text": "BREAKING: Grok Imagine by @xai takes 1st overall on Video Editing Arena, with an overall Elo of 1290.\n\nThe team's debut video editing model establishes a new Pareto frontier for Preference vs. Speed with an average generation time of 1 min 5 sec.\n\nCongrats to the @xai team for this achievement!",
+        "created_at": "Sun Mar 15 01:05:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032965905291067392",
+            "url": "https://pbs.twimg.com/media/HDaLuEFawAAufo_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1938019865841016832",
+          "name": "Design Arena",
+          "screen_name": "Designarena",
+          "description": "World's first crowdsourced benchmark for design with 2M+ creators and counting. Made by @arcada_labs",
+          "followers_count": 7182,
+          "friends_count": 9,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 161,
+          "favorite_count": 858,
+          "reply_count": 147,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 161,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
