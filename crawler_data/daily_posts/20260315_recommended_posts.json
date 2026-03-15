@@ -1,12 +1,592 @@
 {
   "date": "20260315",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-15T04:48:56.645072",
-  "tweet_count": 205,
-  "unique_tweet_count": 205,
-  "total_crawled": 402,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-15T06:22:42.124449",
+  "tweet_count": 215,
+  "unique_tweet_count": 215,
+  "total_crawled": 405,
+  "duplicates_removed": 190,
   "tweets": [
+    {
+      "id": "2033065192662380793",
+      "text": "RT @dvorahfr: A touch of romance for your day thanks to Grok Imagine https://t.co/FTtQnrtdIP",
+      "created_at": "Sun Mar 15 06:18:09 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2032482417722687488",
+          "url": "https://video.twimg.com/amplify_video/2032482417722687488/vid/avc1/720x1072/_PvJmqXe-HCoAQZf.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2032844954377277679",
+        "text": "A touch of romance for your day thanks to Grok Imagine https://t.co/FTtQnrtdIP",
+        "created_at": "Sat Mar 14 15:43:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032482417722687488",
+            "url": "https://video.twimg.com/amplify_video/2032482417722687488/vid/avc1/720x1072/_PvJmqXe-HCoAQZf.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 122318,
+          "friends_count": 3468,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 137,
+          "favorite_count": 727,
+          "reply_count": 140,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236594108,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 137,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033064125476253729",
+      "text": "🥧",
+      "created_at": "Sun Mar 15 06:13:54 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033053691775955138",
+        "text": "Happy 24th Birthday @SpaceX! 🚀\n\nExactly 24 years ago today - March 14, 2002 - Elon founded SpaceX. \n\nIt only makes sense to now IPO the world’s most innovative company so any human can own a piece of this multiplanetary future! \n\nAd Astra! \n\nhttps://t.co/GsaD60Lkkh",
+        "created_at": "Sun Mar 15 05:32:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1999096046249816064",
+            "url": "https://video.twimg.com/amplify_video/1999096046249816064/vid/avc1/1206x660/NCNWd-BBK5-luLDV.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "985243593538338816",
+          "name": "Teslaconomics",
+          "screen_name": "Teslaconomics",
+          "description": "I post my conscious thoughts w/ the world, live to the fullest, keep things simple, truthful & filter the noise. Long-term investor in Tesla, SpaceX, xAI/X.",
+          "followers_count": 496085,
+          "friends_count": 220,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 45,
+          "favorite_count": 202,
+          "reply_count": 52,
+          "quote_count": 14
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236594108,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 293,
+        "favorite_count": 2079,
+        "reply_count": 595,
+        "quote_count": 25
+      }
+    },
+    {
+      "id": "2033063032801378656",
+      "text": "This is the only way to save Britain. There is no other.",
+      "created_at": "Sun Mar 15 06:09:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032791549344448997",
+        "text": "Important news - Restore Britain now has more members than the Conservative Party.\n\nOur aim is clear.\n\nWin the next general election - I am increasingly confident that we can achieve that.\n\nEnjoy the weekend, patriots. https://t.co/p6mnnb9g1Z",
+        "created_at": "Sat Mar 14 12:10:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032791042530156544",
+            "url": "https://video.twimg.com/amplify_video/2032791042530156544/vid/avc1/1920x1080/68-fA8X89guq7WBL.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 719089,
+          "friends_count": 787,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6683,
+          "favorite_count": 43280,
+          "reply_count": 1263,
+          "quote_count": 300
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236594108,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 517,
+        "favorite_count": 3181,
+        "reply_count": 490,
+        "quote_count": 19
+      }
+    },
+    {
+      "id": "2033062669197213955",
+      "text": "True",
+      "created_at": "Sun Mar 15 06:08:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032924541014450243",
+        "text": "@rauchg True https://t.co/vlTdGLjscC",
+        "created_at": "Sat Mar 14 20:59:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032924472605331456",
+            "url": "https://video.twimg.com/amplify_video/2032924472605331456/vid/avc1/1920x1080/70me2i5kztKYeGFM.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "473166315",
+          "name": "helix",
+          "screen_name": "helixbase",
+          "description": "Building",
+          "followers_count": 788,
+          "friends_count": 783,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 103,
+          "reply_count": 5,
+          "quote_count": 4
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236594108,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 95,
+        "favorite_count": 486,
+        "reply_count": 222,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2033057394478223780",
+      "text": "RT @BrianRoemmele: “I think the next company I do will have a long  beneficial effect”—@elonmusk, 2001\n\nMission accomplished sir. Mission a…",
+      "created_at": "Sun Mar 15 05:47:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2032982820273140220",
+        "text": "“I think the next company I do will have a long  beneficial effect”—@elonmusk, 2001\n\nMission accomplished sir. Mission accomplished. https://t.co/ubxd6S9Fi6",
+        "created_at": "Sun Mar 15 00:50:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032982789709312000",
+            "url": "https://video.twimg.com/amplify_video/2032982789709312000/vid/avc1/720x470/PnGjnl2yq6BGMjUY.mp4?tag=21",
+            "bitrate": 832000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "101584084",
+          "name": "Brian Roemmele",
+          "screen_name": "BrianRoemmele",
+          "description": "we can only see what we think is possible...",
+          "followers_count": 462098,
+          "friends_count": 42949,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 164,
+          "favorite_count": 1095,
+          "reply_count": 141,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236594108,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 164,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033056916348481772",
+      "text": "Yeah",
+      "created_at": "Sun Mar 15 05:45:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032893617644384525",
+        "text": "Software was eaten by AI.",
+        "created_at": "Sat Mar 14 18:56:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "745273",
+          "name": "Naval",
+          "screen_name": "naval",
+          "description": "Incompressible",
+          "followers_count": 3091060,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 860,
+          "favorite_count": 10678,
+          "reply_count": 1165,
+          "quote_count": 270
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236594108,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 521,
+        "favorite_count": 5935,
+        "reply_count": 1056,
+        "quote_count": 50
+      }
+    },
+    {
+      "id": "2033054097390318013",
+      "text": "This is real explanation",
+      "created_at": "Sun Mar 15 05:34:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032868980927672737",
+        "text": "https://t.co/jvO2hIyMWQ",
+        "created_at": "Sat Mar 14 17:18:28 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032868973331824640",
+            "url": "https://pbs.twimg.com/media/HDYzj4ZbQAAQldX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "596735466",
+          "name": "Edward A. Perin - Psychologist",
+          "screen_name": "DoctorPerin",
+          "description": "Psychologist in Private Practice. Former Army 🇺🇸 Here to Educate and Entertain. Go to therapy with a goal, even if it’s not with me!",
+          "followers_count": 13641,
+          "friends_count": 312,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 363,
+          "favorite_count": 2240,
+          "reply_count": 89,
+          "quote_count": 43
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236594108,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1724,
+        "favorite_count": 15573,
+        "reply_count": 1663,
+        "quote_count": 92
+      }
+    },
+    {
+      "id": "2033050617707721027",
+      "text": "RT @cybertruck: https://t.co/b0qvto54C8",
+      "created_at": "Sun Mar 15 05:20:14 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032878041895153665",
+          "url": "https://pbs.twimg.com/media/HDY7zvbaMAEqU4x.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2032878045875548224",
+        "text": "https://t.co/b0qvto54C8",
+        "created_at": "Sat Mar 14 17:54:29 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032878041895153665",
+            "url": "https://pbs.twimg.com/media/HDY7zvbaMAEqU4x.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2032632002923704663",
+          "text": "@DavidMoss @JoeTegtmeyer Got put on big brother duty",
+          "created_at": "Sat Mar 14 01:36:48 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1686044379910131718",
+            "name": "Cybertruck",
+            "screen_name": "cybertruck",
+            "description": "📐",
+            "followers_count": 241147,
+            "friends_count": 11,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 26,
+            "favorite_count": 1306,
+            "reply_count": 24,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "1686044379910131718",
+          "name": "Cybertruck",
+          "screen_name": "cybertruck",
+          "description": "📐",
+          "followers_count": 241147,
+          "friends_count": 11,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 470,
+          "favorite_count": 3979,
+          "reply_count": 237,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236594108,
+        "friends_count": 1296,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 470,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033050304564896031",
+      "text": "程序员目前是 AI 提高生产力最大的群体，也是受 AI 裁员影响最大的群体",
+      "created_at": "Sun Mar 15 05:18:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033049190511816897",
+        "text": "@dotey @dongxi_nlp 整体来讲 真正玩得动AI,提高生产力的人 还是特别少的",
+        "created_at": "Sun Mar 15 05:14:33 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2019087570177757184",
+          "name": "Hakimi Mambo.AI🐈‍⬛",
+          "screen_name": "Hakimi_Mambo",
+          "description": "🦞 AI Engineer | Geek Thinker\n📝 AI Guide  | No Panic, Just Steps\n☕️ Handpicked AI tools | plain-language breakdowns\n🌱 OSS · Indie · Growth notes",
+          "followers_count": 63,
+          "friends_count": 106,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196837,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 22,
+        "reply_count": 24,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033045826654667054",
+      "text": "RT @fi56622380: @Tsla99T 我看到推文第一眼本想说，这作者对什么叫做鱿鱼游戏一无所知\n\n结果多看了几眼这作者其他推文，竟然全是一个模板然后让AI生成裁员故事\n\n纯粹用裁员焦虑做流量收割器垃圾号\n\n实际上，就连AI内部工具链做的最好的几个公司，这几年的人数都…",
+      "created_at": "Sun Mar 15 05:01:11 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033025849088422158",
+        "text": "我看到推文第一眼本想说，这作者对什么叫做鱿鱼游戏一无所知\n\n结果多看了几眼这作者其他推文，竟然全是一个模板然后让AI生成裁员故事\n\n纯粹用裁员焦虑做流量收割器垃圾号\n\n实际上，就连AI内部工具链做的最好的几个公司，这几年的人数都没怎么变\n\n而且相反的，内部工作时长都在增加\n\n历史证明，科技只会让资本家创造条件让工人工作时间变的更长",
+        "created_at": "Sun Mar 15 03:41:48 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033021576275460096",
+            "url": "https://pbs.twimg.com/media/HDa-WiqagAAbQgU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1503621835136462849",
+          "name": "fin",
+          "screen_name": "fi56622380",
+          "description": "立场不重要，事物的运行逻辑和内在规律才是更值得关注的部分 | \n\n读过三个不同专业的学位，体验过两个大洲的尘世生活，设计过一次火星车芯片，还没有去看过心心念念的冰川",
+          "followers_count": 44524,
+          "friends_count": 440,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 47,
+          "reply_count": 7,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196837,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2033039823787741394",
       "text": "RT @dongxi_nlp: 本周最喜欢的一段话，来自梁海源。\n\n“ AI 像一列高速行驶的火车，印度的那种。\n\n少数几个人操作着火车头，大多数人被挤在狭窄的车厢里。\n\n还有更多人挂在火车外，假装自己也在车上。”",

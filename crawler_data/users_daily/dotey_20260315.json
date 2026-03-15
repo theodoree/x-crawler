@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196816,
+    "followers_count": 196837,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260315",
-  "last_updated": "2026-03-15T04:48:56.670423",
-  "tweet_count": 3,
+  "last_updated": "2026-03-15T06:22:42.179370",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2033034520060936370",
@@ -149,6 +149,90 @@
         "retweet_count": 58,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033045826654667054",
+      "text": "RT @fi56622380: @Tsla99T 我看到推文第一眼本想说，这作者对什么叫做鱿鱼游戏一无所知\n\n结果多看了几眼这作者其他推文，竟然全是一个模板然后让AI生成裁员故事\n\n纯粹用裁员焦虑做流量收割器垃圾号\n\n实际上，就连AI内部工具链做的最好的几个公司，这几年的人数都…",
+      "created_at": "Sun Mar 15 05:01:11 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033025849088422158",
+        "text": "我看到推文第一眼本想说，这作者对什么叫做鱿鱼游戏一无所知\n\n结果多看了几眼这作者其他推文，竟然全是一个模板然后让AI生成裁员故事\n\n纯粹用裁员焦虑做流量收割器垃圾号\n\n实际上，就连AI内部工具链做的最好的几个公司，这几年的人数都没怎么变\n\n而且相反的，内部工作时长都在增加\n\n历史证明，科技只会让资本家创造条件让工人工作时间变的更长",
+        "created_at": "Sun Mar 15 03:41:48 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033021576275460096",
+            "url": "https://pbs.twimg.com/media/HDa-WiqagAAbQgU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1503621835136462849",
+          "name": "fin",
+          "screen_name": "fi56622380",
+          "description": "立场不重要，事物的运行逻辑和内在规律才是更值得关注的部分 | \n\n读过三个不同专业的学位，体验过两个大洲的尘世生活，设计过一次火星车芯片，还没有去看过心心念念的冰川",
+          "followers_count": 44524,
+          "friends_count": 440,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 47,
+          "reply_count": 7,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033050304564896031",
+      "text": "程序员目前是 AI 提高生产力最大的群体，也是受 AI 裁员影响最大的群体",
+      "created_at": "Sun Mar 15 05:18:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033049190511816897",
+        "text": "@dotey @dongxi_nlp 整体来讲 真正玩得动AI,提高生产力的人 还是特别少的",
+        "created_at": "Sun Mar 15 05:14:33 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2019087570177757184",
+          "name": "Hakimi Mambo.AI🐈‍⬛",
+          "screen_name": "Hakimi_Mambo",
+          "description": "🦞 AI Engineer | Geek Thinker\n📝 AI Guide  | No Panic, Just Steps\n☕️ Handpicked AI tools | plain-language breakdowns\n🌱 OSS · Indie · Growth notes",
+          "followers_count": 63,
+          "friends_count": 106,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 22,
+        "reply_count": 24,
         "quote_count": 0
       }
     }
