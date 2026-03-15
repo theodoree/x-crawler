@@ -1,12 +1,110 @@
 {
   "date": "20260315",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-15T14:11:55.726934",
-  "tweet_count": 231,
-  "unique_tweet_count": 231,
-  "total_crawled": 427,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-03-15T16:08:54.816655",
+  "tweet_count": 233,
+  "unique_tweet_count": 233,
+  "total_crawled": 431,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2033212300056740267",
+      "text": "作者经验挺值得学习的，满满干货：先找到客户再帮客户解决问题，有怎么营销有技术分享\nAI Agent （不仅是OpenClaw）普及过程中机会还是很多的",
+      "created_at": "Sun Mar 15 16:02:42 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032820424678191137",
+        "text": "https://t.co/TuB20jUmg2",
+        "created_at": "Sat Mar 14 14:05:31 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1527820393314418690",
+          "name": "OneHopeA9",
+          "screen_name": "onehopeA9",
+          "description": "链上韭菜，反撸专业户\n打了一辈子工，这次我想让AI给我打工",
+          "followers_count": 13299,
+          "friends_count": 3232,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 166,
+          "favorite_count": 1032,
+          "reply_count": 162,
+          "quote_count": 51
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196971,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033209514439110749",
+      "text": "RT @dontbesilent: 干掉 AI 味，要干掉的不是修辞技巧，是作者和读者的权力关系\n\n【典型案例 1】\n\n「问题大概率不在龙虾本身，而在技能包」\n\n作者预设观众认为这件事情的答案是龙虾，然后否定观众，重新说这个事情的答案是技能包\n\n这个就是爹味，这个就是权威姿态…",
+      "created_at": "Sun Mar 15 15:51:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033105436891820309",
+        "text": "干掉 AI 味，要干掉的不是修辞技巧，是作者和读者的权力关系\n\n【典型案例 1】\n\n「问题大概率不在龙虾本身，而在技能包」\n\n作者预设观众认为这件事情的答案是龙虾，然后否定观众，重新说这个事情的答案是技能包\n\n这个就是爹味，这个就是权威姿态\n\n【典型案例 2】\n\n「那能不能自己做一个？能。而且比你想的简单得多」\n\n作者用自问自答的方式，再次预设观众的想法，然后告诉观众，观众的想法是对的。就像老师批孩子一样\n\n【典型案例 3】\n\n「很多人一听\"创建 Skill\"，脑子里浮现的画面是：……  实际完全不是这样」\n\n作者不仅要预设观众的答案，还要预设观众脑子里的画面，然后对此加以批判\n\n——\n\n这个结构的意识形态名字叫代入式权威——作者闯进读者的意识里，抢先替读者想了一遍，然后以更高位置俯瞰这个想法\n\n真正的平等对话是：我说我看到的，你对照你的经验\n\nAI 式写作是：我先替你想，再告诉你你想错了，最后告诉你正确答案\n\n不是「你以为 X，其实是 Y」，而是直接说 Y\n\n不是「很多人觉得……实际上……」，而是直接说「实际上」\n\n去掉这个姿态，写作才回到它本来的样子",
+        "created_at": "Sun Mar 15 08:58:04 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1596695231717871616",
+          "name": "dontbesilent",
+          "screen_name": "dontbesilent",
+          "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+          "followers_count": 71826,
+          "friends_count": 1201,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 70,
+          "reply_count": 10,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196971,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2033169046712291734",
       "text": "RT @DJSnM: The computational power in your iPhone’s CHARGER is more than what was used to land on the moon.",
