@@ -1,12 +1,61 @@
 {
   "date": "20260315",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-15T20:07:33.876540",
-  "tweet_count": 238,
-  "unique_tweet_count": 238,
-  "total_crawled": 433,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-03-15T22:07:18.917015",
+  "tweet_count": 239,
+  "unique_tweet_count": 239,
+  "total_crawled": 438,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2033285895898497192",
+      "text": "RT @jakevin7: https://t.co/HITWWgkyeq",
+      "created_at": "Sun Mar 15 20:55:08 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2032342979890016561",
+        "text": "https://t.co/HITWWgkyeq",
+        "created_at": "Fri Mar 13 06:28:20 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1068172934630395904",
+          "name": "卡比卡比",
+          "screen_name": "jakevin7",
+          "description": "AI enthusiast ! Love open source! \nBlockChain Worker?ExDatabaseer.\nApache Arrow/Datafusion/Doris PMC member & Committer",
+          "followers_count": 10136,
+          "friends_count": 546,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 99,
+          "favorite_count": 582,
+          "reply_count": 37,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197003,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 99,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2033266160071028817",
       "text": "🤷‍♂️😂",

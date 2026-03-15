@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 197001,
+    "followers_count": 197003,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260315",
-  "last_updated": "2026-03-15T20:07:33.933916",
-  "tweet_count": 10,
+  "last_updated": "2026-03-15T22:07:18.949362",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2033034520060936370",
@@ -482,6 +482,45 @@
         "retweet_count": 0,
         "favorite_count": 3,
         "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033285895898497192",
+      "text": "RT @jakevin7: https://t.co/HITWWgkyeq",
+      "created_at": "Sun Mar 15 20:55:08 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2032342979890016561",
+        "text": "https://t.co/HITWWgkyeq",
+        "created_at": "Fri Mar 13 06:28:20 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1068172934630395904",
+          "name": "卡比卡比",
+          "screen_name": "jakevin7",
+          "description": "AI enthusiast ! Love open source! \nBlockChain Worker?ExDatabaseer.\nApache Arrow/Datafusion/Doris PMC member & Committer",
+          "followers_count": 10136,
+          "friends_count": 546,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 99,
+          "favorite_count": 582,
+          "reply_count": 37,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 99,
+        "favorite_count": 0,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
