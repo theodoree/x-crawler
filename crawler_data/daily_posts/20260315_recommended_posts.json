@@ -1,12 +1,183 @@
 {
   "date": "20260315",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-15T03:05:13.612044",
-  "tweet_count": 202,
-  "unique_tweet_count": 202,
-  "total_crawled": 400,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-03-15T04:48:56.645072",
+  "tweet_count": 205,
+  "unique_tweet_count": 205,
+  "total_crawled": 402,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2033039823787741394",
+      "text": "RT @dongxi_nlp: 本周最喜欢的一段话，来自梁海源。\n\n“ AI 像一列高速行驶的火车，印度的那种。\n\n少数几个人操作着火车头，大多数人被挤在狭窄的车厢里。\n\n还有更多人挂在火车外，假装自己也在车上。”",
+      "created_at": "Sun Mar 15 04:37:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2032581014078328866",
+        "text": "本周最喜欢的一段话，来自梁海源。\n\n“ AI 像一列高速行驶的火车，印度的那种。\n\n少数几个人操作着火车头，大多数人被挤在狭窄的车厢里。\n\n还有更多人挂在火车外，假装自己也在车上。”",
+        "created_at": "Fri Mar 13 22:14:11 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1477948736156454913",
+          "name": "马东锡 NLP",
+          "screen_name": "dongxi_nlp",
+          "description": "Prev. PhD @Stockholm_Uni | Alumni @KTHuniversity @uppsalauni Sharing insights on AI, autonomous agents, and large language & reasoning models",
+          "followers_count": 37388,
+          "friends_count": 949,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 58,
+          "favorite_count": 457,
+          "reply_count": 34,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196816,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 58,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033035104402936211",
+      "text": "RT @njukidreborn: 写的真好。编程珠玑番外篇读者必读 cc @dotey",
+      "created_at": "Sun Mar 15 04:18:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033032705978593669",
+        "text": "写的真好。编程珠玑番外篇读者必读 cc @dotey",
+        "created_at": "Sun Mar 15 04:09:03 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2033027083476054377",
+          "text": "https://t.co/inXqWdQSNy",
+          "created_at": "Sun Mar 15 03:46:43 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "732363",
+            "name": "Eric Xu (e/Mettā)",
+            "screen_name": "xleaps",
+            "description": "polymath, polyglot, root of a ternary tree.\n\nbuilding  https://t.co/GTxh2wWenp\n\nprev @Meta @Google @Reddit\n\n三脚猫 martial artist 🥋\n\nRookie pilot 🛩️",
+            "followers_count": 32857,
+            "friends_count": 3334,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 9,
+            "favorite_count": 46,
+            "reply_count": 6,
+            "quote_count": 3
+          }
+        },
+        "user": {
+          "id": "190219751",
+          "name": "Peng Lyu",
+          "screen_name": "njukidreborn",
+          "description": "Peng Lyu. Eng Manager VS @Code & Copilot. Busy making the best editor for all. And sometimes @proxmobo and @agmente",
+          "followers_count": 4336,
+          "friends_count": 699,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 6,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196816,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033034520060936370",
+      "text": "RT @xleaps: https://t.co/inXqWdQSNy",
+      "created_at": "Sun Mar 15 04:16:16 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2033027083476054377",
+        "text": "https://t.co/inXqWdQSNy",
+        "created_at": "Sun Mar 15 03:46:43 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "732363",
+          "name": "Eric Xu (e/Mettā)",
+          "screen_name": "xleaps",
+          "description": "polymath, polyglot, root of a ternary tree.\n\nbuilding  https://t.co/GTxh2wWenp\n\nprev @Meta @Google @Reddit\n\n三脚猫 martial artist 🥋\n\nRookie pilot 🛩️",
+          "followers_count": 32857,
+          "friends_count": 3334,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 46,
+          "reply_count": 6,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 196816,
+        "friends_count": 1584,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2033008730913259959",
       "text": "RT @Designarena: BREAKING: Grok Imagine by @xai takes 1st overall on Video Editing Arena, with an overall Elo of 1290.\n\nThe team's debut vi…",
