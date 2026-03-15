@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196987,
+    "followers_count": 197001,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260315",
-  "last_updated": "2026-03-15T18:10:01.591449",
-  "tweet_count": 9,
+  "last_updated": "2026-03-15T20:07:33.933916",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2033034520060936370",
@@ -437,6 +437,51 @@
         "retweet_count": 0,
         "favorite_count": 6,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033257233216131545",
+      "text": "哈哈，这个方法好，让AI帮你屏蔽X账号",
+      "created_at": "Sun Mar 15 19:01:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033220404555526154",
+        "text": "My openclaw twitter mention block cron job is working unreasonably well. Turns out AI is really good at detecting spam/reply guy/promo stuff.\n\nRuns every 5 min and cleans up my mentions - I actually see useful replies now and Twitter got pleasant again! https://t.co/eLoMM7zTNc",
+        "created_at": "Sun Mar 15 16:34:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033220095573663744",
+            "url": "https://pbs.twimg.com/media/HDdy54raoAAY1S_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "25401953",
+          "name": "Peter Steinberger 🦞",
+          "screen_name": "steipete",
+          "description": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "followers_count": 440145,
+          "friends_count": 2292,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 43,
+          "favorite_count": 1428,
+          "reply_count": 195,
+          "quote_count": 12
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 3,
         "quote_count": 0
       }
     }
