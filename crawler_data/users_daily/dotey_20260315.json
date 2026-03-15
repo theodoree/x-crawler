@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 196837,
+    "followers_count": 196862,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260315",
-  "last_updated": "2026-03-15T06:22:42.179370",
-  "tweet_count": 5,
+  "last_updated": "2026-03-15T08:12:12.137110",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2033034520060936370",
@@ -233,6 +233,132 @@
         "retweet_count": 0,
         "favorite_count": 22,
         "reply_count": 24,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033081066349564362",
+      "text": "RT @jarodise: Andrej Karpathy整的新活儿，不出意外应该是他用前几天刚刚弄好的AutoResearch做的。\n\n他扫描了全美342个行业的143万个职位，用可视化的方式呈现了它们被AI取代的可能性（1-10），绿色的代表不容易被替代，红色代表容易被替代…",
+      "created_at": "Sun Mar 15 07:21:13 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033046997209678214",
+        "text": "Andrej Karpathy整的新活儿，不出意外应该是他用前几天刚刚弄好的AutoResearch做的。\n\n他扫描了全美342个行业的143万个职位，用可视化的方式呈现了它们被AI取代的可能性（1-10），绿色的代表不容易被替代，红色代表容易被替代。目前整体平均值是4.9， 意味着一半左右的职位都是危。\n\n网址在这里：https://t.co/kYWnl10fNf",
+        "created_at": "Sun Mar 15 05:05:50 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033046617616691202",
+            "url": "https://pbs.twimg.com/media/HDbVII7aMAICbR7.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2032927164883153402",
+          "text": "5 minutes ago, @karpathy just dropped karpathy/jobs!\n\nhe scraped every job in the US economy (342 occupations from BLS), scored each one's AI exposure 0-10 using an LLM, and visualized it as a treemap.\n\nif your whole job happens on a screen you're cooked. \n\naverage score across all jobs is 5.3/10. \nsoftware devs: 8-9. \nroofers: 0-1. \nmedical transcriptionists: 10/10 💀\n\nhttps://t.co/7MWRgdtLDI",
+          "created_at": "Sat Mar 14 21:09:40 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2032926909709819905",
+              "url": "https://pbs.twimg.com/media/HDZoQOOWIAEO3Cs.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "966425219601707009",
+            "name": "Kaito | 海斗",
+            "screen_name": "_kaitodev",
+            "description": "🇲🇦 | building the missing piece of video storytelling @joinodysser | prev. @_buildspace | 51.2k on IG | not from @uwaterloo",
+            "followers_count": 6334,
+            "friends_count": 1668,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 805,
+            "favorite_count": 6211,
+            "reply_count": 376,
+            "quote_count": 173
+          }
+        },
+        "user": {
+          "id": "10731742",
+          "name": "数字游民Jarod",
+          "screen_name": "jarodise",
+          "description": "👨🏿‍🔧曾经的石油工程师\n🪄现在的内容创作者\n🚩数字游民部落群主\n🌎在亚非欧拉北美都有深度旅居体验\n🧭如何成为数字游民?(置顶)",
+          "followers_count": 10457,
+          "friends_count": 1256,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 26,
+          "favorite_count": 158,
+          "reply_count": 9,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033084254070935630",
+      "text": "RT @luckytantanfu: 非常推荐这篇文章，作者逆向并实现了 Claude 的 generative UI。还是 AI 好玩儿呀，天天都有新东西\nhttps://t.co/6XwKSKMATH https://t.co/erQFZAkapb",
+      "created_at": "Sun Mar 15 07:33:53 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032970975726415874",
+          "url": "https://pbs.twimg.com/media/HDaQVM7aMAIiSGE.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2033046281388544432",
+        "text": "非常推荐这篇文章，作者逆向并实现了 Claude 的 generative UI。还是 AI 好玩儿呀，天天都有新东西\nhttps://t.co/6XwKSKMATH https://t.co/erQFZAkapb",
+        "created_at": "Sun Mar 15 05:03:00 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032970975726415874",
+            "url": "https://pbs.twimg.com/media/HDaQVM7aMAIiSGE.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2730863597",
+          "name": "Tantan Fu",
+          "screen_name": "luckytantanfu",
+          "description": "I build things. \n👾 https://t.co/8pt5newmi8  Create ChatGPT App in seconds\n✍️ https://t.co/WZcsFPhJzF Turn notion pages to blog, instantly\n🔍 https://t.co/xMT2actRQV 🔍",
+          "followers_count": 9081,
+          "friends_count": 4087,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 43,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 0,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
