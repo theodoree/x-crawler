@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236621293,
+    "followers_count": 236631930,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260315",
-  "last_updated": "2026-03-15T12:10:21.618873",
-  "tweet_count": 20,
+  "last_updated": "2026-03-15T14:11:55.759833",
+  "tweet_count": 24,
   "tweets": [
     {
       "id": "2033008480672690226",
@@ -979,6 +979,176 @@
       "quoted": null,
       "stats": {
         "retweet_count": 407,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033163843363610791",
+      "text": "The Age of the Last Men https://t.co/QnuVhYA7KU",
+      "created_at": "Sun Mar 15 12:50:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 702,
+        "favorite_count": 5213,
+        "reply_count": 1272,
+        "quote_count": 80
+      }
+    },
+    {
+      "id": "2033167175532654903",
+      "text": "RT @RestoreBritain_: A Restore Britain Government would defund the BBC. https://t.co/K63UGn7DSw",
+      "created_at": "Sun Mar 15 13:03:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2033086153738358784",
+          "url": "https://video.twimg.com/amplify_video/2033086153738358784/vid/avc1/1920x1080/EIQTgVvP-ZA4pNzQ.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2033086582429782521",
+        "text": "A Restore Britain Government would defund the BBC. https://t.co/K63UGn7DSw",
+        "created_at": "Sun Mar 15 07:43:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033086153738358784",
+            "url": "https://video.twimg.com/amplify_video/2033086153738358784/vid/avc1/1920x1080/EIQTgVvP-ZA4pNzQ.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1930183861176090624",
+          "name": "Restore Britain",
+          "screen_name": "RestoreBritain_",
+          "description": "Let’s Restore Britain. Join our party here:",
+          "followers_count": 323197,
+          "friends_count": 68,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1861,
+          "favorite_count": 16805,
+          "reply_count": 565,
+          "quote_count": 102
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1861,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033168451595014359",
+      "text": "RT @IraninSA: We received the letter of condolence from H. E. @CyrilRamaphosa following the martyrdom of Imam Khamenei.\nIran and South Afri…",
+      "created_at": "Sun Mar 15 13:08:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2029583322272223627",
+        "text": "We received the letter of condolence from H. E. @CyrilRamaphosa following the martyrdom of Imam Khamenei.\nIran and South Africa have deep-rooted friendship.",
+        "created_at": "Thu Mar 05 15:42:26 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "916586719692115968",
+          "name": "Iran Embassy SA",
+          "screen_name": "IraninSA",
+          "description": "Embassy of I.R.Iran in South Africa, Office: +27 (12) 001 0555  Email: pry.media@mfa.gov.ir  Website: https://t.co/ItHDw0aV3s",
+          "followers_count": 21643,
+          "friends_count": 83,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1742,
+          "favorite_count": 9163,
+          "reply_count": 770,
+          "quote_count": 211
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1742,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033169046712291734",
+      "text": "RT @DJSnM: The computational power in your iPhone’s CHARGER is more than what was used to land on the moon.",
+      "created_at": "Sun Mar 15 13:10:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033162884134416785",
+        "text": "The computational power in your iPhone’s CHARGER is more than what was used to land on the moon.",
+        "created_at": "Sun Mar 15 12:46:20 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2032806489585496075",
+          "text": "The computational power in your iPhone is &gt;100 million times more powerful than the computers that landed Apollo 11 on the Moon. And yet, most people use it primarily to argue with strangers on the internet.\n\nThe future's already here—we just need to deploy it better.",
+          "created_at": "Sat Mar 14 13:10:09 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "14710129",
+            "name": "Peter H. Diamandis, MD",
+            "screen_name": "PeterDiamandis",
+            "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+            "followers_count": 360732,
+            "friends_count": 809,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1153,
+            "favorite_count": 6470,
+            "reply_count": 726,
+            "quote_count": 74
+          }
+        },
+        "user": {
+          "id": "92356429",
+          "name": "Scott Manley",
+          "screen_name": "DJSnM",
+          "description": "Internet Rocket Scientist, Gamer, Astronomer, Dad, Scotsman, Pilot. Makes videos about space and science https://t.co/mLfUsogKq5",
+          "followers_count": 653759,
+          "friends_count": 668,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 298,
+          "favorite_count": 2178,
+          "reply_count": 282,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 298,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
