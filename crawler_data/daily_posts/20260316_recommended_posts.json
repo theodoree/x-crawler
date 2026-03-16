@@ -1,12 +1,159 @@
 {
   "date": "20260316",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-16T04:55:18.980306",
-  "tweet_count": 207,
-  "unique_tweet_count": 207,
-  "total_crawled": 404,
+  "last_crawl_time": "2026-03-16T06:33:33.759946",
+  "tweet_count": 210,
+  "unique_tweet_count": 210,
+  "total_crawled": 407,
   "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2033418877397238263",
+      "text": "RT @xxx111god: https://t.co/yg3kydpY2U",
+      "created_at": "Mon Mar 16 05:43:34 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2033261636195373123",
+        "text": "https://t.co/yg3kydpY2U",
+        "created_at": "Sun Mar 15 19:18:44 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2504912287",
+          "name": "Jason Zuo",
+          "screen_name": "xxx111god",
+          "description": "ADHD is the scheduler that never stops｜AI is the processor that never quits｜ INFP-A | Exploring, Investing, Learnings",
+          "followers_count": 2411,
+          "friends_count": 468,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 75,
+          "reply_count": 4,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197062,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033410934170153087",
+      "text": "Grok",
+      "created_at": "Mon Mar 16 05:12:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033399288932585940",
+        "text": "Wow.\n\nGrok watched this video and made a complete list of everything it saw: https://t.co/fqC1fuwhwX\n\nDo you have any idea how cool this is?\n\nIt read every poster.",
+        "created_at": "Mon Mar 16 04:25:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13348",
+          "name": "Robert Scoble",
+          "screen_name": "Scobleizer",
+          "description": "San Francisco/Silicon Valley AI | Robots, holodecks, BCIs, analysis of new things | Ex-Microsoft, Rackspace, Fast Company | Wrote eight books about the future.",
+          "followers_count": 566816,
+          "friends_count": 40194,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 39,
+          "favorite_count": 297,
+          "reply_count": 97,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236673907,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 447,
+        "favorite_count": 3978,
+        "reply_count": 1129,
+        "quote_count": 48
+      }
+    },
+    {
+      "id": "2033407384094142751",
+      "text": "RT @Pluvio9yte: 作为一个真正定制OpenClaw赚到钱的人，我想告诉大家市场没有这么魔幻，6位数的单子就是天花板甚至可遇不可求。\n\n超过6位数的预算公司根本不会对接到个人，普通人能接触到的定制部署天花板的应用场景就是小老板自己玩、电商提效、小众传媒公司用龙虾筛选…",
+      "created_at": "Mon Mar 16 04:57:53 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033406510282477635",
+        "text": "作为一个真正定制OpenClaw赚到钱的人，我想告诉大家市场没有这么魔幻，6位数的单子就是天花板甚至可遇不可求。\n\n超过6位数的预算公司根本不会对接到个人，普通人能接触到的定制部署天花板的应用场景就是小老板自己玩、电商提效、小众传媒公司用龙虾筛选KOL\n\n希望大家都不要被带偏，没有必要那么焦虑也没有必要一下涌入市场。\n真正的部署很累，累的程度胜于外包开发。需要不断对接需求调整需求不断增加Skills、调整Agent等配置文件。\n\n并且目前龙虾的部署市场已经接近尾声，目前各大厂商在下场做应用。",
+        "created_at": "Mon Mar 16 04:54:25 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1667439202357899267",
+          "name": "雪踏乌云",
+          "screen_name": "Pluvio9yte",
+          "description": "💻 大厂牛马 && 热衷实用的新鲜技术\n🌏 擅长Vibe coding && Prompt & && Agent \n🌊 持续分享各类Web出海、AI编程、AI实战、出海必备干货内容 \n📩 商务合作 | 咨询 👉🏻 https://t.co/NQFSgc8FrP",
+          "followers_count": 20803,
+          "friends_count": 660,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 34,
+          "reply_count": 4,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197062,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2033385703036576194",
       "text": "RT @pmarca: There is no substitute for the person who Knows What To Do.",
