@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 197146,
+    "followers_count": 197173,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260316",
-  "last_updated": "2026-03-16T14:29:54.943491",
-  "tweet_count": 9,
+  "last_updated": "2026-03-16T16:25:02.506555",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2033361892777832537",
@@ -320,6 +320,56 @@
       "quoted": null,
       "stats": {
         "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033580034573623308",
+      "text": "FxEmbed 是一个开源项目，解决的是 Twitter/X 和 Bluesky 链接在 Discord、Telegram 等平台上嵌入预览效果差的问题。\n\n用法很简单：在 https://t.co/t0q6HP7J5l 前加 fx，在 https://t.co/a4fuM5thPZ 前加 fixup，在 https://t.co/sVmx9cHEjg 前加 fx，链接就能正常展示视频、GIF、投票结果、引用推文、多图等内容。\n\n几个亮点功能：支持帖子翻译（链接末尾加 /en 等语言代码）、直接获取媒体文件链接、多图拼接mosaic模式、纯图/纯文字模式、Telegram 的 Instant View 线程展开，还会自动去除追踪参数。\n\n技术上用 TypeScript 写的 Cloudflare Worker，边缘计算架构，免费额度每天 10 万次请求。隐私方面也做得不错，没有日志、没有数据库、没有广告和追踪，Worker 本身跑完就释放内存，不留痕迹。\n\nMIT 协议开源，可以自己部署。",
+      "created_at": "Mon Mar 16 16:23:56 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2033579919834243073",
+          "url": "https://pbs.twimg.com/media/HDi6KagWYAEuGJw.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2033580013425942528",
+          "url": "https://pbs.twimg.com/media/HDi6P3KWYAAzOLD.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2033541757888287125",
+        "text": "推特长文可以通过这个接口抓取：https://t.co/AAiSC3gJN9",
+        "created_at": "Mon Mar 16 13:51:51 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1452169962286637059",
+          "name": "DinoDeer",
+          "screen_name": "xDinoDeer",
+          "description": "AI 狂热分子，广告爱好者，接地气的生意人。 No code more money.",
+          "followers_count": 24471,
+          "friends_count": 1305,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
