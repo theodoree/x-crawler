@@ -1,12 +1,165 @@
 {
   "date": "20260316",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-16T03:06:12.073865",
-  "tweet_count": 204,
-  "unique_tweet_count": 204,
-  "total_crawled": 400,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-03-16T04:55:18.980306",
+  "tweet_count": 207,
+  "unique_tweet_count": 207,
+  "total_crawled": 404,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2033385703036576194",
+      "text": "RT @pmarca: There is no substitute for the person who Knows What To Do.",
+      "created_at": "Mon Mar 16 03:31:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033357554403999860",
+        "text": "There is no substitute for the person who Knows What To Do.",
+        "created_at": "Mon Mar 16 01:39:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5943622",
+          "name": "Marc Andreessen 🇺🇸",
+          "screen_name": "pmarca",
+          "description": "Grand Theft Auto 6 (GTA 6) is officially scheduled to be released on November 19, 2026.",
+          "followers_count": 2273265,
+          "friends_count": 29159,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 698,
+          "favorite_count": 6062,
+          "reply_count": 525,
+          "quote_count": 86
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236673039,
+        "friends_count": 1297,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 698,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033385607771328737",
+      "text": "RT @elonmusk: @Asmongold @ComicDaveSmith America does not have “magic ground” that fundamentally changes who people are when they arrive he…",
+      "created_at": "Mon Mar 16 03:31:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033385386911871134",
+        "text": "@Asmongold @ComicDaveSmith America does not have “magic ground” that fundamentally changes who people are when they arrive here.\n\nIf we filter for high work ethic, talent &amp; trustworthiness, we will get that. \n\nIf we don’t, we will inherit all the problems of the countries those people are leaving. The end.",
+        "created_at": "Mon Mar 16 03:30:29 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 236673039,
+          "friends_count": 1297,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1587,
+          "favorite_count": 10364,
+          "reply_count": 1090,
+          "quote_count": 102
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236673039,
+        "friends_count": 1297,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1587,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033383517674221595",
+      "text": "Grok",
+      "created_at": "Mon Mar 16 03:23:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033372202817777802",
+        "text": "Too many headlines are only talking about how a man used ChatGPT to design a cancer vaccine for his dog\n\nBut the truth is Paul Conyngham himself stated that the final mRNA vaccine construct for his dog Rosie was actually designed by Grok\n\nThis fact is buried deep underground\n\nThe exact sequence that shrank her terminal tumor by 75%:\n- Sequenced the DNA: He paid $3,000 to sequence both her healthy genome and the tumor's DNA to find the damage\n\n- Analyzed the Mutations: Used AI tools like AlphaFold to compare the data and identify the cancer-specific mutated proteins\n\n- Designed with Grok: He leveraged Grok to design the final custom mRNA vaccine blueprint to target those exact mutations\n\n- Manufactured & Injected: He partnered with university researchers to manufacture the custom nanoparticle vaccine and successfully administered the doses\n\nEvery headline is pushing ChatGPT....but the final design that actually shrank the cancer by 75% was done by Grok",
+        "created_at": "Mon Mar 16 02:38:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033371615296380928",
+            "url": "https://pbs.twimg.com/media/HDf8tfoaYAAjD0Q.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 168149,
+          "friends_count": 1654,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 496,
+          "favorite_count": 2693,
+          "reply_count": 182,
+          "quote_count": 43
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236673039,
+        "friends_count": 1297,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2001,
+        "favorite_count": 14666,
+        "reply_count": 1554,
+        "quote_count": 96
+      }
+    },
     {
       "id": "2033375777098510418",
       "text": "如何用香蕉一个月赚到6位数？(全流程总结) by 古一\nhttps://t.co/ILvdHaCSqk",
