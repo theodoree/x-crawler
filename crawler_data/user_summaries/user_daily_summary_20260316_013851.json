@@ -1,0 +1,13 @@
+{
+  "summary_type": "user_daily",
+  "generation_time": "2026-03-16T01:38:51.128977",
+  "tweet_count": 11,
+  "summary": "**新工具/技术**（如有）\n- AutoResearch / karpathy/jobs：Karpathy 用 AutoResearch 扫描并给美国约143万个职位贴上 0–10 的 AI 曝光分，结果可视化为 treemap，便于判断行业/职位风险。  \n- Claude 的 generative UI（逆向实现）：有人逆向并复现了 Claude 的生成式界面，展示了通过界面设计把 LLM 能力产品化的可能性。  \n- OpenClaw + AI mention-block cron：用一个每 5 分钟跑一次的 AI 筛选器自动清理 Twitter 提及，显著降低垃圾/促销回复噪音。  \n- AI Agent 生态工具（泛指 OpenClaw 等）：多条推文指出 AI agent 工具正在落地，给垂直场景带来实用化机会。\n\n**核心观点/方法论**（如有）\n- 程序员是生产力提升和裁员冲击的“前线”群体：因为工作高度屏幕化，能最快被 AI 提升效率也最容易被替代，需优先考虑技能迁移与工具整合。  \n- 职位被 AI 替代的概率有可量化的分布：Karpathy 的可视化提示总体平均约 5/10，软件开发评分高（大约 8–9），提示组织与个人应基于数据做岗位调整与培训。  \n- 写作与权力关系的警示（dontbesilent）：批判“AI 式写作”的代入式权威姿态，强调写作者应回到平等对话而非预设读者并替其下结论。  \n- AI 带来的不平等与权力集中：比喻为“像高速火车”，少数掌控火车头，提醒关注治理、分配与包容性问题。\n\n**实践经验/案例**（如有）\n- 自动化清理提及的实用案例：用 AI 过滤 Twitter mentions 的 cron job 能把有意义回复提纯，提高信息效率。  \n- 谨防用 AI 做流量收割的垃圾账号：有人用模板+AI大量生成“裁员故事”以博流量，提醒对信息源做甄别。  \n- 找到客户再做产品的实战建议：先找明确客户痛点再用 AI/agent 去解决，能把技术优势直接转化为商业价值。  \n- 数据驱动的岗位策略：Karpathy 的岗位暴露可视化是公司/政策制定者做人员重构、培训与招聘优先级调整的参考工具。",
+  "metadata": {
+    "original_tweets": 3,
+    "retweets": 8,
+    "media_tweets": 1,
+    "data_hash": "3cf36960",
+    "user": "dotey"
+  }
+}
