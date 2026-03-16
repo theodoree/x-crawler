@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236660135,
+    "followers_count": 236670378,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260315",
-  "last_updated": "2026-03-15T22:07:18.960016",
-  "tweet_count": 28,
+  "last_updated": "2026-03-16T00:25:32.013453",
+  "tweet_count": 29,
   "tweets": [
     {
       "id": "2033008480672690226",
@@ -1350,6 +1350,59 @@
         "favorite_count": 13761,
         "reply_count": 1391,
         "quote_count": 53
+      }
+    },
+    {
+      "id": "2033322630129037386",
+      "text": "RT @dvorahfr: UPDATE Grok Imagine 💫✨️ https://t.co/T6AjEMCFRt",
+      "created_at": "Sun Mar 15 23:21:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2033269551920504832",
+          "url": "https://video.twimg.com/ext_tw_video/2033269551920504832/pu/vid/avc1/464x688/EO39YLFN7I9GJWM8.mp4?tag=22",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": {
+        "id": "2033269573403697425",
+        "text": "UPDATE Grok Imagine 💫✨️ https://t.co/T6AjEMCFRt",
+        "created_at": "Sun Mar 15 19:50:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033269551920504832",
+            "url": "https://video.twimg.com/ext_tw_video/2033269551920504832/pu/vid/avc1/464x688/EO39YLFN7I9GJWM8.mp4?tag=22",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 122529,
+          "friends_count": 3468,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 216,
+          "favorite_count": 1232,
+          "reply_count": 289,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 216,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
