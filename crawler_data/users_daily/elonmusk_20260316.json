@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236712566,
+    "followers_count": 236717788,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260316",
-  "last_updated": "2026-03-16T16:25:02.517695",
-  "tweet_count": 12,
+  "last_updated": "2026-03-16T18:22:14.027444",
+  "tweet_count": 13,
   "tweets": [
     {
       "id": "2033371330159227232",
@@ -580,6 +580,75 @@
         "favorite_count": 54847,
         "reply_count": 4130,
         "quote_count": 251
+      }
+    },
+    {
+      "id": "2033588487820349716",
+      "text": "RT @AlexanderPayton: People today forget or simply can’t believe how depraved Ehrlich really was:\n\nDemanded that the FCC require TV shows t…",
+      "created_at": "Mon Mar 16 16:57:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033582731901186370",
+        "text": "People today forget or simply can’t believe how depraved Ehrlich really was:\n\nDemanded that the FCC require TV shows to depict large families in a negative light, so that parents with multiple children would be shamed and ostracized by society.\n\nProposed forcibly sterilizing millions of Americans by poisoning the water supply to make them infertile. He couldn’t think of a drug to do it “safely,” but wanted to do it anyway. \n\nSupported actual forced sterilization campaigns in India and China, where millions of people \n\nWarned that population growth would lead to starvation, but also proposed cutting off food aid to “overpopulated” countries to reduce their populations… by starvation.",
+        "created_at": "Mon Mar 16 16:34:40 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2033431487115055365",
+          "text": "A man whose predictions were *wrong*, not “premature”, lived a long life being celebrated by outlets like the NYT - unlike those who suffered or never came to be because of his factually and morally wrong views. https://t.co/TXvh07rapN",
+          "created_at": "Mon Mar 16 06:33:40 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2033431482740461568",
+              "url": "https://pbs.twimg.com/media/HDgzKPPXUAAJLa5.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "28138103",
+            "name": "Peter Hague",
+            "screen_name": "peterrhague",
+            "description": "Solutionist. Astrophysics PhD and scientific software engineer. Dad of 2. Let’s colonise the solar system together. Please visit the link below to read my blog:",
+            "followers_count": 70964,
+            "friends_count": 3036,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 151,
+            "favorite_count": 1035,
+            "reply_count": 58,
+            "quote_count": 24
+          }
+        },
+        "user": {
+          "id": "312887209",
+          "name": "Payton Alexander",
+          "screen_name": "AlexanderPayton",
+          "description": "Space lawyer by trade. Conservative takes on politics, policy, and America’s future. @corbinmadisonr🤵‍♂️🤵‍♂️ @Harvard_Law ‘21 @EdinburghUni ‘14. Views my own.",
+          "followers_count": 31547,
+          "friends_count": 1951,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 679,
+          "favorite_count": 3322,
+          "reply_count": 374,
+          "quote_count": 40
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 679,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
