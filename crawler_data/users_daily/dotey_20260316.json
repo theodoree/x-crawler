@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 197062,
+    "followers_count": 197085,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260316",
-  "last_updated": "2026-03-16T06:33:33.786754",
-  "tweet_count": 5,
+  "last_updated": "2026-03-16T08:24:27.500782",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2033361892777832537",
@@ -204,6 +204,86 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2033437609460891883",
+      "text": "https://t.co/Rw6F1B1CVH",
+      "created_at": "Mon Mar 16 06:58:00 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 59,
+        "reply_count": 5,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2033439205783634355",
+      "text": "一个不给 AI 设限的案例：让 AI Agent 给文章自动抓取视频关键 Slides 帧，作为配图\n\n我引用的这篇文章有 16 张插图，每一张都是 codex app 帮我从演讲视频中截图抓取的，位置也是它选的，关键是抓的都挺好，把相应的幻灯片都抓下来了。只有 1 张我微调了一下。\n\n要知道我以前都是手动去截图的，得找半天，很麻烦。",
+      "created_at": "Mon Mar 16 07:04:20 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2033438744536326144",
+          "url": "https://pbs.twimg.com/media/HDg5w7iaoAAHKpb.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2033438942763139072",
+          "url": "https://pbs.twimg.com/media/HDg58d_XwAANk0E.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2033437609460891883",
+        "text": "https://t.co/Rw6F1B1CVH",
+        "created_at": "Mon Mar 16 06:58:00 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 197085,
+          "friends_count": 1585,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 59,
+          "reply_count": 5,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 27,
+        "reply_count": 10,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033441957985280451",
+      "text": "https://t.co/VBKHGAURCY",
+      "created_at": "Mon Mar 16 07:15:16 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 58,
+        "reply_count": 1,
+        "quote_count": 1
       }
     }
   ]

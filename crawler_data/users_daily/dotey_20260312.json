@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 197062,
+    "followers_count": 197085,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260312",
-  "last_updated": "2026-03-16T06:33:33.794187",
-  "tweet_count": 24,
+  "last_updated": "2026-03-16T08:24:27.508844",
+  "tweet_count": 25,
   "tweets": [
     {
       "id": "2031894425694019854",
@@ -774,6 +774,45 @@
         "retweet_count": 154,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2032166018257141902",
+      "text": "https://t.co/z7gwSiBc3M",
+      "created_at": "Thu Mar 12 18:45:09 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032153478496469333",
+        "text": "个人觉得 1. 首先我觉得并不是什么技术，而是心态与认知变化，要从底层理解LLM原理，并且要接受大部分传统程序员擅长的工作，恰好在被AI碾压的路径上，心态上要接受这个事实 2. 理解LLM的边界，并不是万能的，本质上是一个基于概率的生成器，所以不要想着在所有产品环节使用它 https://t.co/oLiFnXraWN在产品的应用分两层，第一是把AI引入到产品开发的过程中，降本增效放大生产力，第二是把AI潜入到产品本身，用AI来重构一些产品环节 4. 第一个层面需要扎实的软件工程基础，丰富的架构和review经验，可以端到端搭建基于AI的工作流，第二个层面需要去深度学习AI application layer 的基本原理和主流框架，比如langchain crewai pi 等等 5. 实际上一专多长的人才模型在AI时代会更明显，只有一专必被淘汰，只有多长必然只能泛泛而谈，沦为工具层user而不是builder",
+        "created_at": "Thu Mar 12 17:55:19 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "41020690",
+          "name": "Tomiezhang",
+          "screen_name": "tomiezhang",
+          "description": "A developer |  someone's father | Believe in the power of decentralization",
+          "followers_count": 290,
+          "friends_count": 480,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 10,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
         "quote_count": 0
       }
     },
