@@ -1,0 +1,85 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 236662459,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260316",
+  "last_updated": "2026-03-16T03:06:12.112715",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2033371330159227232",
+      "text": "RT @ZhibeiM: Being ranked #1 doesn’t mean we’re good enough. It only means we're more *reasonable* than others.\nThere’s still a lot of work…",
+      "created_at": "Mon Mar 16 02:34:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033351090029367785",
+        "text": "Being ranked #1 doesn’t mean we’re good enough. It only means we're more *reasonable* than others.\nThere’s still a lot of work to do.\n\nIf we’re not solving users’ problems, then we’re not good enough.\nIf you have any feedbacks on Video Editing, feel free to leave it in the comments. Thank you!",
+        "created_at": "Mon Mar 16 01:14:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2032987659468156947",
+          "text": "Grok Imagine ranked 1st on Video Editing on Design Arena.\n\nEdit cool scenes, add, remove, swap objects or characters, and more!\n\nTry it now on https://t.co/bm5hUgrzvE https://t.co/gMp7l3fwXK",
+          "created_at": "Sun Mar 15 01:10:03 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2032987496192368640",
+              "url": "https://video.twimg.com/amplify_video/2032987496192368640/vid/avc1/1080x1080/KC5nM0lra0Dm5PvW.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1720665183188922368",
+            "name": "Grok",
+            "screen_name": "grok",
+            "description": "https://t.co/fqNKQSiLQB\n@grok it",
+            "followers_count": 8424361,
+            "friends_count": 3,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 123,
+            "favorite_count": 746,
+            "reply_count": 217,
+            "quote_count": 28
+          }
+        },
+        "user": {
+          "id": "1919563992114331652",
+          "name": "Zhibei Ma",
+          "screen_name": "ZhibeiM",
+          "description": "Building Grok Imagine",
+          "followers_count": 1208,
+          "friends_count": 275,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 121,
+          "favorite_count": 856,
+          "reply_count": 222,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 121,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

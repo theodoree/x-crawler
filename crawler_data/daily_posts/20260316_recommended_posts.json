@@ -1,12 +1,239 @@
 {
   "date": "20260316",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-16T00:25:31.985341",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-16T03:06:12.073865",
+  "tweet_count": 204,
+  "unique_tweet_count": 204,
+  "total_crawled": 400,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2033375777098510418",
+      "text": "如何用香蕉一个月赚到6位数？(全流程总结) by 古一\nhttps://t.co/ILvdHaCSqk",
+      "created_at": "Mon Mar 16 02:52:18 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2018543701367357582",
+        "text": "https://t.co/gBrngkazF9",
+        "created_at": "Tue Feb 03 04:34:55 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1775864328887189504",
+          "name": "古一",
+          "screen_name": "MANISH1027512",
+          "description": "AI Photographer 📷 | Midjourney 咒术师 🧙‍♂️\n🏷️ 中推 Vibe Shooting 第一人 (自封，但认真)\n👨‍💻 左手代码，右手光影｜前资深测开\n🌟 探索 AI 生图/视频的极致美学\n🤝 正在孵化一个有温度又硬核的 AIGC 创作者社区",
+          "followers_count": 21934,
+          "friends_count": 454,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 461,
+          "favorite_count": 2918,
+          "reply_count": 157,
+          "quote_count": 75
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197041,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033375701932339517",
+      "text": "谢谢指正，我找到古一原始的那篇了，确实是复刻\nhttps://t.co/5TuDBDJHDo",
+      "created_at": "Mon Mar 16 02:52:00 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033372748135711038",
+        "text": "@dotey 虽说与利益无关，但显然标题党狠狠博人眼球了，有一点宝玉老师可能不知道哈，因为我也是特斯拉车主，国内很早就有5年0利率政策，还有2w国补政策，基本上7.99的首付，再减下来 花不了几个；还有一点哈，这篇文是1:1拆解复刻了 古一@MANISH1027512 的一篇 如何用香蕉🍌挣到6位数  那篇文章",
+        "created_at": "Mon Mar 16 02:40:16 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "725589139178045440",
+          "name": "PlayForge AI",
+          "screen_name": "94vanAI",
+          "description": "🌟 Manga-to-Real (The Dimensional Alchemist)\n🧠 AI Brain × ✍️ Prompt Grandmaster × 🎨 Anime Art Virtuoso\n— 📸 Pro Photorealistic Portraits | 🖍️ Top-Tier CG",
+          "followers_count": 8388,
+          "friends_count": 121,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197041,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033371330159227232",
+      "text": "RT @ZhibeiM: Being ranked #1 doesn’t mean we’re good enough. It only means we're more *reasonable* than others.\nThere’s still a lot of work…",
+      "created_at": "Mon Mar 16 02:34:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033351090029367785",
+        "text": "Being ranked #1 doesn’t mean we’re good enough. It only means we're more *reasonable* than others.\nThere’s still a lot of work to do.\n\nIf we’re not solving users’ problems, then we’re not good enough.\nIf you have any feedbacks on Video Editing, feel free to leave it in the comments. Thank you!",
+        "created_at": "Mon Mar 16 01:14:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2032987659468156947",
+          "text": "Grok Imagine ranked 1st on Video Editing on Design Arena.\n\nEdit cool scenes, add, remove, swap objects or characters, and more!\n\nTry it now on https://t.co/bm5hUgrzvE https://t.co/gMp7l3fwXK",
+          "created_at": "Sun Mar 15 01:10:03 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2032987496192368640",
+              "url": "https://video.twimg.com/amplify_video/2032987496192368640/vid/avc1/1080x1080/KC5nM0lra0Dm5PvW.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1720665183188922368",
+            "name": "Grok",
+            "screen_name": "grok",
+            "description": "https://t.co/fqNKQSiLQB\n@grok it",
+            "followers_count": 8424361,
+            "friends_count": 3,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 123,
+            "favorite_count": 746,
+            "reply_count": 217,
+            "quote_count": 28
+          }
+        },
+        "user": {
+          "id": "1919563992114331652",
+          "name": "Zhibei Ma",
+          "screen_name": "ZhibeiM",
+          "description": "Building Grok Imagine",
+          "followers_count": 1208,
+          "friends_count": 275,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 121,
+          "favorite_count": 856,
+          "reply_count": 222,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236662459,
+        "friends_count": 1297,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 121,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033361892777832537",
+      "text": "“完全不顾AI的可能性，只要求任务必达，结果AI就不断尝试各种途径满足她，最终突破预期”\n确实，有时候真的是使用的人给 AI 设限了，越是懂的有时候也是不敢放手试",
+      "created_at": "Mon Mar 16 01:57:07 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033352584778674438",
+        "text": "今天早晨老婆给我看了昨天她小龙虾夜里的工作结果，让我震惊要跪倒。我发现文科生狠起来用AI，在一种情况下会超过懂技术的人用：她完全不顾AI的可能性，只要求任务必达，结果AI就不断尝试各种途径满足她，最终突破预期。在操作AI方面，我要开始向老婆学习了。",
+        "created_at": "Mon Mar 16 01:20:08 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5709522",
+          "name": "Michael Anti",
+          "screen_name": "mranti",
+          "description": "安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",
+          "followers_count": 353507,
+          "friends_count": 11385,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 152,
+          "reply_count": 50,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197041,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 30,
+        "reply_count": 17,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2033322630129037386",
       "text": "RT @dvorahfr: UPDATE Grok Imagine 💫✨️ https://t.co/T6AjEMCFRt",
