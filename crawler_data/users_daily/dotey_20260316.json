@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 197117,
+    "followers_count": 197146,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260316",
-  "last_updated": "2026-03-16T12:17:59.833323",
-  "tweet_count": 8,
+  "last_updated": "2026-03-16T14:29:54.943491",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2033361892777832537",
@@ -284,6 +284,45 @@
         "favorite_count": 58,
         "reply_count": 1,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2033544445744787902",
+      "text": "RT @yan5xu: 下午和两个朋友先后聊完想明白一个事情\n垂类不要做 agent，agent 一定是通用的，或者类似于os。垂类要去给 agent 做应用，赋能 agent。\n最基础的是 skill，高级一点，把逻辑分装到内部，替调用 agent 省 token，再高级一点…",
+      "created_at": "Mon Mar 16 14:02:31 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033495066082505033",
+        "text": "下午和两个朋友先后聊完想明白一个事情\n垂类不要做 agent，agent 一定是通用的，或者类似于os。垂类要去给 agent 做应用，赋能 agent。\n最基础的是 skill，高级一点，把逻辑分装到内部，替调用 agent 省 token，再高级一点，把用户状态保存起来（状态就是 memory）",
+        "created_at": "Mon Mar 16 10:46:18 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "115897222",
+          "name": "yan5xu",
+          "screen_name": "yan5xu",
+          "description": "🤖 AI 野生研究员 | ex @ManusAI_HQ & @hey_im_monica\n推特内容仅代表个人观点，和公司无关",
+          "followers_count": 12615,
+          "friends_count": 434,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 61,
+          "reply_count": 7,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

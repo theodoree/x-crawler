@@ -1,12 +1,110 @@
 {
   "date": "20260316",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-16T12:17:59.775582",
-  "tweet_count": 220,
-  "unique_tweet_count": 220,
-  "total_crawled": 418,
+  "last_crawl_time": "2026-03-16T14:29:54.913187",
+  "tweet_count": 222,
+  "unique_tweet_count": 222,
+  "total_crawled": 420,
   "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2033544445744787902",
+      "text": "RT @yan5xu: 下午和两个朋友先后聊完想明白一个事情\n垂类不要做 agent，agent 一定是通用的，或者类似于os。垂类要去给 agent 做应用，赋能 agent。\n最基础的是 skill，高级一点，把逻辑分装到内部，替调用 agent 省 token，再高级一点…",
+      "created_at": "Mon Mar 16 14:02:31 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033495066082505033",
+        "text": "下午和两个朋友先后聊完想明白一个事情\n垂类不要做 agent，agent 一定是通用的，或者类似于os。垂类要去给 agent 做应用，赋能 agent。\n最基础的是 skill，高级一点，把逻辑分装到内部，替调用 agent 省 token，再高级一点，把用户状态保存起来（状态就是 memory）",
+        "created_at": "Mon Mar 16 10:46:18 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "115897222",
+          "name": "yan5xu",
+          "screen_name": "yan5xu",
+          "description": "🤖 AI 野生研究员 | ex @ManusAI_HQ & @hey_im_monica\n推特内容仅代表个人观点，和公司无关",
+          "followers_count": 12615,
+          "friends_count": 434,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 61,
+          "reply_count": 7,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197146,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033530483804717405",
+      "text": "Oscars have become unwatchable",
+      "created_at": "Mon Mar 16 13:07:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033352868426641517",
+        "text": "If the GODFATHER were made today it would NOT be eligible for an Oscar unless he transitioned to the Godmother and made someone an offer they couldn’t HEAR. You could still leave the gun but you couldn’t take the cannoli unless the baker supports gay marriage. RIP Hollywood.",
+        "created_at": "Mon Mar 16 01:21:16 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "261430373",
+          "name": "Jimmy Failla",
+          "screen_name": "jimmyfailla",
+          "description": "TV Host. Radio Host. Trophy Husband. - - - - - - - - Be a Republican or a Democrat, just don’t be a D**K",
+          "followers_count": 513520,
+          "friends_count": 933,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1922,
+          "favorite_count": 11726,
+          "reply_count": 519,
+          "quote_count": 90
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236705225,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4782,
+        "favorite_count": 54847,
+        "reply_count": 4130,
+        "quote_count": 251
+      }
+    },
     {
       "id": "2033507261382025407",
       "text": "RT @tetsuoai: Gn, 𝕏..·˚ ༘ ☾ ⋆｡˚ ☄︎\n\nGrok Imagine \"extend from frame\" 30 second continuous video.💫 https://t.co/XHrdpXhnZA",

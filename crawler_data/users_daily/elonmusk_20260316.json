@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236696753,
+    "followers_count": 236705225,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260316",
-  "last_updated": "2026-03-16T12:17:59.805008",
-  "tweet_count": 11,
+  "last_updated": "2026-03-16T14:29:54.954482",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2033371330159227232",
@@ -541,6 +541,45 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2033530483804717405",
+      "text": "Oscars have become unwatchable",
+      "created_at": "Mon Mar 16 13:07:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033352868426641517",
+        "text": "If the GODFATHER were made today it would NOT be eligible for an Oscar unless he transitioned to the Godmother and made someone an offer they couldn’t HEAR. You could still leave the gun but you couldn’t take the cannoli unless the baker supports gay marriage. RIP Hollywood.",
+        "created_at": "Mon Mar 16 01:21:16 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "261430373",
+          "name": "Jimmy Failla",
+          "screen_name": "jimmyfailla",
+          "description": "TV Host. Radio Host. Trophy Husband. - - - - - - - - Be a Republican or a Democrat, just don’t be a D**K",
+          "followers_count": 513520,
+          "friends_count": 933,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1922,
+          "favorite_count": 11726,
+          "reply_count": 519,
+          "quote_count": 90
+        }
+      },
+      "stats": {
+        "retweet_count": 4782,
+        "favorite_count": 54847,
+        "reply_count": 4130,
+        "quote_count": 251
       }
     }
   ]
