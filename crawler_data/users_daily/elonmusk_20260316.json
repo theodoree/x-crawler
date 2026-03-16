@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236718000,
+    "followers_count": 236725144,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260316",
-  "last_updated": "2026-03-16T20:12:26.880607",
-  "tweet_count": 13,
+  "last_updated": "2026-03-16T22:11:34.472784",
+  "tweet_count": 14,
   "tweets": [
     {
       "id": "2033371330159227232",
@@ -646,6 +646,45 @@
       "quoted": null,
       "stats": {
         "retweet_count": 679,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033667261438038460",
+      "text": "RT @pmarca: It is 100% true that great men and women of the past were not sitting around moaning about their feelings. I regret nothing.",
+      "created_at": "Mon Mar 16 22:10:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033632395732365590",
+        "text": "It is 100% true that great men and women of the past were not sitting around moaning about their feelings. I regret nothing.",
+        "created_at": "Mon Mar 16 19:52:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5943622",
+          "name": "Marc Andreessen 🇺🇸",
+          "screen_name": "pmarca",
+          "description": "Grand Theft Auto 6 (GTA 6) is officially scheduled to be released on November 19, 2026.",
+          "followers_count": 2279294,
+          "friends_count": 29165,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 375,
+          "favorite_count": 6344,
+          "reply_count": 829,
+          "quote_count": 204
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 375,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

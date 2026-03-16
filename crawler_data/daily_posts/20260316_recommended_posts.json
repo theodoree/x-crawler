@@ -1,12 +1,282 @@
 {
   "date": "20260316",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-16T20:12:26.839305",
-  "tweet_count": 227,
-  "unique_tweet_count": 227,
+  "last_crawl_time": "2026-03-16T22:11:34.442084",
+  "tweet_count": 231,
+  "unique_tweet_count": 231,
   "total_crawled": 427,
-  "duplicates_removed": 200,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2033667261438038460",
+      "text": "RT @pmarca: It is 100% true that great men and women of the past were not sitting around moaning about their feelings. I regret nothing.",
+      "created_at": "Mon Mar 16 22:10:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033632395732365590",
+        "text": "It is 100% true that great men and women of the past were not sitting around moaning about their feelings. I regret nothing.",
+        "created_at": "Mon Mar 16 19:52:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5943622",
+          "name": "Marc Andreessen 🇺🇸",
+          "screen_name": "pmarca",
+          "description": "Grand Theft Auto 6 (GTA 6) is officially scheduled to be released on November 19, 2026.",
+          "followers_count": 2279294,
+          "friends_count": 29165,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 375,
+          "favorite_count": 6344,
+          "reply_count": 829,
+          "quote_count": 204
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236725144,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 375,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033646439838912682",
+      "text": "codex终于支持subagent了",
+      "created_at": "Mon Mar 16 20:47:49 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033636701848174967",
+        "text": "Subagents are now available in Codex.\n\nYou can accelerate your workflow by spinning up specialized agents to:\n• Keep your main context window clean\n• Tackle different parts of a task in parallel\n• Steer individual agents as work unfolds https://t.co/QJC2ZYtYcA",
+        "created_at": "Mon Mar 16 20:09:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033636632155533312",
+            "url": "https://video.twimg.com/amplify_video/2033636632155533312/vid/avc1/1280x720/YS-bINcJSIt1Pq1Z.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1633874951508721686",
+          "name": "OpenAI Developers",
+          "screen_name": "OpenAIDevs",
+          "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+          "followers_count": 291096,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 271,
+          "favorite_count": 3375,
+          "reply_count": 193,
+          "quote_count": 171
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197190,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 13,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033646220061618453",
+      "text": "RT @mtrainier2020: 这个哥们牛逼plus啊。\n把一个 WebAssembly（WASM）解释器 hard-coded的方式嵌入到了 Transformer 模型的权重里，而且是无损的（losslessly）。\n\n这相当于在 LLM 内部运行着一台真正的计算机。…",
+      "created_at": "Mon Mar 16 20:46:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033640996337291482",
+        "text": "这个哥们牛逼plus啊。\n把一个 WebAssembly（WASM）解释器 hard-coded的方式嵌入到了 Transformer 模型的权重里，而且是无损的（losslessly）。\n\n这相当于在 LLM 内部运行着一台真正的计算机。\n这台计算机可以 实际执行计算（run computations），而不是像现在大多数模型那样，只是通过infer来给出计算结果。\n\n这个思路有点类似于TI的dsp芯片，\narm负责逻辑思维，然后dsp专门负责高速数据计算。各取所长。\n\n那么类比一下，LLM 老算不清3.11 与3.8哪个大的问题可以通过构建一种 混合架构（hybrid architectures）：\n\n1. 神经网络 负责 推理和理解（reasoning）\n2. 嵌入式解释器 / 计算引擎 负责 高精度计算\n\n这样就能同时兼顾 智能推理能力 和 确定性计算精度。\n\n这对，数值计算，物理模拟，金融建模，密码学运算有很大好处。",
+        "created_at": "Mon Mar 16 20:26:11 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033640992411422720",
+            "url": "https://pbs.twimg.com/media/HDjxtTlbEAAoFOB.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2031845134577406426",
+          "text": "1/4 LLMs solve research grade math problems but struggle with basic calculations. We bridge this gap by turning them to computers.\n\nWe built a computer INSIDE a transformer that can run programs for millions of steps in seconds solving even the hardest Sudokus with 100% accuracy https://t.co/yZSlVpAXGh",
+          "created_at": "Wed Mar 11 21:30:04 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2031842818713358336",
+              "url": "https://video.twimg.com/amplify_video/2031842818713358336/vid/avc1/1500x920/y2OoHe6IYxB-g180.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "193377392",
+            "name": "Christos Tzamos",
+            "screen_name": "ChristosTzamos",
+            "description": "Founding Researcher at Percepta, Associate Professor at University of Athens, Lead Researcher at Archimedes, MIT PhD",
+            "followers_count": 21703,
+            "friends_count": 120,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 664,
+            "favorite_count": 5164,
+            "reply_count": 207,
+            "quote_count": 283
+          }
+        },
+        "user": {
+          "id": "1141738094485315584",
+          "name": "Rainier",
+          "screen_name": "mtrainier2020",
+          "description": "Cogito, ergo sum",
+          "followers_count": 139470,
+          "friends_count": 998,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 16,
+          "favorite_count": 70,
+          "reply_count": 7,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197190,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033640478348922910",
+      "text": "RT @mtrainier2020: A ResNet is an LSTM rotated 90 degrees\n\n把网络的计算过程想象成一个表格\n- 横轴是time step，\n这是 RNN / LSTM 的天然维度  \n- 纵轴是depth / layer index…",
+      "created_at": "Mon Mar 16 20:24:07 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033634252315881766",
+        "text": "A ResNet is an LSTM rotated 90 degrees\n\n把网络的计算过程想象成一个表格\n- 横轴是time step，\n这是 RNN / LSTM 的天然维度  \n- 纵轴是depth / layer index\n\n传统 LSTM：沿着横向（时间）走很深，每一步都依赖上一时间步的隐藏状态（有遗忘门、输入门等机制）\n- 传统 ResNet：沿着纵向（层）走很深，每一层都把上一层的输出加回来（残差连接）\n\n如果把这个表格整体顺时针/逆时针旋转 90°，横竖轴互换：\n\n- LSTM 就变成了“很多层、每层只走一个时间步”的样子 → 很像 ResNet\n- ResNet 就变成了“只有一个‘深度’，但沿着时间走很长”的样子 → 很像 RNN\n\n所以才有了那句“ResNet 是 LSTM 旋转 90 度”的说法，本质是时间维度和深度维度的对偶性。\n\nkimi 这篇文章大家都说是attention 旋转 90 度。\n\n其实就是把上面这个思想再往前推一步：\nResNet 的残差连接是“上一层 → 加到下一层”\n那么能不能attention也干类似的事情呢？\n\n让当前 token 去 attend 到前面所有层的同位置隐藏状态，而不是只 attend 同层别的 token。\n\n相当于把 attention 的计算轴也“旋转”了一下：\n- 传统 multi-head attention：同一层内，token 之间 attend（横向）\n- “90° rotated attention”：同一 token 在不同层之间 attend（纵向），或者混合使用\n具体操作，搞了一个Block AttnRes的东西。\n\n这样就得到了一种新的残差形式Residual Attention 。\n而且这个东西，其他公司很小改动就能放进去用drop in。\n\n这个改进，效果杠杠的。",
+        "created_at": "Mon Mar 16 19:59:23 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033634247765069826",
+            "url": "https://pbs.twimg.com/media/HDjrkt0bEAI44pK.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2033625183949631839",
+          "text": "FYI",
+          "created_at": "Mon Mar 16 19:23:21 +0000 2026",
+          "lang": "qst",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1141738094485315584",
+            "name": "Rainier",
+            "screen_name": "mtrainier2020",
+            "description": "Cogito, ergo sum",
+            "followers_count": 139470,
+            "friends_count": 998,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "reply_count": 0,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "1141738094485315584",
+          "name": "Rainier",
+          "screen_name": "mtrainier2020",
+          "description": "Cogito, ergo sum",
+          "followers_count": 139470,
+          "friends_count": 998,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 32,
+          "reply_count": 1,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197190,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2033607625104101552",
       "text": "宝可梦GO玩家抓了十年皮卡丘，顺便给送餐机器人画了张地图\n\nPokémon Go 背后的公司 Niantic 本周宣布，将与送餐机器人公司 Coco Robotics 合作，用一项名为 VPS（视觉定位系统）的导航技术帮机器人送外卖。这项技术的训练数据，来自 Pokémon Go 玩家十年间用手机摄像头拍下的超过 300 亿张图像。\n\nVPS 的原理和 GPS 不同。GPS 靠卫星信号定位，在高楼密集的城市里经常飘移不准；VPS 则是\"看一眼周围的建筑和地标，就知道自己在哪\"，精度据称可以达到厘米级。而 Pokémon Go 恰好是理想的数据来源——玩家为了抓宝可梦，必须亲自走到指定地点，举着手机从各种角度扫描周围环境。2020 年游戏还专门加了个\"实地调查\"功能，鼓励玩家扫描现实中的雕像和地标来换游戏奖励。玩家不知道的是，这些扫描数据正在构建真实世界的 3D 模型。\n\nNiantic CEO John Hanke 的说法：让皮卡丘在现实场景里逼真地跑来跑去，和让机器人在街上准确导航，本质上是同一个问题。\n\n这件事更值得关注的是它揭示的模式：用户为了一个目的贡献的数据，多年后被悄悄用于完全不同的用途。\n\n类似的事并不新鲜，Google 的 CAPTCHA 验证码让用户点选交通灯和自行车，长期被怀疑用来训练 AI 视觉模型；地图工具 Waze 的用户数据也被曝出曾被执法部门获取。而一个能通过照片中的地标精确定位拍摄位置的系统，对执法机构的吸引力不难想象。\n\nNiantic 把这次合作定位为构建一张\"活地图\"的长期计划的一部分。送餐机器人上路后，还会持续采集新数据反哺模型，和自动驾驶公司 Waymo、特斯拉的数据飞轮逻辑如出一辙。Pokémon Go 巅峰期月活 2.3 亿，现在仍有约 5000 万活跃玩家，数据量不是问题。\n\n相关新闻：https://t.co/jEczsUn5Rj",
