@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236688003,
+    "followers_count": 236696753,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260316",
-  "last_updated": "2026-03-16T10:24:15.415193",
-  "tweet_count": 9,
+  "last_updated": "2026-03-16T12:17:59.805008",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2033371330159227232",
@@ -434,6 +434,110 @@
       "quoted": null,
       "stats": {
         "retweet_count": 271,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033506809471000587",
+      "text": "RT @DefiantLs: 💯 https://t.co/BYoaTiZMQa",
+      "created_at": "Mon Mar 16 11:32:58 +0000 2026",
+      "lang": "qme",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2033479453121409024",
+          "url": "https://pbs.twimg.com/media/HDheye1bcAAFnp8.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2033490961272348853",
+        "text": "💯 https://t.co/BYoaTiZMQa",
+        "created_at": "Mon Mar 16 10:30:00 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033479453121409024",
+            "url": "https://pbs.twimg.com/media/HDheye1bcAAFnp8.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1390762874809761793",
+          "name": "Defiant L’s",
+          "screen_name": "DefiantLs",
+          "description": "Exposing hypocrisy, one day at a time. | DM submissions",
+          "followers_count": 1717903,
+          "friends_count": 183,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 461,
+          "favorite_count": 3313,
+          "reply_count": 214,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 461,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033507261382025407",
+      "text": "RT @tetsuoai: Gn, 𝕏..·˚ ༘ ☾ ⋆｡˚ ☄︎\n\nGrok Imagine \"extend from frame\" 30 second continuous video.💫 https://t.co/XHrdpXhnZA",
+      "created_at": "Mon Mar 16 11:34:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2028735874113138688",
+          "url": "https://video.twimg.com/amplify_video/2028735874113138688/vid/avc1/752x416/Oens9gzffUbyK7B2.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": {
+        "id": "2028737230844710988",
+        "text": "Gn, 𝕏..·˚ ༘ ☾ ⋆｡˚ ☄︎\n\nGrok Imagine \"extend from frame\" 30 second continuous video.💫 https://t.co/XHrdpXhnZA",
+        "created_at": "Tue Mar 03 07:40:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2028735874113138688",
+            "url": "https://video.twimg.com/amplify_video/2028735874113138688/vid/avc1/752x416/Oens9gzffUbyK7B2.mp4?tag=24",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C · asm · AI & art via grok · @tetsuocorp · @7etsuo · @a_g_e_n_c\n\nAgenC //: 👾",
+          "followers_count": 231729,
+          "friends_count": 1040,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 239,
+          "favorite_count": 1912,
+          "reply_count": 347,
+          "quote_count": 49
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 239,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
