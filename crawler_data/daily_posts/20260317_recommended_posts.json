@@ -1,12 +1,1022 @@
 {
   "date": "20260317",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-17T14:26:57.318430",
-  "tweet_count": 234,
-  "unique_tweet_count": 234,
-  "total_crawled": 423,
-  "duplicates_removed": 189,
+  "last_crawl_time": "2026-03-17T16:26:32.915552",
+  "tweet_count": 252,
+  "unique_tweet_count": 252,
+  "total_crawled": 434,
+  "duplicates_removed": 182,
   "tweets": [
+    {
+      "id": "2033942904402808980",
+      "text": "It’s super easy!",
+      "created_at": "Tue Mar 17 16:25:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033941829616537665",
+        "text": "Grok Image Templates are here!\n\nI was serious when I said you can put yourself in ANY style. Now it’s easier than ever.\n\nTry it and show me what you’ve got.\n\nHere's how + examples ↓ https://t.co/ba9r59Jup7",
+        "created_at": "Tue Mar 17 16:21:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033938835827044353",
+            "url": "https://video.twimg.com/amplify_video/2033938835827044353/vid/avc1/1080x1080/Zi4r2SUHav4IE6C3.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1553043003496960000",
+          "name": "Dogan Ural",
+          "screen_name": "doganuraldesign",
+          "description": "Official Creative Ambassador @xAI / Designer / Creative Director / Latent Space Explorer / Dad",
+          "followers_count": 123066,
+          "friends_count": 634,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 2,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 18,
+        "reply_count": 6,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033942816704106987",
+      "text": "RT @DOGE: Good initiative by the @WhiteHouse.\n\nhttps://t.co/mkUbcgYd2Z",
+      "created_at": "Tue Mar 17 16:25:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033929364744618226",
+        "text": "Good initiative by the @WhiteHouse.\n\nhttps://t.co/mkUbcgYd2Z",
+        "created_at": "Tue Mar 17 15:32:03 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1856751787644260354",
+          "name": "Department of Government Efficiency",
+          "screen_name": "DOGE",
+          "description": "The people voted for major reform.",
+          "followers_count": 4800656,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 222,
+          "favorite_count": 1515,
+          "reply_count": 91,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 222,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033942703323680865",
+      "text": "RT @Rothmus: https://t.co/jd2YHxdlZs",
+      "created_at": "Tue Mar 17 16:25:03 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2033712894588731392",
+          "url": "https://pbs.twimg.com/media/HDkzGkEXwAABs72.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2033712897608613952",
+        "text": "https://t.co/jd2YHxdlZs",
+        "created_at": "Tue Mar 17 01:11:54 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033712894588731392",
+            "url": "https://pbs.twimg.com/media/HDkzGkEXwAABs72.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 653778,
+          "friends_count": 2777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 157,
+          "favorite_count": 1035,
+          "reply_count": 44,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 157,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033942205694353638",
+      "text": "RT @xiaohu: 迪士尼雪宝 Olaf 机器人\n\nOlaf 机器人的技术栈：\n\n硬件：肚子里装了 Jetson 计算机（NVIDIA 的边缘 AI 芯片）\n\n训练：在 Omniverse（NVIDIA的虚拟仿真平台）里学会走路，先在虚拟世界跑通，再迁移到真实机器人\n\n物理…",
+      "created_at": "Tue Mar 17 16:23:05 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033834776050954624",
+        "text": "迪士尼雪宝 Olaf 机器人\n\nOlaf 机器人的技术栈：\n\n硬件：肚子里装了 Jetson 计算机（NVIDIA 的边缘 AI 芯片）\n\n训练：在 Omniverse（NVIDIA的虚拟仿真平台）里学会走路，先在虚拟世界跑通，再迁移到真实机器人\n\n物理引擎：Newton 求解器，运行在 NVIDIA Warp 上（一个 Python物理模拟框架），跟 Disney 和 DeepMind 联合开发。让 Olaf能适应真实物理世界（地面摩擦、重心平衡等）\n\n整条链路：Omniverse 虚拟训练 → Newton/Warp 物理仿真 → Sim-to-Real 迁移 →Jetson 边缘推理 → 真实机器人行走\n\n语言和大脑应该是Deepmind 的 Gemini 模型",
+        "created_at": "Tue Mar 17 09:16:12 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033834612208844800",
+            "url": "https://video.twimg.com/amplify_video/2033834612208844800/vid/avc1/1920x1080/hXebCjGlWdNHhas3.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1764818331822182400",
+          "name": "小互",
+          "screen_name": "xiaohu",
+          "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+          "followers_count": 101796,
+          "friends_count": 1605,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 27,
+          "favorite_count": 163,
+          "reply_count": 9,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197395,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 27,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033941563324403969",
+      "text": "😑",
+      "created_at": "Tue Mar 17 16:20:32 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033568899502088365",
+        "text": "https://t.co/L1TpTu2fZ6",
+        "created_at": "Mon Mar 16 15:39:42 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033568811979558912",
+            "url": "https://video.twimg.com/amplify_video/2033568811979558912/vid/avc1/1080x1080/rH5S3hDhKGKwXrpq.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1113774893777084423",
+          "name": "Er K🚶",
+          "screen_name": "BekaarAaadmi",
+          "description": "Memes and Movies",
+          "followers_count": 15711,
+          "friends_count": 938,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 19946,
+          "favorite_count": 84691,
+          "reply_count": 183,
+          "quote_count": 787
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 292,
+        "favorite_count": 2742,
+        "reply_count": 425,
+        "quote_count": 20
+      }
+    },
+    {
+      "id": "2033941066400076274",
+      "text": "https://t.co/o5vUcRh2Nd",
+      "created_at": "Tue Mar 17 16:18:33 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2033941063153684483",
+          "url": "https://pbs.twimg.com/media/HDoCnuNbEAMttWa.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 947,
+        "favorite_count": 10557,
+        "reply_count": 1272,
+        "quote_count": 78
+      }
+    },
+    {
+      "id": "2033939351563080062",
+      "text": "iOS App Review delays are getting ridiculous",
+      "created_at": "Tue Mar 17 16:11:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033931821260648659",
+        "text": "iOS developers: How long is App Review taking for everyone these days? \n\nIt is now taking longer to get our app approved than it is to build the actual features.",
+        "created_at": "Tue Mar 17 15:41:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "636513296",
+          "name": "Nikita Bier",
+          "screen_name": "nikitabier",
+          "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+          "followers_count": 889779,
+          "friends_count": 2029,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 96,
+          "favorite_count": 2273,
+          "reply_count": 873,
+          "quote_count": 62
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 298,
+        "favorite_count": 3071,
+        "reply_count": 788,
+        "quote_count": 33
+      }
+    },
+    {
+      "id": "2033938785499771223",
+      "text": "2 heavy-class rocket flights in 10 hours",
+      "created_at": "Tue Mar 17 16:09:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033929120393138287",
+        "text": "SPACEX IS ON ABSOLUTE FIRE RIGHT NOW🔥\n\nTWO Falcon 9 launches in the last 10 HOURS\n- Starlink 17-24 from Vandenberg\n- Starlink 10-46 from Cape Canaveral\n\n50+ satellites dropped in one day like it’s nothing\n\nLiterally no one else can pull this off \n\nBut It's just another day at spaceX",
+        "created_at": "Tue Mar 17 15:31:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033929109261189120",
+            "url": "https://pbs.twimg.com/media/HDn3v6fXAAAwKcb.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 168901,
+          "friends_count": 1656,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 87,
+          "favorite_count": 513,
+          "reply_count": 75,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 774,
+        "favorite_count": 6825,
+        "reply_count": 875,
+        "quote_count": 34
+      }
+    },
+    {
+      "id": "2033928851395645790",
+      "text": "Good",
+      "created_at": "Tue Mar 17 15:30:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033922991193473392",
+        "text": "BREAKING: Trump says he will not endorse any Republican senator who votes against the SAVE America Act.",
+        "created_at": "Tue Mar 17 15:06:44 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1261335549215989760",
+          "name": "Polymarket",
+          "screen_name": "Polymarket",
+          "description": "The World's Largest Prediction Market. Trade politics, news, crypto, culture, sports, tech, & more. Discord: https://t.co/tzKrbDf7dZ",
+          "followers_count": 1245365,
+          "friends_count": 5585,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 300,
+          "favorite_count": 3493,
+          "reply_count": 287,
+          "quote_count": 70
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3881,
+        "favorite_count": 38281,
+        "reply_count": 1994,
+        "quote_count": 121
+      }
+    },
+    {
+      "id": "2033928531454095679",
+      "text": "RT @dvorahfr: GROK IMAGINE PROMPT TIP: \nThere's a very simple way to improve your prompts: use the prompts from the templates offered by Gr…",
+      "created_at": "Tue Mar 17 15:28:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033928030356197842",
+        "text": "GROK IMAGINE PROMPT TIP: \nThere's a very simple way to improve your prompts: use the prompts from the templates offered by Grok Imagine. \nThese templates provide a wealth of prompts available to everyone.\nTake a prompt and analyze it to understand the purpose of each word. \nFor example, I took the fish template and added a color change in the prompt using the video extension.",
+        "created_at": "Tue Mar 17 15:26:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033927983744815104",
+            "url": "https://video.twimg.com/ext_tw_video/2033927983744815104/pu/vid/avc1/720x1072/mEXmFGR53Ztpb1Jn.mp4?tag=22",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 123105,
+          "friends_count": 3472,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 151,
+          "favorite_count": 804,
+          "reply_count": 174,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 150,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033928468866711839",
+      "text": "RT @america: Oscars: ID required.\n\nVoting in America: No ID required.",
+      "created_at": "Tue Mar 17 15:28:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033620254119666071",
+        "text": "Oscars: ID required.\n\nVoting in America: No ID required.",
+        "created_at": "Mon Mar 16 19:03:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2033611357522993591",
+          "text": "You have to show ID to attend the Oscars\n\nThat’s … so Jim Crow",
+          "created_at": "Mon Mar 16 18:28:24 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1551266822460162051",
+            "name": "Mike Lee",
+            "screen_name": "BasedMikeLee",
+            "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+            "followers_count": 671098,
+            "friends_count": 3806,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1319,
+            "favorite_count": 8723,
+            "reply_count": 152,
+            "quote_count": 27
+          }
+        },
+        "user": {
+          "id": "1841988608825466880",
+          "name": "America",
+          "screen_name": "america",
+          "description": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+          "followers_count": 1196199,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1266,
+          "favorite_count": 10529,
+          "reply_count": 224,
+          "quote_count": 35
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1266,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033928197017113043",
+      "text": "RT @art_muse: Try Grok Imagine for different art styles\n\nEmbroidery style 🌼 https://t.co/IR4R9TINig",
+      "created_at": "Tue Mar 17 15:27:25 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2033814677189197826",
+          "url": "https://video.twimg.com/amplify_video/2033814677189197826/vid/avc1/720x1066/4OoJhK6nA0uRWRFh.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2033814743522177257",
+        "text": "Try Grok Imagine for different art styles\n\nEmbroidery style 🌼 https://t.co/IR4R9TINig",
+        "created_at": "Tue Mar 17 07:56:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033814677189197826",
+            "url": "https://video.twimg.com/amplify_video/2033814677189197826/vid/avc1/720x1066/4OoJhK6nA0uRWRFh.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 17556,
+          "friends_count": 1292,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 131,
+          "favorite_count": 689,
+          "reply_count": 111,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 131,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033928150833631599",
+      "text": "RT @Rothmus: 🎯🎯🎯 https://t.co/Qn1tXaSzQm",
+      "created_at": "Tue Mar 17 15:27:14 +0000 2026",
+      "lang": "qme",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2033702190049628160",
+          "url": "https://pbs.twimg.com/media/HDkpXejXkAAsSCl.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2033702193740571121",
+        "text": "🎯🎯🎯 https://t.co/Qn1tXaSzQm",
+        "created_at": "Tue Mar 17 00:29:22 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033702190049628160",
+            "url": "https://pbs.twimg.com/media/HDkpXejXkAAsSCl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 653778,
+          "friends_count": 2777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1165,
+          "favorite_count": 16311,
+          "reply_count": 105,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1165,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033927806380605764",
+      "text": "RT @SpaceX: Falcon 9 launches 29 @Starlink satellites from Florida https://t.co/IR0izpiruf",
+      "created_at": "Tue Mar 17 15:25:52 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2033925732788015110",
+          "url": "https://pbs.twimg.com/media/HDn0rYJbEAYCrqt.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2033925774441648130",
+          "url": "https://pbs.twimg.com/media/HDn0tzUbEAI5q5l.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2033925861137608970",
+        "text": "Falcon 9 launches 29 @Starlink satellites from Florida https://t.co/IR0izpiruf",
+        "created_at": "Tue Mar 17 15:18:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033925732788015110",
+            "url": "https://pbs.twimg.com/media/HDn0rYJbEAYCrqt.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2033925774441648130",
+            "url": "https://pbs.twimg.com/media/HDn0tzUbEAI5q5l.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41267038,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 346,
+          "favorite_count": 2169,
+          "reply_count": 269,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 346,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033926137001480439",
+      "text": "RT @TeslaCharging: Free Supercharging temporarily enabled at\n\nDammam, Saudi Arabia https://t.co/v1WJf2nV1k\nJeddah, Saudi Arabia https://t.c…",
+      "created_at": "Tue Mar 17 15:19:14 +0000 2026",
+      "lang": "in",
+      "media": [],
+      "retweet": {
+        "id": "2033906033014317155",
+        "text": "Free Supercharging temporarily enabled at\n\nDammam, Saudi Arabia https://t.co/019CcdUeYX\nJeddah, Saudi Arabia https://t.co/BSEvodoHdd\nJeddah, Saudi Arabia - Al Ajawad Street https://t.co/4bUMLdkzF7\nJeddah, Saudi Arabia - Al Amir Sultan https://t.co/5SikFi3Q28\nRiyadh, Saudi Arabia https://t.co/TShaDju5q8\nTaif, Saudi Arabia https://t.co/CPknfO3uKy\nDoha, QA - Doha Festival City https://t.co/3ReeAgUUok\nAbu Dhabi, UAE - Al Dhanna https://t.co/OmWHLmGEd3\nAbu Dhabi, UAE - Al Maryah https://t.co/GpJIBVEFS2\nAbu Dhabi, UAE - Al Mirfa https://t.co/8sxdwbrhJX\nAbu Dhabi, UAE - Masdar Central Park https://t.co/GNx3ELmIQE\nAbu Dhabi, UAE - Masdar City Centre https://t.co/HW4KanKN0q\nAbu Dhabi, UAE - Yas Mall Hypermarket LG https://t.co/N1yrfm1NGR\nAbu Dhabi, UAE - Yas Mall Main Entrance https://t.co/l850joRLBM\nAjman, UAE - City Centre https://t.co/nJfxbei7Gl\nAl Ain, UAE https://t.co/OSKXxhRkCY\nAl Ain, UAE - Hazza Bin Zayed Stadium https://t.co/XT2Ui6xchm\nDubai, UAE - Abu Hail https://t.co/CCofvqYj8F\nDubai, UAE - Al Habtoor City https://t.co/3nFxStM4Kv\nDubai, UAE - Dubai Hills Grand Atrium https://t.co/gyOFNfb1Hn\nDubai, UAE - Dubai Hills Storm Coaster https://t.co/FBt3sjqpXm\nDubai, UAE - Dubai Mall Za’abeel https://t.co/de17cKHvPE\nDubai, UAE - Mall of Emirates https://t.co/sDgDlm7uGg\nDubai, UAE - Mall of Emirates https://t.co/3JE8nq8hts\nDubai, UAE - Meadows Village https://t.co/ax9dT8nZHi\nDubai, UAE - Wadi Al Safa https://t.co/6SIVl4vFjV\nDubai, UAE - Wafi City https://t.co/Vw3y3vaMMw\nFujairah, UAE https://t.co/EKAxvIQOpE\nHatta, UAE https://t.co/VwDYa3YOdh\nJebel Ali, UAE - Abu Dhabi bound https://t.co/kYdSf6DMi0\nJebel Ali, UAE - Dubai bound https://t.co/D2tmysppMi\nRas Al Khaimah, UAE – Al Naeem Mall https://t.co/YMBVWpFIai\nSharjah, UAE - City Centre https://t.co/JGIAyI3d9g\nSharjah, UAE - Rahmania Mall https://t.co/kfH6NDpG6w\nSharjah, UAE - Suyoh Mall https://t.co/iUWhEqu4J4",
+        "created_at": "Tue Mar 17 13:59:21 +0000 2026",
+        "lang": "in",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": null,
+          "text": "",
+          "created_at": null,
+          "lang": null,
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": null,
+          "stats": {
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "reply_count": 0,
+            "quote_count": 0
+          }
+        },
+        "user": {
+          "id": "1346535293449428992",
+          "name": "Tesla Charging",
+          "screen_name": "TeslaCharging",
+          "description": "New Superchargers and all things charging",
+          "followers_count": 279948,
+          "friends_count": 89,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 355,
+          "favorite_count": 2445,
+          "reply_count": 175,
+          "quote_count": 79
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 355,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033923452294598740",
+      "text": "RT @TheRabbitHole: Only Grok 4.20 follows the 3 Laws of Robotics:\n\n1) A robot may not injure a human being or, through inaction, allow a hu…",
+      "created_at": "Tue Mar 17 15:08:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033922534731858061",
+        "text": "Only Grok 4.20 follows the 3 Laws of Robotics:\n\n1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.\n2) A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.\n3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.",
+        "created_at": "Tue Mar 17 15:04:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033922530885640192",
+            "url": "https://pbs.twimg.com/media/HDnxxAIaIAAInib.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1093658,
+          "friends_count": 1805,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 292,
+          "favorite_count": 1420,
+          "reply_count": 306,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 292,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033922190333383090",
+      "text": "Grok can watch videos for you",
+      "created_at": "Tue Mar 17 15:03:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033893383417282750",
+        "text": "Grok can watch long videos for you and save your time.\n\n https://t.co/6AEGd64AFU",
+        "created_at": "Tue Mar 17 13:09:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2021749391602946048",
+            "url": "https://video.twimg.com/amplify_video/2021749391602946048/vid/avc1/1080x1080/yK-fDHQdDAGsYogf.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1846168,
+          "friends_count": 914,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 102,
+          "favorite_count": 524,
+          "reply_count": 195,
+          "quote_count": 35
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1053,
+        "favorite_count": 7086,
+        "reply_count": 2330,
+        "quote_count": 156
+      }
+    },
+    {
+      "id": "2033921389053493473",
+      "text": "RT @C_3C_3: Elon and DOGE were right about all the fraud.\n\nTrillions.",
+      "created_at": "Tue Mar 17 15:00:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033904930071761150",
+        "text": "Elon and DOGE were right about all the fraud.\n\nTrillions.",
+        "created_at": "Tue Mar 17 13:54:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2327400218",
+          "name": "C3",
+          "screen_name": "C_3C_3",
+          "description": "",
+          "followers_count": 307582,
+          "friends_count": 8719,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1531,
+          "favorite_count": 11934,
+          "reply_count": 412,
+          "quote_count": 47
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236780443,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1531,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2033911184097722638",
       "text": "所以我现在是什么事都跟 Agent 说，但是我会在执行任务后，引导它去写 Skills 或者更新 Skills",

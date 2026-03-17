@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 197364,
+    "followers_count": 197395,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260317",
-  "last_updated": "2026-03-17T14:26:57.349429",
-  "tweet_count": 9,
+  "last_updated": "2026-03-17T16:26:32.975745",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2033746560543076550",
@@ -291,6 +291,52 @@
       "quoted": null,
       "stats": {
         "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033942205694353638",
+      "text": "RT @xiaohu: 迪士尼雪宝 Olaf 机器人\n\nOlaf 机器人的技术栈：\n\n硬件：肚子里装了 Jetson 计算机（NVIDIA 的边缘 AI 芯片）\n\n训练：在 Omniverse（NVIDIA的虚拟仿真平台）里学会走路，先在虚拟世界跑通，再迁移到真实机器人\n\n物理…",
+      "created_at": "Tue Mar 17 16:23:05 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033834776050954624",
+        "text": "迪士尼雪宝 Olaf 机器人\n\nOlaf 机器人的技术栈：\n\n硬件：肚子里装了 Jetson 计算机（NVIDIA 的边缘 AI 芯片）\n\n训练：在 Omniverse（NVIDIA的虚拟仿真平台）里学会走路，先在虚拟世界跑通，再迁移到真实机器人\n\n物理引擎：Newton 求解器，运行在 NVIDIA Warp 上（一个 Python物理模拟框架），跟 Disney 和 DeepMind 联合开发。让 Olaf能适应真实物理世界（地面摩擦、重心平衡等）\n\n整条链路：Omniverse 虚拟训练 → Newton/Warp 物理仿真 → Sim-to-Real 迁移 →Jetson 边缘推理 → 真实机器人行走\n\n语言和大脑应该是Deepmind 的 Gemini 模型",
+        "created_at": "Tue Mar 17 09:16:12 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033834612208844800",
+            "url": "https://video.twimg.com/amplify_video/2033834612208844800/vid/avc1/1920x1080/hXebCjGlWdNHhas3.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1764818331822182400",
+          "name": "小互",
+          "screen_name": "xiaohu",
+          "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+          "followers_count": 101796,
+          "friends_count": 1605,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 27,
+          "favorite_count": 163,
+          "reply_count": 9,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 27,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
