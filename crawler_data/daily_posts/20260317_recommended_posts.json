@@ -1,12 +1,141 @@
 {
   "date": "20260317",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-17T04:41:32.441255",
-  "tweet_count": 203,
-  "unique_tweet_count": 203,
-  "total_crawled": 401,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-03-17T06:24:42.674062",
+  "tweet_count": 206,
+  "unique_tweet_count": 206,
+  "total_crawled": 403,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2033782492407243172",
+      "text": "https://t.co/UqfukjY7CU",
+      "created_at": "Tue Mar 17 05:48:26 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033780859799773616",
+        "text": "@dotey 实测下来 CLI 对 Agent 友好的另一个原因：错误信息结构化。\n\nGUI 报错是弹窗截图，Agent 看不懂；CLI 报错是 stderr + exit code，Agent 能直接解析并自动重试。\n\n我现在做自动化都优先找 CLI 工具，实在没有才用 Playwright 模拟点击。CLI 的可组合性（pipe + JSON）确实是 Agent 的原生语言。",
+        "created_at": "Tue Mar 17 05:41:57 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1486017329662423044",
+          "name": "lif cc",
+          "screen_name": "mylifcc",
+          "description": "每天用 AI 写代码的工程师 \nClaude Code ｜ Codex深度用户 | Agentic engineering\n在这里分享 AI 工具实测和开发者工作流",
+          "followers_count": 80,
+          "friends_count": 126,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197266,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033782436459348327",
+      "text": "https://t.co/HNszI0r8QK",
+      "created_at": "Tue Mar 17 05:48:13 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033776174627975553",
+        "text": "@dotey cli 不只赢在 --help，真正的杀手锏是 composability——pipe + JSON 输出天然就是 agent 的原生语言。钉钉做这步其实是承认了一个事实：GUI 从来都只是给人类的适配层，底层逻辑用命令表达最自然。接下来看谁先把整个 SaaS 的 API surface 全暴露成 CLI。",
+        "created_at": "Tue Mar 17 05:23:20 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1723524087241465856",
+          "name": "Noah",
+          "screen_name": "Noahhh1005",
+          "description": "AI Product Manager turned indie dev. Ship fast with Claude Code & vibe coding. Obsessed with AI-native workflows.",
+          "followers_count": 84,
+          "friends_count": 86,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197266,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033774136510583149",
+      "text": "软件为 Agent 重写，这个趋势正在加速😂\n\ncli 的天然优势就是 --help 就可以看到文档，skill.md 都不需要 https://t.co/9RXtWjpCKH",
+      "created_at": "Tue Mar 17 05:15:14 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2033773653675106304",
+          "url": "https://pbs.twimg.com/media/HDlqXNTaYAAh2wt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197266,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 59,
+        "reply_count": 17,
+        "quote_count": 2
+      }
+    },
     {
       "id": "2033756387658899796",
       "text": "RT @yan5xu: https://t.co/3276u89I8M",
