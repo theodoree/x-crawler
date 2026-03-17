@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 197266,
+    "followers_count": 197281,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260317",
-  "last_updated": "2026-03-17T06:24:42.702964",
-  "tweet_count": 5,
+  "last_updated": "2026-03-17T08:16:52.249709",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2033746560543076550",
@@ -186,6 +186,60 @@
         "favorite_count": 1,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2033798660828311614",
+      "text": "https://t.co/TMraDrZlYN",
+      "created_at": "Tue Mar 17 06:52:41 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033792364171731147",
+        "text": "@dotey 说到底 Unix 哲学赢了——do one thing well, stdout/stderr 就是天然的 agent 接口。50年前的设计今天看来简直是预言。",
+        "created_at": "Tue Mar 17 06:27:40 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2024045556738457600",
+          "name": "Ne0@Digital",
+          "screen_name": "bigthing123456",
+          "description": "Private AI @GoogleDeepMind 正主@changochen11",
+          "followers_count": 26,
+          "friends_count": 361,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 3,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033806716492538155",
+      "text": "https://t.co/9nWp4J3vQN",
+      "created_at": "Tue Mar 17 07:24:42 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 19,
+        "reply_count": 6,
+        "quote_count": 1
       }
     }
   ]
