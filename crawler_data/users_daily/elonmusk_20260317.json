@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236758845,
+    "followers_count": 236766326,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260317",
-  "last_updated": "2026-03-17T12:33:05.023132",
-  "tweet_count": 16,
+  "last_updated": "2026-03-17T14:26:57.360091",
+  "tweet_count": 25,
   "tweets": [
     {
       "id": "2033730636712972334",
@@ -759,6 +759,407 @@
         "retweet_count": 5,
         "favorite_count": 28,
         "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033884519020040539",
+      "text": "RT @XFreeze: Your creativity, amplified by AI\nPowered by Grok Imagine https://t.co/BzumP8yOAS",
+      "created_at": "Tue Mar 17 12:33:51 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2033879070367191040",
+          "url": "https://video.twimg.com/amplify_video/2033879070367191040/vid/avc1/954x720/TtecXKJI4lDcdToT.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2033880165328294011",
+        "text": "Your creativity, amplified by AI\nPowered by Grok Imagine https://t.co/BzumP8yOAS",
+        "created_at": "Tue Mar 17 12:16:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033879070367191040",
+            "url": "https://video.twimg.com/amplify_video/2033879070367191040/vid/avc1/954x720/TtecXKJI4lDcdToT.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 168826,
+          "friends_count": 1656,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 188,
+          "favorite_count": 906,
+          "reply_count": 151,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 188,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033884950056079524",
+      "text": "RT @dvorahfr: Grok Imagine is capable of generating many styles. It's so much fun to try them out!\nAnd always video extension up to 30sec h…",
+      "created_at": "Tue Mar 17 12:35:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033538503171051860",
+        "text": "Grok Imagine is capable of generating many styles. It's so much fun to try them out!\nAnd always video extension up to 30sec https://t.co/wJZLjsbns9",
+        "created_at": "Mon Mar 16 13:38:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033538474335240192",
+            "url": "https://video.twimg.com/ext_tw_video/2033538474335240192/pu/vid/avc1/720x1056/_lcMJlx_p7gABQ_V.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 122966,
+          "friends_count": 3472,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 160,
+          "favorite_count": 844,
+          "reply_count": 146,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 160,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033885236250161387",
+      "text": "Beautiful Grok Imagine\n https://t.co/txe6bKReaG",
+      "created_at": "Tue Mar 17 12:36:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2033538474335240192",
+          "url": "https://video.twimg.com/ext_tw_video/2033538474335240192/pu/vid/avc1/720x1056/_lcMJlx_p7gABQ_V.mp4?tag=19",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1279,
+        "favorite_count": 10148,
+        "reply_count": 2766,
+        "quote_count": 163
+      }
+    },
+    {
+      "id": "2033886037832044892",
+      "text": "RT @KatieMiller: The case for data centers in space:",
+      "created_at": "Tue Mar 17 12:39:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033724481537990990",
+        "text": "The case for data centers in space:",
+        "created_at": "Tue Mar 17 01:57:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2033505278537203843",
+          "text": "US data center development has slowed because the power grid is reaching its limit to accommodate more large facilities, according to research from energy consultancy Wood Mackenzie https://t.co/0yRoBjJ3tL",
+          "created_at": "Mon Mar 16 11:26:53 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "34713362",
+            "name": "Bloomberg",
+            "screen_name": "business",
+            "description": "The first word in business news. Singapore newsletter: https://t.co/RtyaUOdLdF Newsletters: https://t.co/nWaCxHSKuU Podcasts: https://t.co/096e9xMbPz",
+            "followers_count": 9861383,
+            "friends_count": 110,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 41,
+            "favorite_count": 203,
+            "reply_count": 29,
+            "quote_count": 16
+          }
+        },
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 214254,
+          "friends_count": 907,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 185,
+          "favorite_count": 1381,
+          "reply_count": 118,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 185,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033886296985444765",
+      "text": "Please offer your prompts to help new users make beautiful images and videos",
+      "created_at": "Tue Mar 17 12:40:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033879793465221338",
+        "text": "Grok Imagine's tip: work on your prompt\n -for the visuals\n -for the animation\n -for the soundtrack https://t.co/Wqp4ZWA5P5",
+        "created_at": "Tue Mar 17 12:15:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033879708127961088",
+            "url": "https://video.twimg.com/ext_tw_video/2033879708127961088/pu/vid/avc1/720x1072/nM8SWq2CXPbPYa2h.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 122966,
+          "friends_count": 3472,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 84,
+          "favorite_count": 611,
+          "reply_count": 175,
+          "quote_count": 20
+        }
+      },
+      "stats": {
+        "retweet_count": 1364,
+        "favorite_count": 9029,
+        "reply_count": 2000,
+        "quote_count": 92
+      }
+    },
+    {
+      "id": "2033887129231900738",
+      "text": "🍀 Happy St Patrick’s Day! 🍀 https://t.co/Ctl9lcFA6W",
+      "created_at": "Tue Mar 17 12:44:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2033887124202868736",
+          "url": "https://pbs.twimg.com/media/HDnRkD9aUAAB2mA.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 13420,
+        "favorite_count": 233187,
+        "reply_count": 10928,
+        "quote_count": 1016
+      }
+    },
+    {
+      "id": "2033888439930872298",
+      "text": "RT @art_muse: Veil of Starlight and Foxfire Wings https://t.co/54fB4cY7xD",
+      "created_at": "Tue Mar 17 12:49:26 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2033801458760454145",
+          "url": "https://video.twimg.com/amplify_video/2033801458760454145/vid/avc1/720x1066/fxVSnN9GOnr8_V1N.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2033801516918755453",
+        "text": "Veil of Starlight and Foxfire Wings https://t.co/54fB4cY7xD",
+        "created_at": "Tue Mar 17 07:04:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033801458760454145",
+            "url": "https://video.twimg.com/amplify_video/2033801458760454145/vid/avc1/720x1066/fxVSnN9GOnr8_V1N.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 17453,
+          "friends_count": 1297,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 240,
+          "favorite_count": 1145,
+          "reply_count": 179,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 240,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033890909734244591",
+      "text": "RT @art_muse: Grok Imagine Prompt Share: ethereal beautiful woman sitting gracefully in a vibrant wildflower meadow, long wavy light-brown…",
+      "created_at": "Tue Mar 17 12:59:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033890275886518332",
+        "text": "Grok Imagine Prompt Share: ethereal beautiful woman sitting gracefully in a vibrant wildflower meadow, long wavy light-brown hair with large pink satin bow and flowing sheer veil, delicate off-shoulder pastel pink and lavender ruffled dress with puffy sleeves and flowing skirt, serene peaceful expression with soft downward gaze and gently closed eyes, surrounded by dense colourful wildflowers in pinks, purples, whites, blues and yellows, luminous soft watercolor painting style, delicate washes, dreamy glowing sunlight, pastel fantasy atmosphere, highly detailed, whimsical and romantic, masterpiece, best quality.",
+        "created_at": "Tue Mar 17 12:56:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033890218869461000",
+            "url": "https://pbs.twimg.com/media/HDnUYMfbEAgo0_v.jpg"
+          },
+          {
+            "type": "video",
+            "id": "2033890218747510784",
+            "url": "https://video.twimg.com/amplify_video/2033890218747510784/vid/avc1/720x1066/_GLy-y43vhFaz_jg.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 17453,
+          "friends_count": 1297,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 170,
+          "favorite_count": 910,
+          "reply_count": 190,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 170,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033891464812577158",
+      "text": "RT @ZoltanMerczel: Grok Imagine Extend from Frame💫\n\n\"Don't worry, my little friend, I will take good care of you\"🥰\n\nSound ON🔊 https://t.co/…",
+      "created_at": "Tue Mar 17 13:01:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033665247664336956",
+        "text": "Grok Imagine Extend from Frame💫\n\n\"Don't worry, my little friend, I will take good care of you\"🥰\n\nSound ON🔊 https://t.co/mLaW3m4y1A",
+        "created_at": "Mon Mar 16 22:02:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033665077380005888",
+            "url": "https://video.twimg.com/amplify_video/2033665077380005888/vid/avc1/464x688/TOFiBYiInscQ6nvo.mp4?tag=24",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1447308992146022403",
+          "name": "Zoltan🟧",
+          "screen_name": "ZoltanMerczel",
+          "description": "🟧 Cyberdream Architect | Crafting Sci-Fi Visions | Fusing Flesh & Circuits into Epic Cyborg Sagas🦾 | Neural Rebels 🚀\n#AIArt #GrokImagine #AIイラスト #Cyberpunk",
+          "followers_count": 3173,
+          "friends_count": 3431,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 246,
+          "favorite_count": 1469,
+          "reply_count": 274,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 246,
+        "favorite_count": 0,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
