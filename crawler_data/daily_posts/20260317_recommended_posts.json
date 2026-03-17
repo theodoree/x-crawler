@@ -1,12 +1,288 @@
 {
   "date": "20260317",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-17T16:26:32.915552",
-  "tweet_count": 252,
-  "unique_tweet_count": 252,
-  "total_crawled": 434,
-  "duplicates_removed": 182,
+  "last_crawl_time": "2026-03-17T18:21:39.988541",
+  "tweet_count": 259,
+  "unique_tweet_count": 259,
+  "total_crawled": 452,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2033964049927634947",
+      "text": "Back when it was an open source nonprofit …",
+      "created_at": "Tue Mar 17 17:49:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033935694641451445",
+        "text": "\"Our most important consideration is recruiting the best people. The output of any company is the vector sum of the people within it.\" \n\n- @elonmusk https://t.co/NgetAvmzaj",
+        "created_at": "Tue Mar 17 15:57:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033935691659284480",
+            "url": "https://pbs.twimg.com/media/HDn9vD1XEAA8tFF.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14377979",
+          "name": "Eric Jorgenson 📚 ☀️",
+          "screen_name": "EricJorgenson",
+          "description": "Collector of useful ideas.\nCEO @Scribemediaco (we help ppl write books)\nWrote books of @Naval, @Balajis, @elonmusk.\nInvest in @aaloatomics @terraformindies etc",
+          "followers_count": 77847,
+          "friends_count": 4146,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 32,
+          "favorite_count": 264,
+          "reply_count": 48,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236783232,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 752,
+        "favorite_count": 6142,
+        "reply_count": 998,
+        "quote_count": 46
+      }
+    },
+    {
+      "id": "2033961966402998635",
+      "text": "Happened again",
+      "created_at": "Tue Mar 17 17:41:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033954298082558239",
+        "text": "BREAKING: William Kelso Flournoy, a man pretending to be a woman, was arrested in WA state after he allegedly R*PED an infant girl.\n\nWhy does this keep on happening?! https://t.co/iHnp9VF1gP",
+        "created_at": "Tue Mar 17 17:11:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033954238074875904",
+            "url": "https://pbs.twimg.com/media/HDoOmmnacAAuQoR.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1326229737551912960",
+          "name": "Libs of TikTok",
+          "screen_name": "libsoftiktok",
+          "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+          "followers_count": 4725742,
+          "friends_count": 1060,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3081,
+          "favorite_count": 8055,
+          "reply_count": 1361,
+          "quote_count": 418
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236783232,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4715,
+        "favorite_count": 29456,
+        "reply_count": 2624,
+        "quote_count": 216
+      }
+    },
+    {
+      "id": "2033956889869095395",
+      "text": "RT @SawyerMerritt: NEWS: Globe Telecom said it has successfully tested Starlink’s Mobile service in the Philippines, allowing phones to con…",
+      "created_at": "Tue Mar 17 17:21:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033912866114347148",
+        "text": "NEWS: Globe Telecom said it has successfully tested Starlink’s Mobile service in the Philippines, allowing phones to connect in areas with no signal. The pilot was done in Rizal, Batangas, and Bataan, where users were able to send messages, make calls, and use data even without nearby cell towers.\n\n\"This will be our lifeline, especially during disasters and our complementary coverage in areas where terrestrial network is not available,\" said Joel Agustin, Senior Vice President for Service Planning and Engineering at Globe.\n\n\"The service will also address the connectivity requirements of GIDA (Geographically Isolated and Disadvantaged Areas) communities and strengthen coverage across the country's territorial boundaries,\" he added.",
+        "created_at": "Tue Mar 17 14:26:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033912816072331265",
+            "url": "https://pbs.twimg.com/media/HDno7hobEAEvbAw.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1048932,
+          "friends_count": 439,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 241,
+          "favorite_count": 1430,
+          "reply_count": 153,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236783232,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 241,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033950998822359385",
+      "text": "Cool",
+      "created_at": "Tue Mar 17 16:58:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033949597714743339",
+        "text": "Ask Grok in xAI Docs is actually useful https://t.co/M0LdzJhC7b",
+        "created_at": "Tue Mar 17 16:52:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033949540772937729",
+            "url": "https://pbs.twimg.com/media/HDoKVLzXAAEtfVy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech",
+          "followers_count": 57160,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 19,
+          "favorite_count": 160,
+          "reply_count": 56,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236783232,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 785,
+        "favorite_count": 4971,
+        "reply_count": 1146,
+        "quote_count": 23
+      }
+    },
+    {
+      "id": "2033950816684642545",
+      "text": "RT @a16z: Katherine Boyle says SpaceX’s legacy will be the thousands of companies that spawn from the school of Elon Musk:\n\n\"What we've lea…",
+      "created_at": "Tue Mar 17 16:57:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033944182545650086",
+        "text": "Katherine Boyle says SpaceX’s legacy will be the thousands of companies that spawn from the school of Elon Musk:\n\n\"What we've learned from the SpaceX story is that these kinds of companies can be built.\"\n\n\"It is one of the most important companies in America. It's beloved by Americans across the country for what it's been able to achieve.\"\n\n\"The legacy of SpaceX is going to be hundreds, if not thousands of companies—people who've gone to the school of Elon Musk, they've learned manufacturing and they've built companies, and built products in a way that they can take to new companies in manufacturing and defense, and drones and hypersonics—all of these other categories that SpaceX doesn't do.\"\n\n\"We're incredibly excited about SpaceX. We're incredibly excited for what it's achieved for the American people and what it's going to lead to over the next 25 years.\"\n\n@KTmBoyle on @foxbusiness",
+        "created_at": "Tue Mar 17 16:30:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033944126711046144",
+            "url": "https://video.twimg.com/amplify_video/2033944126711046144/vid/avc1/1280x720/uHIt81Jq7qryhB61.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "64844802",
+          "name": "a16z",
+          "screen_name": "a16z",
+          "description": "we invest in software eating the world \nhttps://t.co/A9eTFq6plZ\nhttps://t.co/MXGUBJoesw\n\nWatch \"The Ben & Marc Show\": https://t.co/eRuDhx7kpe",
+          "followers_count": 948915,
+          "friends_count": 54,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 317,
+          "favorite_count": 1540,
+          "reply_count": 146,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236783232,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 317,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2033942904402808980",
       "text": "It’s super easy!",
@@ -4893,6 +5169,104 @@
         "favorite_count": 92,
         "reply_count": 30,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2033361396889460804",
+      "text": "FYI\nhttps://t.co/Bre4dRG9Gz",
+      "created_at": "Mon Mar 16 01:55:09 +0000 2026",
+      "lang": "und",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033361135311749505",
+        "text": "我估计再有一个月openclaw ，在国内的热度应该冷却了。\n这篇文章认真看完了，结合我自己的经历，整个春节每天其实都在 闲鱼接单openclaw的代部署和咨询， 最近也在做复盘。\n\n最大的问题就是我只是在X 分享，没有同步到小红书。 单子仅仅在闲鱼上接， 闲鱼本身就是一个交易市场，用户很容易去比价， 上闲鱼的本身就是对价格很敏感的用户群。很多客户一上来：别家多少钱。 能便宜点吗？迄今为止， 在闲鱼上， 我仅遇到了一个自己做老板的客户。 \n\n相反，小红书本身是社交媒体， 用户就没有闲鱼那么单一了， 毕竟有的老板也要刷小红书，也可能有这个需求，对价格不那么敏感， 那么单子的价格就会比闲鱼好很多，毕竟少了比价。 \n\n总结来说： 高价的单子 ，特别是技术的， 抖音， 小红书这些才是主战场。",
+        "created_at": "Mon Mar 16 01:54:07 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1949110751677046784",
+          "name": "有志出海",
+          "screen_name": "0xValkyrie_ai",
+          "description": "小厂资深测试开发 & AI 自动化专家&什么值得买生活家创作者 🛠️ 分享出海实战、工具教程 & 心理学洞见 | 探索副业理财之路 | |DM 交流 AI tips！|定投纳指标普坚定执行者|为即将被裁寻求出路",
+          "followers_count": 4382,
+          "friends_count": 711,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 22,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197408,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2033360692003180586",
+      "text": "我确实没求证真实性，也利益无关，如果有证据是假的请指正。\n\n我本来转发的重点就是只是放在借鉴经验思路上，不用都想着怎么去写小龙虾教程，还有一些其他可以做的事，不是去背书什么。\n\nhttps://t.co/blJnlSIMxo",
+      "created_at": "Mon Mar 16 01:52:21 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033353621304377468",
+        "text": "@dotey 宝玉老师，这个文章求证了么？要是没求证就发，这不好吧",
+        "created_at": "Mon Mar 16 01:24:15 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1222316538629279744",
+          "name": "贰万",
+          "screen_name": "ross_TNTT",
+          "description": "",
+          "followers_count": 13,
+          "friends_count": 1230,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197408,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 12,
+        "reply_count": 2,
+        "quote_count": 0
       }
     },
     {
