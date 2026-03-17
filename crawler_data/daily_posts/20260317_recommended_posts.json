@@ -1,12 +1,82 @@
 {
   "date": "20260317",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-17T18:21:39.988541",
-  "tweet_count": 259,
-  "unique_tweet_count": 259,
-  "total_crawled": 452,
-  "duplicates_removed": 193,
+  "last_crawl_time": "2026-03-17T20:19:00.476517",
+  "tweet_count": 260,
+  "unique_tweet_count": 260,
+  "total_crawled": 459,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2033982458237010227",
+      "text": "RT @bearliu: 终于收到我刚出版的书了。个人第三本书，也是第一本英文书：Dreamers at the Terminal《终端前的梦想家们》！\n\n包含了十四个上个世纪电脑黄金时代的故事。看我们现在熟悉的电子世界和现代世界是如何被这些先驱者们锻造的。… https://…",
+      "created_at": "Tue Mar 17 19:03:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2033706374769545245",
+        "text": "终于收到我刚出版的书了。个人第三本书，也是第一本英文书：Dreamers at the Terminal《终端前的梦想家们》！\n\n包含了十四个上个世纪电脑黄金时代的故事。看我们现在熟悉的电子世界和现代世界是如何被这些先驱者们锻造的。\n\n全篇从我在奥克兰的一次交通塞车开始，熟悉的现代世界暂停。让我去想，我们熟知的这些世界是怎么构成的？\n\n从硅谷的精神领袖罗伯特·诺伊斯，英特尔创始人，讲到我喜爱的电子游戏《超级玛丽》、《俄罗斯方块》和《毁灭战士》。\n\n也包含了三部对于现代电子社会影响深远的科幻作品分析：《银翼杀手》、《雪崩》和《安德的游戏》。\n\n我自己都佩服我前两年是怎么去做调研，把所有这些线索合拢到一起的。我也不算是个有耐心的人啊，但为了写这本书，自己买了几千块的原版书，并都读完。\n\n而且也挺奇怪，这本书没有出中文，却先出了英文版，哈哈。\n\n后面大家感兴趣，我再分享一下我是如何借助现代的工具，包括 AI，来完成复杂的校对、审核、验证等工作，用自己的非母语写书的。",
+        "created_at": "Tue Mar 17 00:45:58 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033706370361352194",
+            "url": "https://pbs.twimg.com/media/HDktKzbWYAIRXrX.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2033706370126467074",
+            "url": "https://pbs.twimg.com/media/HDktKyjWUAIiGzh.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2033706369690259456",
+            "url": "https://pbs.twimg.com/media/HDktKw7WUAA5Gim.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2033706371649073152",
+            "url": "https://pbs.twimg.com/media/HDktK4OXcAAJlAl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "259611996",
+          "name": "Bear Liu",
+          "screen_name": "bearliu",
+          "description": "Product Designer, 10 year+ podcaster and author of 2 books. Love things around design, tech and productivity, making JAM at https://t.co/ZhUT9zdkzg 🍯",
+          "followers_count": 113865,
+          "friends_count": 2690,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 218,
+          "reply_count": 29,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 197417,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2033964049927634947",
       "text": "Back when it was an open source nonprofit …",
