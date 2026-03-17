@@ -1,12 +1,67 @@
 {
   "date": "20260317",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-17T00:23:13.721163",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-17T03:01:05.129194",
+  "tweet_count": 201,
+  "unique_tweet_count": 201,
+  "total_crawled": 400,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2033730636712972334",
+      "text": "Wow",
+      "created_at": "Tue Mar 17 02:22:23 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2033383075422540105",
+        "text": "NYC spends more per homeless person than the median NYC household earns. $81,705 per person in FY2025.\n\nAnd $81,705 is a floor. It excludes supportive housing (~$500M/yr), mental health response teams, and NYPD encampment costs. \n\nThe city projects ~$97K per person in FY2026. https://t.co/haXJenA4Q3",
+        "created_at": "Mon Mar 16 03:21:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033383068464304128",
+            "url": "https://pbs.twimg.com/media/HDgHIKAb0AAWdoy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1706453934947110912",
+          "name": "Charlie Smirkley",
+          "screen_name": "charliesmirkley",
+          "description": "Politics + data + charts + randomness 📉 + nonsense",
+          "followers_count": 10504,
+          "friends_count": 2354,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1326,
+          "favorite_count": 5068,
+          "reply_count": 422,
+          "quote_count": 298
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236742062,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2714,
+        "favorite_count": 13776,
+        "reply_count": 1584,
+        "quote_count": 164
+      }
+    },
     {
       "id": "2033682837925466384",
       "text": "AI will be so beautiful",
