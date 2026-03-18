@@ -1,12 +1,92 @@
 {
   "date": "20260318",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-18T16:25:44.145278",
-  "tweet_count": 243,
-  "unique_tweet_count": 243,
-  "total_crawled": 435,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-03-18T18:31:33.922379",
+  "tweet_count": 245,
+  "unique_tweet_count": 245,
+  "total_crawled": 443,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2034320225533845778",
+      "text": "一个终端运行的开源视频剪辑工具，标记起始时间点，能导出可控制宽高比的剪辑片段。非常简洁\n\nhttps://t.co/I8y02OQx7Q https://t.co/UBGTBR9JUn",
+      "created_at": "Wed Mar 18 17:25:12 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "animated_gif",
+          "id": "2034319676520681473",
+          "url": "https://pbs.twimg.com/tweet_video_thumb/HDta966aUAE0Vr8.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 198066,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 16,
+        "reply_count": 5,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2034313430631346542",
+      "text": "RT @xleaps: 感谢 @yihong0618 的敦促, 把创业经历那篇文章贴上了博客.\n\n新 follow 我的推友: 博客上或许有些其他你感兴趣的其他内容\n\nhttps://t.co/YAf1XdZZD7",
+      "created_at": "Wed Mar 18 16:58:12 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2034304310394163203",
+        "text": "感谢 @yihong0618 的敦促, 把创业经历那篇文章贴上了博客.\n\n新 follow 我的推友: 博客上或许有些其他你感兴趣的其他内容\n\nhttps://t.co/YAf1XdZZD7",
+        "created_at": "Wed Mar 18 16:21:57 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "732363",
+          "name": "Eric Xu (e/Mettā)",
+          "screen_name": "xleaps",
+          "description": "polymath, polyglot, root of a ternary tree.\n\nbuilding  https://t.co/GTxh2wWenp\n\nprev @Meta @Google @Reddit\n\n三脚猫 martial artist 🥋\n\nRookie pilot 🛩️",
+          "followers_count": 34175,
+          "friends_count": 3366,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 16,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 198066,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2034301556246688205",
       "text": "What are your initial impressions of Grok 4.20?  \n\nMajor upgrades are still landing every week.",
