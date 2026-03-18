@@ -1,0 +1,19 @@
+**新工具/技术**  
+- OpenClaw / lossless-claw：lossless-claw 把每条消息存 SQLite、自动摘要成 DAG，不截断历史，代价是多用 token，但能避免 agent 因记忆丢失出错。  
+- qmd memory plugin：作为替代方案，用于改进 OpenClaw 的记忆/压缩策略（解决压缩后忘记问题）。  
+- NVIDIA Jetson + Omniverse + Newton/Warp + Gemini：迪士尼 Olaf 机器人链路：在 Omniverse 虚拟训练 → Newton/Warp 物理仿真 → Sim-to-Real 迁移 → Jetson 边缘推理，语言/大脑疑用 Gemini。  
+- Lenny 的 AI-friendly Markdown 数据集 + MCP server：350+ 篇 newsletter 和 300+ 期播客转录开源为 AI 友好格式，利于快速构建下游应用或 fine-tune。  
+- CLI / stdout-stderr + JSON pipe：把 SaaS API/功能以 CLI + JSON 输出暴露，天然支持 composability、可解析错误和自动化重试，是 agent 原生接口。
+
+**核心观点/方法论**  
+- Agent 暴增，SaaS 已平：用户（人类）DAU 已饱和，但 agent 数量有增长空间，创业机会更多在服务 agent 的增量市场。  
+- Agent 是用户、要做 agent-native 产品：面向 agent 设计（for agents + by agents），SaaS 可以把能力变成 skills 给 agent 调用，从而规模化。  
+- GUI 仍然关键（收钱入口）：尽管 agent 为主流，但人类付费、结账等场景仍需 GUI/Stripe 等人类路径来实现商业化。  
+- CLI/Unix 哲学重要性：do-one-thing-well + pipe/JSON/stdout-stderr，使工具可组合、错误结构化，天然适配 agent 自动化。  
+- 记忆管理：截断 vs 压缩的权衡——保留原始记录并用摘要 DAG 做 context，可以减少遗忘但需更多 token 资源。  
+- Agent/Skill/Script 金字塔方法论：优先用脚本自动化、脚本搞不定做 skill、真正复杂/动态的才用 agent；并让 agent 将重复流程沉淀为 skills。
+
+**实践经验/案例**  
+- 自动化优先找 CLI：工程师实测优先用 CLI 工具，没 CLI 再用 Playwright 模拟点击；CLI 的结构化错误便于 agent 解析并自动重试。  
+- 让 agent 写并更新 skills：实际做法是把任务先交给 agent 执行，执行后引导它把常用流程整理成可复用的 skills，形成闭环沉淀。  
+- 钉钉 / 企业接口演进：将 SaaS 的 API surface 暴露为 CLI（或更 agent-friendly 的接口）是较优策略，既保留人类 GUI，又服务大量 agent 调用。
