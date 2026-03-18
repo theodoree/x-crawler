@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 197924,
+    "followers_count": 197999,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260318",
-  "last_updated": "2026-03-18T14:31:27.107936",
-  "tweet_count": 2,
+  "last_updated": "2026-03-18T16:25:44.199252",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2034079281236627839",
@@ -86,6 +86,54 @@
         "retweet_count": 0,
         "favorite_count": 3,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034295730119311461",
+      "text": "不愧是央视制作，真的挺好看👍\nhttps://t.co/ZfERc0wc9K",
+      "created_at": "Wed Mar 18 15:47:52 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2034124017066774528",
+          "url": "https://video.twimg.com/amplify_video/2034124017066774528/vid/avc1/1920x1080/4c5jK6J4RLhH9Hqv.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 23,
+        "reply_count": 4,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2034299374172319875",
+      "text": "这造型都是花了功夫的😂 https://t.co/XDTGxaOlTm",
+      "created_at": "Wed Mar 18 16:02:20 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2034299144324464641",
+          "url": "https://pbs.twimg.com/media/HDtISyhXQAEUEa3.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2034299306375610369",
+          "url": "https://pbs.twimg.com/media/HDtIcONXgAEdglm.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
