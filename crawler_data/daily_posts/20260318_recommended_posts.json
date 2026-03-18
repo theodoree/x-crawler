@@ -1,12 +1,436 @@
 {
   "date": "20260318",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-18T06:25:30.418545",
-  "tweet_count": 202,
-  "unique_tweet_count": 202,
+  "last_crawl_time": "2026-03-18T08:17:19.945598",
+  "tweet_count": 210,
+  "unique_tweet_count": 210,
   "total_crawled": 402,
-  "duplicates_removed": 200,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2034179213755072570",
+      "text": "Winning an Oscar has become an embarrassment",
+      "created_at": "Wed Mar 18 08:04:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034073052506440054",
+        "text": "Oscar ratings decline in two decades:\n\n1996 - 45 million\n2006 - 36 million\n2016 - 34 million\n2026 - 17 million\n\nIt’s over for these networks. \n\nTV only exists anymore for live sports.",
+        "created_at": "Wed Mar 18 01:03:01 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "47048859",
+          "name": "Nick Kayal",
+          "screen_name": "NickKayal",
+          "description": "Host of @1210WPHT’s TOP rated show on @Audacy’s #1 Talk Station. Brilliantly entertaining & fearlessly authentic opinions since 2022. Member @BlueBellCC.",
+          "followers_count": 19793,
+          "friends_count": 3223,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 548,
+          "favorite_count": 10590,
+          "reply_count": 288,
+          "quote_count": 61
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236849046,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 331,
+        "favorite_count": 3338,
+        "reply_count": 712,
+        "quote_count": 27
+      }
+    },
+    {
+      "id": "2034178754646577226",
+      "text": "True",
+      "created_at": "Wed Mar 18 08:03:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034177721371127847",
+        "text": "@shaunmmaguire We don’t live in a Democracy if we don’t have integrity in our elections.",
+        "created_at": "Wed Mar 18 07:58:56 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 214320,
+          "friends_count": 908,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 16,
+          "favorite_count": 154,
+          "reply_count": 49,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236849046,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 283,
+        "favorite_count": 2380,
+        "reply_count": 469,
+        "quote_count": 15
+      }
+    },
+    {
+      "id": "2034178051077247448",
+      "text": "RT @Rothmus: https://t.co/mPYkVjbcnD",
+      "created_at": "Wed Mar 18 08:00:15 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2034042200061816832",
+          "url": "https://pbs.twimg.com/media/HDpemqjWsAAyROk.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2034042202540642787",
+        "text": "https://t.co/mPYkVjbcnD",
+        "created_at": "Tue Mar 17 23:00:26 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034042200061816832",
+            "url": "https://pbs.twimg.com/media/HDpemqjWsAAyROk.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 653905,
+          "friends_count": 2780,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 601,
+          "favorite_count": 14399,
+          "reply_count": 132,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236849046,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 601,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034171965083394123",
+      "text": "Troubling",
+      "created_at": "Wed Mar 18 07:36:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034047505336295904",
+        "text": "“The Effective Altruist movement has a structural problem when it comes to conservative America. Its donor class is all Bay Area progressives... Its policy agenda, which calls for sweeping AI regulation and content governance, reads to most conservatives as exactly what it is: a censorship power play dressed up in safety language. To move that agenda… the movement needed a vehicle that didn’t look like it came from them.”",
+        "created_at": "Tue Mar 17 23:21:30 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1137701",
+          "name": "David Sacks",
+          "screen_name": "DavidSacks",
+          "description": "Tech founder & investor. Personal views only. Official account: @davidsacks47",
+          "followers_count": 1463933,
+          "friends_count": 3465,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 167,
+          "favorite_count": 1279,
+          "reply_count": 127,
+          "quote_count": 20
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236849046,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 381,
+        "favorite_count": 2562,
+        "reply_count": 716,
+        "quote_count": 24
+      }
+    },
+    {
+      "id": "2034169794921165094",
+      "text": "RT @livingdevops: Dennis Ritchie created C in the early 1970s without Google, Stack Overflow, GitHub, or any AI ( Claude, Cursor, Codex) as…",
+      "created_at": "Wed Mar 18 07:27:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033876302097485924",
+        "text": "Dennis Ritchie created C in the early 1970s without Google, Stack Overflow, GitHub, or any AI ( Claude, Cursor, Codex) assistant.\n\n- No VC funding.\n- No viral launch.\n- No TED talk.\n- Just two engineers at Bell Labs. A terminal. And a problem to solve.\n\nHe built a language that fit in kilobytes.\n\n50 years later, it runs everything.\n\nLinux kernel. Windows. macOS.\n\nEvery iPhone. Every Android.\n\nNASA’s deep space probes.\n\nThe International Space Station.\n\n> Python borrowed from it.\n> Java borrowed from it.\n> JavaScript borrowed from it.\n\nIf you have ever written a single line of code in any language, you did it in Dennis Ritchie’s shadow.\n\nHe died in 2011. \nThe same week as Steve Jobs.\nJobs got the front pages.\nRitchie got silence.\n\nThis Legend deserves to be celebrated.",
+        "created_at": "Tue Mar 17 12:01:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2033871890918608905",
+            "url": "https://pbs.twimg.com/media/HDnDtXjbEAkYIYN.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1623980420235948034",
+          "name": "Akhilesh Mishra",
+          "screen_name": "livingdevops",
+          "description": "Founder LivingDevOps | DevOps Lead |Educator | Mentor | Tech Writer",
+          "followers_count": 20973,
+          "friends_count": 271,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2952,
+          "favorite_count": 14191,
+          "reply_count": 403,
+          "quote_count": 133
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236849046,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2952,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034168476559118401",
+      "text": "Matter,\nEnergy &amp;\nIntelligence",
+      "created_at": "Wed Mar 18 07:22:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236849046,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2025,
+        "favorite_count": 16158,
+        "reply_count": 4290,
+        "quote_count": 407
+      }
+    },
+    {
+      "id": "2034167679242940805",
+      "text": "RT @TrungTPhan: James Cameron has great explainer on how he made \"The Terminator\" (1984) for cheap:\n\n▫️approach the story as a low-budget h…",
+      "created_at": "Wed Mar 18 07:19:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2033670247648268606",
+        "text": "James Cameron has great explainer on how he made \"The Terminator\" (1984) for cheap:\n\n▫️approach the story as a low-budget horror slasher film \n▫️find areas with brightest street lights, to save money on lighting (\"used car lots were great because they cast enough light from their floodlights onto the streets\")\n▫️the casting of Arnold (he hadn't really broken through yet and was only paid $75,000 which worked out to $1,293 per word)\n\nThe horror approach also worked because they could shoot a lot of the film guerilla style (no permits) in dark alleyways and parking garages. Smartly, Cameron layered on the sci-fi backstory to make it higher concept (leading to the glorious T2 sequel).\n\nThere were also a lot of indoor shots (apartment, store, bar) that didn’t need permits.\n\nAt the time, 30-year old Cameron was living so frugally that his mom was sending him \"2-for-1 Big Mac coupons\" from McDonald's because she didn't think he was eating enough. \n\nThe film ultimately made $80 million globally on a $4.3 million budget, launching Cameron and Arnold's Hollywood careers.",
+        "created_at": "Mon Mar 16 22:22:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2033670029439586304",
+            "url": "https://video.twimg.com/amplify_video/2033670029439586304/vid/avc1/1578x888/XD819qM1HEft8a5l.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2033666281786757410",
+          "text": "The opening of TERMINATOR 2 cost more than the $6.4m budget of the entire first film. https://t.co/sRzkSW1Awe",
+          "created_at": "Mon Mar 16 22:06:39 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2033647281157677056",
+              "url": "https://video.twimg.com/amplify_video/2033647281157677056/vid/avc1/1204x776/05W_cujaImanjg59.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1419688307529818116",
+            "name": "All The Right Movies",
+            "screen_name": "ATRightMovies",
+            "description": "Listen to our podcast telling \"the story of Hollywood one film at a time.\" And read our making of threads, sourced direct from cast/crew or 3+ verified sources.",
+            "followers_count": 922870,
+            "friends_count": 291,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 79,
+            "favorite_count": 835,
+            "reply_count": 12,
+            "quote_count": 4
+          }
+        },
+        "user": {
+          "id": "945817135816654848",
+          "name": "Trung Phan",
+          "screen_name": "TrungTPhan",
+          "description": "Write on business with @workweekinc. Building a privacy-first AI research app @bearlyai.",
+          "followers_count": 725145,
+          "friends_count": 4261,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 372,
+          "favorite_count": 3327,
+          "reply_count": 127,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236849046,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 372,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034164342334407049",
+      "text": "RT @elonmusk: @nikitabier Hardly anyone knows that this epic sketch is the origin of the word spam in the context of email &amp; social media 😂…",
+      "created_at": "Wed Mar 18 07:05:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034164045025317242",
+        "text": "@nikitabier Hardly anyone knows that this epic sketch is the origin of the word spam in the context of email &amp; social media 😂\n\nhttps://t.co/uUOvD3nwNp",
+        "created_at": "Wed Mar 18 07:04:35 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 236849046,
+          "friends_count": 1298,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 306,
+          "favorite_count": 1655,
+          "reply_count": 634,
+          "quote_count": 38
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236849046,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 306,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2034093941142786176",
       "text": "没写好，应该是：\n“如果同一类要求反复让 Agent 做”\nhttps://t.co/ovpZZ6vXoE",
