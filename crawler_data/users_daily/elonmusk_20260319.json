@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236970130,
+    "followers_count": 236982426,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260319",
-  "last_updated": "2026-03-19T16:24:36.102480",
-  "tweet_count": 71,
+  "last_updated": "2026-03-19T18:18:54.878309",
+  "tweet_count": 72,
   "tweets": [
     {
       "id": "2034431924081774742",
@@ -3223,6 +3223,51 @@
       "quoted": null,
       "stats": {
         "retweet_count": 409,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034676439187124285",
+      "text": "RT @cb_doge: Global population to shrink this century as birth rate falls.\n\nThe world is set to have 200 mn fewer people than previously ex…",
+      "created_at": "Thu Mar 19 17:00:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034661773077615102",
+        "text": "Global population to shrink this century as birth rate falls.\n\nThe world is set to have 200 mn fewer people than previously expected by 2100. Fertility rates have fallen below the replacement rate in most continents. https://t.co/dZOKgMdWTb",
+        "created_at": "Thu Mar 19 16:02:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034661770779127808",
+            "url": "https://pbs.twimg.com/media/HDySGbVbcAAjXV0.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1847039,
+          "friends_count": 920,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 290,
+          "favorite_count": 1216,
+          "reply_count": 475,
+          "quote_count": 36
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 290,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
