@@ -1,12 +1,533 @@
 {
   "date": "20260319",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-19T00:24:23.366913",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-19T03:04:40.560888",
+  "tweet_count": 209,
+  "unique_tweet_count": 209,
+  "total_crawled": 400,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2034451759444475981",
+      "text": "RT @MichaelAArouet: There is a popular myth that Poland enjoys its economic miracle because it didn’t accept immigrants.\n\nIn reality, it di…",
+      "created_at": "Thu Mar 19 02:07:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034305705675534511",
+        "text": "There is a popular myth that Poland enjoys its economic miracle because it didn’t accept immigrants.\n\nIn reality, it did let them in, but unlike Western Europe, Poland offers no lavish welfare. Most immigrants work, integrate, and contribute to society. That’s the difference. https://t.co/PyNhbJYBRV",
+        "created_at": "Wed Mar 18 16:27:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034305700512346115",
+            "url": "https://pbs.twimg.com/media/HDtOQaOXMAMw2gb.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "898142955038543873",
+          "name": "Michael A. Arouet",
+          "screen_name": "MichaelAArouet",
+          "description": "Compounding. Economy & politics, investing, charts and irony. Born in Europe, made in USA. No investment advice. I’m not on Threads, Telegram, Bluesky etc.",
+          "followers_count": 201810,
+          "friends_count": 1264,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 494,
+          "favorite_count": 3518,
+          "reply_count": 295,
+          "quote_count": 40
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236924110,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 494,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034451587285012642",
+      "text": "RT @ArthurMacwaters: FSD is literally 8.1x safer than a human driver. \n\nAI healthcare will be end up being a similar multiple better than a…",
+      "created_at": "Thu Mar 19 02:07:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034449571175440431",
+        "text": "FSD is literally 8.1x safer than a human driver. \n\nAI healthcare will be end up being a similar multiple better than a human doctor. https://t.co/S2hE8K0eUu",
+        "created_at": "Thu Mar 19 01:59:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034448758545817600",
+            "url": "https://pbs.twimg.com/media/HDvQXe7boAACoky.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2034409522786337222",
+          "text": "Try Tesla FSD (self-driving)!",
+          "created_at": "Wed Mar 18 23:20:02 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 236924110,
+            "friends_count": 1298,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2078,
+            "favorite_count": 19470,
+            "reply_count": 2420,
+            "quote_count": 118
+          }
+        },
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 67012,
+          "friends_count": 997,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 164,
+          "favorite_count": 941,
+          "reply_count": 188,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236924110,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 164,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034451343566651688",
+      "text": "RT @MarioNawfal: Grok 4.20 Beta  dropped insane benchmark numbers: lowest hallucination rate ever recorded at 22%, number 1 in following in…",
+      "created_at": "Thu Mar 19 02:06:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034400705646137562",
+        "text": "Grok 4.20 Beta  dropped insane benchmark numbers: lowest hallucination rate ever recorded at 22%, number 1 in following instructions at 83%, and #2 in agentic tool use at 97%.\n\nThis is a 500B model that was specifically built to tell the truth first, and it’s still crushing the things that actually matter most.\n\nSource: @XFreeze",
+        "created_at": "Wed Mar 18 22:45:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034396749410820096",
+            "url": "https://pbs.twimg.com/media/HDuhEJzXYAAEEPj.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2034362846184886525",
+          "text": "Cool, well Grok will get even better every week!",
+          "created_at": "Wed Mar 18 20:14:33 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 236924110,
+            "friends_count": 1298,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2284,
+            "favorite_count": 15007,
+            "reply_count": 2423,
+            "quote_count": 112
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3213365,
+          "friends_count": 50893,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 134,
+          "favorite_count": 705,
+          "reply_count": 97,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236924110,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 134,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034451163798798515",
+      "text": "RT @Rothmus: Diversity™️ https://t.co/I9Uyac78Vx",
+      "created_at": "Thu Mar 19 02:05:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2034441223851614208",
+          "url": "https://pbs.twimg.com/media/HDvJg6AWIAAqjC9.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2034441227509051817",
+        "text": "Diversity™️ https://t.co/I9Uyac78Vx",
+        "created_at": "Thu Mar 19 01:26:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034441223851614208",
+            "url": "https://pbs.twimg.com/media/HDvJg6AWIAAqjC9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 654112,
+          "friends_count": 2780,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 408,
+          "favorite_count": 1664,
+          "reply_count": 165,
+          "quote_count": 31
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236924110,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 408,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034451014770933990",
+      "text": "Imagine",
+      "created_at": "Thu Mar 19 02:04:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034441910899855809",
+        "text": "Grok Imagine just changed AI filmmaking\n\nGenerate your character from multiple angles → feed up to 7 shots → get one seamless cinematic video. Same face, same outfit, every single frame\n\nThen extend it shot by shot like an actual director\n\nProduction houses spend millions for this kind of consistency\n\nGrok just made it a prompt",
+        "created_at": "Thu Mar 19 01:28:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2034435095348813824",
+            "url": "https://video.twimg.com/amplify_video/2034435095348813824/vid/avc1/1080x1080/Rn09P6DVfZRuK7iW.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 169712,
+          "friends_count": 1665,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 70,
+          "favorite_count": 563,
+          "reply_count": 133,
+          "quote_count": 15
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236924110,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 552,
+        "favorite_count": 4341,
+        "reply_count": 1075,
+        "quote_count": 46
+      }
+    },
+    {
+      "id": "2034448568304464317",
+      "text": "RT @xiaohu: Google Stitch 大更新：号称是 Vibe Design \n\n对着画布说话就能做设计 \n\nFigma 股价大跌8.8%\n\n带来 5 大升级：\n\n🎨 无限画布：以前是输入一句话等出图，现在有了一个真正的工作台。你可以把参考图、文字说明、代码片段全…",
+      "created_at": "Thu Mar 19 01:55:11 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2034434502349734366",
+        "text": "Google Stitch 大更新：号称是 Vibe Design \n\n对着画布说话就能做设计 \n\nFigma 股价大跌8.8%\n\n带来 5 大升级：\n\n🎨 无限画布：以前是输入一句话等出图，现在有了一个真正的工作台。你可以把参考图、文字说明、代码片段全扔上去，AI 结合这些上下文帮你设计，更像在跟一个设计师协作。\n\n🧠 更智能的设计 Agent： 它现在能记住你整个项目的修改历史，不是每次从零开始理解你的需求。还能同时帮你推进多个方案，比如你想试三种不同风格的首页，它并行帮你搞，互不干扰。\n\n🎙️ 语音交互：“这个按钮大一点\"\"配色换暖色调\"\"导航栏改成深色\"，对着它说就行。不用停下来打字，边看边改，效率高很多。\n\n⚡ 即时原型： 以前出的是静态图，现在点一下播放键，设计稿直接变成可以点击交互的原型。系统自动帮你算好\"点这个按钮跳到哪个页面\"。不用手动一根根连线了。\n\n📐 新增了 DESIGN.md：把你的设计规范（配色、字体、风格）写成一个文件，不管是给 Stitch 用还是给 Claude Code、Cursor 这些 AI 编程工具用，都能读懂。设计规范不再锁死在一个工具里。",
+        "created_at": "Thu Mar 19 00:59:17 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2034428365114064896",
+            "url": "https://video.twimg.com/amplify_video/2034428365114064896/vid/avc1/1920x1080/LDA8CxF8JmzS69Nn.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1764818331822182400",
+          "name": "小互",
+          "screen_name": "xiaohu",
+          "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+          "followers_count": 102086,
+          "friends_count": 1606,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 42,
+          "favorite_count": 277,
+          "reply_count": 9,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 198215,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 42,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034432825013719233",
+      "text": "帮转招人信息",
+      "created_at": "Thu Mar 19 00:52:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034140344686940513",
+        "text": "Happycapy前段时间拿Producthunt的三榜第一！\n\n为每个用户云主机运行Agent，灵活性扩展性超级强，团队氛围也超棒，很有前途的AI创业公司。\n\n现在急缺两个岗位的工程师，JD如下\n\n岗位1：Agent Engineer\n\n① 开发 Agent 核心模块，让 AI Agent 在真实操作系统环境中可靠地完成用户任务\n② 通过 Context Engineering、Tool 设计、架构优化持续提升 Agent 表现\n③ 快速原型验证新功能，搭建评估体系衡量 Agent 能力\n\n岗位2：Sandbox Engineer\n\n① 设计沙盒管理系统：镜像构建、生命周期管理、资源调度\n② 为 Agent 提供稳定、安全、高效的运行环境支撑。\n\n希望招到 Strong ownership的工程师，Base应该在深圳。\n\n感兴趣联系 hr@trickle.so",
+        "created_at": "Wed Mar 18 05:30:25 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6690032",
+          "name": "向阳乔木",
+          "screen_name": "vista8",
+          "description": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+          "followers_count": 101029,
+          "friends_count": 1512,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 43,
+          "reply_count": 11,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 198215,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034432242307502172",
+      "text": "https://t.co/pc6JXzVL55",
+      "created_at": "Thu Mar 19 00:50:19 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 198215,
+        "friends_count": 1585,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 53,
+        "reply_count": 2,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2034431924081774742",
+      "text": "RT @Tesla: https://t.co/AaKZlWvuTR https://t.co/1L7AYHGaDw",
+      "created_at": "Thu Mar 19 00:49:03 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2034410208563515392",
+          "url": "https://pbs.twimg.com/media/HDutTlDbUAAGeRX.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2034410212074074122",
+        "text": "https://t.co/AaKZlWvuTR https://t.co/1L7AYHGaDw",
+        "created_at": "Wed Mar 18 23:22:46 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034410208563515392",
+            "url": "https://pbs.twimg.com/media/HDutTlDbUAAGeRX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24720473,
+          "friends_count": 55,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 788,
+          "favorite_count": 4093,
+          "reply_count": 365,
+          "quote_count": 101
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236924110,
+        "friends_count": 1298,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 788,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2034409522786337222",
       "text": "Try Tesla FSD (self-driving)!",
