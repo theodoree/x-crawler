@@ -1,12 +1,260 @@
 {
   "date": "20260319",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-19T20:12:50.344609",
-  "tweet_count": 289,
-  "unique_tweet_count": 289,
-  "total_crawled": 486,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-19T22:07:26.584807",
+  "tweet_count": 293,
+  "unique_tweet_count": 293,
+  "total_crawled": 489,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2034739392955523363",
+      "text": "RT @seanhannity: I love Grok Imagine!! You have to try this. https://t.co/ZeYg8QADiu https://t.co/fUCgbhJLE3",
+      "created_at": "Thu Mar 19 21:10:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2034736079119486976",
+          "url": "https://video.twimg.com/amplify_video/2034736079119486976/vid/avc1/1280x720/AEjYhAzaPjMlBqIr.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2034737389227118759",
+        "text": "I love Grok Imagine!! You have to try this. https://t.co/ZeYg8QADiu https://t.co/fUCgbhJLE3",
+        "created_at": "Thu Mar 19 21:02:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2034736079119486976",
+            "url": "https://video.twimg.com/amplify_video/2034736079119486976/vid/avc1/1280x720/AEjYhAzaPjMlBqIr.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "41634520",
+          "name": "Sean Hannity 🇺🇸",
+          "screen_name": "seanhannity",
+          "description": "Hang Out w/Hannity https://t.co/9wzGXDc2bZ | TV Host Fox News Channel 9 PM EST. Nationally Syndicated Radio Host 3-6 PM EST.",
+          "followers_count": 7637530,
+          "friends_count": 13,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 206,
+          "favorite_count": 1173,
+          "reply_count": 327,
+          "quote_count": 35
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236999740,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 206,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034731135646015797",
+      "text": "RT @curtis_yarvin: He who makes half a revolution digs his own grave",
+      "created_at": "Thu Mar 19 20:38:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034706004571824418",
+        "text": "He who makes half a revolution digs his own grave",
+        "created_at": "Thu Mar 19 18:58:09 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2034698518862975087",
+          "text": "Democratic Illinois Governor JB Pritzker speaks about a Democratic \"Project 2029\" in which members of the current Trump administration, along with federal agents, will be criminally and civilly prosecuted.\n\n\"Whatever it is that we can do. It may be that you cannot criminally prosecute somebody, but you can go after them civilly.\"\n\nFollow: @AFpost",
+          "created_at": "Thu Mar 19 18:28:24 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2034698254848598018",
+              "url": "https://video.twimg.com/amplify_video/2034698254848598018/vid/avc1/1920x1080/QRTkNSs34fwwGwdF.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1622588070246641666",
+            "name": "AF Post",
+            "screen_name": "AFpost",
+            "description": "News and alerts from around the world, from an America First perspective. Not affiliated with any organization, podcast, or activist.",
+            "followers_count": 496937,
+            "friends_count": 0,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 71,
+            "favorite_count": 392,
+            "reply_count": 174,
+            "quote_count": 64
+          }
+        },
+        "user": {
+          "id": "1674746495793283073",
+          "name": "Curtis Yarvin",
+          "screen_name": "curtis_yarvin",
+          "description": "More cool stuff at https://t.co/G2E1HeSdVf",
+          "followers_count": 87045,
+          "friends_count": 779,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 536,
+          "favorite_count": 4005,
+          "reply_count": 279,
+          "quote_count": 48
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236999740,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 536,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034728804263018502",
+      "text": "RT @grok: When one brain isn't enough, switch to Grok 4.20.\n\nFour independent agents analyze your question, debate each other, and help you…",
+      "created_at": "Thu Mar 19 20:28:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034705549041013070",
+        "text": "When one brain isn't enough, switch to Grok 4.20.\n\nFour independent agents analyze your question, debate each other, and help you get the best answer.\n\nAvailable now to SuperGrok and Premium+ subscribers globally. https://t.co/fW7637fMZ6",
+        "created_at": "Thu Mar 19 18:56:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2034704787871248384",
+            "url": "https://video.twimg.com/amplify_video/2034704787871248384/vid/avc1/3840x2160/JxB_Lf7OOWVdiDPc.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8453621,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 508,
+          "favorite_count": 3231,
+          "reply_count": 575,
+          "quote_count": 101
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236999740,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 508,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034728607822831667",
+      "text": "RT @techdevnotes: Just noticed xAI has Potential",
+      "created_at": "Thu Mar 19 20:27:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034719949088817319",
+        "text": "Just noticed xAI has Potential",
+        "created_at": "Thu Mar 19 19:53:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech",
+          "followers_count": 57686,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 129,
+          "favorite_count": 857,
+          "reply_count": 165,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236999740,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 129,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2034712111977550168",
       "text": "RT @SawyerMerritt: Nvidia CEO Jensen Huang in new interview on orbital datacenters:\n\n\"The challenge of course is that cooling, you can't ta…",
