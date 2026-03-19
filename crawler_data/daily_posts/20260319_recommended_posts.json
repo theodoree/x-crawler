@@ -1,12 +1,160 @@
 {
   "date": "20260319",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-19T14:20:52.735810",
-  "tweet_count": 276,
-  "unique_tweet_count": 276,
-  "total_crawled": 466,
-  "duplicates_removed": 190,
+  "last_crawl_time": "2026-03-19T16:24:36.064488",
+  "tweet_count": 278,
+  "unique_tweet_count": 278,
+  "total_crawled": 476,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2034638808164262155",
+      "text": "RT @TrumpWarRoom: Chibi Trump https://t.co/iPAX6RKk9u",
+      "created_at": "Thu Mar 19 14:31:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2034637807273017344",
+          "url": "https://pbs.twimg.com/media/HDx8TkUWgAAnr0z.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2034637809475059920",
+        "text": "Chibi Trump https://t.co/iPAX6RKk9u",
+        "created_at": "Thu Mar 19 14:27:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034637807273017344",
+            "url": "https://pbs.twimg.com/media/HDx8TkUWgAAnr0z.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2034546076318122165",
+          "text": "Try Grok Imagine Chibi template. \n\nSuper cute!",
+          "created_at": "Thu Mar 19 08:22:39 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 236970130,
+            "friends_count": 1299,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1891,
+            "favorite_count": 10154,
+            "reply_count": 2668,
+            "quote_count": 343
+          }
+        },
+        "user": {
+          "id": "1108472017144201216",
+          "name": "Trump War Room",
+          "screen_name": "TrumpWarRoom",
+          "description": "The official War Room account of President Donald J. Trump's political operation. This account punches back 47x harder.",
+          "followers_count": 2582781,
+          "friends_count": 319,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 409,
+          "favorite_count": 2407,
+          "reply_count": 464,
+          "quote_count": 106
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236970130,
+        "friends_count": 1299,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 409,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034638595190149195",
+      "text": "RT @teslaownersSV: The new Grok Imagine chibi template \n\nTried it out on Elon 🤣 https://t.co/2RZKqcQuIS",
+      "created_at": "Thu Mar 19 14:30:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2034637676620738560",
+          "url": "https://video.twimg.com/amplify_video/2034637676620738560/vid/avc1/432x640/29fuoUsDOkpK9lIf.mp4?tag=21",
+          "bitrate": 950000
+        }
+      ],
+      "retweet": {
+        "id": "2034637685244252554",
+        "text": "The new Grok Imagine chibi template \n\nTried it out on Elon 🤣 https://t.co/2RZKqcQuIS",
+        "created_at": "Thu Mar 19 14:26:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2034637676620738560",
+            "url": "https://video.twimg.com/amplify_video/2034637676620738560/vid/avc1/432x640/29fuoUsDOkpK9lIf.mp4?tag=21",
+            "bitrate": 950000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.\n2.8M followers",
+          "followers_count": 1399744,
+          "friends_count": 847,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 270,
+          "favorite_count": 1330,
+          "reply_count": 365,
+          "quote_count": 57
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236970130,
+        "friends_count": 1299,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 270,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2034635322483785884",
       "text": "RT @KatieMiller: The new Grok Imagine Chibi template. \n\nBeing a kid with my kid. https://t.co/9PrAVYZPjm",
