@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 198290,
+    "followers_count": 198317,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260319",
-  "last_updated": "2026-03-19T06:25:15.931216",
-  "tweet_count": 5,
+  "last_updated": "2026-03-19T08:14:44.145708",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2034432242307502172",
@@ -227,6 +227,96 @@
         "retweet_count": 1,
         "favorite_count": 12,
         "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034525524530221393",
+      "text": "quote 错了，是这个帖子\nhttps://t.co/HnOAOno9R8",
+      "created_at": "Thu Mar 19 07:00:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034002703098253725",
+        "text": "got this email this morning from @icmlconf notifying me of reviewers in my AC batch who wrote LLM-generated reviews, and their papers are desk rejected as a result.\ni understand that it’s a necessary step to enforce the policy, but the timing is really bad. https://t.co/1gLbDMXqD0",
+        "created_at": "Tue Mar 17 20:23:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034002698379677696",
+            "url": "https://pbs.twimg.com/media/HDo6rXUbUAAxyiT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1224111705950547971",
+          "name": "Ashwinee Panda",
+          "screen_name": "PandaAshwinee",
+          "description": "Research @togethercompute, Postdoc of @tomgoldsteincs, PhD @princeton, @Cal alum, currently working on LLMs",
+          "followers_count": 3043,
+          "friends_count": 709,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 17,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034525686824685909",
+      "text": "谢谢补充\nhttps://t.co/QDsA1FmFcv",
+      "created_at": "Thu Mar 19 07:01:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034525178068353396",
+        "text": "@dotey 准确来说是从170k的短语库里随机挑出两个，两个同时出现的概率低于十亿分之一 https://t.co/6HN8TVKlm2",
+        "created_at": "Thu Mar 19 06:59:36 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034524922127798272",
+            "url": "https://pbs.twimg.com/media/HDwVoyYbUAAs_Bt.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1235367575854313472",
+          "name": "Alex W",
+          "screen_name": "SuperpowerAlex",
+          "description": "building stuff. i was at @cuhkofficial and @northeastern",
+          "followers_count": 28,
+          "friends_count": 278,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
