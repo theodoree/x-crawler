@@ -1,12 +1,180 @@
 {
   "date": "20260319",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-19T18:18:54.832324",
-  "tweet_count": 286,
-  "unique_tweet_count": 286,
-  "total_crawled": 478,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-03-19T20:12:50.344609",
+  "tweet_count": 289,
+  "unique_tweet_count": 289,
+  "total_crawled": 486,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2034712111977550168",
+      "text": "RT @SawyerMerritt: Nvidia CEO Jensen Huang in new interview on orbital datacenters:\n\n\"The challenge of course is that cooling, you can't ta…",
+      "created_at": "Thu Mar 19 19:22:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034703845889020125",
+        "text": "Nvidia CEO Jensen Huang in new interview on orbital datacenters:\n\n\"The challenge of course is that cooling, you can't take advantage of conduction and convection, so you can only use radiation, and radiation requires very large surfaces, but that's not an impossible things to solve. There's a lot of space in space. We're going to go explore it. We're already radiation hardened. We have Cuda in satellites around the world. In the meantime, we're going to explore what is the architecture of datacenters look like in space. It'll take years, but that's ok. I got time.\"\n\nvia @theallinpod",
+        "created_at": "Thu Mar 19 18:49:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2034702467686858752",
+            "url": "https://video.twimg.com/amplify_video/2034702467686858752/vid/avc1/1920x1080/Q9BbpdyP3x8wJSSe.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1049757,
+          "friends_count": 439,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 297,
+          "favorite_count": 2271,
+          "reply_count": 243,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236991906,
+        "friends_count": 1299,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 297,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034711839096152235",
+      "text": "RT @TheHumanoidHub: Ashok Elluswamy, Tesla's AI lead, during a GTC discussion, highlighting the fundamental similarity in AI approaches for…",
+      "created_at": "Thu Mar 19 19:21:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034682648984264739",
+        "text": "Ashok Elluswamy, Tesla's AI lead, during a GTC discussion, highlighting the fundamental similarity in AI approaches for self-driving cars and humanoid robots:\n\n- Hierarchical decision making is useful, but it has to be done as part of the same decision-making process as lower-level controls.\n\n- We haven't seen the long tail of humanoid robotics, but Tesla has seen the long tail of self-driving, where high and low-level decisions have to be jointly made at a pretty high framerate.\n\n- Optimus's architecture is designed in a similar way, where there's a hierarchy but it's all running as part of the same model and the latencies involved in decision making are well modeled.\n\n- This architecture will scale quite well with humanoid robots.\n\n- The distinction of the decision-making levels is only in the developer's mind. For the model, it's a continuous space of decision making, where there are dials available to make them more fine or coarse.\n\n- Humanoids have more sensor modalities and higher degrees of freedom compared to self-driving, but the fundamental constraints remain the same: you need to make real-time decisions. There's obviously a hierarchy to these control signal outputs, but the lowest frequency cannot be too low, because the safety of the robot cannot depend upon things running at very low frequencies.",
+        "created_at": "Thu Mar 19 17:25:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2034677460474920960",
+            "url": "https://video.twimg.com/amplify_video/2034677460474920960/vid/avc1/3840x2160/iHUiulbbGJQtPdVS.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1682127524963426304",
+          "name": "The Humanoid Hub",
+          "screen_name": "TheHumanoidHub",
+          "description": "Humanoid Robots: Tech, Business, and Social Dynamics.\n\nClick the “𝕊𝕦𝕓𝕤𝕔𝕣𝕚𝕓𝕖” button on the profile to support.\n\nRun by @dev_and_",
+          "followers_count": 105121,
+          "friends_count": 897,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 160,
+          "favorite_count": 884,
+          "reply_count": 90,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236991906,
+        "friends_count": 1299,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 160,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034710771075273177",
+      "text": "Try Grok 4.20 Heavy",
+      "created_at": "Thu Mar 19 19:17:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034705549041013070",
+        "text": "When one brain isn't enough, switch to Grok 4.20.\n\nFour independent agents analyze your question, debate each other, and help you get the best answer.\n\nAvailable now to SuperGrok and Premium+ subscribers globally. https://t.co/fW7637fMZ6",
+        "created_at": "Thu Mar 19 18:56:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2034704787871248384",
+            "url": "https://video.twimg.com/amplify_video/2034704787871248384/vid/avc1/3840x2160/JxB_Lf7OOWVdiDPc.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8452944,
+          "friends_count": 3,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 166,
+          "favorite_count": 1239,
+          "reply_count": 230,
+          "quote_count": 52
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236991906,
+        "friends_count": 1299,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 660,
+        "favorite_count": 4940,
+        "reply_count": 1267,
+        "quote_count": 59
+      }
+    },
     {
       "id": "2034693371575361640",
       "text": "OpenAI 宣布收购 Astral，将后者旗下的开源 Python 工具整合进自家的 Codex 编程智能体生态。\n\nAstral 是 Python 开发者圈子里的明星工具公司，旗下三款开源工具几乎已经成为现代 Python 开发的标配：uv 负责依赖管理和虚拟环境（类似于一个更快更好用的 pip + virtualenv），Ruff 是目前最快的代码检查和格式化工具，ty 则用于类型安全检查。这三样工具覆盖了 Python 开发流程中最高频的痛点，用户数以百万计。\n\nOpenAI 的意图很明确：Codex 不想只做\"帮你写代码\"的工具，而是要深入到整个软件开发流程：规划变更、修改代码库、运行工具链、验证结果、长期维护。要做到这些，AI 智能体必须能直接操作开发者日常依赖的工具，而不是停留在生成代码片段的层面。收购 Astral 就是把这些工具链直接收入囊中。\n\nCodex 目前的势头也不错：周活跃用户超过 200 万，年初至今用户量增长 3 倍，使用量增长 5 倍。\n\n交易尚需监管审批，完成后 Astral 团队将并入 Codex 团队。Astral 创始人 Charlie Marsh 表示将继续推进开源工具的演进。OpenAI 也承诺交易完成后会继续支持 Astral 的开源项目。\n\n值得留意的是，OpenAI 近期收购动作频繁，同期还官宣了收购 Promptfoo（一个 LLM 评测工具）。再加上之前收购 Windsurf（编程工具），OpenAI 正在通过密集收购快速补齐 Codex 在开发者工具链上的拼图，把编程智能体从\"能写代码\"推向\"能参与整个开发流程\"。",
