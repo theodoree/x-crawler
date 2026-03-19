@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 236929661,
+    "followers_count": 236932391,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260319",
-  "last_updated": "2026-03-19T04:47:59.325563",
-  "tweet_count": 10,
+  "last_updated": "2026-03-19T06:25:15.909299",
+  "tweet_count": 18,
   "tweets": [
     {
       "id": "2034431924081774742",
@@ -497,6 +497,353 @@
       "quoted": null,
       "stats": {
         "retweet_count": 101,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034504798113075657",
+      "text": "RT @JessePeltan: Put your loved ones in Teslas.\n\nGo into debt if you have to.",
+      "created_at": "Thu Mar 19 05:38:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034485843369562157",
+        "text": "Put your loved ones in Teslas.\n\nGo into debt if you have to.",
+        "created_at": "Thu Mar 19 04:23:18 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2034410212074074122",
+          "text": "https://t.co/AaKZlWvuTR https://t.co/1L7AYHGaDw",
+          "created_at": "Wed Mar 18 23:22:46 +0000 2026",
+          "lang": "zxx",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2034410208563515392",
+              "url": "https://pbs.twimg.com/media/HDutTlDbUAAGeRX.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "13298072",
+            "name": "Tesla",
+            "screen_name": "Tesla",
+            "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+            "followers_count": 24720273,
+            "friends_count": 55,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 938,
+            "favorite_count": 4863,
+            "reply_count": 405,
+            "quote_count": 122
+          }
+        },
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 71255,
+          "friends_count": 428,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 132,
+          "favorite_count": 770,
+          "reply_count": 176,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 132,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034509920146796547",
+      "text": "Generated with @Grok Imagine 🚬 https://t.co/yVykclBkxh",
+      "created_at": "Thu Mar 19 05:58:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2034509864115073024",
+          "url": "https://video.twimg.com/amplify_video/2034509864115073024/vid/avc1/560x560/egMgsVEzpJHaw8DK.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 413,
+        "favorite_count": 4128,
+        "reply_count": 1407,
+        "quote_count": 105
+      }
+    },
+    {
+      "id": "2034510077424734238",
+      "text": "True",
+      "created_at": "Thu Mar 19 05:59:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034412502235423227",
+        "text": "Regardless of what happens in Europe and the U.S., the world is moving to EVs.\n\nThere is nothing that western automakers can do to reverse this trend, and geopolitical risk in oil will only accelerate it.\n\nEither get good at EVs, or wither away. https://t.co/CgoRynnTws",
+        "created_at": "Wed Mar 18 23:31:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034412498242478080",
+            "url": "https://pbs.twimg.com/media/HDuvY2xboAAJ8Es.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 71255,
+          "friends_count": 428,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 42,
+          "favorite_count": 219,
+          "reply_count": 37,
+          "quote_count": 16
+        }
+      },
+      "stats": {
+        "retweet_count": 189,
+        "favorite_count": 1247,
+        "reply_count": 338,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2034510416328704308",
+      "text": "How was your day? 😑 https://t.co/tgoLuV9zLc",
+      "created_at": "Thu Mar 19 06:00:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2034510364852051968",
+          "url": "https://video.twimg.com/amplify_video/2034510364852051968/vid/avc1/560x560/NAdLyC1m3_XjKX18.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 667,
+        "favorite_count": 7810,
+        "reply_count": 2695,
+        "quote_count": 182
+      }
+    },
+    {
+      "id": "2034511566813708530",
+      "text": "I don’t even smoke lol 💨 https://t.co/NOBkTztpeo",
+      "created_at": "Thu Mar 19 06:05:31 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2034511511260114944",
+          "url": "https://video.twimg.com/amplify_video/2034511511260114944/vid/avc1/720x1072/mb6_aNmd3LBiEC0r.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 531,
+        "favorite_count": 7919,
+        "reply_count": 2468,
+        "quote_count": 148
+      }
+    },
+    {
+      "id": "2034514752647667956",
+      "text": "RT @nickshirleyy: If a politician gets mad about fraud being exposed \n\nThey aren’t working for you, they are working against you\n\nThat is a…",
+      "created_at": "Thu Mar 19 06:18:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034311891439473074",
+        "text": "If a politician gets mad about fraud being exposed \n\nThey aren’t working for you, they are working against you\n\nThat is all you need to know about them",
+        "created_at": "Wed Mar 18 16:52:05 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "819432501982752768",
+          "name": "Nick shirley",
+          "screen_name": "nickshirleyy",
+          "description": "If you’re reading this hit that follow button. \nTeaching the world to lear 🌎\nBecome a subscriber to support 🙏🏼",
+          "followers_count": 1475951,
+          "friends_count": 891,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 12037,
+          "favorite_count": 76351,
+          "reply_count": 1327,
+          "quote_count": 322
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12037,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034515716054097995",
+      "text": "RT @paranoidream: Grok ♥️ Imagine https://t.co/KjHVZrAPa0",
+      "created_at": "Thu Mar 19 06:22:00 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2034514271959412737",
+          "url": "https://video.twimg.com/amplify_video/2034514271959412737/vid/avc1/1072x720/tTMkKNJvXtO5rVtn.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2034514348237021219",
+        "text": "Grok ♥️ Imagine https://t.co/KjHVZrAPa0",
+        "created_at": "Thu Mar 19 06:16:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2034514271959412737",
+            "url": "https://video.twimg.com/amplify_video/2034514271959412737/vid/avc1/1072x720/tTMkKNJvXtO5rVtn.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "229370002",
+          "name": "paranoidream ♡︎",
+          "screen_name": "paranoidream",
+          "description": "✨🔭🌞📚🍯🌹⚡️🧩📸🎶🎬🪩💋🔮🚀🚘🕳️🧠 𝕩 🇺🇸✌️🐕 ⚖️🤖♟️📡 🛰️💫 ... . . -.- . .-. / --- ..-. / .. -. . ..-. ..-. .- -... .-.. . / - .-. ..- - .... ...",
+          "followers_count": 10496,
+          "friends_count": 1139,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 34,
+          "favorite_count": 172,
+          "reply_count": 74,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 34,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034515930999574602",
+      "text": "RT @skscartoon: It is amazing https://t.co/xveXodsamQ",
+      "created_at": "Thu Mar 19 06:22:52 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2034506088792612864",
+          "url": "https://pbs.twimg.com/media/HDwEgivaYAAiNlY.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2034506096170446903",
+        "text": "It is amazing https://t.co/xveXodsamQ",
+        "created_at": "Thu Mar 19 05:43:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034506088792612864",
+            "url": "https://pbs.twimg.com/media/HDwEgivaYAAiNlY.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2034485843369562157",
+          "text": "Put your loved ones in Teslas.\n\nGo into debt if you have to.",
+          "created_at": "Thu Mar 19 04:23:18 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1123808797556920325",
+            "name": "Jesse Peltan",
+            "screen_name": "JessePeltan",
+            "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+            "followers_count": 71255,
+            "friends_count": 428,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 132,
+            "favorite_count": 770,
+            "reply_count": 176,
+            "quote_count": 12
+          }
+        },
+        "user": {
+          "id": "1518557272854523904",
+          "name": "Skscartoon",
+          "screen_name": "skscartoon",
+          "description": "A small time artist down under",
+          "followers_count": 138608,
+          "friends_count": 453,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 44,
+          "favorite_count": 250,
+          "reply_count": 48,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 44,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
