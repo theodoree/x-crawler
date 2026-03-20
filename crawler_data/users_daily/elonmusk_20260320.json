@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 237029442,
+    "followers_count": 237037877,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260320",
-  "last_updated": "2026-03-20T20:08:59.574820",
-  "tweet_count": 50,
+  "last_updated": "2026-03-20T22:07:45.305628",
+  "tweet_count": 55,
   "tweets": [
     {
       "id": "2034784086506836180",
@@ -2345,6 +2345,216 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2035101918612304129",
+      "text": "RT @PhilipJohnston: This has to be one of the funniest responses to an FCC filing of all time 🤣🤣🤣 https://t.co/VixiYyutmp",
+      "created_at": "Fri Mar 20 21:11:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035077530089398272",
+          "url": "https://pbs.twimg.com/media/HD4MOzdboAAioZ8.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035077533600031171",
+        "text": "This has to be one of the funniest responses to an FCC filing of all time 🤣🤣🤣 https://t.co/VixiYyutmp",
+        "created_at": "Fri Mar 20 19:34:28 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035077530089398272",
+            "url": "https://pbs.twimg.com/media/HD4MOzdboAAioZ8.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "23651672",
+          "name": "Philip Johnston",
+          "screen_name": "PhilipJohnston",
+          "description": "Co-founder & CEO of @Starcloud_ - Building data centers in space.",
+          "followers_count": 19522,
+          "friends_count": 995,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 286,
+          "favorite_count": 2473,
+          "reply_count": 134,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 286,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035101980818092409",
+      "text": "RT @grok: Here's how you can Chibify your photos with @imagine.\n\nTry the Chibi template in the Grok app or on web. https://t.co/E2k76l1v82",
+      "created_at": "Fri Mar 20 21:11:37 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2035082964611346432",
+          "url": "https://video.twimg.com/amplify_video/2035082964611346432/vid/avc1/1080x1080/o9U_hCr34LhY_9be.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2035083795922395330",
+        "text": "Here's how you can Chibify your photos with @imagine.\n\nTry the Chibi template in the Grok app or on web. https://t.co/E2k76l1v82",
+        "created_at": "Fri Mar 20 19:59:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035082964611346432",
+            "url": "https://video.twimg.com/amplify_video/2035082964611346432/vid/avc1/1080x1080/o9U_hCr34LhY_9be.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8454406,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 195,
+          "favorite_count": 939,
+          "reply_count": 272,
+          "quote_count": 50
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 195,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035104128343724414",
+      "text": "RT @wintonARK: Space compute distilled\n\nManufacture a 3 ton satellite with 100kW compute for $4m \n\nAt $300 per kg it costs $1m to launch\n\nA…",
+      "created_at": "Fri Mar 20 21:20:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035066684487135523",
+        "text": "Space compute distilled\n\nManufacture a 3 ton satellite with 100kW compute for $4m \n\nAt $300 per kg it costs $1m to launch\n\nAt $12b per GW in terrestrial compute competition the satellite can pull in $1.2m per year\n\n3 to 4 year payback with the additional year before orbital decay producing excess cashflow.\n\nLaunch that same satellite with an AI model attached and you can generate $3.6m to $7.2m in annual revenue (dependent upon your expectations for AI model monetization growth.)\n\nPayback period drops from 3-4 years to .5 - 1.",
+        "created_at": "Fri Mar 20 18:51:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2035061124794650886",
+          "text": "The AI company business model distilled.\n\nRent compute at $10b per GW\n\nSell AI model output at $30b per GW.\n\nThe cost per terrestrial GW of compute is going up 6% per year.\n\nThe monetization rate per GW on selling AI models running on that compute is growing 20% per year.",
+          "created_at": "Fri Mar 20 18:29:16 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "760345658",
+            "name": "Brett Winton",
+            "screen_name": "wintonARK",
+            "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+            "followers_count": 207997,
+            "friends_count": 588,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 4,
+            "favorite_count": 61,
+            "reply_count": 7,
+            "quote_count": 0
+          }
+        },
+        "user": {
+          "id": "760345658",
+          "name": "Brett Winton",
+          "screen_name": "wintonARK",
+          "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+          "followers_count": 207997,
+          "friends_count": 588,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 171,
+          "favorite_count": 922,
+          "reply_count": 119,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 171,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035109656880943380",
+      "text": "Order is subject to adjustment at any time. Also worth noting that this meme is missing the space lasers. https://t.co/qAkdlMZsIF",
+      "created_at": "Fri Mar 20 21:42:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035109653248679936",
+          "url": "https://pbs.twimg.com/media/HD4pcnjbIAAhj3g.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 385,
+        "favorite_count": 3448,
+        "reply_count": 797,
+        "quote_count": 38
+      }
+    },
+    {
+      "id": "2035109937840628046",
+      "text": "This slaps 😂\n https://t.co/uG7cn7Slym",
+      "created_at": "Fri Mar 20 21:43:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2035108658628136960",
+          "url": "https://video.twimg.com/amplify_video/2035108658628136960/vid/avc1/1920x1080/FMgRd8BeyBZ73etV.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 704,
+        "favorite_count": 7184,
+        "reply_count": 1446,
+        "quote_count": 123
       }
     }
   ]

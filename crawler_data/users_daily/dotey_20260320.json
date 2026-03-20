@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 199705,
+    "followers_count": 199733,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260320",
-  "last_updated": "2026-03-20T20:08:59.595930",
-  "tweet_count": 7,
+  "last_updated": "2026-03-20T22:07:45.327202",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2035015960537485507",
@@ -287,6 +287,84 @@
         "retweet_count": 7,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035098528658112704",
+      "text": "Moonshot AI 的官方账号 @Kimi_Moonshot 发推祝贺 Cursor 发布 Composer 2，表示\"很自豪看到 Kimi K2.5 提供了基础\"，并确认 Cursor 是通过 Fireworks 的托管推理和强化学习平台获得授权的商业合作伙伴。措辞从 Yulun Du 几小时前的公开质问，180 度转向了官方背书。\nhttps://t.co/OfMs0lm7ZI",
+      "created_at": "Fri Mar 20 20:57:54 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035074972943831491",
+        "text": "Congrats to the @cursor_ai team on the launch of Composer 2!   \n\nWe are proud to see Kimi-k2.5 provide the foundation. Seeing our model integrated effectively through Cursor's continued pretraining & high-compute RL training is the open model ecosystem we love to support.  \n\nNote: Cursor accesses Kimi-k2.5 via @FireworksAI_HQ ' hosted RL and inference platform as part of an authorized commercial partnership.",
+        "created_at": "Fri Mar 20 19:24:18 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1863959670169501696",
+          "name": "Kimi.ai",
+          "screen_name": "Kimi_Moonshot",
+          "description": "Built by Moonshot AI to empower everyone to be superhuman. ⚡️API: https://t.co/ggYlFf809H\n@KimiProduct where we share cool use cases and prompts.",
+          "followers_count": 136148,
+          "friends_count": 133,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 548,
+          "favorite_count": 8474,
+          "reply_count": 250,
+          "quote_count": 286
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035098758783148061",
+      "text": "紧接着，Cursor 联合创始人 Aman Sanger 也发了一条详细回应。他解释了技术路径：团队评估了大量基座模型，Kimi K2.5 在困惑度指标上表现最强，之后 Cursor 在此基础上做了持续预训练和 4 倍算力规模的强化学习。https://t.co/ahIZVT5ZCK\n\n他承认在发布博客中没有提到 Kimi 基座是\"一个失误\"，并表示下次会改正。\n\n到这里，这件事的性质已经从\"许可证纠纷\"变成了\"沟通事故\"。\n\n几个关键变化值得注意。首先，Moonshot 官方帖子特意补了一句\"Cursor 通过 Fireworks 的授权商业合作伙伴关系使用 Kimi K2.5\"，这等于官方确认了授权链条的合法性。\n\n之前 Yulun Du 质问的\"为什么不遵守许可证、不付费\"，现在被公司层面正式否认了。他和另外两名员工删帖这件事，回过头来看，大概率是公司内部沟通滞后，员工不知道有商业合作协议在先。",
+      "created_at": "Fri Mar 20 20:58:49 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035079293257359663",
+        "text": "We've evaluated a lot of base models on perplexity-based evals and Kimi k2.5 proved to be the strongest!\n\nAfter that, we do continued pre-training and high-compute RL (a 4x scale-up).\n\nThe combination of the strong base, CPT and RL, and Fireworks' inference and RL samplers make Composer-2 frontier level.\n\nIt was a miss to not mention the Kimi base in our blog from the start. We'll fix that for the next model.",
+        "created_at": "Fri Mar 20 19:41:28 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1378017343641640961",
+          "name": "Aman Sanger",
+          "screen_name": "amanrsanger",
+          "description": "@cursor_ai founder",
+          "followers_count": 48626,
+          "friends_count": 740,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 893,
+          "reply_count": 51,
+          "quote_count": 31
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 2,
         "quote_count": 0
       }
     }
