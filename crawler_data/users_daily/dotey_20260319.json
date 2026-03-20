@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 198548,
+    "followers_count": 198589,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260319",
-  "last_updated": "2026-03-19T22:07:26.641141",
-  "tweet_count": 14,
+  "last_updated": "2026-03-20T00:23:00.089231",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2034432242307502172",
@@ -574,6 +574,52 @@
         "favorite_count": 7,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2034775175414133127",
+      "text": "Claude Code 新增 Channels 功能：Telegram、Discord 消息可直接推送到编码会话\n\nAnthropic 为其命令行编码工具 Claude Code 推出了一项新功能 Channels（频道）。简单说，它让你在 Telegram 或 Discord 上发消息，就能直接触达正在运行的 Claude Code 会话，Claude 读取后还能通过同一频道回复，相当于把聊天软件变成了 Claude Code 的远程遥控器。\n\n技术上，Channel 是一种 MCP 服务器插件，负责把外部事件\"推\"进会话。目前官方提供 Telegram 和 Discord 两个插件，另有一个本地演示用的 fakechat。安装流程是标准的插件三步：安装、配置凭证、启动时加上 --channels 参数。用户也可以自行开发适配其他平台的 Channel。\n\n安全方面，每个 Channel 都维护一个发送者白名单，只有经过配对验证的用户 ID 才能推送消息，其他人直接被静默丢弃。企业和团队版用户还需要管理员在后台开启 channelsEnabled 设置才能使用。\n\n目前 Channels 还处于研究预览阶段，只接受 Anthropic 官方维护的白名单插件，协议和命令语法后续可能调整。\n\n这个功能的实际意义在于：开发者不用一直盯着终端，可以通过手机上的 Telegram 或 Discord 随时给 Claude Code 下指令、接收反馈，配合后台运行模式，离开工位也能让 Claude 持续干活。",
+      "created_at": "Thu Mar 19 23:33:00 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034761016320696565",
+        "text": "We just released Claude Code channels, which allows you to control your Claude Code session through select MCPs, starting with Telegram and Discord. \n\nUse this to message Claude Code directly from your phone. https://t.co/sl3BP2BEzS",
+        "created_at": "Thu Mar 19 22:36:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2034760524685250560",
+            "url": "https://video.twimg.com/amplify_video/2034760524685250560/vid/avc1/1920x1080/z9CUlKj63EdnFj1R.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "352806502",
+          "name": "Thariq",
+          "screen_name": "trq212",
+          "description": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+          "followers_count": 141441,
+          "friends_count": 1733,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 525,
+          "favorite_count": 6684,
+          "reply_count": 492,
+          "quote_count": 503
+        }
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 43,
+        "reply_count": 10,
+        "quote_count": 5
       }
     }
   ]
