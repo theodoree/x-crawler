@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 237009072,
+    "followers_count": 237019830,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260320",
-  "last_updated": "2026-03-20T16:15:46.686325",
-  "tweet_count": 48,
+  "last_updated": "2026-03-20T18:13:53.755044",
+  "tweet_count": 49,
   "tweets": [
     {
       "id": "2034784086506836180",
@@ -2249,6 +2249,51 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2035054938674655466",
+      "text": "😂",
+      "created_at": "Fri Mar 20 18:04:41 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035008923191665033",
+        "text": "Monitoring the tituation... https://t.co/GbiLIgX1b2",
+        "created_at": "Fri Mar 20 15:01:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035008850441469952",
+            "url": "https://pbs.twimg.com/media/HD3NxH1XAAAyfND.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1798789277918351360",
+          "name": "Alps",
+          "screen_name": "alpaysh",
+          "description": "notes to self and tech shitposting. e/acc.",
+          "followers_count": 9094,
+          "friends_count": 2571,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 17,
+          "favorite_count": 355,
+          "reply_count": 82,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 190,
+        "favorite_count": 2172,
+        "reply_count": 679,
+        "quote_count": 33
       }
     }
   ]

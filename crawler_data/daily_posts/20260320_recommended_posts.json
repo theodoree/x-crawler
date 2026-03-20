@@ -1,12 +1,226 @@
 {
   "date": "20260320",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-20T16:15:46.647674",
-  "tweet_count": 246,
-  "unique_tweet_count": 246,
-  "total_crawled": 444,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-03-20T18:13:53.721394",
+  "tweet_count": 250,
+  "unique_tweet_count": 250,
+  "total_crawled": 446,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2035054938674655466",
+      "text": "😂",
+      "created_at": "Fri Mar 20 18:04:41 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035008923191665033",
+        "text": "Monitoring the tituation... https://t.co/GbiLIgX1b2",
+        "created_at": "Fri Mar 20 15:01:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035008850441469952",
+            "url": "https://pbs.twimg.com/media/HD3NxH1XAAAyfND.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1798789277918351360",
+          "name": "Alps",
+          "screen_name": "alpaysh",
+          "description": "notes to self and tech shitposting. e/acc.",
+          "followers_count": 9094,
+          "friends_count": 2571,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 17,
+          "favorite_count": 355,
+          "reply_count": 82,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237019830,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 190,
+        "favorite_count": 2172,
+        "reply_count": 679,
+        "quote_count": 33
+      }
+    },
+    {
+      "id": "2035052659334389979",
+      "text": "RT @xxx111god: Seriously? PUA Coding 8.9k stars？\n说白了这就是不会懂的人给自己找的安慰剂\n\n不会拆任务 不会给上下文 不会设计工作流\n不会搭 memory 不会写 skill 不会做验证\n整个 agent 系统从头到尾没建起来…",
+      "created_at": "Fri Mar 20 17:55:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2035018805596786763",
+        "text": "Seriously? PUA Coding 8.9k stars？\n说白了这就是不会懂的人给自己找的安慰剂\n\n不会拆任务 不会给上下文 不会设计工作流\n不会搭 memory 不会写 skill 不会做验证\n整个 agent 系统从头到尾没建起来\n\n然后贴一张\"不许说做不到\"的符，指望它突然开窍了？\n这跟烧香拜佛有什么区别😂\n\n\"验证后才能说完成\"这个约束本身没问题\n但这是工程纪律，要靠代码约束，不是靠 PUA 语气来执行的\n真正的问题从来不是 AI 态度不端正，是你的指令就没说清楚该干嘛\n\n真想提高还是推荐去看看 Garry Tan 的 gstack \n学习如何把认知打包成结构化流程\n/plan → /review → /qa → /ship\n每一步有明确输入输出\n\n8.9k stars 只说明一件事：\n大部分人还停在\"AI 不听话\"这个阶段\n没意识到问题出在自己身上",
+        "created_at": "Fri Mar 20 15:41:06 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "animated_gif",
+            "id": "2035018799439618048",
+            "url": "https://pbs.twimg.com/tweet_video_thumb/HD3W0OvXIAAaeZ9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2034818161942642835",
+          "text": "🎉开源一周暴涨8.9k Stars！把AI压榨到极致！\nAI coding agent已经开始被企业PUA话术鞭策，自己改代码、死磕bug了\n\n一个很有意思的开源Skill插件项目：tanweai/pua\n核心就是：“不允许AI说我不行”\n\n设计亮点：\n1. 三条红线/铁律 把“验证、事实驱动、穷尽方案”写成不可违背的交付标准（典型目标是减少“口头完成”“未经验证的环境甩锅”）\n\n2. 把‘换方案’定义为“本质不同” ，专门针对 AI 常见的“同一思路换参数”原地打转\n\n3. 语言与文化双皮肤 ：README 里强调中文是“大厂 PUA 话术”，英文是 “PIP（Performance Improvement Plan）话术”，同引擎不同外壳，适配不同受众语境\n\n4. 指标意识 ：README 给了对照实验指标（如 fix 数、验证次数、工具调用、隐藏问题发现等提升），同时承认代价是更多 tool calls——这点很诚实\n\n原仓库🔗：\nhttps://t.co/5gKl5dZVR1",
+          "created_at": "Fri Mar 20 02:23:49 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1907723780400758784",
+            "name": "Z大诗",
+            "screen_name": "Zh_Crypto517",
+            "description": "梦想当富冈义勇\n预测市场｜美股交易｜RWA｜AI\n商务合作：https://t.co/bwCfRWX0sg\n社群交流：https://t.co/r49DIY9xWY",
+            "followers_count": 3612,
+            "friends_count": 1765,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 26,
+            "favorite_count": 189,
+            "reply_count": 33,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "2504912287",
+          "name": "Jason Zuo",
+          "screen_name": "xxx111god",
+          "description": "ADHD is the scheduler that never stops｜AI is the processor that never quits｜ INFP-A | Exploring, Investing, Learnings",
+          "followers_count": 2563,
+          "friends_count": 480,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 7,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 199690,
+        "friends_count": 1587,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035046046066172346",
+      "text": "1995 年，《仙剑奇侠传》横空出世，赵灵儿、李逍遥、水墨画风，把整个中文游戏圈炸了。所有人都在等续作。\n\n结果一等就是八年。\n\n2025 年 1 月，DeepSeek R1 发布，用极低成本训练出能和 OpenAI 掰手腕的推理模型，英伟达股价大跌，硅谷集体失眠。\n\n那种感觉和当年第一次打开仙剑一模一样：原来我们也能做出这样的东西。\n\n然后所有人开始等 R2。\n\n3 月说要发，辟谣了。5 月说要发，没发。传说梁文锋对效果不满意，又传说缺芯片。2025 年过完了，R2 没来。\n\n2026 年春节前后，各种新论文、新代码冒出来，期待再次拉满，R2 依然只存在于传说中。\n\n一年多了。\n\n当年仙剑等太久的教训很深刻：玩家期望值高到天上，仙剑 2 端上来一盘半成品，口碑崩得比不出还惨。反倒是同年的仙剑 3 找到了新突破口，挽回了一切。\n\n梁文锋迟迟不发 R2，也许正是不想重蹈仙剑 2 的覆辙。但问题是，仙剑玩家可以等八年，AI 行业的窗口期可能只有几个月。OpenAI、Anthropic、Google、字节、阿里，没有一个在等你。\n\n就看 R2 来的时候，是仙剑 2 还是仙剑 3 了。",
+      "created_at": "Fri Mar 20 17:29:21 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035045745506521088",
+          "url": "https://pbs.twimg.com/media/HD3vUsqWEAAgFa6.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 199690,
+        "friends_count": 1587,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 8,
+        "reply_count": 9,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2035041073798459876",
+      "text": "Cursor 回应：承认用了开源基座舆论发酵后，Cursor 开发者体验副总裁 Lee Robinson 在 X 上做出了官方回应。\nhttps://t.co/HLLmEsbKnB\n\n他承认 Composer 2 确实基于一个开源基座模型构建，但强调最终模型只有约四分之一的算力来自基座，其余都是 Cursor 自己的训练。\n\n他还表示 Cursor 正在通过推理合作伙伴的条款遵守许可证，并称未来会做完全自主的预训练。\n\n这个回应有几个值得注意的地方。\n第一，Lee Robinson 全程没有提\"Kimi K2.5\"这个名字，只说了\"开源基座\"。\n第二，\"四分之一算力来自基座\"这个说法很巧妙，把外界\"拿了别人的模型换个壳\"的指控转化成了一个算力比例问题。\n第三，\"通过推理合作伙伴条款遵守许可证\"这句话很模糊，并没有解释 Cursor 的界面上为什么看不到任何 Kimi K2.5 的标识，而这正是许可证条款明确要求的。",
+      "created_at": "Fri Mar 20 17:09:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035035355364081694",
+        "text": "Yep, Composer 2 started from an open-source base! We will do full pretraining in the future.\n\nOnly ~1/4 of the compute spent on the final model came from the base, the rest is from our training. This is why evals are very different.\n\nAnd yes, we are following the license through our inference partner terms.",
+        "created_at": "Fri Mar 20 16:46:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "81712767",
+          "name": "Lee Robinson",
+          "screen_name": "leerob",
+          "description": "Teaching developers @cursor_ai, previously @vercel",
+          "followers_count": 228760,
+          "friends_count": 762,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 75,
+          "favorite_count": 1192,
+          "reply_count": 186,
+          "quote_count": 112
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 199690,
+        "friends_count": 1587,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 13,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2035017845801689440",
       "text": "Cursor 上线 Composer 2 不到 24 小时，就被开发者扒出了底裤。\n（以下内容 Claude 辅助生成）\n\n一个叫 Fynn 的开发者在调试 Cursor 的 API 时，发现返回的模型 ID 赫然写着：kimi-k2p5-rl-0317-s515-fast。翻译成人话：这就是月之暗面（Moonshot AI）的 Kimi K2.5，加了一层强化学习（RL）微调。\n\nMoonshot AI 预训练负责人 Yulun Du 随即在 X 上发帖确认，经测试 Composer 2 的 tokenizer 和 Kimi 的完全一致，并直接 @ 了 Cursor 联合创始人 Michael Truell，质问为什么不遵守许可证、也没有支付任何费用。另外两名 Moonshot 员工也发帖证实，不过三条帖子后来都被删除了。\n\n而 Cursor 在 3 月 19 日发布 Composer 2 时，只提到性能提升来自\"对基座模型的持续预训练加强化学习\"，全程没有提到 Kimi K2.5。这两件事并不矛盾，持续预训练和 RL 本来就是在某个基座模型上做的，Cursor 只是没说基座是谁的。\n\n这不是第一次了\n\n去年 10 月 Cursor 发布 Composer 1 时，多国开发者发现生成的代码中频繁出现中文。Alley Corp 合伙人 Kenneth Auchenberg 当时贴出截图，直言这是\"铁证\"，认为 Composer 1 就是基于中国开源模型微调的。KR-Asia 和 36Kr 后来证实，Cursor 和 Windsurf 都在使用中国开源模型，其中 Windsurf 承认用的是智谱的 GLM。Cursor 从来没有公开披露 Composer 1 的底层模型，后来悄悄发了 Composer 1.5 就翻篇了。\n\n许可证才是核心问题\n\nKimi K2.5 使用的是修改版 MIT 许可证，里面有一条专门为这种场景设计的条款：如果使用该模型（包括衍生作品）的商业产品月活超过 1 亿或月收入超过 2000 万美元，必须在产品界面上醒目展示\"Kimi K2.5\"字样。\n\nCursor 今年 2 月的年化收入已经突破 20 亿美元，换算成月收入大约 1.67 亿美元，是许可证门槛的 8 倍多。但 Cursor 的界面上只写着\"Composer 2\"，没有任何 Kimi 的标识。\n\n与此同时，Cursor 正在跟投资人谈一轮新融资，估值目标约 500 亿美元，相比去年 11 月的 293 亿美元估值几乎翻倍。而 Moonshot AI 上一轮估值据报道约 43 亿美元。一个估值是对方 12 倍的公司，拿了对方的模型包装成自研技术，用来支撑\"前沿实验室\"的叙事去融资。\n\n截至目前，Cursor 没有做出任何公开回应。\n\n这件事的后续走向，对整个开源 AI 生态有标杆意义。如果 Moonshot 不对一家年收入 20 亿美元的公司执行许可证，那以后所有开源模型的署名条款就成了摆设。每家 AI 实验室都会算同一笔账：为什么要开源自己的模型，让分发能力更强的公司去掉署名、包装成自研、然后以 12 倍于你的估值去融资？",

@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 199603,
+    "followers_count": 199690,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260320",
-  "last_updated": "2026-03-20T16:15:46.678126",
-  "tweet_count": 2,
+  "last_updated": "2026-03-20T18:13:53.776193",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2035015960537485507",
@@ -69,6 +69,135 @@
         "favorite_count": 40,
         "reply_count": 8,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2035041073798459876",
+      "text": "Cursor 回应：承认用了开源基座舆论发酵后，Cursor 开发者体验副总裁 Lee Robinson 在 X 上做出了官方回应。\nhttps://t.co/HLLmEsbKnB\n\n他承认 Composer 2 确实基于一个开源基座模型构建，但强调最终模型只有约四分之一的算力来自基座，其余都是 Cursor 自己的训练。\n\n他还表示 Cursor 正在通过推理合作伙伴的条款遵守许可证，并称未来会做完全自主的预训练。\n\n这个回应有几个值得注意的地方。\n第一，Lee Robinson 全程没有提\"Kimi K2.5\"这个名字，只说了\"开源基座\"。\n第二，\"四分之一算力来自基座\"这个说法很巧妙，把外界\"拿了别人的模型换个壳\"的指控转化成了一个算力比例问题。\n第三，\"通过推理合作伙伴条款遵守许可证\"这句话很模糊，并没有解释 Cursor 的界面上为什么看不到任何 Kimi K2.5 的标识，而这正是许可证条款明确要求的。",
+      "created_at": "Fri Mar 20 17:09:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035035355364081694",
+        "text": "Yep, Composer 2 started from an open-source base! We will do full pretraining in the future.\n\nOnly ~1/4 of the compute spent on the final model came from the base, the rest is from our training. This is why evals are very different.\n\nAnd yes, we are following the license through our inference partner terms.",
+        "created_at": "Fri Mar 20 16:46:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "81712767",
+          "name": "Lee Robinson",
+          "screen_name": "leerob",
+          "description": "Teaching developers @cursor_ai, previously @vercel",
+          "followers_count": 228760,
+          "friends_count": 762,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 75,
+          "favorite_count": 1192,
+          "reply_count": 186,
+          "quote_count": 112
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 13,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2035046046066172346",
+      "text": "1995 年，《仙剑奇侠传》横空出世，赵灵儿、李逍遥、水墨画风，把整个中文游戏圈炸了。所有人都在等续作。\n\n结果一等就是八年。\n\n2025 年 1 月，DeepSeek R1 发布，用极低成本训练出能和 OpenAI 掰手腕的推理模型，英伟达股价大跌，硅谷集体失眠。\n\n那种感觉和当年第一次打开仙剑一模一样：原来我们也能做出这样的东西。\n\n然后所有人开始等 R2。\n\n3 月说要发，辟谣了。5 月说要发，没发。传说梁文锋对效果不满意，又传说缺芯片。2025 年过完了，R2 没来。\n\n2026 年春节前后，各种新论文、新代码冒出来，期待再次拉满，R2 依然只存在于传说中。\n\n一年多了。\n\n当年仙剑等太久的教训很深刻：玩家期望值高到天上，仙剑 2 端上来一盘半成品，口碑崩得比不出还惨。反倒是同年的仙剑 3 找到了新突破口，挽回了一切。\n\n梁文锋迟迟不发 R2，也许正是不想重蹈仙剑 2 的覆辙。但问题是，仙剑玩家可以等八年，AI 行业的窗口期可能只有几个月。OpenAI、Anthropic、Google、字节、阿里，没有一个在等你。\n\n就看 R2 来的时候，是仙剑 2 还是仙剑 3 了。",
+      "created_at": "Fri Mar 20 17:29:21 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035045745506521088",
+          "url": "https://pbs.twimg.com/media/HD3vUsqWEAAgFa6.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 8,
+        "reply_count": 9,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2035052659334389979",
+      "text": "RT @xxx111god: Seriously? PUA Coding 8.9k stars？\n说白了这就是不会懂的人给自己找的安慰剂\n\n不会拆任务 不会给上下文 不会设计工作流\n不会搭 memory 不会写 skill 不会做验证\n整个 agent 系统从头到尾没建起来…",
+      "created_at": "Fri Mar 20 17:55:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2035018805596786763",
+        "text": "Seriously? PUA Coding 8.9k stars？\n说白了这就是不会懂的人给自己找的安慰剂\n\n不会拆任务 不会给上下文 不会设计工作流\n不会搭 memory 不会写 skill 不会做验证\n整个 agent 系统从头到尾没建起来\n\n然后贴一张\"不许说做不到\"的符，指望它突然开窍了？\n这跟烧香拜佛有什么区别😂\n\n\"验证后才能说完成\"这个约束本身没问题\n但这是工程纪律，要靠代码约束，不是靠 PUA 语气来执行的\n真正的问题从来不是 AI 态度不端正，是你的指令就没说清楚该干嘛\n\n真想提高还是推荐去看看 Garry Tan 的 gstack \n学习如何把认知打包成结构化流程\n/plan → /review → /qa → /ship\n每一步有明确输入输出\n\n8.9k stars 只说明一件事：\n大部分人还停在\"AI 不听话\"这个阶段\n没意识到问题出在自己身上",
+        "created_at": "Fri Mar 20 15:41:06 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "animated_gif",
+            "id": "2035018799439618048",
+            "url": "https://pbs.twimg.com/tweet_video_thumb/HD3W0OvXIAAaeZ9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2034818161942642835",
+          "text": "🎉开源一周暴涨8.9k Stars！把AI压榨到极致！\nAI coding agent已经开始被企业PUA话术鞭策，自己改代码、死磕bug了\n\n一个很有意思的开源Skill插件项目：tanweai/pua\n核心就是：“不允许AI说我不行”\n\n设计亮点：\n1. 三条红线/铁律 把“验证、事实驱动、穷尽方案”写成不可违背的交付标准（典型目标是减少“口头完成”“未经验证的环境甩锅”）\n\n2. 把‘换方案’定义为“本质不同” ，专门针对 AI 常见的“同一思路换参数”原地打转\n\n3. 语言与文化双皮肤 ：README 里强调中文是“大厂 PUA 话术”，英文是 “PIP（Performance Improvement Plan）话术”，同引擎不同外壳，适配不同受众语境\n\n4. 指标意识 ：README 给了对照实验指标（如 fix 数、验证次数、工具调用、隐藏问题发现等提升），同时承认代价是更多 tool calls——这点很诚实\n\n原仓库🔗：\nhttps://t.co/5gKl5dZVR1",
+          "created_at": "Fri Mar 20 02:23:49 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1907723780400758784",
+            "name": "Z大诗",
+            "screen_name": "Zh_Crypto517",
+            "description": "梦想当富冈义勇\n预测市场｜美股交易｜RWA｜AI\n商务合作：https://t.co/bwCfRWX0sg\n社群交流：https://t.co/r49DIY9xWY",
+            "followers_count": 3612,
+            "friends_count": 1765,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 26,
+            "favorite_count": 189,
+            "reply_count": 33,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "2504912287",
+          "name": "Jason Zuo",
+          "screen_name": "xxx111god",
+          "description": "ADHD is the scheduler that never stops｜AI is the processor that never quits｜ INFP-A | Exploring, Investing, Learnings",
+          "followers_count": 2563,
+          "friends_count": 480,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 7,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
