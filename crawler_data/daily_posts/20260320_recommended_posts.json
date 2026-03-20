@@ -1,12 +1,183 @@
 {
   "date": "20260320",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-20T18:13:53.721394",
-  "tweet_count": 250,
-  "unique_tweet_count": 250,
-  "total_crawled": 446,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-03-20T20:08:59.540950",
+  "tweet_count": 253,
+  "unique_tweet_count": 253,
+  "total_crawled": 450,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2035078203229053179",
+      "text": "RT @TheBabylonBee: Local Man Likes His Coffee Cold, With Milk, Just Like A Little Baby https://t.co/sZOIyvuo7D https://t.co/PnnPsIAVCo",
+      "created_at": "Fri Mar 20 19:37:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035068880935104512",
+          "url": "https://pbs.twimg.com/media/HD4EXW2WsAAUGJY.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035068883837624471",
+        "text": "Local Man Likes His Coffee Cold, With Milk, Just Like A Little Baby https://t.co/sZOIyvuo7D https://t.co/PnnPsIAVCo",
+        "created_at": "Fri Mar 20 19:00:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035068880935104512",
+            "url": "https://pbs.twimg.com/media/HD4EXW2WsAAUGJY.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4914384040",
+          "name": "The Babylon Bee",
+          "screen_name": "TheBabylonBee",
+          "description": "Fake news you can trust 🐝",
+          "followers_count": 5227443,
+          "friends_count": 10,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 169,
+          "favorite_count": 1750,
+          "reply_count": 218,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237029442,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 169,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035071792860086646",
+      "text": "RT @dontbesilent: 当我意识到 skill 其实是以文本形式存在的软件\n\n我发现我积累的一万多条推文，已经完全具备了做出这个软件的基础条件\n\n接下来做一组 skill 发布到 GitHub —— dbskill https://t.co/jsEaZjD9Sa",
+      "created_at": "Fri Mar 20 19:11:39 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035049240704294914",
+          "url": "https://pbs.twimg.com/media/HD3ygJSboAIiGSt.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035049340725797065",
+        "text": "当我意识到 skill 其实是以文本形式存在的软件\n\n我发现我积累的一万多条推文，已经完全具备了做出这个软件的基础条件\n\n接下来做一组 skill 发布到 GitHub —— dbskill https://t.co/jsEaZjD9Sa",
+        "created_at": "Fri Mar 20 17:42:26 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035049240704294914",
+            "url": "https://pbs.twimg.com/media/HD3ygJSboAIiGSt.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1596695231717871616",
+          "name": "dontbesilent",
+          "screen_name": "dontbesilent",
+          "description": "🔍 商业哲学爱好者 📡 维特根斯坦种草主播 🫆 生活合伙人 @XiaoNianTalk",
+          "followers_count": 72344,
+          "friends_count": 1215,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 63,
+          "reply_count": 6,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 199705,
+        "friends_count": 1587,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035067094090526746",
+      "text": "针对为什么没有点名 KIMI 的质疑，Lee 随后发了第二条推文，这次直接点了名：\"KIMI K2.5\"，承认这就是 Composer 2 的基座模型，并重申 Cursor 正在通过推理合作伙伴（比如 Fireworks）的条款遵守许可证，还表示个人对开源模型心怀感激。\nhttps://t.co/pqR0YLdITe\n\n问了下 Claude \"通过推理合作伙伴条款遵守许可证\"这个说法在法律逻辑上是不是站的住：\n\n---\n\n\"通过推理合作伙伴条款遵守许可证\"这个说法，在法律逻辑上站不太住。\n\nFireworks 是一家模型推理托管服务商，Cursor 通过 Fireworks 的基础设施来部署和运行模型。Fireworks 的服务条款管的是 Cursor 和 Fireworks 之间的商业关系：定价、算力、SLA 这些东西。而 Kimi K2.5 的修改版 MIT 许可证，义务直接指向的是最终面向用户的商业产品：如果你的产品月收入超过 2000 万美元，你必须在产品界面上醒目展示\"Kimi K2.5\"。\n\n这是两层完全不同的法律关系。Fireworks 的条款解决的是\"谁来跑这个模型\"，Kimi 的许可证管的是\"用这个模型做的产品怎么标注\"。用前者来满足后者，就像租了一间厨房就觉得不用遵守食品安全法一样，混淆了基础设施合规和产品层合规。\n\n许可证原文写得很明确：义务主体是\"你的商业产品或服务\"，覆盖范围包括\"衍生作品\"。不管 Cursor 在 Kimi K2.5 上跑了多少轮强化学习，只要基座来自 Kimi K2.5，最终产品就是衍生作品。而 Cursor 月收入 1.67 亿美元，是触发门槛的 8 倍多。该在界面上标注\"Kimi K2.5\"的是 Cursor 这个产品，不是 Fireworks 的后台。",
+      "created_at": "Fri Mar 20 18:52:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035050444347600936",
+        "text": "Since people really want me to say this: \"KIMI K2.5\" ‼️\n\nYes, that is the base we started from. And we are following the license through inference partner terms (e.g. Fireworks)\n\nI'm thankful for OSS models personally, good for the ecosystem.",
+        "created_at": "Fri Mar 20 17:46:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "81712767",
+          "name": "Lee Robinson",
+          "screen_name": "leerob",
+          "description": "Teaching developers @cursor_ai, previously @vercel",
+          "followers_count": 229055,
+          "friends_count": 762,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 1010,
+          "reply_count": 89,
+          "quote_count": 67
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 199705,
+        "friends_count": 1587,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2035054938674655466",
       "text": "😂",

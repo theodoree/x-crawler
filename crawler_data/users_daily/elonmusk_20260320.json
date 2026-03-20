@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 237019830,
+    "followers_count": 237029442,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260320",
-  "last_updated": "2026-03-20T18:13:53.755044",
-  "tweet_count": 49,
+  "last_updated": "2026-03-20T20:08:59.574820",
+  "tweet_count": 50,
   "tweets": [
     {
       "id": "2034784086506836180",
@@ -2294,6 +2294,57 @@
         "favorite_count": 2172,
         "reply_count": 679,
         "quote_count": 33
+      }
+    },
+    {
+      "id": "2035078203229053179",
+      "text": "RT @TheBabylonBee: Local Man Likes His Coffee Cold, With Milk, Just Like A Little Baby https://t.co/sZOIyvuo7D https://t.co/PnnPsIAVCo",
+      "created_at": "Fri Mar 20 19:37:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035068880935104512",
+          "url": "https://pbs.twimg.com/media/HD4EXW2WsAAUGJY.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035068883837624471",
+        "text": "Local Man Likes His Coffee Cold, With Milk, Just Like A Little Baby https://t.co/sZOIyvuo7D https://t.co/PnnPsIAVCo",
+        "created_at": "Fri Mar 20 19:00:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035068880935104512",
+            "url": "https://pbs.twimg.com/media/HD4EXW2WsAAUGJY.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4914384040",
+          "name": "The Babylon Bee",
+          "screen_name": "TheBabylonBee",
+          "description": "Fake news you can trust 🐝",
+          "followers_count": 5227443,
+          "friends_count": 10,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 169,
+          "favorite_count": 1750,
+          "reply_count": 218,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 169,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
