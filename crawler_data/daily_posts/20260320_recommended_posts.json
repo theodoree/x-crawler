@@ -1,12 +1,378 @@
 {
   "date": "20260320",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-20T00:23:00.036407",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-20T03:00:17.233926",
+  "tweet_count": 206,
+  "unique_tweet_count": 206,
+  "total_crawled": 400,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2034824678024638586",
+      "text": "We don’t live in a democracy if our elected leaders fail to implement the will of the people",
+      "created_at": "Fri Mar 20 02:49:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034762536126390318",
+        "text": "CBS News Poll: Do you favor or oppose requiring people to show valid photo ID before they are permitted to vote?\n\n🟢 Favor: 80%\n🟤 Oppose: 20%\n——\n• Dem: 65-35 (+30)\n• GOP: 95-5 (+90)\n• Indie: 79-21 (+58)\n• White: 80-20 (+60)\n• Black: 80-20 (+60)\n• Hispanic: 77-23 (+55)\n\nYouGov | 3/16-19 | 2,496 A",
+        "created_at": "Thu Mar 19 22:42:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034762531613671424",
+            "url": "https://pbs.twimg.com/media/HDztvesbgAALlmZ.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1427476600744988672",
+          "name": "InteractivePolls",
+          "screen_name": "IAPolls2022",
+          "description": "🗳️ Polling and Prediction Markets Aggregator\n📊 Live, unbiased election forecasts: https://t.co/rDzcdHFUG2",
+          "followers_count": 232891,
+          "friends_count": 512,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1321,
+          "favorite_count": 3518,
+          "reply_count": 233,
+          "quote_count": 164
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236990195,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 493,
+        "favorite_count": 2590,
+        "reply_count": 529,
+        "quote_count": 35
+      }
+    },
+    {
+      "id": "2034807488848306387",
+      "text": "RT @JessePeltan: Happy Solar Pessimism Chart Update Day to all who celebrate https://t.co/fpDxAdoa3D",
+      "created_at": "Fri Mar 20 01:41:24 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2034793328924147712",
+          "url": "https://pbs.twimg.com/media/HD0JwHnbwAAAwt8.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2034794745743253880",
+        "text": "Happy Solar Pessimism Chart Update Day to all who celebrate https://t.co/fpDxAdoa3D",
+        "created_at": "Fri Mar 20 00:50:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034793328924147712",
+            "url": "https://pbs.twimg.com/media/HD0JwHnbwAAAwt8.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2034783423173181530",
+          "text": "NEW | The world installed a record 814 GW of solar and wind capacity in 2025 ☀️⚡️\n\nThat's over 1,000 TWh of electricity generation per year...\n\n...enough to displace nearly twice Qatar's annual LNG export volume in gas generation 🔥❌\n\nFossil fuels crisis? Wind and solar deliver. https://t.co/7hvLNFBbQV",
+          "created_at": "Fri Mar 20 00:05:47 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2034765421128355840",
+              "url": "https://pbs.twimg.com/media/HDzwXq-akAAH6B7.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "777116516357726208",
+            "name": "Nicolas Fulghum",
+            "screen_name": "nicolasfulghum",
+            "description": "Senior Energy and Climate Data Analyst @ember_energy. Finding, curating and explaining the data behind the global energy⚡️transition.",
+            "followers_count": 4935,
+            "friends_count": 649,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 26,
+            "favorite_count": 89,
+            "reply_count": 12,
+            "quote_count": 3
+          }
+        },
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 71680,
+          "friends_count": 431,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 194,
+          "favorite_count": 982,
+          "reply_count": 121,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236990195,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 194,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034807233746542620",
+      "text": "Tesla Semi is super fun to drive",
+      "created_at": "Fri Mar 20 01:40:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034798897571271027",
+        "text": "WSJ: Tesla Finally Has Its First Semi-Truck and It’s Already a Hit With Truckers.\n\n\"Truckers who drove it in pilot tests say they loved features including a centered driving position, faster charging and longer range for about $100,000 less than other battery-electric trucks. Angel Rodriguez, a 56-year-old truck driver for Hight Logistics in Long Beach, Calif., recently swapped out a 13-gear diesel truck for a Tesla Semi, which is automatic, for a one-month pilot test. “It’s just easier on your body. It’s less stressful because you’re not really having to engage the clutch and the stick shift.”\n\nBig F Transport employs five mechanics to service more than 40 diesel-powered rigs and a fleet of trailer chassis in Wilmington, Calif. “If we go all EV we will only need one [mechanic] to service chassis,” said Geovanny Melendez, the carrier’s VP of operations, who went to see the Semi earlier this month at a ride-and-drive event near the Port of Long Beach.\n\nJennie Abarca, co-founder and CEO of King Fio Trucking in Long Beach, Calif., once worked as a truck dispatcher and her husband is a truck driver, so she knows all too well the toll a diesel engine takes on people’s lungs and hearing. She eventually wants to swap out King Fio’s 27 diesel trucks to create an all-electric fleet. \n\nKing Fio already has 11 battery-electric trucks from Volvo and Nikola. But the company limits those trucks to shorter trips to and from local ports because they only have a range of about 225 miles. \n\nThe Semi, by contrast, can travel 500 miles on a single charge, according to Tesla. For King Fio that means two or three round-trips a day from Long Beach to warehouses in the nearby Inland Empire or a single round-trip to Las Vegas. She has 20 Semis on order. \n\n“The Teslas change everything,” Abarca said. “It opens up a whole different type of delivery that I can make.”",
+        "created_at": "Fri Mar 20 01:07:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034797184583950337",
+            "url": "https://pbs.twimg.com/media/HD0NQjEXYAE-Z2S.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1049961,
+          "friends_count": 439,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 292,
+          "favorite_count": 2228,
+          "reply_count": 179,
+          "quote_count": 58
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236990195,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1325,
+        "favorite_count": 11007,
+        "reply_count": 1410,
+        "quote_count": 74
+      }
+    },
+    {
+      "id": "2034807033082650827",
+      "text": "🥰 🇺🇸",
+      "created_at": "Fri Mar 20 01:39:36 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034805428765208985",
+        "text": "Hahaha repping @xx_xyathletics 🇺🇸 https://t.co/TxthDvMY3U",
+        "created_at": "Fri Mar 20 01:33:13 +0000 2026",
+        "lang": "tl",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034805425510490112",
+            "url": "https://pbs.twimg.com/media/HD0UwO6XIAAILjK.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1589986640587640834",
+          "name": "Riley Gaines",
+          "screen_name": "Riley_Gaines_",
+          "description": "Host of the Riley Gaines Show on @foxnews | Best-selling Author | TPUSA contributor",
+          "followers_count": 1678012,
+          "friends_count": 639,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 92,
+          "favorite_count": 1484,
+          "reply_count": 105,
+          "quote_count": 17
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236990195,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1303,
+        "favorite_count": 15686,
+        "reply_count": 960,
+        "quote_count": 64
+      }
+    },
+    {
+      "id": "2034806212223815944",
+      "text": "This has been going on for a long time",
+      "created_at": "Fri Mar 20 01:36:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034691312340136330",
+        "text": "I'm listening to Plutarch &amp; he starts the life of Pericles with a basically unrelated ramble about how certain women buy 'puppies and young monkeys' instead of having children. Truly nothing is new under the sun https://t.co/fGsO5V7gdX",
+        "created_at": "Thu Mar 19 17:59:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034691308837904385",
+            "url": "https://pbs.twimg.com/media/HDys9xLboAEOrNO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "163384337",
+          "name": "𝖒𝖎𝖈𝖍𝖆𝖊𝖑𝖈𝖚𝖗𝖟𝖎",
+          "screen_name": "michaelcurzi",
+          "description": "movies @hallsongmedia // writing https://t.co/vinoTvx8M9",
+          "followers_count": 10381,
+          "friends_count": 1061,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 710,
+          "favorite_count": 6267,
+          "reply_count": 78,
+          "quote_count": 31
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236990195,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 989,
+        "favorite_count": 8176,
+        "reply_count": 690,
+        "quote_count": 33
+      }
+    },
+    {
+      "id": "2034788746483384790",
+      "text": "Cute",
+      "created_at": "Fri Mar 20 00:26:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034762817845231650",
+        "text": "Kardashev II loading… \n\nSpaceX filed for 1M orbital data center satellites\n\nStarcloud (NVIDIA-backed) filed for 88K sats\n\nBlue Origin just filed for 51K sats.\n\nThese aren’t sci-fi sketches, they’re FCC filings.\n\nFirst nodes of a solar-harnessing swarm are deploying soon. https://t.co/06lBBVcGcm",
+        "created_at": "Thu Mar 19 22:43:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034762814254923776",
+            "url": "https://pbs.twimg.com/media/HDzt_7nWwAAJIX3.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1505909833190592519",
+          "name": "Space Investor",
+          "screen_name": "SpaceInvestor_D",
+          "description": "Ex market maker. Now Investing in the final frontier. Subscribe for more ⤵️",
+          "followers_count": 46815,
+          "friends_count": 1798,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 101,
+          "favorite_count": 650,
+          "reply_count": 127,
+          "quote_count": 36
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236990195,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1728,
+        "favorite_count": 14074,
+        "reply_count": 1627,
+        "quote_count": 70
+      }
+    },
     {
       "id": "2034786752335106178",
       "text": "😂",
