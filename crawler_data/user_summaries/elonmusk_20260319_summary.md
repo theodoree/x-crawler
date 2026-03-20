@@ -1,0 +1,14 @@
+## 核心动态
+- 大力推动 Grok / Grok Imagine：多条转发和原推支持 Grok Imagine 的视频生成功能、模板（如 Chibi、导演式多镜头）与社群作品，且推荐用户试用，显示 xAI 在视觉生成产品上的集中推广与扩散。  
+- 推广 Grok 4.20 与 Grok Heavy：明确推荐“Try Grok 4.20 Heavy / Try Grok 4.20”，并转发关于 4.20 Beta 低幻觉率和多代理（4-agent）并行的性能宣称，意在凸显准确性与企业/订阅版能力。  
+- 宣传 Tesla 自动驾驶与相关证明：多次鼓励“Try Tesla self-driving”，并转发声称 FSD 已显著降低事故/死亡、能预防上百起致命事故的统计与实地测试视频，继续以安全性与用户体验为公关重点。  
+- 宣布 X 推荐算法大更新并将开源：发布“Major update to the 𝕏 AI recommendation algorithm rolling out next week. This will be open sourced at the same time.”，这是对平台内容分发机制和透明度的重大信号。
+
+## 值得关注
+- Grok 生态热度高：大量账号（媒体人、名人、社群）在推特上展示用 Grok Imagine 生成的短片/模板，包含多场景、角色一致性等高级功能，社区传播快、互动量大。  
+- 技术与产品亮点被强调：有人宣称 Grok 在视频生成、视频编辑、multi-input 到视频等基准上处于领先，且 Grok Heavy 被描述为“更快、有多代理并行”的升级体验。  
+- 商用/部署信号：转发 Tesla 关于 FSD 试驾（demo drive、自助体验）和 SpaceX 关于 Super Heavy V3 / Pad 2 试验的官方信息，表明硬件与服务同步推进。  
+- Starlink 扩展与鲁棒性：提到“Starlink even works in an Arctic winter” 与英国航空首架装配 Starlink 的航班，暗示商用部署与极端环境可靠性。  
+- 小功能与使用提示：推文里有针对 Grok Web 的“Be a dictator!”（Ctrl+D 激活 dictation）和下载/模板推荐等实用提示，推动用户上手。  
+- 社交与政治取向明显：大量转发涉及种族、犯罪、移民、“wokeness”等敏感政治议题的内容，表明信息放大方向与社群调性；这些帖子互动和争议都很高。  
+- 时间点重要：X 算法开源与推荐机制更新定在下周，若兑现将影响平台生态与第三方研究者的可视化审查。
