@@ -1,12 +1,353 @@
 {
   "date": "20260320",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-20T04:35:53.635878",
-  "tweet_count": 206,
-  "unique_tweet_count": 206,
+  "last_crawl_time": "2026-03-20T06:20:24.273450",
+  "tweet_count": 211,
+  "unique_tweet_count": 211,
   "total_crawled": 406,
-  "duplicates_removed": 200,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2034863434379284796",
+      "text": "Try using @Grok for your taxes!",
+      "created_at": "Fri Mar 20 05:23:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034785285205369074",
+        "text": ".@grok just saved my sister $1,441 on her taxes.  I had it check the turbotax output and it found a mistake.  Seriously - 4.20 is very good with taxes.",
+        "created_at": "Fri Mar 20 00:13:11 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "24405165",
+          "name": "jimmah",
+          "screen_name": "jamesdouma",
+          "description": "deep learning dork",
+          "followers_count": 57889,
+          "friends_count": 249,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 38,
+          "favorite_count": 595,
+          "reply_count": 61,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236987194,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 599,
+        "favorite_count": 5432,
+        "reply_count": 1314,
+        "quote_count": 62
+      }
+    },
+    {
+      "id": "2034862419844243841",
+      "text": "RT @markpinc: The truth about sf homelessness spending. Its squandered by bureaucracy.",
+      "created_at": "Fri Mar 20 05:19:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034817401804791935",
+        "text": "The truth about sf homelessness spending. Its squandered by bureaucracy.",
+        "created_at": "Fri Mar 20 02:20:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2034500504265568722",
+          "text": "San Francisco spends $141,852 per Homeless Person on Average which is almost be same as the median household income for 2025. Let that sink in. https://t.co/Yf1TgslGww",
+          "created_at": "Thu Mar 19 05:21:34 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2034500502038413312",
+              "url": "https://pbs.twimg.com/media/HDv_bWdagAAhIGw.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1254430021055164418",
+            "name": "Citizenj17 ✝️🇺🇸",
+            "screen_name": "citizenj17",
+            "description": "Catholic man living in San Francisco.",
+            "followers_count": 7876,
+            "friends_count": 894,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 98,
+            "favorite_count": 279,
+            "reply_count": 59,
+            "quote_count": 27
+          }
+        },
+        "user": {
+          "id": "13198",
+          "name": "mark pincus",
+          "screen_name": "markpinc",
+          "description": "Founder @zynga. Partner/Reinvent Capital. Passionate product maker, biker, surfer. Father of three amazing girls and two amazing boys!",
+          "followers_count": 118657,
+          "friends_count": 2663,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 226,
+          "favorite_count": 1115,
+          "reply_count": 162,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236987194,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 226,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034861952280011197",
+      "text": "Madness",
+      "created_at": "Fri Mar 20 05:17:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034752518555586859",
+        "text": "The more I read this, the more I realize how it is utterly illiterate. \n\nHow exactly do you decolonize someone’s birthplace? He lived there. No one came in and conquered his house. It’s just a house of a man that exists. \n\nThese people are exhausting \n\n🙄 https://t.co/EpW9oay8ke",
+        "created_at": "Thu Mar 19 22:02:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034752512603938816",
+            "url": "https://pbs.twimg.com/media/HDzkoS-XYAA8Tsk.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2996134081",
+          "name": "Joshua D Phillips",
+          "screen_name": "JoshPhillipsPhD",
+          "description": "University Professor. Assoc Head Coach for @WT_Wrestling. I read old books, lift heavy weights, and mostly post about Tolstoy.",
+          "followers_count": 8084,
+          "friends_count": 1240,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 643,
+          "favorite_count": 4348,
+          "reply_count": 479,
+          "quote_count": 87
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236987194,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1665,
+        "favorite_count": 11390,
+        "reply_count": 813,
+        "quote_count": 50
+      }
+    },
+    {
+      "id": "2034861573882482733",
+      "text": "Nailed it",
+      "created_at": "Fri Mar 20 05:16:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034799120565580175",
+        "text": "Democrats: “lol if we ever come to power again we are going to flood the country with another 100 million illegals and throw you all in prison.”\n\nSenate GOP: “Ermmm guys… We can’t break with our precious norms and procedures and pass voter ID…”",
+        "created_at": "Fri Mar 20 01:08:09 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "983108315466162178",
+          "name": "Logan Hall",
+          "screen_name": "loganclarkhall",
+          "description": "Native American | Digital: @theblaze, @frontier_mag_ | Words in @townhallcom, @theammind | Golfer | Ohio Always |",
+          "followers_count": 120778,
+          "friends_count": 1417,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 902,
+          "favorite_count": 4546,
+          "reply_count": 104,
+          "quote_count": 24
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236987194,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1070,
+        "favorite_count": 8044,
+        "reply_count": 584,
+        "quote_count": 22
+      }
+    },
+    {
+      "id": "2034855037386858718",
+      "text": "RT @tetsuoai: Try the Chibi template on Grok Imagine 🤣 https://t.co/FG1ezQgd4W",
+      "created_at": "Fri Mar 20 04:50:21 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2034805022396227590",
+          "url": "https://pbs.twimg.com/media/HD0UYxMboAYKoVw.jpg"
+        },
+        {
+          "type": "video",
+          "id": "2034805245407371267",
+          "url": "https://video.twimg.com/amplify_video/2034805245407371267/vid/avc1/720x720/BxNdZS5jty4hiq3D.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2034805664221143505",
+        "text": "Try the Chibi template on Grok Imagine 🤣 https://t.co/FG1ezQgd4W",
+        "created_at": "Fri Mar 20 01:34:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034805022396227590",
+            "url": "https://pbs.twimg.com/media/HD0UYxMboAYKoVw.jpg"
+          },
+          {
+            "type": "video",
+            "id": "2034805245407371267",
+            "url": "https://video.twimg.com/amplify_video/2034805245407371267/vid/avc1/720x720/BxNdZS5jty4hiq3D.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2034744047248543993",
+          "text": "Oh this update is coming to GAG CITY!!! \nIt’s so cute😩\nBarbz, post your own \n#Chibi \nTemplate on Grok Imagine &amp; tag me. \nI’ll pick my faves 🩷 https://t.co/axGhWdtBvO",
+          "created_at": "Thu Mar 19 21:29:19 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2034743994022821888",
+              "url": "https://pbs.twimg.com/media/HDzc4cyXAAAEqTJ.jpg"
+            },
+            {
+              "type": "video",
+              "id": "2034743994068983810",
+              "url": "https://video.twimg.com/amplify_video/2034743994068983810/vid/avc1/484x640/pi-PX5FZQu-j6AQ2.mp4?tag=21",
+              "bitrate": 950000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "35787166",
+            "name": "Nicki Minaj",
+            "screen_name": "NICKIMINAJ",
+            "description": "🇺🇸 #PinkFriday2 THE ALBUM is OUT NOW #PinkFriday2FRAGRANCE out now 🎀 @PinkFridayNails 💅🏽 @locibynickim LØCi 👟",
+            "followers_count": 26176359,
+            "friends_count": 6981,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1990,
+            "favorite_count": 15680,
+            "reply_count": 2191,
+            "quote_count": 564
+          }
+        },
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C · asm · AI & art via grok · @tetsuocorp · @7etsuo · @a_g_e_n_c\n\nAgenC //: 👾",
+          "followers_count": 231682,
+          "friends_count": 1060,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 118,
+          "favorite_count": 792,
+          "reply_count": 160,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236987194,
+        "friends_count": 1300,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 118,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2034824678024638586",
       "text": "We don’t live in a democracy if our elected leaders fail to implement the will of the people",
