@@ -1,12 +1,92 @@
 {
   "date": "20260320",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-20T14:18:45.995894",
-  "tweet_count": 244,
-  "unique_tweet_count": 244,
-  "total_crawled": 436,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-03-20T16:15:46.647674",
+  "tweet_count": 246,
+  "unique_tweet_count": 246,
+  "total_crawled": 444,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2035017845801689440",
+      "text": "Cursor 上线 Composer 2 不到 24 小时，就被开发者扒出了底裤。\n（以下内容 Claude 辅助生成）\n\n一个叫 Fynn 的开发者在调试 Cursor 的 API 时，发现返回的模型 ID 赫然写着：kimi-k2p5-rl-0317-s515-fast。翻译成人话：这就是月之暗面（Moonshot AI）的 Kimi K2.5，加了一层强化学习（RL）微调。\n\nMoonshot AI 预训练负责人 Yulun Du 随即在 X 上发帖确认，经测试 Composer 2 的 tokenizer 和 Kimi 的完全一致，并直接 @ 了 Cursor 联合创始人 Michael Truell，质问为什么不遵守许可证、也没有支付任何费用。另外两名 Moonshot 员工也发帖证实，不过三条帖子后来都被删除了。\n\n而 Cursor 在 3 月 19 日发布 Composer 2 时，只提到性能提升来自\"对基座模型的持续预训练加强化学习\"，全程没有提到 Kimi K2.5。这两件事并不矛盾，持续预训练和 RL 本来就是在某个基座模型上做的，Cursor 只是没说基座是谁的。\n\n这不是第一次了\n\n去年 10 月 Cursor 发布 Composer 1 时，多国开发者发现生成的代码中频繁出现中文。Alley Corp 合伙人 Kenneth Auchenberg 当时贴出截图，直言这是\"铁证\"，认为 Composer 1 就是基于中国开源模型微调的。KR-Asia 和 36Kr 后来证实，Cursor 和 Windsurf 都在使用中国开源模型，其中 Windsurf 承认用的是智谱的 GLM。Cursor 从来没有公开披露 Composer 1 的底层模型，后来悄悄发了 Composer 1.5 就翻篇了。\n\n许可证才是核心问题\n\nKimi K2.5 使用的是修改版 MIT 许可证，里面有一条专门为这种场景设计的条款：如果使用该模型（包括衍生作品）的商业产品月活超过 1 亿或月收入超过 2000 万美元，必须在产品界面上醒目展示\"Kimi K2.5\"字样。\n\nCursor 今年 2 月的年化收入已经突破 20 亿美元，换算成月收入大约 1.67 亿美元，是许可证门槛的 8 倍多。但 Cursor 的界面上只写着\"Composer 2\"，没有任何 Kimi 的标识。\n\n与此同时，Cursor 正在跟投资人谈一轮新融资，估值目标约 500 亿美元，相比去年 11 月的 293 亿美元估值几乎翻倍。而 Moonshot AI 上一轮估值据报道约 43 亿美元。一个估值是对方 12 倍的公司，拿了对方的模型包装成自研技术，用来支撑\"前沿实验室\"的叙事去融资。\n\n截至目前，Cursor 没有做出任何公开回应。\n\n这件事的后续走向，对整个开源 AI 生态有标杆意义。如果 Moonshot 不对一家年收入 20 亿美元的公司执行许可证，那以后所有开源模型的署名条款就成了摆设。每家 AI 实验室都会算同一笔账：为什么要开源自己的模型，让分发能力更强的公司去掉署名、包装成自研、然后以 12 倍于你的估值去融资？",
+      "created_at": "Fri Mar 20 15:37:17 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035017812335378433",
+          "url": "https://pbs.twimg.com/media/HD3V6xfXwAEdyJt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2035003184192630985",
+        "text": "Cursor is raising at a $50 billion valuation on the claim that its “in-house models generate more code than almost any other LLMs in the world.” Less than 24 hours after launching Composer 2, a developer found the model ID in the API response: kimi-k2p5-rl-0317-s515-fast.\n\nThat’s Moonshot AI’s Kimi K2.5 with reinforcement learning appended. A developer named Fynn was testing Cursor’s OpenAI-compatible base URL when the identifier leaked through the response headers. Moonshot’s head of pretraining, Yulun Du, confirmed on X that the tokenizer is identical to Kimi’s and questioned Cursor’s license compliance. Two other Moonshot employees posted confirmations. All three posts have since been deleted.\n\nThis is the second time. When Cursor launched Composer 1 in October 2025, users across multiple countries reported the model spontaneously switching its inner monologue to Chinese mid-session. Kenneth Auchenberg, a partner at Alley Corp, posted a screenshot calling it a smoking gun. KR-Asia and 36Kr confirmed both Cursor and Windsurf were running fine-tuned Chinese open-weight models underneath. Cursor never disclosed what Composer 1 was built on. They shipped Composer 1.5 in February and moved on.\n\nThe pattern: take a Chinese open-weight model, run RL on coding tasks, ship it as a proprietary breakthrough, publish a cost-performance chart comparing yourself against Opus 4.6 and GPT-5.4 without disclosing that your base model was free, then raise another round.\n\nThat chart from the Composer 2 announcement deserves its own paragraph. Cursor plotted Composer 2 against frontier models on a price-vs-quality axis to argue they’d hit a superior tradeoff. What the chart doesn’t show is that Anthropic and OpenAI trained their models from scratch. Cursor took an open-weight model that Moonshot spent hundreds of millions developing, ran RL on top, and presented the output as evidence of in-house research. That’s margin arbitrage on someone else’s R&D dressed up as a benchmark slide.\n\nThe license makes this more than an attribution oversight. Kimi K2.5 ships under a Modified MIT License with one clause designed for exactly this scenario: if your product exceeds $20 million in monthly revenue, you must prominently display “Kimi K2.5” on the user interface. Cursor’s ARR crossed $2 billion in February. That’s roughly $167 million per month, 8x the threshold. The clause covers derivative works explicitly.\n\nCursor is valued at $29.3 billion and raising at $50 billion. Moonshot’s last reported valuation was $4.3 billion. The company worth 12x more took the smaller company’s model and shipped it as proprietary technology to justify a valuation built on the frontier lab narrative.\n\nThree Composer releases in five months. Composer 1 caught speaking Chinese. Composer 2 caught with a Kimi model ID in the API. A P0 incident this year. And a benchmark chart that compares an RL fine-tune against models requiring billions in training compute without disclosing the base was free.\n\nThe question for investors in the $50 billion round: what exactly are you buying? A VS Code fork with strong distribution, or a frontier research lab? The model ID in the API answers that.\n\nIf Moonshot doesn’t enforce this license against a company generating $2 billion annually from a derivative of their model, the attribution clause becomes decoration for every future open-weight release. Every AI lab watching this is running the same math: why open-source your model if companies with better distribution can strip attribution, call it proprietary, and raise at 12x your valuation?\n\nkimi-k2p5-rl-0317-s515-fast is the most expensive model ID leak in the history of AI licensing.",
+        "created_at": "Fri Mar 20 14:39:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "101805159",
+          "name": "Aakash Gupta",
+          "screen_name": "aakashgupta",
+          "description": "✍️ https://t.co/8fvSCtBv5Q: $72K/m 💼 https://t.co/STzr4nqxnm: $39K/m 🤝 https://t.co/SqC3jTyP03: $37K/m 🎙️ https://t.co/fmB6Zf5UZv: $30K/m",
+          "followers_count": 202559,
+          "friends_count": 768,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 97,
+          "favorite_count": 761,
+          "reply_count": 86,
+          "quote_count": 39
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 199603,
+        "friends_count": 1587,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 40,
+        "reply_count": 8,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2035015960537485507",
+      "text": "https://t.co/xMUJVzU7hd",
+      "created_at": "Fri Mar 20 15:29:48 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 199603,
+        "friends_count": 1587,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 52,
+        "reply_count": 5,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2034983617341137406",
       "text": "RT @testerlabor: I have asked Grok and its Agents: \"What is the truth?\" The answer was \"Truth is that which corresponds to reality.\" The mo…",
