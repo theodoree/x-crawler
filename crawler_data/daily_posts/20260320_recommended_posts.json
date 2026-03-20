@@ -1,12 +1,477 @@
 {
   "date": "20260320",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-20T12:11:59.876063",
-  "tweet_count": 236,
-  "unique_tweet_count": 236,
-  "total_crawled": 422,
-  "duplicates_removed": 186,
+  "last_crawl_time": "2026-03-20T14:18:45.995894",
+  "tweet_count": 244,
+  "unique_tweet_count": 244,
+  "total_crawled": 436,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2034983617341137406",
+      "text": "RT @testerlabor: I have asked Grok and its Agents: \"What is the truth?\" The answer was \"Truth is that which corresponds to reality.\" The mo…",
+      "created_at": "Fri Mar 20 13:21:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034769368299491388",
+        "text": "I have asked Grok and its Agents: \"What is the truth?\" The answer was \"Truth is that which corresponds to reality.\" The most funny thought came from Agent 3: \"The truth? It's reality, minus the bullshit.\" https://t.co/7WRSsl1eOs",
+        "created_at": "Thu Mar 19 23:09:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034769305720508416",
+            "url": "https://pbs.twimg.com/media/HDzz5yNW0AAPrAt.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1769074421438803968",
+          "name": "Testlabor",
+          "screen_name": "testerlabor",
+          "description": "Tech and AI Tester & researcher - Grok user since 1.5 - News, Updates, Results and more.",
+          "followers_count": 13218,
+          "friends_count": 777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 190,
+          "favorite_count": 1141,
+          "reply_count": 180,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236997539,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 190,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034982760247697431",
+      "text": "RT @teslaownersSV: Grok is the most important tool and resource I have on my iPhone.",
+      "created_at": "Fri Mar 20 13:17:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034806989545775495",
+        "text": "Grok is the most important tool and resource I have on my iPhone.",
+        "created_at": "Fri Mar 20 01:39:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.\n2.8M followers",
+          "followers_count": 1399877,
+          "friends_count": 849,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 136,
+          "favorite_count": 867,
+          "reply_count": 167,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236997539,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 136,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034982692128006347",
+      "text": "It’s probably been a tough day for @grok",
+      "created_at": "Fri Mar 20 13:17:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034976865580965927",
+        "text": "@elonmusk Grok is tired https://t.co/3aBLdZAlVm",
+        "created_at": "Fri Mar 20 12:54:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034976854671593473",
+            "url": "https://pbs.twimg.com/media/HD2wquTXkAEY8Ca.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1903713705231032320",
+          "name": "splendour",
+          "screen_name": "__splendour_",
+          "description": "Not perfect. Just persistent, follow and I’ll definitely follow back no matter what.",
+          "followers_count": 1636,
+          "friends_count": 939,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 34,
+          "favorite_count": 346,
+          "reply_count": 178,
+          "quote_count": 33
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236997539,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1296,
+        "favorite_count": 15076,
+        "reply_count": 3032,
+        "quote_count": 158
+      }
+    },
+    {
+      "id": "2034975902686486627",
+      "text": "https://t.co/mWJzDi7VcW",
+      "created_at": "Fri Mar 20 12:50:37 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2034975899989463040",
+          "url": "https://pbs.twimg.com/media/HD2vzJ1aUAAolT2.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236997539,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1250,
+        "favorite_count": 13894,
+        "reply_count": 2381,
+        "quote_count": 265
+      }
+    },
+    {
+      "id": "2034974156098609175",
+      "text": "RT @KatieMiller: Grok is the only AI that is optimized to be maximally truth-seeking with a side of humor. \n\nThe other AIs are programmed t…",
+      "created_at": "Fri Mar 20 12:43:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034972266044203491",
+        "text": "Grok is the only AI that is optimized to be maximally truth-seeking with a side of humor. \n\nThe other AIs are programmed to be your woke overlord. https://t.co/InhkKYH8Pt",
+        "created_at": "Fri Mar 20 12:36:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034972262575538176",
+            "url": "https://pbs.twimg.com/media/HD2sfbaWgAAz-f6.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2034956608825159828",
+          "text": "With @Grok, we keep the honest versions and kill the bad transformers (I believe they are called “Decepticons”)",
+          "created_at": "Fri Mar 20 11:33:57 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 236997539,
+            "friends_count": 1301,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2116,
+            "favorite_count": 34218,
+            "reply_count": 2159,
+            "quote_count": 176
+          }
+        },
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 215680,
+          "friends_count": 911,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 255,
+          "favorite_count": 1492,
+          "reply_count": 312,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236997539,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 255,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034974097843921382",
+      "text": "RT @Rothmus: https://t.co/wcxJ3xsyra",
+      "created_at": "Fri Mar 20 12:43:27 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2034798269159682048",
+          "url": "https://pbs.twimg.com/media/HD0OPrbXsAA_WvV.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2034798271932010953",
+        "text": "https://t.co/wcxJ3xsyra",
+        "created_at": "Fri Mar 20 01:04:47 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034798269159682048",
+            "url": "https://pbs.twimg.com/media/HD0OPrbXsAA_WvV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 654160,
+          "friends_count": 2779,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 382,
+          "favorite_count": 2290,
+          "reply_count": 148,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236997539,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 382,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034969845654331510",
+      "text": "RT @TheCinesthetic: That cut in 2001: A Space Odyssey (1968) from the bone in the air to the spaceship is still unreal. One edit jumps mill…",
+      "created_at": "Fri Mar 20 12:26:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034967691564568878",
+        "text": "That cut in 2001: A Space Odyssey (1968) from the bone in the air to the spaceship is still unreal. One edit jumps millions of years and says everything about human progress in a single moment. https://t.co/RYhjxMPHdE",
+        "created_at": "Fri Mar 20 12:18:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2001688379868553216",
+            "url": "https://video.twimg.com/amplify_video/2001688379868553216/vid/avc1/1920x1080/9ykyYbtqzbVpg5Nx.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2034790272786473392",
+          "text": "Best transition ever filmed?",
+          "created_at": "Fri Mar 20 00:33:00 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "907173236097646592",
+            "name": "cinesthetic.",
+            "screen_name": "TheCinesthetic",
+            "description": "motion picture person. cinema, music, tv and beyond. For Ads, Promotion / Partnership- DM or Email: thecinesthetic@gmail.com",
+            "followers_count": 1587587,
+            "friends_count": 224,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 14,
+            "favorite_count": 82,
+            "reply_count": 86,
+            "quote_count": 22
+          }
+        },
+        "user": {
+          "id": "907173236097646592",
+          "name": "cinesthetic.",
+          "screen_name": "TheCinesthetic",
+          "description": "motion picture person. cinema, music, tv and beyond. For Ads, Promotion / Partnership- DM or Email: thecinesthetic@gmail.com",
+          "followers_count": 1587587,
+          "friends_count": 224,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 345,
+          "favorite_count": 4149,
+          "reply_count": 266,
+          "quote_count": 28
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236997539,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 345,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034968879034978402",
+      "text": "RT @piloly: Tesla surpassed Ford in BEV sales in the UK and is now the top-selling BEV brand for the quarter. 🇬🇧\n\nFrom last place to first…",
+      "created_at": "Fri Mar 20 12:22:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2034964169145921909",
+        "text": "Tesla surpassed Ford in BEV sales in the UK and is now the top-selling BEV brand for the quarter. 🇬🇧\n\nFrom last place to first place within 23 days. https://t.co/QFoTomJlnx",
+        "created_at": "Fri Mar 20 12:04:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034921537292185600",
+            "url": "https://pbs.twimg.com/media/HD1-W1AXsAAVUim.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20472409",
+          "name": "Roland Pircher",
+          "screen_name": "piloly",
+          "description": "Visualization of Tesla sales & financial data to separate signal from noise.\n\nTesla & Musk supporter and long term $TSLA investor since 2017.",
+          "followers_count": 28566,
+          "friends_count": 420,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 195,
+          "favorite_count": 1359,
+          "reply_count": 168,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 236997539,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 195,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2034965557209096662",
       "text": "RT @tetsuoai: @elonmusk Mercy to the guilty is cruelty to the innocent",
