@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 200101,
+    "followers_count": 200107,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260321",
-  "last_updated": "2026-03-21T20:06:21.472966",
-  "tweet_count": 3,
+  "last_updated": "2026-03-21T22:06:01.352763",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2035403905056583799",
@@ -153,6 +153,69 @@
       "quoted": null,
       "stats": {
         "retweet_count": 4,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035472276880015489",
+      "text": "RT @Michaelzsguo: @trq212 是Claude Code 开发团队里文章写的最棒的（我很好奇他们的产品经理没有太多文章也许我没看到）。 他把他所有的文章都列在这个Thread里。这不光是他的作品集， 更是如何用好Claude Code的技术秘诀。 如其看那些…",
+      "created_at": "Sat Mar 21 21:43:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2035382508624159100",
+        "text": "@trq212 是Claude Code 开发团队里文章写的最棒的（我很好奇他们的产品经理没有太多文章也许我没看到）。 他把他所有的文章都列在这个Thread里。这不光是他的作品集， 更是如何用好Claude Code的技术秘诀。 如其看那些卖课的，不如从技术源头去学习。",
+        "created_at": "Sat Mar 21 15:46:20 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2035372716820218141",
+          "text": "I put a lot of heart into my technical writing, I hope it's useful to you all. \n\n📌 Here's a pinned thread of everything I've written.\n\n(much of this will be posted on the Claude blog soon as well)",
+          "created_at": "Sat Mar 21 15:07:25 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "352806502",
+            "name": "Thariq",
+            "screen_name": "trq212",
+            "description": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+            "followers_count": 154841,
+            "friends_count": 1745,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 287,
+            "favorite_count": 3804,
+            "reply_count": 153,
+            "quote_count": 49
+          }
+        },
+        "user": {
+          "id": "1479852652150337542",
+          "name": "Michael Guo",
+          "screen_name": "Michaelzsguo",
+          "description": "Building AI agents and AI-native orgs. Demystifying AI in practice.  EN/中文",
+          "followers_count": 562,
+          "friends_count": 391,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 5,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

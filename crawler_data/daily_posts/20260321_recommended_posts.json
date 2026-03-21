@@ -1,12 +1,508 @@
 {
   "date": "20260321",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-21T20:06:21.416039",
-  "tweet_count": 251,
-  "unique_tweet_count": 251,
-  "total_crawled": 447,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-03-21T22:06:01.321130",
+  "tweet_count": 259,
+  "unique_tweet_count": 259,
+  "total_crawled": 451,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2035472276880015489",
+      "text": "RT @Michaelzsguo: @trq212 是Claude Code 开发团队里文章写的最棒的（我很好奇他们的产品经理没有太多文章也许我没看到）。 他把他所有的文章都列在这个Thread里。这不光是他的作品集， 更是如何用好Claude Code的技术秘诀。 如其看那些…",
+      "created_at": "Sat Mar 21 21:43:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2035382508624159100",
+        "text": "@trq212 是Claude Code 开发团队里文章写的最棒的（我很好奇他们的产品经理没有太多文章也许我没看到）。 他把他所有的文章都列在这个Thread里。这不光是他的作品集， 更是如何用好Claude Code的技术秘诀。 如其看那些卖课的，不如从技术源头去学习。",
+        "created_at": "Sat Mar 21 15:46:20 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2035372716820218141",
+          "text": "I put a lot of heart into my technical writing, I hope it's useful to you all. \n\n📌 Here's a pinned thread of everything I've written.\n\n(much of this will be posted on the Claude blog soon as well)",
+          "created_at": "Sat Mar 21 15:07:25 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "352806502",
+            "name": "Thariq",
+            "screen_name": "trq212",
+            "description": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+            "followers_count": 154841,
+            "friends_count": 1745,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 287,
+            "favorite_count": 3804,
+            "reply_count": 153,
+            "quote_count": 49
+          }
+        },
+        "user": {
+          "id": "1479852652150337542",
+          "name": "Michael Guo",
+          "screen_name": "Michaelzsguo",
+          "description": "Building AI agents and AI-native orgs. Demystifying AI in practice.  EN/中文",
+          "followers_count": 562,
+          "friends_count": 391,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 5,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 200107,
+        "friends_count": 1587,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035470539163308439",
+      "text": "RT @liam_out_loud: “We seem to be getting closer and closer to a situation where nobody is responsible for what they did but we are all res…",
+      "created_at": "Sat Mar 21 21:36:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035418798715523180",
+        "text": "“We seem to be getting closer and closer to a situation where nobody is responsible for what they did but we are all responsible for what somebody else did.”\n\n- Thomas Sowell https://t.co/nxfxtrU3Sy",
+        "created_at": "Sat Mar 21 18:10:32 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035418651319549952",
+            "url": "https://pbs.twimg.com/media/HD9CerEbQAAc8Ty.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1519160366063828994",
+          "name": "Liam Out Loud",
+          "screen_name": "liam_out_loud",
+          "description": "Aspiring Autodidactic Philosophical Savage. \nTruth–Life–Strength–Wisdom.",
+          "followers_count": 10582,
+          "friends_count": 173,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 270,
+          "favorite_count": 1282,
+          "reply_count": 134,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237123332,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 270,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035456731187388565",
+      "text": "RT @TRHLofficial: I’ll take the AI that doesn’t bIow everything up over pronouns tyvm",
+      "created_at": "Sat Mar 21 20:41:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035424321133228072",
+        "text": "I’ll take the AI that doesn’t bIow everything up over pronouns tyvm",
+        "created_at": "Sat Mar 21 18:32:29 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2035418603596755347",
+          "text": "https://t.co/KBRjUzeUtF",
+          "created_at": "Sat Mar 21 18:09:46 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1485689970593468416",
+            "name": "The Rabbit Hole",
+            "screen_name": "TheRabbitHole",
+            "description": "Navigating the discourse",
+            "followers_count": 1094069,
+            "friends_count": 1811,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 63,
+            "favorite_count": 224,
+            "reply_count": 42,
+            "quote_count": 26
+          }
+        },
+        "user": {
+          "id": "37190937",
+          "name": "The Redheaded libertarian",
+          "screen_name": "TRHLofficial",
+          "description": "HOST @SpacesXJosie @Timcast • 1776 Autodidact • “We’ll keep you :)” -CK • Catholic • America Only • Do No Harm But Take No Sh*t • Baby Machine",
+          "followers_count": 920013,
+          "friends_count": 1897,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 263,
+          "favorite_count": 1640,
+          "reply_count": 156,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237123332,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 263,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035451900536168697",
+      "text": "Interesting",
+      "created_at": "Sat Mar 21 20:22:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035423013211132192",
+        "text": "@elonmusk Grok vs Claude compiled here:",
+        "created_at": "Sat Mar 21 18:27:17 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1094069,
+          "friends_count": 1811,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 65,
+          "favorite_count": 431,
+          "reply_count": 84,
+          "quote_count": 14
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237123332,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 628,
+        "favorite_count": 6618,
+        "reply_count": 1060,
+        "quote_count": 32
+      }
+    },
+    {
+      "id": "2035451853060857927",
+      "text": "RT @piloly: This quarter, one in three cars sold in Norway is a Tesla. Tesla is dominationg this market. 🇳🇴 https://t.co/T6EW6OjpFD",
+      "created_at": "Sat Mar 21 20:21:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035350348706050048",
+          "url": "https://pbs.twimg.com/media/HD8EW8AXcAApdav.png"
+        }
+      ],
+      "retweet": {
+        "id": "2035351123754639726",
+        "text": "This quarter, one in three cars sold in Norway is a Tesla. Tesla is dominationg this market. 🇳🇴 https://t.co/T6EW6OjpFD",
+        "created_at": "Sat Mar 21 13:41:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035350348706050048",
+            "url": "https://pbs.twimg.com/media/HD8EW8AXcAApdav.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20472409",
+          "name": "Roland Pircher",
+          "screen_name": "piloly",
+          "description": "Visualization of Tesla sales & financial data to separate signal from noise.\n\nTesla & Musk supporter and long term $TSLA investor since 2017.",
+          "followers_count": 28626,
+          "friends_count": 420,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 264,
+          "favorite_count": 1842,
+          "reply_count": 137,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237123332,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 264,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035451780117786964",
+      "text": "It be a cuteness weekend",
+      "created_at": "Sat Mar 21 20:21:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035370305523167675",
+        "text": "QT a chibi version of you 🥹🫶✨ https://t.co/vWse3MfKWH",
+        "created_at": "Sat Mar 21 14:57:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035370249634074624",
+            "url": "https://video.twimg.com/amplify_video/2035370249634074624/vid/avc1/720x954/QPCsu6WWh3VBp2Ld.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2433741582",
+          "name": "Kris Kashtanova",
+          "screen_name": "icreatelife",
+          "description": "Creative AI Workflows | job: Sr. AI Evangelist @Adobe | 1st AI copyrights “Zarya of the Dawn”, \"Rose Enigma\" | my views | 日本語勉強中",
+          "followers_count": 114645,
+          "friends_count": 3577,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 23,
+          "favorite_count": 263,
+          "reply_count": 65,
+          "quote_count": 33
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237123332,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1002,
+        "favorite_count": 8121,
+        "reply_count": 1869,
+        "quote_count": 144
+      }
+    },
+    {
+      "id": "2035451267515085106",
+      "text": "RT @JessePeltan: China builds the way the U.S. did before we got in our own way.\n\nWe need to stop getting in our own way.",
+      "created_at": "Sat Mar 21 20:19:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035448997612077483",
+        "text": "China builds the way the U.S. did before we got in our own way.\n\nWe need to stop getting in our own way.",
+        "created_at": "Sat Mar 21 20:10:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2035192922212376674",
+          "text": "@trengriffin China just opened Shuangliu Bridge over Yangtze River yesterday. The 12th such bridge in one city (Wuhan). Built in 39 months. Cost $2.3B. Main span 4650ft https://t.co/uFjDxHhkgI",
+          "created_at": "Sat Mar 21 03:12:59 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2035192848879173632",
+              "url": "https://video.twimg.com/amplify_video/2035192848879173632/vid/avc1/720x1280/ocCZ0kQV0X7vVnPl.mp4?tag=21",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1745339950097428480",
+            "name": "Moss Landing",
+            "screen_name": "Arturo10185",
+            "description": "",
+            "followers_count": 236,
+            "friends_count": 159,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 9,
+            "favorite_count": 83,
+            "reply_count": 19,
+            "quote_count": 14
+          }
+        },
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 71892,
+          "friends_count": 436,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 328,
+          "favorite_count": 1937,
+          "reply_count": 285,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237123332,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 328,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035450712055071085",
+      "text": "RT @elonmusk: @AFP Ce sont des attardés mentaux",
+      "created_at": "Sat Mar 21 20:17:21 +0000 2026",
+      "lang": "fr",
+      "media": [],
+      "retweet": {
+        "id": "2035450261590958311",
+        "text": "@AFP Ce sont des attardés mentaux",
+        "created_at": "Sat Mar 21 20:15:33 +0000 2026",
+        "lang": "fr",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "",
+          "followers_count": 237123332,
+          "friends_count": 1301,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1201,
+          "favorite_count": 9678,
+          "reply_count": 786,
+          "quote_count": 110
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237123332,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1201,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2035443260559401125",
       "text": "RT @JoshKale: Tesla’s TeraFab officially begins TODAY 🏭 This is make or break for possibly the whole AI industry\n\nElon’s trying to build a…",
