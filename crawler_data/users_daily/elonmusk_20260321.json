@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 237072327,
+    "followers_count": 237080635,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260321",
-  "last_updated": "2026-03-21T08:08:11.697895",
-  "tweet_count": 18,
+  "last_updated": "2026-03-21T10:06:55.622994",
+  "tweet_count": 19,
   "tweets": [
     {
       "id": "2035149375048216669",
@@ -822,6 +822,67 @@
       "quoted": null,
       "stats": {
         "retweet_count": 38,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035267207836717563",
+      "text": "RT @SpaceX: Falcon 9 launches 25 @Starlink satellites from California https://t.co/JzGJlNAywm",
+      "created_at": "Sat Mar 21 08:08:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035138269197840384",
+          "url": "https://pbs.twimg.com/media/HD5DeSRXMAAEw07.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2035138485846155265",
+          "url": "https://pbs.twimg.com/media/HD5Dq5WWIAEZKoB.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035138516854669439",
+        "text": "Falcon 9 launches 25 @Starlink satellites from California https://t.co/JzGJlNAywm",
+        "created_at": "Fri Mar 20 23:36:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035138269197840384",
+            "url": "https://pbs.twimg.com/media/HD5DeSRXMAAEw07.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2035138485846155265",
+            "url": "https://pbs.twimg.com/media/HD5Dq5WWIAEZKoB.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41304677,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 938,
+          "favorite_count": 5268,
+          "reply_count": 489,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 938,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
