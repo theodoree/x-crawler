@@ -1,12 +1,490 @@
 {
   "date": "20260321",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-21T04:33:19.232945",
-  "tweet_count": 201,
-  "unique_tweet_count": 201,
-  "total_crawled": 400,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-21T06:14:22.713931",
+  "tweet_count": 210,
+  "unique_tweet_count": 210,
+  "total_crawled": 401,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2035237000073421053",
+      "text": "RT @Ron: @ImtiazMadmood https://t.co/RVmbDpcsTN",
+      "created_at": "Sat Mar 21 06:08:08 +0000 2026",
+      "lang": "qme",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035104433990774784",
+          "url": "https://pbs.twimg.com/media/HD4ks0TXsAA9rEF.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035104440621932659",
+        "text": "@ImtiazMadmood https://t.co/RVmbDpcsTN",
+        "created_at": "Fri Mar 20 21:21:23 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035104433990774784",
+            "url": "https://pbs.twimg.com/media/HD4ks0TXsAA9rEF.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "24182806",
+          "name": "Ron",
+          "screen_name": "Ron",
+          "description": "≡ Computer Scientist א Christian ≡\n\nOpen-Source Developer — https://t.co/9UWqeqZPlf",
+          "followers_count": 20051,
+          "friends_count": 1023,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 38,
+          "favorite_count": 460,
+          "reply_count": 84,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237067886,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 38,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035236521033572446",
+      "text": "RT @teslaownersSV: ELON MUSK’S CORE PHILOSOPHY: FIRST PRINCIPLES THINKING\n\nMost people reason by analogy — they look at what already exists…",
+      "created_at": "Sat Mar 21 06:06:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035179748163506460",
+        "text": "ELON MUSK’S CORE PHILOSOPHY: FIRST PRINCIPLES THINKING\n\nMost people reason by analogy — they look at what already exists and make small improvements.\n\nElon Musk does the opposite. He breaks problems down to the most fundamental truths and rebuilds solutions from scratch. This single mental habit is why he keeps achieving things others called impossible.\n\nElon explained it perfectly:\n\n“A first principles foundational approach would be to say, let’s look at the physics and economics of a rocket…”\n\nThis is the exact mindset behind reusable rockets, affordable EVs, truth-seeking AI, and every major breakthrough at his companies.",
+        "created_at": "Sat Mar 21 02:20:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035179693830549504",
+            "url": "https://video.twimg.com/amplify_video/2035179693830549504/vid/avc1/1280x720/913mAdHmUdTRP85I.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.\n2.8M followers",
+          "followers_count": 1399986,
+          "friends_count": 851,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 94,
+          "favorite_count": 420,
+          "reply_count": 84,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237067886,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 94,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035232804553072813",
+      "text": "RT @Andercot: Horses used to be much smaller, which is why chariots predate mounted mounted cavalry by 1,000 years. https://t.co/X8EpDzW5SN",
+      "created_at": "Sat Mar 21 05:51:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035113589393301506",
+          "url": "https://pbs.twimg.com/media/HD4tBu1boAIpw5P.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035113592752951722",
+        "text": "Horses used to be much smaller, which is why chariots predate mounted mounted cavalry by 1,000 years. https://t.co/X8EpDzW5SN",
+        "created_at": "Fri Mar 20 21:57:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035113589393301506",
+            "url": "https://pbs.twimg.com/media/HD4tBu1boAIpw5P.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2035098886801694748",
+          "text": "the wild horse being smaller than the domesticated horse is a narrative violation and thematically very crucial",
+          "created_at": "Fri Mar 20 20:59:19 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1460283925",
+            "name": "roon",
+            "screen_name": "tszzl",
+            "description": "fellow creators the creator seeks",
+            "followers_count": 298165,
+            "friends_count": 12160,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 157,
+            "favorite_count": 6256,
+            "reply_count": 85,
+            "quote_count": 10
+          }
+        },
+        "user": {
+          "id": "855305941",
+          "name": "Andrew Côté",
+          "screen_name": "Andercot",
+          "description": "engineering physicist. writes about deep tech, energy, physics, sci-fi and whatever. founder @hyperstition_x, organizes @deeptechweek",
+          "followers_count": 129339,
+          "friends_count": 1622,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 91,
+          "favorite_count": 747,
+          "reply_count": 100,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237067886,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 91,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035230355259875826",
+      "text": "He’s right",
+      "created_at": "Sat Mar 21 05:41:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035180847565807724",
+        "text": "JASON: “Elon seems to think we're gonna have one robot for every human.”\n\nJENSEN HUANG: “I'm hoping more … We're millions of people short in labor today. We're actually really desperately in need of robotics. All of these companies could grow more if they had more labor.” https://t.co/tpWYctGAaz",
+        "created_at": "Sat Mar 21 02:25:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035180736903311360",
+            "url": "https://video.twimg.com/amplify_video/2035180736903311360/vid/avc1/1920x1080/8S6CQsgVgdbsaxZh.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "69156861",
+          "name": "Chief Nerd",
+          "screen_name": "TheChiefNerd",
+          "description": "Software Engineer | Podcast Clipper |  DM for Removal | Merch 👉https://t.co/LEGwYHQAst | Tips 👉https://t.co/h9xVqydk1b",
+          "followers_count": 925563,
+          "friends_count": 2345,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 114,
+          "favorite_count": 1326,
+          "reply_count": 169,
+          "quote_count": 24
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237067886,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 553,
+        "favorite_count": 4647,
+        "reply_count": 955,
+        "quote_count": 46
+      }
+    },
+    {
+      "id": "2035225277085909248",
+      "text": "Reinforcing negative neural pathways via therapy or introspection is a recipe for misery. Don’t cut a rut in the road.",
+      "created_at": "Sat Mar 21 05:21:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035190797218587116",
+        "text": "My big conclusion from this week: \n\nIntrospection causes emotional disorders.",
+        "created_at": "Sat Mar 21 03:04:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5943622",
+          "name": "Marc Andreessen 🇺🇸",
+          "screen_name": "pmarca",
+          "description": "Grand Theft Auto 6 (GTA 6) is officially scheduled to be released on November 19, 2026.",
+          "followers_count": 2313581,
+          "friends_count": 29280,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 105,
+          "favorite_count": 1944,
+          "reply_count": 490,
+          "quote_count": 68
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237067886,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 654,
+        "favorite_count": 6025,
+        "reply_count": 1135,
+        "quote_count": 81
+      }
+    },
+    {
+      "id": "2035222177621188959",
+      "text": "AI bots will be more human than human",
+      "created_at": "Sat Mar 21 05:09:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035157304132391343",
+        "text": "https://t.co/9h6guYsfu8",
+        "created_at": "Sat Mar 21 00:51:27 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035157300315623424",
+            "url": "https://pbs.twimg.com/media/HD5UyCtbEAAFxgc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "30699048",
+          "name": "Shibetoshi Nakamoto",
+          "screen_name": "BillyM2k",
+          "description": "the dumbass who made dogecoin | https://t.co/z7tOjWFNe4 | use cointracker for crypto taxes https://t.co/Cry3owsJgD code billym2k for 20% off!",
+          "followers_count": 2519162,
+          "friends_count": 420,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 246,
+          "favorite_count": 1844,
+          "reply_count": 141,
+          "quote_count": 19
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237067886,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2300,
+        "favorite_count": 37650,
+        "reply_count": 2700,
+        "quote_count": 231
+      }
+    },
+    {
+      "id": "2035221790109442074",
+      "text": "RT @SpaceX: Falcon 9 will launch the @USSpaceForce’s GPS III-8 mission, its fourth accelerated mission → https://t.co/IRxne8O96d https://t.…",
+      "created_at": "Sat Mar 21 05:07:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035161763545501723",
+        "text": "Falcon 9 will launch the @USSpaceForce’s GPS III-8 mission, its fourth accelerated mission → https://t.co/IRxne8O96d https://t.co/Q4M3uUdaTf",
+        "created_at": "Sat Mar 21 01:09:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035161690514317312",
+            "url": "https://pbs.twimg.com/media/HD5YxleW4AAdu-L.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41302260,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 478,
+          "favorite_count": 3231,
+          "reply_count": 217,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237067886,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 478,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035219682073190784",
+      "text": "RT @cb_doge: https://t.co/CRDvNGRDsz",
+      "created_at": "Sat Mar 21 04:59:19 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035171079245758466",
+          "url": "https://pbs.twimg.com/media/HD5hUFOXgAIUJS4.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035171084212085101",
+        "text": "https://t.co/CRDvNGRDsz",
+        "created_at": "Sat Mar 21 01:46:12 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035171079245758466",
+            "url": "https://pbs.twimg.com/media/HD5hUFOXgAIUJS4.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1846882,
+          "friends_count": 921,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 240,
+          "favorite_count": 1686,
+          "reply_count": 355,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237067886,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 240,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2035204572944507082",
       "text": "Try it out",
@@ -4544,6 +5022,55 @@
         "screen_name": "dotey",
         "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
         "followers_count": 199793,
+        "friends_count": 1587,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2034681084135301365",
+      "text": "https://t.co/OuFLLf12VD",
+      "created_at": "Thu Mar 19 17:19:07 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034664974698864905",
+        "text": "任何新事物，在一开始的时候，总是显得很简单，甚至幼稚，弱不禁风；我们往往带着那种一眼看穿的优越感予以轻视；我曾经犯过这种错误，这是一种无端的傲慢，是无知的开始。最近深度使用并亲手写了若干个 skill 后，我认为 skill 可以做的很深入很严谨。\n\n让子弹飞一会儿。",
+        "created_at": "Thu Mar 19 16:15:06 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1452169962286637059",
+          "name": "DinoDeer",
+          "screen_name": "xDinoDeer",
+          "description": "AI 狂热分子，广告爱好者，接地气的生意人。 No code more money.",
+          "followers_count": 24519,
+          "friends_count": 1323,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 60,
+          "reply_count": 7,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 199909,
         "friends_count": 1587,
         "verified": false,
         "is_blue_verified": true

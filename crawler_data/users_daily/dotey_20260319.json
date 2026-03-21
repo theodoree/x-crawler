@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 199869,
+    "followers_count": 199909,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260319",
-  "last_updated": "2026-03-21T04:33:19.289173",
-  "tweet_count": 15,
+  "last_updated": "2026-03-21T06:14:22.771973",
+  "tweet_count": 16,
   "tweets": [
     {
       "id": "2034432242307502172",
@@ -411,6 +411,45 @@
         "favorite_count": 22,
         "reply_count": 4,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2034681084135301365",
+      "text": "https://t.co/OuFLLf12VD",
+      "created_at": "Thu Mar 19 17:19:07 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034664974698864905",
+        "text": "任何新事物，在一开始的时候，总是显得很简单，甚至幼稚，弱不禁风；我们往往带着那种一眼看穿的优越感予以轻视；我曾经犯过这种错误，这是一种无端的傲慢，是无知的开始。最近深度使用并亲手写了若干个 skill 后，我认为 skill 可以做的很深入很严谨。\n\n让子弹飞一会儿。",
+        "created_at": "Thu Mar 19 16:15:06 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1452169962286637059",
+          "name": "DinoDeer",
+          "screen_name": "xDinoDeer",
+          "description": "AI 狂热分子，广告爱好者，接地气的生意人。 No code more money.",
+          "followers_count": 24519,
+          "friends_count": 1323,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 60,
+          "reply_count": 7,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
       }
     },
     {
