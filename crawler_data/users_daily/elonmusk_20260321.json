@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "",
+    "followers_count": 237047371,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260321",
+  "last_updated": "2026-03-21T00:20:56.427626",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2035149375048216669",
+      "text": "Cool 🇬🇧",
+      "created_at": "Sat Mar 21 00:19:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035104938469236846",
+        "text": "Starlink's high-speed internet is now onboard @British_Airways 🛰️✈️",
+        "created_at": "Fri Mar 20 21:23:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1577669,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 86,
+          "favorite_count": 581,
+          "reply_count": 38,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 31,
+        "favorite_count": 192,
+        "reply_count": 88,
+        "quote_count": 0
+      }
+    }
+  ]
+}
