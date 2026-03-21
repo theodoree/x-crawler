@@ -1,12 +1,68 @@
 {
   "date": "20260321",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-21T02:55:38.985570",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
+  "last_crawl_time": "2026-03-21T04:33:19.232945",
+  "tweet_count": 201,
+  "unique_tweet_count": 201,
   "total_crawled": 400,
-  "duplicates_removed": 200,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2035204572944507082",
+      "text": "Try it out",
+      "created_at": "Sat Mar 21 03:59:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035129382193569798",
+        "text": "Grok Imagine's multi-image edit lets you create videos from up to 7 images.\n\nScenes, characters, objects, angles and more.\n\nAny questions about this feature?\n\nShare your work!\n\nhttps://t.co/jJGqhsJ4Jv",
+        "created_at": "Fri Mar 20 23:00:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2032160250472595456",
+            "url": "https://video.twimg.com/amplify_video/2032160250472595456/vid/avc1/1080x1080/9pNp7xmOCJoY3JDB.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2019292645466730499",
+          "name": "Grok Imagine",
+          "screen_name": "imagine",
+          "description": "Unlock your imagination with Grok Imagine.",
+          "followers_count": 19159,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 65,
+          "favorite_count": 444,
+          "reply_count": 122,
+          "quote_count": 23
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "",
+        "followers_count": 237058810,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 286,
+        "favorite_count": 1849,
+        "reply_count": 760,
+        "quote_count": 20
+      }
+    },
     {
       "id": "2035149375048216669",
       "text": "Cool 🇬🇧",
