@@ -1,12 +1,362 @@
 {
   "date": "20260322",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-22T20:06:40.749108",
-  "tweet_count": 260,
-  "unique_tweet_count": 260,
-  "total_crawled": 457,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-22T22:06:46.552038",
+  "tweet_count": 266,
+  "unique_tweet_count": 266,
+  "total_crawled": 460,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2035832896687149175",
+      "text": "RT @jysperm: 看来很多人不知道，在这个网站上可以看到 Claude Code 最新和历史上所有的 system prompt，是由 Pi Agent 的作者维护的 https://t.co/JcDWrpvPxk",
+      "created_at": "Sun Mar 22 21:36:01 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2035666202614501796",
+        "text": "看来很多人不知道，在这个网站上可以看到 Claude Code 最新和历史上所有的 system prompt，是由 Pi Agent 的作者维护的 https://t.co/JcDWrpvPxk",
+        "created_at": "Sun Mar 22 10:33:38 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2035300859219964324",
+          "text": "@vikingmute Claude Code 的 system prompt 里是有这些要求的 https://t.co/IPJBogp4yW",
+          "created_at": "Sat Mar 21 10:21:53 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2035300767469613056",
+              "url": "https://pbs.twimg.com/media/HD7XQ7gbMAA7CAM.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "464095634",
+            "name": "王子亭",
+            "screen_name": "jysperm",
+            "description": "在 LeanCloud 任容器平台工程师，关注密码货币与 GPG 等去中心化系统；独立博客作者；Apple 设备用户；皮蛋豆腐的主人。",
+            "followers_count": 3477,
+            "friends_count": 304,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 2,
+            "favorite_count": 76,
+            "reply_count": 0,
+            "quote_count": 4
+          }
+        },
+        "user": {
+          "id": "464095634",
+          "name": "王子亭",
+          "screen_name": "jysperm",
+          "description": "在 LeanCloud 任容器平台工程师，关注密码货币与 GPG 等去中心化系统；独立博客作者；Apple 设备用户；皮蛋豆腐的主人。",
+          "followers_count": 3477,
+          "friends_count": 304,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 36,
+          "favorite_count": 271,
+          "reply_count": 0,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 200699,
+        "friends_count": 1589,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 36,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035828088433713613",
+      "text": "“Anthropic”",
+      "created_at": "Sun Mar 22 21:16:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035762040879644774",
+        "text": "Palantir AI + Claude was used to detect, prioritize, and strike over 1,000 targets in the first 24 hours of Operation against IRAN.\n\nThe success was so ridiculous, so game-changing, that the Pentagon didn’t even wait.\n\nWhat used to be just a pilot project, just something they were testing out… suddenly became official, permanent, and everywhere.\n\nPalantir is now the core AI brain of the entire U.S. military. It’s getting rolled out across ALL branches.",
+        "created_at": "Sun Mar 22 16:54:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035761679594897408",
+            "url": "https://video.twimg.com/amplify_video/2035761679594897408/vid/avc1/1280x720/iRUUV4T-2D-Ahp8l.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2940321003",
+          "name": "shirish",
+          "screen_name": "shiri_shh",
+          "description": "AI | Tech | Startups ▪︎ Locked in ▪︎ https://t.co/fRlOjnbxgz — helping X users collab with their fave brands | DM for collabs 📩",
+          "followers_count": 19918,
+          "friends_count": 1142,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 355,
+          "favorite_count": 3370,
+          "reply_count": 228,
+          "quote_count": 92
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237206257,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 868,
+        "favorite_count": 8736,
+        "reply_count": 987,
+        "quote_count": 43
+      }
+    },
+    {
+      "id": "2035823114479931739",
+      "text": "Unless we have photo ID, elections are obviously subject to massive unprovable fraud",
+      "created_at": "Sun Mar 22 20:57:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": null,
+        "text": "",
+        "created_at": null,
+        "lang": null,
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": null,
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237206257,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3692,
+        "favorite_count": 36558,
+        "reply_count": 2273,
+        "quote_count": 146
+      }
+    },
+    {
+      "id": "2035822362999058474",
+      "text": "Absolutely. The judges responsible for repeatedly releasing violent criminals who commit horrific crimes must be impeached.",
+      "created_at": "Sun Mar 22 20:54:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035821264930254995",
+        "text": "This is insanity \n\nJudges are complicit in the murder of innocent people by repeat criminals \n\nIt’s not like they don’t know these facts. \n\n60% of violent criminals released from prison return to prison with a new conviction within just a few years\n\nHold the judges accountable https://t.co/swaOa96dVc",
+        "created_at": "Sun Mar 22 20:49:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035821259511173120",
+            "url": "https://pbs.twimg.com/media/HECwpjdaEAA_QmQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 67283,
+          "friends_count": 996,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 198,
+          "favorite_count": 863,
+          "reply_count": 85,
+          "quote_count": 21
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237206257,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4279,
+        "favorite_count": 22873,
+        "reply_count": 1682,
+        "quote_count": 129
+      }
+    },
+    {
+      "id": "2035818986819211574",
+      "text": "RT @tetsuoai: SpaceX https://t.co/eWkj3iB2s7",
+      "created_at": "Sun Mar 22 20:40:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035811684414287872",
+          "url": "https://pbs.twimg.com/media/HECn8NcacAAdqy4.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2035811690110136320",
+          "url": "https://pbs.twimg.com/media/HECn8iqaMAAaM9W.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035811949032976622",
+        "text": "SpaceX https://t.co/eWkj3iB2s7",
+        "created_at": "Sun Mar 22 20:12:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035811684414287872",
+            "url": "https://pbs.twimg.com/media/HECn8NcacAAdqy4.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2035811690110136320",
+            "url": "https://pbs.twimg.com/media/HECn8iqaMAAaM9W.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C · asm · AI & art via grok · @tetsuocorp · @7etsuo · @a_g_e_n_c\n\nAgenC //: 👾",
+          "followers_count": 231539,
+          "friends_count": 1073,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 273,
+          "favorite_count": 2242,
+          "reply_count": 376,
+          "quote_count": 38
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237206257,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 273,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035816571084349902",
+      "text": "CLAUDE_CODE_NEW_INIT=1 claude\n可以体验新版本 /init\n现在中间会有更多互动和选项，不止是帮你生成 CLAUDE MD，还可以帮你的项目量身定制添加 hooks，skills",
+      "created_at": "Sun Mar 22 20:31:08 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035799806640115806",
+        "text": "we're testing a new version of /init based on your feedback- it should interview you and help setup skills, hooks, etc.\n\nyou can enable it with this env_var flag:\n\nCLAUDE_CODE_NEW_INIT=1 claude\n\nwould love your feedback!",
+        "created_at": "Sun Mar 22 19:24:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "352806502",
+          "name": "Thariq",
+          "screen_name": "trq212",
+          "description": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+          "followers_count": 158683,
+          "friends_count": 1739,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 92,
+          "favorite_count": 1799,
+          "reply_count": 110,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 200699,
+        "friends_count": 1589,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 11,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2035799508215603283",
       "text": "This is insane",

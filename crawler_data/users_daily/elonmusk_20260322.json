@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237198150,
+    "followers_count": 237206257,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260322",
-  "last_updated": "2026-03-22T20:06:40.784509",
-  "tweet_count": 43,
+  "last_updated": "2026-03-22T22:06:46.595950",
+  "tweet_count": 47,
   "tweets": [
     {
       "id": "2035524384723554495",
@@ -2397,6 +2397,188 @@
         "favorite_count": 34368,
         "reply_count": 2384,
         "quote_count": 180
+      }
+    },
+    {
+      "id": "2035818986819211574",
+      "text": "RT @tetsuoai: SpaceX https://t.co/eWkj3iB2s7",
+      "created_at": "Sun Mar 22 20:40:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035811684414287872",
+          "url": "https://pbs.twimg.com/media/HECn8NcacAAdqy4.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2035811690110136320",
+          "url": "https://pbs.twimg.com/media/HECn8iqaMAAaM9W.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035811949032976622",
+        "text": "SpaceX https://t.co/eWkj3iB2s7",
+        "created_at": "Sun Mar 22 20:12:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035811684414287872",
+            "url": "https://pbs.twimg.com/media/HECn8NcacAAdqy4.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2035811690110136320",
+            "url": "https://pbs.twimg.com/media/HECn8iqaMAAaM9W.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "code since '94 · C · asm · AI & art via grok · @tetsuocorp · @7etsuo · @a_g_e_n_c\n\nAgenC //: 👾",
+          "followers_count": 231539,
+          "friends_count": 1073,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 273,
+          "favorite_count": 2242,
+          "reply_count": 376,
+          "quote_count": 38
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 273,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035822362999058474",
+      "text": "Absolutely. The judges responsible for repeatedly releasing violent criminals who commit horrific crimes must be impeached.",
+      "created_at": "Sun Mar 22 20:54:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035821264930254995",
+        "text": "This is insanity \n\nJudges are complicit in the murder of innocent people by repeat criminals \n\nIt’s not like they don’t know these facts. \n\n60% of violent criminals released from prison return to prison with a new conviction within just a few years\n\nHold the judges accountable https://t.co/swaOa96dVc",
+        "created_at": "Sun Mar 22 20:49:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035821259511173120",
+            "url": "https://pbs.twimg.com/media/HECwpjdaEAA_QmQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 67283,
+          "friends_count": 996,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 198,
+          "favorite_count": 863,
+          "reply_count": 85,
+          "quote_count": 21
+        }
+      },
+      "stats": {
+        "retweet_count": 4279,
+        "favorite_count": 22873,
+        "reply_count": 1682,
+        "quote_count": 129
+      }
+    },
+    {
+      "id": "2035823114479931739",
+      "text": "Unless we have photo ID, elections are obviously subject to massive unprovable fraud",
+      "created_at": "Sun Mar 22 20:57:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": null,
+        "text": "",
+        "created_at": null,
+        "lang": null,
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": null,
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 3692,
+        "favorite_count": 36558,
+        "reply_count": 2273,
+        "quote_count": 146
+      }
+    },
+    {
+      "id": "2035828088433713613",
+      "text": "“Anthropic”",
+      "created_at": "Sun Mar 22 21:16:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035762040879644774",
+        "text": "Palantir AI + Claude was used to detect, prioritize, and strike over 1,000 targets in the first 24 hours of Operation against IRAN.\n\nThe success was so ridiculous, so game-changing, that the Pentagon didn’t even wait.\n\nWhat used to be just a pilot project, just something they were testing out… suddenly became official, permanent, and everywhere.\n\nPalantir is now the core AI brain of the entire U.S. military. It’s getting rolled out across ALL branches.",
+        "created_at": "Sun Mar 22 16:54:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035761679594897408",
+            "url": "https://video.twimg.com/amplify_video/2035761679594897408/vid/avc1/1280x720/iRUUV4T-2D-Ahp8l.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2940321003",
+          "name": "shirish",
+          "screen_name": "shiri_shh",
+          "description": "AI | Tech | Startups ▪︎ Locked in ▪︎ https://t.co/fRlOjnbxgz — helping X users collab with their fave brands | DM for collabs 📩",
+          "followers_count": 19918,
+          "friends_count": 1142,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 355,
+          "favorite_count": 3370,
+          "reply_count": 228,
+          "quote_count": 92
+        }
+      },
+      "stats": {
+        "retweet_count": 868,
+        "favorite_count": 8736,
+        "reply_count": 987,
+        "quote_count": 43
       }
     }
   ]
