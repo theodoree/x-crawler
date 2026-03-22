@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 200441,
+    "followers_count": 200544,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260322",
-  "last_updated": "2026-03-22T14:09:45.872129",
-  "tweet_count": 12,
+  "last_updated": "2026-03-22T16:07:43.417449",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2035570395256930355",
@@ -460,6 +460,167 @@
       "quoted": null,
       "stats": {
         "retweet_count": 18,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035745971238212000",
+      "text": "RT @xicilion: AI 的坏习惯。 https://t.co/1N7Pe5LSjD",
+      "created_at": "Sun Mar 22 15:50:36 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035719320089878528",
+          "url": "https://pbs.twimg.com/media/HEBT75hbYAAIvmB.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2035719352553701376",
+          "url": "https://pbs.twimg.com/media/HEBT9ydaAAACkV8.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2035719406681284609",
+          "url": "https://pbs.twimg.com/media/HEBUA8GbYAEt1Qv.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035719467066622215",
+        "text": "AI 的坏习惯。 https://t.co/1N7Pe5LSjD",
+        "created_at": "Sun Mar 22 14:05:17 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035719320089878528",
+            "url": "https://pbs.twimg.com/media/HEBT75hbYAAIvmB.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2035719352553701376",
+            "url": "https://pbs.twimg.com/media/HEBT9ydaAAACkV8.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2035719406681284609",
+            "url": "https://pbs.twimg.com/media/HEBUA8GbYAEt1Qv.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "364478145",
+          "name": "响马",
+          "screen_name": "xicilion",
+          "description": "。。。。。。",
+          "followers_count": 65652,
+          "friends_count": 3239,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 151,
+          "reply_count": 8,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035747117050773937",
+      "text": "RT @lifesinger: 听了小珺采访谢赛宁的采访播客后，后劲十足。后劲之一是：对 Bitter Lesson（苦涩的教训）有了很不一样的理解。\n\n原来的理解是：用精巧的规则去聪明做事，往往不如用通用的算法结合暴力去解决。比如国际象棋败给了深蓝、围棋败给了 AlphaGo…",
+      "created_at": "Sun Mar 22 15:55:09 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2035718050285043758",
+        "text": "听了小珺采访谢赛宁的采访播客后，后劲十足。后劲之一是：对 Bitter Lesson（苦涩的教训）有了很不一样的理解。\n\n原来的理解是：用精巧的规则去聪明做事，往往不如用通用的算法结合暴力去解决。比如国际象棋败给了深蓝、围棋败给了 AlphaGo、翻译和图像识别等败给了 LLM。\n\n我们往往高估了聪明，而低估了笨拙。这就是苦涩的教训。\n\n赛宁在播客里表达了一个非常有意思的观点：LLM 也是一种聪明、一种取巧，用很短暂的互联网积累的并不客观的各种语言数据，去尝试达成 AGI，这和研究围棋里的某种流派去解题，或许是一样的。也是一种聪明，而不是笨拙。这样得来的智能，会只是一小部分，终将非遗。\n\n想起《孙子兵法》里的大智若愚：如果要不败，那么最重要的是：要么不战，要么就带十倍兵力去打，以多胜少。期待以少胜多，就是迟早是一种苦涩的教训。\n\n创业也如此。最容易获得苦涩教训的，就是聪明。比如假设大厂不会做，或假设其他公司看不到。这都会是骗自己。不聪明，找到笨拙的法子，才是创业有机会获得成功的关键。\n\nBitter Lesson 是好事。聪明或许能优秀，但经历苦涩并理解苦涩，更有机会通往卓越。",
+        "created_at": "Sun Mar 22 13:59:39 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16681326",
+          "name": "Frank Wang 玉伯",
+          "screen_name": "lifesinger",
+          "description": "I am curious and honest",
+          "followers_count": 32119,
+          "friends_count": 1130,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 90,
+          "reply_count": 4,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035749966694465678",
+      "text": "说的没有错的，不过这里重点不是当没当过 Manager，而是同时有架构能力和管理能力，能拆分任务，能管理 Agent。\n\n说实话，很多 manager 技术不咋地，就会向上管理和 PUA，但管 Agent 重要的不是向上管理，也不是 PUA，而是“定义问题”和“知人善用”。 https://t.co/eJ4R1icAjN",
+      "created_at": "Sun Mar 22 16:06:29 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035749959451267072",
+          "url": "https://pbs.twimg.com/media/HEBvzWCb0AAC1zM.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2035711109240438957",
+        "text": "David Singleton，前 Stripe CTO 最近有个观点很炸裂：\n\n当我们所有人都觉得 AI 时代最危险的是 manager，因为不需要中间层了嘛，agent 直接干了。\n\n结果他现在优先招那些以前当过 manager 但现在想回来写代码的人。\n\n原因是他认为 manager 天然擅长拆解任务、协调资源、知道什么时候该推一把什么时候该放手，他认为这才是驾驭 coding agent 最核心的能力。\n\n不知道大家怎么看？",
+        "created_at": "Sun Mar 22 13:32:04 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035710897352847360",
+            "url": "https://pbs.twimg.com/media/HEBMRoYbsAAjTMI.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34916016",
+          "name": "Saito",
+          "screen_name": "SaitoWu",
+          "description": "🌈 创业 10 年，👨‍🚀 现投身硬地骇客 \n🤨 正在探究这个世界是如何运转\n\n👉🏻 Ex🦄 Co-Founder\n👉🏻 Podwise https://t.co/zwrz2oB0mw\n👉🏻 GitLab Alumni https://t.co/fCTGsoZUuc\n\n🪙 每个人都应该拥有一个小生意",
+          "followers_count": 12999,
+          "friends_count": 637,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 36,
+          "reply_count": 6,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
