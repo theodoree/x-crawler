@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "",
-    "followers_count": 237123332,
+    "followers_count": 237133094,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260321",
-  "last_updated": "2026-03-21T22:06:01.362130",
-  "tweet_count": 55,
+  "last_updated": "2026-03-22T00:23:25.252075",
+  "tweet_count": 64,
   "tweets": [
     {
       "id": "2035149375048216669",
@@ -2774,6 +2774,485 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2035480701177590253",
+      "text": "RT @cb_doge: https://t.co/LuzS4qvPe1",
+      "created_at": "Sat Mar 21 22:16:31 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035472826174681088",
+          "url": "https://pbs.twimg.com/media/HD9zwEIaMAAgMz1.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035472828942991499",
+        "text": "https://t.co/LuzS4qvPe1",
+        "created_at": "Sat Mar 21 21:45:14 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035472826174681088",
+            "url": "https://pbs.twimg.com/media/HD9zwEIaMAAgMz1.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1847096,
+          "friends_count": 921,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 239,
+          "favorite_count": 1545,
+          "reply_count": 273,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 239,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035480739861688729",
+      "text": "RT @Adams_Tech_AI: @cb_doge Elon❤️ https://t.co/qemPmOoNPg",
+      "created_at": "Sat Mar 21 22:16:40 +0000 2026",
+      "lang": "es",
+      "media": [
+        {
+          "type": "video",
+          "id": "2035473712254996480",
+          "url": "https://video.twimg.com/amplify_video/2035473712254996480/vid/avc1/688x464/VCElTRFSXQKhzsKE.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": {
+        "id": "2035473772560404511",
+        "text": "@cb_doge Elon❤️ https://t.co/qemPmOoNPg",
+        "created_at": "Sat Mar 21 21:48:59 +0000 2026",
+        "lang": "es",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035473712254996480",
+            "url": "https://video.twimg.com/amplify_video/2035473712254996480/vid/avc1/688x464/VCElTRFSXQKhzsKE.mp4?tag=24",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1999939108643500032",
+          "name": "Adams",
+          "screen_name": "Adams_Tech_AI",
+          "description": "TECH & AI|Tesla|Space X|Neuralink|Starlink|Space| Entrepreneur",
+          "followers_count": 1778,
+          "friends_count": 1350,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 225,
+          "favorite_count": 1274,
+          "reply_count": 199,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 225,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035481808213827662",
+      "text": "RT @_SFTahoe: Changing Fiction to Reality\nThe Space Race will force us to drop the word “fiction” from so many things that used to be just…",
+      "created_at": "Sat Mar 21 22:20:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035337559006732648",
+        "text": "Changing Fiction to Reality\nThe Space Race will force us to drop the word “fiction” from so many things that used to be just sci-fi.\n\nCase in point: Tesla’s Optimi becoming Von Neumann probes that can replicate themselves using raw materials found in space.  \n\nNOTE: Wall Street only includes Tesla’s Earth-based business in its forecasts & valuations.",
+        "created_at": "Sat Mar 21 12:47:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035337555336740865",
+            "url": "https://pbs.twimg.com/media/HD74uQ_bwAEDf7I.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2035259500064907571",
+          "text": "Optimus+PV will be the first Von Neumann probe, a machine fully capable of replicating itself using raw materials found in space",
+          "created_at": "Sat Mar 21 07:37:32 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "",
+            "followers_count": 237133094,
+            "friends_count": 1301,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 5265,
+            "favorite_count": 45530,
+            "reply_count": 5570,
+            "quote_count": 671
+          }
+        },
+        "user": {
+          "id": "905318340075307009",
+          "name": "Amy",
+          "screen_name": "_SFTahoe",
+          "description": "TSLA investor, After IPO 2010–present. B787 FO. If there isn’t a blue check—it isn’t me.",
+          "followers_count": 22130,
+          "friends_count": 3916,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 257,
+          "favorite_count": 1178,
+          "reply_count": 138,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 257,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035482255624458544",
+      "text": "RT @TAmTrib: \"Your artificial meritocracy of Excel spreadsheets is propped up by millions of Americans with guns protecting you from the na…",
+      "created_at": "Sat Mar 21 22:22:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035462650063126940",
+        "text": "\"Your artificial meritocracy of Excel spreadsheets is propped up by millions of Americans with guns protecting you from the natural meritocracy of extreme violence\" might be one of the best tweets ever https://t.co/SIpFwDo0B3",
+        "created_at": "Sat Mar 21 21:04:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035462644346540032",
+            "url": "https://pbs.twimg.com/media/HD9qfZ3aUAAT23q.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2035208528911061320",
+          "text": "Twitter turns 20.\n\nWhat is your favorite tweet of all time? https://t.co/DGhHGxY6SI",
+          "created_at": "Sat Mar 21 04:15:00 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2035149819178848256",
+              "url": "https://pbs.twimg.com/media/HD5N-lTbEAAc0qX.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1138458175663988738",
+            "name": "Pop Base",
+            "screen_name": "PopBase",
+            "description": "Pop Base is your best source for all pop culture related entertainment, news, award show coverage, chart updates, statistics and more. | email@popbase.tv",
+            "followers_count": 2813636,
+            "friends_count": 2648,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3093,
+            "favorite_count": 34278,
+            "reply_count": 2486,
+            "quote_count": 11063
+          }
+        },
+        "user": {
+          "id": "1607779815238541318",
+          "name": "The American Tribune",
+          "screen_name": "TAmTrib",
+          "description": "Restore Western Greatness\n#AmericaFirst",
+          "followers_count": 64583,
+          "friends_count": 389,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 571,
+          "favorite_count": 3875,
+          "reply_count": 104,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 571,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035482345038573929",
+      "text": "RT @JessePeltan: “China quality bad” is weapons grade cope.\n\nThe fact is that China has a grid that powers the largest manufacturing base t…",
+      "created_at": "Sat Mar 21 22:23:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035459779619856643",
+        "text": "“China quality bad” is weapons grade cope.\n\nThe fact is that China has a grid that powers the largest manufacturing base the world has ever seen, and we do not.\n\nTheirs works. Ours doesn’t.\n\nIf their grid doesn’t meet our standards, consider that perhaps our standards are stupid. https://t.co/UKuErWILnv",
+        "created_at": "Sat Mar 21 20:53:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035459776545783808",
+            "url": "https://pbs.twimg.com/media/HD9n4eebgAAQDGz.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2032266888315539817",
+          "text": "When put together, China is getting 25x more \"grid\" per dollar investment. \n\nSo when we talk about \"cost allocation\", maybe it first makes sense to talk about just plain cost!\n\n/6 https://t.co/aDvywdLgDR",
+          "created_at": "Fri Mar 13 01:25:58 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2032266613701943296",
+              "url": "https://pbs.twimg.com/media/HDQPt76XIAA0yjm.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1201633743926124545",
+            "name": "Dashboard American",
+            "screen_name": "NiyerEnergy",
+            "description": "Energy, policy, and markets.",
+            "followers_count": 4687,
+            "friends_count": 2681,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 12,
+            "favorite_count": 65,
+            "reply_count": 8,
+            "quote_count": 7
+          }
+        },
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 71949,
+          "friends_count": 436,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 247,
+          "favorite_count": 1271,
+          "reply_count": 154,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 247,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035482478161576244",
+      "text": "RT @XFreeze: It’s actually insane what SpaceX is doing to the space industry right now\n\nIn 1981, it cost ~$65,000 to put 1 kg into orbit\nFo…",
+      "created_at": "Sat Mar 21 22:23:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035478396529193234",
+        "text": "It’s actually insane what SpaceX is doing to the space industry right now\n\nIn 1981, it cost ~$65,000 to put 1 kg into orbit\nFor 50 years, the industry accepted this as the standard. Reusable rockets were \"impossible\"\n\nThen one company - led by a man obsessed with getting humanity to Mars, decided that $65,000/kg was unacceptable\n\nRight now, Elon and the SpaceX team are building Starship to hit $10–$20/kg\n\nThat is a massive ~4,000x price collapse\n\nIt’s actually wild that we get to watch this happen in real time",
+        "created_at": "Sat Mar 21 22:07:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035478388836859904",
+            "url": "https://pbs.twimg.com/media/HD94z2qbAAAZA3M.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 171061,
+          "friends_count": 1675,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 667,
+          "favorite_count": 3668,
+          "reply_count": 306,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 667,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035482522055012475",
+      "text": "RT @dogeofficialceo: https://t.co/cRyP4BfFmK",
+      "created_at": "Sat Mar 21 22:23:45 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035329020980604928",
+          "url": "https://pbs.twimg.com/media/HD7w9gCXsAAPfVb.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035329027213258981",
+        "text": "https://t.co/cRyP4BfFmK",
+        "created_at": "Sat Mar 21 12:13:49 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035329020980604928",
+            "url": "https://pbs.twimg.com/media/HD7w9gCXsAAPfVb.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1355945100216573952",
+          "name": "Sir Doge of the Coin ⚔️",
+          "screen_name": "dogeofficialceo",
+          "description": "Protector of Coin 🐶🪙 Self-proclaimed king of memes 👑🇮🇪",
+          "followers_count": 557106,
+          "friends_count": 625,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 366,
+          "favorite_count": 2430,
+          "reply_count": 380,
+          "quote_count": 47
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 366,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035502735588798596",
+      "text": "Big difference",
+      "created_at": "Sat Mar 21 23:44:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035483350643974588",
+        "text": "Most people will probably miss that this chart is log scale\n\nMeaning it shows a 10,000X reduction in cost\n\nThis is quite literally insane. Engineering is magic. https://t.co/l3boZdeF9a",
+        "created_at": "Sat Mar 21 22:27:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035483163934478336",
+            "url": "https://pbs.twimg.com/media/HD99JzSaUAAD4w4.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 67007,
+          "friends_count": 996,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 551,
+          "reply_count": 71,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 922,
+        "favorite_count": 9040,
+        "reply_count": 776,
+        "quote_count": 26
+      }
+    },
+    {
+      "id": "2035506574182199757",
+      "text": "Formal announcement of the TERAFAB project, which will be done jointly by @SpaceX and @Tesla, tonight around 8pm CT. Livestream on 𝕏.\n\nThe goal is to produce over a TERAWATT of compute per year (logic, memory &amp; packaging) with ~80% for space and ~20% for the ground.",
+      "created_at": "Sat Mar 21 23:59:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 965,
+        "favorite_count": 5933,
+        "reply_count": 1047,
+        "quote_count": 213
       }
     }
   ]
