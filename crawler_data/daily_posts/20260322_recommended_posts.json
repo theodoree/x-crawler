@@ -1,12 +1,98 @@
 {
   "date": "20260322",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-22T06:18:59.718848",
-  "tweet_count": 235,
-  "unique_tweet_count": 235,
-  "total_crawled": 424,
-  "duplicates_removed": 189,
+  "last_crawl_time": "2026-03-22T08:09:16.742004",
+  "tweet_count": 237,
+  "unique_tweet_count": 237,
+  "total_crawled": 435,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2035622538277978114",
+      "text": "RT @yan5xu: 微信🐂🍺，梳理了微信的龙虾协议，顺手给大家封装好了nodejs和python的sdk包，分别还有一个最简单的echo bot demo。大家可以对照很方便把自己的bot打通微信了。 https://t.co/EXbfwlqEsb",
+      "created_at": "Sun Mar 22 07:40:07 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035593081723232256",
+          "url": "https://pbs.twimg.com/media/HD_hH29bIAAPTlr.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035598556095217778",
+        "text": "微信🐂🍺，梳理了微信的龙虾协议，顺手给大家封装好了nodejs和python的sdk包，分别还有一个最简单的echo bot demo。大家可以对照很方便把自己的bot打通微信了。 https://t.co/EXbfwlqEsb",
+        "created_at": "Sun Mar 22 06:04:50 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035593081723232256",
+            "url": "https://pbs.twimg.com/media/HD_hH29bIAAPTlr.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "115897222",
+          "name": "yan5xu",
+          "screen_name": "yan5xu",
+          "description": "🤖 AI 野生研究员 | ex @ManusAI_HQ & @hey_im_monica\n推特内容仅代表个人观点，和公司无关",
+          "followers_count": 13359,
+          "friends_count": 432,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 81,
+          "reply_count": 13,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 200245,
+        "friends_count": 1587,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035621498707177923",
+      "text": "https://t.co/vDH6mz0hB7",
+      "created_at": "Sun Mar 22 07:35:59 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 200245,
+        "friends_count": 1587,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2035601778062840128",
       "text": "微信成也张小龙，败也张小龙\n微信早死早超生",
