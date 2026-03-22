@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 200544,
+    "followers_count": 200638,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260322",
-  "last_updated": "2026-03-22T16:07:43.417449",
-  "tweet_count": 15,
+  "last_updated": "2026-03-22T18:08:55.623336",
+  "tweet_count": 16,
   "tweets": [
     {
       "id": "2035570395256930355",
@@ -624,6 +624,61 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2035754880275501405",
+      "text": "感谢大家支持，从第一次发布 baoyu-skills ，到现在 2 个多月时间已经 10K+ stars 了。\nhttps://t.co/0Vly8Dcn68 上的数据：\n193.7K total installs，当前最受欢迎的 skill 排名在 170\nhttps://t.co/YZtwkjcgME https://t.co/Vsu6jmHSbX",
+      "created_at": "Sun Mar 22 16:26:00 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035753455235538944",
+          "url": "https://pbs.twimg.com/media/HEBy-02WoAAmrv8.png"
+        },
+        {
+          "type": "photo",
+          "id": "2035754096934764544",
+          "url": "https://pbs.twimg.com/media/HEBzkLXXwAAjCP2.png"
+        },
+        {
+          "type": "photo",
+          "id": "2035754176387436544",
+          "url": "https://pbs.twimg.com/media/HEBzozWXUAAPbA-.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2011907793520116215",
+        "text": "https://t.co/8cAHpVroAU",
+        "created_at": "Thu Jan 15 21:06:12 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 200638,
+          "friends_count": 1587,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 289,
+          "favorite_count": 1266,
+          "reply_count": 68,
+          "quote_count": 45
+        }
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 112,
+        "reply_count": 13,
+        "quote_count": 1
       }
     }
   ]
