@@ -1,12 +1,212 @@
 {
   "date": "20260322",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-22T18:08:55.590664",
-  "tweet_count": 257,
-  "unique_tweet_count": 257,
-  "total_crawled": 456,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-22T20:06:40.749108",
+  "tweet_count": 260,
+  "unique_tweet_count": 260,
+  "total_crawled": 457,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2035799508215603283",
+      "text": "This is insane",
+      "created_at": "Sun Mar 22 19:23:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035739491613258168",
+        "text": "A Seattle man who shot and killed an eight-month pregnant Korean-American woman and nearly killed her husband when they were driving to work has been found not guilty by reason of insanity.\n\nCordell Goosby m—rdered Elina Kwon and her unborn baby in June 2023 when they were stopped at a red light. Prosecutors did not charge him for killing the baby due to concerns about protecting abortion in the liberal state. \n\nAfter hearing testimony from defense medical experts that Goosby was \"insane\" at the time of the shootings, the prosecution agreed to have the case ended through the not guilty motion. \n\nGoosby will be committed to an institution and regularly evaluated to see if he is fit to be released to the public. https://t.co/eruxyD5BQB",
+        "created_at": "Sun Mar 22 15:24:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035736955883778048",
+            "url": "https://pbs.twimg.com/media/HEBj-b-WcAA1wo0.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2035739084577193984",
+            "url": "https://pbs.twimg.com/media/HEBl6V-aQAA_QJD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2835451658",
+          "name": "Andy Ngo",
+          "screen_name": "MrAndyNgo",
+          "description": "NYT bestselling journalist. Senior editor @TPostMillennial. Subscribe to my X; support my journalism and send news tips at: https://t.co/qNoFCtvckk",
+          "followers_count": 1823814,
+          "friends_count": 3720,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3044,
+          "favorite_count": 11853,
+          "reply_count": 2167,
+          "quote_count": 474
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237198150,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4447,
+        "favorite_count": 34368,
+        "reply_count": 2384,
+        "quote_count": 180
+      }
+    },
+    {
+      "id": "2035798877702693170",
+      "text": "RT @KTmBoyle: This is the reason federalism is so important. Individual states can become tyrannical but America still has an escape hatch…",
+      "created_at": "Sun Mar 22 19:20:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035758630897627634",
+        "text": "This is the reason federalism is so important. Individual states can become tyrannical but America still has an escape hatch that ensures the future of the whole country. If federalism fails, America does too.\n\nWe must protect Texas and Florida with all our being. https://t.co/ZaqdUZEwMQ",
+        "created_at": "Sun Mar 22 16:40:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035758626824945664",
+            "url": "https://pbs.twimg.com/media/HEB3r2hWgAAorts.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "1259638112688304129",
+          "text": "@LorenaSGonzalez Message received",
+          "created_at": "Mon May 11 00:15:03 +0000 2020",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 237198150,
+            "friends_count": 1301,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 9450,
+            "favorite_count": 123363,
+            "reply_count": 4033,
+            "quote_count": 1791
+          }
+        },
+        "user": {
+          "id": "78822934",
+          "name": "Katherine Boyle",
+          "screen_name": "KTmBoyle",
+          "description": "Co-Founder, American Dynamism. General Partner @a16z. Catholic. Mother. American. 🇺🇸 🚀💪",
+          "followers_count": 105904,
+          "friends_count": 1002,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 303,
+          "favorite_count": 2574,
+          "reply_count": 167,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237198150,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 303,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035788270467154137",
+      "text": "RT @doganuraldesign: Chibi movie posters are here ↓ https://t.co/6iGfgST1jY",
+      "created_at": "Sun Mar 22 18:38:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035746661323112448",
+          "url": "https://pbs.twimg.com/media/HEBszXjaAAAc7gT.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035748799444865415",
+        "text": "Chibi movie posters are here ↓ https://t.co/6iGfgST1jY",
+        "created_at": "Sun Mar 22 16:01:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035746661323112448",
+            "url": "https://pbs.twimg.com/media/HEBszXjaAAAc7gT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1553043003496960000",
+          "name": "Dogan Ural",
+          "screen_name": "doganuraldesign",
+          "description": "Official Creative Ambassador @xAI / Designer / Creative Director / Latent Space Explorer / Dad",
+          "followers_count": 123929,
+          "friends_count": 624,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 224,
+          "favorite_count": 1514,
+          "reply_count": 312,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237198150,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 224,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2035754880275501405",
       "text": "感谢大家支持，从第一次发布 baoyu-skills ，到现在 2 个多月时间已经 10K+ stars 了。\nhttps://t.co/0Vly8Dcn68 上的数据：\n193.7K total installs，当前最受欢迎的 skill 排名在 170\nhttps://t.co/YZtwkjcgME https://t.co/Vsu6jmHSbX",
