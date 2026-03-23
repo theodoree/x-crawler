@@ -1,12 +1,182 @@
 {
   "date": "20260323",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-23T14:26:39.771059",
-  "tweet_count": 223,
-  "unique_tweet_count": 223,
+  "last_crawl_time": "2026-03-23T16:21:22.363460",
+  "tweet_count": 226,
+  "unique_tweet_count": 226,
   "total_crawled": 423,
-  "duplicates_removed": 200,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2036115161937825897",
+      "text": "有稀缺性的 SaaS 就是没法用 Vibe Coding 做出来的、又能解决实际问题的",
+      "created_at": "Mon Mar 23 16:17:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036112031405789214",
+        "text": "大量 SaaS 确实已死。但有稀缺性的 SaaS 会摇身一变，活出新风貌。\n\n稀缺性是什么。\n只剩下这一个问题。\n\n比如你会发现：Figma 并没有稀缺性。Notion 的稀缺性也很假。连我最喜欢的 Linear，细想也没有稀缺性。\n\n再想想近年的当红明星们，也会惊出一身热汗：Cursor 的稀缺性正在丧失。Perplexity 则貌似已经淡出视野，新出的 Computer 试用后也没啥稀缺性。Lovable 的稀缺性是增长团队。Manus 的稀缺性貌似在从执行力转向用钱采买的数据。\n\n究竟什么才是真正的稀缺性。\n茫然。又有点兴奋。",
+        "created_at": "Mon Mar 23 16:05:12 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16681326",
+          "name": "Frank Wang 玉伯",
+          "screen_name": "lifesinger",
+          "description": "I am curious and honest",
+          "followers_count": 32272,
+          "friends_count": 1130,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201293,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036114136245969025",
+      "text": "Agent Skills 设计哲学和实战进化\n\n前半段是真实场景演示，看我日常怎么用 Agent + Skills 完成实际工作；后半段是设计哲学和迭代方法论，把踩过的坑和悟出来的经验都讲透。\n\n四个核心观点：\n\n1）从提示词到 Skills：起步没有门槛。把你已有的好用提示词、好的实践、甚至模糊的想法，直接用 /skill-creator 变成 Skill。关键是动手。\n\n2）别做万能 Skill：Skill 要原子化，每个只做一件事。然后用 Skill 或者 AGENTS.md 编排成工作流，让 Agent 灵活执行。我的素材收集和写作流程就是这么串起来的。\n\n3）Skills 像随身小刀，越用越顺手：自己常用、遇到问题当场改、给 Agent 高质量对比样例让它自己优化、用 git 做版本管理留后悔药。\n\n4）站在 Agent 角度设计：多存中间文件、先分析再执行、写清验证标准、用子 Agent 并行、脚本优先于 MCP。这些小细节决定 Skill 能不能真正跑通。\n\nbaoyu-skills 已全部开源：https://t.co/pRDqxdiSrH",
+      "created_at": "Mon Mar 23 16:13:33 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2036110650577928192",
+          "url": "https://video.twimg.com/amplify_video/2036110650577928192/vid/avc1/3840x2160/UpwwL9mPUaiIPycb.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2035754880275501405",
+        "text": "感谢大家支持，从第一次发布 baoyu-skills ，到现在 2 个多月时间已经 10K+ stars 了。\nhttps://t.co/0Vly8Dcn68 上的数据：\n193.7K total installs，当前最受欢迎的 skill 排名在 170\nhttps://t.co/YZtwkjcgME https://t.co/Vsu6jmHSbX",
+        "created_at": "Sun Mar 22 16:26:00 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035753455235538944",
+            "url": "https://pbs.twimg.com/media/HEBy-02WoAAmrv8.png"
+          },
+          {
+            "type": "photo",
+            "id": "2035754096934764544",
+            "url": "https://pbs.twimg.com/media/HEBzkLXXwAAjCP2.png"
+          },
+          {
+            "type": "photo",
+            "id": "2035754176387436544",
+            "url": "https://pbs.twimg.com/media/HEBzozWXUAAPbA-.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 201293,
+          "friends_count": 1590,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 109,
+          "favorite_count": 840,
+          "reply_count": 52,
+          "quote_count": 7
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201293,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 22,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036095608998515057",
+      "text": "Fireworks AI CEO Lin Qiao 也出来做了补充：Cursor 从第一天起就通过 Fireworks 合规使用，不是事后补救， Cursor 和 Kimi 之间不存在许可证违规，Fireworks 作为中间平台提供了强化学习基础设施和推理服务。\nhttps://t.co/uW705ouHVr\n\n【注：Lin Qiao 是 Fireworks AI 创始人兼 CEO，前 Meta AI 基础设施负责人。Fireworks AI 是一家模型推理和微调托管平台，在这笔合作中扮演的角色是：Moonshot 授权 Fireworks 托管 Kimi K2.5，Cursor 通过 Fireworks 获得模型访问权并在其平台上完成强化学习训练。】",
+      "created_at": "Mon Mar 23 14:59:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035971457768190064",
+        "text": "Many people asked me if Cursor and Kimi arrangement is an after-thought to save face. \n\nThe reality is Cursor is in compliance from day 0 using Fireworks. Not an after-thought.",
+        "created_at": "Mon Mar 23 06:46:36 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "51670467",
+          "name": "Lin Qiao",
+          "screen_name": "lqiao",
+          "description": "Cofounder and CEO of @FireworksAI_HQ",
+          "followers_count": 21250,
+          "friends_count": 241,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 11,
+          "favorite_count": 471,
+          "reply_count": 23,
+          "quote_count": 7
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201293,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2036046606643212515",
       "text": "RT @SawyerMerritt: Some new images released tonight during Elon's TERAFAB presentation. https://t.co/q1MRuYhKjB",
