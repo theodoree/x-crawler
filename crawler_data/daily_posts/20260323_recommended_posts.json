@@ -1,12 +1,491 @@
 {
   "date": "20260323",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-23T18:18:15.542747",
-  "tweet_count": 227,
-  "unique_tweet_count": 227,
-  "total_crawled": 426,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-23T20:14:23.781509",
+  "tweet_count": 235,
+  "unique_tweet_count": 235,
+  "total_crawled": 427,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2036168534892376252",
+      "text": "Good shot",
+      "created_at": "Mon Mar 23 19:49:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036157773919002699",
+        "text": "First encounter with a Sturmvogel!\nAnimated with @grok imagine https://t.co/WiCR11UAq3",
+        "created_at": "Mon Mar 23 19:06:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036156404017364992",
+            "url": "https://video.twimg.com/amplify_video/2036156404017364992/vid/avc1/1300x720/-620Dw9ij8b0Tzv_.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1439064027896889344",
+          "name": "SuperVerseAI",
+          "screen_name": "superverseai",
+          "description": "Merging art and tech to craft a unique universe of experiences.",
+          "followers_count": 4000,
+          "friends_count": 2005,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 16,
+          "favorite_count": 110,
+          "reply_count": 37,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237291003,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 371,
+        "favorite_count": 3560,
+        "reply_count": 701,
+        "quote_count": 15
+      }
+    },
+    {
+      "id": "2036168078178853344",
+      "text": "Grok",
+      "created_at": "Mon Mar 23 19:47:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036062116994797759",
+        "text": "Grok Imagine generates the best realistic videos that feel truly lifelike ✨ https://t.co/u5oKn0MJq9",
+        "created_at": "Mon Mar 23 12:46:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036062050259275776",
+            "url": "https://video.twimg.com/amplify_video/2036062050259275776/vid/avc1/720x954/QJapQB7d-g2HNd7z.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 171701,
+          "friends_count": 1676,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 29,
+          "favorite_count": 292,
+          "reply_count": 130,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237291003,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 264,
+        "favorite_count": 1867,
+        "reply_count": 803,
+        "quote_count": 27
+      }
+    },
+    {
+      "id": "2036162268891685242",
+      "text": "Grok Imagine gets better every week. \n\nDownload the latest @Grok app!",
+      "created_at": "Mon Mar 23 19:24:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036062116994797759",
+        "text": "Grok Imagine generates the best realistic videos that feel truly lifelike ✨ https://t.co/u5oKn0MJq9",
+        "created_at": "Mon Mar 23 12:46:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036062050259275776",
+            "url": "https://video.twimg.com/amplify_video/2036062050259275776/vid/avc1/720x954/QJapQB7d-g2HNd7z.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 171701,
+          "friends_count": 1676,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 29,
+          "favorite_count": 292,
+          "reply_count": 130,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237291003,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 484,
+        "favorite_count": 3480,
+        "reply_count": 1350,
+        "quote_count": 49
+      }
+    },
+    {
+      "id": "2036161276548673952",
+      "text": "RT @NASAAdmin: NASA is leading the greatest adventure in human history, and it has only just begun.\n \nOn Tuesday, we’ll share our plans for…",
+      "created_at": "Mon Mar 23 19:20:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036144418852323409",
+        "text": "NASA is leading the greatest adventure in human history, and it has only just begun.\n \nOn Tuesday, we’ll share our plans for the future of NASA across many of our programs.\n \nWe’ll see you tomorrow morning for Ignition. https://t.co/fKX8y9w0Wu",
+        "created_at": "Mon Mar 23 18:13:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036143366266667009",
+            "url": "https://video.twimg.com/amplify_video/2036143366266667009/vid/avc1/3840x2160/42rBU1_L9Ii8CqxP.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2000593641480605696",
+          "name": "NASA Administrator Jared Isaacman",
+          "screen_name": "NASAAdmin",
+          "description": "Serving President Donald J. Trump as the 15th @NASA Administrator | Leading the next Golden Age of space discovery 🚀",
+          "followers_count": 92259,
+          "friends_count": 44,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 854,
+          "favorite_count": 5158,
+          "reply_count": 414,
+          "quote_count": 75
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237291003,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 854,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036157326231740439",
+      "text": "RT @lsanger: \"The very idea of rationality and reason was being dismissed\"; \"evidence became politicized\" by scholars. Fascinating comment…",
+      "created_at": "Mon Mar 23 19:05:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036129136553439695",
+        "text": "\"The very idea of rationality and reason was being dismissed\"; \"evidence became politicized\" by scholars. Fascinating comment by Melanie Phillips.\n\nThis is one of the main reasons I left academia. I saw it coming. But it manifests slightly differently in philosophy...👇",
+        "created_at": "Mon Mar 23 17:13:10 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2035857535140545016",
+          "text": "Good explanation of nihilist philosophy \n https://t.co/dDUwMQpEwf",
+          "created_at": "Sun Mar 22 23:13:55 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2035834974327173120",
+              "url": "https://video.twimg.com/amplify_video/2035834974327173120/vid/avc1/1280x720/4HnIR-oivyjo64B0.mp4?tag=21",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 237291003,
+            "friends_count": 1301,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 25695,
+            "favorite_count": 120605,
+            "reply_count": 5280,
+            "quote_count": 1124
+          }
+        },
+        "user": {
+          "id": "14116588",
+          "name": "Larry Sanger",
+          "screen_name": "lsanger",
+          "description": "See https://t.co/i2fOqSfhJh. Purveyor of obvious truths, ex-founder of Wikipedia. Now president, @ks_found. Buy 69,020 books on a thumb drive! 🇺🇸✞ ACNA",
+          "followers_count": 89891,
+          "friends_count": 1231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 279,
+          "favorite_count": 1377,
+          "reply_count": 116,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237291003,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 279,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036156918067241381",
+      "text": "Injustice",
+      "created_at": "Mon Mar 23 19:03:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036088529021698248",
+        "text": "White guy kills a seagull: 8 months in prison\n\nBlack guy kills a man: misdemeanor, released\n\nBlack guy kills a pregnant mom and her unborn child: not guilty by reason of insanity, baby doesn’t count as a human\n\nAsian woman kills family of 4: probation\n\nRed guards in black robes have destroyed the value of justice and life - the purpose of a system is what it does.",
+        "created_at": "Mon Mar 23 14:31:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036088371097837568",
+            "url": "https://pbs.twimg.com/media/HEGjlfqXIAAJsRb.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2036088409731813376",
+            "url": "https://pbs.twimg.com/media/HEGjnvla0AAJVLL.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2036088429419577344",
+            "url": "https://pbs.twimg.com/media/HEGjo47WQAA-YPx.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2036088447031455744",
+            "url": "https://pbs.twimg.com/media/HEGjp6iWMAAUXgW.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1061975258",
+          "name": "Yuri Bezmenov Subversion",
+          "screen_name": "yuribezmenov22",
+          "description": "I write How To Subvert Subversion on S*bstack. Can you reason with a demoralized person?",
+          "followers_count": 9347,
+          "friends_count": 1170,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5072,
+          "favorite_count": 20927,
+          "reply_count": 423,
+          "quote_count": 127
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237291003,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5960,
+        "favorite_count": 36717,
+        "reply_count": 1562,
+        "quote_count": 138
+      }
+    },
+    {
+      "id": "2036156722692366830",
+      "text": "RT @wintonARK: It really is bizarre.\n\nMost of my friends don't have FSD (or a Tesla).\n\nAnd it is the single biggest lifestyle difference be…",
+      "created_at": "Mon Mar 23 19:02:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036143188474470684",
+        "text": "It really is bizarre.\n\nMost of my friends don't have FSD (or a Tesla).\n\nAnd it is the single biggest lifestyle difference between us.\n\nThey drive their cars.\n\nMy car drives me.\n\nThey don't get how much--even at its current capability-level--the product changes life-feel.\n\nFSD truly is a mass luxury product. That it is still so narrowly enjoyed is mind-bending.",
+        "created_at": "Mon Mar 23 18:09:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "760345658",
+          "name": "Brett Winton",
+          "screen_name": "wintonARK",
+          "description": "Chief Futurist @ARKInvest. ARK Venture IC. Welcome to the Great Acceleration.  https://t.co/UmaWM7EXKR",
+          "followers_count": 208216,
+          "friends_count": 589,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 257,
+          "favorite_count": 2419,
+          "reply_count": 508,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237291003,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 257,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036156324078391442",
+      "text": "RT @SawyerMerritt: NEWS: Jay Leno has just released a 47 minute video going over the new redesigned @Tesla Semi with @danWpriestley and @wo…",
+      "created_at": "Mon Mar 23 19:01:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036126552929247697",
+        "text": "NEWS: Jay Leno has just released a 47 minute video going over the new redesigned @Tesla Semi with @danWpriestley and @woodhaus2.\n\nDan: \"We cut about 1,000 lbs out of the truck (vs previous Tesla Semi).\"\n\nLink to video below. https://t.co/UZxYGJecxt",
+        "created_at": "Mon Mar 23 17:02:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036125838740168707",
+            "url": "https://video.twimg.com/amplify_video/2036125838740168707/vid/avc1/1920x1080/EozOjIz6cSfGm0h6.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1051604,
+          "friends_count": 440,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 651,
+          "favorite_count": 5460,
+          "reply_count": 171,
+          "quote_count": 34
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237291003,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 651,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2036130807522202092",
       "text": "RT @shao__meng: 信息卡制作完整方法我做成了 Skill「infocard-skills」，开源在这里了：\nhttps://t.co/jCrTwUBZLx\n\n支持 16/9、4/3、1/1、3/4、9/16 几种常见比例信息卡，和 2.35/1、3/1 等常见比例…",
