@@ -1,12 +1,68 @@
 {
   "date": "20260323",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-23T20:14:23.781509",
-  "tweet_count": 235,
-  "unique_tweet_count": 235,
-  "total_crawled": 427,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-03-23T22:09:27.808902",
+  "tweet_count": 237,
+  "unique_tweet_count": 237,
+  "total_crawled": 435,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2036202248238473607",
+      "text": "Claude Cowork 大更新：能操作你的电脑了\n\nAnthropic 今天为 Claude Cowork 推出了一组重磅更新，核心是三个能力：电脑操控（Computer Use）、手机派任务（Dispatch）、以及定时任务。\n\n简单说，Claude 现在可以像一个坐在你电脑前的助手一样工作：打开应用、操作浏览器、填写表格。它会优先通过已有的连接器（Slack、日历等）完成任务，如果没有对应的连接器，就直接请求权限在你的屏幕上操作应用。\n\n更实用的是\"派活\"模式：你在手机上给 Claude 布置一个任务，然后去忙别的，回来时电脑上已经有了完成的成果：一份排好版的表格、一份备忘录、一份简报。\n\nClaude 还支持跨会话记忆，能记住你的工作习惯和偏好。\n\n定时任务也值得一提。你可以设定让 Claude 每天早上扫一遍邮件、每周五拉一份报告，设一次就行，后面它自动执行。\n\n目前这些功能处于研究预览阶段，仅支持 macOS。Pro 用户（$20/月）和 Max 用户（$100-200/月）均可使用，但 Cowork 比普通聊天消耗额度更快。另外一个细节：Cowork 的对话记录存储在本地设备上，不在 Anthropic 服务器上。\n\n对标来看，这基本就是 Anthropic 版的\"电脑智能体\"，跟 OpenAI 的 Operator、Google 的 Project Mariner 走的是同一条路，但 Anthropic 的策略是把它嵌入已有的 Cowork 工作流里，而不是做一个独立产品。接下来要看的是 Windows 支持什么时候跟上，以及实际使用中操控电脑的可靠性如何。",
+      "created_at": "Mon Mar 23 22:03:41 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036195789601374705",
+        "text": "You can now enable Claude to use your computer to complete tasks.\n\nIt opens your apps, navigates your browser, fills in spreadsheets—anything you'd do sitting at your desk.\n\nResearch preview in Claude Cowork and Claude Code, macOS only. https://t.co/sVymgmtEMI",
+        "created_at": "Mon Mar 23 21:38:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036187400414830594",
+            "url": "https://video.twimg.com/amplify_video/2036187400414830594/vid/avc1/1920x1080/TZcHG66FFn4n6Qyn.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on desktop or download the app.",
+          "followers_count": 788127,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 347,
+          "favorite_count": 4437,
+          "reply_count": 282,
+          "quote_count": 288
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201352,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2036168534892376252",
       "text": "Good shot",
@@ -11081,6 +11137,55 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2035041073798459876",
+      "text": "Cursor 回应：承认用了开源基座舆论发酵后，Cursor 开发者体验副总裁 Lee Robinson 在 X 上做出了官方回应。\nhttps://t.co/HLLmEsbKnB\n\n他承认 Composer 2 确实基于一个开源基座模型构建，但强调最终模型只有约四分之一的算力来自基座，其余都是 Cursor 自己的训练。\n\n他还表示 Cursor 正在通过推理合作伙伴的条款遵守许可证，并称未来会做完全自主的预训练。\n\n这个回应有几个值得注意的地方。\n第一，Lee Robinson 全程没有提\"Kimi K2.5\"这个名字，只说了\"开源基座\"。\n第二，\"四分之一算力来自基座\"这个说法很巧妙，把外界\"拿了别人的模型换个壳\"的指控转化成了一个算力比例问题。\n第三，\"通过推理合作伙伴条款遵守许可证\"这句话很模糊，并没有解释 Cursor 的界面上为什么看不到任何 Kimi K2.5 的标识，而这正是许可证条款明确要求的。",
+      "created_at": "Fri Mar 20 17:09:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035035355364081694",
+        "text": "Yep, Composer 2 started from an open-source base! We will do full pretraining in the future.\n\nOnly ~1/4 of the compute spent on the final model came from the base, the rest is from our training. This is why evals are very different.\n\nAnd yes, we are following the license through our inference partner terms.",
+        "created_at": "Fri Mar 20 16:46:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "81712767",
+          "name": "Lee Robinson",
+          "screen_name": "leerob",
+          "description": "Teaching developers @cursor_ai, previously @vercel",
+          "followers_count": 230731,
+          "friends_count": 766,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 204,
+          "favorite_count": 2813,
+          "reply_count": 359,
+          "quote_count": 202
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201352,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 52,
+        "reply_count": 7,
+        "quote_count": 1
       }
     },
     {
