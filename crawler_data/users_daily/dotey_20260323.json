@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 201293,
+    "followers_count": 201329,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260323",
-  "last_updated": "2026-03-23T16:21:22.393442",
-  "tweet_count": 5,
+  "last_updated": "2026-03-23T18:18:15.573911",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2035917916269387831",
@@ -223,6 +223,75 @@
         "retweet_count": 0,
         "favorite_count": 1,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036130807522202092",
+      "text": "RT @shao__meng: 信息卡制作完整方法我做成了 Skill「infocard-skills」，开源在这里了：\nhttps://t.co/jCrTwUBZLx\n\n支持 16/9、4/3、1/1、3/4、9/16 几种常见比例信息卡，和 2.35/1、3/1 等常见比例…",
+      "created_at": "Mon Mar 23 17:19:48 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2035720327037108673",
+        "text": "信息卡制作完整方法我做成了 Skill「infocard-skills」，开源在这里了：\nhttps://t.co/4RLsNwJxKX\n\n支持 16/9、4/3、1/1、3/4、9/16 几种常见比例信息卡，和 2.35/1、3/1 等常见比例封面的适配性针对设计。\n\n输入需要生成的内容和比例要求（默认 4/3），AI Agent 使用 这个 Skill 生成 HTML 并截图输出 PNG。\n\n下面是这个 Skill 生成的样例 🔽 大家可以在使用中调整成最适合你的样式风格，并沉淀更新到 Skill 里。",
+        "created_at": "Sun Mar 22 14:08:42 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035720105217474560",
+            "url": "https://pbs.twimg.com/media/HEBUpmWbwAA-wbx.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2027368489439334504",
+          "text": "https://t.co/igDhxNVGEj",
+          "created_at": "Fri Feb 27 13:01:29 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1727548535816724480",
+            "name": "meng shao",
+            "screen_name": "shao__meng",
+            "description": "AI 团队顾问&企业 AI 培训，专注「上下文工程」 &「AI 智能体」\n· 顾问：前沿理论 → 企业真实落地闭环\n· 培训：企业 AI 培训，推动全员 AI 提效\n\n合作：私信 / shaomeng@outlook.com\n公众号/小红书：AI 启蒙小伙伴",
+            "followers_count": 28392,
+            "friends_count": 1172,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 31,
+            "favorite_count": 215,
+            "reply_count": 15,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "1727548535816724480",
+          "name": "meng shao",
+          "screen_name": "shao__meng",
+          "description": "AI 团队顾问&企业 AI 培训，专注「上下文工程」 &「AI 智能体」\n· 顾问：前沿理论 → 企业真实落地闭环\n· 培训：企业 AI 培训，推动全员 AI 提效\n\n合作：私信 / shaomeng@outlook.com\n公众号/小红书：AI 启蒙小伙伴",
+          "followers_count": 28392,
+          "friends_count": 1172,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 92,
+          "favorite_count": 477,
+          "reply_count": 11,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 92,
+        "favorite_count": 0,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
