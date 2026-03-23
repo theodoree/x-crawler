@@ -1,12 +1,282 @@
 {
   "date": "20260323",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-23T03:05:22.263904",
-  "tweet_count": 208,
-  "unique_tweet_count": 208,
-  "total_crawled": 400,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-03-23T04:46:35.957237",
+  "tweet_count": 213,
+  "unique_tweet_count": 213,
+  "total_crawled": 408,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2035919365540139476",
+      "text": "RT @SawyerMerritt: Elon Musk: \"This chart explains why we need to build the TERAFAB.\" https://t.co/GF6q2UDneY",
+      "created_at": "Mon Mar 23 03:19:36 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035531664651358208",
+          "url": "https://pbs.twimg.com/media/HD-pQ6iakAAg4NP.png"
+        }
+      ],
+      "retweet": {
+        "id": "2035531776613880256",
+        "text": "Elon Musk: \"This chart explains why we need to build the TERAFAB.\" https://t.co/GF6q2UDneY",
+        "created_at": "Sun Mar 22 01:39:28 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035531664651358208",
+            "url": "https://pbs.twimg.com/media/HD-pQ6iakAAg4NP.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1051347,
+          "friends_count": 440,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 264,
+          "favorite_count": 2841,
+          "reply_count": 152,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237224785,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 264,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035919313153237136",
+      "text": "RT @teslaownersSV: Grok has become my go-to AI app. It’s my number-one source of information and help.\n\nNo other app is as based and truth-…",
+      "created_at": "Mon Mar 23 03:19:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035896937241858169",
+        "text": "Grok has become my go-to AI app. It’s my number-one source of information and help.\n\nNo other app is as based and truth-seeking as Grok.",
+        "created_at": "Mon Mar 23 01:50:29 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.\n2.8M followers",
+          "followers_count": 1400507,
+          "friends_count": 852,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 155,
+          "favorite_count": 1071,
+          "reply_count": 178,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237224785,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 155,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035918228267163700",
+      "text": "RT @teslaownersSV: ELON MUSK: “To reach a petawatt, we’d build an electromagnetic mass driver on the Moon with robots like Optimus and huma…",
+      "created_at": "Mon Mar 23 03:15:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035770669384999114",
+        "text": "ELON MUSK: “To reach a petawatt, we’d build an electromagnetic mass driver on the Moon with robots like Optimus and humans. With no atmosphere and 1/6 gravity, payloads can reach escape velocity without rockets, drastically cutting costs. That could scale compute 1000× beyond a terawatt—I hope we live to see it.”",
+        "created_at": "Sun Mar 22 17:28:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035770512094441472",
+            "url": "https://video.twimg.com/amplify_video/2035770512094441472/vid/avc1/1920x1080/RmkUygquCXiYx4WK.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.\n2.8M followers",
+          "followers_count": 1400507,
+          "friends_count": 852,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 325,
+          "favorite_count": 1842,
+          "reply_count": 192,
+          "quote_count": 27
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237224785,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 325,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035917916269387831",
+      "text": "https://t.co/0M8A3oXboc",
+      "created_at": "Mon Mar 23 03:13:51 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 200989,
+        "friends_count": 1589,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 83,
+        "reply_count": 5,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2035916412586541493",
+      "text": "RT @KatieMiller: Hormonal birth control is poison for the female mind. \n\nThe worst thing doctors do is immediately push birth control on yo…",
+      "created_at": "Mon Mar 23 03:07:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2035870170875412917",
+        "text": "Hormonal birth control is poison for the female mind. \n\nThe worst thing doctors do is immediately push birth control on young women as soon as they hit puberty.",
+        "created_at": "Mon Mar 23 00:04:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2035831368798577066",
+          "text": "A recent study suggests hormonal birth control reduces the individuality of women’s brains, making them more the same. \n\nMaking them NPCs, in other words. https://t.co/mn6V2898O9",
+          "created_at": "Sun Mar 22 21:29:56 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2035831363828416512",
+              "url": "https://pbs.twimg.com/media/HEC51s-XgAAXo9L.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1161261376846946305",
+            "name": "RAW EGG NATIONALIST",
+            "screen_name": "Babygravy9",
+            "description": "New book THE LAST MEN: LIBERALISM AND THE DEATH OF MASCULINITY out now (Amazon); S'stack (https://t.co/YQuXSS0rXk); #1 bestselling author; founder Kindred Harvest",
+            "followers_count": 319084,
+            "friends_count": 2875,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 179,
+            "favorite_count": 1186,
+            "reply_count": 51,
+            "quote_count": 21
+          }
+        },
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 216958,
+          "friends_count": 910,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 336,
+          "favorite_count": 1901,
+          "reply_count": 217,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237224785,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 336,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2035910660291535245",
       "text": "RT @_The_Prophet__: ⚡️This is Musk trying to build the industrial heart of a post-human power system.\n\nHe is no longer talking like a car C…",
