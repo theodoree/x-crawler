@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "https://t.co/dDtDyVssfm",
+    "followers_count": 237318898,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260324",
+  "last_updated": "2026-03-24T03:01:20.093136",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2036240743392747606",
+      "text": "RT @danWpriestley: @SawyerMerritt That lead truck has driven nearly every one of those miles at 82k lbs GCW, resulting in nearly 18M ton-mi…",
+      "created_at": "Tue Mar 24 00:36:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036226603647443230",
+        "text": "@SawyerMerritt That lead truck has driven nearly every one of those miles at 82k lbs GCW, resulting in nearly 18M ton-miles. Total gross energy throughput (discharge + regen) is well over 1GWh.",
+        "created_at": "Mon Mar 23 23:40:28 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "19069944",
+          "name": "Dan Priestley",
+          "screen_name": "danWpriestley",
+          "description": "Semi @ Tesla. Perpetually curious",
+          "followers_count": 16208,
+          "friends_count": 109,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 285,
+          "favorite_count": 2226,
+          "reply_count": 191,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 285,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

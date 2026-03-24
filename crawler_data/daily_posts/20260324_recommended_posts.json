@@ -1,12 +1,257 @@
 {
   "date": "20260324",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-24T00:20:51.210989",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-24T03:01:20.059586",
+  "tweet_count": 205,
+  "unique_tweet_count": 205,
+  "total_crawled": 400,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2036276181784224061",
+      "text": "RT @himself65: AI给前端带来的改变是结构性通缩，或者整个工程师的结构性通缩。…",
+      "created_at": "Tue Mar 24 02:57:28 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2036215510841634955",
+        "text": "AI给前端带来的改变是结构性通缩，或者整个工程师的结构性通缩。\n\ntoDeveloper的产品开始彻底变成TUI，toC的产品变得是个人都可以调整；市场上不再需要那么多糊UI的，当然你可以辩证说AI不能完成100%的工作，但是事实上大部分人其实也不在乎能完成100%的工作，只要用AI写项目的成本小于雇佣一个正经的工程师，那么就不需要雇佣。\n并且好的工程师的定义逐渐已经变成了如何更好的操控LLM + 项目把控力，Individual Contributor的要求逐渐和Tech Lead看齐",
+        "created_at": "Mon Mar 23 22:56:23 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3150623335",
+          "name": "面包🍞",
+          "screen_name": "himself65",
+          "description": "Not a trader, not a programmer. All posts are not financial advice nor tech insight.",
+          "followers_count": 61736,
+          "friends_count": 225,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 83,
+          "reply_count": 8,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201461,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036271021058117892",
+      "text": "我觉得现在重点不是什么都去学，也不是说这些知识不用学，而是以终为始：\n先看看自己目标是什么，要做什么，然后做这些事情需要哪些技术（可以用 Deep Research 这种辅助调研），然后再去针对性学习。\n\n另外从深度和广度入手，深度方面学习底层知识，广度方面建立“地图”，知道有哪些技术可用。",
+      "created_at": "Tue Mar 24 02:36:58 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036266944962371714",
+        "text": "@dotey 请问宝玉，现在还有必要学习n8n、coze这些ai流程编排平台吗？",
+        "created_at": "Tue Mar 24 02:20:46 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1087579403234598917",
+          "name": "Winter’s love",
+          "screen_name": "winterslove2020",
+          "description": "The First App in the world to analyze the structure of English sentences using a tree structure：\nhttps://t.co/Ta9MJeXCuM",
+          "followers_count": 130,
+          "friends_count": 619,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201461,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 24,
+        "reply_count": 8,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036271023079784831",
+      "text": "参考\nhttps://t.co/IKB2970Afh",
+      "created_at": "Tue Mar 24 02:36:58 +0000 2026",
+      "lang": "ja",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035015960537485507",
+        "text": "https://t.co/xMUJVzU7hd",
+        "created_at": "Fri Mar 20 15:29:48 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 201461,
+          "friends_count": 1590,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 108,
+          "favorite_count": 515,
+          "reply_count": 21,
+          "quote_count": 18
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201461,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 9,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036262717401567522",
+      "text": "视频中用来抓取 YouTube 字幕的 Gem 的提示词：\nhttps://t.co/j8ul0GFRZM\n或者也可以用这个 skill（推荐）：https://t.co/mIwDZItibd\n\nhttps://t.co/qrbYZoM2MR",
+      "created_at": "Tue Mar 24 02:03:58 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036260306440298960",
+        "text": "@dotey 宝哥，里面提到的用gem获取YouTube字幕的是哪个",
+        "created_at": "Tue Mar 24 01:54:23 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703620402478563328",
+          "name": "Fiona Fan",
+          "screen_name": "fanjinglian",
+          "description": "🤖 Building with AI\n🧠 Learning in public\n\n✨ Exploring creativity & the future of work\n\n用AI创造，也记录思考",
+          "followers_count": 167,
+          "friends_count": 478,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201461,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036240743392747606",
+      "text": "RT @danWpriestley: @SawyerMerritt That lead truck has driven nearly every one of those miles at 82k lbs GCW, resulting in nearly 18M ton-mi…",
+      "created_at": "Tue Mar 24 00:36:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036226603647443230",
+        "text": "@SawyerMerritt That lead truck has driven nearly every one of those miles at 82k lbs GCW, resulting in nearly 18M ton-miles. Total gross energy throughput (discharge + regen) is well over 1GWh.",
+        "created_at": "Mon Mar 23 23:40:28 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "19069944",
+          "name": "Dan Priestley",
+          "screen_name": "danWpriestley",
+          "description": "Semi @ Tesla. Perpetually curious",
+          "followers_count": 16208,
+          "friends_count": 109,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 285,
+          "favorite_count": 2226,
+          "reply_count": 191,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237318898,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 285,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2036234127691694254",
       "text": "https://t.co/Teh2NKtccf",
