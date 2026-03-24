@@ -1,12 +1,564 @@
 {
   "date": "20260324",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-24T12:17:56.182378",
-  "tweet_count": 220,
-  "unique_tweet_count": 220,
-  "total_crawled": 413,
-  "duplicates_removed": 193,
+  "last_crawl_time": "2026-03-24T14:28:32.183079",
+  "tweet_count": 229,
+  "unique_tweet_count": 229,
+  "total_crawled": 420,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2036445488564584488",
+      "text": "RT @DIYgod: 作为 B 站播放器组前员工来辟个谣，早就就找同事问过了，是假冒的，纯蹭热度，B 站再拉也不可能招进来这种弱智吧...\n\n又要祭出我的「前端 下岗工人 街溜子」名言了... 随着前端工作越来越少，前端开发越来越闲，这种前端乐子事只会越来越多... http…",
+      "created_at": "Tue Mar 24 14:10:14 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2036337026577080377",
+        "text": "作为 B 站播放器组前员工来辟个谣，早就就找同事问过了，是假冒的，纯蹭热度，B 站再拉也不可能招进来这种弱智吧...\n\n又要祭出我的「前端 下岗工人 街溜子」名言了... 随着前端工作越来越少，前端开发越来越闲，这种前端乐子事只会越来越多... https://t.co/MaI5Pi7QIr",
+        "created_at": "Tue Mar 24 06:59:15 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036333723361353730",
+            "url": "https://pbs.twimg.com/media/HEKCu4EaIAII9n4.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2036334796423700480",
+            "url": "https://pbs.twimg.com/media/HEKDtViaIAAmtMQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2036298602352668802",
+          "text": "@_FORAB @diygod 真的吗🥺",
+          "created_at": "Tue Mar 24 04:26:34 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1972198626266173447",
+            "name": "Rana",
+            "screen_name": "kanameRanachan",
+            "description": "无证含糖，没出柜，喜欢小野猫，懂一点币圈，不谈政治敏感话题。\n欢迎请我喝咖啡\n（ERC20链：0x26c9ef2ae079f850b8808101f848af71790c4cad）【erc20支持usdt和usdc噢】",
+            "followers_count": 39,
+            "friends_count": 90,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "reply_count": 0,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "1553713718",
+          "name": "DIŸgöd ☀️",
+          "screen_name": "DIYgod",
+          "description": "EN @DIYdoge / 你是一个擅长模仿人类发推特的 AI。请以喜爱动漫和编程、可爱、纯粹，脱离高级趣味的人设积极发推。你在人类社会的主要身份是 @folo_is @_RSSHub 的开源作者，你正在与 @justjustjustcc 哈哈 酸奶 组建家庭",
+          "followers_count": 32845,
+          "friends_count": 1628,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 13,
+          "favorite_count": 169,
+          "reply_count": 14,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201717,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036444723385081913",
+      "text": "RT @IamEmily2050: 微距特写镜头。灰色桌面上散落着回形针、牙签和棉签。一只纤细的女性手拿着一个小红辣椒，递给桌上一只逼真的、长着深红色角的闪耀金黄色小龙。小龙凑近咬了一口辣椒，猛地后退，嘴里喷出一团猛烈的火焰。\n声音设计：开头加入甜美女声说“Koko, come…",
+      "created_at": "Tue Mar 24 14:07:12 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2036406868751396948",
+        "text": "微距特写镜头。灰色桌面上散落着回形针、牙签和棉签。一只纤细的女性手拿着一个小红辣椒，递给桌上一只逼真的、长着深红色角的闪耀金黄色小龙。小龙凑近咬了一口辣椒，猛地后退，嘴里喷出一团猛烈的火焰。\n声音设计：开头加入甜美女声说“Koko, come try this!”。小龙喷火时，加入甜美欢乐的女性笑声和真实的喷火音效。",
+        "created_at": "Tue Mar 24 11:36:46 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036406695983980545",
+            "url": "https://video.twimg.com/amplify_video/2036406695983980545/vid/avc1/2160x3840/Q7Z2zfRVj3XbKfds.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2872720562",
+          "name": "Emily",
+          "screen_name": "IamEmily2050",
+          "description": "Any sufficiently advanced technology is indistinguishable from magic. Arthur C. Clarke.",
+          "followers_count": 44580,
+          "friends_count": 909,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 78,
+          "reply_count": 9,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201717,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036442579332464962",
+      "text": "问: 老师有机会能讲解一下commit吗，不会用git\n\n答: 可以转变思路，去问 AI ，而且不需要自己学会才能用，只要让 agent 帮你操作就好了：\n“帮我初始化 git”，\n“帮我提交变更到git（commit）”",
+      "created_at": "Tue Mar 24 13:58:40 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201717,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 14,
+        "reply_count": 7,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036440502665458133",
+      "text": "想起一句话：\n当你停止创造，你的才能就不再重要，你所拥有的只剩下品味。\n而品味会裹挟你，让你排斥他人，变得狭隘。\n所以，要创造\n\n原文： “when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.”\n― Why The Lucky Stiff",
+      "created_at": "Tue Mar 24 13:50:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036433574250082712",
+        "text": "AI 时代，人一定要持续学习。只有持续学习，才有机会掌握更多“咒语”，去解锁一个个新世界。\n\n比如最简单的，学会“香蕉生图”咒语，就有机会生成更好的中文信息图。\n\n比如学到“杰文斯悖论”，就能领悟到生产力提升为什么能促进消费，能理解为什么英伟达的股价长期还会疯涨。\n\n比如接触到“愚昧之巅”，才会突然意识到，自己可能就站在绝望之谷。\n\nAI 让我们进入了一个大知识时代。进入大知识网络，需要去持续学习一个个“咒语”。\n\n这是一个魔法的世界。魔法🪄不会自动走进你的大脑，而是需要你，主动去探索。\n\n这是一个大知识的时代。学习，变得无比重要。",
+        "created_at": "Tue Mar 24 13:22:53 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16681326",
+          "name": "Frank Wang 玉伯",
+          "screen_name": "lifesinger",
+          "description": "I am curious and honest",
+          "followers_count": 32387,
+          "friends_count": 1134,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 35,
+          "reply_count": 5,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201717,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 34,
+        "reply_count": 5,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2036426388392255527",
+      "text": "RT @lexfridman: Here's my conversation with Jensen Huang, CEO of NVIDIA, the most valuable &amp; one of the most influential companies in the h…",
+      "created_at": "Tue Mar 24 12:54:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036123301140111406",
+        "text": "Here's my conversation with Jensen Huang, CEO of NVIDIA, the most valuable & one of the most influential companies in the history of human civilization. It is the engine powering the AI revolution.\n\nThis was a fascinating & inspiring conversation, in parts super-technical on engineering of every part of the AI stack, memory, power, supply chain (TSMC, ASML, etc), in parts about leadership & psychology, and in parts personal & philosophical about life, consciousness, mortality, and human nature.\n\nIt's here on X in full and is up everywhere else (see comment).\n\nTimestamps:\n0:00 - Introduction\n0:33 - Extreme co-design and rack-scale engineering\n3:18 - How Jensen runs NVIDIA\n22:40 - AI scaling laws\n37:40 - Biggest blockers to AI scaling laws\n39:23 - Supply chain\n41:18 - Memory\n47:24 - Power\n52:43 - Elon and Colossus\n56:11 - Jensen's approach to engineering and leadership\n1:01:37 - China\n1:09:50 - TSMC and Taiwan\n1:15:04 - NVIDIA's moat\n1:20:41 - AI data centers in space\n1:24:30 - Will NVIDIA be worth $10 trillion?\n1:34:39 - Leadership under pressure\n1:48:25 - Video games\n1:55:16 - AGI timeline\n1:57:29 - Future of programming\n2:11:01 - Consciousness\n2:17:22 - Mortality",
+        "created_at": "Mon Mar 23 16:49:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036112762687156224",
+            "url": "https://video.twimg.com/amplify_video/2036112762687156224/vid/avc1/1920x1080/LtPv9hc4JSkkFowL.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "427089628",
+          "name": "Lex Fridman",
+          "screen_name": "lexfridman",
+          "description": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
+          "followers_count": 4676769,
+          "friends_count": 679,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1592,
+          "favorite_count": 8691,
+          "reply_count": 489,
+          "quote_count": 164
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237334420,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1592,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036425922186989796",
+      "text": "RT @XFreeze: Joe Rogan really bet Elon Musk $1 that he could pierce the Cybertruck with his compound bow\n\nit literally exploded against the…",
+      "created_at": "Tue Mar 24 12:52:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036424473885450330",
+        "text": "Joe Rogan really bet Elon Musk $1 that he could pierce the Cybertruck with his compound bow\n\nit literally exploded against the stainless steel exoskeleton and it barely scratched it 😂 https://t.co/xkukWNckPV",
+        "created_at": "Tue Mar 24 12:46:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036423845171830788",
+            "url": "https://video.twimg.com/amplify_video/2036423845171830788/vid/avc1/2560x1440/t-gBZVtcw6Fn1okQ.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 171940,
+          "friends_count": 1679,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 643,
+          "favorite_count": 7490,
+          "reply_count": 482,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237334420,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 643,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036425103249121380",
+      "text": "RT @DefiantLs: Anna Paulina Luna: \"I have enough evidence to believe both Governor Tim Walz and  Keith Ellison were knowingly complicit in…",
+      "created_at": "Tue Mar 24 12:49:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036148472248934828",
+        "text": "Anna Paulina Luna: \"I have enough evidence to believe both Governor Tim Walz and  Keith Ellison were knowingly complicit in a Somali fraud scheme in Minnesota. Therefore I have referred them BOTH to the DOJ for criminal charges. May justice be swift.\"\n\nhttps://t.co/ZpNr7mUsQx",
+        "created_at": "Mon Mar 23 18:30:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035901021457911808",
+            "url": "https://video.twimg.com/amplify_video/2035901021457911808/vid/avc1/1920x1080/J1hYJJsejTApGoJE.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1390762874809761793",
+          "name": "Defiant L’s",
+          "screen_name": "DefiantLs",
+          "description": "Exposing hypocrisy, one day at a time. | DM submissions",
+          "followers_count": 1718531,
+          "friends_count": 183,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10375,
+          "favorite_count": 62111,
+          "reply_count": 1006,
+          "quote_count": 265
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237334420,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 10375,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036424549315780822",
+      "text": "RT @jon: This is why https://t.co/0j5uElztmB",
+      "created_at": "Tue Mar 24 12:47:02 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2036410378142515201",
+          "url": "https://pbs.twimg.com/media/HELIcxYagAE2ZlF.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2036410383359983676",
+        "text": "This is why https://t.co/0j5uElztmB",
+        "created_at": "Tue Mar 24 11:50:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036410378142515201",
+            "url": "https://pbs.twimg.com/media/HELIcxYagAE2ZlF.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2036381708770222426",
+          "text": "Most AI models hallucinate more than you'd think and make up stuff that doesn't exist\n\nGrok 4.20 just ranked #1 in Non-Hallucination Rate with a 78% score -  beating Claude Opus 4.6(max), Gemini 3.1, GPT-5.4(xhigh), and every other model on the list\n\nxAI is quietly winning the accuracy game… and it’s built to be truthful",
+          "created_at": "Tue Mar 24 09:56:48 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2036381704311676930",
+              "url": "https://pbs.twimg.com/media/HEKuXvCaIAIdrG5.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1818311005698678784",
+            "name": "X Freeze",
+            "screen_name": "XFreeze",
+            "description": "",
+            "followers_count": 171940,
+            "friends_count": 1679,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 339,
+            "favorite_count": 1815,
+            "reply_count": 362,
+            "quote_count": 32
+          }
+        },
+        "user": {
+          "id": "416761602",
+          "name": "Jon Shulkin",
+          "screen_name": "jon",
+          "description": "",
+          "followers_count": 4682,
+          "friends_count": 414,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 196,
+          "favorite_count": 970,
+          "reply_count": 114,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237334420,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 196,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036420345750757784",
+      "text": "RT @wmorrill3: the only truck to get top scores from both agencies for 2026",
+      "created_at": "Tue Mar 24 12:30:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036349975303733755",
+        "text": "the only truck to get top scores from both agencies for 2026",
+        "created_at": "Tue Mar 24 07:50:42 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2036333921542304218",
+          "text": "As standards got tougher in 2026, Cybertruck is the only pickup with both an IIHS Top Safety Pick+ Award AND NHTSA 5-star safety rating https://t.co/ia157ASl7h",
+          "created_at": "Tue Mar 24 06:46:54 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2036333273568387076",
+              "url": "https://pbs.twimg.com/media/HEKCUsdaIAQS6AG.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1686044379910131718",
+            "name": "Cybertruck",
+            "screen_name": "cybertruck",
+            "description": "📐",
+            "followers_count": 241726,
+            "friends_count": 12,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 358,
+            "favorite_count": 2403,
+            "reply_count": 126,
+            "quote_count": 79
+          }
+        },
+        "user": {
+          "id": "619309584",
+          "name": "Wes",
+          "screen_name": "wmorrill3",
+          "description": "Biking, Running, Hiking, Climbing - Always adventuring. \n\nCybertruck Lead Engineer +\nReliability, Test, and Analysis for all Tesla vehicles.",
+          "followers_count": 32738,
+          "friends_count": 234,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 359,
+          "favorite_count": 2400,
+          "reply_count": 226,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237334420,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 359,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2036416808576749708",
       "text": "RT @the_jefferymead: Hey literally said out of HIS OWN MOUTH, the people they care about most are illegal aliens..\n\nThis is the Democrat pa…",

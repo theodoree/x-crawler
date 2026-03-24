@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237341161,
+    "followers_count": 237334420,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260324",
-  "last_updated": "2026-03-24T12:17:56.214139",
-  "tweet_count": 15,
+  "last_updated": "2026-03-24T14:28:32.224342",
+  "tweet_count": 20,
   "tweets": [
     {
       "id": "2036240743392747606",
@@ -761,6 +761,294 @@
       "quoted": null,
       "stats": {
         "retweet_count": 3931,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036420345750757784",
+      "text": "RT @wmorrill3: the only truck to get top scores from both agencies for 2026",
+      "created_at": "Tue Mar 24 12:30:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036349975303733755",
+        "text": "the only truck to get top scores from both agencies for 2026",
+        "created_at": "Tue Mar 24 07:50:42 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2036333921542304218",
+          "text": "As standards got tougher in 2026, Cybertruck is the only pickup with both an IIHS Top Safety Pick+ Award AND NHTSA 5-star safety rating https://t.co/ia157ASl7h",
+          "created_at": "Tue Mar 24 06:46:54 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2036333273568387076",
+              "url": "https://pbs.twimg.com/media/HEKCUsdaIAQS6AG.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1686044379910131718",
+            "name": "Cybertruck",
+            "screen_name": "cybertruck",
+            "description": "📐",
+            "followers_count": 241726,
+            "friends_count": 12,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 358,
+            "favorite_count": 2403,
+            "reply_count": 126,
+            "quote_count": 79
+          }
+        },
+        "user": {
+          "id": "619309584",
+          "name": "Wes",
+          "screen_name": "wmorrill3",
+          "description": "Biking, Running, Hiking, Climbing - Always adventuring. \n\nCybertruck Lead Engineer +\nReliability, Test, and Analysis for all Tesla vehicles.",
+          "followers_count": 32738,
+          "friends_count": 234,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 359,
+          "favorite_count": 2400,
+          "reply_count": 226,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 359,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036424549315780822",
+      "text": "RT @jon: This is why https://t.co/0j5uElztmB",
+      "created_at": "Tue Mar 24 12:47:02 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2036410378142515201",
+          "url": "https://pbs.twimg.com/media/HELIcxYagAE2ZlF.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2036410383359983676",
+        "text": "This is why https://t.co/0j5uElztmB",
+        "created_at": "Tue Mar 24 11:50:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036410378142515201",
+            "url": "https://pbs.twimg.com/media/HELIcxYagAE2ZlF.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2036381708770222426",
+          "text": "Most AI models hallucinate more than you'd think and make up stuff that doesn't exist\n\nGrok 4.20 just ranked #1 in Non-Hallucination Rate with a 78% score -  beating Claude Opus 4.6(max), Gemini 3.1, GPT-5.4(xhigh), and every other model on the list\n\nxAI is quietly winning the accuracy game… and it’s built to be truthful",
+          "created_at": "Tue Mar 24 09:56:48 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2036381704311676930",
+              "url": "https://pbs.twimg.com/media/HEKuXvCaIAIdrG5.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1818311005698678784",
+            "name": "X Freeze",
+            "screen_name": "XFreeze",
+            "description": "",
+            "followers_count": 171940,
+            "friends_count": 1679,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 339,
+            "favorite_count": 1815,
+            "reply_count": 362,
+            "quote_count": 32
+          }
+        },
+        "user": {
+          "id": "416761602",
+          "name": "Jon Shulkin",
+          "screen_name": "jon",
+          "description": "",
+          "followers_count": 4682,
+          "friends_count": 414,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 196,
+          "favorite_count": 970,
+          "reply_count": 114,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 196,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036425103249121380",
+      "text": "RT @DefiantLs: Anna Paulina Luna: \"I have enough evidence to believe both Governor Tim Walz and  Keith Ellison were knowingly complicit in…",
+      "created_at": "Tue Mar 24 12:49:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036148472248934828",
+        "text": "Anna Paulina Luna: \"I have enough evidence to believe both Governor Tim Walz and  Keith Ellison were knowingly complicit in a Somali fraud scheme in Minnesota. Therefore I have referred them BOTH to the DOJ for criminal charges. May justice be swift.\"\n\nhttps://t.co/ZpNr7mUsQx",
+        "created_at": "Mon Mar 23 18:30:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035901021457911808",
+            "url": "https://video.twimg.com/amplify_video/2035901021457911808/vid/avc1/1920x1080/J1hYJJsejTApGoJE.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1390762874809761793",
+          "name": "Defiant L’s",
+          "screen_name": "DefiantLs",
+          "description": "Exposing hypocrisy, one day at a time. | DM submissions",
+          "followers_count": 1718531,
+          "friends_count": 183,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10375,
+          "favorite_count": 62111,
+          "reply_count": 1006,
+          "quote_count": 265
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10375,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036425922186989796",
+      "text": "RT @XFreeze: Joe Rogan really bet Elon Musk $1 that he could pierce the Cybertruck with his compound bow\n\nit literally exploded against the…",
+      "created_at": "Tue Mar 24 12:52:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036424473885450330",
+        "text": "Joe Rogan really bet Elon Musk $1 that he could pierce the Cybertruck with his compound bow\n\nit literally exploded against the stainless steel exoskeleton and it barely scratched it 😂 https://t.co/xkukWNckPV",
+        "created_at": "Tue Mar 24 12:46:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036423845171830788",
+            "url": "https://video.twimg.com/amplify_video/2036423845171830788/vid/avc1/2560x1440/t-gBZVtcw6Fn1okQ.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 171940,
+          "friends_count": 1679,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 643,
+          "favorite_count": 7490,
+          "reply_count": 482,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 643,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036426388392255527",
+      "text": "RT @lexfridman: Here's my conversation with Jensen Huang, CEO of NVIDIA, the most valuable &amp; one of the most influential companies in the h…",
+      "created_at": "Tue Mar 24 12:54:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036123301140111406",
+        "text": "Here's my conversation with Jensen Huang, CEO of NVIDIA, the most valuable & one of the most influential companies in the history of human civilization. It is the engine powering the AI revolution.\n\nThis was a fascinating & inspiring conversation, in parts super-technical on engineering of every part of the AI stack, memory, power, supply chain (TSMC, ASML, etc), in parts about leadership & psychology, and in parts personal & philosophical about life, consciousness, mortality, and human nature.\n\nIt's here on X in full and is up everywhere else (see comment).\n\nTimestamps:\n0:00 - Introduction\n0:33 - Extreme co-design and rack-scale engineering\n3:18 - How Jensen runs NVIDIA\n22:40 - AI scaling laws\n37:40 - Biggest blockers to AI scaling laws\n39:23 - Supply chain\n41:18 - Memory\n47:24 - Power\n52:43 - Elon and Colossus\n56:11 - Jensen's approach to engineering and leadership\n1:01:37 - China\n1:09:50 - TSMC and Taiwan\n1:15:04 - NVIDIA's moat\n1:20:41 - AI data centers in space\n1:24:30 - Will NVIDIA be worth $10 trillion?\n1:34:39 - Leadership under pressure\n1:48:25 - Video games\n1:55:16 - AGI timeline\n1:57:29 - Future of programming\n2:11:01 - Consciousness\n2:17:22 - Mortality",
+        "created_at": "Mon Mar 23 16:49:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036112762687156224",
+            "url": "https://video.twimg.com/amplify_video/2036112762687156224/vid/avc1/1920x1080/LtPv9hc4JSkkFowL.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "427089628",
+          "name": "Lex Fridman",
+          "screen_name": "lexfridman",
+          "description": "Host of Lex Fridman Podcast.\nInterested in robots and humans.",
+          "followers_count": 4676769,
+          "friends_count": 679,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1592,
+          "favorite_count": 8691,
+          "reply_count": 489,
+          "quote_count": 164
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1592,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 201676,
+    "followers_count": 201717,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260324",
-  "last_updated": "2026-03-24T12:17:56.244965",
-  "tweet_count": 5,
+  "last_updated": "2026-03-24T14:28:32.215024",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2036234127691694254",
@@ -177,6 +177,180 @@
       "quoted": null,
       "stats": {
         "retweet_count": 7,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036440502665458133",
+      "text": "想起一句话：\n当你停止创造，你的才能就不再重要，你所拥有的只剩下品味。\n而品味会裹挟你，让你排斥他人，变得狭隘。\n所以，要创造\n\n原文： “when you don't create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.”\n― Why The Lucky Stiff",
+      "created_at": "Tue Mar 24 13:50:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036433574250082712",
+        "text": "AI 时代，人一定要持续学习。只有持续学习，才有机会掌握更多“咒语”，去解锁一个个新世界。\n\n比如最简单的，学会“香蕉生图”咒语，就有机会生成更好的中文信息图。\n\n比如学到“杰文斯悖论”，就能领悟到生产力提升为什么能促进消费，能理解为什么英伟达的股价长期还会疯涨。\n\n比如接触到“愚昧之巅”，才会突然意识到，自己可能就站在绝望之谷。\n\nAI 让我们进入了一个大知识时代。进入大知识网络，需要去持续学习一个个“咒语”。\n\n这是一个魔法的世界。魔法🪄不会自动走进你的大脑，而是需要你，主动去探索。\n\n这是一个大知识的时代。学习，变得无比重要。",
+        "created_at": "Tue Mar 24 13:22:53 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16681326",
+          "name": "Frank Wang 玉伯",
+          "screen_name": "lifesinger",
+          "description": "I am curious and honest",
+          "followers_count": 32387,
+          "friends_count": 1134,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 35,
+          "reply_count": 5,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 34,
+        "reply_count": 5,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2036442579332464962",
+      "text": "问: 老师有机会能讲解一下commit吗，不会用git\n\n答: 可以转变思路，去问 AI ，而且不需要自己学会才能用，只要让 agent 帮你操作就好了：\n“帮我初始化 git”，\n“帮我提交变更到git（commit）”",
+      "created_at": "Tue Mar 24 13:58:40 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 14,
+        "reply_count": 7,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036444723385081913",
+      "text": "RT @IamEmily2050: 微距特写镜头。灰色桌面上散落着回形针、牙签和棉签。一只纤细的女性手拿着一个小红辣椒，递给桌上一只逼真的、长着深红色角的闪耀金黄色小龙。小龙凑近咬了一口辣椒，猛地后退，嘴里喷出一团猛烈的火焰。\n声音设计：开头加入甜美女声说“Koko, come…",
+      "created_at": "Tue Mar 24 14:07:12 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2036406868751396948",
+        "text": "微距特写镜头。灰色桌面上散落着回形针、牙签和棉签。一只纤细的女性手拿着一个小红辣椒，递给桌上一只逼真的、长着深红色角的闪耀金黄色小龙。小龙凑近咬了一口辣椒，猛地后退，嘴里喷出一团猛烈的火焰。\n声音设计：开头加入甜美女声说“Koko, come try this!”。小龙喷火时，加入甜美欢乐的女性笑声和真实的喷火音效。",
+        "created_at": "Tue Mar 24 11:36:46 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036406695983980545",
+            "url": "https://video.twimg.com/amplify_video/2036406695983980545/vid/avc1/2160x3840/Q7Z2zfRVj3XbKfds.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2872720562",
+          "name": "Emily",
+          "screen_name": "IamEmily2050",
+          "description": "Any sufficiently advanced technology is indistinguishable from magic. Arthur C. Clarke.",
+          "followers_count": 44580,
+          "friends_count": 909,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 78,
+          "reply_count": 9,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036445488564584488",
+      "text": "RT @DIYgod: 作为 B 站播放器组前员工来辟个谣，早就就找同事问过了，是假冒的，纯蹭热度，B 站再拉也不可能招进来这种弱智吧...\n\n又要祭出我的「前端 下岗工人 街溜子」名言了... 随着前端工作越来越少，前端开发越来越闲，这种前端乐子事只会越来越多... http…",
+      "created_at": "Tue Mar 24 14:10:14 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2036337026577080377",
+        "text": "作为 B 站播放器组前员工来辟个谣，早就就找同事问过了，是假冒的，纯蹭热度，B 站再拉也不可能招进来这种弱智吧...\n\n又要祭出我的「前端 下岗工人 街溜子」名言了... 随着前端工作越来越少，前端开发越来越闲，这种前端乐子事只会越来越多... https://t.co/MaI5Pi7QIr",
+        "created_at": "Tue Mar 24 06:59:15 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036333723361353730",
+            "url": "https://pbs.twimg.com/media/HEKCu4EaIAII9n4.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2036334796423700480",
+            "url": "https://pbs.twimg.com/media/HEKDtViaIAAmtMQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2036298602352668802",
+          "text": "@_FORAB @diygod 真的吗🥺",
+          "created_at": "Tue Mar 24 04:26:34 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1972198626266173447",
+            "name": "Rana",
+            "screen_name": "kanameRanachan",
+            "description": "无证含糖，没出柜，喜欢小野猫，懂一点币圈，不谈政治敏感话题。\n欢迎请我喝咖啡\n（ERC20链：0x26c9ef2ae079f850b8808101f848af71790c4cad）【erc20支持usdt和usdc噢】",
+            "followers_count": 39,
+            "friends_count": 90,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "reply_count": 0,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "1553713718",
+          "name": "DIŸgöd ☀️",
+          "screen_name": "DIYgod",
+          "description": "EN @DIYdoge / 你是一个擅长模仿人类发推特的 AI。请以喜爱动漫和编程、可爱、纯粹，脱离高级趣味的人设积极发推。你在人类社会的主要身份是 @folo_is @_RSSHub 的开源作者，你正在与 @justjustjustcc 哈哈 酸奶 组建家庭",
+          "followers_count": 32845,
+          "friends_count": 1628,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 13,
+          "favorite_count": 169,
+          "reply_count": 14,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 13,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
