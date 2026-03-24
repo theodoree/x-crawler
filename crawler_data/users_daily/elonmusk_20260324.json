@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237348084,
+    "followers_count": 237361700,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260324",
-  "last_updated": "2026-03-24T16:25:03.531668",
-  "tweet_count": 20,
+  "last_updated": "2026-03-24T18:21:22.879259",
+  "tweet_count": 22,
   "tweets": [
     {
       "id": "2036240743392747606",
@@ -1052,6 +1052,67 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2036492040528339171",
+      "text": "The Cybertruck rear bench has three sets of isofix attachments and is wide enough to fit three child seats or three adults",
+      "created_at": "Tue Mar 24 17:15:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1875,
+        "favorite_count": 27700,
+        "reply_count": 3770,
+        "quote_count": 177
+      }
+    },
+    {
+      "id": "2036507909815935003",
+      "text": "Neuralink is restoring speech to those who have lost the ability to speak",
+      "created_at": "Tue Mar 24 18:18:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036489073091580011",
+        "text": "ALS has gradually taken away Kenneth’s ability to speak. Through Neuralink’s VOICE clinical trial, he’s exploring how a brain-computer interface designed to translate thought to speech could help restore autonomy in his daily life.\n\nWatch to learn more: https://t.co/C9QufqhI6R",
+        "created_at": "Tue Mar 24 17:03:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036487438160502790",
+            "url": "https://video.twimg.com/amplify_video/2036487438160502790/vid/avc1/1920x1080/-ALLH2jeuzQzdFdB.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "895332160130891776",
+          "name": "Neuralink",
+          "screen_name": "neuralink",
+          "description": "Creating a general-purpose, high-bandwidth interface to the brain",
+          "followers_count": 1716828,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 222,
+          "favorite_count": 1168,
+          "reply_count": 98,
+          "quote_count": 47
+        }
+      },
+      "stats": {
+        "retweet_count": 125,
+        "favorite_count": 767,
+        "reply_count": 296,
+        "quote_count": 10
       }
     }
   ]

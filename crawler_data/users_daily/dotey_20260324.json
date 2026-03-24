@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 201784,
+    "followers_count": 201801,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260324",
-  "last_updated": "2026-03-24T16:25:03.522421",
-  "tweet_count": 9,
+  "last_updated": "2026-03-24T18:21:22.906004",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2036234127691694254",
@@ -352,6 +352,123 @@
       "stats": {
         "retweet_count": 13,
         "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036485173856924086",
+      "text": "没有养成 AI first 的思维习惯，主要是因为：\n1. 用的太少\n2. 用的模型不聪明",
+      "created_at": "Tue Mar 24 16:47:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036482432657138139",
+        "text": "@dotey 我发现都到了2026年的现在，好多人还是没有养成 AI first 的思维习惯，这是为什么呢？",
+        "created_at": "Tue Mar 24 16:37:02 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "796179107172257792",
+          "name": "金尘马",
+          "screen_name": "jinchenma_ai",
+          "description": "👨‍💻 前阿里美团程序员，35岁危机前提前跑路\n公开分享转型自救实录\n专注AI内容·AI流量·AI变现（已五位数）\n脱下孔乙己长衫，做新时代引路人 🚀",
+          "followers_count": 1143,
+          "friends_count": 184,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 41,
+        "reply_count": 16,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2036489998107660581",
+      "text": "https://t.co/NNRG4gtGLf",
+      "created_at": "Tue Mar 24 17:07:06 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036488435754754089",
+        "text": "@dotey 我再补两点：\n1. 正反馈太弱。好多人用AI浅尝辄止，没有突破那个阈值。\n2. 思维切换成本还是太高，强依赖惯性思维，经验主义。\n\n这么一想，AI原住民成长的加速度会快得可怕。",
+        "created_at": "Tue Mar 24 17:00:53 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "796179107172257792",
+          "name": "金尘马",
+          "screen_name": "jinchenma_ai",
+          "description": "👨‍💻 前阿里美团程序员，35岁危机前提前跑路\n公开分享转型自救实录\n专注AI内容·AI流量·AI变现（已五位数）\n脱下孔乙己长衫，做新时代引路人 🚀",
+          "followers_count": 1143,
+          "friends_count": 184,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036490094886920254",
+      "text": "https://t.co/wMupBx2RRk",
+      "created_at": "Tue Mar 24 17:07:29 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036487962859544766",
+        "text": "@dotey 普通人对ai的理解还是在对话框，虽然国家在大力推广openclaw，但是很多人只是体验，没有真正沉下心去使用，同时也因为openclaw一旦出问题还是需要有一点技术认知来解决问题，另外就是国内的大模型确实不如现在国外几个主流的",
+        "created_at": "Tue Mar 24 16:59:01 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1443286482425319429",
+          "name": "JasonJZ",
+          "screen_name": "cryptojz23",
+          "description": "关注链上支付基础建设 x AI Agent x 预测市场，记录上下文.md",
+          "followers_count": 158,
+          "friends_count": 445,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
         "reply_count": 0,
         "quote_count": 0
       }
