@@ -1,12 +1,191 @@
 {
   "date": "20260324",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-24T18:21:22.843727",
-  "tweet_count": 234,
-  "unique_tweet_count": 234,
-  "total_crawled": 429,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-03-24T20:15:00.798303",
+  "tweet_count": 238,
+  "unique_tweet_count": 238,
+  "total_crawled": 434,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2036536002643181928",
+      "text": "结果已经公布\nhttps://t.co/1Mw4jUvP8f",
+      "created_at": "Tue Mar 24 20:09:54 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036535229024792788",
+        "text": "https://t.co/sadTRz4bh8",
+        "created_at": "Tue Mar 24 20:06:50 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 201801,
+          "friends_count": 1590,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201801,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036535229024792788",
+      "text": "https://t.co/sadTRz4bh8",
+      "created_at": "Tue Mar 24 20:06:50 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201801,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 0,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2036530915103612976",
+      "text": "今天刚发生的重大安全事件，Karpathy 亲自发帖警告。\n\nlitellm 被投毒：一次教科书级的供应链攻击\n\n今天（3月24日），AI 开发者常用的 Python 库 litellm 在 PyPI 上被植入恶意代码。版本 1.82.8 在 UTC 时间 10:52 发布到 PyPI，包含一个名为 litellm_init.pth 的恶意文件，会在每次 Python 进程启动时自动执行。不需要你主动调用这个库，装上就中招。\n\nlitellm 是干什么的？它是一个统一调用各家大模型 API 的 Python 库，GitHub 超过 4 万星，每月下载量超过 9500 万次。很多 AI 工具链都依赖它，包括 DSPy、MLflow、Open Interpreter 等，总共有 2000 多个包把它当作依赖项。\n\n也就是说，你可能从来没有手动安装过 litellm，但你用的某个工具替你装了。\n\n恶意代码会系统性地收集主机上的敏感数据：SSH 密钥、AWS/GCP/Azure 云凭证、Kubernetes 密钥、环境变量文件、数据库配置，甚至加密货币钱包。收集完毕后加密打包，发送到攻击者控制的域名。\n\n如果检测到 Kubernetes 环境，恶意代码还会利用服务账户令牌在集群的每个节点上部署特权 Pod，进行横向扩散。\n\n怎么发现的？攻击者自己写了个 bug\n\n发现过程颇具讽刺意味。FutureSearch 的 Callum McMahon 在 Cursor 编辑器里用了一个 MCP 插件，这个插件间接依赖了 litellm。恶意 .pth 文件在每次 Python 启动时都会触发，子进程又触发同一个 .pth，形成指数级的 fork bomb，直接把机器内存撑爆了。\n\nKarpathy 在推文里说得很清楚：如果攻击者没有在写恶意代码时犯这个 bug，这个投毒可能好几天甚至好几周都不会被发现。\n\n攻击链：安全工具反成突破口\n\n根源在于 litellm 的 CI/CD 流程中使用了 Trivy（一个漏洞扫描工具），而 Trivy 本身在 3 月 19 日就已经被同一个攻击组织 TeamPCP 攻陷了。攻击者通过被污染的 Trivy 窃取了 litellm 的 PyPI 发布令牌，然后直接往 PyPI 上推送了带毒版本。\n\nlitellm 1.82.7 在 UTC 10:39 发布，1.82.8 在 10:52 发布，两个版本都包含恶意代码。\n\n时间线更完整地看：3月19日 TeamPCP 攻陷 Trivy，3月23日攻陷 Checkmarx KICS，3月24日轮到 litellm。Wiz 安全研究员 Gal Nagli 的评价是：开源供应链正在形成连锁崩塌，Trivy 被攻破导致 litellm 被攻破，数万个环境的凭证落入攻击者手中，而这些凭证又会成为下一次攻击的弹药。\n\n攻击者还试图“灭口”\n\n社区成员在 GitHub 上提交 issue 报告此事后，攻击者在 102 秒内用 73 个被盗账号发了 88 条垃圾评论试图淹没讨论，然后利用被盗的维护者账号把 issue 关闭。社区不得不另开 issue 并转移到 Hacker News 继续讨论。\n\nKarpathy 借此事重提了他对软件依赖的警惕态度：供应链攻击是现代软件中最可怕的威胁，每次安装一个依赖，都可能在依赖树的深处引入一个被投毒的包。他现在越来越倾向于用大模型直接生成简单功能的代码，而不是引入外部依赖。\n\n如果你的环境中有 litellm，立刻运行 pip show litellm 检查版本。1.82.6 是最后一个干净版本。如果不幸装了 1.82.7 或 1.82.8，假设所有凭证已泄露，立即轮换。",
+      "created_at": "Tue Mar 24 19:49:41 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036487306585268612",
+        "text": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database passwords.\n\nLiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depended on litellm>=1.64.0), you'd also be pwnd. Same for any other large project that depended on litellm.\n\nAfaict the poisoned version was up for only less than ~1 hour. The attack had a bug which led to its discovery - Callum McMahon was using an MCP plugin inside Cursor that pulled in litellm as a transitive dependency. When litellm 1.82.8 installed, their machine ran out of RAM and crashed. So if the attacker didn't vibe code this attack it could have been undetected for many days or weeks.\n\nSupply chain attacks like this are basically the scariest thing imaginable in modern software. Every time you install any depedency you could be pulling in a poisoned package anywhere deep inside its entire depedency tree. This is especially risky with large projects that might have lots and lots of dependencies. The credentials that do get stolen in each attack can then be used to take over more accounts and compromise more packages.\n\nClassical software engineering would have you believe that dependencies are good (we're building pyramids from bricks), but imo this has to be re-evaluated, and it's why I've been so growingly averse to them, preferring to use LLMs to \"yoink\" functionality when it's simple enough and possible.",
+        "created_at": "Tue Mar 24 16:56:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "33836629",
+          "name": "Andrej Karpathy",
+          "screen_name": "karpathy",
+          "description": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+          "followers_count": 1999539,
+          "friends_count": 1071,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1612,
+          "favorite_count": 9073,
+          "reply_count": 471,
+          "quote_count": 372
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201801,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 14,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2036509826805608525",
+      "text": "Claude Code 新增 auto 模式\n\nClaude Code 推出了一种新的权限管理方式——auto 模式。\n\n之前用 Claude Code，要么每次文件写入和命令执行都手动批准，要么直接跳过所有权限检查。auto 模式走了一条中间路线：让 Claude 自己判断该不该放行。\n\n具体机制是，每次执行操作前，会有一个分类器评估该操作是否有破坏性风险。安全的自动放行，有风险的会被拦截，Claude 会换一种方式完成任务。官方也坦言，这能降低风险但不能完全消除，建议在隔离环境中使用。\n\n目前作为研究预览版在 Team 计划中可用，Enterprise 和 API 访问将在未来几天陆续开放。启用方式：claude --enable-auto-mode，然后用 Shift+Tab 切换模式。",
+      "created_at": "Tue Mar 24 18:25:53 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036503582166393240",
+        "text": "New in Claude Code: auto mode.\n\nInstead of approving every file write and bash command, or skipping permissions entirely, auto mode lets Claude make permission decisions on your behalf.\n\nSafeguards check each action before it runs. https://t.co/kHbTN2jrWw",
+        "created_at": "Tue Mar 24 18:01:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036502255298285568",
+            "url": "https://video.twimg.com/amplify_video/2036502255298285568/vid/avc1/2560x1440/aiqBaCfI9QvpHLq1.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on desktop or download the app.",
+          "followers_count": 869114,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1028,
+          "favorite_count": 17130,
+          "reply_count": 1215,
+          "quote_count": 1131
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201801,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 28,
+        "reply_count": 6,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2036507909815935003",
       "text": "Neuralink is restoring speech to those who have lost the ability to speak",
