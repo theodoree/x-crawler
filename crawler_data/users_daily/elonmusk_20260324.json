@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237331679,
+    "followers_count": 237341161,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260324",
-  "last_updated": "2026-03-24T10:19:31.276553",
-  "tweet_count": 8,
+  "last_updated": "2026-03-24T12:17:56.214139",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2036240743392747606",
@@ -444,6 +444,323 @@
       "quoted": null,
       "stats": {
         "retweet_count": 133,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036408787083600145",
+      "text": "RT @XFreeze: Most AI models hallucinate more than you'd think and make up stuff that doesn't exist\n\nGrok 4.20 just ranked #1 in Non-Halluci…",
+      "created_at": "Tue Mar 24 11:44:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036381708770222426",
+        "text": "Most AI models hallucinate more than you'd think and make up stuff that doesn't exist\n\nGrok 4.20 just ranked #1 in Non-Hallucination Rate with a 78% score -  beating Claude Opus 4.6(max), Gemini 3.1, GPT-5.4(xhigh), and every other model on the list\n\nxAI is quietly winning the accuracy game… and it’s built to be truthful",
+        "created_at": "Tue Mar 24 09:56:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036381704311676930",
+            "url": "https://pbs.twimg.com/media/HEKuXvCaIAIdrG5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 171895,
+          "friends_count": 1679,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 173,
+          "favorite_count": 992,
+          "reply_count": 261,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 173,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036410139553702367",
+      "text": "RT @SalvadoranPride: Just a few years ago, the only tourists in El Salvador were surfers in beach towns.\nGoing to downtown San Salvador at…",
+      "created_at": "Tue Mar 24 11:49:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036160595158786346",
+        "text": "Just a few years ago, the only tourists in El Salvador were surfers in beach towns.\nGoing to downtown San Salvador at night? Unthinkable, even for locals.https://t.co/uUX9JrLM8M",
+        "created_at": "Mon Mar 23 19:18:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036087389240639488",
+            "url": "https://video.twimg.com/amplify_video/2036087389240639488/vid/avc1/576x1024/XxIkH7d7qC3gI5G7.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "867212870",
+          "name": "Salvadoran Pride",
+          "screen_name": "SalvadoranPride",
+          "description": "The best of El Salvador since 2012! 🇸🇻",
+          "followers_count": 90686,
+          "friends_count": 69432,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1120,
+          "favorite_count": 12496,
+          "reply_count": 210,
+          "quote_count": 65
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1120,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036410453342167295",
+      "text": "Tesla Cybertruck is the only pickup to be awarded top safety+",
+      "created_at": "Tue Mar 24 11:51:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036382611002507490",
+        "text": "The Tesla Cybertruck is the ONLY pickup truck (Gas or Electric) to be awarded IIHS Top Safety Pick+ in 2026 \n\nFor 2026, IIHS safety rules have become even tougher. Cybertruck is the only truck in its category to be awarded the highest honor. 🦾\n\nCongrats @Tesla Engineering Teams! https://t.co/urEmzmPTgp",
+        "created_at": "Tue Mar 24 10:00:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036382462348328960",
+            "url": "https://video.twimg.com/amplify_video/2036382462348328960/vid/avc1/1920x1080/G99RAm7l_hvw24TE.mp4?tag=21",
+            "bitrate": 10368000
+          },
+          {
+            "type": "photo",
+            "id": "2036382462327365632",
+            "url": "https://pbs.twimg.com/media/HEKvD23boAArr8G.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1494873435863977985",
+          "name": "Nic Cruz Patane",
+          "screen_name": "niccruzpatane",
+          "description": "Deep dive into everything Tesla",
+          "followers_count": 97946,
+          "friends_count": 164,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 70,
+          "favorite_count": 539,
+          "reply_count": 44,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 768,
+        "favorite_count": 6428,
+        "reply_count": 1077,
+        "quote_count": 38
+      }
+    },
+    {
+      "id": "2036410946240020907",
+      "text": "RT @Cjpearson: Didn't drive her car at an ICE agent.\n\nDidn't try to obstruct an ICE operation.\n\nWas just walking down the street when an il…",
+      "created_at": "Tue Mar 24 11:52:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036203380566065264",
+        "text": "Didn't drive her car at an ICE agent.\n\nDidn't try to obstruct an ICE operation.\n\nWas just walking down the street when an illegal alien killed her in cold blood.\n\nAnd Democrats do not care. https://t.co/MTeT937g8b",
+        "created_at": "Mon Mar 23 22:08:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036203091435864064",
+            "url": "https://pbs.twimg.com/media/HEIL7GOWQAAmiLc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2393323908",
+          "name": "CJ Pearson",
+          "screen_name": "Cjpearson",
+          "description": "America First 🇺🇸 | Political Advisor | TIME100 Creator | As Seen On: @FoxNews",
+          "followers_count": 570784,
+          "friends_count": 1676,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9645,
+          "favorite_count": 38033,
+          "reply_count": 581,
+          "quote_count": 253
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9645,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036411022609924489",
+      "text": "RT @CBSNews: Congress launches investigation into California hospice fraud, citing millions in taxpayer losses. https://t.co/ZY5odQfccc",
+      "created_at": "Tue Mar 24 11:53:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036196286957834488",
+        "text": "Congress launches investigation into California hospice fraud, citing millions in taxpayer losses. https://t.co/ZY5odQfccc",
+        "created_at": "Mon Mar 23 21:40:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15012486",
+          "name": "CBS News",
+          "screen_name": "CBSNews",
+          "description": "Your source for original reporting and trusted news.\n\n📺 CBS | Streaming on the CBS News app | @ParamountPlus",
+          "followers_count": 9265318,
+          "friends_count": 629,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1779,
+          "favorite_count": 15141,
+          "reply_count": 659,
+          "quote_count": 137
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1779,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036411220505636979",
+      "text": "Use Grok to proofread posts",
+      "created_at": "Tue Mar 24 11:54:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036406742427267501",
+        "text": "I’m today years old when I learned @grok can proofread my X posts. \n\nAbsolutely life-changing find. https://t.co/qQ5dkiw6PO",
+        "created_at": "Tue Mar 24 11:36:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036406737998372864",
+            "url": "https://pbs.twimg.com/media/HELFI4ya4AA-Rdu.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 217089,
+          "friends_count": 867,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 17,
+          "favorite_count": 174,
+          "reply_count": 85,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 473,
+        "favorite_count": 3652,
+        "reply_count": 1332,
+        "quote_count": 53
+      }
+    },
+    {
+      "id": "2036416808576749708",
+      "text": "RT @the_jefferymead: Hey literally said out of HIS OWN MOUTH, the people they care about most are illegal aliens..\n\nThis is the Democrat pa…",
+      "created_at": "Tue Mar 24 12:16:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036289251034144834",
+        "text": "Hey literally said out of HIS OWN MOUTH, the people they care about most are illegal aliens..\n\nThis is the Democrat party of today. His social contract is with citizens. Not illegal aliens, but here we are… https://t.co/h0llIe5yi2",
+        "created_at": "Tue Mar 24 03:49:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036289187142373376",
+            "url": "https://video.twimg.com/amplify_video/2036289187142373376/vid/avc1/1080x1920/CUJAXEc5W4wTbit7.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2300786360",
+          "name": "Jeffery Mead",
+          "screen_name": "the_jefferymead",
+          "description": "Designed in a Lab jeff@meadx.com",
+          "followers_count": 598413,
+          "friends_count": 174,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3931,
+          "favorite_count": 12221,
+          "reply_count": 391,
+          "quote_count": 152
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3931,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
