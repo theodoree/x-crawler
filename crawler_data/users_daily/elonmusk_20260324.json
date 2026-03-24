@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237315882,
+    "followers_count": 237322841,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260324",
-  "last_updated": "2026-03-24T04:39:14.961666",
-  "tweet_count": 4,
+  "last_updated": "2026-03-24T06:25:13.548666",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2036240743392747606",
@@ -210,6 +210,240 @@
       "quoted": null,
       "stats": {
         "retweet_count": 87,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036302517567680605",
+      "text": "RT @cybertruck: Yep. That’s me. You’re probably wondering how I ended up in this situation … https://t.co/D85E3JDfg6",
+      "created_at": "Tue Mar 24 04:42:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2035818170565734400",
+          "url": "https://pbs.twimg.com/media/HECt1wPbMAAthsE.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2035818174298632265",
+        "text": "Yep. That’s me. You’re probably wondering how I ended up in this situation … https://t.co/D85E3JDfg6",
+        "created_at": "Sun Mar 22 20:37:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2035818170565734400",
+            "url": "https://pbs.twimg.com/media/HECt1wPbMAAthsE.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2035740741910372566",
+          "text": "The devil is no match for the Cybertruck. \n\nHell's Gate has once again been breached. 📐👑\n\n📍 Hell's Gate - Hell's Revenge - Moab https://t.co/o5IE11gKMQ",
+          "created_at": "Sun Mar 22 15:29:49 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2035740152929439744",
+              "url": "https://video.twimg.com/ext_tw_video/2035740152929439744/pu/vid/avc1/1080x1880/o_RDs5nN-MrO5ILV.mp4?tag=19",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "26690005",
+            "name": "Stephen Kneubuehl",
+            "screen_name": "kneubuehl",
+            "description": "Biz/Tech/Politics/Investment enthusiast. \nFounder @fastnie @sooma_ai @RoadStr_app \nAlumn @wharton\nPPL SEL/SES/HPL",
+            "followers_count": 3046,
+            "friends_count": 1153,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 249,
+            "favorite_count": 2043,
+            "reply_count": 150,
+            "quote_count": 42
+          }
+        },
+        "user": {
+          "id": "1686044379910131718",
+          "name": "Cybertruck",
+          "screen_name": "cybertruck",
+          "description": "📐",
+          "followers_count": 241604,
+          "friends_count": 12,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 334,
+          "favorite_count": 4020,
+          "reply_count": 243,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 334,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036302599235010901",
+      "text": "RT @DefiantLs: Michael Shellenberger: \"I think free speech is hanging by a thread globally and that thread is Elon Musk… What's happening o…",
+      "created_at": "Tue Mar 24 04:42:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036227744548237360",
+        "text": "Michael Shellenberger: \"I think free speech is hanging by a thread globally and that thread is Elon Musk… What's happening on X is the change of consciousness and… the establishment is desperate to either shut it down or censor it\"\n\nhttps://t.co/0aPYcG2W9c",
+        "created_at": "Mon Mar 23 23:45:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2023034660260057088",
+            "url": "https://video.twimg.com/amplify_video/2023034660260057088/vid/avc1/1920x1080/GCACclxh3aeIS0J8.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1390762874809761793",
+          "name": "Defiant L’s",
+          "screen_name": "DefiantLs",
+          "description": "Exposing hypocrisy, one day at a time. | DM submissions",
+          "followers_count": 1718485,
+          "friends_count": 183,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 847,
+          "favorite_count": 6048,
+          "reply_count": 251,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 847,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036320324011327999",
+      "text": "RT @lyn_beatz: 𝕲𝖒 𝕏\n\nGrok/4.20 https://t.co/7IQk2XYO5M",
+      "created_at": "Tue Mar 24 05:52:52 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2036053547696218112",
+          "url": "https://video.twimg.com/ext_tw_video/2036053547696218112/pu/vid/avc1/720x1068/QPAsppTi4GfXJubV.mp4?tag=19",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2036053736577974367",
+        "text": "𝕲𝖒 𝕏\n\nGrok/4.20 https://t.co/7IQk2XYO5M",
+        "created_at": "Mon Mar 23 12:13:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036053547696218112",
+            "url": "https://video.twimg.com/ext_tw_video/2036053547696218112/pu/vid/avc1/720x1068/QPAsppTi4GfXJubV.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1708559437005279232",
+          "name": "𝐋.𝐘.𝐍",
+          "screen_name": "lyn_beatz",
+          "description": "𝕷𝖎𝖌𝖍𝖙 𝖚𝖕 𝖙𝖍𝖊 𝖉𝖆𝖗𝖐𝖓𝖊𝖘𝖘",
+          "followers_count": 28858,
+          "friends_count": 660,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 159,
+          "favorite_count": 1059,
+          "reply_count": 147,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 159,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036320409159868711",
+      "text": "RT @teslaownersSV: Chibi made Elon Musk and not a flamethrower video come to life \n\nGrok Imagine 🔥 https://t.co/R3eB4q4TDH",
+      "created_at": "Tue Mar 24 05:53:13 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2036310172315041792",
+          "url": "https://video.twimg.com/amplify_video/2036310172315041792/vid/avc1/720x720/swcpdXGdF6yr_FIM.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2036310249867714593",
+        "text": "Chibi made Elon Musk and not a flamethrower video come to life \n\nGrok Imagine 🔥 https://t.co/R3eB4q4TDH",
+        "created_at": "Tue Mar 24 05:12:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036310172315041792",
+            "url": "https://video.twimg.com/amplify_video/2036310172315041792/vid/avc1/720x720/swcpdXGdF6yr_FIM.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.\n2.8M followers",
+          "followers_count": 1400606,
+          "friends_count": 853,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 133,
+          "favorite_count": 694,
+          "reply_count": 251,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 133,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
