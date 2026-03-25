@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237390425,
+    "followers_count": 237394668,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260325",
-  "last_updated": "2026-03-25T06:24:33.399593",
-  "tweet_count": 13,
+  "last_updated": "2026-03-25T08:16:13.824854",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2036605264267452922",
@@ -688,6 +688,72 @@
         "favorite_count": 2233,
         "reply_count": 608,
         "quote_count": 16
+      }
+    },
+    {
+      "id": "2036693879270064369",
+      "text": "The next @Grok Imagine release will be epic. \n\nWe are doubling down.",
+      "created_at": "Wed Mar 25 06:37:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1510,
+        "favorite_count": 19908,
+        "reply_count": 3942,
+        "quote_count": 270
+      }
+    },
+    {
+      "id": "2036696360783917269",
+      "text": "RT @EvaLovesDesign: Bed nooks made for reading https://t.co/c2juqW8A7O",
+      "created_at": "Wed Mar 25 06:47:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032929807093149696",
+          "url": "https://pbs.twimg.com/media/HDZq430XMAA0BJp.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2032929812164075701",
+        "text": "Bed nooks made for reading https://t.co/c2juqW8A7O",
+        "created_at": "Sat Mar 14 21:20:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032929807093149696",
+            "url": "https://pbs.twimg.com/media/HDZq430XMAA0BJp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1641433637865283584",
+          "name": "Elle Lookbook",
+          "screen_name": "EvaLovesDesign",
+          "description": "Style 👑 romantic, a touch of rustic, splash of whimsy, old world elegance 🏛️, a warm embrace with a glass of 🥂.        Me 🥐.     🖼️dm for credit or removal",
+          "followers_count": 180602,
+          "friends_count": 868,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1090,
+          "favorite_count": 9120,
+          "reply_count": 310,
+          "quote_count": 146
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1090,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

@@ -1,12 +1,207 @@
 {
   "date": "20260325",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-25T06:24:33.367954",
-  "tweet_count": 217,
-  "unique_tweet_count": 217,
-  "total_crawled": 405,
-  "duplicates_removed": 188,
+  "last_crawl_time": "2026-03-25T08:16:13.792873",
+  "tweet_count": 221,
+  "unique_tweet_count": 221,
+  "total_crawled": 417,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2036696360783917269",
+      "text": "RT @EvaLovesDesign: Bed nooks made for reading https://t.co/c2juqW8A7O",
+      "created_at": "Wed Mar 25 06:47:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2032929807093149696",
+          "url": "https://pbs.twimg.com/media/HDZq430XMAA0BJp.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2032929812164075701",
+        "text": "Bed nooks made for reading https://t.co/c2juqW8A7O",
+        "created_at": "Sat Mar 14 21:20:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032929807093149696",
+            "url": "https://pbs.twimg.com/media/HDZq430XMAA0BJp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1641433637865283584",
+          "name": "Elle Lookbook",
+          "screen_name": "EvaLovesDesign",
+          "description": "Style 👑 romantic, a touch of rustic, splash of whimsy, old world elegance 🏛️, a warm embrace with a glass of 🥂.        Me 🥐.     🖼️dm for credit or removal",
+          "followers_count": 180602,
+          "friends_count": 868,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1090,
+          "favorite_count": 9120,
+          "reply_count": 310,
+          "quote_count": 146
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237394668,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1090,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036693879270064369",
+      "text": "The next @Grok Imagine release will be epic. \n\nWe are doubling down.",
+      "created_at": "Wed Mar 25 06:37:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237394668,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1510,
+        "favorite_count": 19908,
+        "reply_count": 3942,
+        "quote_count": 270
+      }
+    },
+    {
+      "id": "2036693662193549719",
+      "text": "今天试了下，很好很强大👍",
+      "created_at": "Wed Mar 25 06:36:23 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032858943874281782",
+        "text": "😅嗯，bb-browser，badboy browser，坏孩子浏览器来了，真的很丧良心，但真的很好用。\n\n现在你可以用 bb-browser site 的方式直接拉到任何网站的信息，目前支持 Reddit、Twitter、GitHub、Hacker News、小红书、知乎、B站、微博、豆瓣、YouTube，50+ 个命令，我会持续更新。\n\n当然能做到信息获取这件事不稀奇，我也是看到 @jakevin7  的 twitter-cli 的启发，才做的。但 bb-browser 的实现方式非常丧良心 — 我是通过 Chrome 插件 + CDP 直接操控你真实的浏览器。不是无头浏览器，不是偷 Cookie，不是模拟请求。你已登录了，它就直接用你的登录态。它直接在浏览器 console 里面跑 eval，以前爬虫最麻烦的登录态、还有各种鉴权都没有了😂。（这种方式真的。。。太作弊了，我都能想到哪些大厂前端发现我在这么搞，会怎么骂我，因为真的很难防）\n\n另外我还在命令行里面埋了 guide 命令，也就是说你只要装了 bb-browser CLI 或 MCP，跟你的 Agent 说\"我需要把 XX 网站 CLI 化\"，它就能帮你做了！！",
+        "created_at": "Sat Mar 14 16:38:35 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032858024025665540",
+            "url": "https://pbs.twimg.com/media/HDYpmjDaMAQnEAq.png"
+          },
+          {
+            "type": "photo",
+            "id": "2032858163876343809",
+            "url": "https://pbs.twimg.com/media/HDYpusCaMAEAkP6.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "115897222",
+          "name": "yan5xu",
+          "screen_name": "yan5xu",
+          "description": "🤖 AI 野生研究员 | ex @ManusAI_HQ & @hey_im_monica\n推特内容仅代表个人观点，和公司无关",
+          "followers_count": 13583,
+          "friends_count": 432,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 321,
+          "favorite_count": 1727,
+          "reply_count": 144,
+          "quote_count": 45
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 202063,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 87,
+        "reply_count": 8,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036693457218002958",
+      "text": "RT @jakevin7: OpenCLI 1.4.0 要发版了🎉!太多东西了!\n后面 1.5.0 的目标则是全面提升易用性。@dotey 感谢宝玉老师的建议。\n\n包括反风控全面提升，安全性全面提升 等一系列重大升级!\n也有很多易用强大功能，譬如支持了插件化，通用 web re…",
+      "created_at": "Wed Mar 25 06:35:34 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2036693257208713536",
+        "text": "OpenCLI 1.4.0 要发版了🎉!太多东西了!\n后面 1.5.0 的目标则是全面提升易用性。@dotey 感谢宝玉老师的建议。\n\n包括反风控全面提升，安全性全面提升 等一系列重大升级!\n也有很多易用强大功能，譬如支持了插件化，通用 web read 支持任意 URL 转 Markdown 等\n\nhttps://t.co/1EzkQtaQAO\n\n反风控模式\n新增完整的 anti-detection 体系核心能力包括：屏蔽 各种标记、伪造 API 返回值、注入真实的信息 、清理 CDP 特征应对高级 fingerprinting 检测。增加人类行为模拟延迟系统。\n\n安全加固\nChrome Extension 安全性全面提升：封堵 javascript URL 注入；防止跨窗口操作用户个人浏览器；防止全量 cookie 泄露。修复了 command injection 风险，新增 stealth anti-detection 模块应对高级 fingerprinting。\n\nPlugin 系统\nPlugin 体系大幅增强：支持插件在执行前后注入逻辑；新增 plugin update 命令和安装后 hot reload；增加插件结构校验，安装和更新时自动验证合法性；\n\n新平台适配\n新增 10+ 平台支持：Pixiv 插画搜索与详情、TikTok 视频搜索、雪球/蛋卷基金账户查询、京东商品详情、LinkedIn 时间线、V2EX 节点/用户/回复、豆包（浏览器+桌面端）、Hacker News 全站（new/best/ask/show/jobs/search/user）、词典查询（搜索/同义词/例句）。\n小红书新增图文发布自动化，微信公众号文章下载转 Markdown，通用 web read 命令支持任意 URL 转 Markdown。\n\nPipeline 引擎\n模板引擎支持链式 || 表达式求值；sort step 实现 natural sort，字符串数字自动按数值排序，YAML 作者无需手动配置；fetch step 新增 HTTP 状态码检查；新增 record 命令支持实时 API 抓包录制。",
+        "created_at": "Wed Mar 25 06:34:47 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1068172934630395904",
+          "name": "卡比卡比",
+          "screen_name": "jakevin7",
+          "description": "Building OpenCLI.\nAI enthusiast ! Love open source! \nBlockChain Worker?ExDatabaseer.\nApache Arrow/Datafusion/Doris PMC member & Committer",
+          "followers_count": 12948,
+          "friends_count": 559,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 91,
+          "reply_count": 17,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 202063,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2036685782329835959",
       "text": "Yes",
