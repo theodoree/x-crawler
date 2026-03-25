@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 201806,
+    "followers_count": 201844,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260324",
-  "last_updated": "2026-03-24T22:10:38.990791",
-  "tweet_count": 17,
+  "last_updated": "2026-03-25T00:23:36.732677",
+  "tweet_count": 19,
   "tweets": [
     {
       "id": "2036234127691694254",
@@ -649,6 +649,90 @@
         "favorite_count": 51,
         "reply_count": 9,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2036566409606521110",
+      "text": "RT @xxx111god: 我的 writing style skill 最早还是受 @dotey 的启发，目的是让 AI 写出来的东西不像 AI 写的，并进一步避免所谓的“去 AI 味”的 AI 味\n我在这基础上加了 self-improving：\nAI 写初稿 → 我改到…",
+      "created_at": "Tue Mar 24 22:10:44 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2036565921788207245",
+        "text": "我的 writing style skill 最早还是受 @dotey 的启发，目的是让 AI 写出来的东西不像 AI 写的，并进一步避免所谓的“去 AI 味”的 AI 味\n我在这基础上加了 self-improving：\nAI 写初稿 → 我改到满意 → 脚本自动 diff 两版 → 提取「我改了什么」→ 规则写回 skill → 下次更准\n\n只比较首尾两版，中间改几轮不管。\n目前这套机制帮我自动积累了 48 条规则、740 行，没有一条是手写的\n\n直接fork改成自己的风格就能用\nhttps://t.co/wZ9sxt6caS",
+        "created_at": "Tue Mar 24 22:08:47 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036565130058874880",
+            "url": "https://pbs.twimg.com/media/HENVMhMbQAAZ-XO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2036291500469002620",
+          "text": "@xxx111god 我也是这种思路，但是没有您这种系统化，感谢提醒。另外，不知您这writing style skill是否可以分享学习？再次感谢!",
+          "created_at": "Tue Mar 24 03:58:20 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1946094337059868672",
+            "name": "Ethan",
+            "screen_name": "Ethan151300",
+            "description": "Born in the 80s. Exploring AI and all things Google. A firm believer in clear communication.\n||\n坐标地球，关注人工智能、LLM，谷歌资深用户，细节控。",
+            "followers_count": 19,
+            "friends_count": 387,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "reply_count": 0,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "2504912287",
+          "name": "Jason Zuo",
+          "screen_name": "xxx111god",
+          "description": "ADHD is the scheduler that never stops｜AI is the processor that never quits｜ INFP-A | Exploring, Investing, Learnings",
+          "followers_count": 2682,
+          "friends_count": 493,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 94,
+          "reply_count": 6,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036577857942499670",
+      "text": "https://t.co/sOTd7VNlB5",
+      "created_at": "Tue Mar 24 22:56:13 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 40,
+        "reply_count": 11,
+        "quote_count": 4
       }
     }
   ]

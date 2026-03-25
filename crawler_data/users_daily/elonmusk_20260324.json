@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237372931,
+    "followers_count": 237380241,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260324",
-  "last_updated": "2026-03-24T22:10:38.998769",
-  "tweet_count": 23,
+  "last_updated": "2026-03-25T00:23:36.707720",
+  "tweet_count": 25,
   "tweets": [
     {
       "id": "2036240743392747606",
@@ -1180,6 +1180,91 @@
       "quoted": null,
       "stats": {
         "retweet_count": 569,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036593141663551828",
+      "text": "Caveat emptor",
+      "created_at": "Tue Mar 24 23:56:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036487306585268612",
+        "text": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database passwords.\n\nLiteLLM itself has 97 million downloads per month which is already terrible, but much worse, the contagion spreads to any project that depends on litellm. For example, if you did `pip install dspy` (which depended on litellm>=1.64.0), you'd also be pwnd. Same for any other large project that depended on litellm.\n\nAfaict the poisoned version was up for only less than ~1 hour. The attack had a bug which led to its discovery - Callum McMahon was using an MCP plugin inside Cursor that pulled in litellm as a transitive dependency. When litellm 1.82.8 installed, their machine ran out of RAM and crashed. So if the attacker didn't vibe code this attack it could have been undetected for many days or weeks.\n\nSupply chain attacks like this are basically the scariest thing imaginable in modern software. Every time you install any depedency you could be pulling in a poisoned package anywhere deep inside its entire depedency tree. This is especially risky with large projects that might have lots and lots of dependencies. The credentials that do get stolen in each attack can then be used to take over more accounts and compromise more packages.\n\nClassical software engineering would have you believe that dependencies are good (we're building pyramids from bricks), but imo this has to be re-evaluated, and it's why I've been so growingly averse to them, preferring to use LLMs to \"yoink\" functionality when it's simple enough and possible.",
+        "created_at": "Tue Mar 24 16:56:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "33836629",
+          "name": "Andrej Karpathy",
+          "screen_name": "karpathy",
+          "description": "I like to train large deep neural nets. Previously Director of AI @ Tesla, founding team @ OpenAI, PhD @ Stanford.",
+          "followers_count": 2001686,
+          "friends_count": 1074,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2768,
+          "favorite_count": 14979,
+          "reply_count": 728,
+          "quote_count": 633
+        }
+      },
+      "stats": {
+        "retweet_count": 382,
+        "favorite_count": 3348,
+        "reply_count": 660,
+        "quote_count": 28
+      }
+    },
+    {
+      "id": "2036593675669827623",
+      "text": "RT @WallStreetApes: Analysis finds OVER HALF of immigrant households in America are on welfare\n\n- 53% of immigrant-headed households use we…",
+      "created_at": "Tue Mar 24 23:59:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036520748215574691",
+        "text": "Analysis finds OVER HALF of immigrant households in America are on welfare\n\n- 53% of immigrant-headed households use welfare\n- 61% for illegal immigrant households are on welfare\n\nEven crazier, it’s been discovered illegals can have a kid, then that kid qualifies them for housing\n\n“Most of that welfare use is coming to their US -born children, to illegal immigrant-headed households. So you have a parent or 2 parents who are here illegally, but they have children who are born here, and that's very common. And those are U.S citizen children.\n\nThey're entitled to welfare all sorts of benefits. Food, school, lunch programs, food stamps, even housing assistance can go to those U.S citizen children. And so of course that that floats the whole family.”",
+        "created_at": "Tue Mar 24 19:09:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2036520669769531392",
+            "url": "https://video.twimg.com/amplify_video/2036520669769531392/vid/avc1/1280x720/nHjxdRy2117k14XQ.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1099579684981944320",
+          "name": "Wall Street Apes",
+          "screen_name": "WallStreetApes",
+          "description": "We Are The Resistance. Unfiltered Breaking News | Followed By @elonmusk 𝕏 @joerogan 🎙️ @DonaldjTrumpJr 🇺🇸 @dbongino ⚖️ @RealAlexJones 🪬 @JamesOKeefeIII 🗞️",
+          "followers_count": 1336088,
+          "friends_count": 32670,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2520,
+          "favorite_count": 5790,
+          "reply_count": 418,
+          "quote_count": 126
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2520,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
