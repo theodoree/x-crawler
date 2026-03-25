@@ -1,0 +1,99 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 201973,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260325",
+  "last_updated": "2026-03-25T04:40:50.201554",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2036653361164869828",
+      "text": "RT @fkysly: https://t.co/aIy7VDBGii",
+      "created_at": "Wed Mar 25 03:56:15 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2036638966498382180",
+        "text": "https://t.co/aIy7VDBGii",
+        "created_at": "Wed Mar 25 02:59:03 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "371296701",
+          "name": "马天翼",
+          "screen_name": "fkysly",
+          "description": "Indie hacker & AI.",
+          "followers_count": 13054,
+          "friends_count": 538,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 69,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036659542923087951",
+      "text": "如果做个 Skills 就可以替代 VP 自己平时反馈的结果，那岂不是说明这个 VP 可以被 AI 代替了？！",
+      "created_at": "Wed Mar 25 04:20:48 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036450489102155888",
+        "text": "My friend is a VP at Meta who got tired of repeating the same feedback over and over.\n\nSo he built a skill that reviews docs using his principles, questions, and voice.\n\nIt has been a game changer for his entire team.\n\nTomorrow, I'll share exactly how to build this /exec-review skill for your CEO or leader.\n\n📌 Subscribe to get it in your inbox: https://t.co/NSo5VypmoS",
+        "created_at": "Tue Mar 24 14:30:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036450486086402048",
+            "url": "https://pbs.twimg.com/media/HELs7XHaAAApO9c.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "84490044",
+          "name": "Peter Yang",
+          "screen_name": "petergyang",
+          "description": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+          "followers_count": 183576,
+          "friends_count": 2045,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 310,
+          "reply_count": 19,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 11,
+        "reply_count": 7,
+        "quote_count": 0
+      }
+    }
+  ]
+}

@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237387024,
+    "followers_count": 237393688,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260325",
-  "last_updated": "2026-03-25T03:03:38.618735",
-  "tweet_count": 1,
+  "last_updated": "2026-03-25T04:40:50.175728",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2036605264267452922",
@@ -51,6 +51,150 @@
       "quoted": null,
       "stats": {
         "retweet_count": 8083,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036655260530520112",
+      "text": "RT @Hitchslap1: Man with a 71 IQ was found incompetent to stand trial after randomly shooting at three people. Goes on to murder an 18-year…",
+      "created_at": "Wed Mar 25 04:03:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036647057939988986",
+        "text": "Man with a 71 IQ was found incompetent to stand trial after randomly shooting at three people. Goes on to murder an 18-year old college student.\n\nThe legal system is broken.",
+        "created_at": "Wed Mar 25 03:31:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2036495487956603354",
+          "text": "This man was found incompetent to stand trial for randomly shooting into a car with three people in it, and he was just released onto an unwitting public in May 2023. He went on to murder an 18-year old college student five months later.\n\nThe reason he was originally declared incompetent and released? \n\nHe had an IQ of 71. ~17.5% of black people have an IQ less than 71 assuming a normal distribution and a mean IQ of 85.",
+          "created_at": "Tue Mar 24 17:28:55 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2036494143112015872",
+              "url": "https://pbs.twimg.com/media/HEMUoiNa8AA9YDa.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3429075845",
+            "name": "Bugman Hegel",
+            "screen_name": "FedPoasting",
+            "description": "Assistant to the Regional Warlord",
+            "followers_count": 87055,
+            "friends_count": 7181,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 489,
+            "favorite_count": 2778,
+            "reply_count": 108,
+            "quote_count": 26
+          }
+        },
+        "user": {
+          "id": "884299568837349377",
+          "name": "Hitchslap",
+          "screen_name": "Hitchslap1",
+          "description": "Science. Statistics. Steaks.",
+          "followers_count": 38205,
+          "friends_count": 4744,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 332,
+          "favorite_count": 1827,
+          "reply_count": 273,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 332,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036664410777993253",
+      "text": "RT @WhiteHouse: The goal is not just to reach the Moon, but to stay. 🌘 https://t.co/5WPHYRNmeO",
+      "created_at": "Wed Mar 25 04:40:09 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2036551545987407872",
+          "url": "https://pbs.twimg.com/media/HENI10laIAAiuX0.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2036551549590122706",
+        "text": "The goal is not just to reach the Moon, but to stay. 🌘 https://t.co/5WPHYRNmeO",
+        "created_at": "Tue Mar 24 21:11:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036551545987407872",
+            "url": "https://pbs.twimg.com/media/HENI10laIAAiuX0.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2036439137113330166",
+          "text": "To return Americans to the Moon, NASA is shifting to an iterative, execution-focused approach – just as we did during Apollo. \n\nWe are standardizing rocket architecture, embedding NASA expertise across industry, and increasing launch cadence to support sustained lunar operations.  \n\nWe are sending a demand signal for crewed missions beyond Artemis V, with at least two providers capable of bringing astronauts to the surface every 6 months. \n\nThe goal is not just to reach the Moon, but to stay. \n\nAmerica will never give up the Moon again.",
+          "created_at": "Tue Mar 24 13:45:00 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2000593641480605696",
+            "name": "NASA Administrator Jared Isaacman",
+            "screen_name": "NASAAdmin",
+            "description": "Serving President Donald J. Trump as the 15th @NASA Administrator | Leading the next Golden Age of space discovery 🚀",
+            "followers_count": 97020,
+            "friends_count": 47,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1266,
+            "favorite_count": 10682,
+            "reply_count": 451,
+            "quote_count": 211
+          }
+        },
+        "user": {
+          "id": "1879644163769335808",
+          "name": "The White House",
+          "screen_name": "WhiteHouse",
+          "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+          "followers_count": 4167472,
+          "friends_count": 6,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2696,
+          "favorite_count": 16738,
+          "reply_count": 2343,
+          "quote_count": 604
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2695,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

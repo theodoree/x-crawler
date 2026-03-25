@@ -1,12 +1,280 @@
 {
   "date": "20260325",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-25T03:03:38.590246",
-  "tweet_count": 201,
-  "unique_tweet_count": 201,
-  "total_crawled": 400,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-25T04:40:50.146592",
+  "tweet_count": 205,
+  "unique_tweet_count": 205,
+  "total_crawled": 401,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2036664410777993253",
+      "text": "RT @WhiteHouse: The goal is not just to reach the Moon, but to stay. 🌘 https://t.co/5WPHYRNmeO",
+      "created_at": "Wed Mar 25 04:40:09 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2036551545987407872",
+          "url": "https://pbs.twimg.com/media/HENI10laIAAiuX0.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2036551549590122706",
+        "text": "The goal is not just to reach the Moon, but to stay. 🌘 https://t.co/5WPHYRNmeO",
+        "created_at": "Tue Mar 24 21:11:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036551545987407872",
+            "url": "https://pbs.twimg.com/media/HENI10laIAAiuX0.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2036439137113330166",
+          "text": "To return Americans to the Moon, NASA is shifting to an iterative, execution-focused approach – just as we did during Apollo. \n\nWe are standardizing rocket architecture, embedding NASA expertise across industry, and increasing launch cadence to support sustained lunar operations.  \n\nWe are sending a demand signal for crewed missions beyond Artemis V, with at least two providers capable of bringing astronauts to the surface every 6 months. \n\nThe goal is not just to reach the Moon, but to stay. \n\nAmerica will never give up the Moon again.",
+          "created_at": "Tue Mar 24 13:45:00 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2000593641480605696",
+            "name": "NASA Administrator Jared Isaacman",
+            "screen_name": "NASAAdmin",
+            "description": "Serving President Donald J. Trump as the 15th @NASA Administrator | Leading the next Golden Age of space discovery 🚀",
+            "followers_count": 97020,
+            "friends_count": 47,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1266,
+            "favorite_count": 10682,
+            "reply_count": 451,
+            "quote_count": 211
+          }
+        },
+        "user": {
+          "id": "1879644163769335808",
+          "name": "The White House",
+          "screen_name": "WhiteHouse",
+          "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+          "followers_count": 4167472,
+          "friends_count": 6,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2696,
+          "favorite_count": 16738,
+          "reply_count": 2343,
+          "quote_count": 604
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237393688,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2695,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036659542923087951",
+      "text": "如果做个 Skills 就可以替代 VP 自己平时反馈的结果，那岂不是说明这个 VP 可以被 AI 代替了？！",
+      "created_at": "Wed Mar 25 04:20:48 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036450489102155888",
+        "text": "My friend is a VP at Meta who got tired of repeating the same feedback over and over.\n\nSo he built a skill that reviews docs using his principles, questions, and voice.\n\nIt has been a game changer for his entire team.\n\nTomorrow, I'll share exactly how to build this /exec-review skill for your CEO or leader.\n\n📌 Subscribe to get it in your inbox: https://t.co/NSo5VypmoS",
+        "created_at": "Tue Mar 24 14:30:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036450486086402048",
+            "url": "https://pbs.twimg.com/media/HELs7XHaAAApO9c.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "84490044",
+          "name": "Peter Yang",
+          "screen_name": "petergyang",
+          "description": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+          "followers_count": 183576,
+          "friends_count": 2045,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 310,
+          "reply_count": 19,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201973,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 11,
+        "reply_count": 7,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036655260530520112",
+      "text": "RT @Hitchslap1: Man with a 71 IQ was found incompetent to stand trial after randomly shooting at three people. Goes on to murder an 18-year…",
+      "created_at": "Wed Mar 25 04:03:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036647057939988986",
+        "text": "Man with a 71 IQ was found incompetent to stand trial after randomly shooting at three people. Goes on to murder an 18-year old college student.\n\nThe legal system is broken.",
+        "created_at": "Wed Mar 25 03:31:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2036495487956603354",
+          "text": "This man was found incompetent to stand trial for randomly shooting into a car with three people in it, and he was just released onto an unwitting public in May 2023. He went on to murder an 18-year old college student five months later.\n\nThe reason he was originally declared incompetent and released? \n\nHe had an IQ of 71. ~17.5% of black people have an IQ less than 71 assuming a normal distribution and a mean IQ of 85.",
+          "created_at": "Tue Mar 24 17:28:55 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2036494143112015872",
+              "url": "https://pbs.twimg.com/media/HEMUoiNa8AA9YDa.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3429075845",
+            "name": "Bugman Hegel",
+            "screen_name": "FedPoasting",
+            "description": "Assistant to the Regional Warlord",
+            "followers_count": 87055,
+            "friends_count": 7181,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 489,
+            "favorite_count": 2778,
+            "reply_count": 108,
+            "quote_count": 26
+          }
+        },
+        "user": {
+          "id": "884299568837349377",
+          "name": "Hitchslap",
+          "screen_name": "Hitchslap1",
+          "description": "Science. Statistics. Steaks.",
+          "followers_count": 38205,
+          "friends_count": 4744,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 332,
+          "favorite_count": 1827,
+          "reply_count": 273,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237393688,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 332,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036653361164869828",
+      "text": "RT @fkysly: https://t.co/aIy7VDBGii",
+      "created_at": "Wed Mar 25 03:56:15 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2036638966498382180",
+        "text": "https://t.co/aIy7VDBGii",
+        "created_at": "Wed Mar 25 02:59:03 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "371296701",
+          "name": "马天翼",
+          "screen_name": "fkysly",
+          "description": "Indie hacker & AI.",
+          "followers_count": 13054,
+          "friends_count": 538,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 69,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 201973,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2036605264267452922",
       "text": "RT @ScottPresler: BREAKING\n\nA Minnesota election judge plead guilty to allowing 11 unregistered people to vote in November 2024. \n\nThis is…",
