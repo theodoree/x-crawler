@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237436601,
+    "followers_count": 237445025,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260325",
-  "last_updated": "2026-03-25T20:13:34.738890",
-  "tweet_count": 31,
+  "last_updated": "2026-03-25T22:12:43.721025",
+  "tweet_count": 33,
   "tweets": [
     {
       "id": "2036605264267452922",
@@ -1474,6 +1474,139 @@
         "favorite_count": 9719,
         "reply_count": 1305,
         "quote_count": 55
+      }
+    },
+    {
+      "id": "2036925532118667701",
+      "text": "RT @chamath: This is, by far, the best car I’ve ever owned.",
+      "created_at": "Wed Mar 25 21:57:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036895742858846486",
+        "text": "This is, by far, the best car I’ve ever owned.",
+        "created_at": "Wed Mar 25 19:59:23 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2036886251262140816",
+          "text": "Model Y is the best-selling car of any kind in the world!",
+          "created_at": "Wed Mar 25 19:21:40 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 237445025,
+            "friends_count": 1303,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2077,
+            "favorite_count": 31064,
+            "reply_count": 2522,
+            "quote_count": 110
+          }
+        },
+        "user": {
+          "id": "3291691",
+          "name": "Chamath Palihapitiya",
+          "screen_name": "chamath",
+          "description": "God is in the details.",
+          "followers_count": 1992842,
+          "friends_count": 1093,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 173,
+          "favorite_count": 2913,
+          "reply_count": 293,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 173,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036928017092796857",
+      "text": "RT @nayibbukele: Este es el fin último de las organizaciones de “derechos humanos”.\n\nVean todo el caso, desde el inicio hasta el final que…",
+      "created_at": "Wed Mar 25 22:07:38 +0000 2026",
+      "lang": "es",
+      "media": [],
+      "retweet": {
+        "id": "2036893475447136377",
+        "text": "Este es el fin último de las organizaciones de “derechos humanos”.\n\nVean todo el caso, desde el inicio hasta el final que pretenden; cada uno de los pasos es parte de la “tutela de derechos humanos” conseguida con sus “luchas y conquistas”.\n\nJamás los escucharemos, no importa cuánto nos ataquen.\n\nNo tienen nada que venir a decirnos; más bien, nosotros deberíamos estar denunciándolos a ustedes por lo que le hacen a mujeres como Noelia.\n\nEl mundo necesita urgentemente liberarse de estas organizaciones, que no son más que los bufetes de abogados de los delincuentes, que prefieren LITERALMENTE matar a las víctimas en lugar de protegerlas.",
+        "created_at": "Wed Mar 25 19:50:22 +0000 2026",
+        "lang": "es",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2036805465141621240",
+          "text": "He leído su historia y me parece una barbaridad que esto esté pasando en España.\n\nEn 2022 sufrió una violación múltiple en un centro tutelado.\n\nTras intentar quitarse la vida, quedó parapléjica.\n\nAhora, el sistema le da luz verde para morir en vez de garantizarle apoyo, tratamiento y dignidad para vivir.\n\nEn 24 horas, Noelia será la primera persona en recibir la eutanasia por depresión en España.\n\nEsto también es un fracaso colectivo.",
+          "created_at": "Wed Mar 25 14:00:39 +0000 2026",
+          "lang": "es",
+          "media": [
+            {
+              "type": "video",
+              "id": "2036804505409638400",
+              "url": "https://video.twimg.com/amplify_video/2036804505409638400/vid/avc1/3840x2160/zeNrDX8U2G03kU-G.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2203624946",
+            "name": "Muy.Mona/🇪🇸💚",
+            "screen_name": "Capitana_espana",
+            "description": "Vivo en Cataluña y no hablo Catalán. (No me da la gana). Por las mañanas hasta que no me tome un café y me llaman fascista 3 veces mínimo no soy persona 💃",
+            "followers_count": 200541,
+            "friends_count": 22706,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3036,
+            "favorite_count": 10293,
+            "reply_count": 709,
+            "quote_count": 364
+          }
+        },
+        "user": {
+          "id": "20736511",
+          "name": "Nayib Bukele",
+          "screen_name": "nayibbukele",
+          "description": "Philosopher King",
+          "followers_count": 7850355,
+          "friends_count": 538,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9969,
+          "favorite_count": 36422,
+          "reply_count": 924,
+          "quote_count": 324
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9969,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
