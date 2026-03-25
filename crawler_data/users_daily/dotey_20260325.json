@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 201973,
+    "followers_count": 202014,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260325",
-  "last_updated": "2026-03-25T04:40:50.201554",
-  "tweet_count": 2,
+  "last_updated": "2026-03-25T06:24:33.427218",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2036653361164869828",
@@ -92,6 +92,36 @@
         "retweet_count": 0,
         "favorite_count": 11,
         "reply_count": 7,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036670816344064290",
+      "text": "https://t.co/58eHRo3jq8",
+      "created_at": "Wed Mar 25 05:05:36 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 25,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036674840103448909",
+      "text": "问：在什么情况下应该用 slash command？什么情况下应该用skill呢？\n\n答：slash command 是用户主动触发的，比如 /init 之类\nSkills 是由 Agent 自主调用的，它会检查 Skills 列表，看当前任务是不是要用 Skill，以及该用哪个 Skill。\n\n当然 Skill 也可以当 slash command 用",
+      "created_at": "Wed Mar 25 05:21:36 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 12,
+        "reply_count": 5,
         "quote_count": 0
       }
     }
