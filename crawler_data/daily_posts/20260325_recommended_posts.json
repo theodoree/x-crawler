@@ -1,12 +1,67 @@
 {
   "date": "20260325",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-25T00:23:36.676896",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-25T03:03:38.590246",
+  "tweet_count": 201,
+  "unique_tweet_count": 201,
+  "total_crawled": 400,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2036605264267452922",
+      "text": "RT @ScottPresler: BREAKING\n\nA Minnesota election judge plead guilty to allowing 11 unregistered people to vote in November 2024. \n\nThis is…",
+      "created_at": "Wed Mar 25 00:45:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036511614845825375",
+        "text": "BREAKING\n\nA Minnesota election judge plead guilty to allowing 11 unregistered people to vote in November 2024. \n\nThis is the same state that allows 1 registered voter to vouch for up to 8 persons without an ID. \n\nPass the SAVE America Act! https://t.co/haxORephdq",
+        "created_at": "Tue Mar 24 18:33:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036511607543701505",
+            "url": "https://pbs.twimg.com/media/HEMkhGSaIAE80Mu.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "931286316",
+          "name": "ThePersistence",
+          "screen_name": "ScottPresler",
+          "description": "I helped defeat Hillary, Kamala, & organized the Baltimore cleanup. We delivered Pennsylvania for President Trump. 👀 ➡️ @EarlyVoteAction MAGA 🤝 MAHA 🤝 BARBZ",
+          "followers_count": 2473064,
+          "friends_count": 73676,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8083,
+          "favorite_count": 24402,
+          "reply_count": 598,
+          "quote_count": 256
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237387024,
+        "friends_count": 1301,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 8083,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2036593675669827623",
       "text": "RT @WallStreetApes: Analysis finds OVER HALF of immigrant households in America are on welfare\n\n- 53% of immigrant-headed households use we…",
