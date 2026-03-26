@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237483278,
+    "followers_count": 237490300,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260326",
-  "last_updated": "2026-03-26T08:25:26.151085",
-  "tweet_count": 13,
+  "last_updated": "2026-03-26T10:21:47.462142",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2036972742218834073",
@@ -655,6 +655,122 @@
         "favorite_count": 236,
         "reply_count": 150,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2037083482443440639",
+      "text": "RT @davidsenra: When @elonmusk started @SpaceX, he didn't ask for a contract. He rewrote the terms.\n\n@EricJorgenson explains why:\n\n\"Elon we…",
+      "created_at": "Thu Mar 26 08:25:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037025139251196020",
+        "text": "When @elonmusk started @SpaceX, he didn't ask for a contract. He rewrote the terms.\n\n@EricJorgenson explains why:\n\n\"Elon went to the people actually awarding these contracts and said 'We want an outcome-based contract. I want to be incentivized to drive down the cost. I want to be incentivized to hit the deadlines.'\n\nFor all the talk that happens about him doing things that have never been done before, the things that he's doing that have never been done before are because he drives cost down.\n\nAnd he drives cost down because the vision is not 'Make as much money as I can.' It wasn't 'Start a new aerospace company that's as profitable as possible.' It was 'Get us to Mars.'\n\nThat is a heroic thing to go in and say 'I know I could get paid X to do mediocre work, but I actually want to take the risk. I want to burn the boats. I want my back to the wall. I want to know that we have to clear this threshold that nobody has ever crossed before. And I want to go tell my team that because that's how we're actually going to achieve this objective that everybody thinks I'm crazy for setting.'\"",
+        "created_at": "Thu Mar 26 04:33:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037025011006074880",
+            "url": "https://video.twimg.com/amplify_video/2037025011006074880/vid/avc1/1280x720/e-Y9el_t7-_dUF-a.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2036442923559165991",
+          "text": "My conversation with @EricJorgenson, author of The Book of Elon (@elonmusk).\n\n0:00 Book Reveal\n0:39 Build Useful Things\n2:19 Engineering Talent Edge\n4:26 Wired for War\n6:47 Tip of the Spear\n8:47 Burn the Boats\n13:13 Facing Fear\n15:16 Origin Story Myths\n18:19 Know Business A to Z\n22:17 Simplify and Fail Fast\n25:35 Reality and Physics\n28:18 The Algorithm Begins\n30:34 Delete and Simplify\n34:25 Starlink War Room\n36:52 Repetition as OS\n38:18 Step Three Simplify Optimize\n38:43 Question Every Requirement\n39:13 Tesla Battery Pack Delete\n40:43 Repetition Installs Ideas\n42:02 Step Four Accelerate\n43:26 Design Org for Speed\n46:06 Step Five Automate\n46:29 Control and Clean Sheet\n48:54 Vertical Integration and Costs\n50:47 SpaceX Incentives and Mars\n57:11 Frontier Unlocks Starlink\n1:00:26 Time as True Currency\n1:03:58 Speed Triage and Bottlenecks\n1:10:11 Internalized Responsibility\n1:12:56 Avoid Serialized Dependencies\n1:14:31 Aligning the Team\n1:15:07 Time Is the Constraint\n1:16:00 One Metric Focus\n1:18:03 Directional Predictions\n1:19:06 We Must Make Stuff\n1:25:39 Manufacturing as Moat\n1:26:23 Speed and Direct to Customer\n1:28:41 SpaceX Feasibility Study\n1:33:07 Edge of Sanity Leadership\n1:37:10 Bottlenecks and Integration\n1:40:01 Design and Simplify\n1:45:15 Catch the Rocket\n1:48:14 Capitalism and Closing\n\nIncludes paid partnerships.",
+          "created_at": "Tue Mar 24 14:00:02 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2036298463672172545",
+              "url": "https://video.twimg.com/amplify_video/2036298463672172545/vid/avc1/3840x2160/qirIpJKLWFEF3xrD.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "255793931",
+            "name": "David Senra",
+            "screen_name": "davidsenra",
+            "description": "Conversations with the greatest living founders.",
+            "followers_count": 45485,
+            "friends_count": 74,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 304,
+            "favorite_count": 1772,
+            "reply_count": 59,
+            "quote_count": 32
+          }
+        },
+        "user": {
+          "id": "255793931",
+          "name": "David Senra",
+          "screen_name": "davidsenra",
+          "description": "Conversations with the greatest living founders.",
+          "followers_count": 45485,
+          "friends_count": 74,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 267,
+          "favorite_count": 1262,
+          "reply_count": 121,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 267,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037086819117052191",
+      "text": "Hmm",
+      "created_at": "Thu Mar 26 08:38:39 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037060876784549929",
+        "text": "\"The accusation of racism paralyzed three hundred million people and made them accept the unacceptable, the worst that could happen to them: their own annihilation, their erasure as a civilization.”\n\nRenaud Camus - 2019.",
+        "created_at": "Thu Mar 26 06:55:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1427686715964248069",
+          "name": "Paul Weston",
+          "screen_name": "PWestoff",
+          "description": "",
+          "followers_count": 60283,
+          "friends_count": 8140,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 596,
+          "favorite_count": 4048,
+          "reply_count": 121,
+          "quote_count": 20
+        }
+      },
+      "stats": {
+        "retweet_count": 1748,
+        "favorite_count": 15833,
+        "reply_count": 1111,
+        "quote_count": 46
       }
     }
   ]
