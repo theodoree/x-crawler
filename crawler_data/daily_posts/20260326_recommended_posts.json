@@ -1,12 +1,221 @@
 {
   "date": "20260326",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-26T18:22:57.315876",
-  "tweet_count": 244,
-  "unique_tweet_count": 244,
-  "total_crawled": 433,
-  "duplicates_removed": 189,
+  "last_crawl_time": "2026-03-26T20:11:26.317844",
+  "tweet_count": 249,
+  "unique_tweet_count": 249,
+  "total_crawled": 444,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2037252132194181317",
+      "text": "RT @shao__meng: 最近顾问的团队招聘，面试过程中对两家公司印象很深：小冰和 Pika。\n\n小冰是几年前 NLP 时代微软的 AI 数字人，当时还是很有吸引力的，后来团队从微软独立出来，直到 ChatGPT 发布，一夜变了天，自己成为了「牛夫人。。」，NLP…",
+      "created_at": "Thu Mar 26 19:35:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2037079815078240595",
+        "text": "最近顾问的团队招聘，面试过程中对两家公司印象很深：小冰和 Pika。\n\n小冰是几年前 NLP 时代微软的 AI 数字人，当时还是很有吸引力的，后来团队从微软独立出来，直到 ChatGPT 发布，一夜变了天，自己成为了「牛夫人。。」，NLP 时肯定做不下去了，团队也尝试做模型，很自然的没有成功，后来就开始做短剧、做音乐工具等等，各种尝试却完全没有技术核心，几乎看不到前景了。\n\nPika 则不同，名校高材生创始团队，做 AI 视频生成模型，当时和 Runway 还是能拼一拼的，但后来 Sora 出来，后来 Veo、Kling、Seedance 连续刷新视频生成上限，Pika 也就掉队了，算力和人才储备明显没跟上。现在转型去做 AI 分身，可以说和原来 AI 视频关联不大了。",
+        "created_at": "Thu Mar 26 08:10:49 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1727548535816724480",
+          "name": "meng shao",
+          "screen_name": "shao__meng",
+          "description": "AI 团队顾问&企业 AI 培训，专注「上下文工程」 &「AI 智能体」\n· 顾问：前沿理论 → 企业真实落地闭环\n· 培训：企业 AI 培训，推动全员 AI 提效\n\n合作：私信 / shaomeng@outlook.com\n公众号/小红书：AI 启蒙小伙伴",
+          "followers_count": 28591,
+          "friends_count": 1174,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 31,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 202902,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037240330580594825",
+      "text": "💯",
+      "created_at": "Thu Mar 26 18:48:39 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037234859622412315",
+        "text": "A voting system that doesn't authenticate voters with an ID has no integrity",
+        "created_at": "Thu Mar 26 18:26:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "24222556",
+          "name": "Tyler Winklevoss",
+          "screen_name": "tyler",
+          "description": "Co-Founder @gemini, @cypherpunk, @winklevosscap Vocals @marsjunction",
+          "followers_count": 1098795,
+          "friends_count": 3502,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 321,
+          "favorite_count": 2493,
+          "reply_count": 194,
+          "quote_count": 36
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237533138,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3436,
+        "favorite_count": 31076,
+        "reply_count": 1445,
+        "quote_count": 79
+      }
+    },
+    {
+      "id": "2037238843456577613",
+      "text": "Probability of me getting a fair trial if this is how the judge dresses is 0.0%",
+      "created_at": "Thu Mar 26 18:42:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037227294490509712",
+        "text": "NEW: Elon’s attorneys are calling on Clinton-appointed Judge Charles Breyer to investigate the jury in Musk's recent Twitter acquisition case after jurors were mocking Musk in court.\n\nRIGGED https://t.co/4qxyTm9PSx",
+        "created_at": "Thu Mar 26 17:56:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037227193072340993",
+            "url": "https://pbs.twimg.com/media/HEWvVqHX0AE0snl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1326229737551912960",
+          "name": "Libs of TikTok",
+          "screen_name": "libsoftiktok",
+          "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+          "followers_count": 4760749,
+          "friends_count": 1061,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 984,
+          "favorite_count": 4619,
+          "reply_count": 235,
+          "quote_count": 30
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237533138,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4097,
+        "favorite_count": 41074,
+        "reply_count": 2999,
+        "quote_count": 197
+      }
+    },
+    {
+      "id": "2037237860877951439",
+      "text": "Cool",
+      "created_at": "Thu Mar 26 18:38:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037228822529974589",
+        "text": "Tesla has released a new video with @DavidMoss, highlighting his recent cross-country trip on FSD (Supervised) with zero disengagements.\n\n\"Moss’s Model 3 handled every road sign, turn and Supercharger stop, traveling over 2,700 miles in 2 days and 20 hours. Part of his over 12,000-mile streak of FSD (Supervised) usage, David’s cross-country trip demonstrates the reliability, capability and ease of FSD (Supervised).\"",
+        "created_at": "Thu Mar 26 18:02:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037227925603573760",
+            "url": "https://video.twimg.com/amplify_video/2037227925603573760/vid/avc1/3840x2160/j_ufXky9UlwDL5xU.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1052508,
+          "friends_count": 444,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 259,
+          "favorite_count": 2148,
+          "reply_count": 123,
+          "quote_count": 33
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237533138,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1156,
+        "favorite_count": 8928,
+        "reply_count": 950,
+        "quote_count": 28
+      }
+    },
     {
       "id": "2037233260430799276",
       "text": "RT @frxiaobei: 很开心最近学习到一批 autoresearch + OpenClaw 的案例开始跑出正反馈。\n\n做营销推送的，AI 自动分人群、试策略，然后自动往更优解收敛。\n\n做投放的，AI 生成素材、跑小流量测试、再筛选放大。\n\n做转化优化的，AI 改文案、调…",
@@ -687,6 +896,61 @@
         "favorite_count": 68,
         "reply_count": 2,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2037192606460109181",
+      "text": "RT @ApoStructura: Q1 is almost over and SpaceX has expanded its lead over the rest of the world.\n\nOne company launches more rockets than al…",
+      "created_at": "Thu Mar 26 15:39:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037117707879866578",
+        "text": "Q1 is almost over and SpaceX has expanded its lead over the rest of the world.\n\nOne company launches more rockets than all other companies *and* world governments combined (that includes other American companies and NASA) https://t.co/aZZ54ySx1U",
+        "created_at": "Thu Mar 26 10:41:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037117702113026049",
+            "url": "https://pbs.twimg.com/media/HEVLwcgbYAEuMzL.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4375247427",
+          "name": "ApoStructura",
+          "screen_name": "ApoStructura",
+          "description": "Building @FlightAtlas | Spaceflight, tech, economics",
+          "followers_count": 8815,
+          "friends_count": 961,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 419,
+          "favorite_count": 2061,
+          "reply_count": 128,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237533138,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 419,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     },
     {

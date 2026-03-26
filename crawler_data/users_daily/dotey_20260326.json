@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 202882,
+    "followers_count": 202902,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260326",
-  "last_updated": "2026-03-26T18:22:57.348625",
-  "tweet_count": 16,
+  "last_updated": "2026-03-26T20:11:26.351116",
+  "tweet_count": 17,
   "tweets": [
     {
       "id": "2036986001059397886",
@@ -673,6 +673,45 @@
       "quoted": null,
       "stats": {
         "retweet_count": 4,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037252132194181317",
+      "text": "RT @shao__meng: 最近顾问的团队招聘，面试过程中对两家公司印象很深：小冰和 Pika。\n\n小冰是几年前 NLP 时代微软的 AI 数字人，当时还是很有吸引力的，后来团队从微软独立出来，直到 ChatGPT 发布，一夜变了天，自己成为了「牛夫人。。」，NLP…",
+      "created_at": "Thu Mar 26 19:35:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2037079815078240595",
+        "text": "最近顾问的团队招聘，面试过程中对两家公司印象很深：小冰和 Pika。\n\n小冰是几年前 NLP 时代微软的 AI 数字人，当时还是很有吸引力的，后来团队从微软独立出来，直到 ChatGPT 发布，一夜变了天，自己成为了「牛夫人。。」，NLP 时肯定做不下去了，团队也尝试做模型，很自然的没有成功，后来就开始做短剧、做音乐工具等等，各种尝试却完全没有技术核心，几乎看不到前景了。\n\nPika 则不同，名校高材生创始团队，做 AI 视频生成模型，当时和 Runway 还是能拼一拼的，但后来 Sora 出来，后来 Veo、Kling、Seedance 连续刷新视频生成上限，Pika 也就掉队了，算力和人才储备明显没跟上。现在转型去做 AI 分身，可以说和原来 AI 视频关联不大了。",
+        "created_at": "Thu Mar 26 08:10:49 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1727548535816724480",
+          "name": "meng shao",
+          "screen_name": "shao__meng",
+          "description": "AI 团队顾问&企业 AI 培训，专注「上下文工程」 &「AI 智能体」\n· 顾问：前沿理论 → 企业真实落地闭环\n· 培训：企业 AI 培训，推动全员 AI 提效\n\n合作：私信 / shaomeng@outlook.com\n公众号/小红书：AI 启蒙小伙伴",
+          "followers_count": 28591,
+          "friends_count": 1174,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 31,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
