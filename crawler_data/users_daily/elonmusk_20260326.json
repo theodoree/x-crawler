@@ -1,0 +1,130 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "https://t.co/dDtDyVssfm",
+    "followers_count": 237459666,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260326",
+  "last_updated": "2026-03-26T03:05:15.473660",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2036972742218834073",
+      "text": "Grok Imagine 🏆🏆🏆🏆",
+      "created_at": "Thu Mar 26 01:05:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036953823214739624",
+        "text": "Grok-Imagine just literally overtook the entire video leaderboard on DesignArena\n\nClean sweep...4 out of 4:\n🏆 #1 in Video Arena\n🏆 #1 in Video-to-Video\n🏆 #1 in Image-to-Video\n🏆 #1 in Multi-Image-to-Video\n\nOutranking Veo 3.1, Sora, Kling - all of them\n\nJust a few months ago, xAI wasn't even in the video generation conversation. Now owns the entire space\n\nThe speed of progress is insanely fast at xAI",
+        "created_at": "Wed Mar 25 23:50:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036952240800620544",
+            "url": "https://pbs.twimg.com/media/HES1RVFbYAAXQe-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 172776,
+          "friends_count": 1683,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 60,
+          "favorite_count": 361,
+          "reply_count": 95,
+          "quote_count": 16
+        }
+      },
+      "stats": {
+        "retweet_count": 1053,
+        "favorite_count": 6723,
+        "reply_count": 1313,
+        "quote_count": 63
+      }
+    },
+    {
+      "id": "2036972994141303066",
+      "text": "RT @MdeZegher: Our FU Superchargers (Folding Unit) save 20%+ on cost, improve build quality, and deploy 2X faster. \n \nThe majority of cost…",
+      "created_at": "Thu Mar 26 01:06:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036951486035382387",
+        "text": "Our FU Superchargers (Folding Unit) save 20%+ on cost, improve build quality, and deploy 2X faster. \n \nThe majority of cost savings are in civil, electrical and logistics cost. It's why we're spending so much time improving our pre-assembled Supercharger units.\n\nWith FU Superchargers, on-site work is further reduced, including no more DC busbar connection and no Tesla service technician needed for commissioning. We can ship 16 Supercharger posts per truck (previously 12), making the logistics cost of shipping pre-assembled Superchargers now cheaper than traditional construction 🤯.\n\nThis is just Rev1, we'll have Rev3 by next quarter. Every little improvement matters for the scale needed for 100% EV adoption.",
+        "created_at": "Wed Mar 25 23:40:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2036951111798505517",
+          "text": "Introducing Folding Unit Superchargers\n\n- V4 cabinet with 500kW charging\n- 8 posts per unit\n- 2 units per truck\n- 2 configurations: folded, unfolded\n\nFaster. Cheaper. Better. https://t.co/YyALz0U5cA",
+          "created_at": "Wed Mar 25 23:39:24 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2036942139431804930",
+              "url": "https://video.twimg.com/amplify_video/2036942139431804930/vid/avc1/3840x2160/VOB0lefHOllnKBDz.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1346535293449428992",
+            "name": "Tesla Charging",
+            "screen_name": "TeslaCharging",
+            "description": "New Superchargers and all things charging",
+            "followers_count": 281103,
+            "friends_count": 90,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 315,
+            "favorite_count": 2980,
+            "reply_count": 118,
+            "quote_count": 60
+          }
+        },
+        "user": {
+          "id": "946106088",
+          "name": "Max",
+          "screen_name": "MdeZegher",
+          "description": "Building Superchargers since 2014",
+          "followers_count": 24679,
+          "friends_count": 992,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 394,
+          "favorite_count": 2597,
+          "reply_count": 220,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 394,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

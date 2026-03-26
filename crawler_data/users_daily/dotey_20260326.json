@@ -1,0 +1,171 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 202372,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260326",
+  "last_updated": "2026-03-26T03:05:15.464835",
+  "tweet_count": 4,
+  "tweets": [
+    {
+      "id": "2036986001059397886",
+      "text": "给高中生演示 AI Coding 效果最好，做个小游戏小工具都可以\n\n3 个核心观点：\n1. AI 是工具，不是魔法\n2. 有批判性思维问出好问题很重要\n3. AI 会消灭很多就的岗位也会产生更多新的机会\n\n建议：\n1. 多用 AI 但不过度依赖 AI\n2. 投资 AI 做不到的事\n3. 现在起就用 AI 编程去创造，解决自己和身边人的问题",
+      "created_at": "Thu Mar 26 01:58:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036982741540233534",
+        "text": "调研下，如果要去给高中生讲 AI，大家会通过哪些 Case 告诉他们 AI 带来的变化？期望传达给他们的 3 个核心观点是什么？想给他们面向未来的几个建议是什么？ cc @dotey @frxiaobei @wwwgoubuli",
+        "created_at": "Thu Mar 26 01:45:05 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "300629449",
+          "name": "天猪 TZ",
+          "screen_name": "atian25",
+          "description": "- Currently focused on @Trae_ai IDE. \n- Used to be a core developer of open source projects EggJS/CNPM. \n- ByteDance Engineer / ex-Alipay.",
+          "followers_count": 6341,
+          "friends_count": 283,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 4,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 26,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036990379824750996",
+      "text": "我也不知道怎么告诉老板“AI是工具不是魔法”，只能请教睿智的网友们了。\n\n也许可以扮作弱小无知的 AI 小白，给老板上难度让他施法，可能他就知难而退了",
+      "created_at": "Thu Mar 26 02:15:26 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036989507007119776",
+        "text": "@dotey ”AI是工具，不是魔法“，这句话怎么能递给老板，宝玉老师给点建议😂",
+        "created_at": "Thu Mar 26 02:11:58 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1958425661296783360",
+          "name": "洛图",
+          "screen_name": "soavocado",
+          "description": "Boys will be boys",
+          "followers_count": 4,
+          "friends_count": 111,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 12,
+        "reply_count": 18,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036992789116846093",
+      "text": "RT @atian25: https://t.co/HzCzaV31MW",
+      "created_at": "Thu Mar 26 02:25:01 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2036989953159422054",
+        "text": "https://t.co/HzCzaV31MW",
+        "created_at": "Thu Mar 26 02:13:44 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "300629449",
+          "name": "天猪 TZ",
+          "screen_name": "atian25",
+          "description": "- Currently focused on @Trae_ai IDE. \n- Used to be a core developer of open source projects EggJS/CNPM. \n- ByteDance Engineer / ex-Alipay.",
+          "followers_count": 6341,
+          "friends_count": 283,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 23,
+          "reply_count": 4,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2036993782357324280",
+      "text": "我现在所有 skills 的脚本，默认用 bun 执行，因为 bun 可以直接执行 TypeScript，不需要预先编译，这带来的好处就是如果出错了，Agent 可以快速定位到代码里面的问题，然后直接修改代码再次运行，如果是打包后的代码这就很难打补丁。\n\n任何语言或者环境，Agent 友好才是王道！",
+      "created_at": "Thu Mar 26 02:28:57 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2036989953159422054",
+        "text": "https://t.co/HzCzaV31MW",
+        "created_at": "Thu Mar 26 02:13:44 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "300629449",
+          "name": "天猪 TZ",
+          "screen_name": "atian25",
+          "description": "- Currently focused on @Trae_ai IDE. \n- Used to be a core developer of open source projects EggJS/CNPM. \n- ByteDance Engineer / ex-Alipay.",
+          "followers_count": 6341,
+          "friends_count": 283,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 23,
+          "reply_count": 4,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 46,
+        "reply_count": 4,
+        "quote_count": 1
+      }
+    }
+  ]
+}
