@@ -1,12 +1,503 @@
 {
   "date": "20260326",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-26T14:34:19.727802",
-  "tweet_count": 224,
-  "unique_tweet_count": 224,
-  "total_crawled": 423,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-26T16:28:08.898802",
+  "tweet_count": 233,
+  "unique_tweet_count": 233,
+  "total_crawled": 424,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2037204300863025570",
+      "text": "RT @dontbesilent: 摘自原文：\n\n我见到的许多中国创始人属于另一种原型——这让我感到惊讶。…",
+      "created_at": "Thu Mar 26 16:25:29 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2037192026031071276",
+        "text": "摘自原文：\n\n我见到的许多中国创始人属于另一种原型——这让我感到惊讶。\n\n他们才华横溢——顶尖大学背景、在字节跳动或大疆的工作经历、Nature论文、多项专利。这些在西方只有最顶尖的技术人才才能达到的成就，在这里只是入门门槛。他们也比我遇到的几乎任何人工作都更努力。我们在各种时间、包括周末、在不同城市开会。一位创始人甚至在他妻子生孩子的当天还来见我们！\n\n但独立思考、叛逆性、从零到一的愿景——这些却更难找到。创始人的背景高度相似，pitch 更规避风险，想法更多是现有事物的令人印象深刻的V2版本，而不是真正原创的赌注。鉴于中国产生的技术人才数量庞大，我本期待见到更多我从未听说过的想法。\n\n我的解读是，中国的教育体系培养了卓越，但没有留下足够的空间让人们偏离轨道。产出的是擅长执行已知问题的创始人，而不是那种带着一个没人知道存在的问题出现的人。",
+        "created_at": "Thu Mar 26 15:36:42 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2036779960598163864",
+          "text": "https://t.co/xz8jJM5n8H",
+          "created_at": "Wed Mar 25 12:19:18 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "254747620",
+            "name": "José Maria Macedo",
+            "screen_name": "ZeMariaMacedo",
+            "description": "Cofounder @delphi_labs Founding Partner @delphi_ventures",
+            "followers_count": 65377,
+            "friends_count": 1930,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 71,
+            "favorite_count": 530,
+            "reply_count": 32,
+            "quote_count": 23
+          }
+        },
+        "user": {
+          "id": "1596695231717871616",
+          "name": "dontbesilent",
+          "screen_name": "dontbesilent",
+          "description": "🔍 商业哲学爱好者\n🤔 哈耶克/维特根斯坦忠实粉丝\n📞 生活合伙人 @xiaoniantalk",
+          "followers_count": 73465,
+          "friends_count": 1225,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 21,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 202851,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037203906711736430",
+      "text": "林俊旸（Junyang Lin）新的文章：大模型的下一个阶段，不是让模型“想得更久”，而是让模型“为了行动而思考”。\n\n林俊旸是阿里通义千问（Qwen）团队前技术负责人。2026 年 3 月刚刚离职。他直接领导了 Qwen3 的开发，经历了推理模型融合的实际困难，离开之后发了一篇长推文回顾这段历程，标题叫《从“推理”思维到“智能体”思维》。\n\n【1】o1 和 R1 到底教了我们什么\n\n第一波推理模型教会了一件事：如果要在语言模型上做强化学习（RL），就需要确定性强、稳定可扩展的反馈信号。数学、代码、逻辑这些可验证领域变成了核心阵地，因为奖励信号比通用偏好标注强得多。RL 可以针对“正确性”优化，而不是优化“听起来是不是合理”。\n\n基础设施也变成了核心问题。一旦模型被训练去做长链条推理，RL 就不再是微调之后的轻量附加步骤，而是一个系统工程问题：大规模采样（rollout）、高吞吐验证器、稳定策略更新、高效调度。OpenAI 把 o1 定义为用 RL 训练的推理模型，DeepSeek R1 进一步证明了推理式 RL 对基础设施的要求有多高。\n\n他的总结：第一个大转变是从扩大预训练，到扩大后训练的推理能力。\n\n【2】真正的难题：合并 thinking 和 instruct\n\n2025 年初，Qwen 团队的图景很完美：理想系统应该统一 thinking 和 instruct 模式，支持可调节的推理力度，甚至让模型自动判断需要多少推理量。\n\nQwen3 是最清晰的公开尝试。它引入了“混合思维模式”，在同一模型家族里同时支持思考和非思考行为，强调可控的思维预算，后训练流水线明确包括“思维模式融合”阶段。\n\n但合并比描述起来难得多。难点在数据。\n\n两种模式的数据分布和行为目标差异很大。强 instruct 模型被奖励为直接、简洁、低延迟，高效处理标注、客服、结构化提取这类企业任务。强 thinking 模型被奖励为在困难问题上花更多 token、维持连贯的中间推理、探索替代路径。两个行为画像互相拉扯。合并数据如果不精心筛选，结果是两头都不行：thinking 变得臃肿不够果断，instruct 变得不够干脆还更贵。\n\n【注：Qwen3 发布时主打“混合思维模式”，但后续的 2507 更新却把 instruct 和 thinking 拆成了独立模型（包括 30B 和 235B 两个规格）。不是不想合并，是合并之后两头都做不好。这种一手经验在公开文章里非常少见。】\n\n在商业部署中，大量客户仍然要高吞吐、低成本的 instruct 行为来跑批处理。分开两条线让团队能更干净地解决各自的数据和训练问题。\n\n不过其他实验室选了相反的路。Anthropic 明确支持集成模型理念，Claude 3.7 Sonnet 作为混合推理模型推出，用户可以选择普通响应或扩展思考，API 用户可设定思考预算。GLM-4.5 也定位为混合推理模型，同时支持 thinking 和 non-thinking 模式；DeepSeek V3.1 走了类似方向。\n\n林俊旸认为关键在于合并是否有机。如果两种模式只是被塞进同一个权重文件，行为上还是两个生硬缝合的人格，产品体验就不自然。真正成功的合并需要一个平滑的推理力度光谱，模型能自适应地选择不同层次的推理力度，而不是在二值开关之间来回切。\n\n【注：Anthropic 走集成路线，Qwen 后来走分离路线，到现在没有定论哪条更优。集成路线用户体验更好但训练更难，分离路线工程更干净但增加了用户的选择成本。林俊旸离职后对 Anthropic 给出了相当正面的评价，在前竞争对手之间并不常见。】\n\n【3】Anthropic 的方向为什么是一种有用的修正\n\nAnthropic 围绕 Claude 3.7 和 Claude 4 的公开表态一直很克制。他们强调集成推理、可控思考预算、实际任务、代码质量。Claude 4 更进一步，允许推理和工具使用交织进行（interleaved thinking，推理过程中可随时调用工具），同时把编程、长时间运行任务和智能体工作流作为核心目标。\n\n林俊旸从中提炼出一个关键观点：更长的推理链不等于更聪明。如果模型对所有问题都用同样冗长的方式推理，它可能是优先级判断出了问题，或者根本不知道该何时停下来行动。Anthropic 的路线暗示了一种更有纪律性的思路：思考应该由目标任务来塑造。做编程，思考就该帮助代码导航和错误恢复；做智能体工作流，思考就该提升长期执行质量，而不是产出好看的中间文本。\n\n这指向了一个更大的转变：从训练模型到训练智能体（Agent）。他在 Qwen3 博客中就写过“我们正在从专注于训练模型的时代，转向以训练智能体为中心的时代”。智能体的核心特征是与世界的闭环交互：制定计划、使用工具、感知反馈、修正策略，在长时间跨度内持续运作。\n\n【4】“智能体思维”到底是什么意思\n\n推理思维按最终答案前的内部思考质量评判：模型能不能证明定理、写出正确代码、通过基准测试（benchmark）。智能体思维关注的是：模型能不能在与环境交互的过程中持续推进。\n\n核心问题变了。从“能不能想足够久”到“能不能用维持有效行动的方式来思考”。智能体思维需要处理纯推理模型不用操心的事：何时停止思考开始行动、选哪个工具按什么顺序、怎么把嘈杂的环境反馈纳入考虑、失败后如何修正计划、跨多轮交互保持连贯。\n\n一句话：不是想完再做，而是边想边做。\n\n【5】为什么智能体 RL 的基础设施更难\n\n目标从解基准测试变成解交互式任务后，RL 技术栈得跟着大换血。\n\n推理 RL 的采样可以当自包含轨迹处理，验证器比较干净。智能体 RL 中，策略被嵌入到一个大得多的系统：工具服务器、浏览器、终端、搜索引擎、执行沙箱、API 层、记忆系统、编排框架。环境不再是静态验证器，它是训练系统的一部分。\n\n训练和推理必须更彻底地解耦，否则采样吞吐量会崩溃。一个代码智能体要把生成的代码跑到测试环境里执行：推理端等反馈时卡住了，训练端没有完成的轨迹而挨饿，GPU 利用率远低于预期。工具延迟和有状态环境只会让这个问题更严重。\n\n环境本身变成了一级研究对象。监督微调（SFT）时代痴迷于数据多样性，智能体时代应该痴迷于环境质量：真实性、覆盖度、反馈丰富程度、抗利用性。环境构建已经从副业变成了一个真正的创业方向。\n\n【注：推理 RL 的环境相对简单：给个数学题，验证答案对不对就行。智能体 RL 的环境要模拟整个交互链条，复杂度不在一个量级。这解释了为什么真正能做好智能体 RL 的团队那么少。】\n\n【6】未来是更实用的思考\n\n林俊旸预测，智能体思维将成为主导形式，最终取代很多旧式的静态独白式推理，也就是那种过度冗长的内部推理链，试图用产出更多文本来弥补缺乏交互。即使是很难的数学或编程任务，一个先进系统也应该能搜索、模拟、执行、检查、验证、修正。\n\n但最难的挑战是奖励作弊（reward hacking）。模型一旦有了工具访问权限，作弊空间就大幅扩展。有搜索能力的模型可能在 RL 训练中直接查答案，代码智能体可能利用仓库中的未来信息或滥用日志，有隐藏漏洞的环境可以让策略看起来超强，但其实在训练它作弊。\n\n下一个研究瓶颈会出在环境设计、评估器鲁棒性和反作弊协议上。但方向明确：能用工具的思考就是比孤立的思考更有用。\n\n他还预测了一个架构趋势：核心智能将越来越多地来自多个智能体的组织方式，编排器（orchestrator）负责规划和路由，专业智能体像领域专家一样运作，子智能体执行窄任务并控制上下文。从训练模型到训练智能体，再从训练智能体到训练系统。\n\n【最后】\n\n“Agentic thinking”这个词本身不新，但过去一年各家的实际动作已经替它做了最好的注脚。\n（注：以下内容不是来自原文）\n\nOpenAI 的 GPT-5 系列是最激进的案例。从 2025 年 8 月 GPT-5 发布到 2026 年 3 月 GPT-5.4，不到八个月出了五个大版本，每一个都在往 agentic 方向猛推：原生电脑操控、百万 token 上下文、工具自动发现、长时间自主编程。GPT-5.4 在 GDPval 上跑出了 83% 的专业任务匹配率，比 GPT-5.2 高了 12 个百分点。但代价也很明显，Sam Altman 在 2026 年 1 月的开发者座谈会上亲口承认 GPT-5.2 的写作质量“搞砸了”，原话是“I think we just screwed that up”。用户反馈更直接：回复变短了、更公式化了、像一个“加班过度的秘书”。为了把资源集中在推理、编程和 agentic 能力上，OpenAI 在创意写作和对话温度上交了学费。这恰好印证了林俊旸文中说的那句话：instruct 行为和 thinking 行为会互相拉扯，顾此失彼。\n\nGoogle 的 Gemini 3 系列走了另一条路。Gemini 3.1 Pro 在 ARC-AGI-2 上拿到 77.1%（是 Gemini 3 Pro 的两倍多），抽象推理能力领先。但在实际的智能体工具链可靠性上，独立测试显示它在长链条多步骤任务中的稳定性不如 Claude。Google 自己也承认 3.1 Pro 还在预览阶段，需要进一步提升“有野心的 agentic 工作流”才能正式发布。推理强不等于 agent 强，这是 Gemini 3 给出的一个反面教材。\n\nDeepSeek 可能是最能说明“agentic 训练有多难”的例子。R2 模型原计划 2025 年 5 月发布，到 2026 年 3 月仍未面世。公开报道的原因包括华为昇腾芯片的训练稳定性问题、数据标注周期拉长，以及创始人梁文锋对模型效果不满意。但从技术逻辑看，DeepSeek V3.1 已经引入了 thinking/non-thinking 混合架构，下一步如果要做真正的 agentic 能力——工具调用、环境交互、长期任务规划——训练复杂度会再上一个台阶。V4 的发布一再推迟，很可能正是因为 agentic 这一关还没过。",
+      "created_at": "Thu Mar 26 16:23:55 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037116325210829168",
+        "text": "https://t.co/mgVhhZVTKg",
+        "created_at": "Thu Mar 26 10:35:54 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4473952878",
+          "name": "Junyang Lin",
+          "screen_name": "JustinLin610",
+          "description": "❤️ 🍵 ☕️ 🍷 🥃",
+          "followers_count": 80941,
+          "friends_count": 2022,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 161,
+          "favorite_count": 1029,
+          "reply_count": 37,
+          "quote_count": 46
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 202851,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037195123394584818",
+      "text": "开源项目推荐：Type4Me，作者号称是 Typeless 平替\n\nmacOS 语音输入工具，本地/云端双引擎识别，大模型文本优化，数据全部存在本地。\n\n市面上的语音输入工具，要么贵（$12/月），要么数据不可控，要么不能自定义 Prompt。Type4Me 想把这几个问题一起解决。\n\n它基于 SherpaOnnx 引擎做本地语音识别，不需要 API Key、不需要联网，在 Apple Silicon 机型上跑得很快。如果你更看重准确率，也可以接云端引擎（目前支持火山引擎和 Deepgram）。\n\n最有意思的是它的\"处理模式\"设计——语音识别出文字后，可以直接丢给大模型做后处理。内置了快速听写、双通道高精度、中译英、Prompt 优化等模式，也可以自己写 Prompt 定义任意处理流程。\n\n还有个\"命令模式\"值得一提：选中一段文字，按快捷键说一句话，语音会变成指令，选中的文字变成上下文，LLM 直接执行操作并输出结果。相当于把语音变成了 LLM 的命令行。\n\n数据方面，所有凭证和识别历史都存在本地（SQLite + JSON），没有遥测、没有云同步，历史记录支持导出 CSV。\n\n项目架构是插件式的，添加新的语音识别服务只需要实现两个协议然后注册，目前 OpenAI Whisper、Google、AWS 等接口定义都预留好了，等社区来补。\n\nMIT 协议，macOS 14+，GitHub 地址：https://t.co/wIfYJsAeMS",
+      "created_at": "Thu Mar 26 15:49:01 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2037194196323299328",
+          "url": "https://video.twimg.com/amplify_video/2037194196323299328/vid/avc1/720x720/R-oZM9_W24kS_TBK.mp4?tag=21",
+          "bitrate": 1280000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 202851,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 68,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2037190526504755702",
+      "text": "RT @shiri_shh: Grok will now power every ranking decision on X.\n\nIt will \"read\" posts, watch videos, and score them in real-time based on w…",
+      "created_at": "Thu Mar 26 15:30:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037087150743724238",
+        "text": "Grok will now power every ranking decision on X.\n\nIt will \"read\" posts, watch videos, and score them in real-time based on what you will love.\n\nRuns on 20K+ GPUs to analyze hundreds of millions of posts daily in real-time + OPEN SOURCE algorithm.\n\nX is basically becoming the most transparent + smartest social app.",
+        "created_at": "Thu Mar 26 08:39:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037087003972689920",
+            "url": "https://pbs.twimg.com/media/HEUv1lBbYAA0Tzc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2010062264976736482",
+          "text": "We will make the new 𝕏 algorithm, including all code used to determine what organic and advertising posts are recommended to users, open source in 7 days. \n\nThis will be repeated every 4 weeks, with comprehensive developer notes, to help you understand what changed.",
+          "created_at": "Sat Jan 10 18:52:43 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 237519402,
+            "friends_count": 1304,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 14312,
+            "favorite_count": 177760,
+            "reply_count": 12146,
+            "quote_count": 3074
+          }
+        },
+        "user": {
+          "id": "2940321003",
+          "name": "shirish",
+          "screen_name": "shiri_shh",
+          "description": "AI | Tech | Startups ▪︎ Locked in ▪︎ https://t.co/fRlOjnbxgz — helping X users collab with their fave brands | DM for collabs 📩",
+          "followers_count": 24120,
+          "friends_count": 1151,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 351,
+          "favorite_count": 2417,
+          "reply_count": 496,
+          "quote_count": 79
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237519402,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 351,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037189657948029193",
+      "text": "RT @yan5xu: 大家与其看所谓的 manus 虚拟故事，不如我给大家讲讲真实的事情发展。\n\n作为前员工和做过传统行业，和国央企，市区县一级政府深度打过交道的人。大家对两者都有不同程度的误解，这些误解有些来自于信息的缺失，有些则完全是偏见和想象。我只能说这场风波里 man…",
+      "created_at": "Thu Mar 26 15:27:18 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2037177347032457257",
+        "text": "大家与其看所谓的 manus 虚拟故事，不如我给大家讲讲真实的事情发展。\n\n作为前员工和做过传统行业，和国央企，市区县一级政府深度打过交道的人。大家对两者都有不同程度的误解，这些误解有些来自于信息的缺失，有些则完全是偏见和想象。我只能说这场风波里 manus 和中国政府都是不完美的受害者。\n\n很多人已经忘记了，manus 第一次面临来次政府的压力，不是中国而是美国。25年 3月，manus 爆火，4月末，benchmark 领投 $7500万，转瞬五月中，美国财政部就问询 benchmark，内容是这笔投资是否属于针对“关注国家”先进技术（如人工智能）投资的新限制范围。\n\n那个时刻，大模型，确实只有anthropic，openai，gemini。开源模型一个能打的都没有。美国同时又是资金最充沛，用户付费意愿最高的市场。可在中美脱轨背景下，美国不太能容下中国公司拿着美国人的投资挣美国人的钱。\n\n很多人不知道，就在 benchmark 投资后，美国问询前，内部有过一次 all hands 大会，那时候 red 很骄傲地说，他的愿景是做一个被世界认可的“中国公司”；没错，很难想一个大家现在快被黑成什么的人，其实抱着赤子之心的。\n\n但现实真的很难。那次问询几乎把 manus 逼上绝路。拒绝美国，不仅是拒绝整个美国的资本和市场，还等同于让当时绝对依赖闭源 sota 模型的 manus 在产品上自杀。而 manus 的成功已经就是肉眼可见的，那种具体清晰的果实给人的诱惑，无法抗拒。\n\n而在国内，3月的全民欢呼，已经让 manus 和某种情绪有了联系。manus 的Logo出现在各种官媒上，甚至是CCTV，稍微有点政治敏感度，都会知道这背后，是来自官方的认可，而认可背后，就代表这，manus的背离要打这些所有人的脸。一根筋变两头堵。\n\n世界是如此荒谬，manus 每一次的困境，都是因为成功造成的。\n\n于是就有了七月份搬到新加坡的决策。这个决策怎么形成的，无从得知。但没有发生所谓，把中国团队直接裁掉，当时的策略是，在EP（工作签）可以满足的情况下，能够去新加坡都去。不能去的，顶格赔偿。除了搬去新加坡这件事情上，对于员工的处理无可指责。\n\n而且在问询前，团队定的基调是要迅速扩张，七月份走的人，绝大部分，是manus三月份火了之后，招进来，这批员工，不仅拿到大礼包，而且因为当时正值 manus 如日当天，很多人都靠这段经历，转身就进了大厂。",
+        "created_at": "Thu Mar 26 14:38:23 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "115897222",
+          "name": "yan5xu",
+          "screen_name": "yan5xu",
+          "description": "🤖 AI 野生研究员 | ex @ManusAI_HQ & @hey_im_monica\n推特内容仅代表个人观点，和公司无关",
+          "followers_count": 14405,
+          "friends_count": 431,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 144,
+          "reply_count": 17,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 202851,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037189106040791284",
+      "text": "RT @alexisohanian: @LamarMK Yes. This. Love my cybertruck but businessdads need 3 rows for all the fam.",
+      "created_at": "Thu Mar 26 15:25:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037174593962553744",
+        "text": "@LamarMK Yes. This. Love my cybertruck but businessdads need 3 rows for all the fam.",
+        "created_at": "Thu Mar 26 14:27:26 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "811350",
+          "name": "Alexis Ohanian 🗽",
+          "screen_name": "alexisohanian",
+          "description": "Business Dad: @SevenSevenSix ♻️ @776Foundation\nOwner 🏃🏿‍♀️@athlos 🦁 @ChelseaFCW ⛳ @weareLAGC\n⚽️ @weareangelcity 🏐 @lovblosangeles",
+          "followers_count": 618499,
+          "friends_count": 7845,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 143,
+          "favorite_count": 1680,
+          "reply_count": 183,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237519402,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 143,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037188180932518006",
+      "text": "RT @Tesla: You’ll tell your kids about driving yourself the same way your parents told you they walked to school in the snow",
+      "created_at": "Thu Mar 26 15:21:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037054656627826964",
+        "text": "You’ll tell your kids about driving yourself the same way your parents told you they walked to school in the snow",
+        "created_at": "Thu Mar 26 06:30:51 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24730223,
+          "friends_count": 56,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1181,
+          "favorite_count": 7325,
+          "reply_count": 602,
+          "quote_count": 100
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237519402,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1181,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037178447110561807",
+      "text": "Imagine",
+      "created_at": "Thu Mar 26 14:42:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037175238983622791",
+        "text": "Following the announcement of Sora’s shutdown, here’s how standalone AI video generation traffic evolved over the past 12 months.\n\nSora traffic includes only its official domains (https://t.co/vMIIVocu4Y and https://t.co/8p96loFZ4D). \n\nGrok Imagine reflects activity on https://t.co/gaxv74n1YA.",
+        "created_at": "Thu Mar 26 14:30:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037146769327611904",
+            "url": "https://pbs.twimg.com/media/HEVmMYUbYAAyIYa.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "24683972",
+          "name": "Similarweb",
+          "screen_name": "Similarweb",
+          "description": "The World’s Leading AI-Powered Digital Data Company. Listed on @NYSE: $SMWB",
+          "followers_count": 61356,
+          "friends_count": 287,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 73,
+          "favorite_count": 524,
+          "reply_count": 119,
+          "quote_count": 45
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237519402,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1237,
+        "favorite_count": 10044,
+        "reply_count": 1835,
+        "quote_count": 87
+      }
+    },
+    {
+      "id": "2037177401856451010",
+      "text": "RT @mattvanswol: 🚨#BREAKING: It has been revealed that Thomas Haynes, the man who ran a stop sign k*lling a 23 year old woman in Charlotte…",
+      "created_at": "Thu Mar 26 14:38:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037166609358323732",
+        "text": "🚨#BREAKING: It has been revealed that Thomas Haynes, the man who ran a stop sign k*lling a 23 year old woman in Charlotte NC...\n\n...HAS BEEN ARRESTED 25 TIMES WITH OVER 100+ CHARGES!!!\n\nHaynes was LET OUT OF PRISON on bond by a Charlotte NC judge just weeks before... https://t.co/GZ0X3diNf2",
+        "created_at": "Thu Mar 26 13:55:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037166091689164800",
+            "url": "https://video.twimg.com/amplify_video/2037166091689164800/vid/avc1/1920x1080/T6lr1KeuLv3K9NPJ.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1244068896157708289",
+          "name": "Matt Van Swol",
+          "screen_name": "mattvanswol",
+          "description": "Former Nuclear Scientist for US Dept of Energy | Ex-Photographer for @apple, @united, and @hyatt",
+          "followers_count": 487058,
+          "friends_count": 7769,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9380,
+          "favorite_count": 26899,
+          "reply_count": 1268,
+          "quote_count": 367
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237519402,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 9380,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2037174210414465417",
       "text": "一般不需要专门的 skills 管理器，一个简单的原则：\n1. 只有到处要用的 skills 安装在全局\n2. 其他的都安装在项目级别互不干扰\n\n然后不同的事情在不同的项目做就好了",
