@@ -1,12 +1,61 @@
 {
   "date": "20260326",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-26T12:20:23.192592",
-  "tweet_count": 223,
-  "unique_tweet_count": 223,
+  "last_crawl_time": "2026-03-26T14:34:19.727802",
+  "tweet_count": 224,
+  "unique_tweet_count": 224,
   "total_crawled": 423,
-  "duplicates_removed": 200,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2037174210414465417",
+      "text": "一般不需要专门的 skills 管理器，一个简单的原则：\n1. 只有到处要用的 skills 安装在全局\n2. 其他的都安装在项目级别互不干扰\n\n然后不同的事情在不同的项目做就好了",
+      "created_at": "Thu Mar 26 14:25:55 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037097521198358793",
+        "text": "@dotey 那最后每个人有很多skill，还要搞一个skill管理器",
+        "created_at": "Thu Mar 26 09:21:11 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "925888979404079105",
+          "name": "Dr.Dre",
+          "screen_name": "aslin119",
+          "description": "兼听则明，偏信则暗。",
+          "followers_count": 54,
+          "friends_count": 144,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 202774,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2037086819117052191",
       "text": "Hmm",
