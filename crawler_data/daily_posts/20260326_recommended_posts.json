@@ -1,12 +1,420 @@
 {
   "date": "20260326",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-26T06:27:13.103937",
-  "tweet_count": 213,
-  "unique_tweet_count": 213,
-  "total_crawled": 408,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-03-26T08:25:26.119663",
+  "tweet_count": 221,
+  "unique_tweet_count": 221,
+  "total_crawled": 413,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2037083023909544235",
+      "text": "https://t.co/lKYgoCnaRn",
+      "created_at": "Thu Mar 26 08:23:34 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2037074353716699136",
+          "url": "https://video.twimg.com/amplify_video/2037074353716699136/vid/avc1/720x720/UNol5sN17SrH62f2.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237483278,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 35,
+        "favorite_count": 236,
+        "reply_count": 150,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2037082880514666885",
+      "text": "RT @CMS_Flash: 1. Understanding and generating videos are mutually beneficial. They are the training materials for physics and embodied AI,…",
+      "created_at": "Thu Mar 26 08:23:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036908185412677993",
+        "text": "1. Understanding and generating videos are mutually beneficial. They are the training materials for physics and embodied AI, e.g. Optimus.\n2. Real-time video generation is the most direct and flexible AI-native user interface. It's possible that it will subsume all frontend UIs.",
+        "created_at": "Wed Mar 25 20:48:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2036867079651967339",
+          "text": "@elonmusk How so? What’s the goal with image generation, beyond creating content for social media?",
+          "created_at": "Wed Mar 25 18:05:29 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319992403978342402",
+            "name": "𝕋𝕒𝕧𝕚",
+            "screen_name": "tavi_chocochip",
+            "description": "Researcher by nature, trying to figure things out. If that works out, I might tweet abt it. I tend to call out logically-inconsistent stuff; it’s not personal.",
+            "followers_count": 1851,
+            "friends_count": 283,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 0,
+            "favorite_count": 135,
+            "reply_count": 83,
+            "quote_count": 3
+          }
+        },
+        "user": {
+          "id": "4891116613",
+          "name": "Shen Zhuoran",
+          "screen_name": "CMS_Flash",
+          "description": "Reasoning/coding @xai. Ex-@GoogleAI Resident/@augmentcode. Alum @HKUniversity. 💎 Terran @StarCraft II. Views are personal.",
+          "followers_count": 2785,
+          "friends_count": 210,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 20,
+          "favorite_count": 160,
+          "reply_count": 24,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237483278,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037075549433233695",
+      "text": "RT @ksorbs: 4 White British girls were sexually assaulted by 18 migrants over the course of 24 hours and the media says nothing.\n\nDo you ge…",
+      "created_at": "Thu Mar 26 07:53:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2036914772327973215",
+        "text": "4 White British girls were sexually assaulted by 18 migrants over the course of 24 hours and the media says nothing.\n\nDo you get it yet",
+        "created_at": "Wed Mar 25 21:15:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2036774325898850327",
+          "text": "It’s midday and I have been told about 4 sexual assaults in the past 24hrs. All white British 🇬🇧 girls, all under 18 by foreign invaders! Yet.. they keep on coming… and Starmer stays silent! @pinkladies_uk @Keir_Starmer https://t.co/XbWBSceKZo",
+          "created_at": "Wed Mar 25 11:56:55 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2036773909429624832",
+              "url": "https://video.twimg.com/amplify_video/2036773909429624832/vid/avc1/2160x3840/vbzQ5DaCNConO2Ec.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1884042356833280004",
+            "name": "Orla Minihane",
+            "screen_name": "orlaminihane",
+            "description": "Restore Britain 🇬🇧 Spokeswoman for the safety of Women and Children. Pink Lady and trustee of The Rhiannon Whyte Foundation 🩷 instagram- orla minihane🎗️",
+            "followers_count": 46890,
+            "friends_count": 762,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 5892,
+            "favorite_count": 17014,
+            "reply_count": 653,
+            "quote_count": 195
+          }
+        },
+        "user": {
+          "id": "33608041",
+          "name": "Kevin Sorbo",
+          "screen_name": "ksorbs",
+          "description": "Actor, director, producer, author.",
+          "followers_count": 2610861,
+          "friends_count": 658,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3115,
+          "favorite_count": 7777,
+          "reply_count": 357,
+          "quote_count": 61
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237483278,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3115,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037073191475306999",
+      "text": "RT @MarioNawfal: Reach for the Moon with Grok Imagine. Twice the magic.\n\nDoubled down. You’ll feel it.\n\nDon’t miss it. Stay updated. https:…",
+      "created_at": "Thu Mar 26 07:44:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037054442420543788",
+        "text": "Reach for the Moon with Grok Imagine. Twice the magic.\n\nDoubled down. You’ll feel it.\n\nDon’t miss it. Stay updated. https://t.co/iaiWdbNO5f",
+        "created_at": "Thu Mar 26 06:30:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037039346625249280",
+            "url": "https://video.twimg.com/amplify_video/2037039346625249280/vid/avc1/720x720/NAkJLKRWz1UgSRTO.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2036693879270064369",
+          "text": "The next @Grok Imagine release will be epic. \n\nWe are doubling down.",
+          "created_at": "Wed Mar 25 06:37:15 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 237483278,
+            "friends_count": 1304,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 6703,
+            "favorite_count": 97920,
+            "reply_count": 8217,
+            "quote_count": 757
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+          "followers_count": 3246145,
+          "friends_count": 50935,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 128,
+          "favorite_count": 628,
+          "reply_count": 172,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237483278,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 128,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037073045664530822",
+      "text": "Starbase is overworldly",
+      "created_at": "Thu Mar 26 07:43:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031157259388977295",
+        "text": "Starbase at night as @SpaceX prepares for preflight testing. https://t.co/wZ6i7qR4IT",
+        "created_at": "Mon Mar 09 23:56:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031157250501345280",
+            "url": "https://pbs.twimg.com/media/HDAewf8XgAAuLLN.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1917716982465716227",
+          "name": "StarbaseTX",
+          "screen_name": "StarbaseTX",
+          "description": "Located on the southern tip of Texas, Starbase is the newest city in the Rio Grande Valley",
+          "followers_count": 52467,
+          "friends_count": 5,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 391,
+          "favorite_count": 3374,
+          "reply_count": 173,
+          "quote_count": 34
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237483278,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 939,
+        "favorite_count": 9915,
+        "reply_count": 1187,
+        "quote_count": 52
+      }
+    },
+    {
+      "id": "2037068971372060856",
+      "text": "RT @DogecoinNorway: Vikings in the Mist!\n30-second extended video from Grok Imagine\n\nUpdate your Grok app ! It just gets better and better…",
+      "created_at": "Thu Mar 26 07:27:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037056426024312903",
+        "text": "Vikings in the Mist!\n30-second extended video from Grok Imagine\n\nUpdate your Grok app ! It just gets better and better with every update. https://t.co/ULRMKgnSxQ",
+        "created_at": "Thu Mar 26 06:37:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037056114186215428",
+            "url": "https://video.twimg.com/amplify_video/2037056114186215428/vid/avc1/720x1072/0ksSOkgXIb9hSeIm.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1376473924842758147",
+          "name": "Doge Norway",
+          "screen_name": "DogecoinNorway",
+          "description": "Shitposter",
+          "followers_count": 44327,
+          "friends_count": 2271,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 132,
+          "favorite_count": 711,
+          "reply_count": 193,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237483278,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 132,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037068353635004606",
+      "text": "https://t.co/DesQs4Pa5C",
+      "created_at": "Thu Mar 26 07:25:17 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2037036464928931840",
+          "url": "https://video.twimg.com/amplify_video/2037036464928931840/vid/avc1/954x720/LwHtejrl3Jszg4jC.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237483278,
+        "friends_count": 1304,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1269,
+        "favorite_count": 10014,
+        "reply_count": 2442,
+        "quote_count": 165
+      }
+    },
     {
       "id": "2037052939433545970",
       "text": "RT @nickshirleyy: Welcome to Holly Angles Hospice, this is the Learing Center of California's hospice fraud.\n\nFraudsters use:\n- Elderly\n- C…",
@@ -10500,6 +10908,55 @@
         "retweet_count": 18,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2035576789779591561",
+      "text": "这个不用走浏览器插件，小龙虾🦞 / Claude Code 这些Agent可以直接用\nhttps://t.co/q2oe4fLgRS",
+      "created_at": "Sun Mar 22 04:38:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2035575936226312432",
+        "text": "@dotey 这个和 Obsidian 的剪藏插件的区别是什么呢，那个现在也可以支持剪藏字幕的",
+        "created_at": "Sun Mar 22 04:34:57 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1680532920413609987",
+          "name": "阿蔺A-Lin",
+          "screen_name": "alin_zone",
+          "description": "📢 我是阿蔺A-Lin，阿是 a，蔺是 lin，放一起就是阿蔺 A-Lin\n💻 小白保姆级教程，让普通小白也能享受到 AI 的便利\n✍️ 专注分享 AI 前沿资讯、工具产品使用推荐\n📩 商业合作 DM | 公众号：阿蔺 A-Lin",
+          "followers_count": 3710,
+          "friends_count": 408,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 202532,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 15,
+        "reply_count": 6,
         "quote_count": 0
       }
     },
