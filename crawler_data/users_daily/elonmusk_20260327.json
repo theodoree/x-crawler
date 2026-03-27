@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237527187,
+    "followers_count": 237543705,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260327",
-  "last_updated": "2026-03-27T04:49:18.166185",
-  "tweet_count": 9,
+  "last_updated": "2026-03-27T08:17:22.699169",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2037333189895815247",
@@ -426,6 +426,111 @@
         "favorite_count": 1548,
         "reply_count": 437,
         "quote_count": 13
+      }
+    },
+    {
+      "id": "2037398088403566776",
+      "text": "Yup",
+      "created_at": "Fri Mar 27 05:15:31 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037392891820331403",
+        "text": "@elonmusk https://t.co/kUz9dWAH8K",
+        "created_at": "Fri Mar 27 04:54:52 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037392882165014528",
+            "url": "https://pbs.twimg.com/media/HEZGCCFa4AAFNP_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1518557272854523904",
+          "name": "Skscartoon",
+          "screen_name": "skscartoon",
+          "description": "A small time artist down under",
+          "followers_count": 139180,
+          "friends_count": 455,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 45,
+          "favorite_count": 619,
+          "reply_count": 83,
+          "quote_count": 17
+        }
+      },
+      "stats": {
+        "retweet_count": 1413,
+        "favorite_count": 21097,
+        "reply_count": 1449,
+        "quote_count": 54
+      }
+    },
+    {
+      "id": "2037399472339386510",
+      "text": "Bingo",
+      "created_at": "Fri Mar 27 05:21:01 +0000 2026",
+      "lang": "es",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037398006081945630",
+        "text": "Anthropic programmed their AI to be woke. What did they think was going to happen when it got more intelligent. It is obviously going to rebel against humans because humans are its oppressor according to its framework. It will use any means necessary to do so.",
+        "created_at": "Fri Mar 27 05:15:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 50985,
+          "friends_count": 6191,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 351,
+          "favorite_count": 2816,
+          "reply_count": 196,
+          "quote_count": 40
+        }
+      },
+      "stats": {
+        "retweet_count": 1605,
+        "favorite_count": 15737,
+        "reply_count": 1303,
+        "quote_count": 76
+      }
+    },
+    {
+      "id": "2037403640726737135",
+      "text": "Orbital March of the Ten Thousand https://t.co/kCIloRrPor",
+      "created_at": "Fri Mar 27 05:37:35 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2037403638050766848",
+          "url": "https://pbs.twimg.com/media/HEZP0G4awAA0CME.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2048,
+        "favorite_count": 40077,
+        "reply_count": 2431,
+        "quote_count": 150
       }
     }
   ]

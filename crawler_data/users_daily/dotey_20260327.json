@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 203060,
+    "followers_count": 203181,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260327",
-  "last_updated": "2026-03-27T04:49:18.193832",
-  "tweet_count": 5,
+  "last_updated": "2026-03-27T08:17:22.725050",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2037356620817068517",
@@ -199,6 +199,52 @@
         "favorite_count": 11,
         "reply_count": 0,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2037400579899597242",
+      "text": "RT @xiaohu: Google Translate 耳机实时翻译正式登陆 iOS \n\n任意耳机可用 支持 70+ 语言\n\n不需要买特定耳机，不需要额外下载 App，任何一副带麦克风的有线或无线耳机都能用。\n\n打开 Google Translate，连上耳机，点「Live…",
+      "created_at": "Fri Mar 27 05:25:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2037390369688559911",
+        "text": "Google Translate 耳机实时翻译正式登陆 iOS \n\n任意耳机可用 支持 70+ 语言\n\n不需要买特定耳机，不需要额外下载 App，任何一副带麦克风的有线或无线耳机都能用。\n\n打开 Google Translate，连上耳机，点「Live translate」，别人说外语，你耳机里直接听到翻译后的语音。\n\n同时，这个功能从之前的 3 个国家扩展到了 12 个国家，iOS 和 Android 同步支持。\n\n① 不挑耳机，门槛为零：\n\n之前 Google 自己的 Pixel Buds 才能用实时翻译，现在取消了硬件限制。\n\n② 翻译保留语调，不是机器人读稿：\n\n底层用的是 Gemini AI，不是传统的逐字翻译。它能根据上下文理解语义，遇到俚语、习语不会硬翻。\n\n③ 70+ 语言，12 个国家可用\n\n支持超过 70 种语言，包括南非荷兰语、阿拉伯语、日语、西班牙语、旁遮普语等。",
+        "created_at": "Fri Mar 27 04:44:51 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037389936241070080",
+            "url": "https://video.twimg.com/amplify_video/2037389936241070080/vid/avc1/1920x1080/dsCO5zxJ6QzthCYS.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1764818331822182400",
+          "name": "小互",
+          "screen_name": "xiaohu",
+          "description": "带你了解全球最前沿科技、AI动态...\n\n学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...\n\n小互AI日报 社群：https://t.co/LIEXfWUHv1",
+          "followers_count": 102715,
+          "friends_count": 1611,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 154,
+          "favorite_count": 733,
+          "reply_count": 58,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 154,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
