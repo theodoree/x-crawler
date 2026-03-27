@@ -1,0 +1,74 @@
+{
+  "url": "https://x.com/i/api/graphql/xNGIIoXaz9DyeBXBfn3AjA/HomeLatestTimeline",
+  "timestamp": "2026-03-27T06:28:24.279906",
+  "status": 200,
+  "headers": {
+    "Date": "Fri, 27 Mar 2026 06:28:24 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "281",
+    "Connection": "keep-alive",
+    "perf": "7402827104",
+    "Server": "cloudflare envoy",
+    "Set-Cookie": "lang=en; Path=/, guest_id=v1%3A177459290378332043; Max-Age=34214400; Expires=Tue, 27 Apr 2027 06:28:24 GMT; Path=/; Domain=.x.com; Secure; SameSite=None, __cf_bm=J3xl0px5lYZGdwW3x31AJhwAvJTmkj2K5d87UshXBNE-1774592903.7664845-1.0.1.1-i81N29xEfEx9dMueVaj9We4xf4FJgA2UNVD6rIhDeksHObmXtVF80.63wp8nN0aLPBWt.flkCXrGR.UFGH4AIyhNE4xxi1IWPGR0eBWtJK0Gws_dWU..nn1BSiykHhaH; HttpOnly; Secure; Path=/; Domain=x.com; Expires=Fri, 27 Mar 2026 06:58:24 GMT",
+    "x-trace-id": "00000000000000007a685856b9fc754a",
+    "Cache-Control": "no-cache, no-store, max-age=0",
+    "x-transaction-id": "7a685856b9fc754a",
+    "x-rate-limit-limit": "500",
+    "x-rate-limit-reset": "1774593803",
+    "x-rate-limit-remaining": "499",
+    "Content-Encoding": "gzip",
+    "x-response-time": "487",
+    "origin-cf-ray": "9e2c55b08a64eb36-SJC",
+    "strict-transport-security": "max-age=631138519; includeSubdomains",
+    "x-served-by": "t4_p",
+    "access-control-allow-origin": "https://x.com",
+    "access-control-expose-headers": "X-Acted-As-User-Id,X-Rate-Limit-Limit,X-Rate-Limit-Remaining,X-Rate-Limit-Reset,X-TD-Mtime",
+    "cf-cache-status": "DYNAMIC",
+    "vary": "accept-encoding",
+    "CF-RAY": "9e2c55b08a64eb36-SJC"
+  },
+  "params": {
+    "variables": "{\"count\": 20, \"includePromotedContent\": true, \"latestControlAvailable\": true, \"requestContext\": \"launch\", \"withCommunity\": true}",
+    "features": "{\"rweb_video_screen_enabled\": false, \"payments_enabled\": false, \"profile_label_improvements_pcf_label_in_post_enabled\": true, \"rweb_tipjar_consumption_enabled\": true, \"verified_phone_label_enabled\": false, \"creator_subscriptions_tweet_preview_api_enabled\": true, \"responsive_web_graphql_timeline_navigation_enabled\": true, \"responsive_web_graphql_skip_user_profile_image_extensions_enabled\": false, \"premium_content_api_read_enabled\": false, \"communities_web_enable_tweet_community_results_fetch\": true, \"c9s_tweet_anatomy_moderator_badge_enabled\": true, \"responsive_web_grok_analyze_button_fetch_trends_enabled\": false, \"responsive_web_grok_analyze_post_followups_enabled\": true, \"responsive_web_jetfuel_frame\": true, \"responsive_web_grok_share_attachment_enabled\": true, \"articles_preview_enabled\": true, \"responsive_web_edit_tweet_api_enabled\": true, \"graphql_is_translatable_rweb_tweet_is_translatable_enabled\": true, \"view_counts_everywhere_api_enabled\": true, \"longform_notetweets_consumption_enabled\": true, \"responsive_web_twitter_article_tweet_consumption_enabled\": true, \"tweet_awards_web_tipping_enabled\": false, \"responsive_web_grok_show_grok_translated_post\": false, \"responsive_web_grok_analysis_button_from_backend\": true, \"creator_subscriptions_quote_tweet_preview_enabled\": false, \"freedom_of_speech_not_reach_fetch_enabled\": true, \"standardized_nudges_misinfo\": true, \"tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled\": true, \"longform_notetweets_rich_text_read_enabled\": true, \"longform_notetweets_inline_media_enabled\": true, \"responsive_web_grok_image_annotation_enabled\": true, \"responsive_web_grok_imagine_annotation_enabled\": true, \"responsive_web_grok_community_note_auto_translation_is_enabled\": false, \"responsive_web_enhance_cards_enabled\": false}"
+  },
+  "data": {
+    "data": {
+      "home": {
+        "home_timeline_urt": {
+          "instructions": [
+            {
+              "entries": [
+                {
+                  "content": {
+                    "__typename": "TimelineTimelineCursor",
+                    "cursorType": "Top",
+                    "entryType": "TimelineTimelineCursor",
+                    "value": "DAABCgABHEZbch7AJxEIAAMAAAABAAA"
+                  },
+                  "entryId": "cursor-top-2037416427132026881",
+                  "sortIndex": "2037416427132026881"
+                },
+                {
+                  "content": {
+                    "__typename": "TimelineTimelineCursor",
+                    "cursorType": "Bottom",
+                    "entryType": "TimelineTimelineCursor",
+                    "value": "DAABCgABHEZbch6___4IAAMAAAACAAA"
+                  },
+                  "entryId": "cursor-bottom-2037416427132026880",
+                  "sortIndex": "2037416427132026880"
+                }
+              ],
+              "type": "TimelineAddEntries"
+            }
+          ],
+          "metadata": {
+            "scribeConfig": {
+              "page": "following"
+            }
+          }
+        }
+      }
+    }
+  }
+}
