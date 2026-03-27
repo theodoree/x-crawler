@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 203406,
+    "followers_count": 203411,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260327",
-  "last_updated": "2026-03-27T18:20:08.487471",
-  "tweet_count": 6,
+  "last_updated": "2026-03-27T20:11:44.469155",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2037356620817068517",
@@ -244,6 +244,45 @@
         "retweet_count": 154,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037601121087209653",
+      "text": "OpenAI 亚太团队招聘",
+      "created_at": "Fri Mar 27 18:42:18 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037549841572901168",
+        "text": "The @OpenAI APAC team is looking for builders who want to shape how people and businesses engage with AI.\n\nMy colleague is hiring for:\n\n- Head of Events, APAC \n- Social Marketing Lead, Japan\n- Social Marketing Lead, Korea\n- APAC Events Manager, Singapore (Contract)\n- Events Manager, Korea (Contract)\n- Dev & Startup Marketing, APAC (Contract)\n- Dev & Startup Marketing, Japan (Contract)\n\nThese roles sit at the intersection of product, storytelling, and real-world impact across some of our fastest-growing markets.",
+        "created_at": "Fri Mar 27 15:18:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "950683852497965056",
+          "name": "Gabriel Chua",
+          "screen_name": "gabrielchua",
+          "description": "Developer Experience, Codex @OpenAI || Opinions my own",
+          "followers_count": 5950,
+          "friends_count": 1178,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 12,
+          "favorite_count": 117,
+          "reply_count": 9,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "reply_count": 2,
         "quote_count": 0
       }
     }
