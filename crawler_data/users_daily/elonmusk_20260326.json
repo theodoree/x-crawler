@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237527125,
+    "followers_count": 237522636,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260326",
-  "last_updated": "2026-03-26T22:07:47.150744",
-  "tweet_count": 32,
+  "last_updated": "2026-03-27T00:25:06.579674",
+  "tweet_count": 37,
   "tweets": [
     {
       "id": "2036972742218834073",
@@ -1482,6 +1482,255 @@
       "quoted": null,
       "stats": {
         "retweet_count": 153,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037312870699208893",
+      "text": "Banger",
+      "created_at": "Thu Mar 26 23:36:54 +0000 2026",
+      "lang": "in",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037279308192850305",
+        "text": "https://t.co/oS6Q4gA893",
+        "created_at": "Thu Mar 26 21:23:32 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037279305080725505",
+            "url": "https://pbs.twimg.com/media/HEXeu-eXYAEQCzL.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1098091506886471680",
+          "name": "Lara Logan",
+          "screen_name": "laralogan",
+          "description": "Award-winning Investigative Journalist. New podcast, 'Going Rogue with Lara Logan' out now on all platforms. https://t.co/CFByHNUBy0",
+          "followers_count": 1338171,
+          "friends_count": 13745,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 962,
+          "favorite_count": 4932,
+          "reply_count": 264,
+          "quote_count": 52
+        }
+      },
+      "stats": {
+        "retweet_count": 4257,
+        "favorite_count": 37809,
+        "reply_count": 1892,
+        "quote_count": 170
+      }
+    },
+    {
+      "id": "2037313108633596231",
+      "text": "RT @Teslaconomics: Tesla is hands down the most exciting company in the world. No other company makes me this excited about the future. It’…",
+      "created_at": "Thu Mar 26 23:37:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037294720444170652",
+        "text": "Tesla is hands down the most exciting company in the world. No other company makes me this excited about the future. It’s a once-in-a-generation company. https://t.co/Zv224rlzBC",
+        "created_at": "Thu Mar 26 22:24:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037294710197514240",
+            "url": "https://pbs.twimg.com/media/HEXsvrAa8AAG-KP.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "985243593538338816",
+          "name": "Teslaconomics",
+          "screen_name": "Teslaconomics",
+          "description": "I post my conscious thoughts w/ the world, live to the fullest, keep things simple, truthful & filter the noise. Long-term investor in Tesla, SpaceX, xAI/X.",
+          "followers_count": 497549,
+          "friends_count": 220,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 231,
+          "favorite_count": 1388,
+          "reply_count": 207,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 231,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037313836928356520",
+      "text": "RT @TheBabylonBee: Terrorists Give Up After Three Hours In TSA Line https://t.co/KITZu7OMD1 https://t.co/unr8mh0WIF",
+      "created_at": "Thu Mar 26 23:40:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2036473144383320064",
+          "url": "https://pbs.twimg.com/media/HEMBiP2XMAAa3Ok.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2036473146837025196",
+        "text": "Terrorists Give Up After Three Hours In TSA Line https://t.co/KITZu7OMD1 https://t.co/unr8mh0WIF",
+        "created_at": "Tue Mar 24 16:00:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036473144383320064",
+            "url": "https://pbs.twimg.com/media/HEMBiP2XMAAa3Ok.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4914384040",
+          "name": "The Babylon Bee",
+          "screen_name": "TheBabylonBee",
+          "description": "Fake news you can trust 🐝",
+          "followers_count": 5232681,
+          "friends_count": 10,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1355,
+          "favorite_count": 11938,
+          "reply_count": 156,
+          "quote_count": 60
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1355,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037314254454526351",
+      "text": "RT @RealSLokhova: Obama’s spokesman: “It’s not enough to simply beat Trump. He must be destroyed thoroughly. His kind must never rise again…",
+      "created_at": "Thu Mar 26 23:42:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037096491991654494",
+        "text": "Obama’s spokesman: “It’s not enough to simply beat Trump. He must be destroyed thoroughly. His kind must never rise again”. \n\nThis is how you got Obama’s third term (laughingly known as the Biden presidency) with all its lawfare, censorship, attacks on private citizens \n\nAnd without accountability, it will happen again as nothing has changed",
+        "created_at": "Thu Mar 26 09:17:05 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2036997202619637816",
+          "text": "The goal of Russiagate was to disenfranchise the American electorate. \n\nThe global elites said: “you can vote for whomever you like, as long as it’s someone we chose. If you don’t pick our puppet, we will remove him and punish you”. \n\nNo one has been held to account so it will happen again.",
+          "created_at": "Thu Mar 26 02:42:33 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2036997198152675328",
+              "url": "https://pbs.twimg.com/media/HETeKMRbMAA5JSW.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "860751908943917056",
+            "name": "Svetlana Lokhova",
+            "screen_name": "RealSLokhova",
+            "description": "British Historian and Eyewitness Exposing the Grand Conspiracy Against Pres Trump\nSPYGATE EXPOSED Ebook: https://t.co/uXMaRdVXkn",
+            "followers_count": 149335,
+            "friends_count": 373,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 388,
+            "favorite_count": 860,
+            "reply_count": 55,
+            "quote_count": 18
+          }
+        },
+        "user": {
+          "id": "860751908943917056",
+          "name": "Svetlana Lokhova",
+          "screen_name": "RealSLokhova",
+          "description": "British Historian and Eyewitness Exposing the Grand Conspiracy Against Pres Trump\nSPYGATE EXPOSED Ebook: https://t.co/uXMaRdVXkn",
+          "followers_count": 149335,
+          "friends_count": 373,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 960,
+          "favorite_count": 2480,
+          "reply_count": 188,
+          "quote_count": 38
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 960,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037314724485079052",
+      "text": "RT @jk_rowling: @LudicrousMonica It's going to be incredible. I'm so happy with it.",
+      "created_at": "Thu Mar 26 23:44:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037302187294941184",
+        "text": "@LudicrousMonica It's going to be incredible. I'm so happy with it.",
+        "created_at": "Thu Mar 26 22:54:27 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "62513246",
+          "name": "J.K. Rowling",
+          "screen_name": "jk_rowling",
+          "description": "Author, founder of Lumos and Beira's Place, surname rhymes with bowling, not growling.",
+          "followers_count": 13818839,
+          "friends_count": 1157,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 419,
+          "favorite_count": 8011,
+          "reply_count": 734,
+          "quote_count": 75
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 419,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
