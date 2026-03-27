@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 203011,
+    "followers_count": 203060,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260327",
-  "last_updated": "2026-03-27T03:05:49.383048",
-  "tweet_count": 2,
+  "last_updated": "2026-03-27T04:49:18.193832",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2037356620817068517",
@@ -94,6 +94,111 @@
         "favorite_count": 1,
         "reply_count": 1,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2037369378748944398",
+      "text": "官方已经开源了很多plugins了\nhttps://t.co/6DbPuduKLq",
+      "created_at": "Fri Mar 27 03:21:27 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 12,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037386855432286341",
+      "text": "Anthropic 因 CMS 配置失误，意外泄露了一款尚未发布的新模型信息。Fortune 率先发现并核实了这批存储在公开可访问数据缓存中的草稿文档。\n\n这款模型名为\"Claude Mythos\"，内部代号\"Capybara\"（水豚）。它代表着一个全新的模型层级——比目前最强的 Opus 系列还要更大、更强。Anthropic 现有的产品线分为 Haiku（最小最快）、Sonnet（中间档）、Opus（最大最强）三档，而 Capybara/Mythos 将成为 Opus 之上的第四档。\n\nAnthropic 发言人向 Fortune 确认了模型的存在，称其为\"阶梯式跨越\"（a step change），是\"迄今为止最强的模型\"，目前正由少量早期客户进行测试。\n\n泄露的博客草稿显示，Mythos 在软件编程、学术推理和网络安全等测试中，成绩大幅超越此前最强的 Claude Opus 4.6。尤其在网络安全能力方面，Anthropic 自己的措辞相当惊人——称该模型\"目前远超任何其他 AI 模型\"，并警告它\"预示着一波即将到来的 AI 驱动漏洞利用浪潮，其速度将远超防守方\"。\n\n正因如此，Anthropic 选择了一种非常罕见的发布策略：先向网络安全防御机构开放早期访问，让防守方先获得优势，而非直接面向公众开放。同时，该模型运行成本极高，Anthropic 表示还需大幅优化效率才会考虑广泛发布。\n\n泄露事件本身也值得关注。Anthropic 将原因归结为\"外部 CMS 工具的人为配置错误\"，并否认与 Claude 或其 AI 编码工具有关。同批泄露的文档中还包含一场计划在英国乡村 18 世纪庄园酒店举办的闭门 CEO 峰会细节，这是 Anthropic 向大型企业客户推销 AI 的商务活动。",
+      "created_at": "Fri Mar 27 04:30:53 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037370656854262087",
+        "text": "“ A draft blog post that was available in an unsecured and publicly-searchable data store prior to Thursday evening said the new model is called “Claude Mythos” and that the company believes it poses unprecedented cybersecurity risks. “ https://t.co/OIgXku5gT8",
+        "created_at": "Fri Mar 27 03:26:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037370652097929216",
+            "url": "https://pbs.twimg.com/media/HEYx0EoaYAAa7xD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1417826366687383563",
+          "name": "Jimmy Apples 🍎/acc",
+          "screen_name": "apples_jimmy",
+          "description": "Wagmi. 2025. As featured in Bloomberg. As quoted by Nobel Prize winner Demis Hassabis. As mentioned on the Lex Fridman Podcast💺",
+          "followers_count": 59590,
+          "friends_count": 1820,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 21,
+          "favorite_count": 277,
+          "reply_count": 23,
+          "quote_count": 21
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 19,
+        "reply_count": 5,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2037388326529839508",
+      "text": "OpenAI 一周砍掉三个产品，IPO 前的大扫除开始了。\n\n3 月 24 日关停 Sora 视频应用，同一周放弃 ChatGPT 内置结账功能 Instant Checkout，紧接着又无限期搁置了内部代号\"Citron mode\"的成人聊天功能。三刀下去，把去年高调推出的三条产品线全部清零。\n\n先说 Sora。这款 AI 视频生成应用每天推理成本约 1500 万美元，整个生命周期的应用内购收入只有 210 万美元。上线之初曾冲上 App Store 下载榜首，但从去年 11 月的下载峰值到今年 2 月，下载量暴跌了约 75%。去年 12 月迪士尼刚签了三年合约，还计划向 OpenAI 投资 10 亿美元，现在这笔钱一分没到手，交易直接作废。迪士尼的技术团队周一晚上还在做 Sora 项目，周二就被通知关停。OpenAI 的说法是算力不够用，要把 Sora 团队转去做机器人方向的世界模拟研究。\n\n再说购物。Instant Checkout 去年 9 月上线，Shopify 数百万商家中只有大约 12 家实际接入。沃尔玛的数据显示，用户在 ChatGPT 里直接结账的转化率，比跳转到零售商自己网站结账低了三倍。OpenAI 连基本的销售税征收和库存实时同步都没搞定，做了半年的\"智能体电商\"，现在退回到只做商品搜索和发现，让用户回零售商网站下单。\n\n最后是成人聊天。这个功能原计划去年 12 月发布，但 OpenAI 发现很难让原本回避露骨内容的模型可靠地排除非法行为。一名高级员工因此离职，公司的年龄验证系统错误率超过 10%。目前美国联邦贸易委员会正在调查 AI 聊天机器人对未成年人的潜在伤害，Meta 刚因儿童保护问题被罚了 3.75 亿美元，这个节骨眼上推成人功能，风险太大。\n\n三个产品的共同点：赔钱、没起量、有潜在法律风险。\n\n而这些决定的背景是：OpenAI 今年 2 月年化收入突破 250 亿美元，增速史无前例。但2026 年预计亏损 140 亿美元，现金消耗预计达 170 亿美元。公司最快今年第四季度 IPO，估值目标 8300 亿美元，对应约 65 倍市销率。要在几个月内提交 S-1 招股书，每一个可能上头条的风险产品都是负债。\n\nOpenAI CFO Sarah Friar 本周接受采访时称公司\"面临算力短缺\"，不得不做艰难取舍。公司内部的战略方向很明确：砍掉所有\"支线任务\"，集中资源做生产力工具，也就是 ChatGPT 加编程助手 Codex 的\"超级应用\"路线。",
+      "created_at": "Fri Mar 27 04:36:44 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2037388315096223744",
+          "url": "https://pbs.twimg.com/media/HEZB4MbXkAAaxcp.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2037380094596100364",
+        "text": "Three products killed in seven days. That's the number that tells you where OpenAI actually is right now.\n\nMonday: Instant Checkout scrapped. Only 12 Shopify merchants ever went live. Walmart said conversion rates inside ChatGPT were 3x lower than on their own site. Six months of \"agentic commerce\" produced almost nothing.\n\nTuesday: Sora shut down entirely. Disney's $1 billion investment collapsed before any money changed hands. Their teams were working on Sora projects Monday evening and got blindsided by the announcement 30 minutes later. Downloads had already fallen 32% month over month by December.\n\nThursday: Erotic chatbot shelved indefinitely. Internally called \"Citron mode.\" They couldn't train models that previously avoided explicit content to reliably exclude illegal behavior. A senior employee quit over it. Their age-verification system has a 10%+ error rate.\n\nNow look at the financials behind these decisions. OpenAI hit $25 billion in annualized revenue in February. They're projecting $14 billion in losses for 2026 and $17 billion in cash burn. The IPO is targeting Q4 2026 at an $840 billion valuation. They need to file an S-1 in months.\n\nEvery one of these killed products was a liability on that S-1. E-commerce checkout with no tax compliance infrastructure. A video app burning compute with falling downloads. An adult chatbot while the FTC is investigating AI harm to minors and Meta just got hit with $375 million in a child exploitation case.\n\nThis is what pre-IPO cleanup looks like at $840 billion. You kill everything that creates a headline risk, consolidate into a \"superapp\" that combines ChatGPT, Codex, and Atlas, and pray the coding market is big enough to justify 65x revenue.\n\nThe Pentagon contract was the tell. OpenAI rushed a $200 million defense deal the same day Anthropic got blacklisted, admitted it was sloppy, then spent a week rewriting the terms. That's a company optimizing for one thing: making the investor deck look inevitable before the roadshow starts.",
+        "created_at": "Fri Mar 27 04:04:01 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "101805159",
+          "name": "Aakash Gupta",
+          "screen_name": "aakashgupta",
+          "description": "✍️ https://t.co/8fvSCtBv5Q: $72K/m 💼 https://t.co/STzr4nqxnm: $39K/m 🤝 https://t.co/SqC3jTyP03: $37K/m 🎙️ https://t.co/fmB6Zf5UZv: $30K/m",
+          "followers_count": 208464,
+          "friends_count": 775,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 26,
+          "reply_count": 6,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 11,
+        "reply_count": 0,
+        "quote_count": 1
       }
     }
   ]
