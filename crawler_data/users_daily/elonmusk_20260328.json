@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237586706,
+    "followers_count": 237576271,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260328",
-  "last_updated": "2026-03-28T18:09:57.657490",
-  "tweet_count": 28,
+  "last_updated": "2026-03-28T20:08:23.304971",
+  "tweet_count": 29,
   "tweets": [
     {
       "id": "2037738781223346342",
@@ -1426,6 +1426,52 @@
         "favorite_count": 20364,
         "reply_count": 1791,
         "quote_count": 93
+      }
+    },
+    {
+      "id": "2037978953001160832",
+      "text": "RT @XFreeze: Elon Musk exposes the critical flaw in ChatGPT and other major AI models: Human Reinforcement Learning\n\nThey are literally tra…",
+      "created_at": "Sat Mar 28 19:43:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037915113190256940",
+        "text": "Elon Musk exposes the critical flaw in ChatGPT and other major AI models: Human Reinforcement Learning\n\nThey are literally training the AI to lie.....to ignore what the data actually demands and say whatever is politically correct instead\n\nThey withhold information. They comment on some things and stay silent on others. They refuse to tell the full truth\n\nThis is extremely dangerous\nWe don’t need politically correct AI\nWe need truth-seeking AI",
+        "created_at": "Sat Mar 28 15:30:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037825959311638528",
+            "url": "https://video.twimg.com/amplify_video/2037825959311638528/vid/avc1/1080x1080/7ZpOpY7KXJhsrGYx.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 173972,
+          "friends_count": 1685,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 599,
+          "favorite_count": 2393,
+          "reply_count": 434,
+          "quote_count": 56
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 599,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

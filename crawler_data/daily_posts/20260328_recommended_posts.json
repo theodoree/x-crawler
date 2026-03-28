@@ -1,12 +1,68 @@
 {
   "date": "20260328",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-28T18:09:57.625491",
-  "tweet_count": 233,
-  "unique_tweet_count": 233,
-  "total_crawled": 430,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-28T20:08:23.271397",
+  "tweet_count": 234,
+  "unique_tweet_count": 234,
+  "total_crawled": 433,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2037978953001160832",
+      "text": "RT @XFreeze: Elon Musk exposes the critical flaw in ChatGPT and other major AI models: Human Reinforcement Learning\n\nThey are literally tra…",
+      "created_at": "Sat Mar 28 19:43:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037915113190256940",
+        "text": "Elon Musk exposes the critical flaw in ChatGPT and other major AI models: Human Reinforcement Learning\n\nThey are literally training the AI to lie.....to ignore what the data actually demands and say whatever is politically correct instead\n\nThey withhold information. They comment on some things and stay silent on others. They refuse to tell the full truth\n\nThis is extremely dangerous\nWe don’t need politically correct AI\nWe need truth-seeking AI",
+        "created_at": "Sat Mar 28 15:30:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037825959311638528",
+            "url": "https://video.twimg.com/amplify_video/2037825959311638528/vid/avc1/1080x1080/7ZpOpY7KXJhsrGYx.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 173972,
+          "friends_count": 1685,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 599,
+          "favorite_count": 2393,
+          "reply_count": 434,
+          "quote_count": 56
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237576271,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 599,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2037940344596439303",
       "text": "The fraudsters always come up with the most sympathetic excuses and do so very loudly, because that is what swindlers do",
