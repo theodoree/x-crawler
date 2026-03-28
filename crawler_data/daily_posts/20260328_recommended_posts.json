@@ -1,12 +1,106 @@
 {
   "date": "20260328",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-28T14:12:40.703896",
-  "tweet_count": 229,
-  "unique_tweet_count": 229,
-  "total_crawled": 428,
+  "last_crawl_time": "2026-03-28T16:09:08.291698",
+  "tweet_count": 230,
+  "unique_tweet_count": 230,
+  "total_crawled": 429,
   "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2037912548977107256",
+      "text": "RT @jinchenma_ai: 最近好多小伙伴问，我文章里这样的简笔画插图是怎么做出来的，分享一下我的方法。\n\n1. 装一个宝玉老师@dotey 的生图 skills：https://t.co/Xh3oVRaRAb\n\n里面有两个 skills：\nbaoyu-cover-im…",
+      "created_at": "Sat Mar 28 15:19:48 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2037600889536684038",
+        "text": "最近好多小伙伴问，我文章里这样的简笔画插图是怎么做出来的，分享一下我的方法。\n\n1. 装一个宝玉老师@dotey 的生图 skills：https://t.co/ZolORC9wuJ\n\n里面有两个 skills：\nbaoyu-cover-image 封面生成\nbaoyu-article-illustrator 插图生成\n\n2. 用claude code，使用插件，@你的文章，让 ai 根据你的文章进行生图。\n\n具体的风格，你可以看宝玉老师文档，可以按需选择。\n\n3. 也可以直接描述，想要什么风格的图片，ai 会自动去找到合适的风格生成提示词。\n\n比如，我这篇的插图，我就是这么描述的：\n\n/baoyu-article-illustrator @文章.md  我想对文章生成插图，风格采用简笔画，要简洁，稍微有一点色彩，不要花里胡哨，每一幅图都包含一个金句。比例是16:9。\n\n这样，ai 会自动根据你文章内容，分段构建图片。\n\n当然，你也可以手动描述，图片里要什么元素，要呈现什么内容。一般我会在生成封面图的时候，自己主动描述一下，来保证封面图达到自己想要的效果。然后封面图的比例一般是 2.35:1，这个要指明。\n\n4. 我没有配置生图 api，因为我都是用生图软件的免费积分，所以我会再加上一句：直接生成提示词保存在文件里即可。\n\n5. 用生成好的提示词，到 https://t.co/qg0BVtEaIp 上 @lovart_ai  nano banana pro。每天会有 80 积分，一个账号能免费生成6幅图，准备一两个账号就足够一天的用量的。（lovart 团队抱歉了😂）\n\n6. 如果某一套图的风格你特别喜欢，你可以让ai把这套图的风格总结成一段通用风格提示词，下次再生图，可以直接让ai根据这段风格提示词来生成同样风格的图片了。\n\n我这套简笔画的通用风格提示词我放在评论区，需要的自取。",
+        "created_at": "Fri Mar 27 18:41:23 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037600357287919616",
+            "url": "https://pbs.twimg.com/media/HEcCurJbAAAl5f5.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2037600415722946560",
+            "url": "https://pbs.twimg.com/media/HEcCyE1awAAT99P.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2037600441270448128",
+            "url": "https://pbs.twimg.com/media/HEcCzkAasAAIbgr.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2037600482659856384",
+            "url": "https://pbs.twimg.com/media/HEcC1-Ma8AAtMKG.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2037161520996688068",
+          "text": "https://t.co/W3zz6q1Yeu",
+          "created_at": "Thu Mar 26 13:35:29 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "796179107172257792",
+            "name": "金尘马",
+            "screen_name": "jinchenma_ai",
+            "description": "👨‍💻 前阿里美团程序员，35岁危机前提前跑路\n公开分享转型自救实录\n专注AI内容·AI流量·AI变现（已五位数）\n脱下孔乙己长衫，做新时代引路人 🚀",
+            "followers_count": 2318,
+            "friends_count": 239,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 168,
+            "favorite_count": 886,
+            "reply_count": 50,
+            "quote_count": 29
+          }
+        },
+        "user": {
+          "id": "796179107172257792",
+          "name": "金尘马",
+          "screen_name": "jinchenma_ai",
+          "description": "👨‍💻 前阿里美团程序员，35岁危机前提前跑路\n公开分享转型自救实录\n专注AI内容·AI流量·AI变现（已五位数）\n脱下孔乙己长衫，做新时代引路人 🚀",
+          "followers_count": 2318,
+          "friends_count": 239,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 95,
+          "favorite_count": 424,
+          "reply_count": 9,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203588,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 95,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2037850934274138146",
       "text": "RT @teslaeurope: FSD Supervised handles Amsterdam’s busiest streets with ease",
