@@ -1,12 +1,67 @@
 {
   "date": "20260328",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-28T00:23:42.822589",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-28T03:02:57.006907",
+  "tweet_count": 201,
+  "unique_tweet_count": 201,
+  "total_crawled": 400,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2037707976903905502",
+      "text": "OpenAI 给 ChatGPT Pro 早期订阅者送了个小礼物：一支限量版纪念笔。\n\n这次福利面向前 4000 名填表申领的 Pro 用户，填表不保证资格，部分国家可能无法配送。 https://t.co/zhr17okg3w",
+      "created_at": "Sat Mar 28 01:46:55 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2037707768979931136",
+          "url": "https://pbs.twimg.com/media/HEdka24aQAAQjuH.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2037675909176516692",
+        "text": "https://t.co/AtwbIzqFM1",
+        "created_at": "Fri Mar 27 23:39:29 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "338443084",
+          "name": "Tibor Blaho",
+          "screen_name": "btibor91",
+          "description": "Lead Engineer at @AIPRMcorp (https://t.co/fepyWfV4kA) and @lrt_co (https://t.co/p7LEvIKduG), building AIPRM for ChatGPT & Claude. Signal @ btibor.91",
+          "followers_count": 37850,
+          "friends_count": 2364,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 294,
+          "reply_count": 34,
+          "quote_count": 5
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203465,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 18,
+        "reply_count": 5,
+        "quote_count": 2
+      }
+    },
     {
       "id": "2037659030077030476",
       "text": "RT @Rothmus: Yes. https://t.co/TgRiNmFpe5",
