@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 203588,
+    "followers_count": 203602,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260328",
-  "last_updated": "2026-03-28T16:09:08.322537",
-  "tweet_count": 3,
+  "last_updated": "2026-03-28T18:09:57.679099",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2037707976903905502",
@@ -150,6 +150,61 @@
       "quoted": null,
       "stats": {
         "retweet_count": 95,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037934156009636106",
+      "text": "RT @hidecloud: Today marks the first class at Harvard Business School where the Manus case was taught. Huge thanks to Professor Marco and h…",
+      "created_at": "Sat Mar 28 16:45:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037717372543680694",
+        "text": "Today marks the first class at Harvard Business School where the Manus case was taught. Huge thanks to Professor Marco and his team for all the effort they put into writing this case over the past year. Photo 3 is from almost exactly this time last year, when I first met and spoke with Professor Marco at Harvard. Time flies, yet somehow also crawls.",
+        "created_at": "Sat Mar 28 02:24:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037717330629939200",
+            "url": "https://pbs.twimg.com/media/HEdtHaza0AA5W8v.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2037717330629971968",
+            "url": "https://pbs.twimg.com/media/HEdtHazbUAAKREG.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2037717330629976064",
+            "url": "https://pbs.twimg.com/media/HEdtHazbYAAVjbs.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "754333",
+          "name": "hidecloud",
+          "screen_name": "hidecloud",
+          "description": "Co-founder of @manusai",
+          "followers_count": 28852,
+          "friends_count": 443,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 44,
+          "reply_count": 6,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
