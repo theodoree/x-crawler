@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237613888,
+    "followers_count": 237610950,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260328",
-  "last_updated": "2026-03-28T04:39:50.512921",
-  "tweet_count": 3,
+  "last_updated": "2026-03-28T06:22:36.840235",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2037738781223346342",
@@ -157,6 +157,226 @@
         "favorite_count": 3498,
         "reply_count": 454,
         "quote_count": 28
+      }
+    },
+    {
+      "id": "2037751946283819409",
+      "text": "Mostly true",
+      "created_at": "Sat Mar 28 04:41:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037716980279464110",
+        "text": "https://t.co/0sTGl40BrA",
+        "created_at": "Sat Mar 28 02:22:41 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037716977570152448",
+            "url": "https://pbs.twimg.com/media/HEdsy3jaAAAFijd.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 657902,
+          "friends_count": 2792,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 142,
+          "favorite_count": 817,
+          "reply_count": 69,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 1693,
+        "favorite_count": 14310,
+        "reply_count": 1230,
+        "quote_count": 76
+      }
+    },
+    {
+      "id": "2037755858051059841",
+      "text": "RT @ray4tesla: Judge Kathleen McCormick is the perfect example of our legal system rotting from within as she was seen publicly rooting for…",
+      "created_at": "Sat Mar 28 04:57:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037536345867055130",
+        "text": "Judge Kathleen McCormick is the perfect example of our legal system rotting from within as she was seen publicly rooting for and supporting the plaintiff against Elon Musk on social media. Where is the impartiality expected of the bench? Such conduct undermines public trust and she needs to be removed for that reason.",
+        "created_at": "Fri Mar 27 14:24:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037536191143436288",
+            "url": "https://video.twimg.com/amplify_video/2037536191143436288/vid/avc1/1920x1080/Fqv2YFstTeEIwyZl.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "959168599519764480",
+          "name": "Ray",
+          "screen_name": "ray4tesla",
+          "description": "Tesla owner since 2015. TSLA holder since 2016. This account is about Tesla, EVs & other topics. My Tesla referral link: https://t.co/RrVfZj8heV",
+          "followers_count": 140978,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 413,
+          "favorite_count": 1996,
+          "reply_count": 214,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 413,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037769596510629970",
+      "text": "RT @SethDillon: Finally got to try Starlink on a United flight. Every airline needs this. https://t.co/XaGxjAgoIb",
+      "created_at": "Sat Mar 28 05:51:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2037623863425544192",
+          "url": "https://pbs.twimg.com/media/HEcYG6VWsAAKyiZ.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2037623869972926881",
+        "text": "Finally got to try Starlink on a United flight. Every airline needs this. https://t.co/XaGxjAgoIb",
+        "created_at": "Fri Mar 27 20:12:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037623863425544192",
+            "url": "https://pbs.twimg.com/media/HEcYG6VWsAAKyiZ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "31700619",
+          "name": "Seth Dillon",
+          "screen_name": "SethDillon",
+          "description": "|Satire| Reality → 1",
+          "followers_count": 887059,
+          "friends_count": 1506,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 117,
+          "favorite_count": 1291,
+          "reply_count": 111,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 117,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037770241498116319",
+      "text": "😂",
+      "created_at": "Sat Mar 28 05:54:20 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037740222771765327",
+        "text": "completely normal behaviour",
+        "created_at": "Sat Mar 28 03:55:03 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1173552893003255808",
+          "name": "kache",
+          "screen_name": "yacineMTB",
+          "description": "reinforcement learning, robots. prev eng @ x, stripe. 6'3 (height)\n\nworking on a hardware startup with 0 funding because it's funny.\n\nsubscribe to read my blog!",
+          "followers_count": 226922,
+          "friends_count": 6098,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 11,
+          "favorite_count": 337,
+          "reply_count": 39,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 201,
+        "favorite_count": 2154,
+        "reply_count": 620,
+        "quote_count": 21
+      }
+    },
+    {
+      "id": "2037770306409164808",
+      "text": "RT @nikitabier: If you’re seeing a bunch of Japanese posts, here are some fun facts:\n\nJapan has more daily active users and more time spent…",
+      "created_at": "Sat Mar 28 05:54:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037764895064867061",
+        "text": "If you’re seeing a bunch of Japanese posts, here are some fun facts:\n\nJapan has more daily active users and more time spent on X than any other country in the world.\n\nOver two thirds of the country is monthly active on X. \n\nX in Japan has one of the highest penetration rates of any social network in history.",
+        "created_at": "Sat Mar 28 05:33:05 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "636513296",
+          "name": "Nikita Bier",
+          "screen_name": "nikitabier",
+          "description": "head of product @x, advisor @solana, venture partner @lightspeedvp, ex-founder @gasappteam (acq by discord), ex-founder @thetbhapp (acq by facebook)",
+          "followers_count": 923618,
+          "friends_count": 2031,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 652,
+          "favorite_count": 7333,
+          "reply_count": 1331,
+          "quote_count": 371
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 652,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
