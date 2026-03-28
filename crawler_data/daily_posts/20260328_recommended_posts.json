@@ -1,12 +1,1156 @@
 {
   "date": "20260328",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-28T10:10:47.958703",
-  "tweet_count": 210,
-  "unique_tweet_count": 210,
+  "last_crawl_time": "2026-03-28T12:11:16.435284",
+  "tweet_count": 228,
+  "unique_tweet_count": 228,
   "total_crawled": 410,
-  "duplicates_removed": 200,
+  "duplicates_removed": 182,
   "tweets": [
+    {
+      "id": "2037850934274138146",
+      "text": "RT @teslaeurope: FSD Supervised handles Amsterdam’s busiest streets with ease",
+      "created_at": "Sat Mar 28 11:14:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037680930635268478",
+        "text": "FSD Supervised handles Amsterdam’s busiest streets with ease",
+        "created_at": "Fri Mar 27 23:59:26 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2037543530441150562",
+          "text": "Tesla’s FSD in Amsterdam\n\nAn incredible experience: 45 minutes along the canals, cyclists, unpredictable traffic and zero interventions.\n\nIt felt smooth, confident, and surprisingly natural.\n\nCan’t wait to see wider adoption across Europe 🇪🇺 @teslaeurope @elonmusk @SawyerMerritt https://t.co/igFDFhA9Dq",
+          "created_at": "Fri Mar 27 14:53:28 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2037543277583273984",
+              "url": "https://video.twimg.com/amplify_video/2037543277583273984/vid/avc1/720x1280/iLnxHyPygFQBPfK6.mp4?tag=21",
+              "bitrate": 2176000
+            },
+            {
+              "type": "video",
+              "id": "2037543277595951104",
+              "url": "https://video.twimg.com/amplify_video/2037543277595951104/vid/avc1/720x1280/KrmKX4r0DYhynyoN.mp4?tag=21",
+              "bitrate": 2176000
+            },
+            {
+              "type": "video",
+              "id": "2037543277587546112",
+              "url": "https://video.twimg.com/amplify_video/2037543277587546112/vid/avc1/720x1280/Pq1Glkm2XWIqUVP0.mp4?tag=21",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1523760294060777473",
+            "name": "Roy van den Berk",
+            "screen_name": "royvdberkk",
+            "description": "interested in investing and finance :)",
+            "followers_count": 66,
+            "friends_count": 66,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 185,
+            "favorite_count": 1392,
+            "reply_count": 61,
+            "quote_count": 31
+          }
+        },
+        "user": {
+          "id": "1620480811303866369",
+          "name": "Tesla Europe, Middle East & Africa",
+          "screen_name": "teslaeurope",
+          "description": "All things Tesla Europe, Middle East & Africa",
+          "followers_count": 163835,
+          "friends_count": 19,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 378,
+          "favorite_count": 2673,
+          "reply_count": 182,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 378,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037850827755561368",
+      "text": "RT @BrianRoemmele: It just keeps getting better and better.\n\n@Grok Imagine.\n\nOne year from now it is incomprehensible how far ahead it will…",
+      "created_at": "Sat Mar 28 11:14:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037620567738929375",
+        "text": "It just keeps getting better and better.\n\n@Grok Imagine.\n\nOne year from now it is incomprehensible how far ahead it will be.\n\nWe are on an amazing journey…",
+        "created_at": "Fri Mar 27 19:59:35 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2037602980917280952",
+          "text": "Short scene by @heavypulp using Grok Imagine.\n\nPut on your film director hat and show us your stories. \n\nThere’s never been an easier time to get creative. https://t.co/wqvljUS9MA",
+          "created_at": "Fri Mar 27 18:49:42 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2037602677367185408",
+              "url": "https://video.twimg.com/amplify_video/2037602677367185408/vid/avc1/3840x2160/BoQh4TkpRfAhsAZj.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2019292645466730499",
+            "name": "Grok Imagine",
+            "screen_name": "imagine",
+            "description": "Unlock your imagination with Grok Imagine.",
+            "followers_count": 38494,
+            "friends_count": 4,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 854,
+            "favorite_count": 4193,
+            "reply_count": 705,
+            "quote_count": 96
+          }
+        },
+        "user": {
+          "id": "101584084",
+          "name": "Brian Roemmele",
+          "screen_name": "BrianRoemmele",
+          "description": "we can only see what we think is possible...",
+          "followers_count": 464590,
+          "friends_count": 43048,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 121,
+          "favorite_count": 678,
+          "reply_count": 117,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 121,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037850706745700574",
+      "text": "RT @LaceyPresley: Starship is the path to becoming multiplanetary.\n\nFull reusability, in-orbit refueling, and rapid iteration are the funda…",
+      "created_at": "Sat Mar 28 11:14:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037547943713219018",
+        "text": "Starship is the path to becoming multiplanetary.\n\nFull reusability, in-orbit refueling, and rapid iteration are the fundamentals that make regular Mars flights practical not just possible.\n\nThis is how we extend consciousness beyond one planet. https://t.co/JXEdx78rJu",
+        "created_at": "Fri Mar 27 15:11:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037484405791641600",
+            "url": "https://pbs.twimg.com/media/HEaZRaKb0AAdDoc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1952872859153432577",
+          "name": "Lacey",
+          "screen_name": "LaceyPresley",
+          "description": "First principles: Imagine Mars. Build it. | AI Futurist | xAI | SpaceX | Tesla | Elon Musk I MarsForge™ I Join The Future → https://t.co/9kkGwMHqBf",
+          "followers_count": 7233,
+          "friends_count": 435,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 177,
+          "favorite_count": 1120,
+          "reply_count": 142,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 177,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037850410535550990",
+      "text": "Given that I have built two companies in widely different fields to trillion dollar plus valuations simultaneously, I am might be getting a few things right once in a while",
+      "created_at": "Sat Mar 28 11:12:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037767879551332758",
+        "text": "INSIGHT: What working for Elon is actually like. https://t.co/S2I6jhPCkw",
+        "created_at": "Sat Mar 28 05:44:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037767877575716864",
+            "url": "https://pbs.twimg.com/media/HEebFo2aMAAGEic.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "752567226",
+          "name": "X Daily News",
+          "screen_name": "xDaily",
+          "description": "Your #1 News source on everything X + xAI and now SpaceX | Contributors: @HXMnCK, @xUpdatesRadar and @swak_12 I | Hit Follow and sign up for notifications! 🔔",
+          "followers_count": 331777,
+          "friends_count": 5330,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 42,
+          "favorite_count": 835,
+          "reply_count": 33,
+          "quote_count": 4
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1844,
+        "favorite_count": 22670,
+        "reply_count": 2545,
+        "quote_count": 176
+      }
+    },
+    {
+      "id": "2037849380431253520",
+      "text": "RT @XFreeze: Elon Musk predicts that most of AI compute is going be real-time video understanding and real-time video generation\n\n“we expec…",
+      "created_at": "Sat Mar 28 11:08:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037847669448798296",
+        "text": "Elon Musk predicts that most of AI compute is going be real-time video understanding and real-time video generation\n\n“we expect to be the leaders in that”\n\nGrok is now currently generating more videos and images than everyone else combined\n\n“We’re gonna do the same thing with coding and we’re gonna do the same thing with Macrohard”",
+        "created_at": "Sat Mar 28 11:02:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037771994800816129",
+            "url": "https://video.twimg.com/amplify_video/2037771994800816129/vid/avc1/1080x1080/cBczugzSgZ-t2Q2E.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 173733,
+          "friends_count": 1685,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 207,
+          "favorite_count": 972,
+          "reply_count": 250,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 207,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037849324378620402",
+      "text": "RT @dvorahfr: There's something epic and magical about Grok Imagine https://t.co/0frbILRXRt",
+      "created_at": "Sat Mar 28 11:08:34 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2037556275555561472",
+          "url": "https://video.twimg.com/amplify_video/2037556275555561472/vid/avc1/3840x2160/Aui4iCN1FtbAoWeo.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2037828039120482544",
+        "text": "There's something epic and magical about Grok Imagine https://t.co/0frbILRXRt",
+        "created_at": "Sat Mar 28 09:44:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037556275555561472",
+            "url": "https://video.twimg.com/amplify_video/2037556275555561472/vid/avc1/3840x2160/Aui4iCN1FtbAoWeo.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 126272,
+          "friends_count": 3486,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 114,
+          "favorite_count": 657,
+          "reply_count": 104,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 114,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037846369935954071",
+      "text": "RT @dvorahfr: I love Grok Imagine ❣️ https://t.co/KY7EzkBYhM",
+      "created_at": "Sat Mar 28 10:56:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2037557867188748288",
+          "url": "https://video.twimg.com/amplify_video/2037557867188748288/vid/avc1/1080x1080/oyv4h7-USCNj248h.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2037784250758447153",
+        "text": "I love Grok Imagine ❣️ https://t.co/KY7EzkBYhM",
+        "created_at": "Sat Mar 28 06:50:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037557867188748288",
+            "url": "https://video.twimg.com/amplify_video/2037557867188748288/vid/avc1/1080x1080/oyv4h7-USCNj248h.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 126272,
+          "friends_count": 3486,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 138,
+          "favorite_count": 821,
+          "reply_count": 186,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 138,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037845165419930033",
+      "text": "RT @iam_smx: SpaceX Website now 😎 https://t.co/2UTgMR213F",
+      "created_at": "Sat Mar 28 10:52:03 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2037683098054180864",
+          "url": "https://video.twimg.com/amplify_video/2037683098054180864/vid/avc1/1920x1080/XmdXy63e4RSAClZa.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2037684068653957571",
+        "text": "SpaceX Website now 😎 https://t.co/2UTgMR213F",
+        "created_at": "Sat Mar 28 00:11:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037683098054180864",
+            "url": "https://video.twimg.com/amplify_video/2037683098054180864/vid/avc1/1920x1080/XmdXy63e4RSAClZa.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2037669576444391767",
+          "text": "The main page of SpaceX’s website in 2002 https://t.co/JsuMHSoeF9",
+          "created_at": "Fri Mar 27 23:14:19 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2037669389924007936",
+              "url": "https://pbs.twimg.com/media/HEdBg5wbgAASPqq.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1614879930885574656",
+            "name": "SMX 🇺🇸",
+            "screen_name": "iam_smx",
+            "description": "Innovation, Technology, Rockets & Tesla ignite my passion. Sharing updates & info 24/7. Breaking World News! Motivation, Fun & Amazing AI Videos Guaranteed.",
+            "followers_count": 170164,
+            "friends_count": 659,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 15,
+            "favorite_count": 102,
+            "reply_count": 11,
+            "quote_count": 0
+          }
+        },
+        "user": {
+          "id": "1614879930885574656",
+          "name": "SMX 🇺🇸",
+          "screen_name": "iam_smx",
+          "description": "Innovation, Technology, Rockets & Tesla ignite my passion. Sharing updates & info 24/7. Breaking World News! Motivation, Fun & Amazing AI Videos Guaranteed.",
+          "followers_count": 170164,
+          "friends_count": 659,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 176,
+          "favorite_count": 941,
+          "reply_count": 124,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 176,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037845071962522058",
+      "text": "RT @wolftivy: What's interesting about Bukele's rule is that it's all so obvious. You can just flip the switch and make your country powerf…",
+      "created_at": "Sat Mar 28 10:51:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037570725977190907",
+        "text": "What's interesting about Bukele's rule is that it's all so obvious. You can just flip the switch and make your country powerful, be beloved by the people, get rich, etc. That this is not widely regarded as something worth striving for shows a deep sickness in Western politics.",
+        "created_at": "Fri Mar 27 16:41:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2037525806239674728",
+          "text": "So far, Nayib Bukele is on track to be the Lee Kuan Yew of Latin America. The Simon Bolivar of the new century.\n\nHe focused on building up his own country. He embraced hard money and cut off hard drugs.\n\nHe did imprison criminals, but did so with the minimum necessary force. He persuaded first, and compelled only when absolutely necessary. Like Lee Kuan Yew, Bukele turned his country into a bonafide showcase for a global audience.\n\nBukele built a domestic coalition in his native Spanish and an international coalition in fluent English. He balanced El Salvadoran nationalism with diplomacy and capitalism, recruiting Tether, xAI, Bitcoin, and tech to the country.\n\nIncredibly, he’s made El Salvador into a model not just for Latin Americans, but for North Americans. And he did it in less than ten years, with absolutely no precedent in the region.",
+          "created_at": "Fri Mar 27 13:43:02 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2178012643",
+            "name": "Balaji",
+            "screen_name": "balajis",
+            "description": "Author of the Network State. Founder of the Network School.",
+            "followers_count": 1394022,
+            "friends_count": 3912,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 797,
+            "favorite_count": 7837,
+            "reply_count": 157,
+            "quote_count": 48
+          }
+        },
+        "user": {
+          "id": "1002602140714450944",
+          "name": "Wolf Tivy",
+          "screen_name": "wolftivy",
+          "description": "The struggle for life is your only contact with God. Founder, former editor-in-chief @palladiummag.",
+          "followers_count": 12992,
+          "friends_count": 371,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 332,
+          "favorite_count": 3114,
+          "reply_count": 88,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 332,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037843915206959242",
+      "text": "Model Y is #1",
+      "created_at": "Sat Mar 28 10:47:05 +0000 2026",
+      "lang": "fr",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037827836170363375",
+        "text": "Tesla Model Y is the world's best-selling car for 3 consecutive years\n\n2023: #1\n2024: #1\n2025: #1\n\nCumulative global sales: 4,000,000+ units\n\nNot best-selling EV. Best-selling car. Period. Beating every gas, hybrid, and electric vehicle on Earth https://t.co/5NhkPAX2sH",
+        "created_at": "Sat Mar 28 09:43:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037827824888016896",
+            "url": "https://pbs.twimg.com/media/HEfRnB_bcAALZtg.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 173733,
+          "friends_count": 1685,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 129,
+          "favorite_count": 615,
+          "reply_count": 152,
+          "quote_count": 37
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1614,
+        "favorite_count": 15832,
+        "reply_count": 1856,
+        "quote_count": 102
+      }
+    },
+    {
+      "id": "2037843744255521238",
+      "text": "Grok gets faster &amp; smarter every week",
+      "created_at": "Sat Mar 28 10:46:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037765524332130362",
+        "text": "Did someone turn the speed knob up on @Grok? \n\nJust did another transcript reading and, damn, it is way faster than last time I asked it to do the same.",
+        "created_at": "Sat Mar 28 05:35:35 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13348",
+          "name": "Robert Scoble",
+          "screen_name": "Scobleizer",
+          "description": "San Francisco/Silicon Valley AI | Robots, holodecks, BCIs, analysis of new things | Ex-Microsoft, Rackspace, Fast Company | Wrote eight books about the future.",
+          "followers_count": 568284,
+          "friends_count": 41443,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 193,
+          "reply_count": 40,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 667,
+        "favorite_count": 6237,
+        "reply_count": 1327,
+        "quote_count": 66
+      }
+    },
+    {
+      "id": "2037840379467432095",
+      "text": "The uniparty in action",
+      "created_at": "Sat Mar 28 10:33:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037515342021574670",
+        "text": "“The Republicans will fix it this time”\n\n“The Democrats will fix it this time” https://t.co/1fFknpM8Oq",
+        "created_at": "Fri Mar 27 13:01:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037515335348445185",
+            "url": "https://pbs.twimg.com/media/HEa1Zvva4AENSPv.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1519441963262484480",
+          "name": "🪶Native Patriot 🇺🇸",
+          "screen_name": "LaNativePatriot",
+          "description": "Board Member of @SaveNativeSouls | Married to @_LadyPatriot | Christian| Co-Creator of PPN @ThePatriotsPray | Podcast w/ @SteveLovesAmmo |",
+          "followers_count": 228794,
+          "friends_count": 26391,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1485,
+          "favorite_count": 9701,
+          "reply_count": 500,
+          "quote_count": 136
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3830,
+        "favorite_count": 38993,
+        "reply_count": 2276,
+        "quote_count": 181
+      }
+    },
+    {
+      "id": "2037840247296565479",
+      "text": "RT @beeple: MORNING IN AMERICA https://t.co/sdBXwwOOJc",
+      "created_at": "Sat Mar 28 10:32:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2037739916030083073",
+          "url": "https://pbs.twimg.com/media/HEeBqD-bgAEJ_fm.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2037740028462325775",
+        "text": "MORNING IN AMERICA https://t.co/sdBXwwOOJc",
+        "created_at": "Sat Mar 28 03:54:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037739916030083073",
+            "url": "https://pbs.twimg.com/media/HEeBqD-bgAEJ_fm.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34097500",
+          "name": "beeple",
+          "screen_name": "beeple",
+          "description": "design shit. 18+ years of everydays*",
+          "followers_count": 849274,
+          "friends_count": 993,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 278,
+          "favorite_count": 2822,
+          "reply_count": 244,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 278,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037840052693418106",
+      "text": "RT @WallStreetApes: Stephen Miller says there is not a single verification system in place in Democrat states to receive federal benefits…",
+      "created_at": "Sat Mar 28 10:31:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037766854698254781",
+        "text": "Stephen Miller says there is not a single verification system in place in Democrat states to receive federal benefits\n\nElon Musk and DOGE tried to warn us….\n\nHe says Blue states operate “ENTIRELY ON THE HONOR SYSTEM”\n\nHe says this is how Democrats put illegals on our benefits\n\n“I think what's important for Americans to understand about how pervasive and widespread the fraud is — I think that most citizens probably assume that there's some verification process that takes place for the receipt of most federal benefits. \n\nThe reality is, is that there is not, this is particularly true in blue states, willfully, true in blue states, in which all of these programs are operated entirely on the honor system”\n\n“No verification takes place before individuals are enrolled in or receive these benefits. So as a simple example, if you're a Somali refugee living in Minnesota, you could lie about how many children you have. You could lie about what your immigration status is. You could lie about your marital status. You could lie about child care, you could lie about disability, you could lie about all these things and many more. \n\nAnd nobody in the state of Minnesota would validate any of these facts before writing you a check”",
+        "created_at": "Sat Mar 28 05:40:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037766659658919936",
+            "url": "https://video.twimg.com/amplify_video/2037766659658919936/vid/avc1/1080x1920/Yl_RvvovhjLGBO9t.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1099579684981944320",
+          "name": "Wall Street Apes",
+          "screen_name": "WallStreetApes",
+          "description": "We Are The Resistance. Unfiltered Breaking News | Followed By @elonmusk 𝕏 @joerogan 🎙️ @DonaldjTrumpJr 🇺🇸 @dbongino ⚖️ @RealAlexJones 🪬 @JamesOKeefeIII 🗞️",
+          "followers_count": 1338095,
+          "friends_count": 32682,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1747,
+          "favorite_count": 4016,
+          "reply_count": 341,
+          "quote_count": 63
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1747,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037839902365434322",
+      "text": "RT @wmorrill3: I know there are a lot of Cybertrucks doing work out there - those using it for business, any feedback? https://t.co/9m9WIcX…",
+      "created_at": "Sat Mar 28 10:31:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037810051545436342",
+        "text": "I know there are a lot of Cybertrucks doing work out there - those using it for business, any feedback? https://t.co/9m9WIcXpXo",
+        "created_at": "Sat Mar 28 08:32:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037809469858729984",
+            "url": "https://pbs.twimg.com/media/HEfA6oLbUAAJBua.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "619309584",
+          "name": "Wes",
+          "screen_name": "wmorrill3",
+          "description": "Biking, Running, Hiking, Climbing - Always adventuring. \n\nCybertruck Lead Engineer +\nReliability, Test, and Analysis for all Tesla vehicles.",
+          "followers_count": 32925,
+          "friends_count": 235,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 150,
+          "favorite_count": 1054,
+          "reply_count": 195,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 150,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037839193054036218",
+      "text": "It is the end of democracy if voter ID is not passed",
+      "created_at": "Sat Mar 28 10:28:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037620634910380457",
+        "text": "It’s cannot be understated how unfathomably cooked we are if we can’t even get basic voter ID laws passed in this country.",
+        "created_at": "Fri Mar 27 19:59:51 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "971841850695979010",
+          "name": "Savanah Hernandez",
+          "screen_name": "Savsays",
+          "description": "Sav with one “n” - Reporter - Commentator - Contributor w/ @TPUSA - Formerly 3x Banned On Twitter \nStory lead? Send here: savtipline@gmail.com",
+          "followers_count": 727451,
+          "friends_count": 866,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 822,
+          "favorite_count": 8522,
+          "reply_count": 318,
+          "quote_count": 30
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5094,
+        "favorite_count": 42928,
+        "reply_count": 2556,
+        "quote_count": 210
+      }
+    },
+    {
+      "id": "2037839025818702293",
+      "text": "RT @BasedMikeLee: How did we get to be $39 trillion in debt?\n\nThe zombie filibuster—coupled with a chronic unwillingness among senators to…",
+      "created_at": "Sat Mar 28 10:27:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037728806665105841",
+        "text": "How did we get to be $39 trillion in debt?\n\nThe zombie filibuster—coupled with a chronic unwillingness among senators to break through it by putting in the hard work—has contributed to it substantially.\n\nFor decades, this dynamic has been giving Senate Democrats way too much power when it comes to spending bills—even when they’re in the minority.\n\nSpending bills in the Senate routinely get to 60 votes—regardless of who’s in the majority and who controls the House and the White House—with votes coming from (1) basically every Senate Democrat and (2) a much smaller group of Republicans (predominantly members of the Appropriations Committee), in many cases just a few more than whatever it takes to achieve cloture.\n\nAs a result, disagreements on spending bills tend to be resolved by simply spending more—to give those voting for it what they need to vote for it.\n\nThis is one of many reasons why I’ve been pushing so hard on the talking filibuster which, if fully utilized and given the time it needs to work, could help us pass the SAVE America Act.\n\nBut the benefits wouldn’t end there, as they could help us avoid not only the kind of shutdown hell we’re now experiencing, but also rein in our debt and deficit—at least while Republicans are in charge.\n\nShare if you’d like to see the Senate use the talking filibuster—to fully fund DHS, to pass the SAVE America Act, to reduce spending, and otherwise!",
+        "created_at": "Sat Mar 28 03:09:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037728797886496768",
+            "url": "https://pbs.twimg.com/media/HEd3i5qbwAAR7T2.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2037714886902296589",
+          "text": "$39 trillion in national debt\nHow did it happen?\n\n$14 trillion in interest payments on the debt, which get added onto the debt\n\n$10 trillion wars in Iraq, Afghanistan\n\n$4 trillion in foreign aid given away to other countries, all financed with debt\n\n$10 trillion from govt fraud",
+          "created_at": "Sat Mar 28 02:14:22 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1366565625401909249",
+            "name": "Wall Street Mav",
+            "screen_name": "WallStreetMav",
+            "description": "Finance, economics, news, memes. Follow and Tap the .... (🔔 +Notify)",
+            "followers_count": 1735321,
+            "friends_count": 820,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 218,
+            "favorite_count": 1129,
+            "reply_count": 103,
+            "quote_count": 11
+          }
+        },
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 679954,
+          "friends_count": 3820,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1091,
+          "favorite_count": 3022,
+          "reply_count": 311,
+          "quote_count": 46
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1091,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2037838804363694091",
+      "text": "True",
+      "created_at": "Sat Mar 28 10:26:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037653491821228177",
+        "text": "Nothing has none more to discredit itself in recent years than the judiciary\n\nAnd that includes the medical establishment during Covid, and Congress with all of its disgusting and craven antics https://t.co/OhQYiZ6XGN",
+        "created_at": "Fri Mar 27 22:10:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037653485894705152",
+            "url": "https://pbs.twimg.com/media/HEczDKoXIAArCrB.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1504181287468339208",
+          "name": "Will Tanner",
+          "screen_name": "Will_Tanner_1",
+          "description": "Tradition is not the worship of ashes, but the preservation of fire | Co-Founder of @TAmTrib | WASP",
+          "followers_count": 161014,
+          "friends_count": 1372,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1163,
+          "favorite_count": 8068,
+          "reply_count": 515,
+          "quote_count": 101
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237608991,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2949,
+        "favorite_count": 25042,
+        "reply_count": 1729,
+        "quote_count": 118
+      }
+    },
     {
       "id": "2037773622534643976",
       "text": "https://t.co/PYKxPnFlGE",
