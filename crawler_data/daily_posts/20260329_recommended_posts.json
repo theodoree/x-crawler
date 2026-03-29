@@ -1,12 +1,487 @@
 {
   "date": "20260329",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-29T04:52:00.935949",
-  "tweet_count": 204,
-  "unique_tweet_count": 204,
-  "total_crawled": 402,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-03-29T06:26:51.943016",
+  "tweet_count": 212,
+  "unique_tweet_count": 212,
+  "total_crawled": 404,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2038140622893424889",
+      "text": "RT @tesla_na: Also, every loaner comes with FSD Supervised\n\nAnd your settings &amp; preferences will automatically sync from your own Tesla",
+      "created_at": "Sun Mar 29 06:26:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2037696372204556612",
+        "text": "Also, every loaner comes with FSD Supervised\n\nAnd your settings &amp; preferences will automatically sync from your own Tesla",
+        "created_at": "Sat Mar 28 01:00:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2037559528313471154",
+          "text": "Tesla does a really great job matching the loaner vehicle to your current vehicle that is in service. I just dropped my cyberbeast off and got another brand new cyberbeast. I love Tesla so much. https://t.co/lAdEGmhvYP",
+          "created_at": "Fri Mar 27 15:57:02 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2037559523704270848",
+              "url": "https://pbs.twimg.com/media/HEbdl2MbcAARsRh.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3298748040",
+            "name": "The Surfing CyberSurgeon©️ 🔪 🏄‍♂️🤙 ☮️",
+            "screen_name": "thecybersurg",
+            "description": "Mohs Micrographic & Cosmetic Reconstructive Surgeon 🔪 , CyberBEAST 🐺 , Surfing 🏄‍♂️, Viking 🇳🇴, Tesla/SpaceX, Equine ranch owner 🐴, TRUMP 24🇺🇸",
+            "followers_count": 10667,
+            "friends_count": 523,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 17,
+            "favorite_count": 209,
+            "reply_count": 19,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "1679769205938311169",
+          "name": "Tesla North America",
+          "screen_name": "tesla_na",
+          "description": "Building a world of amazing abundance",
+          "followers_count": 103387,
+          "friends_count": 20,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 206,
+          "favorite_count": 1544,
+          "reply_count": 83,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237582767,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 206,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038140569655165031",
+      "text": "RT @DimaZeniuk: Starship is the first planet-colonizer class rocket https://t.co/hlMRTVRRP7",
+      "created_at": "Sun Mar 29 06:25:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038012271398637568",
+          "url": "https://video.twimg.com/ext_tw_video/2038012271398637568/pu/vid/avc1/1072x1080/5mnJKW8XyFfDOr8N.mp4?tag=19",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2038012332270395677",
+        "text": "Starship is the first planet-colonizer class rocket https://t.co/hlMRTVRRP7",
+        "created_at": "Sat Mar 28 21:56:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038012271398637568",
+            "url": "https://video.twimg.com/ext_tw_video/2038012271398637568/pu/vid/avc1/1072x1080/5mnJKW8XyFfDOr8N.mp4?tag=19",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1198495865301864448",
+          "name": "Dima Zeniuk",
+          "screen_name": "DimaZeniuk",
+          "description": "Tesla | SpaceX | Starlink | X |\nFree speech\n\nInspired by innovation | Future | Neuralink",
+          "followers_count": 123123,
+          "friends_count": 640,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 104,
+          "favorite_count": 521,
+          "reply_count": 75,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237582767,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 104,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038138194861166638",
+      "text": "Tesla FSD",
+      "created_at": "Sun Mar 29 06:16:27 +0000 2026",
+      "lang": "tr",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2034381984227524976",
+        "text": "Tesla's FSD: 5.3 million miles between accidents. US driving average: 660,000. \n\nThat's 9x safer. And it's only getting better.",
+        "created_at": "Wed Mar 18 21:30:36 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14710129",
+          "name": "Peter H. Diamandis, MD",
+          "screen_name": "PeterDiamandis",
+          "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+          "followers_count": 363602,
+          "friends_count": 821,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 583,
+          "favorite_count": 4794,
+          "reply_count": 358,
+          "quote_count": 85
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237582767,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 156,
+        "favorite_count": 939,
+        "reply_count": 461,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2038137914413232309",
+      "text": "RT @Rothmus: https://t.co/VkWQKcvgT0",
+      "created_at": "Sun Mar 29 06:15:20 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038066127163809792",
+          "url": "https://pbs.twimg.com/media/HEiqWDJa4AA-ZKW.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2038066130468679769",
+        "text": "https://t.co/VkWQKcvgT0",
+        "created_at": "Sun Mar 29 01:30:05 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038066127163809792",
+            "url": "https://pbs.twimg.com/media/HEiqWDJa4AA-ZKW.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 658566,
+          "friends_count": 2793,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 254,
+          "favorite_count": 1824,
+          "reply_count": 134,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237582767,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 254,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038137250060603836",
+      "text": "RT @dvorahfr: Top fashion with Grok Imagine https://t.co/haTBtjR7yK",
+      "created_at": "Sun Mar 29 06:12:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2037561146106949633",
+          "url": "https://video.twimg.com/amplify_video/2037561146106949633/vid/avc1/720x720/EJe_y2frDl4lonHH.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2037958649893601471",
+        "text": "Top fashion with Grok Imagine https://t.co/haTBtjR7yK",
+        "created_at": "Sat Mar 28 18:23:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037561146106949633",
+            "url": "https://video.twimg.com/amplify_video/2037561146106949633/vid/avc1/720x720/EJe_y2frDl4lonHH.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 126386,
+          "friends_count": 3488,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 92,
+          "favorite_count": 538,
+          "reply_count": 157,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237582767,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 92,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038137043629592827",
+      "text": "True",
+      "created_at": "Sun Mar 29 06:11:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037996355516571965",
+        "text": "The Left used to worship Elon.\n\nThen they started calling him a Nazi over political disagreements.\n\nThe message is clear: Either submit or the Left will do everything in its power to ruin you. https://t.co/b6mm3yXPmM",
+        "created_at": "Sat Mar 28 20:52:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2032937131195379715",
+            "url": "https://pbs.twimg.com/media/HDZxjMOaMAM-73Q.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1097336,
+          "friends_count": 1821,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 92,
+          "favorite_count": 644,
+          "reply_count": 77,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237582767,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 441,
+        "favorite_count": 3469,
+        "reply_count": 600,
+        "quote_count": 26
+      }
+    },
+    {
+      "id": "2038136018587849118",
+      "text": "The Starship factory is stunning",
+      "created_at": "Sun Mar 29 06:07:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037987653770244231",
+        "text": "SpaceX COO @Gwynne_Shotwell:\n\n“I love working for @elonmusk.”\n\n“He’s funny— he’s hilarious actually.”\n\n“He focuses on things that I would never have thought were important.”\n\n“One is— beautiful spaces.”\n\n“This is one of the most beautiful factories I have ever seen.”\n\nVia @TIME https://t.co/VrmzOYOnpy",
+        "created_at": "Sat Mar 28 20:18:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037987432499720192",
+            "url": "https://video.twimg.com/amplify_video/2037987432499720192/vid/avc1/1920x1080/e85YaUGg4Ut-uWHO.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "615786753",
+          "name": "Jawwwn",
+          "screen_name": "jawwwn_",
+          "description": "posting into the void 📺🫡••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••",
+          "followers_count": 22704,
+          "friends_count": 1296,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 83,
+          "favorite_count": 992,
+          "reply_count": 45,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237582767,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 341,
+        "favorite_count": 2564,
+        "reply_count": 661,
+        "quote_count": 18
+      }
+    },
+    {
+      "id": "2038135071836893440",
+      "text": "Tesla AI self-driving will be &gt;10X safer than human driving",
+      "created_at": "Sun Mar 29 06:04:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038120652268515715",
+        "text": "Instead of simply braking after the fact, FSD is able to anticipate intent before a pedestrian even steps into the road",
+        "created_at": "Sun Mar 29 05:06:44 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24730979,
+          "friends_count": 56,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 141,
+          "favorite_count": 1043,
+          "reply_count": 103,
+          "quote_count": 20
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237582767,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 514,
+        "favorite_count": 4681,
+        "reply_count": 1335,
+        "quote_count": 85
+      }
+    },
     {
       "id": "2038115581883257201",
       "text": "Cheng Lou 发布了一个纯 TypeScript 写的文本测量库 Pretext，能在完全不依赖 DOM 的情况下，精确计算文本的排版尺寸。\n\nCheng Lou 是前端圈的老熟人，参与过 React、ReasonML、ReScript 的开发，后来在 Midjourney 工作。这次他说自己\"从地狱深处爬回来\"，带回了这个项目。\n\n为什么这件事值得关注？\n\n做过前端的人都知道，想知道一段文字渲染后占多大空间，标准做法是用 getBoundingClientRect() 去问浏览器。但这个操作会触发 reflow（回流），也就是浏览器被迫重新计算整个页面的布局，是网页里最昂贵的操作之一。而且这种测量没法并行，必须排队处理，写组件时一不小心就会造成读写交错，性能直接崩掉。\n\nPretext 的思路完全不同：它自己实现了一套文本测量算法，用浏览器字体引擎的输出作为校准基准，但测量过程本身不碰 DOM。根据项目的基准测试，速度大约是传统方案的 500 倍。\n\n体积只有几 KB，支持多语言混排（包括韩文混阿拉伯文从右到左的场景），也能正确处理各平台的 Emoji。\n\nCheng Lou 展示了几个 Demo 来说明这个能力解锁了什么：数十万个不同高度的文本框做虚拟滚动，120fps 流畅运行；响应式多栏杂志排版，拖拽时文本实时重排；聊天气泡自动贴合文本宽度；甚至用可变宽度字体做 ASCII 艺术。这些以前要么做不到，要么要和 CSS 斗智斗勇。\n\n开发过程也挺有意思：Cheng Lou 让 Claude Code 和 Codex 在各种容器宽度下反复测量浏览器的真实渲染结果，持续跑了好几周，才把精度打磨到位。\n\n项目地址在 GitHub（chenglou/pretext），npm 安装 @chenglou/pretext 就能用。在线 Demo 在 https://t.co/blDWOgWxSF。\n\n文本排版一直是前端绕不过去的性能瓶颈，Pretext 给出的方案如果足够成熟，可能会改变 UI 框架处理文本的方式，尤其是在 AI 时代越来越多场景需要实时渲染大量动态文本的背景下。",
