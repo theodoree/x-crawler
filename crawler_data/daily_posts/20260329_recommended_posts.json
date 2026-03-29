@@ -1,12 +1,489 @@
 {
   "date": "20260329",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-29T20:08:51.927913",
-  "tweet_count": 225,
-  "unique_tweet_count": 225,
-  "total_crawled": 417,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-03-29T22:08:45.913487",
+  "tweet_count": 234,
+  "unique_tweet_count": 234,
+  "total_crawled": 425,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2038377745068277809",
+      "text": "💯",
+      "created_at": "Sun Mar 29 22:08:20 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038349058528436416",
+        "text": ".@VP: \"I would bet every dollar that I own that the next time the Democrats have control of the Senate, they will break the filibuster, pack the Supreme Court, and destroy this country. We have to do it NOW in order to save the country.\" https://t.co/MXyCKkFwYz",
+        "created_at": "Sun Mar 29 20:14:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038346503702347776",
+            "url": "https://video.twimg.com/amplify_video/2038346503702347776/vid/avc1/1280x720/8l-DGkflAZ7k_Px2.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1881451105454002176",
+          "name": "Rapid Response 47",
+          "screen_name": "RapidResponse47",
+          "description": "Official White House Rapid Response account. Supporting @POTUS's America First agenda and holding the Fake News accountable. MAGA!",
+          "followers_count": 1663747,
+          "friends_count": 70,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1797,
+          "favorite_count": 9990,
+          "reply_count": 550,
+          "quote_count": 79
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237640004,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 13,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038376632378073234",
+      "text": "RT @KatieMiller: Catherine Bracy, founder of the nonprofit Tech Equity, interviewed Sam Altman years ago about OpenAI being a nonprofit and…",
+      "created_at": "Sun Mar 29 22:03:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038344676760039650",
+        "text": "Catherine Bracy, founder of the nonprofit Tech Equity, interviewed Sam Altman years ago about OpenAI being a nonprofit and his decision-making. \n\nHer conclusion:\n\n“Every day that OpenAI exists, they are violating the law.” https://t.co/qk1SJ6omB5",
+        "created_at": "Sun Mar 29 19:56:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038344659412611072",
+            "url": "https://pbs.twimg.com/media/HEmnqwoacAAZpEL.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2037879848153297154",
+          "text": "Can OpenAI serve humanity — and investors? https://t.co/CUovZdT5jL",
+          "created_at": "Sat Mar 28 13:09:52 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2347049341",
+            "name": "Vox",
+            "screen_name": "voxdotcom",
+            "description": "Making sense of it all. Become a member today. 👇",
+            "followers_count": 961426,
+            "friends_count": 184,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1,
+            "favorite_count": 5,
+            "reply_count": 0,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 217661,
+          "friends_count": 872,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 86,
+          "favorite_count": 418,
+          "reply_count": 94,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237640004,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 86,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038373467461190016",
+      "text": "Grok automatically translating and recommending 𝕏 posts from other languages is starting to work",
+      "created_at": "Sun Mar 29 21:51:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237640004,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 580,
+        "favorite_count": 6279,
+        "reply_count": 1809,
+        "quote_count": 141
+      }
+    },
+    {
+      "id": "2038372219131470111",
+      "text": "Accurate 😂",
+      "created_at": "Sun Mar 29 21:46:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038112021208826098",
+        "text": "突然アメリカ人に日本語のツイートが読まれるようになり、アメリカ人のこと「バカ(だけど天才)」とか書いてマズい怒られる…と思ったら\"Americans are idiots but also geniuses\"に対しperfect、so true、the best description of Americans、That is a fair description of us等のコメントが並び最高 https://t.co/G6if87xpSY",
+        "created_at": "Sun Mar 29 04:32:26 +0000 2026",
+        "lang": "ja",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038112004372893696",
+            "url": "https://pbs.twimg.com/media/HEjUEdEbEAAD8-1.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038112004360249344",
+            "url": "https://pbs.twimg.com/media/HEjUEdBaIAAD_rn.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1005822733228240896",
+          "name": "山口慶明",
+          "screen_name": "girlmeetsNG",
+          "description": "Twitterは大人のおしゃぶり／たかがSNS、そんなムキにならないで楽しくやりましょ／本業はアメリカ🇺🇸とメキシコ🇲🇽で給料泥棒",
+          "followers_count": 68956,
+          "friends_count": 517,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 235,
+          "favorite_count": 4044,
+          "reply_count": 365,
+          "quote_count": 30
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237640004,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 419,
+        "favorite_count": 4451,
+        "reply_count": 796,
+        "quote_count": 32
+      }
+    },
+    {
+      "id": "2038371311089856584",
+      "text": "RT @TheRabbitHole: Nazism on the Left https://t.co/w5rgWa2fVU",
+      "created_at": "Sun Mar 29 21:42:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038359213177815040",
+          "url": "https://pbs.twimg.com/media/HEm055obwAA1Mdf.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2038359215862124579",
+        "text": "Nazism on the Left https://t.co/w5rgWa2fVU",
+        "created_at": "Sun Mar 29 20:54:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038359213177815040",
+            "url": "https://pbs.twimg.com/media/HEm055obwAA1Mdf.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1097960,
+          "friends_count": 1822,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 355,
+          "favorite_count": 1910,
+          "reply_count": 239,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237640004,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 355,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038368844012732433",
+      "text": "RT @cremieuxrecueil: Here's how fast the internet is using Starlink while flying over the Gulf of America.\n\nThis stuff is incredible. https…",
+      "created_at": "Sun Mar 29 21:32:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038347996941709505",
+        "text": "Here's how fast the internet is using Starlink while flying over the Gulf of America.\n\nThis stuff is incredible. https://t.co/HjmPiqS0sI",
+        "created_at": "Sun Mar 29 20:10:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038347995280703488",
+            "url": "https://pbs.twimg.com/media/HEmqs7tWAAAuKN7.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1637507099558027267",
+          "name": "Crémieux",
+          "screen_name": "cremieuxrecueil",
+          "description": "I write about genetics, 'metrics, and demographics.\n\nRead my long-form writing at https://t.co/8hgA4nNS2A.",
+          "followers_count": 302087,
+          "friends_count": 1942,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 146,
+          "favorite_count": 1387,
+          "reply_count": 182,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237640004,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 146,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038368121241960877",
+      "text": "Yes",
+      "created_at": "Sun Mar 29 21:30:05 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038270726994526646",
+        "text": "This.👇 https://t.co/FhYBctWet0",
+        "created_at": "Sun Mar 29 15:03:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038270719776161793",
+            "url": "https://pbs.twimg.com/media/HElka6BWgAEuavg.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2327400218",
+          "name": "C3",
+          "screen_name": "C_3C_3",
+          "description": "",
+          "followers_count": 310988,
+          "friends_count": 8740,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 822,
+          "favorite_count": 3052,
+          "reply_count": 128,
+          "quote_count": 90
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237640004,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6925,
+        "favorite_count": 59026,
+        "reply_count": 2582,
+        "quote_count": 218
+      }
+    },
+    {
+      "id": "2038359858010096077",
+      "text": "Falcon Heavy is so beautiful https://t.co/tOw7jK7vpF",
+      "created_at": "Sun Mar 29 20:57:15 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038359855430565888",
+          "url": "https://pbs.twimg.com/media/HEm1fSNbAAANWNl.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237640004,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4301,
+        "favorite_count": 55620,
+        "reply_count": 5362,
+        "quote_count": 438
+      }
+    },
+    {
+      "id": "2038349839088697836",
+      "text": "RT @XFreeze: Grok is officially the ultimate wingman 😂\n\nStop embarrassing yourself trying to decode mixed signals. Run those texts through…",
+      "created_at": "Sun Mar 29 20:17:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038229434189459465",
+        "text": "Grok is officially the ultimate wingman 😂\n\nStop embarrassing yourself trying to decode mixed signals. Run those texts through Grok first.....it tells you the honest truth whenever you need to hear it\n\nYou need an AI built for the real world. Grok never disappoints because it’s actually grounded in reality",
+        "created_at": "Sun Mar 29 12:19:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038212025315168256",
+            "url": "https://pbs.twimg.com/media/HEkvCcHXEAAsWsw.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 174565,
+          "friends_count": 1686,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 341,
+          "favorite_count": 1986,
+          "reply_count": 465,
+          "quote_count": 50
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237640004,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 341,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2038345575418991103",
       "text": "飞机大战\nhttps://t.co/2J4mBwzq0T",
