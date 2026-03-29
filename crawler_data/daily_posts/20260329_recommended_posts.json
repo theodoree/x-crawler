@@ -1,12 +1,116 @@
 {
   "date": "20260329",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-29T00:25:49.998771",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-29T03:05:26.549886",
+  "tweet_count": 202,
+  "unique_tweet_count": 202,
+  "total_crawled": 400,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2038054063711932636",
+      "text": "RT @mtrainier2020: 我觉得一个人在成长的过程中有人指导学习，有人指导升学，有人能够指导事业发展，有人能知道婚姻情感，然后自己又能根据各方信息，自己作出决断。\n这样的人想不成功都难。\n\n人生关键就是那么几步路，你走错了，你纠错的代价特别大。\n\n比如升学，比如结婚…",
+      "created_at": "Sun Mar 29 00:42:08 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2037988118880809331",
+        "text": "我觉得一个人在成长的过程中有人指导学习，有人指导升学，有人能够指导事业发展，有人能知道婚姻情感，然后自己又能根据各方信息，自己作出决断。\n这样的人想不成功都难。\n\n人生关键就是那么几步路，你走错了，你纠错的代价特别大。\n\n比如升学，比如结婚，比如创业方向。\n容错能力每家都不一样，但是时间如涛涛江水，不会停息。\n\n有的人比较幸福，家里有贵人，能给你各种指导。\n有的人，天生聪颖，自己能够利用信息，作出正确的判断。\n有的人，只能靠遇贵人，找贵人，获得一些你自身圈子里没有的信息。学习，升学，婚姻，择业，晋升，创业。\n\n自己多读书，就是一种吸取他人经验的一种修为。但是更多的信息和洞见，来自于私下的交流。\n\n所以一个聪明的人，会一直保持有几个mentor/师傅。\n很多公司，对于新入职的员工都会安排一个mentor来带新人，就是让新人在工作中少走弯路。\n有聪明的人，就会选公司中升职最快的老板当自己的mentor，有的人会选技术最好的为自己的mentor。代表了各自的追求。\n\n在创业中，有成就的老板愿意带你，给你当mentor是求之不得的事情。这种mentor是可遇而不可求的。当然那种上杆子给你当创业导师的，一般自身都混的不怎么样。身价几十亿，几百亿的又懒得搭理晚辈。\n\n寻找，发现合适自己的mentor 。",
+        "created_at": "Sat Mar 28 20:20:06 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1141738094485315584",
+          "name": "Rainier",
+          "screen_name": "mtrainier2020",
+          "description": "Cogito, ergo sum",
+          "followers_count": 142031,
+          "friends_count": 975,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 39,
+          "favorite_count": 272,
+          "reply_count": 19,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203640,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 39,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038053845582922023",
+      "text": "RT @lexrus: 这半个月都在 macOS 语音输入这个赛道体验竞品，装了市面上能找到的商业的、开源的、vibe 的产品。一边试各家竞品一边录入了大量的中文和英文，的确大大提升了码字的效率，同时对各种实现有了初步的认知。有作者来自荐的，我也给了他们反馈意见。每一个试过的产…",
+      "created_at": "Sun Mar 29 00:41:16 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2037908758433873939",
+        "text": "这半个月都在 macOS 语音输入这个赛道体验竞品，装了市面上能找到的商业的、开源的、vibe 的产品。一边试各家竞品一边录入了大量的中文和英文，的确大大提升了码字的效率，同时对各种实现有了初步的认知。有作者来自荐的，我也给了他们反馈意见。每一个试过的产品，我都写了一句话评论，记在了 Finder 里，如图。绿点表示推荐使用，黄点表示不推荐，红点是我个人不会再去用。豆包的我还没有开始体验所以空着。",
+        "created_at": "Sat Mar 28 15:04:45 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037907396757274624",
+            "url": "https://pbs.twimg.com/media/HEgZ-uTbwAAFdD7.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "8504312",
+          "name": "Lex Tang",
+          "screen_name": "lexrus",
+          "description": "iOS/macOS developer\n👨🏻‍🦲 https://t.co/0IHFZ92Fy0\n💬 https://t.co/twEXEcpKsD\n🎬https://t.co/gNhF2lyDse",
+          "followers_count": 25707,
+          "friends_count": 1844,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 23,
+          "favorite_count": 229,
+          "reply_count": 49,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203640,
+        "friends_count": 1590,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2037978953001160832",
       "text": "RT @XFreeze: Elon Musk exposes the critical flaw in ChatGPT and other major AI models: Human Reinforcement Learning\n\nThey are literally tra…",
