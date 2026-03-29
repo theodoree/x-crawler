@@ -1,12 +1,68 @@
 {
   "date": "20260329",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-29T06:26:51.943016",
-  "tweet_count": 212,
-  "unique_tweet_count": 212,
-  "total_crawled": 404,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-03-29T08:12:57.399184",
+  "tweet_count": 213,
+  "unique_tweet_count": 213,
+  "total_crawled": 412,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2038163202899345681",
+      "text": "这个例子很酷\nhttps://t.co/JnoLV5eyVf",
+      "created_at": "Sun Mar 29 07:55:49 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038093450139279426",
+        "text": "This little illuminated dragon is very happy about Pretext. He's too busy having fun to care about people's \"hot takes\" on how \"it's not that special.\"  \n\n(This little dragon also only works on desktop right now but maybe I'll do mobile later)\n\nhttps://t.co/k9FH6p1G0T https://t.co/wNhFk1ZBwM",
+        "created_at": "Sun Mar 29 03:18:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038090720876396544",
+            "url": "https://video.twimg.com/amplify_video/2038090720876396544/vid/avc1/2094x2304/lozvzAbSxZd6dhft.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1454183904848474113",
+          "name": "River Marchand",
+          "screen_name": "Riyvir",
+          "description": "Creative Director and Design Engineer. Making cool stuff with startups at @neither___nor",
+          "followers_count": 1245,
+          "friends_count": 776,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1360,
+          "favorite_count": 12373,
+          "reply_count": 182,
+          "quote_count": 99
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203696,
+        "friends_count": 1591,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2038140622893424889",
       "text": "RT @tesla_na: Also, every loaner comes with FSD Supervised\n\nAnd your settings &amp; preferences will automatically sync from your own Tesla",
