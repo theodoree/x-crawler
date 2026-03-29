@@ -1,12 +1,482 @@
 {
   "date": "20260329",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-29T18:11:05.242689",
-  "tweet_count": 217,
-  "unique_tweet_count": 217,
-  "total_crawled": 413,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-03-29T20:08:51.927913",
+  "tweet_count": 225,
+  "unique_tweet_count": 225,
+  "total_crawled": 417,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2038345575418991103",
+      "text": "飞机大战\nhttps://t.co/2J4mBwzq0T",
+      "created_at": "Sun Mar 29 20:00:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038336155419320706",
+        "text": "连夜把我6年前写的 webgl 引擎集成文字排版了, 太酷了觉得这个文字排版的价值不在 dom 上, 这个价值还得在游戏文字排版里体现呀, 全屏中英文字, 运行时混排, 酷啊, 考虑把游戏引擎项目复活了 https://t.co/8mRzGWAuCs",
+        "created_at": "Sun Mar 29 19:23:04 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038334861723971585",
+            "url": "https://video.twimg.com/amplify_video/2038334861723971585/vid/avc1/3456x2158/lPMk7Y7mxQs0yZXL.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6728962",
+          "name": "Nshen",
+          "screen_name": "nshen121",
+          "description": "全职远程 | Web3 爱好者｜全栈 ai 指挥家 | vimer｜小册作者 | 开源 https://t.co/CqB1FynG7Q",
+          "followers_count": 1202,
+          "friends_count": 2093,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 1,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203853,
+        "friends_count": 1591,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038337392768164073",
+      "text": "RT @winter_cn: 完整评价下，先说好听的：\n1. 这不是对measureText的简单封装，而是基于这个API写的一个排版引擎\n2. 有卓越的质量和出色的性能\n3. 成功挑战文字环绕排版\n4. 提供了极具创造力的案例\n再说难听的：\n1. 往多了说，也就做到了10%的…",
+      "created_at": "Sun Mar 29 19:27:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2038290733204201863",
+        "text": "完整评价下，先说好听的：\n1. 这不是对measureText的简单封装，而是基于这个API写的一个排版引擎\n2. 有卓越的质量和出色的性能\n3. 成功挑战文字环绕排版\n4. 提供了极具创造力的案例\n再说难听的：\n1. 往多了说，也就做到了10%的css文本排版能力，却碰瓷css搞宣传，这让我觉得非常不真诚",
+        "created_at": "Sun Mar 29 16:22:35 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2037713766205608234",
+          "text": "My dear front-end developers (and anyone who’s interested in the future of interfaces):\n\nI have crawled through depths of hell to bring you, for the foreseeable years, one of the more important foundational pieces of UI engineering (if not in implementation then certainly at least in concept):\nFast, accurate and comprehensive userland text measurement algorithm in pure TypeScript, usable for laying out entire web pages without CSS, bypassing DOM measurements and reflow",
+          "created_at": "Sat Mar 28 02:09:55 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2037713657334042624",
+              "url": "https://video.twimg.com/amplify_video/2037713657334042624/vid/avc1/3326x2150/7_VCUyUG_Q4kslhw.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2972744345",
+            "name": "Cheng Lou",
+            "screen_name": "_chenglou",
+            "description": "Worked on: @reactjs, @messenger, @reasonml, @rescriptlang & @midjourney",
+            "followers_count": 52167,
+            "friends_count": 401,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 5973,
+            "favorite_count": 48912,
+            "reply_count": 966,
+            "quote_count": 1696
+          }
+        },
+        "user": {
+          "id": "132827204",
+          "name": "winter",
+          "screen_name": "winter_cn",
+          "description": "",
+          "followers_count": 2209,
+          "friends_count": 387,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 12,
+          "reply_count": 2,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203853,
+        "friends_count": 1591,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038335956629991756",
+      "text": "DOOM？！\nhttps://t.co/Of3qPiqltT",
+      "created_at": "Sun Mar 29 19:22:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038195261424759143",
+        "text": "Will it run DOOM? https://t.co/K7eOC1IltY",
+        "created_at": "Sun Mar 29 10:03:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038195023389532160",
+            "url": "https://video.twimg.com/amplify_video/2038195023389532160/vid/avc1/3378x1748/q2WNvCmMAVcgP9b0.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1463013252783165449",
+          "name": "tensorfish",
+          "screen_name": "tensorfish",
+          "description": "the curve of progress is steep",
+          "followers_count": 19781,
+          "friends_count": 1955,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 564,
+          "favorite_count": 6817,
+          "reply_count": 42,
+          "quote_count": 40
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203853,
+        "friends_count": 1591,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038335253983760543",
+      "text": "RT @teslaownersSV: Starship will make a Kardashev civilization Type II possible https://t.co/oFJlfDCPBp",
+      "created_at": "Sun Mar 29 19:19:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2035390458269192193",
+          "url": "https://video.twimg.com/amplify_video/2035390458269192193/vid/avc1/1280x720/iuCJFr7tUqinIvQ_.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2038030723496784121",
+        "text": "Starship will make a Kardashev civilization Type II possible https://t.co/oFJlfDCPBp",
+        "created_at": "Sat Mar 28 23:09:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035390458269192193",
+            "url": "https://video.twimg.com/amplify_video/2035390458269192193/vid/avc1/1280x720/iuCJFr7tUqinIvQ_.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.\n2.8M followers",
+          "followers_count": 1401817,
+          "friends_count": 857,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 274,
+          "favorite_count": 1646,
+          "reply_count": 286,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237635649,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 274,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038334479333515702",
+      "text": "RT @DeryaTR_: 9x safer means tens of thousands of lives saved if every car had FSD, and millions of accidents averted every year. Eventuall…",
+      "created_at": "Sun Mar 29 19:16:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038206740546621775",
+        "text": "9x safer means tens of thousands of lives saved if every car had FSD, and millions of accidents averted every year. Eventually, self-driving cars will be 100x safer, and it will be a major risk and liability to drive classic cars.",
+        "created_at": "Sun Mar 29 10:48:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2034381984227524976",
+          "text": "Tesla's FSD: 5.3 million miles between accidents. US driving average: 660,000. \n\nThat's 9x safer. And it's only getting better.",
+          "created_at": "Wed Mar 18 21:30:36 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "14710129",
+            "name": "Peter H. Diamandis, MD",
+            "screen_name": "PeterDiamandis",
+            "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+            "followers_count": 364117,
+            "friends_count": 822,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 908,
+            "favorite_count": 7329,
+            "reply_count": 554,
+            "quote_count": 170
+          }
+        },
+        "user": {
+          "id": "1228098150012981249",
+          "name": "Derya Unutmaz, MD",
+          "screen_name": "DeryaTR_",
+          "description": "Professor scientist, immunologist, biomedical engineer & Biohacker. ALL IN ON AI ! Interests: longevity, BioAI, AI coding, robotics, Space, Scifi, Singularity",
+          "followers_count": 338845,
+          "friends_count": 7890,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 192,
+          "favorite_count": 1336,
+          "reply_count": 242,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237635649,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 192,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038334141566243252",
+      "text": "Delivering 119 satellites to orbit at once!\n\nFalcon 9, which can carry ~20 tons to orbit (with a reusable booster &amp; fairing), is a “heavy” class rocket by conventional standards.",
+      "created_at": "Sun Mar 29 19:15:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038327543833436324",
+        "text": "Our 16th Transporter rideshare mission is targeted to launch tomorrow from California and will deliver 119 payloads to orbit → https://t.co/jNNWZwQ7Jc https://t.co/BldwrmgWag",
+        "created_at": "Sun Mar 29 18:48:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038326856244482048",
+            "url": "https://pbs.twimg.com/media/HEmXeeqXUAA9zhL.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41393511,
+          "friends_count": 123,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 318,
+          "favorite_count": 2328,
+          "reply_count": 226,
+          "quote_count": 46
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237635649,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2011,
+        "favorite_count": 16891,
+        "reply_count": 2152,
+        "quote_count": 110
+      }
+    },
+    {
+      "id": "2038332648591106548",
+      "text": "https://t.co/0gUlqj7ncn",
+      "created_at": "Sun Mar 29 19:09:08 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038257794659594240",
+          "url": "https://video.twimg.com/ext_tw_video/2038257794659594240/pu/vid/avc1/720x724/AlYiXvrVtzmAvMy1.mp4?tag=19",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237635649,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3051,
+        "favorite_count": 34324,
+        "reply_count": 3577,
+        "quote_count": 287
+      }
+    },
+    {
+      "id": "2038324527797850560",
+      "text": "RT @XFreeze: SpaceX Falcon 9 family has now launched 636 times and counting \n\n618 Falcon 9 flights - 99.52% success rate\n\nBooster B1067: 33…",
+      "created_at": "Sun Mar 29 18:36:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038284044295680080",
+        "text": "SpaceX Falcon 9 family has now launched 636 times and counting \n\n618 Falcon 9 flights - 99.52% success rate\n\nBooster B1067: 33 flights on a SINGLE rocket\n\nIn 2020, SpaceX launched 26 times - the entire year\n\nIn 2026, SpaceX has already done 38 launches in 88 days\n\nThat's 46% MORE than all of 2020 and we're not even in April\n\nMeanwhile, the rest of the world combined: ~29 launches in 2026\n\nOne company. More launches than every other country and company on Earth. Combined",
+        "created_at": "Sun Mar 29 15:56:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038244684133539840",
+            "url": "https://pbs.twimg.com/media/HElMvbsboAANAWs.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 174487,
+          "friends_count": 1686,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 325,
+          "favorite_count": 1691,
+          "reply_count": 328,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237635649,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 325,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2038296297019461747",
       "text": "放烟花",

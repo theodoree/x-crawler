@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237629847,
+    "followers_count": 237635649,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260329",
-  "last_updated": "2026-03-29T18:11:05.282989",
-  "tweet_count": 8,
+  "last_updated": "2026-03-29T20:08:51.970352",
+  "tweet_count": 13,
   "tweets": [
     {
       "id": "2038135071836893440",
@@ -401,6 +401,234 @@
       "quoted": null,
       "stats": {
         "retweet_count": 206,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038324527797850560",
+      "text": "RT @XFreeze: SpaceX Falcon 9 family has now launched 636 times and counting \n\n618 Falcon 9 flights - 99.52% success rate\n\nBooster B1067: 33…",
+      "created_at": "Sun Mar 29 18:36:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038284044295680080",
+        "text": "SpaceX Falcon 9 family has now launched 636 times and counting \n\n618 Falcon 9 flights - 99.52% success rate\n\nBooster B1067: 33 flights on a SINGLE rocket\n\nIn 2020, SpaceX launched 26 times - the entire year\n\nIn 2026, SpaceX has already done 38 launches in 88 days\n\nThat's 46% MORE than all of 2020 and we're not even in April\n\nMeanwhile, the rest of the world combined: ~29 launches in 2026\n\nOne company. More launches than every other country and company on Earth. Combined",
+        "created_at": "Sun Mar 29 15:56:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038244684133539840",
+            "url": "https://pbs.twimg.com/media/HElMvbsboAANAWs.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 174487,
+          "friends_count": 1686,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 325,
+          "favorite_count": 1691,
+          "reply_count": 328,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 325,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038332648591106548",
+      "text": "https://t.co/0gUlqj7ncn",
+      "created_at": "Sun Mar 29 19:09:08 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038257794659594240",
+          "url": "https://video.twimg.com/ext_tw_video/2038257794659594240/pu/vid/avc1/720x724/AlYiXvrVtzmAvMy1.mp4?tag=19",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3051,
+        "favorite_count": 34324,
+        "reply_count": 3577,
+        "quote_count": 287
+      }
+    },
+    {
+      "id": "2038334141566243252",
+      "text": "Delivering 119 satellites to orbit at once!\n\nFalcon 9, which can carry ~20 tons to orbit (with a reusable booster &amp; fairing), is a “heavy” class rocket by conventional standards.",
+      "created_at": "Sun Mar 29 19:15:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038327543833436324",
+        "text": "Our 16th Transporter rideshare mission is targeted to launch tomorrow from California and will deliver 119 payloads to orbit → https://t.co/jNNWZwQ7Jc https://t.co/BldwrmgWag",
+        "created_at": "Sun Mar 29 18:48:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038326856244482048",
+            "url": "https://pbs.twimg.com/media/HEmXeeqXUAA9zhL.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41393511,
+          "friends_count": 123,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 318,
+          "favorite_count": 2328,
+          "reply_count": 226,
+          "quote_count": 46
+        }
+      },
+      "stats": {
+        "retweet_count": 2011,
+        "favorite_count": 16891,
+        "reply_count": 2152,
+        "quote_count": 110
+      }
+    },
+    {
+      "id": "2038334479333515702",
+      "text": "RT @DeryaTR_: 9x safer means tens of thousands of lives saved if every car had FSD, and millions of accidents averted every year. Eventuall…",
+      "created_at": "Sun Mar 29 19:16:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038206740546621775",
+        "text": "9x safer means tens of thousands of lives saved if every car had FSD, and millions of accidents averted every year. Eventually, self-driving cars will be 100x safer, and it will be a major risk and liability to drive classic cars.",
+        "created_at": "Sun Mar 29 10:48:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2034381984227524976",
+          "text": "Tesla's FSD: 5.3 million miles between accidents. US driving average: 660,000. \n\nThat's 9x safer. And it's only getting better.",
+          "created_at": "Wed Mar 18 21:30:36 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "14710129",
+            "name": "Peter H. Diamandis, MD",
+            "screen_name": "PeterDiamandis",
+            "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+            "followers_count": 364117,
+            "friends_count": 822,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 908,
+            "favorite_count": 7329,
+            "reply_count": 554,
+            "quote_count": 170
+          }
+        },
+        "user": {
+          "id": "1228098150012981249",
+          "name": "Derya Unutmaz, MD",
+          "screen_name": "DeryaTR_",
+          "description": "Professor scientist, immunologist, biomedical engineer & Biohacker. ALL IN ON AI ! Interests: longevity, BioAI, AI coding, robotics, Space, Scifi, Singularity",
+          "followers_count": 338845,
+          "friends_count": 7890,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 192,
+          "favorite_count": 1336,
+          "reply_count": 242,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 192,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038335253983760543",
+      "text": "RT @teslaownersSV: Starship will make a Kardashev civilization Type II possible https://t.co/oFJlfDCPBp",
+      "created_at": "Sun Mar 29 19:19:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2035390458269192193",
+          "url": "https://video.twimg.com/amplify_video/2035390458269192193/vid/avc1/1280x720/iuCJFr7tUqinIvQ_.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2038030723496784121",
+        "text": "Starship will make a Kardashev civilization Type II possible https://t.co/oFJlfDCPBp",
+        "created_at": "Sat Mar 28 23:09:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2035390458269192193",
+            "url": "https://video.twimg.com/amplify_video/2035390458269192193/vid/avc1/1280x720/iuCJFr7tUqinIvQ_.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.\n2.8M followers",
+          "followers_count": 1401817,
+          "friends_count": 857,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 274,
+          "favorite_count": 1646,
+          "reply_count": 286,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 274,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
