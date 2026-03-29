@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 203640,
+    "followers_count": 203666,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260329",
-  "last_updated": "2026-03-29T03:05:26.577718",
-  "tweet_count": 2,
+  "last_updated": "2026-03-29T04:52:00.964775",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2038053845582922023",
@@ -91,6 +91,121 @@
       "stats": {
         "retweet_count": 39,
         "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038107652383764554",
+      "text": "RT @wwwgoubuli: 不只是 skills，而是几乎所有流程都可以用这个方式。\n\n每个环节，或者说每个维度，都有若干选项。让用户自己来决定或者让 AI 根据实际情况来选择。\n\n但很多时候用户自己选一下更好，一个是更精准的表达意图，二个是可能组合出的角度比 AI 的随大…",
+      "created_at": "Sun Mar 29 04:15:05 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2038082862680043779",
+        "text": "不只是 skills，而是几乎所有流程都可以用这个方式。\n\n每个环节，或者说每个维度，都有若干选项。让用户自己来决定或者让 AI 根据实际情况来选择。\n\n但很多时候用户自己选一下更好，一个是更精准的表达意图，二个是可能组合出的角度比 AI 的随大流更个性化。\n\nAI 总是有一种趋向平均或者说平庸的趋势。代码可以平，但别的内容大多数时候是要避免平的。",
+        "created_at": "Sun Mar 29 02:36:34 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2020752940403687552",
+          "text": "我最早做 baoyu-skills 也是这个思路，就是整一堆 styles（风格），然后选一个，但是这个的问题在于你很难穷举所有的风格。\n\n后来我换了个思路：不去穷举风格，而是把\"风格\"拆解成多个独立维度。以我的 baoyu-cover-image 为例，我把封面图的风格拆成了 6 个维度：\n1. 构图类型\n2. 色彩方案\n3. 渲染风格\n4. 文字层级\n5. 情绪强度\n6. 字体风格\n\n每个维度各有几个可选值，互不干扰。\n\n这样做的好处是，总共只需要维护 32 个选项，但排列组合能产生 15,552 种风格变体。如果用穷举的方式，你得手工定义上万种 style，根本不现实。\n\n同时为了降低使用门槛，我做了三层设计：\n\n第一层是自动推荐，根据文章内容在每个维度上自动选值，用户什么都不用管；\n\n第二层是 Style Presets，一个关键词同时设定多个维度，比如 --style blueprint 一步到位；\n\n第三层是持久偏好文件，把你常用的默认值存下来，每次自动加载。\n\n就是用组合替代枚举，用正交分解替代穷举。这个思路不只适用于封面图，任何需要个性化定制的 AI 应用都可以借鉴。",
+          "created_at": "Mon Feb 09 06:53:39 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2020752912402591745",
+              "url": "https://pbs.twimg.com/media/HAsoEUKXsAEs-sV.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3178231",
+            "name": "宝玉",
+            "screen_name": "dotey",
+            "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+            "followers_count": 203666,
+            "friends_count": 1591,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 59,
+            "favorite_count": 377,
+            "reply_count": 21,
+            "quote_count": 5
+          }
+        },
+        "user": {
+          "id": "1685336588023443456",
+          "name": "wwwgoubuli",
+          "screen_name": "wwwgoubuli",
+          "description": "Work as a freelancer.\n\nBuilding: https://t.co/xdetzxCZDS\n\nBuilding: https://t.co/RKVncTDHva\n\nBuilding: https://t.co/cv49PLqQr9",
+          "followers_count": 10432,
+          "friends_count": 1177,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 9,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038115581883257201",
+      "text": "Cheng Lou 发布了一个纯 TypeScript 写的文本测量库 Pretext，能在完全不依赖 DOM 的情况下，精确计算文本的排版尺寸。\n\nCheng Lou 是前端圈的老熟人，参与过 React、ReasonML、ReScript 的开发，后来在 Midjourney 工作。这次他说自己\"从地狱深处爬回来\"，带回了这个项目。\n\n为什么这件事值得关注？\n\n做过前端的人都知道，想知道一段文字渲染后占多大空间，标准做法是用 getBoundingClientRect() 去问浏览器。但这个操作会触发 reflow（回流），也就是浏览器被迫重新计算整个页面的布局，是网页里最昂贵的操作之一。而且这种测量没法并行，必须排队处理，写组件时一不小心就会造成读写交错，性能直接崩掉。\n\nPretext 的思路完全不同：它自己实现了一套文本测量算法，用浏览器字体引擎的输出作为校准基准，但测量过程本身不碰 DOM。根据项目的基准测试，速度大约是传统方案的 500 倍。\n\n体积只有几 KB，支持多语言混排（包括韩文混阿拉伯文从右到左的场景），也能正确处理各平台的 Emoji。\n\nCheng Lou 展示了几个 Demo 来说明这个能力解锁了什么：数十万个不同高度的文本框做虚拟滚动，120fps 流畅运行；响应式多栏杂志排版，拖拽时文本实时重排；聊天气泡自动贴合文本宽度；甚至用可变宽度字体做 ASCII 艺术。这些以前要么做不到，要么要和 CSS 斗智斗勇。\n\n开发过程也挺有意思：Cheng Lou 让 Claude Code 和 Codex 在各种容器宽度下反复测量浏览器的真实渲染结果，持续跑了好几周，才把精度打磨到位。\n\n项目地址在 GitHub（chenglou/pretext），npm 安装 @chenglou/pretext 就能用。在线 Demo 在 https://t.co/blDWOgWxSF。\n\n文本排版一直是前端绕不过去的性能瓶颈，Pretext 给出的方案如果足够成熟，可能会改变 UI 框架处理文本的方式，尤其是在 AI 时代越来越多场景需要实时渲染大量动态文本的背景下。",
+      "created_at": "Sun Mar 29 04:46:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037713766205608234",
+        "text": "My dear front-end developers (and anyone who’s interested in the future of interfaces):\n\nI have crawled through depths of hell to bring you, for the foreseeable years, one of the more important foundational pieces of UI engineering (if not in implementation then certainly at least in concept):\nFast, accurate and comprehensive userland text measurement algorithm in pure TypeScript, usable for laying out entire web pages without CSS, bypassing DOM measurements and reflow",
+        "created_at": "Sat Mar 28 02:09:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037713657334042624",
+            "url": "https://video.twimg.com/amplify_video/2037713657334042624/vid/avc1/3326x2150/7_VCUyUG_Q4kslhw.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2972744345",
+          "name": "Cheng Lou",
+          "screen_name": "_chenglou",
+          "description": "Worked on: @reactjs, @messenger, @reasonml, @rescriptlang & @midjourney",
+          "followers_count": 40821,
+          "friends_count": 400,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2869,
+          "favorite_count": 25007,
+          "reply_count": 630,
+          "quote_count": 791
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
         "reply_count": 0,
         "quote_count": 0
       }
