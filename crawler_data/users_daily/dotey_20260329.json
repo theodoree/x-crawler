@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 203812,
+    "followers_count": 203850,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260329",
-  "last_updated": "2026-03-29T16:09:26.820895",
-  "tweet_count": 5,
+  "last_updated": "2026-03-29T18:11:05.271992",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2038053845582922023",
@@ -252,6 +252,182 @@
       "stats": {
         "retweet_count": 0,
         "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038291237514408076",
+      "text": "卧槽，原来 yetong 开源的是 Prompt，比一坨 vibe 后的代码有价值多了，大大的点个赞👍 https://t.co/oVNLroJBVP",
+      "created_at": "Sun Mar 29 16:24:35 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038291045755101184",
+          "url": "https://pbs.twimg.com/media/HEl26CMXoAAe1nH.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2038183163579810024",
+        "text": "大家好，开源一下我的语音输入法：\n\nhttps://t.co/wfOSBIRjwG",
+        "created_at": "Sun Mar 29 09:15:08 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "147786784",
+          "name": "yetone",
+          "screen_name": "yetone",
+          "description": "Work at @isoformai\n\nBuilt a Coding Agent for Vim: avante.nvim\n\nBuilding: https://t.co/pfq9srNgsd\n\nBuilding: https://t.co/fpGnPR5t9C\n\nBuilding: https://t.co/cBN1yzJPIG",
+          "followers_count": 80753,
+          "friends_count": 4500,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 34,
+          "favorite_count": 457,
+          "reply_count": 37,
+          "quote_count": 31
+        }
+      },
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 288,
+        "reply_count": 6,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2038292136638992534",
+      "text": "构建过程\nhttps://t.co/28btagouzA",
+      "created_at": "Sun Mar 29 16:28:09 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038187238077726948",
+        "text": "你们以为我在玩抽象，其实并不是。这个项目中的源码是我用我的语音输入法源码构建出来的制品：https://t.co/dUBUSDvgEP\n\n并且我还录制了构建记录，以此作为证据：https://t.co/9NMWAY3eJ3",
+        "created_at": "Sun Mar 29 09:31:19 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "147786784",
+          "name": "yetone",
+          "screen_name": "yetone",
+          "description": "Work at @isoformai\n\nBuilt a Coding Agent for Vim: avante.nvim\n\nBuilding: https://t.co/pfq9srNgsd\n\nBuilding: https://t.co/fpGnPR5t9C\n\nBuilding: https://t.co/cBN1yzJPIG",
+          "followers_count": 80753,
+          "friends_count": 4500,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 80,
+          "reply_count": 6,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038296005939023918",
+      "text": "都能玩游戏了",
+      "created_at": "Sun Mar 29 16:43:32 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038202011578155456",
+        "text": "Lets go! Play pretext breaker 🎮\nhttps://t.co/x2lNPNqrmj https://t.co/vToGCjTBms",
+        "created_at": "Sun Mar 29 10:30:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038201667473350656",
+            "url": "https://video.twimg.com/amplify_video/2038201667473350656/vid/avc1/1096x872/Yj-QWCv1bnFbO6qZ.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1456139506982088705",
+          "name": "Singular Prism",
+          "screen_name": "singular_prism",
+          "description": "🤖 Harnessing #AI to unveil insights & revolutionize learning. Exploring the unknown, one algorithm at a time. Join my journey! 🚀",
+          "followers_count": 198,
+          "friends_count": 1427,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 282,
+          "favorite_count": 2820,
+          "reply_count": 46,
+          "quote_count": 69
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038296297019461747",
+      "text": "放烟花",
+      "created_at": "Sun Mar 29 16:44:41 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038252459018125764",
+        "text": "What better way to demo its power than with fireworks? You can even play with it at home using the app in the reply. https://t.co/kuUPR708vj",
+        "created_at": "Sun Mar 29 13:50:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038251778534473728",
+            "url": "https://video.twimg.com/amplify_video/2038251778534473728/vid/avc1/3030x1698/FZJ0XPl9Lz_ahtwo.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1479852652150337542",
+          "name": "Michael Guo",
+          "screen_name": "Michaelzsguo",
+          "description": "Building AI agents and AI-native orgs. Demystifying AI in practice.  EN/中文",
+          "followers_count": 705,
+          "friends_count": 359,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 1,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 1,
         "reply_count": 0,
         "quote_count": 0
       }
