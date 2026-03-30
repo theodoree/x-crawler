@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237662941,
+    "followers_count": 237670892,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260330",
-  "last_updated": "2026-03-30T12:20:07.469761",
-  "tweet_count": 22,
+  "last_updated": "2026-03-30T14:34:20.746091",
+  "tweet_count": 23,
   "tweets": [
     {
       "id": "2038453152505299116",
@@ -1081,6 +1081,59 @@
         "favorite_count": 10119,
         "reply_count": 2875,
         "quote_count": 141
+      }
+    },
+    {
+      "id": "2038613948900221011",
+      "text": "RT @SpaceX: Liftoff of Transporter-16! https://t.co/PpIorZ0ZL6",
+      "created_at": "Mon Mar 30 13:46:55 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038572764521525248",
+          "url": "https://video.twimg.com/amplify_video/2038572764521525248/vid/avc1/3840x2160/JZsZKRs8F2gZ1zwz.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2038572851834294636",
+        "text": "Liftoff of Transporter-16! https://t.co/PpIorZ0ZL6",
+        "created_at": "Mon Mar 30 11:03:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038572764521525248",
+            "url": "https://video.twimg.com/amplify_video/2038572764521525248/vid/avc1/3840x2160/JZsZKRs8F2gZ1zwz.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41400323,
+          "friends_count": 123,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 507,
+          "favorite_count": 3523,
+          "reply_count": 342,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 507,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
