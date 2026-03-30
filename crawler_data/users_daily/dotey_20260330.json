@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 203936,
+    "followers_count": 203962,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260330",
-  "last_updated": "2026-03-30T04:58:58.571458",
-  "tweet_count": 8,
+  "last_updated": "2026-03-30T06:39:18.640203",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2038406683865624800",
@@ -277,6 +277,151 @@
         "favorite_count": 104,
         "reply_count": 27,
         "quote_count": 13
+      }
+    },
+    {
+      "id": "2038481514732691940",
+      "text": "你日常用 Claude Code，用了多少功能？手机上写代码？语音编程？让 Claude 每 5 分钟自动帮你处理代码审查？\n\nClaude Code 的创建者 Boris Cherny 列了 15 个他觉得被低估的功能。\n\n【1】Claude Code 有移动端\n\nBoris 说他有很多代码是在 iOS 上写的，不用开电脑就能改代码。操作方式：下载 Claude App（iOS 或 Android），左侧菜单里有个 Code 标签页。\n\n【手机端更适合轻量级修改和任务下发，比如在地铁上让 Claude 开始跑一个任务，不是真的在 6 寸屏幕上写复杂逻辑。】\n\n【2】会话可以在手机、网页、桌面端和终端之间来回切换\n\n在终端运行 `claude --teleport` 或输入 `/teleport`，可以把云端会话拉到本地继续。反过来，用 `/remote-control` 可以从手机或网页远程控制本地正在运行的会话。\n\nBoris 在设置里开启了\"为所有会话启用远程控制\"。\n\n文档：https://t.co/E07xvGQM93\n\n【解决的是一个真实痛点：工位上启动了长时间任务，人需要出门，但想随时看进度、追加指令。目前 Remote Control 还是研究预览阶段，同一时间只能远程控制一个会话。】\n\n【3】/loop 和 /schedule：定时自动化\n\nBoris 说这是 Claude Code 最强大的两个功能。可以设定 Claude 按固定间隔自动运行任务，最长持续一周。\n\n他自己在本地跑着一堆循环：\n\n- `/loop 5m /babysit`：每 5 分钟自动处理代码审查意见、自动 rebase、把 PR 护送到合并上线\n- `/loop 30m /slack-feedback`：每 30 分钟根据 Slack 反馈自动提 PR\n- `/loop /post-merge-sweeper`：自动补提 PR，处理之前审查中遗漏的评论\n- `/loop 1h /pr-pruner`：每小时清理过时或不再需要的 PR\n\nBoris 的建议：把工作流变成 skill + loop 的组合。\n\n文档：https://t.co/uF14GJiVmm\n\n【这可能是整个帖子里最有想象力的部分，把 Claude 从\"你问它答\"变成了后台持续运行的自动化工人。但有几个限制要注意：终端必须保持开启，/loop 任务最长跑三天（一周是通过桌面端的 /schedule 实现的），电脑不能休眠。另外，babysit 这种自动处理审查并推到生产的做法，前提是你有充分的测试覆盖，不建议在测试薄弱的项目里照搬。】\n\n【4】Hooks：在代理生命周期中插入确定性逻辑\n\nHooks（钩子）可以在 Claude 运行过程中的特定节点自动执行预设逻辑：\n\n- SessionStart：每次启动时动态加载上下文\n- PreToolUse：每次执行 bash 命令前记录日志\n- PermissionRequest：把权限请求发到 WhatsApp，远程批准或拒绝\n- Stop：Claude 停下来时自动催它继续\n\n文档：https://t.co/jPf1XgiR5n\n\n【Hooks 类似 Git 的 pre-commit hook，但作用于 AI 代理的整个生命周期。这是 Claude Code 作为\"代理平台\"而非\"编程助手\"的关键设计，高级用户会喜欢，但学习成本不低。】\n\n【5】Cowork Dispatch：远程操控桌面端\n\nBoris 说他每天都用 Dispatch 来处理 Slack 消息、邮件、管理文件，不在电脑前也能用。\n\nDispatch 是 Claude 桌面应用的安全远程控制功能，可以使用你的 MCP 服务器、浏览器和电脑，前提是授权。\n\n产品页面：https://t.co/2Cu35XFijB\n\n【Dispatch 和前面的 Remote Control 容易混淆。简单区分：Remote Control 控制的是终端里的 Claude Code 会话，Dispatch 控制的是桌面端的 Claude 应用，后者能操作浏览器、文件系统，能做的事更多。Dispatch 目前只支持 macOS。】\n\n【6】前端开发一定要装 Chrome 扩展\n\nBoris 说，用 Claude Code 最重要的一点是给 Claude 一个验证输出的方式。\n\n他的类比：让一个工程师做网站但不让他用浏览器，结果能好看吗？给他浏览器，他会自己写代码、自己看效果、自己迭代到满意。\n\nBoris 每次做前端项目都装 Chrome 扩展，说比其他类似的 MCP 工具更稳定。\n\n下载地址（Chrome/Edge）：https://t.co/AM61sLmG4P\n\n【\"给 AI 一个验证自己输出的方式\"这条原则不只适用于前端。任何能让 Claude 看到自己工作结果的机制，跑测试、检查编译、预览效果，都能显著提升输出质量。可能是整个帖子里最值得记住的一条。】\n\n【7】桌面端内置 Web 服务器预览\n\nClaude 桌面端可以自动运行 Web 服务器并在内置浏览器里测试，不需要手动配置。命令行和 VSCode 通过 Chrome 扩展也能实现类似效果。\n\n文档：https://t.co/5U0anp73A6\n\n【8】会话分叉\n\n两种方式：在当前会话里运行 `/branch`，或从命令行运行 `claude --resume <session-id> --fork-session`。\n\n【探索不同方案时有用。让 Claude 做到一半，想试另一个方向，分叉出去两边互不影响。】\n\n【9】/btw：边工作边问问题\n\nClaude 执行任务的过程中，用 `/btw` 可以插入快速问题，不打断正在进行的工作。单轮问答，不会调用工具，但能看到当前会话的完整上下文。\n\n【小功能但实用。相当于 Claude 在干活时你在旁边问了一句\"顺便问一下……\"。】\n\n【10】Git Worktrees：并行开发的基础设施\n\nGit 工作树（worktrees）允许你在同一个仓库里同时检出多个分支到不同目录，互不干扰。Claude Code 对工作树有深度支持。\n\nBoris 说他随时有几十个 Claude 实例在跑，靠的就是工作树。用 `claude -w` 启动新的工作树会话，或在桌面端勾选\"worktree\"。不用 git 的用户可以通过 WorktreeCreate hook 自定义创建逻辑。\n\n【\"几十个实例同时跑\"这种用法对订阅额度和机器性能都有要求。但即使只跑 2-3 个并行会话，工作树也比反复切分支高效得多。】\n\n【11】/batch：大规模并行修改\n\n/batch 先和你沟通需求，然后把任务扇出给多个工作树代理并行执行，数量可以是几十个、几百个甚至上千个。适用于大规模代码迁移和其他可并行化的工作。\n\n【对\"全仓库 API 改名\"\"所有文件从格式 A 迁移到格式 B\"这类批量操作很有价值，前提是你的任务确实可以并行化，而且有足够的测试来验证批量修改没出问题。】\n\n【12】--bare：SDK 启动提速最多 10 倍\n\n默认情况下，`claude -p`（或 TypeScript/Python SDK）启动时会搜索本地的 CLAUDE.md、settings 和 MCP 配置。但在非交互式场景下，你通常会通过 `--system-prompt`、`--mcp-config` 等参数显式指定加载内容，默认的搜索流程就成了浪费。\n\nBoris 说这是最初设计 SDK 时的失误，未来版本会把 --bare 设为默认，现在需要手动加。\n\n【写自动化脚本和 CI/CD 集成的人注意这条。加上 --bare 跳过不必要的配置加载，速度提升明显。】\n\n【13】--add-dir：跨仓库工作\n\n在一个仓库启动 Claude，用 `--add-dir`（或 `/add-dir`）让它看到并操作另一个仓库。也可以在团队的 settings.json 里配置 `additionalDirectories`，所有人启动时自动加载。\n\n文档：https://t.co/PIP2NSAS2G\n\n【14】--agent：自定义代理\n\n在 `.claude/agents` 目录下定义代理，用 `claude --agent=<名字>` 启动。可以给代理设定专属的系统提示词和工具集。\n\n文档：https://t.co/bQLePyxSxi\n\n【自定义代理的价值在于专业化。与其让一个通用 Claude 处理所有事，不如为代码审查、写测试、写文档各创建一个专用代理，每个加载不同的上下文和工具。这和前面 skill + loop 的思路是一脉相承的。】\n\n【15】/voice：语音编程\n\nBoris 说他大部分代码是用语音说给 Claude 的，不是打字。\n\n操作方式：命令行里运行 `/voice` 然后按住空格键说话；桌面端按语音按钮；iOS 上启用听写功能。目前支持 20 种语言。\n\n【语音编程的效果取决于任务类型。描述功能需求、解释 bug、口述重构方案，语音可能比打字更快。但精确描述代码结构或变量命名时，打字更高效。】\n\nBoris 在最后说他其实还想继续写但强迫自己停了，后续会发更多。",
+      "created_at": "Mon Mar 30 05:00:40 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038471896027602944",
+          "url": "https://pbs.twimg.com/media/HEobY59XoAAqgOv.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038481064369532928",
+          "url": "https://pbs.twimg.com/media/HEojuksbMAAfXSD.png"
+        },
+        {
+          "type": "photo",
+          "id": "2038481109231505408",
+          "url": "https://pbs.twimg.com/media/HEojxL0WkAAGZ89.png"
+        },
+        {
+          "type": "photo",
+          "id": "2038481498555445248",
+          "url": "https://pbs.twimg.com/media/HEokH2KacAAEm5z.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2038454336355999749",
+        "text": "I wanted to share a bunch of my favorite hidden and under-utilized features in Claude Code. I'll focus on the ones I use the most.\n\nHere goes.",
+        "created_at": "Mon Mar 30 03:12:41 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "159337660",
+          "name": "Boris Cherny",
+          "screen_name": "bcherny",
+          "description": "Claude Code @anthropicai",
+          "followers_count": 347556,
+          "friends_count": 130,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 769,
+          "favorite_count": 7669,
+          "reply_count": 203,
+          "quote_count": 135
+        }
+      },
+      "stats": {
+        "retweet_count": 36,
+        "favorite_count": 152,
+        "reply_count": 8,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2038496784880689200",
+      "text": "RT @songguoxiansen: 微软开源了语音AI模型：VibeVoice，目前已27K的Star了\n\n主要包括3个模型：\n\n1、VibeVoice-ASR-7B：文本转语音 (TTS) 模型。\nVibeVoice-ASR是一个统一的语音转文本模型，可一次性处理60分钟…",
+      "created_at": "Mon Mar 30 06:01:21 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2038447137764384798",
+        "text": "微软开源了语音AI模型：VibeVoice，目前已27K的Star了\n\n主要包括3个模型：\n\n1、VibeVoice-ASR-7B：文本转语音 (TTS) 模型。\nVibeVoice-ASR是一个统一的语音转文本模型，可一次性处理60分钟的长音频，生成包含“谁（说话人）”、“何时（时间戳）”和“什么（内容）”的结构化转录，并支持自定义热词。\n\n2、VibeVoice-TTS-1.5B：自动语音识别 (ASR) 模型。\n90分钟长篇语音生成、支持在一次对话中最多4个不同的说话人、生成富有表现力听起来自然的语音\n\n3、VibeVoice-Realtime-0.5B：实时文本转语音 (TTS) 模型。\n实时TTS（延迟约300毫秒）、可长篇语音生成（约10分钟）\n\n有人还用VibeVoice-ASR做了一个语音输入法：Vibing。\n亲测识别速度和准确率还行，macOS和Windows可用。",
+        "created_at": "Mon Mar 30 02:44:04 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038446557700517888",
+            "url": "https://video.twimg.com/amplify_video/2038446557700517888/vid/avc1/1088x640/JCoOpFmEfsJ1AREv.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1788123537099878400",
+          "name": "松果先森",
+          "screen_name": "songguoxiansen",
+          "description": "关注AI技术：LLM、AI编程、AI图像、AI视频等。 \n免费提示词：https://t.co/jvdn30HNI5\n微信公众号：松果先森，扣666进AI群\nAI交流TG群：https://t.co/KvkfTq1G9H",
+          "followers_count": 28314,
+          "friends_count": 543,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 35,
+          "favorite_count": 170,
+          "reply_count": 6,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 35,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038496881135779917",
+      "text": "RT @frxiaobei: 每一轮 AI 叙事，都会把接口误当成基础设施。\n\nMCP 是一次，CLI 现在是第二次。\n\n真正的基础设施，从来都在接口下面那层。\n\nGoogle、飞书、钉钉一定会做 CLI，因为他们必须给 agent 一个可控的入口。\n\n同一件事，其实在云厂商那…",
+      "created_at": "Mon Mar 30 06:01:44 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2038454498335875238",
+        "text": "每一轮 AI 叙事，都会把接口误当成基础设施。\n\nMCP 是一次，CLI 现在是第二次。\n\n真正的基础设施，从来都在接口下面那层。\n\nGoogle、飞书、钉钉一定会做 CLI，因为他们必须给 agent 一个可控的入口。\n\n同一件事，其实在云厂商那边也在发生，很多云服务也有一整套 CLI。理由也很简单，让你更高效地用他们的系统。\n\nCLI在这里的角色：\n1. 把已有系统开放给 agent 调度的更优路径\n2. 提高使用效率而不是构建系统本身\n\n但大多数人忽略了一点，你没有这个生态 CLI 是撑不起来的，最多算一个更高级一点的 shell。\n\n要警惕一股脑的去构建 CLI 本身，就好像上了 CLI 就等于进入了 agent 时代，这其实是错位的。\n\n对于绝大多数公司和人，盯着 Agent 构建生产力就可以了，接口只能改变接入的体验，Agent 才能决定生产力。",
+        "created_at": "Mon Mar 30 03:13:19 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1830880351801221120",
+          "name": "凡人小北",
+          "screen_name": "frxiaobei",
+          "description": "行道途中。非求速成，惟求通达。\n在真实业务与组织中持续验证 AI 的价值与边界。\n个人 IP｜商业与管理｜AI 咨询",
+          "followers_count": 24374,
+          "friends_count": 558,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 26,
+          "reply_count": 12,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
