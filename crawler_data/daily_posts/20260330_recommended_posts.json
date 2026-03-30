@@ -1,12 +1,510 @@
 {
   "date": "20260330",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-30T06:39:18.612221",
-  "tweet_count": 219,
-  "unique_tweet_count": 219,
-  "total_crawled": 412,
-  "duplicates_removed": 193,
+  "last_crawl_time": "2026-03-30T08:34:13.699085",
+  "tweet_count": 228,
+  "unique_tweet_count": 228,
+  "total_crawled": 419,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2038532601569481205",
+      "text": "Here you go",
+      "created_at": "Mon Mar 30 08:23:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038532491422937449",
+        "text": "@TxCryptoSaurus https://t.co/wHcxx0JBFl",
+        "created_at": "Mon Mar 30 08:23:14 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038532433310855168",
+            "url": "https://video.twimg.com/amplify_video/2038532433310855168/vid/avc1/720x954/erOKy4NueG4eF76F.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "https://t.co/dDtDyVssfm",
+          "followers_count": 237644955,
+          "friends_count": 1305,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 36,
+          "favorite_count": 270,
+          "reply_count": 144,
+          "quote_count": 28
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237644955,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 181,
+        "favorite_count": 1070,
+        "reply_count": 680,
+        "quote_count": 46
+      }
+    },
+    {
+      "id": "2038531319496667561",
+      "text": "https://t.co/XrlqVeEVUT",
+      "created_at": "Mon Mar 30 08:18:35 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038343034509635584",
+          "url": "https://video.twimg.com/ext_tw_video/2038343034509635584/pu/vid/avc1/784x1168/E2YOY6dDPmONiYa_.mp4?tag=19",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237644955,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 414,
+        "favorite_count": 3384,
+        "reply_count": 1200,
+        "quote_count": 61
+      }
+    },
+    {
+      "id": "2038530285743260155",
+      "text": "Try Grok Imagine",
+      "created_at": "Mon Mar 30 08:14:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038194408714019117",
+        "text": "50 seconds entirely created using Grok Imagine's tools.\nGrok can create scenes that could be featured in a film. https://t.co/aFD5VjM4fQ",
+        "created_at": "Sun Mar 29 09:59:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038193617139867648",
+            "url": "https://video.twimg.com/amplify_video/2038193617139867648/vid/avc1/1080x1080/MoNQjcrS0JF06k4V.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 126636,
+          "friends_count": 3493,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 45,
+          "favorite_count": 339,
+          "reply_count": 100,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237644955,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 284,
+        "favorite_count": 2062,
+        "reply_count": 988,
+        "quote_count": 35
+      }
+    },
+    {
+      "id": "2038527807710781774",
+      "text": "RT @dvorahfr: Grok Imagine, https://t.co/JWXRDU5Zx4",
+      "created_at": "Mon Mar 30 08:04:38 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038464030235557888",
+          "url": "https://video.twimg.com/ext_tw_video/2038464030235557888/pu/vid/avc1/720x1072/lNKQa8-3NA5KEhts.mp4?tag=19",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2038464058781786202",
+        "text": "Grok Imagine, https://t.co/JWXRDU5Zx4",
+        "created_at": "Mon Mar 30 03:51:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038464030235557888",
+            "url": "https://video.twimg.com/ext_tw_video/2038464030235557888/pu/vid/avc1/720x1072/lNKQa8-3NA5KEhts.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 126636,
+          "friends_count": 3493,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 117,
+          "favorite_count": 607,
+          "reply_count": 156,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237644955,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 117,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038524917654962437",
+      "text": "RT @cremieuxrecueil: It's extremely delightful seeing the third world slop replaced by Japanese gemposts.\n\nWho knew you could just flip the…",
+      "created_at": "Mon Mar 30 07:53:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038404229501509805",
+        "text": "It's extremely delightful seeing the third world slop replaced by Japanese gemposts.\n\nWho knew you could just flip the switch and beautify the timeline! https://t.co/gfHYoYkVK0",
+        "created_at": "Sun Mar 29 23:53:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038404225223516160",
+            "url": "https://pbs.twimg.com/media/HEnd18kaYAAAD80.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1637507099558027267",
+          "name": "Crémieux",
+          "screen_name": "cremieuxrecueil",
+          "description": "I write about genetics, 'metrics, and demographics.\n\nRead my long-form writing at https://t.co/8hgA4nNS2A.",
+          "followers_count": 302144,
+          "friends_count": 1941,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 138,
+          "favorite_count": 1355,
+          "reply_count": 138,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237644955,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 138,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038524790533914883",
+      "text": "RT @Rothmus: https://t.co/788Kxhj0en",
+      "created_at": "Mon Mar 30 07:52:38 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038518484158533632",
+          "url": "https://video.twimg.com/amplify_video/2038518484158533632/vid/avc1/718x760/9nJuxjU96MpHLTnd.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2038518548172099667",
+        "text": "https://t.co/788Kxhj0en",
+        "created_at": "Mon Mar 30 07:27:50 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038518484158533632",
+            "url": "https://video.twimg.com/amplify_video/2038518484158533632/vid/avc1/718x760/9nJuxjU96MpHLTnd.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 658974,
+          "friends_count": 2790,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 94,
+          "favorite_count": 709,
+          "reply_count": 111,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237644955,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 94,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038523632172101636",
+      "text": "RT @Rothmus: https://t.co/4iLVE2vWYO",
+      "created_at": "Mon Mar 30 07:48:02 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038425889386721280",
+          "url": "https://pbs.twimg.com/media/HEnxi93a8AAYVsV.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2038425894566416388",
+        "text": "https://t.co/4iLVE2vWYO",
+        "created_at": "Mon Mar 30 01:19:40 +0000 2026",
+        "lang": "zxx",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038425889386721280",
+            "url": "https://pbs.twimg.com/media/HEnxi93a8AAYVsV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 658974,
+          "friends_count": 2790,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 236,
+          "favorite_count": 1821,
+          "reply_count": 148,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237644955,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 236,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038520237763793294",
+      "text": "RT @TheAliceSmith: Every time I hear some woke screenwriter or reviewer talk about the need for “morally complex” plots or “morally grey” h…",
+      "created_at": "Mon Mar 30 07:34:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038317490753745078",
+        "text": "Every time I hear some woke screenwriter or reviewer talk about the need for “morally complex” plots or “morally grey” heroes, I think of this quote from Nietzsche.\n\n“They muddy the water, to make it seem deep.”",
+        "created_at": "Sun Mar 29 18:08:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4296903437",
+          "name": "Alice Smith",
+          "screen_name": "TheAliceSmith",
+          "description": "Who is Alice Smith? The great-great-great-granddaughter of Adam Smith. Follow me on my adventures down the capitalist rabbit hole! 2+2=4",
+          "followers_count": 97004,
+          "friends_count": 2796,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 798,
+          "favorite_count": 5956,
+          "reply_count": 166,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237644955,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 798,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038519709109571906",
+      "text": "RT @DimaZeniuk: Starlink satellites in the sky over Japan https://t.co/eChwW9qnj4",
+      "created_at": "Mon Mar 30 07:32:27 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1566890967676125185",
+          "url": "https://video.twimg.com/ext_tw_video/1566890967676125185/pu/vid/720x720/dkIvXHEWnYrCD3Qo.mp4?tag=12",
+          "bitrate": 1280000
+        }
+      ],
+      "retweet": {
+        "id": "2038511221889016224",
+        "text": "Starlink satellites in the sky over Japan https://t.co/eChwW9qnj4",
+        "created_at": "Mon Mar 30 06:58:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1566890967676125185",
+            "url": "https://video.twimg.com/ext_tw_video/1566890967676125185/pu/vid/720x720/dkIvXHEWnYrCD3Qo.mp4?tag=12",
+            "bitrate": 1280000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1198495865301864448",
+          "name": "Dima Zeniuk",
+          "screen_name": "DimaZeniuk",
+          "description": "Tesla | SpaceX | Starlink | X |\nFree speech\n\nInspired by innovation | Future | Neuralink",
+          "followers_count": 123363,
+          "friends_count": 639,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 354,
+          "favorite_count": 2908,
+          "reply_count": 317,
+          "quote_count": 35
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237644955,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 354,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2038496881135779917",
       "text": "RT @frxiaobei: 每一轮 AI 叙事，都会把接口误当成基础设施。\n\nMCP 是一次，CLI 现在是第二次。\n\n真正的基础设施，从来都在接口下面那层。\n\nGoogle、飞书、钉钉一定会做 CLI，因为他们必须给 agent 一个可控的入口。\n\n同一件事，其实在云厂商那…",
