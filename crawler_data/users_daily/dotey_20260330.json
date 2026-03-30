@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 203911,
+    "followers_count": 203936,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260330",
-  "last_updated": "2026-03-30T03:06:00.221706",
-  "tweet_count": 5,
+  "last_updated": "2026-03-30T04:58:58.571458",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2038406683865624800",
@@ -226,6 +226,57 @@
         "favorite_count": 71,
         "reply_count": 13,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2038463140799689080",
+      "text": "如果你需要一个 skill 帮你创建那种为 agents 写的 cli，可以试试这个：\nhttps://t.co/HtPP947GmQ",
+      "created_at": "Mon Mar 30 03:47:40 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 12,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038464485422215493",
+      "text": "如果你担心 cli 更新了 skills 版本没更新，也就是 cli 已经升级了，skill 还在用老的命令参数。\n\n可以在skill 里面加一个版本检测：\n使用前先 cli --version 获取版本号，如果当前skill 版本落后于 cli 版本，那么去skills的repo拉取更新最新版本的 skill",
+      "created_at": "Mon Mar 30 03:53:00 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038465272160325924",
+      "text": "为了用 SeeDance 不排队，凌晨上班 https://t.co/uXR1COtc4m",
+      "created_at": "Mon Mar 30 03:56:08 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038464898175303681",
+          "url": "https://pbs.twimg.com/media/HEoVBk7XgAEoMkM.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 104,
+        "reply_count": 27,
+        "quote_count": 13
       }
     }
   ]
