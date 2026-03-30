@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 203854,
+    "followers_count": 203875,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260329",
-  "last_updated": "2026-03-29T22:08:45.968844",
-  "tweet_count": 12,
+  "last_updated": "2026-03-30T00:26:17.493876",
+  "tweet_count": 14,
   "tweets": [
     {
       "id": "2038053845582922023",
@@ -433,6 +433,52 @@
       }
     },
     {
+      "id": "2038335477204332910",
+      "text": "都好会玩\nhttps://t.co/stj7WWNKyI",
+      "created_at": "Sun Mar 29 19:20:22 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038248755401740730",
+        "text": "Couldn't fall asleep so I made a better pretext Bad Apple - improved silhouette, added Japanese lyrics, found a better english translation. It's so beautiful https://t.co/nNXjqyx6mJ",
+        "created_at": "Sun Mar 29 13:35:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038246416922095616",
+            "url": "https://video.twimg.com/amplify_video/2038246416922095616/vid/avc1/2480x1484/AI3kcAvH2jf2vKdv.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1736961829195395072",
+          "name": "Kevin",
+          "screen_name": "linguinelabs",
+          "description": "swe @tesla, bad apple engineer,🎓ubc engineering physics",
+          "followers_count": 1731,
+          "friends_count": 906,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 805,
+          "favorite_count": 4566,
+          "reply_count": 60,
+          "quote_count": 48
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
       "id": "2038335956629991756",
       "text": "DOOM？！\nhttps://t.co/Of3qPiqltT",
       "created_at": "Sun Mar 29 19:22:17 +0000 2026",
@@ -590,6 +636,52 @@
       "stats": {
         "retweet_count": 0,
         "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038398130253668400",
+      "text": "还可以手机上配合重力感应\nhttps://t.co/MBghK8Rlut",
+      "created_at": "Sun Mar 29 23:29:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038333454526320789",
+        "text": "Had to play with pretext today. What if you had to keep your phone perfectly straight to read anything? https://t.co/4jeWeYmpCv",
+        "created_at": "Sun Mar 29 19:12:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038331625713303552",
+            "url": "https://video.twimg.com/amplify_video/2038331625713303552/vid/avc1/1920x1080/ICNXohEw7ZEyDy_k.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15929213",
+          "name": "Marius Hauken",
+          "screen_name": "mhauken",
+          "description": "Designer shipping better banking & playful side projects like @PieMenu from Norway's west coast.",
+          "followers_count": 129706,
+          "friends_count": 1731,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 228,
+          "reply_count": 11,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
         "reply_count": 0,
         "quote_count": 0
       }
