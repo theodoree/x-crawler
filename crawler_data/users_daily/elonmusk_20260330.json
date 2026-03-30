@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237681928,
+    "followers_count": 237690854,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260330",
-  "last_updated": "2026-03-30T16:24:06.200774",
-  "tweet_count": 32,
+  "last_updated": "2026-03-30T18:21:01.208989",
+  "tweet_count": 34,
   "tweets": [
     {
       "id": "2038453152505299116",
@@ -1562,6 +1562,106 @@
       "quoted": null,
       "stats": {
         "retweet_count": 117,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038654268694224978",
+      "text": "Japan 𝕏 posts excellent content that is well-deserving of global exposure",
+      "created_at": "Mon Mar 30 16:27:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038575051025580315",
+        "text": "日本のX、贔屓目なしでも「世界一おもろいSNS」なのがバレつつある。このノリがミームとして海外に伝播したら、海外勢もさらにおもろくなるのはほぼ確定。おもろい場所には人が集まる。XがInstagramやTikTokをぶち抜いて、最終的に人類の覇権SNSになる未来、フツーにあり得るな",
+        "created_at": "Mon Mar 30 11:12:21 +0000 2026",
+        "lang": "ja",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1038343247309942784",
+          "name": "エボサイ（EvoPsy）",
+          "screen_name": "selfcomestomine",
+          "description": "進化心理学（EP）「遺伝子とは、無意識のうちに私たちを動かすものなのだと頭に入れておいてほしい」byロバートライト．心の働きは母なる進化に設計されている．サピエンスの行動を生物学的動機から解明する．▼noteマガジン「HUMATRIX」講談社「現代ビジネス」に寄稿。All tweets are hypotheses",
+          "followers_count": 34107,
+          "friends_count": 786,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 795,
+          "favorite_count": 11381,
+          "reply_count": 974,
+          "quote_count": 202
+        }
+      },
+      "stats": {
+        "retweet_count": 3373,
+        "favorite_count": 41541,
+        "reply_count": 3605,
+        "quote_count": 627
+      }
+    },
+    {
+      "id": "2038673871235358751",
+      "text": "RT @Polymarket: BREAKING: Grokipedia begins outranking Wikipedia for certain Google search results. https://t.co/uMM66WGMsf",
+      "created_at": "Mon Mar 30 17:45:02 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038654584156217348",
+          "url": "https://pbs.twimg.com/media/HErBiwRaYAQAznH.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038654592137711617",
+          "url": "https://pbs.twimg.com/media/HErBjOAWUAEDmJD.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2038654599888764952",
+        "text": "BREAKING: Grokipedia begins outranking Wikipedia for certain Google search results. https://t.co/uMM66WGMsf",
+        "created_at": "Mon Mar 30 16:28:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038654584156217348",
+            "url": "https://pbs.twimg.com/media/HErBiwRaYAQAznH.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038654592137711617",
+            "url": "https://pbs.twimg.com/media/HErBjOAWUAEDmJD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1261335549215989760",
+          "name": "Polymarket",
+          "screen_name": "Polymarket",
+          "description": "The World's Largest Prediction Market. Trade politics, news, crypto, culture, sports, tech, & more. Discord: https://t.co/tzKrbDfF3x",
+          "followers_count": 1301915,
+          "friends_count": 5584,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 296,
+          "favorite_count": 2261,
+          "reply_count": 337,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 296,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
