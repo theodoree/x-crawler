@@ -1,12 +1,248 @@
 {
   "date": "20260330",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-30T00:26:17.466138",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-30T03:06:00.195000",
+  "tweet_count": 205,
+  "unique_tweet_count": 205,
+  "total_crawled": 400,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2038441251037434192",
+      "text": "买了 Mac Mini 当服务器，没显示器怎么办？一招搞定\n\n最近不少人因为 OpenClaw（龙虾🦞）入手了 Mac Mini，打算拿来跑模型或当开发服务器。但问题来了：专门给它配一台显示器，既占地方又浪费钱。其实 macOS 自带的\"屏幕共享\"功能就能完美解决这个问题——用你现有的 Mac 直接远程操控 Mac Mini，就像坐在它面前一样。\n\n设置方法很简单，两步就行：\n第一步，在 Mac Mini 上打开屏幕共享。进入\"系统设置\" → \"通用\" → \"共享\"，把\"屏幕共享\"打开。如果 Mac Mini 还没连显示器做初始设置，可以先临时借一台显示器或电视，用 HDMI 接上完成这一步。\n\n第二步，在你日常用的 Mac 上打开\"屏幕共享\"App（在\"应用程序\"里搜 Screen Sharing 就能找到），输入 Mac Mini 的 IP 地址或主机名，点连接，输入账号密码就行了。连上之后，Mac Mini 的整个桌面就出现在你面前，鼠标键盘都能正常操作。\n\n几个实用技巧：连接时可以选\"高性能\"模式（需要 Apple 芯片 + macOS Sonoma 14 以上），画面更流畅。两台机器之间还能直接拖拽文件互传，剪贴板也可以共享，复制粘贴无缝衔接。\n\n这样你的 Mac Mini 就可以安安静静藏在角落跑任务，需要的时候随时从主力 Mac 上远程连过去操作，省掉了一台显示器的钱和桌面空间。",
+      "created_at": "Mon Mar 30 02:20:41 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038440715613569024",
+          "url": "https://pbs.twimg.com/media/HEn_B93XAAAVOxj.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038440819074711552",
+          "url": "https://pbs.twimg.com/media/HEn_H_SawAA7Rv6.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038441117255925760",
+          "url": "https://pbs.twimg.com/media/HEn_ZWGXAAAO4o4.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038441208092254209",
+          "url": "https://pbs.twimg.com/media/HEn_eofbYAEO56w.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203911,
+        "friends_count": 1591,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 71,
+        "reply_count": 13,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038435973156024717",
+      "text": "RT @shao__meng: 刚刚加入 OpenAI Codex 的著名 iOS/macOS 开发者 Thomas Ricouard 开源了「Review Swarm」Skill\n\nreview-swarm 是一个只读、Multi Agents 并行审查的工作流 Skill，…",
+      "created_at": "Mon Mar 30 01:59:42 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2038426296993399195",
+        "text": "刚刚加入 OpenAI Codex 的著名 iOS/macOS 开发者 Thomas Ricouard 开源了「Review Swarm」Skill\n\nreview-swarm 是一个只读、Multi Agents 并行审查的工作流 Skill，用于在代码变更（git diff 或指定文件）中发现四类关键风险：行为回归、安全隐私、性能可靠性、契约与测试覆盖。\nhttps://t.co/IoBUd945Ki\n\n-- 五步工作流 --\n\nStep 1：确定审查范围与意图\n· 优先级：用户明确指定的文件 > 当前 git 变更 > 分支/PR diff > 最近修改的文件\n· 必须读取本地指引（如 AGENTS.md）和项目文档\n· 构建「意图包」：明确应该改变什么、不应该改变什么、约束条件（兼容性、安全、迁移等）\n\nStep 2：启动四个只读审查 Agent（并行）\n· 意图与回归审查：变更是否符合预期意图，是否有意外的行为漂移、边界情况破坏、调用契约变更\n· 安全与隐私审查：认证授权缺失、不安全输入处理、敏感数据泄露、风险默认配置\n· 性能与可靠性审查：重复计算、热路径新增开销、资源泄漏、竞态条件、失败处理缺陷\n· 契约与覆盖审查：API/类型/配置不匹配、向后兼容性问题、测试覆盖不足、缺失日志/指标\n\nStep 3：聚合与过滤\n主 Agent 负责合成，而非简单罗列：\n· 去重、剔除弱证据/推测性结论、剔除与意图冲突的问题\n· 过滤掉纯风格/可读性意见（除非隐藏真实 bug）\n· 标准化输出格式：文件位置、分类、严重程度、影响说明、修复建议、置信度\n\nStep 4：排序输出\n· 高严重 + 高置信度\n· 中等严重（建议合并前修复）\n· 低严重或可延后处理\n\nStep 5：给出清晰的前进路径\n· fix now：合并前必须修复\n· fix soon：有时间应改进\n· optional follow-up：可安全忽略\n\n设计亮点\n· 并行分工：四个专业视角同时审查，避免单点盲区\n· 只读原则：审查与修复分离，确保客观性\n· 意图驱动：以「变更意图」为锚点过滤噪音\n· 行动导向：输出的是「优先级修复清单」而非「问题清单」\n\n适用场景\n· 重大功能变更前的回归风险评估\n· 安全敏感代码的 diff 审查\n· 性能关键路径的变更验证\n· 缺乏充分测试覆盖时的补充审查",
+        "created_at": "Mon Mar 30 01:21:15 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038426267041890304",
+            "url": "https://pbs.twimg.com/media/HEnx48vbgAAbIhO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2038272398693110183",
+          "text": "I've added a review swarm skill to my public Codex skills; it'll spawn 4 sub-agents to review your current changes for behavioral regression, security risks, performance issues, and test coverage gaps. \nhttps://t.co/M3biIDWML8 https://t.co/0NuvCF9RXO",
+          "created_at": "Sun Mar 29 15:09:43 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2038272100838817792",
+              "url": "https://pbs.twimg.com/media/HEllrS4WQAA_qtj.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "15704456",
+            "name": "Thomas Ricouard",
+            "screen_name": "Dimillian",
+            "description": "🍎 Product engineer/Builder\n🤖 AI Stuff\n🇫🇷 Entrepreneur, iOS/macOS & more\n🫡 Previously @Medium @glose 📖 @google 🔍 & various other",
+            "followers_count": 42011,
+            "friends_count": 3905,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 10,
+            "favorite_count": 207,
+            "reply_count": 7,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "1727548535816724480",
+          "name": "meng shao",
+          "screen_name": "shao__meng",
+          "description": "AI 团队顾问&企业 AI 培训，专注「上下文工程」 &「AI 智能体」\n· 顾问：前沿理论 → 企业真实落地闭环\n· 培训：企业 AI 培训，推动全员 AI 提效\n\n合作：私信 / shaomeng@outlook.com\n公众号/小红书：AI 启蒙小伙伴",
+          "followers_count": 28714,
+          "friends_count": 1175,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 37,
+          "reply_count": 2,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203911,
+        "friends_count": 1591,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038433047658283010",
+      "text": "人喜欢 GUI 是天性，我自己就更喜欢 codex 的 GUI，但人用 GUI 和 Agent 用 CLI 不冲突的。\n比如飞书的 CLI 我们自己不会用一点关系没有，只要让 Agent 会用，我们指挥 Agent 用就够了\nhttps://t.co/AvplKKrYkM",
+      "created_at": "Mon Mar 30 01:48:05 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038431396071616547",
+        "text": "在ai时代，非程序员学习ai首先要把markdown当作word去用，其次就是要强迫自己去适应cli，说实话，我一直没有深度使用Claude code，而是选择codex，也是因为它的Gui对新手更友好，也是在逃避对cli的恐惧😟",
+        "created_at": "Mon Mar 30 01:41:31 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "806700958000369666",
+          "name": "Cheery",
+          "screen_name": "cheery9998",
+          "description": "36岁，中年失业，不躺平，我用文字抒写自己的故事，把人生当产品，迭代100次。 理财｜AI｜自媒体❤️：rivanow",
+          "followers_count": 6719,
+          "friends_count": 1142,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 18,
+          "reply_count": 6,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203911,
+        "friends_count": 1591,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2038431616125530447",
+      "text": "富文本编辑器的排版\nhttps://t.co/3YT2uGV97s",
+      "created_at": "Mon Mar 30 01:42:24 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038209756268048771",
+        "text": "I was nerd sniped into integrating this with ProseMirror to enable the \"holy grail\" of rich text editing on the web.\nDocument layout with page breaks!\nMore to come... but back to my birthday weekend.\nOnline demo in thread https://t.co/JFaD0sCVBP",
+        "created_at": "Sun Mar 29 11:00:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038209409390882816",
+            "url": "https://video.twimg.com/amplify_video/2038209409390882816/vid/avc1/2720x2160/J9kC2j9ToDfksW1r.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6133502",
+          "name": "Sam Willis",
+          "screen_name": "samwillis",
+          "description": "Composable sync primitives @ElectricSQL.\nSync Engines, Durable Streams & AI.\nStarted https://t.co/pDO5k5Epeu, co-creator of @tan_stack DB.",
+          "followers_count": 3467,
+          "friends_count": 761,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 296,
+          "reply_count": 9,
+          "quote_count": 7
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203911,
+        "friends_count": 1591,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2038406683865624800",
       "text": "飞书 CLI 开源了，为什么 AI Agent 时代，大家都在做命令行工具？\n\n飞书刚开源了一个命令行工具 lark-cli，能让 AI Agent 直接操作飞书：发消息、查日历、写文档、建多维表格、发邮件、管任务。你跟 AI 说一句话，它自己去操作飞书完成任务。\n\n类似的 CLI 还很多，三周前 Google 也开源了 gws，让 AI Agent 操作 Google Workspace。2026 年了，所有想接入 AI Agent 的产品，都在做 CLI。\n\n【1】先说 CLI 是什么\n\nCLI（Command Line Interface），就是你在电脑上打开一个黑底白字的终端窗口，敲一行命令，回车，电脑帮你干活。\n\n比如你要查今天的日程，不用打开飞书 App 找日历，敲一行：\nlark-cli calendar +agenda\n日程就列出来了。\n\n没有按钮，没有图标，没有花哨的界面。CLI 比图形界面早了二十多年，在 Windows 时代逐渐没什么人用了。但 AI Agent 时代，又火起来了。\n\n【2】为什么 AI Agent 时代，大家都在做 CLI\n\nAI Agent 要干活，就得有操作工具的能力。你让 AI 帮你订会议室，它需要能访问日历系统。你让它帮你整理客户数据，它需要能读写表格。你让它帮你部署代码，它需要能跑部署命令。\n\n总得有一个接口让 AI 去调用。API 也能做这件事，但 CLI 有一个 API 不具备的优势：CLI 是自描述的。AI 碰到一个陌生的 CLI，敲一下 --help 就知道有哪些能力、怎么用、参数怎么填。API 不行，AI 得先拿到文档、弄清端点、搞懂认证方式，才能动手。CLI 自带说明书，AI 拿来就能用。\n\n而且 CLI 天然是用文本交互的，输入是文字，输出也是文字。AI 最擅长处理的就是文字。反过来，让 AI 操作 GUI 就绕远了，得截图、用视觉模型识别按钮在哪、再模拟鼠标去点，一行命令能搞定的事拆成四步，每步都可能出错。对 AI 来说，CLI 就是天然的操作界面。\n\n【3】那 MCP 和技能呢\n\n让 AI Agent 操作外部服务，现在主流有三种方式：MCP、CLI、技能（Skills）。三者不是互相替代的关系，各管一件事。\n\nCLI 是实际干活的工具。装完之后终端里就能跑命令，查日历、发消息、建表格，都是 CLI 在执行。\n\nMCP 也是让 AI 操作外部服务的，但方式不同。MCP 是提前把工具清单注册给 AI，AI 随时能调用，但清单本身常驻上下文窗口（可以理解为 AI 的“工作记忆”，空间有限）。就算 AI 暂时不用某个工具，它的描述也占着空间。CLI 是 AI 需要的时候自己去终端敲命令，用完就走，不占上下文。\n\n另一个区别是组合能力。CLI 可以靠管道和参数组合出没预设过的操作，比如：\n\nlark-cli calendar agenda --next-week | grep“张三” | wc -l\n一行命令就能查出下周和张三有几个会。MCP 的每个能力都需要提前注册，要实现同样的效果，得单独定义一个新工具。\n不过 MCP 有自己的适用场景。在不支持命令行的环境里（比如 Cursor、Claude 桌面端），MCP 是唯一选择。两者各有所长：能访问终端的场景用 CLI 更轻量灵活，不能访问终端的场景靠 MCP。\n\n技能是给 Agent 看的说明书。它不干活，但告诉 Agent 这个 CLI 有哪些命令、什么场景该用什么参数、出错了怎么处理。没有技能文件 Agent 也能用 CLI，靠 --help 自己摸索。有了技能文件，Agent 一上来就知道该怎么操作，成功率高得多。\n\n简单说：CLI 是手，MCP 是另一种手，技能是肌肉记忆。飞书这次开源的项目，CLI 和技能一起提供。\n\n【4】怎么给 AI 写好一个 CLI\n\n不是随便写个命令行工具 AI 就能顺畅地用。如果你想给自己的产品做一个面向 AI 的 CLI，飞书的设计有几个值得参考的地方。\n\n第一，help 文本是你最重要的文档。AI 碰到不认识的 CLI，第一件事就是运行 --help。你的 help 文本就是工具说明书、参数规格、使用指南三合一。别写那种“Usage: myctl deploy [flags]”就完事的帮助信息，要写清楚每个参数干什么、什么时候用、有什么默认值。飞书 CLI 还有一个 schema 命令，可以快速查询任何 API 方法的参数、请求体、响应结构、支持的身份和权限范围。AI 看到这些信息就能自己决定怎么调用。\n\n第二，支持 dry-run，这是为 AI 设计的安全网。AI 会自己做决策，有时候它理解错了你的意图，或者匹配到了不该动的数据。dry-run 相当于一个“预览”机制。\n\n举个例子，你让 AI 帮你删除飞书多维表格里上个月的过期数据。如果直接执行，删错了就没了。加上 --dry-run，AI 会先跑一遍，返回类似这样的结果：“将要删除以下 47 条记录：2025-05 的过期任务 23 条，已归档项目 24 条。未做任何实际修改。”你看了觉得没问题，再让它去掉 --dry-run 真正执行。Google 的 gws 也做了同样的设计，它的技能文件里甚至写死了一条规则：对所有写入和删除操作，必须先 dry-run。\n\n第三，错误信息要能指导下一步操作。人看到“Permission denied”会自己去查文档。AI 看到“Permission denied”就卡住了。飞书 CLI 的做法是：告诉 AI 你缺了什么权限，顺便把申请权限的命令也给出来。比如 lark-cli auth login --scope“calendar:calendar:readonly”。AI 看到就能自己修复问题，继续干活。为 AI 设计的 CLI，每一条错误信息都应该包含三个要素：哪个参数出了问题、具体错在哪里、下一步应该执行什么命令来修复。\n\n第四，返回结构化数据，控制好输出量。飞书 CLI 支持 json、csv、table 等多种输出格式。对人来说 table 更顺眼，对 AI Agent 来说 json 更可靠。好的 CLI 不只是能跑通，还要方便被别的工具消费。同时要控制输出量。AI 的上下文窗口有限，如果一个命令返回一万行日志，上下文就炸了。飞书 CLI 提供了分页参数（--page-limit）和过滤参数，让 AI 能拿到它需要的那部分数据就好。\n\n不管你是设计 CLI 的人还是用 CLI 的人，记住这条：让 Agent 动手之前，先让它 dry run 一遍。\n\n【5】装完之后，你动嘴，Agent 动手\n\n装完之后用起来就是：你说一句话，Agent 去操作飞书把事情办了。\n\n你开完会，跟 AI 说“把刚才会议里提到的所有待办都提出来，该发文档的发文档，该建任务的建任务”。AI 读会议纪要，拆解出待办事项，然后逐条执行：用 lark-cli doc create 在飞书里建文档，用 lark-cli task create 建任务并指派给对应的人，用 lark-cli im send 把结果通知到群里。整个过程你只说了一句话，Agent 在终端里跑了一串命令。而且因为有 dry-run，你可以让它先预览一遍要建哪些任务、发给谁，确认没问题再真正执行。\n\n你要约一个五人跨时区的会，跟 AI 说“帮我看看下周大家什么时候有空”。AI 去查每个人的日历和时区，推荐几个时间段，你选一个，会就建好了。\n\n你甚至可以让 AI 在飞书文档里直接帮你写初稿，你在文档里留评论提意见，AI 读完评论自己改。整个协作过程不用离开飞书。\n\n安装也简单，npm install -g @larksuite/cli 装 CLI，npx skills add https://t.co/2JOgEl4u1X -y -g 装技能文件。你甚至不用自己记这两步，把项目地址 https://t.co/2JOgEl4u1X 发给 Agent，让它自己安装、自己学会怎么用。\n\n【CLI 的回归】\n\n过去四十年，计算机的界面进化方向一直是从 CLI 到 GUI，从文字到图标，从键盘到触屏，对人越来越友好。\n\nAI Agent 时代，方向反过来了，软件的用户变成了 AI Agent。CLI 这个为文字世界设计的接口，恰好是 AI 最顺手的工具。\n\n既然 Agent 成了软件新的用户增长点，那么像飞书提供 CLI 也不稀奇，与其等着社区来写 MCP 适配层，不如直接做一个 AI 原生的 CLI，完全开源，无需注册审批，让所有 AI Agent 都能接入。\n\n这也带来一个绕不开的问题：Agent 的权限怎么给？不给权限，什么都做不了；权限太高，又怕 Agent 理解错意图干出不可逆的事。毕竟还做不到让 Agent 代你审批、代你发全员邮件。dry-run 能兜住一部分风险，但真正要让 Agent 在企业里大规模跑起来，权限体系、审计追踪、人机协作的边界，都还在摸索中。\n\n但换个角度想，当年我们把公司的钱从保险柜搬到网银，把合同从纸质搬到电子签，也都是一步步摸索出来的。CLI 和 dry-run，可能就是这个过程里的第一步。\n\n而飞书做这件事，其实有一个别人不太容易复制的优势：它本身在企业协作领域已经足够成熟，消息、文档、日历、审批、多维表格、任务，这些能力都是现成的。现在把这些能力通过 AI 原生的 CLI 全部开放出来，大概率会成为国内对 AI Agent 最开放、最友好的企业级接入入口。这件事的价值不止是多一个工具，更像是真正在为 Agent 时代搭建企业级基础设施，把权限、审计、组织能力开放给整个生态，对行业落地 AI Agent 会是很关键的一步。",
@@ -866,6 +1102,62 @@
         "retweet_count": 434,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038345575418991103",
+      "text": "飞机大战\nhttps://t.co/2J4mBwzq0T",
+      "created_at": "Sun Mar 29 20:00:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038336155419320706",
+        "text": "连夜把我6年前写的 webgl 引擎集成文字排版了, 太酷了觉得这个文字排版的价值不在 dom 上, 这个价值还得在游戏文字排版里体现呀, 全屏中英文字, 运行时混排, 酷啊, 考虑把游戏引擎项目复活了 https://t.co/8mRzGWAuCs",
+        "created_at": "Sun Mar 29 19:23:04 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038334861723971585",
+            "url": "https://video.twimg.com/amplify_video/2038334861723971585/vid/avc1/3456x2158/lPMk7Y7mxQs0yZXL.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6728962",
+          "name": "Nshen",
+          "screen_name": "nshen121",
+          "description": "全职远程 | Web3 爱好者｜全栈 ai 指挥家 | vimer｜小册作者 | 开源 https://t.co/CqB1FynG7Q",
+          "followers_count": 1208,
+          "friends_count": 2094,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 16,
+          "reply_count": 3,
+          "quote_count": 4
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 203911,
+        "friends_count": 1591,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "reply_count": 2,
         "quote_count": 0
       }
     },
