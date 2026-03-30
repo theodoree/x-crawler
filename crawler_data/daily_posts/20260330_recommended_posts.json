@@ -1,12 +1,73 @@
 {
   "date": "20260330",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-30T18:21:01.165737",
-  "tweet_count": 247,
-  "unique_tweet_count": 247,
-  "total_crawled": 443,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-03-30T20:14:44.531575",
+  "tweet_count": 248,
+  "unique_tweet_count": 248,
+  "total_crawled": 447,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2038693495905599894",
+      "text": "RT @dogeofficialceo: X after pushing Japanese posts https://t.co/ZOtdJz7jCQ",
+      "created_at": "Mon Mar 30 19:03:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038679160873439232",
+          "url": "https://pbs.twimg.com/media/HErX5TraUAA6OoM.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2038679168402309387",
+        "text": "X after pushing Japanese posts https://t.co/ZOtdJz7jCQ",
+        "created_at": "Mon Mar 30 18:06:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038679160873439232",
+            "url": "https://pbs.twimg.com/media/HErX5TraUAA6OoM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1355945100216573952",
+          "name": "Sir Doge of the Coin ⚔️",
+          "screen_name": "dogeofficialceo",
+          "description": "Protector of Coin 🐶🪙 Self-proclaimed king of memes 👑🇮🇪",
+          "followers_count": 580883,
+          "friends_count": 624,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 290,
+          "favorite_count": 2160,
+          "reply_count": 318,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237702097,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 290,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2038682622180634793",
       "text": "OpenAI 官方发布了一个 Claude Code 插件 codex-plugin-cc，让开发者可以直接在 Claude Code 里调用 Codex 做代码审查、对抗性审查，甚至把任务整个移交给 Codex 执行。\n\n这件事有意思的地方在于：这是 OpenAI 主动把自己的工具送进竞争对手 Anthropic 的地盘。Claude Code 有自己的插件生态，OpenAI 这次正式以官方身份入场，把 Codex 包装成 Claude Code 工作流里的一个\"随叫随到的第二意见\"。\n\n插件提供三个核心命令：/codex:review 跑一遍标准的只读代码审查；/codex:adversarial-review 做对抗性审查，专门挑战现有实现的隐藏假设，适合迁移、鉴权变更、基础设施脚本这类高风险操作；/codex:rescue 则直接把任务交给 Codex 接管，用于线程卡住或需要换个智能体重新来过的场景。\n\n三个命令都支持后台运行，配合 /codex:status 和 /codex:result 管理。还有个可选的 review gate 功能，能让 Claude Code 在 Codex 审查完成前不退出，不过 Srivastav 提醒这可能导致两个智能体循环调用，快速烧掉使用额度。\n\n技术上，插件通过本地 Codex CLI 和 app server 中转，复用已有的认证、配置和 MCP 设置，不额外起运行时。使用前提是有 ChatGPT 订阅（包括免费版）或 OpenAI API key，加上 Node.js 18.18 以上。",

@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237690854,
+    "followers_count": 237702097,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260330",
-  "last_updated": "2026-03-30T18:21:01.208989",
-  "tweet_count": 34,
+  "last_updated": "2026-03-30T20:14:44.565900",
+  "tweet_count": 35,
   "tweets": [
     {
       "id": "2038453152505299116",
@@ -1662,6 +1662,57 @@
       "quoted": null,
       "stats": {
         "retweet_count": 296,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038693495905599894",
+      "text": "RT @dogeofficialceo: X after pushing Japanese posts https://t.co/ZOtdJz7jCQ",
+      "created_at": "Mon Mar 30 19:03:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038679160873439232",
+          "url": "https://pbs.twimg.com/media/HErX5TraUAA6OoM.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2038679168402309387",
+        "text": "X after pushing Japanese posts https://t.co/ZOtdJz7jCQ",
+        "created_at": "Mon Mar 30 18:06:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038679160873439232",
+            "url": "https://pbs.twimg.com/media/HErX5TraUAA6OoM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1355945100216573952",
+          "name": "Sir Doge of the Coin ⚔️",
+          "screen_name": "dogeofficialceo",
+          "description": "Protector of Coin 🐶🪙 Self-proclaimed king of memes 👑🇮🇪",
+          "followers_count": 580883,
+          "friends_count": 624,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 290,
+          "favorite_count": 2160,
+          "reply_count": 318,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 290,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
