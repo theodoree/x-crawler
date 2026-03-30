@@ -1,12 +1,533 @@
 {
   "date": "20260330",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-30T14:34:20.714012",
-  "tweet_count": 234,
-  "unique_tweet_count": 234,
-  "total_crawled": 433,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-30T16:24:06.167798",
+  "tweet_count": 243,
+  "unique_tweet_count": 243,
+  "total_crawled": 434,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2038652724309610501",
+      "text": "RT @yoyonofukuoka: 自動翻訳によって、日米という巨大なコミュニティの誕生を目の当たりにした事で、グローバリスト達が分断工作によって、それぞれのコミュニティを矮小化して管理しやすくした理由が分かった様な気がする。…",
+      "created_at": "Mon Mar 30 16:21:00 +0000 2026",
+      "lang": "ja",
+      "media": [],
+      "retweet": {
+        "id": "2038640306581852601",
+        "text": "自動翻訳によって、日米という巨大なコミュニティの誕生を目の当たりにした事で、グローバリスト達が分断工作によって、それぞれのコミュニティを矮小化して管理しやすくした理由が分かった様な気がする。\n\n10人程度の小さなコミュニティなら、人身掌握術やガスライティングに長けてる声のデカい1人が頑張れば、そのコミュニティを掌握出来るだろうけど、100人の常識が集まったら10人では抑えきれない。\n\nつまり、今、僕達が目撃してるのは、グローバリスト達が求めたものとは真逆の現実だ。\n\n素晴らしい。",
+        "created_at": "Mon Mar 30 15:31:39 +0000 2026",
+        "lang": "ja",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "860835176",
+          "name": "kouji 🇯🇵",
+          "screen_name": "yoyonofukuoka",
+          "description": "Recall something unknown.",
+          "followers_count": 24996,
+          "friends_count": 2464,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 117,
+          "favorite_count": 805,
+          "reply_count": 184,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237681928,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 117,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038652258016190906",
+      "text": "Propaganda words work so well",
+      "created_at": "Mon Mar 30 16:19:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038582007379177851",
+        "text": "💯 https://t.co/vq7hFx5NKA",
+        "created_at": "Mon Mar 30 11:40:00 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038550246498906112",
+            "url": "https://pbs.twimg.com/media/HEpipgNaMAAMx0I.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1390762874809761793",
+          "name": "Defiant L’s",
+          "screen_name": "DefiantLs",
+          "description": "Exposing hypocrisy, one day at a time. | DM submissions",
+          "followers_count": 1721683,
+          "friends_count": 183,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 427,
+          "favorite_count": 1528,
+          "reply_count": 33,
+          "quote_count": 19
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237681928,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 548,
+        "favorite_count": 3469,
+        "reply_count": 522,
+        "quote_count": 16
+      }
+    },
+    {
+      "id": "2038648039276257592",
+      "text": "Tesla is making a big investment in Japan with service &amp; Superchargers. \n\nMany of the parts in Teslas are made in Japan. Panasonic has been our biggest strategic supplier over the past 2 decades.",
+      "created_at": "Mon Mar 30 16:02:23 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038625053177168210",
+        "text": "NEWS: Tesla plans to double the number of service centers in Japan to more than 30 this year, seeking to improve after-sales support for customers and gain market share. https://t.co/IuOQ8Bl9Ly",
+        "created_at": "Mon Mar 30 14:31:03 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1054171,
+          "friends_count": 445,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 69,
+          "favorite_count": 832,
+          "reply_count": 54,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237681928,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 959,
+        "favorite_count": 9616,
+        "reply_count": 1409,
+        "quote_count": 93
+      }
+    },
+    {
+      "id": "2038646390340112736",
+      "text": "RT @TheNorfolkLion: My mum lives on a boat and has Starlink. Last weeks bad weather blew her Starlink dish across the deck and wrecked it.…",
+      "created_at": "Mon Mar 30 15:55:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038610735677239544",
+        "text": "My mum lives on a boat and has Starlink. Last weeks bad weather blew her Starlink dish across the deck and wrecked it.\n\nShe contacted Starlink support, and they told her the warranty doesn’t cover weather damage… but as a goodwill gesture, they’re sending her a brand new one for free anyway.\n\nThat’s proper customer service 👏🏻\n\nThank you! @Starlink @elonmusk 💯",
+        "created_at": "Mon Mar 30 13:34:09 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1675579484357947392",
+          "name": "Queen Natalie",
+          "screen_name": "TheNorfolkLion",
+          "description": "Norfolk lioness & proud mum 🦁 English blood 🏴󠁧󠁢󠁥󠁮󠁧󠁿 British heart 🇬🇧 Nationalist 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Let’s take our country back! 💪🏻🇬🇧",
+          "followers_count": 150622,
+          "friends_count": 41195,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 585,
+          "favorite_count": 8270,
+          "reply_count": 238,
+          "quote_count": 21
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237681928,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 585,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038644909738275252",
+      "text": "How to make great Grok Imagine videos",
+      "created_at": "Mon Mar 30 15:49:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037642851732066580",
+        "text": "https://t.co/milJgOJHve",
+        "created_at": "Fri Mar 27 21:28:08 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3282859598",
+          "name": "Creators",
+          "screen_name": "XCreators",
+          "description": "X is for creators.",
+          "followers_count": 10907928,
+          "friends_count": 40,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 281,
+          "favorite_count": 1584,
+          "reply_count": 192,
+          "quote_count": 80
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237681928,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 709,
+        "favorite_count": 4377,
+        "reply_count": 1552,
+        "quote_count": 62
+      }
+    },
+    {
+      "id": "2038636771337261381",
+      "text": "RT @SpaceX: Falcon 9 landing confirmed https://t.co/KYrUYuWJii",
+      "created_at": "Mon Mar 30 15:17:36 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038574792954015744",
+          "url": "https://video.twimg.com/amplify_video/2038574792954015744/vid/avc1/3840x2160/e5Ms8WZGNB9oy4IX.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2038574878387757063",
+        "text": "Falcon 9 landing confirmed https://t.co/KYrUYuWJii",
+        "created_at": "Mon Mar 30 11:11:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038574792954015744",
+            "url": "https://video.twimg.com/amplify_video/2038574792954015744/vid/avc1/3840x2160/e5Ms8WZGNB9oy4IX.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41401923,
+          "friends_count": 123,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 692,
+          "favorite_count": 5055,
+          "reply_count": 396,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237681928,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 692,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038636592299192567",
+      "text": "RT @MarioNawfal: Tesla Semi just won over the toughest crowd in transportation: actual truckers.\n\nDrivers who tested the pilot models say i…",
+      "created_at": "Mon Mar 30 15:16:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038580623909032230",
+        "text": "Tesla Semi just won over the toughest crowd in transportation: actual truckers.\n\nDrivers who tested the pilot models say it's a game changer. \n\nThe cab puts you dead center so there's no right-side blind spot, plus screens show everything around the truck. \n\nIt goes 500 miles on a charge while competitors barely hit 225. Charges to 60% in 30 minutes, which is 4x faster than other electric trucks. Costs under $300k, about $100k cheaper than rival EVs.\n\nCalifornia trucking companies just ordered over 1,000 Semis. \n\nThat's double the number of electric big rigs currently operating in all of Southern California.\n\nThe automatic transmission is easier on drivers' bodies compared to wrestling a 13-gear diesel all day. \n\nLess maintenance too since there are fewer moving parts.\n\nTesla is expected to ship 5,000 to 15,000 Semis this year from the Nevada Gigafactory before ramping to 50,000 annually. \n\n@elonmusk might've actually cracked the trucking code.\n\nSource: WSJ",
+        "created_at": "Mon Mar 30 11:34:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038580549418377216",
+            "url": "https://video.twimg.com/amplify_video/2038580549418377216/vid/avc1/1080x1920/KtmsboJmOCYUlShP.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2030566898841039076",
+          "text": "🇺🇸 The Tesla Semi is an 80,000-lb electric truck that runs almost silently and costs much less to operate than diesel rigs.\n\nSame heavy loads, but without the diesel bill… It's the future of trucking.\n\nhttps://t.co/A8JWaO1QKU",
+          "created_at": "Sun Mar 08 08:50:49 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2030124282689327104",
+              "url": "https://video.twimg.com/amplify_video/2030124282689327104/vid/avc1/576x1024/6l7-m5gOL0RP8yym.mp4?tag=21",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KgAW",
+            "followers_count": 3267016,
+            "friends_count": 50957,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 159,
+            "favorite_count": 1465,
+            "reply_count": 132,
+            "quote_count": 7
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KgAW",
+          "followers_count": 3267016,
+          "friends_count": 50957,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 676,
+          "favorite_count": 4295,
+          "reply_count": 378,
+          "quote_count": 72
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237681928,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 676,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038636020640743498",
+      "text": "RT @tetsuoai: Building AgenC: Grok 4.20-Powered Agents Writing Software https://t.co/YRSd0iud3L",
+      "created_at": "Mon Mar 30 15:14:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038563136144633978",
+        "text": "Building AgenC: Grok 4.20-Powered Agents Writing Software https://t.co/YRSd0iud3L",
+        "created_at": "Mon Mar 30 10:25:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "C / asm since ’94 · AI + art via Grok\nAgenC //: 👾",
+          "followers_count": 229575,
+          "friends_count": 1095,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 184,
+          "favorite_count": 884,
+          "reply_count": 131,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237681928,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 184,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038635739030983150",
+      "text": "RT @SpaceX: Falcon 9 launches the 16th Transporter rideshare mission and delivers 119 payloads to orbit https://t.co/h0e6dvxy8X",
+      "created_at": "Mon Mar 30 15:13:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038621677316087808",
+          "url": "https://pbs.twimg.com/media/HEqjnUvWIAAafrz.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038621689001517056",
+          "url": "https://pbs.twimg.com/media/HEqjoARXoAALh1d.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2038621749961494632",
+        "text": "Falcon 9 launches the 16th Transporter rideshare mission and delivers 119 payloads to orbit https://t.co/h0e6dvxy8X",
+        "created_at": "Mon Mar 30 14:17:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038621677316087808",
+            "url": "https://pbs.twimg.com/media/HEqjnUvWIAAafrz.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038621689001517056",
+            "url": "https://pbs.twimg.com/media/HEqjoARXoAALh1d.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41401923,
+          "friends_count": 123,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 540,
+          "favorite_count": 3247,
+          "reply_count": 412,
+          "quote_count": 35
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237681928,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 540,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2038613948900221011",
       "text": "RT @SpaceX: Liftoff of Transporter-16! https://t.co/PpIorZ0ZL6",
