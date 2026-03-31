@@ -1,12 +1,201 @@
 {
   "date": "20260331",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-31T12:20:02.912729",
-  "tweet_count": 232,
-  "unique_tweet_count": 232,
-  "total_crawled": 431,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-31T14:32:54.242963",
+  "tweet_count": 235,
+  "unique_tweet_count": 235,
+  "total_crawled": 432,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2038985726033899747",
+      "text": "Make Codex Desktop open-source, please!",
+      "created_at": "Tue Mar 31 14:24:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038971515572523502",
+        "text": "holy shitt, somebody at OpenAI leaked the entire codex codebase..\n\nhttps://t.co/VDU5UqvC4N",
+        "created_at": "Tue Mar 31 13:27:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "874987512850128897",
+          "name": "Vaibhav (VB) Srivastav",
+          "screen_name": "reach_vb",
+          "description": "Bringing Codex to developers @OpenAI | ex @huggingface | F1 fan | Here for @at_sofdog’s wisdom | *opinions my own",
+          "followers_count": 40549,
+          "friends_count": 265,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 88,
+          "favorite_count": 1549,
+          "reply_count": 105,
+          "quote_count": 44
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204490,
+        "friends_count": 1593,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038981463345885365",
+      "text": "RT @evilcos: 麻了，又又又一个知名模块 axios 被投毒，带毒版本 axios@1.14.1 与 axios@0.30.4。排查参考：\nhttps://t.co/hHSQNO5JOx https://t.co/UjEvr09UyI",
+      "created_at": "Tue Mar 31 14:07:17 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038828101095075840",
+          "url": "https://pbs.twimg.com/media/HEtfWxPbMAATCpl.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2038828715560534034",
+        "text": "麻了，又又又一个知名模块 axios 被投毒，带毒版本 axios@1.14.1 与 axios@0.30.4。排查参考：\nhttps://t.co/hHSQNO5JOx https://t.co/UjEvr09UyI",
+        "created_at": "Tue Mar 31 04:00:20 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038828101095075840",
+            "url": "https://pbs.twimg.com/media/HEtfWxPbMAATCpl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2038807290422370479",
+          "text": "🚨 CRITICAL: Active supply chain attack on axios -- one of npm's most depended-on packages.\n\nThe latest axios@1.14.1 now pulls in plain-crypto-js@4.2.1, a package that did not exist before today. This is a live compromise.\n\nThis is textbook supply chain installer malware. axios has 100M+ weekly downloads. Every npm install pulling the latest version is potentially compromised right now.\n\nSocket AI analysis confirms this is malware. plain-crypto-js is an obfuscated dropper/loader that:\n\n• Deobfuscates embedded payloads and operational strings at runtime\n• Dynamically loads fs, os, and execSync to evade static analysis\n• Executes decoded shell commands\n• Stages and copies payload files into OS temp and Windows ProgramData directories\n• Deletes and renames artifacts post-execution to destroy forensic evidence\n\nIf you use axios, pin your version immediately and audit your lockfiles. Do not upgrade.",
+          "created_at": "Tue Mar 31 02:35:11 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "15692193",
+            "name": "Feross",
+            "screen_name": "feross",
+            "description": "⚡️ Founder + CEO @SocketSecurity (https://t.co/7g1opA7Tr8) • 🌲 Visiting lecturer @Stanford (https://t.co/yw9prxLiLe) • ❤️ Open source @WebTorrentApp + @StandardJS",
+            "followers_count": 37155,
+            "friends_count": 1630,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3709,
+            "favorite_count": 14445,
+            "reply_count": 427,
+            "quote_count": 1630
+          }
+        },
+        "user": {
+          "id": "17552210",
+          "name": "Cos(余弦)😶‍🌫️",
+          "screen_name": "evilcos",
+          "description": "Founder of @SlowMist_Team // 分身一号/捉虫大师/救火运动员 // 🕖灾备频道 https://t.co/bMGdsBkYwM",
+          "followers_count": 122285,
+          "friends_count": 1497,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 66,
+          "favorite_count": 351,
+          "reply_count": 35,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204490,
+        "friends_count": 1593,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 66,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038978960466272398",
+      "text": "一觉醒来 claude code 源码泄漏了，还能下载",
+      "created_at": "Tue Mar 31 13:57:21 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038894956459290963",
+        "text": "Claude code source code has been leaked via a map file in their npm registry! \n\nCode: https://t.co/jBiMoOzt8G https://t.co/rYo5hbvEj8",
+        "created_at": "Tue Mar 31 08:23:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038894520524226560",
+            "url": "https://pbs.twimg.com/media/HEubw45WQAA3VRl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1048192561863507968",
+          "name": "Chaofan Shou",
+          "screen_name": "Fried_rice",
+          "description": "intern @solayer_labs @fuzzland_",
+          "followers_count": 36459,
+          "friends_count": 2434,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3506,
+          "favorite_count": 23427,
+          "reply_count": 1778,
+          "quote_count": 3290
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204490,
+        "friends_count": 1593,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 12,
+        "reply_count": 6,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2038927562462949443",
       "text": "RT @elonmusk: @mreiffy On the plus side, if you forgot the password to your wallet, it will be accessible in the future \n\nhttps://t.co/xAFt…",
