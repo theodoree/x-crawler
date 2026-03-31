@@ -1,12 +1,468 @@
 {
   "date": "20260331",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-31T16:24:23.399975",
-  "tweet_count": 236,
-  "unique_tweet_count": 236,
-  "total_crawled": 435,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-31T18:20:43.805406",
+  "tweet_count": 245,
+  "unique_tweet_count": 245,
+  "total_crawled": 436,
+  "duplicates_removed": 191,
   "tweets": [
+    {
+      "id": "2039042306871906655",
+      "text": "看鸭哥写的：《AI 工程的真实代价：从 Claude Code 泄露源码看新模型接入的工程现实》\nhttps://t.co/Cz5XBMXnCk\n\n里面提到了 Anthropic 在 Claude Code 里埋了三层反蒸馏机制，专门防竞争对手用 API 输出来训练自己的模型。泄露的源码把这套系统完整暴露了出来。\n\n第一层：往输出里掺假。API 返回结果时，服务端会混入一些虚假的工具调用数据。正常用户完全不受影响，服务端会帮你过滤掉。但如果有人批量抓取 API 输出去训练模型，这些假数据会一起被吃进训练集，污染模型质量。\n\n第二层：把推理过程藏起来。Claude 在工具调用之间会产生中间推理文本，比如\"我先读这个文件，再检查语法\"。这些细节对蒸馏训练价值很高，因为它暴露了模型怎么思考。这一层把中间文本替换为一句摘要加密签名，下一轮对话时客户端拿签名换回原文。外部观察者只能看到摘要，完整推理链拿不到。\n\n第三层：协议隔离。Claude Code 用一种新的 JSON 协议格式跟 API 通信，带独立的版本标记，跟每周 920 万次的普通 API 请求在统计上隔离开。服务端可以对不同群体做差异化处理，也让竞争对手无法简单伪装成 Claude Code 来获取特殊待遇。附带好处是省了大约 4.5% 的输出 token。",
+      "created_at": "Tue Mar 31 18:09:04 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039042294951854080",
+          "url": "https://pbs.twimg.com/media/HEwiKfiaQAA3SH5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2039020301434909095",
+        "text": "分析claude code源代码第一步，先跑起来。这次泄漏的代码只是source map还原后的结果，缺少很多脚手架和私有package。本来我打算自己搞一下，结果发现已经有好心人搞定了。\n\nhttps://t.co/UmonHNeKvA\n\n（我运行时有点小bug，把错误信息发给codex就搞定了）\n\n尽早fork下载本地，估计存活不了太久😂 https://t.co/HdnQFAL9yV",
+        "created_at": "Tue Mar 31 16:41:37 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039020128030101504",
+            "url": "https://pbs.twimg.com/media/HEwOANUbEAAE1yO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 204569,
+          "friends_count": 1594,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 20,
+          "favorite_count": 155,
+          "reply_count": 20,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204569,
+        "friends_count": 1594,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 13,
+        "reply_count": 1,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2039038898811343008",
+      "text": "Neuralink enables people with ALS to speak again",
+      "created_at": "Tue Mar 31 17:55:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039033241865212231",
+        "text": "“When you haven’t heard someone talk for four years, the thought that they might be able to talk again was mind blowing.\" https://t.co/KasDacgKzs",
+        "created_at": "Tue Mar 31 17:33:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039033182356709376",
+            "url": "https://video.twimg.com/amplify_video/2039033182356709376/vid/avc1/1080x1080/RkSCjOocpMgRSiag.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "895332160130891776",
+          "name": "Neuralink",
+          "screen_name": "neuralink",
+          "description": "Creating a general-purpose, high-bandwidth interface to the brain",
+          "followers_count": 1724941,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 193,
+          "favorite_count": 1219,
+          "reply_count": 97,
+          "quote_count": 40
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237773936,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1276,
+        "favorite_count": 8973,
+        "reply_count": 1461,
+        "quote_count": 91
+      }
+    },
+    {
+      "id": "2039038115046961285",
+      "text": "Am referring to this",
+      "created_at": "Tue Mar 31 17:52:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039005970865516955",
+        "text": "If you, like me, just woke up, let me catch you up on the Claude Code Leak (I know nothing, all conjecture): \n\n> Someone inside Anthropic, got switched to Adaptive reasoning mode\n> Their Claude Code switched to Sonnet \n> Committed the .map file of Claude Code\n> Effectively leaking the ENTIRE CC Source Code\n> @realsigridjin was tired after running 2 south korean hackathons in SF, saw the leak\n> Rules in Korea are different, he cloned the repo, went to sleep\n> Wakes up to 25K stars, and his GF begging him to take it down (she's a copyright lawyer)\n> Their team decided - how about we have agents rewrite this in Python!? Surely... this is more legal\n> Rewrite in Py\n> Board a plane to SK🇰🇷\n> One of the guys decides python is slow, is now rewriting ALL OF CLAUDE CODE into Rust. \n> Anthropic cannot take down, cannot sue\n> Is this \"fair use?\" \n> TL;DR - we're about to have open source Claude Code in Rust",
+        "created_at": "Tue Mar 31 15:44:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039005292948787200",
+            "url": "https://pbs.twimg.com/media/HEwAgsVakAA2Om1.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5721582",
+          "name": "Alex Volkov",
+          "screen_name": "altryne",
+          "description": "🎙️ Host of @thursdai_pod \n✨ AI Evangelist with @wandb 🪄🐝  \nworking on @weave_wb (opinions my own)",
+          "followers_count": 38334,
+          "friends_count": 2362,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 215,
+          "favorite_count": 3110,
+          "reply_count": 104,
+          "quote_count": 65
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237773936,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 96,
+        "favorite_count": 468,
+        "reply_count": 158,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2039037419346145715",
+      "text": "💪",
+      "created_at": "Tue Mar 31 17:49:38 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038729125653819515",
+        "text": "Justice for the Gays of Hormuz https://t.co/73SFJr5dBD",
+        "created_at": "Mon Mar 30 21:24:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038729072612622336",
+            "url": "https://video.twimg.com/amplify_video/2038729072612622336/vid/avc1/720x706/pWmNQEN1l6qM2gPY.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "437179266",
+          "name": "Geiger Capital",
+          "screen_name": "Geiger_Capital",
+          "description": "Markets/Economics/Politics | RIP Paul Volcker 🕊 Personal Views. Not Investment Advice.",
+          "followers_count": 344305,
+          "friends_count": 306,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2550,
+          "favorite_count": 15322,
+          "reply_count": 778,
+          "quote_count": 845
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237773936,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1079,
+        "favorite_count": 11506,
+        "reply_count": 1048,
+        "quote_count": 75
+      }
+    },
+    {
+      "id": "2039035244414701903",
+      "text": "用之前先升级bun到v1.3.11\n✅bun upgrade （❌bun update） https://t.co/EbbdQuuovA",
+      "created_at": "Tue Mar 31 17:41:00 +0000 2026",
+      "lang": "ja",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039035126311534592",
+          "url": "https://pbs.twimg.com/media/HEwbpORXwAAI397.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204569,
+        "friends_count": 1594,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039031274053210552",
+      "text": "Indeed, it was *because* I was not from the aerospace industry that SpaceX made such radical breakthroughs. Same for Tesla. \n\nThose in the industry would have if they could have.",
+      "created_at": "Tue Mar 31 17:25:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039017166893428868",
+        "text": "In this 2015 interview, the host — a Tsinghua University professor — expressed genuine curiosity about how Elon Musk was able to found SpaceX without prior experience and knowledge in aerospace, especially given that rocket science is one of the most demanding hard sciences — and that Musk was serving as both CEO and CTO.\n\nMusk explained that deep expertise can be built outside formal academic programs — by reading extensively, conducting experiments, and speaking directly with experts in the field.",
+        "created_at": "Tue Mar 31 16:29:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039017020998758403",
+            "url": "https://video.twimg.com/amplify_video/2039017020998758403/vid/avc1/1126x618/ctvitdQOzo6ozra2.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "959168599519764480",
+          "name": "Ray",
+          "screen_name": "ray4tesla",
+          "description": "Tesla owner since 2015. TSLA holder since 2016. This account is about Tesla, EVs & other topics. My Tesla referral link: https://t.co/RrVfZj8heV",
+          "followers_count": 141169,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 248,
+          "favorite_count": 1871,
+          "reply_count": 138,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237773936,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1692,
+        "favorite_count": 12938,
+        "reply_count": 1710,
+        "quote_count": 98
+      }
+    },
+    {
+      "id": "2039029711301738769",
+      "text": "Banger 😂 https://t.co/U8R809FW1K",
+      "created_at": "Tue Mar 31 17:19:01 +0000 2026",
+      "lang": "in",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039029707199647744",
+          "url": "https://pbs.twimg.com/media/HEwWtygakAAmpAr.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237773936,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2449,
+        "favorite_count": 47063,
+        "reply_count": 3105,
+        "quote_count": 271
+      }
+    },
+    {
+      "id": "2039029408045175155",
+      "text": "Working with a great team to build products people love is so wonderful",
+      "created_at": "Tue Mar 31 17:17:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038980758547709955",
+        "text": "In addition to having the full high-functioning autist power set, Elon also genuinely likes being around and working with other people, which is a bit rare. The correlation between deep technical ability and anti-social hermit tendencies is real, and it limits a lot of people (ahem).\n\n@Project2501_117 had to point this out to me.",
+        "created_at": "Tue Mar 31 14:04:29 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "175624200",
+          "name": "John Carmack",
+          "screen_name": "ID_AA_Carmack",
+          "description": "AGI at Keen Technologies, former CTO Oculus VR, Founder Id Software and Armadillo Aerospace",
+          "followers_count": 1353598,
+          "friends_count": 284,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 116,
+          "favorite_count": 2478,
+          "reply_count": 127,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237773936,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1024,
+        "favorite_count": 12405,
+        "reply_count": 1340,
+        "quote_count": 51
+      }
+    },
+    {
+      "id": "2039020301434909095",
+      "text": "分析claude code源代码第一步，先跑起来。这次泄漏的代码只是source map还原后的结果，缺少很多脚手架和私有package。本来我打算自己搞一下，结果发现已经有好心人搞定了。\n\nhttps://t.co/UmonHNeKvA\n\n（我运行时有点小bug，把错误信息发给codex就搞定了）\n\n尽早fork下载本地，估计存活不了太久😂 https://t.co/HdnQFAL9yV",
+      "created_at": "Tue Mar 31 16:41:37 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039020128030101504",
+          "url": "https://pbs.twimg.com/media/HEwOANUbEAAE1yO.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2038894956459290963",
+        "text": "Claude code source code has been leaked via a map file in their npm registry! \n\nCode: https://t.co/jBiMoOzt8G https://t.co/rYo5hbvEj8",
+        "created_at": "Tue Mar 31 08:23:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038894520524226560",
+            "url": "https://pbs.twimg.com/media/HEubw45WQAA3VRl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1048192561863507968",
+          "name": "Chaofan Shou",
+          "screen_name": "Fried_rice",
+          "description": "intern @solayer_labs @fuzzland_",
+          "followers_count": 42368,
+          "friends_count": 2433,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4925,
+          "favorite_count": 32752,
+          "reply_count": 2340,
+          "quote_count": 4202
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204569,
+        "friends_count": 1594,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 155,
+        "reply_count": 20,
+        "quote_count": 3
+      }
+    },
     {
       "id": "2039003282018869394",
       "text": "RT @CuiMao: 实锤了，刚才开会我录屏了   @DarioAmodei  @AnthropicAI  @claudeai https://t.co/WCxoGg2AJQ",
