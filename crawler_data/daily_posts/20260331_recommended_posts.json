@@ -1,12 +1,191 @@
 {
   "date": "20260331",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-31T18:20:43.805406",
-  "tweet_count": 245,
-  "unique_tweet_count": 245,
-  "total_crawled": 436,
-  "duplicates_removed": 191,
+  "last_crawl_time": "2026-03-31T20:14:29.896473",
+  "tweet_count": 251,
+  "unique_tweet_count": 251,
+  "total_crawled": 445,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2039072519852888360",
+      "text": "恰恰相反，codex cli 做的很难用，不如 claude code 代码有价值。\n\n但如果你只是要做一个 ai agent，没必要用 claude code 或者 codex 代码，pi-mono 这种轻量级的库更适合你。",
+      "created_at": "Tue Mar 31 20:09:07 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038936286472593617",
+        "text": "没有兴趣去研究 Claude Code 泄漏的源码，毕竟 Codex 天然开源的源码才更值得我去学习（+使用）。",
+        "created_at": "Tue Mar 31 11:07:46 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "121908437",
+          "name": "图拉鼎",
+          "screen_name": "tualatrix",
+          "description": "新晋奶爸，生活在杭州良渚的开发者。最近在做 https://t.co/Fu0JLSMTGF",
+          "followers_count": 107641,
+          "friends_count": 1278,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 143,
+          "reply_count": 13,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204587,
+        "friends_count": 1596,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039059115880714469",
+      "text": "RT @YukerX: https://t.co/KTrGqOtRAq",
+      "created_at": "Tue Mar 31 19:15:51 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2038959908968919297",
+        "text": "https://t.co/KTrGqOtRAq",
+        "created_at": "Tue Mar 31 12:41:38 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1597985587465945091",
+          "name": "Yuker",
+          "screen_name": "YukerX",
+          "description": "RUC '24 | Law Student |  Musician | Researcher | Builder | Vibe Coder\n📩 Contact (TG) : @yukerx",
+          "followers_count": 8695,
+          "friends_count": 354,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 163,
+          "favorite_count": 799,
+          "reply_count": 25,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204587,
+        "friends_count": 1596,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 163,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039052386128273620",
+      "text": "如果想提前看看 claude code 的愚人节菜单：buddy 伴侣精灵\n\nhttps://t.co/Jkpw9XKJic",
+      "created_at": "Tue Mar 31 18:49:07 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038948078305357963",
+        "text": "复现了一下Claude Code预计在明天愚人节推出的buddy伴侣精灵功能。😇 https://t.co/tbsfBrPXNx",
+        "created_at": "Tue Mar 31 11:54:38 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038947767645790208",
+            "url": "https://video.twimg.com/amplify_video/2038947767645790208/vid/avc1/730x370/I8PNvBlFuoW6mwg0.mp4?tag=21",
+            "bitrate": 832000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1607713399399673856",
+          "name": "溪文 Sylvain",
+          "screen_name": "sylvainxai",
+          "description": "👨🏻‍💻 Baidu-ByteDance-Microsoft | ☀️ 8年互联网大厂AI研发 | 🌙 探索AI 应用场景 | 🪴 家庭园艺爱好者| 🚀 Building a Better World with AI 加速中…",
+          "followers_count": 3071,
+          "friends_count": 133,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 4,
+          "reply_count": 3,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204587,
+        "friends_count": 1596,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039046398566625501",
+      "text": "Stand By Me",
+      "created_at": "Tue Mar 31 18:25:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237780029,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6957,
+        "favorite_count": 95737,
+        "reply_count": 18057,
+        "quote_count": 1976
+      }
+    },
     {
       "id": "2039042306871906655",
       "text": "看鸭哥写的：《AI 工程的真实代价：从 Claude Code 泄露源码看新模型接入的工程现实》\nhttps://t.co/Cz5XBMXnCk\n\n里面提到了 Anthropic 在 Claude Code 里埋了三层反蒸馏机制，专门防竞争对手用 API 输出来训练自己的模型。泄露的源码把这套系统完整暴露了出来。\n\n第一层：往输出里掺假。API 返回结果时，服务端会混入一些虚假的工具调用数据。正常用户完全不受影响，服务端会帮你过滤掉。但如果有人批量抓取 API 输出去训练模型，这些假数据会一起被吃进训练集，污染模型质量。\n\n第二层：把推理过程藏起来。Claude 在工具调用之间会产生中间推理文本，比如\"我先读这个文件，再检查语法\"。这些细节对蒸馏训练价值很高，因为它暴露了模型怎么思考。这一层把中间文本替换为一句摘要加密签名，下一轮对话时客户端拿签名换回原文。外部观察者只能看到摘要，完整推理链拿不到。\n\n第三层：协议隔离。Claude Code 用一种新的 JSON 协议格式跟 API 通信，带独立的版本标记，跟每周 920 万次的普通 API 请求在统计上隔离开。服务端可以对不同群体做差异化处理，也让竞争对手无法简单伪装成 Claude Code 来获取特殊待遇。附带好处是省了大约 4.5% 的输出 token。",
@@ -5249,6 +5428,62 @@
       }
     },
     {
+      "id": "2038398130253668400",
+      "text": "还可以手机上配合重力感应\nhttps://t.co/MBghK8Rlut",
+      "created_at": "Sun Mar 29 23:29:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038333454526320789",
+        "text": "Had to play with pretext today. What if you had to keep your phone perfectly straight to read anything? https://t.co/4jeWeYmpCv",
+        "created_at": "Sun Mar 29 19:12:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038331625713303552",
+            "url": "https://video.twimg.com/amplify_video/2038331625713303552/vid/avc1/1920x1080/ICNXohEw7ZEyDy_k.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15929213",
+          "name": "Marius Hauken",
+          "screen_name": "mhauken",
+          "description": "Designer shipping better banking & playful side projects like @PieMenu from Norway's west coast.",
+          "followers_count": 129778,
+          "friends_count": 1732,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 170,
+          "favorite_count": 2721,
+          "reply_count": 58,
+          "quote_count": 48
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204587,
+        "friends_count": 1596,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
       "id": "2038397888884355410",
       "text": "Only with Grok understanding every language and recommending content can this be done.\n\nThis has been a long-time goal.",
       "created_at": "Sun Mar 29 23:28:22 +0000 2026",
@@ -6212,6 +6447,62 @@
         "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
         "followers_count": 204437,
         "friends_count": 1594,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038335477204332910",
+      "text": "都好会玩\nhttps://t.co/stj7WWNKyI",
+      "created_at": "Sun Mar 29 19:20:22 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038248755401740730",
+        "text": "Couldn't fall asleep so I made a better pretext Bad Apple - improved silhouette, added Japanese lyrics, found a better english translation. It's so beautiful https://t.co/nNXjqyx6mJ",
+        "created_at": "Sun Mar 29 13:35:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038246416922095616",
+            "url": "https://video.twimg.com/amplify_video/2038246416922095616/vid/avc1/2480x1484/AI3kcAvH2jf2vKdv.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1736961829195395072",
+          "name": "Kevin",
+          "screen_name": "linguinelabs",
+          "description": "swe @tesla, bad apple engineer,🎓ubc engineering physics",
+          "followers_count": 1783,
+          "friends_count": 908,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1077,
+          "favorite_count": 5940,
+          "reply_count": 71,
+          "quote_count": 59
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204587,
+        "friends_count": 1596,
         "verified": false,
         "is_blue_verified": true
       },
