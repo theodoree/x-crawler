@@ -1,12 +1,61 @@
 {
   "date": "20260331",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-31T10:23:34.782440",
-  "tweet_count": 231,
-  "unique_tweet_count": 231,
-  "total_crawled": 414,
-  "duplicates_removed": 183,
+  "last_crawl_time": "2026-03-31T12:20:02.912729",
+  "tweet_count": 232,
+  "unique_tweet_count": 232,
+  "total_crawled": 431,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2038927562462949443",
+      "text": "RT @elonmusk: @mreiffy On the plus side, if you forgot the password to your wallet, it will be accessible in the future \n\nhttps://t.co/xAFt…",
+      "created_at": "Tue Mar 31 10:33:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038922841849295062",
+        "text": "@mreiffy On the plus side, if you forgot the password to your wallet, it will be accessible in the future \n\nhttps://t.co/xAFtNGC5FE",
+        "created_at": "Tue Mar 31 10:14:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "https://t.co/dDtDyVssfm",
+          "followers_count": 237737707,
+          "friends_count": 1305,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 428,
+          "favorite_count": 2772,
+          "reply_count": 600,
+          "quote_count": 103
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237737707,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 428,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2038923221702185078",
       "text": "https://t.co/ztZUqahAmW",
