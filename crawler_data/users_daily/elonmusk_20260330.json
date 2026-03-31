@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237706920,
+    "followers_count": 237715858,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260330",
-  "last_updated": "2026-03-30T22:13:14.320044",
-  "tweet_count": 35,
+  "last_updated": "2026-03-31T00:26:06.111564",
+  "tweet_count": 37,
   "tweets": [
     {
       "id": "2038453152505299116",
@@ -1716,6 +1716,82 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2038747119453110746",
+      "text": "34th launch &amp; landing of the same rocket",
+      "created_at": "Mon Mar 30 22:36:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038729198550822977",
+        "text": "Falcon 9’s fleet leader booster completes its 34th launch and landing https://t.co/xtWRgriDSO",
+        "created_at": "Mon Mar 30 21:24:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038729114916413440",
+            "url": "https://video.twimg.com/amplify_video/2038729114916413440/vid/avc1/3840x2160/wgFWAJNVXSU5fgiz.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41406789,
+          "friends_count": 123,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 576,
+          "favorite_count": 4035,
+          "reply_count": 291,
+          "quote_count": 63
+        }
+      },
+      "stats": {
+        "retweet_count": 3921,
+        "favorite_count": 39866,
+        "reply_count": 2765,
+        "quote_count": 224
+      }
+    },
+    {
+      "id": "2038753423303245825",
+      "text": "Pretty accurate",
+      "created_at": "Mon Mar 30 23:01:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": null,
+        "text": "",
+        "created_at": null,
+        "lang": null,
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": null,
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 1815,
+        "favorite_count": 15003,
+        "reply_count": 1416,
+        "quote_count": 59
       }
     }
   ]
