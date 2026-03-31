@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 204587,
+    "followers_count": 204607,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260331",
-  "last_updated": "2026-03-31T20:14:29.924548",
-  "tweet_count": 11,
+  "last_updated": "2026-03-31T22:11:55.864051",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2038806815883047340",
@@ -482,6 +482,45 @@
         "retweet_count": 0,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039100369108603136",
+      "text": "虽然混淆后js代码能还原，但是\n1. 50 万行代码还原代价极大，让它还原后还能运行现在AI也做不到\n2. 你看不到注释\n3. 你看不到代码结构，看不到代码是怎么组织的",
+      "created_at": "Tue Mar 31 21:59:47 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039098218194387407",
+        "text": "@dotey 不明白这有多大意义， js项目不是天生就能看到混淆后的代码吗 用ai还原不出来吗？",
+        "created_at": "Tue Mar 31 21:51:14 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1468452035343548418",
+          "name": "大吉大利",
+          "screen_name": "Lt8zL",
+          "description": "共产党下台",
+          "followers_count": 6,
+          "friends_count": 39,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 1,
         "quote_count": 0
       }
     }
