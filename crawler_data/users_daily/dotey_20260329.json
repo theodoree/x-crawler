@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 204402,
+    "followers_count": 204437,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260329",
-  "last_updated": "2026-03-31T08:25:08.272766",
-  "tweet_count": 14,
+  "last_updated": "2026-03-31T10:23:34.837874",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2038053845582922023",
@@ -475,6 +475,52 @@
         "retweet_count": 0,
         "favorite_count": 0,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038335883535859956",
+      "text": "弹球\nhttps://t.co/sDGzqXE0kF",
+      "created_at": "Sun Mar 29 19:21:59 +0000 2026",
+      "lang": "ja",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038273711237984564",
+        "text": "Now you can be even more distracted while trying to read papers\n\n(fully playable demo linked below) https://t.co/HrTFqqSgAB",
+        "created_at": "Sun Mar 29 15:14:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038273511459000321",
+            "url": "https://video.twimg.com/amplify_video/2038273511459000321/vid/avc1/3046x1978/ODRkKAW7A6UDQutG.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20314954",
+          "name": "Andrew Jiang",
+          "screen_name": "andrewjiang",
+          "description": "Building arc. YC alum & GP at @CuratedXYZ.",
+          "followers_count": 14022,
+          "friends_count": 4446,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 21,
+          "favorite_count": 281,
+          "reply_count": 17,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 2,
         "quote_count": 0
       }
     },
