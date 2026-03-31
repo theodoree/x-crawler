@@ -1,12 +1,183 @@
 {
   "date": "20260331",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-31T03:05:55.227351",
-  "tweet_count": 201,
-  "unique_tweet_count": 201,
-  "total_crawled": 400,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-03-31T04:50:20.188182",
+  "tweet_count": 204,
+  "unique_tweet_count": 204,
+  "total_crawled": 401,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2038831730287870207",
+      "text": "RT @BritHugoboom: Grokipedia is far superior to Wikipedia and it’s not even close, especially when it comes to neutrality.\n\nTake Evie’s Wik…",
+      "created_at": "Tue Mar 31 04:12:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038765295058227265",
+        "text": "Grokipedia is far superior to Wikipedia and it’s not even close, especially when it comes to neutrality.\n\nTake Evie’s Wikipedia page:  it’s been the target of a years-long hit job by a group of leftist activist editors who are blatantly breaking Wiki’s own rules, and they do this by defending each other’s edits while claiming consensus. When a factual edit is made, it’s immediately reversed because they’re watching the page. \n\nGrokipedia actually stays neutral and summarizes facts. It pulls straight from our own website and social media pages to describe what kind of content we publish (shocking!), instead of letting some opinionated leftist journalist slap their spin on everything. \n\nIt reviews all sources, weighs bias, and references articles from the larger, widely trusted publications, instead of using Media Matters or Vice as “neutral sources” (lol). \n\nThis is such important work from xAI because all these LLMs are out there scraping Wikipedia for their answers. If Wikipedia is full of false info or pushing a heavily biased take, then every AI chatbot ends up repeating the same garbage.\n\nThank you @elonmusk.",
+        "created_at": "Mon Mar 30 23:48:19 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "962024963149565952",
+          "name": "Brittany Hugoboom",
+          "screen_name": "BritHugoboom",
+          "description": "Founder @evie_magazine • Founder @28wellness 💕 “The Glamorous Editor of Evie” - WSJ • “Seems, to me, a bit more like the provocateur Camille Paglia.” - VF",
+          "followers_count": 111962,
+          "friends_count": 2470,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 163,
+          "favorite_count": 1052,
+          "reply_count": 151,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237731084,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 163,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038827708663382017",
+      "text": "RT @JessePeltan: Remember when the problem with EVs was the cost of the battery?\n\nYeah. Not a problem anymore. https://t.co/yC1RkiUPmz",
+      "created_at": "Tue Mar 31 03:56:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038799012443115521",
+          "url": "https://pbs.twimg.com/media/HEtE5lkW0AEvktk.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2038799020152283243",
+        "text": "Remember when the problem with EVs was the cost of the battery?\n\nYeah. Not a problem anymore. https://t.co/yC1RkiUPmz",
+        "created_at": "Tue Mar 31 02:02:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038799012443115521",
+            "url": "https://pbs.twimg.com/media/HEtE5lkW0AEvktk.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2038628627164590197",
+          "text": "✍️ New article: Battery costs have declined by 99% in the last three decades, making electrified transport a reality—\n\nOver 20 million electric cars were sold globally in 2025 — some for as little as $10,000. Even just two decades ago, that would have been impossible.\n\nThe reason it's possible now? Batteries have gotten *much* cheaper.\n\nIn 1991, lithium-ion battery cells cost around $9,200 per kilowatt-hour. By 2024, that had fallen to just $78 — a decline of more than 99%. You can see this in the chart.\n\nTo put that in perspective: the battery cells in a standard electric car today cost around $5,000. In 1991, those same cells would have cost nearly $600,000.\n\nThere was no single breakthrough behind this. Batteries follow a “learning curve”: as cumulative production grows, thousands of small improvements in chemistry, manufacturing, and supply chains drive prices down.\n\nSince 1998, every time global cumulative battery production doubled, the price dropped by roughly 19%.\n\nEarly progress was driven by consumer electronics — phones and laptops — before the technology became viable for cars, buses, and larger energy storage.\n\nEnergy density has also more than tripled since the 1990s, meaning batteries can now store far more energy for their volume.\n\nThe half-a-million-dollar battery was never going to transform transport. The $5,000 battery is.",
+          "created_at": "Mon Mar 30 14:45:15 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2038628623486201856",
+              "url": "https://pbs.twimg.com/media/HEqp7pPWsAAB7Nv.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3169963433",
+            "name": "Our World in Data",
+            "screen_name": "OurWorldInData",
+            "description": "Our World in Data is a free, nonprofit website with a mission to increase understanding of the world’s largest problems and drive informed action to solve them.",
+            "followers_count": 303580,
+            "friends_count": 21,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 362,
+            "favorite_count": 995,
+            "reply_count": 29,
+            "quote_count": 42
+          }
+        },
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 72540,
+          "friends_count": 442,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 217,
+          "favorite_count": 1225,
+          "reply_count": 193,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237731084,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 217,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038827523736506773",
+      "text": "34th flight of this booster https://t.co/sM4lQFTGA6",
+      "created_at": "Tue Mar 31 03:55:35 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038827520620208130",
+          "url": "https://pbs.twimg.com/media/HEte0-zboAIKcR6.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237731084,
+        "friends_count": 1305,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2497,
+        "favorite_count": 35249,
+        "reply_count": 2951,
+        "quote_count": 195
+      }
+    },
     {
       "id": "2038806815883047340",
       "text": "https://t.co/HneY4CAY51",
