@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 204490,
+    "followers_count": 204529,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260331",
-  "last_updated": "2026-03-31T14:32:54.273257",
-  "tweet_count": 4,
+  "last_updated": "2026-03-31T16:24:23.430872",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2038806815883047340",
@@ -182,6 +182,59 @@
         "retweet_count": 0,
         "favorite_count": 6,
         "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039003282018869394",
+      "text": "RT @CuiMao: 实锤了，刚才开会我录屏了   @DarioAmodei  @AnthropicAI  @claudeai https://t.co/WCxoGg2AJQ",
+      "created_at": "Tue Mar 31 15:33:59 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038998087109414913",
+          "url": "https://video.twimg.com/amplify_video/2038998087109414913/vid/avc1/2560x1440/p60jmNn_je4Icemu.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2038998454840725751",
+        "text": "实锤了，刚才开会我录屏了   @DarioAmodei  @AnthropicAI  @claudeai https://t.co/WCxoGg2AJQ",
+        "created_at": "Tue Mar 31 15:14:49 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038998087109414913",
+            "url": "https://video.twimg.com/amplify_video/2038998087109414913/vid/avc1/2560x1440/p60jmNn_je4Icemu.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1558317849508122629",
+          "name": "CuiMao",
+          "screen_name": "CuiMao",
+          "description": "AI Developer\nNVIDIA YES \n深度学习 \n\nTG学习群：https://t.co/Ha8LFayYSN",
+          "followers_count": 47050,
+          "friends_count": 1229,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 21,
+          "favorite_count": 149,
+          "reply_count": 28,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 0,
+        "reply_count": 0,
         "quote_count": 0
       }
     }

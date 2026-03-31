@@ -1,12 +1,75 @@
 {
   "date": "20260331",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-31T14:32:54.242963",
-  "tweet_count": 235,
-  "unique_tweet_count": 235,
-  "total_crawled": 432,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-03-31T16:24:23.399975",
+  "tweet_count": 236,
+  "unique_tweet_count": 236,
+  "total_crawled": 435,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2039003282018869394",
+      "text": "RT @CuiMao: 实锤了，刚才开会我录屏了   @DarioAmodei  @AnthropicAI  @claudeai https://t.co/WCxoGg2AJQ",
+      "created_at": "Tue Mar 31 15:33:59 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038998087109414913",
+          "url": "https://video.twimg.com/amplify_video/2038998087109414913/vid/avc1/2560x1440/p60jmNn_je4Icemu.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2038998454840725751",
+        "text": "实锤了，刚才开会我录屏了   @DarioAmodei  @AnthropicAI  @claudeai https://t.co/WCxoGg2AJQ",
+        "created_at": "Tue Mar 31 15:14:49 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038998087109414913",
+            "url": "https://video.twimg.com/amplify_video/2038998087109414913/vid/avc1/2560x1440/p60jmNn_je4Icemu.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1558317849508122629",
+          "name": "CuiMao",
+          "screen_name": "CuiMao",
+          "description": "AI Developer\nNVIDIA YES \n深度学习 \n\nTG学习群：https://t.co/Ha8LFayYSN",
+          "followers_count": 47050,
+          "friends_count": 1229,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 21,
+          "favorite_count": 149,
+          "reply_count": 28,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204529,
+        "friends_count": 1593,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2038985726033899747",
       "text": "Make Codex Desktop open-source, please!",
