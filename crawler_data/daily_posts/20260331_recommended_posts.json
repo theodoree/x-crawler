@@ -1,12 +1,37 @@
 {
   "date": "20260331",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-03-31T00:26:06.079707",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-03-31T03:05:55.227351",
+  "tweet_count": 201,
+  "unique_tweet_count": 201,
+  "total_crawled": 400,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2038806815883047340",
+      "text": "https://t.co/HneY4CAY51",
+      "created_at": "Tue Mar 31 02:33:18 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204304,
+        "friends_count": 1593,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 13,
+        "reply_count": 3,
+        "quote_count": 2
+      }
+    },
     {
       "id": "2038753423303245825",
       "text": "Pretty accurate",
