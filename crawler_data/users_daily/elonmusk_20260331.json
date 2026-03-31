@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237722149,
+    "followers_count": 237731098,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260331",
-  "last_updated": "2026-03-31T06:31:04.956231",
-  "tweet_count": 3,
+  "last_updated": "2026-03-31T08:25:08.243995",
+  "tweet_count": 13,
   "tweets": [
     {
       "id": "2038827523736506773",
@@ -147,6 +147,581 @@
       "quoted": null,
       "stats": {
         "retweet_count": 163,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038883739712016509",
+      "text": "RT @boringcompany: The 2026 Not-a-Boring Competition is officially underway in Bastrop, TX!\n\nEight student teams watched Prufrock-5 digging…",
+      "created_at": "Tue Mar 31 07:38:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2038844688938266842",
+        "text": "The 2026 Not-a-Boring Competition is officially underway in Bastrop, TX!\n\nEight student teams watched Prufrock-5 digging a test tunnel, toured the Boring Factory, and delivered their Mining Readiness Review presentations to our engineers. \n\nBeat the snail! https://t.co/Qo7EovrB5s",
+        "created_at": "Tue Mar 31 05:03:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038844681958920193",
+            "url": "https://pbs.twimg.com/media/HEtub5xbEAEC26a.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038844681967255552",
+            "url": "https://pbs.twimg.com/media/HEtub5zaQAAxvZ6.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038844681971478528",
+            "url": "https://pbs.twimg.com/media/HEtub50asAA5Qbk.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038844681954701312",
+            "url": "https://pbs.twimg.com/media/HEtub5wasAAlfmn.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2023312437727076596",
+          "text": "The 5th annual Not-a-Boring Student Competition is almost here! \n\n120+ students from 8 universities across 3 countries are making final machine preparations before coming to Bastrop, TX in March to compete and see who can beat the snail!\n\nThe 8 finalists are:\n@TheBoringIllini from @uofigrainger\n@CU_Hyperloop from @CUEngineering\n@TAMUDigEmAggies from @TAMUEngineering\n@DiggeridoosVT from @virginia_tech\n@Penn_Hyperloop from @PennEngineers\nSmith Engineering Hyperloop from @SmithEngQueens\n@TalpaUPV from @UPV\n@uatxcavators from @uaustinorg\n\nIf you're a college student interested in starting a Not-a-Boring Competition team of your own, reach out to competition@boringcompany.com.",
+          "created_at": "Mon Feb 16 08:24:11 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2023312432765276161",
+              "url": "https://pbs.twimg.com/media/HBQ_8AibEAETSUJ.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2023312432756858880",
+              "url": "https://pbs.twimg.com/media/HBQ_8AgaoAA0R9N.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "859816394556284929",
+            "name": "The Boring Company",
+            "screen_name": "boringcompany",
+            "description": "Beat the snail",
+            "followers_count": 1108392,
+            "friends_count": 9,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 156,
+            "favorite_count": 973,
+            "reply_count": 29,
+            "quote_count": 7
+          }
+        },
+        "user": {
+          "id": "859816394556284929",
+          "name": "The Boring Company",
+          "screen_name": "boringcompany",
+          "description": "Beat the snail",
+          "followers_count": 1108392,
+          "friends_count": 9,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 108,
+          "favorite_count": 818,
+          "reply_count": 110,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 108,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038884240407019644",
+      "text": "In 4 or 5 years, there will be a launch every hour",
+      "created_at": "Tue Mar 31 07:40:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038847107126136871",
+        "text": "TWO Falcon 9 launches in one day\n\nThe pace SpaceX is launching is just Insane…\n\nFor the rest of the space industry, it takes months or years to pull off one launch\n\nBut in the last 24 hours, SpaceX completed TWO flawless missions:\n•⁠  ⁠119 payloads delivered to orbit\n•⁠  ⁠29 more Starlink satellites launched\n\nThat’s 148 satellites in ONE DAY and this is quite routine for SpaceX\n\nSpaceX is operating on a completely different level",
+        "created_at": "Tue Mar 31 05:13:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038845120733179904",
+            "url": "https://pbs.twimg.com/media/HEtu1cVW8AAwkMj.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038845159861837824",
+            "url": "https://pbs.twimg.com/media/HEtu3uGW4AADIjP.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 175150,
+          "friends_count": 1691,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 122,
+          "favorite_count": 703,
+          "reply_count": 124,
+          "quote_count": 14
+        }
+      },
+      "stats": {
+        "retweet_count": 1360,
+        "favorite_count": 12695,
+        "reply_count": 2412,
+        "quote_count": 194
+      }
+    },
+    {
+      "id": "2038884358594146411",
+      "text": "RT @Kenmaeda77: テスラのFSD自動運転で新宿駅前を通る。日本🇯🇵でも今年認可され、イーロンがポストしていたように日本のサービス拠点やスーパーチャージャーへの投資が加速すると一気にメジャーな車になるだろう。 https://t.co/Xbw7z5Yv4T",
+      "created_at": "Tue Mar 31 07:41:26 +0000 2026",
+      "lang": "ja",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038843265336975360",
+          "url": "https://video.twimg.com/amplify_video/2038843265336975360/vid/avc1/2160x3840/DgVp6VjAAKqIMxBd.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2038844053488599523",
+        "text": "テスラのFSD自動運転で新宿駅前を通る。日本🇯🇵でも今年認可され、イーロンがポストしていたように日本のサービス拠点やスーパーチャージャーへの投資が加速すると一気にメジャーな車になるだろう。 https://t.co/Xbw7z5Yv4T",
+        "created_at": "Tue Mar 31 05:01:16 +0000 2026",
+        "lang": "ja",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038843265336975360",
+            "url": "https://video.twimg.com/amplify_video/2038843265336975360/vid/avc1/2160x3840/DgVp6VjAAKqIMxBd.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1655429576326279169",
+          "name": "前田謙一郎 Ken Maeda",
+          "screen_name": "Kenmaeda77",
+          "description": "Undertones Consulting代表 ブランディングのコンサルティングを行いながら、世界のモビリティ動向に関する講演や執筆を行っています。（日経モビリティ等）\n元テスラ｜元ポルシェ執行役員 ✉️ニュースレター「イーロン・マスクに学べ！」 https://t.co/2HUJiI9hJt",
+          "followers_count": 7950,
+          "friends_count": 2182,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 183,
+          "favorite_count": 1193,
+          "reply_count": 185,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 182,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038884646994481237",
+      "text": "True",
+      "created_at": "Tue Mar 31 07:42:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038873520206143700",
+        "text": "I don’t think people realize how affordable Teslas have gotten.\n\nA new Model Y is $530/month. (72 months) https://t.co/p4BPFXzPCX",
+        "created_at": "Tue Mar 31 06:58:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038873515789848576",
+            "url": "https://pbs.twimg.com/media/HEuIqQKbEAAaqPQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 72625,
+          "friends_count": 441,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 25,
+          "favorite_count": 285,
+          "reply_count": 181,
+          "quote_count": 44
+        }
+      },
+      "stats": {
+        "retweet_count": 653,
+        "favorite_count": 7009,
+        "reply_count": 1643,
+        "quote_count": 70
+      }
+    },
+    {
+      "id": "2038885159819473028",
+      "text": "Teslas are in tunnels under Vegas transporting millions of people",
+      "created_at": "Tue Mar 31 07:44:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038797485716762902",
+        "text": "Newest Vegas Loop Station at the beautiful Fontainebleau Resort @fblasvegas https://t.co/uzG0qYbSJX",
+        "created_at": "Tue Mar 31 01:56:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038720231347310592",
+            "url": "https://video.twimg.com/amplify_video/2038720231347310592/vid/avc1/1920x1080/UF9XPQsS3LHoZXZj.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "859816394556284929",
+          "name": "The Boring Company",
+          "screen_name": "boringcompany",
+          "description": "Beat the snail",
+          "followers_count": 1108392,
+          "friends_count": 9,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 136,
+          "favorite_count": 1363,
+          "reply_count": 74,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 762,
+        "favorite_count": 7486,
+        "reply_count": 1016,
+        "quote_count": 38
+      }
+    },
+    {
+      "id": "2038886123460764152",
+      "text": "The zoomed-in section is cute",
+      "created_at": "Tue Mar 31 07:48:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038811249232732275",
+        "text": "🚀 The Q4 Rocket Report just came out, with a record breaking surge in launch activity.\n\nSpaceX had 97% share of U.S. launch, and 83% globally. China was 8%, Russia 4%, all other U.S. 3%, Korea 1%, Japan 0.6%, Europe 0.2%, and India 0.1% https://t.co/h6PFJiGXVt",
+        "created_at": "Tue Mar 31 02:50:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038807586099601409",
+            "url": "https://pbs.twimg.com/media/HEtMso7WoAEhEv1.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "125499355",
+          "name": "Steve Jurvetson",
+          "screen_name": "FutureJurvetson",
+          "description": "Co-founder of Future Ventures and DFJ, supporting passionate founders to forge a better future. Early VC investor in Tesla, SpaceX, Planet, Commonwealth Fusion.",
+          "followers_count": 107750,
+          "friends_count": 69,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 35,
+          "favorite_count": 229,
+          "reply_count": 50,
+          "quote_count": 15
+        }
+      },
+      "stats": {
+        "retweet_count": 358,
+        "favorite_count": 2570,
+        "reply_count": 734,
+        "quote_count": 18
+      }
+    },
+    {
+      "id": "2038887897005445516",
+      "text": "RT @JessePeltan: @elonmusk Best value out there by far.\n\nI won’t let my family drive anything else. https://t.co/nu9Iki4K7U",
+      "created_at": "Tue Mar 31 07:55:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038885333878849536",
+          "url": "https://pbs.twimg.com/media/HEuTaJ-aQAAWwAX.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2038885338047770944",
+        "text": "@elonmusk Best value out there by far.\n\nI won’t let my family drive anything else. https://t.co/nu9Iki4K7U",
+        "created_at": "Tue Mar 31 07:45:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038885333878849536",
+            "url": "https://pbs.twimg.com/media/HEuTaJ-aQAAWwAX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2034410212074074122",
+          "text": "https://t.co/AaKZlWvuTR https://t.co/1L7AYHGaDw",
+          "created_at": "Wed Mar 18 23:22:46 +0000 2026",
+          "lang": "zxx",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2034410208563515392",
+              "url": "https://pbs.twimg.com/media/HDutTlDbUAAGeRX.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "13298072",
+            "name": "Tesla",
+            "screen_name": "Tesla",
+            "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+            "followers_count": 24733678,
+            "friends_count": 56,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1644,
+            "favorite_count": 7091,
+            "reply_count": 494,
+            "quote_count": 175
+          }
+        },
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 72625,
+          "friends_count": 441,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 94,
+          "favorite_count": 524,
+          "reply_count": 136,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 94,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038889393847771577",
+      "text": "Try it out",
+      "created_at": "Tue Mar 31 08:01:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038884222195429481",
+        "text": "Grok has become my go-to for reviewing MRIs and blood test results.\n\nIt makes complex reports much easier to understand.\n\nSuper helpful for clarity. https://t.co/AJvy34CtQ4",
+        "created_at": "Tue Mar 31 07:40:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038884018650066944",
+            "url": "https://video.twimg.com/amplify_video/2038884018650066944/vid/avc1/1080x1080/-tILOjMc1Nm0LXIm.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1848818,
+          "friends_count": 930,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 42,
+          "favorite_count": 238,
+          "reply_count": 131,
+          "quote_count": 18
+        }
+      },
+      "stats": {
+        "retweet_count": 313,
+        "favorite_count": 1911,
+        "reply_count": 985,
+        "quote_count": 28
+      }
+    },
+    {
+      "id": "2038889488030867802",
+      "text": "RT @teslajapan: 東京都在住の方が、今Teslaを購入すると、国の補助金127万円に加えて、東京都から40万円(最大80万円)の補助金を受け取ることができます。 https://t.co/hCaSJMsJel",
+      "created_at": "Tue Mar 31 08:01:49 +0000 2026",
+      "lang": "ja",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038779922358083584",
+          "url": "https://pbs.twimg.com/media/HEsziZdaIAAgVQ0.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038779753579339776",
+          "url": "https://pbs.twimg.com/media/HEszYkta4AAK0FF.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2038782275413024785",
+        "text": "東京都在住の方が、今Teslaを購入すると、国の補助金127万円に加えて、東京都から40万円(最大80万円)の補助金を受け取ることができます。 https://t.co/hCaSJMsJel",
+        "created_at": "Tue Mar 31 00:55:47 +0000 2026",
+        "lang": "ja",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038779922358083584",
+            "url": "https://pbs.twimg.com/media/HEsziZdaIAAgVQ0.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038779753579339776",
+            "url": "https://pbs.twimg.com/media/HEszYkta4AAK0FF.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "197801736",
+          "name": "Tesla Japan",
+          "screen_name": "teslajapan",
+          "description": "【テスラジャパン公式】 電気自動車やエナジー関連製品を通して、世界の持続可能エネルギーへのシフトを加速します。 テスラの試乗予約はこちら→ https://t.co/CLA7bOjLN7 テスラ家庭用蓄電池の設置相談はこちら→https://t.co/6ndyBAqjfH",
+          "followers_count": 68401,
+          "friends_count": 49,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 215,
+          "favorite_count": 1459,
+          "reply_count": 170,
+          "quote_count": 44
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 215,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038893232382451726",
+      "text": "RT @dvorahfr: Carrousel of the sky, Grok Imagine ✨️ https://t.co/iXYgX5HCIn",
+      "created_at": "Tue Mar 31 08:16:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2038880240370651136",
+          "url": "https://video.twimg.com/ext_tw_video/2038880240370651136/pu/vid/avc1/720x720/4xnNqw6plVhGYH18.mp4?tag=19",
+          "bitrate": 1280000
+        }
+      ],
+      "retweet": {
+        "id": "2038880265829843342",
+        "text": "Carrousel of the sky, Grok Imagine ✨️ https://t.co/iXYgX5HCIn",
+        "created_at": "Tue Mar 31 07:25:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038880240370651136",
+            "url": "https://video.twimg.com/ext_tw_video/2038880240370651136/pu/vid/avc1/720x720/4xnNqw6plVhGYH18.mp4?tag=19",
+            "bitrate": 1280000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 127290,
+          "friends_count": 3496,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 53,
+          "favorite_count": 345,
+          "reply_count": 116,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 53,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
