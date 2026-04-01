@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 205148,
+    "followers_count": 205160,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260401",
-  "last_updated": "2026-04-01T20:15:51.434122",
-  "tweet_count": 19,
+  "last_updated": "2026-04-01T22:13:29.307291",
+  "tweet_count": 20,
   "tweets": [
     {
       "id": "2039147493355634989",
@@ -754,6 +754,52 @@
         "retweet_count": 0,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039447849675469060",
+      "text": "Claude Code 终端全屏渲染模式\n\nClaude Code 推出了一个新的终端渲染模式，代号 NO_FLICKER。启用方式很简单：CLAUDE_CODE_NO_FLICKER=1 claude。\n\n用过 Claude Code 的人大概都有体感：对话一长，终端就开始闪屏、跳屏，VS Code 内置终端和 tmux 里尤其明显。这是终端渲染的先天限制，ANSI 转义码（终端用来画界面的底层指令）里没有\"只刷新某一行\"的操作，想更新画面就只能清屏重画，也就是肉眼可见的闪烁。\n\nNO_FLICKER 模式的做法是接管整个终端视口，类似 vim 或 htop 那样切到备用屏幕缓冲区，只渲染当前可见的内容。这样一来闪烁消失了，内存和 CPU 占用也不再随对话增长而膨胀。\n\n附带的彩蛋是鼠标支持：可以点击输入框定位光标，点击折叠的工具输出展开查看，点击 URL 直接打开，拖拽选中文本会自动复制到剪贴板。对终端应用来说，这套交互相当少见。\n\n代价也有。原生的 Cmd+F 搜索失效了，因为对话内容不在终端滚动缓冲区里，需要按 Ctrl+O 再按 / 来搜索。原生的复制粘贴也被接管，选中即复制，或者可以在设置里改成 Ctrl+C 手动复制。\n\nBoris 说，这个模式在内部测试中已经被大多数人当成了默认选择。目前作为研究预览发布，需要 v2.1.88 或更高版本。如果鼠标捕获干扰工作流，可以加上 CLAUDE_CODE_DISABLE_MOUSE=1 只保留无闪烁渲染。",
+      "created_at": "Wed Apr 01 21:00:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039421575422980329",
+        "text": "Today we're excited to announce NO_FLICKER mode for Claude Code in the terminal\n\nIt uses an experimental new renderer that we're excited about. The renderer is early and has tradeoffs, but already we've found that most internal users prefer it over the old renderer. It also supports mouse events (yes, in a terminal).\n\nTry it: CLAUDE_CODE_NO_FLICKER=1 claude",
+        "created_at": "Wed Apr 01 19:16:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039416515901235200",
+            "url": "https://video.twimg.com/amplify_video/2039416515901235200/vid/avc1/1080x1080/hLyC4P1PTksQF3Pv.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "159337660",
+          "name": "Boris Cherny",
+          "screen_name": "bcherny",
+          "description": "Claude Code @anthropicai",
+          "followers_count": 367118,
+          "friends_count": 130,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 211,
+          "favorite_count": 4096,
+          "reply_count": 330,
+          "quote_count": 102
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 24,
+        "reply_count": 3,
         "quote_count": 0
       }
     }
