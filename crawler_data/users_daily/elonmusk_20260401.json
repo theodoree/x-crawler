@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237820157,
+    "followers_count": 237833353,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260401",
-  "last_updated": "2026-04-01T12:20:27.944256",
-  "tweet_count": 28,
+  "last_updated": "2026-04-01T14:34:12.014321",
+  "tweet_count": 31,
   "tweets": [
     {
       "id": "2039154596166451472",
@@ -1285,6 +1285,112 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2039317389280760233",
+      "text": "Grok Imagine makes it easy and fast to create fun videos!\n\nYoung kids especially love doing image &amp; video generation using voice mode (press the speak button). \n\nAnd you can turn on kid safe mode in settings: https://t.co/z5NPAAjjaA",
+      "created_at": "Wed Apr 01 12:22:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039317386382495744",
+          "url": "https://pbs.twimg.com/media/HE0cW6-bUAA1vSK.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1552,
+        "favorite_count": 10370,
+        "reply_count": 2520,
+        "quote_count": 174
+      }
+    },
+    {
+      "id": "2039317592859676863",
+      "text": "RT @TRobinsonNewEra: Young Irish teacher Enoch Burke has now spent over 600 days in prison for refusing to use gender bending ideology for…",
+      "created_at": "Wed Apr 01 12:22:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2039093424238838011",
+        "text": "Young Irish teacher Enoch Burke has now spent over 600 days in prison for refusing to use gender bending ideology for pupils in his class.\n\nHis mother and sister visited him in jail today, as they left, gardaí were waiting for them, and jailed them too!\n https://t.co/xXoE8ZENue",
+        "created_at": "Tue Mar 31 21:32:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039058857452797952",
+            "url": "https://video.twimg.com/amplify_video/2039058857452797952/vid/avc1/1920x1080/dl3sl4mJGH3296ST.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "374712154",
+          "name": "Tommy Robinson 🇬🇧",
+          "screen_name": "TRobinsonNewEra",
+          "description": "Journalist Support us: https://t.co/IBf12EjvdO My books: https://t.co/deh3pH9EEk for direct contact https://t.co/zOcM3ad9DX",
+          "followers_count": 1925436,
+          "friends_count": 13324,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 12640,
+          "favorite_count": 42405,
+          "reply_count": 1995,
+          "quote_count": 567
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12640,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039317879762653259",
+      "text": "Crazy",
+      "created_at": "Wed Apr 01 12:24:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039097790559932537",
+        "text": "Biden badly misused immigration parole, using it unlawfully to bring millions of migrants into the U.S. \n\nA federal judge has now told Trump he can’t reverse Biden’s unlawful use of this narrow authority.\n\nIt’s all so upside down.",
+        "created_at": "Tue Mar 31 21:49:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 681281,
+          "friends_count": 3836,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2349,
+          "favorite_count": 12907,
+          "reply_count": 1084,
+          "quote_count": 102
+        }
+      },
+      "stats": {
+        "retweet_count": 5154,
+        "favorite_count": 40849,
+        "reply_count": 2085,
+        "quote_count": 113
       }
     }
   ]
