@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237787548,
+    "followers_count": 237788585,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260331",
-  "last_updated": "2026-03-31T22:11:55.874902",
-  "tweet_count": 39,
+  "last_updated": "2026-04-01T00:28:25.020596",
+  "tweet_count": 40,
   "tweets": [
     {
       "id": "2038827523736506773",
@@ -1839,6 +1839,52 @@
       "quoted": null,
       "stats": {
         "retweet_count": 923,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039116649539023320",
+      "text": "RT @ScottPresler: BREAKING \n\nMASSIVE NEWS \n\nPresident Trump just signed an Executive Order to provide for election integrity:\n\n1) Election…",
+      "created_at": "Tue Mar 31 23:04:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2039098867887538187",
+        "text": "BREAKING \n\nMASSIVE NEWS \n\nPresident Trump just signed an Executive Order to provide for election integrity:\n\n1) Election officials will be provided w/ federal data to ensure that ONLY American citizens are able to vote\n\n2) Orders the Postmaster General & the United States Postal Service to verify that ballots are ONLY mailed to eligible voters \n\n& ballots are returned ONLY by eligible voters. \n\nThis is a huge step in the right direction. \n\nPass the SAVE America Act!",
+        "created_at": "Tue Mar 31 21:53:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039098689957023745",
+            "url": "https://video.twimg.com/amplify_video/2039098689957023745/vid/avc1/1206x678/YTVFvPx99n3QCQqS.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "931286316",
+          "name": "ThePersistence",
+          "screen_name": "ScottPresler",
+          "description": "I helped defeat Hillary, Kamala, & organized the Baltimore cleanup. We delivered Pennsylvania for President Trump. 👀 ➡️ @EarlyVoteAction MAGA 🤝 MAHA 🤝 BARBZ",
+          "followers_count": 2474381,
+          "friends_count": 73704,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6796,
+          "favorite_count": 30350,
+          "reply_count": 1435,
+          "quote_count": 242
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6796,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
