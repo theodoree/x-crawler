@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237844597,
+    "followers_count": 237853623,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260401",
-  "last_updated": "2026-04-01T16:21:59.576615",
-  "tweet_count": 49,
+  "last_updated": "2026-04-01T18:19:31.526072",
+  "tweet_count": 51,
   "tweets": [
     {
       "id": "2039154596166451472",
@@ -2331,6 +2331,97 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2039379828261179810",
+      "text": "10 years ago",
+      "created_at": "Wed Apr 01 16:30:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039325838349598976",
+        "text": "Believe it or not, Elon has actually known that the Sun doesn’t shine at night since at least 2016, possibly even earlier. https://t.co/STaPOmSyii",
+        "created_at": "Wed Apr 01 12:55:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039325784075288576",
+            "url": "https://video.twimg.com/amplify_video/2039325784075288576/vid/avc1/1274x720/yqec0-_rlw8LScE0.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 73640,
+          "friends_count": 444,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 119,
+          "favorite_count": 1297,
+          "reply_count": 173,
+          "quote_count": 15
+        }
+      },
+      "stats": {
+        "retweet_count": 2053,
+        "favorite_count": 27859,
+        "reply_count": 1948,
+        "quote_count": 101
+      }
+    },
+    {
+      "id": "2039395363690541176",
+      "text": "Wow",
+      "created_at": "Wed Apr 01 17:31:59 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039372032635482535",
+        "text": "EXCLUSIVE: Multiple senior HHS officials estimate that, under Gavin Newsom, California's state Medicaid program has lost 25 percent of its budget to fraud. This would mean it is currently losing $50 billion a year to scammers, fraudsters, and organized crime rings. https://t.co/i442jU4XkE",
+        "created_at": "Wed Apr 01 15:59:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039372028994879488",
+            "url": "https://pbs.twimg.com/media/HE1ODikbgAAYFpG.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3066800573",
+          "name": "Christopher F. Rufo ⚔️",
+          "screen_name": "christopherrufo",
+          "description": "Working with @CityJournal, @ManhattanInst, @Hillsdale. Sign up for my free Substack: https://t.co/azjaTnUCKh.",
+          "followers_count": 845699,
+          "friends_count": 1027,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 983,
+          "favorite_count": 3538,
+          "reply_count": 316,
+          "quote_count": 152
+        }
+      },
+      "stats": {
+        "retweet_count": 4142,
+        "favorite_count": 21212,
+        "reply_count": 1826,
+        "quote_count": 136
       }
     }
   ]

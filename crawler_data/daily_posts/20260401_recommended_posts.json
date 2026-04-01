@@ -1,12 +1,221 @@
 {
   "date": "20260401",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-01T16:21:59.544785",
-  "tweet_count": 265,
-  "unique_tweet_count": 265,
-  "total_crawled": 446,
-  "duplicates_removed": 181,
+  "last_crawl_time": "2026-04-01T18:19:31.489960",
+  "tweet_count": 270,
+  "unique_tweet_count": 270,
+  "total_crawled": 465,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2039395363690541176",
+      "text": "Wow",
+      "created_at": "Wed Apr 01 17:31:59 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039372032635482535",
+        "text": "EXCLUSIVE: Multiple senior HHS officials estimate that, under Gavin Newsom, California's state Medicaid program has lost 25 percent of its budget to fraud. This would mean it is currently losing $50 billion a year to scammers, fraudsters, and organized crime rings. https://t.co/i442jU4XkE",
+        "created_at": "Wed Apr 01 15:59:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039372028994879488",
+            "url": "https://pbs.twimg.com/media/HE1ODikbgAAYFpG.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3066800573",
+          "name": "Christopher F. Rufo ⚔️",
+          "screen_name": "christopherrufo",
+          "description": "Working with @CityJournal, @ManhattanInst, @Hillsdale. Sign up for my free Substack: https://t.co/azjaTnUCKh.",
+          "followers_count": 845699,
+          "friends_count": 1027,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 983,
+          "favorite_count": 3538,
+          "reply_count": 316,
+          "quote_count": 152
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237853623,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4142,
+        "favorite_count": 21212,
+        "reply_count": 1826,
+        "quote_count": 136
+      }
+    },
+    {
+      "id": "2039385321352159640",
+      "text": "RT @Barret_China: 看了一晚上 Claude Code 泄露的代码，结合常见的记忆管理框架，把记忆模块做了一些分析。\n\nTulving 老爷子在 1972 年提出了记忆系统的框架设计，至今仍在广泛使用，他把记忆分为三类：1）情境记忆（episodic memor…",
+      "created_at": "Wed Apr 01 16:52:05 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2039376926931104153",
+        "text": "看了一晚上 Claude Code 泄露的代码，结合常见的记忆管理框架，把记忆模块做了一些分析。\n\nTulving 老爷子在 1972 年提出了记忆系统的框架设计，至今仍在广泛使用，他把记忆分为三类：1）情境记忆（episodic memory），我干了啥，用来记录过去；2）语义记忆（semantic memory），我知道啥，用来提炼规律；3）以及程序化记忆（procedural memory），我会做啥，用来决定行动。\n\n这些记忆之间是存在相关性的，例如我经历的事情（情景记忆）会慢慢遗忘细节，储存在脑海中的是提炼后的规律和知识，也就是压缩成了语义记忆；而我知道的东西又会逐渐内化为行动的指引，变成一种“知道怎么做”的能力，这就是程序化记忆；程序化记忆反过来又会指导行动，从而产生新的经历。三者构成了一个不断循环的过程：经历 → 知识 → 技能 → 新的经历。\n\nClaude Code Memory 在这几块都有对应的实践，例如每轮次的对话它会以 jsonl 格式做储存，这是情境记忆；同时在对话过程中还会有 SessionMemory 做实时蒸馏，相当于一边发生一边做初步整理。\n\n每轮次结束后，它会 fork 出一个子 Agent（extractMemories）去提取值得持久化的内容，写入带 YAML 头的 MD 文件，这一层对应语义记忆，把零散对话压缩成可复用的知识。更有意思的是它还有一个 autoDream 机制，会在后台做整合和修剪，把碎片化的内容重新组织、合并、更新，这一步很像记忆的巩固过程。\n\n很多框架都没有实现程序化记忆，而 Claude Code 做了。它有一个 feedback 的记忆类型，不仅记录了不要做什么（用户的纠正），还会记录哪些做法是对的（用户的确认），这些都是经验化的技能记录。多数系统只考虑负反馈，Claude Code 兼顾了正向确认，让 Agent 不至于越学越保守，这一点非常关键。\n\n相比 LangMem/Mem0/Zep/EverMemOS/MemOS 这些框架，Claude Code 肯定弱的像个菜鸡😄。它有很多能力是明显不足的，例如：不支持语义化召回（用 LLM 扫 metadata 代替向量检索，上限 200 个文件）、遗忘策略比较粗（24 小时 or 5 轮对话触发整合）、无关联网络（记忆是孤立文件），等等。\n\n真要像 EverMemOS/MemOS 那样追求全量记忆，工程和架构复杂度会直线上升，就拿 EverMemOS 来说，光基础设施就包含了 MongoDB/Elasticsearch/Milvus/Redis，更别说其他的附带依赖了。这类框架更适合做个人长期记忆管理。\n\n另外也去对比了下 OpenClaw，它的记忆实现也非常有意思。它不追求全量记忆，而是优先解决“记忆什么时候该被用”。它把记忆拆成了三层：全局层、工作区层、任务层，逐层收敛，只在必要的时候才把上下文拉进来。\n\n在 OpenClaw 眼里，记忆不是资产，正确使用记忆的能力才是。所以它的设计更侧重于重建临时的记忆网络。\n\n放在这个视角下再去看 Claude Code，就会发现它其实选了一条更偏执行的路径。\n\n对它来说，看清问题全貌也没那么重要。它解决问题的方式，更像人类工程师 debug，一边看、一边改、一边跑、一边修正，在行动中逐步逼近答案。\n\n在这个过程中，Memory 的作用就是一个“防遗忘机制”，保证关键上下文不会在多轮试错中丢失。",
+        "created_at": "Wed Apr 01 16:18:43 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "272736093",
+          "name": "Barret李靖",
+          "screen_name": "Barret_China",
+          "description": "Software Engineer | Lifelong Learner | Dad of 2 | AI Explorer | Cloud Native | Sharing insights and experiences | 小胡子哥，一个有趣的灵魂",
+          "followers_count": 79274,
+          "friends_count": 388,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 108,
+          "reply_count": 3,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205150,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039380114048242179",
+      "text": "帮转招聘",
+      "created_at": "Wed Apr 01 16:31:23 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039306742803370051",
+        "text": "我们公司的所有同事，现在除了有几大模型的企业账号包月外，还有 300 美金每天的 Token 额度，可以畅用包括 seedance 2.0 在内的几乎所有模型。\n公司还有大量岗位招聘中 https://t.co/4JGOlr5dAW\n特别推荐 AI 游戏创作实习生，我亲自带！ https://t.co/nL4RDy4G6s",
+        "created_at": "Wed Apr 01 11:39:50 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1166761",
+          "name": "Dash",
+          "screen_name": "DashHuang",
+          "description": "心动公司 CEO，TapTap、VeryCD创始人。",
+          "followers_count": 109870,
+          "friends_count": 681,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 196,
+          "reply_count": 44,
+          "quote_count": 10
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205150,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039379828261179810",
+      "text": "10 years ago",
+      "created_at": "Wed Apr 01 16:30:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039325838349598976",
+        "text": "Believe it or not, Elon has actually known that the Sun doesn’t shine at night since at least 2016, possibly even earlier. https://t.co/STaPOmSyii",
+        "created_at": "Wed Apr 01 12:55:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039325784075288576",
+            "url": "https://video.twimg.com/amplify_video/2039325784075288576/vid/avc1/1274x720/yqec0-_rlw8LScE0.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1123808797556920325",
+          "name": "Jesse Peltan",
+          "screen_name": "JessePeltan",
+          "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+          "followers_count": 73640,
+          "friends_count": 444,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 119,
+          "favorite_count": 1297,
+          "reply_count": 173,
+          "quote_count": 15
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237853623,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2053,
+        "favorite_count": 27859,
+        "reply_count": 1948,
+        "quote_count": 101
+      }
+    },
     {
       "id": "2039369564237234359",
       "text": "RT @gailalfaratx: September 28 2018 Elon Musk email to the Tesla Model 3 drive unit team sent right after the SEC filed lawsuit\n\n\"You’re do…",
@@ -10543,6 +10752,62 @@
         "favorite_count": 1860,
         "reply_count": 59,
         "quote_count": 8
+      }
+    },
+    {
+      "id": "2038163202899345681",
+      "text": "这个例子很酷\nhttps://t.co/JnoLV5eyVf",
+      "created_at": "Sun Mar 29 07:55:49 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038093450139279426",
+        "text": "This little illuminated dragon is very happy about Pretext. He's too busy having fun to care about people's \"hot takes\" on how \"it's not that special.\"  \n\n(This little dragon also only works on desktop right now but maybe I'll do mobile later)\n\nhttps://t.co/k9FH6p1G0T https://t.co/wNhFk1ZBwM",
+        "created_at": "Sun Mar 29 03:18:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038090720876396544",
+            "url": "https://video.twimg.com/amplify_video/2038090720876396544/vid/avc1/2094x2304/lozvzAbSxZd6dhft.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1454183904848474113",
+          "name": "River Marchand",
+          "screen_name": "Riyvir",
+          "description": "Creative Director and Design Engineer. Making cool stuff with startups at @neither___nor",
+          "followers_count": 2164,
+          "friends_count": 809,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4904,
+          "favorite_count": 42514,
+          "reply_count": 414,
+          "quote_count": 303
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205150,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 32,
+        "reply_count": 2,
+        "quote_count": 0
       }
     },
     {
