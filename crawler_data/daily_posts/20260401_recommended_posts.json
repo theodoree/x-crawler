@@ -1,12 +1,61 @@
 {
   "date": "20260401",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-01T18:19:31.489960",
-  "tweet_count": 270,
-  "unique_tweet_count": 270,
-  "total_crawled": 465,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-04-01T20:15:51.404163",
+  "tweet_count": 273,
+  "unique_tweet_count": 273,
+  "total_crawled": 470,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2039409449115251115",
+      "text": "类似\nhttps://t.co/qr6VeRWKOh",
+      "created_at": "Wed Apr 01 18:27:57 +0000 2026",
+      "lang": "ja",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039406025636508057",
+        "text": "@dotey NVIDIA一年前就开源了类似项目\nhttps://t.co/1UodxuwOVc",
+        "created_at": "Wed Apr 01 18:14:21 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "7490872",
+          "name": "Lucy X ✨",
+          "screen_name": "LucyofX",
+          "description": "frontier surfer - 推特19年老鸟",
+          "followers_count": 431,
+          "friends_count": 64,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 4,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205148,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2039395363690541176",
       "text": "Wow",
@@ -10647,6 +10696,118 @@
         "retweet_count": 774,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038296297019461747",
+      "text": "放烟花",
+      "created_at": "Sun Mar 29 16:44:41 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038252459018125764",
+        "text": "What better way to demo its power than with fireworks? You can even play with it at home using the app in the reply. https://t.co/kuUPR708vj",
+        "created_at": "Sun Mar 29 13:50:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038251778534473728",
+            "url": "https://video.twimg.com/amplify_video/2038251778534473728/vid/avc1/3030x1698/FZJ0XPl9Lz_ahtwo.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1479852652150337542",
+          "name": "Michael Guo",
+          "screen_name": "Michaelzsguo",
+          "description": "Building AI agents and AI-native orgs. Demystifying AI in practice.  EN/中文",
+          "followers_count": 732,
+          "friends_count": 364,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 1,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205148,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038296005939023918",
+      "text": "都能玩游戏了",
+      "created_at": "Sun Mar 29 16:43:32 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038202011578155456",
+        "text": "Lets go! Play pretext breaker 🎮\nhttps://t.co/x2lNPNqrmj https://t.co/vToGCjTBms",
+        "created_at": "Sun Mar 29 10:30:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038201667473350656",
+            "url": "https://video.twimg.com/amplify_video/2038201667473350656/vid/avc1/1096x872/Yj-QWCv1bnFbO6qZ.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1456139506982088705",
+          "name": "Singular Prism",
+          "screen_name": "singular_prism",
+          "description": "🤖 Harnessing #AI to unveil insights & revolutionize learning. Exploring the unknown, one algorithm at a time. Join my journey! 🚀",
+          "followers_count": 255,
+          "friends_count": 1438,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 437,
+          "favorite_count": 4382,
+          "reply_count": 59,
+          "quote_count": 93
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205148,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 26,
+        "reply_count": 1,
         "quote_count": 0
       }
     },
