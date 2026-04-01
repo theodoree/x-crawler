@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 205060,
+    "followers_count": 205122,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260401",
-  "last_updated": "2026-04-01T14:34:12.036856",
-  "tweet_count": 15,
+  "last_updated": "2026-04-01T16:21:59.598410",
+  "tweet_count": 16,
   "tweets": [
     {
       "id": "2039147493355634989",
@@ -616,6 +616,28 @@
         "favorite_count": 0,
         "reply_count": 1,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2039365135140077765",
+      "text": "这个可视化看claude code原理、功能的网站不错，尤其是 Agent Loop 动画，很直观\nhttps://t.co/z7P2DB8TCm https://t.co/p3a1QRlCjl",
+      "created_at": "Wed Apr 01 15:31:52 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2039364639541383168",
+          "url": "https://video.twimg.com/amplify_video/2039364639541383168/vid/avc1/1920x1080/7u1xkY-SN4WRIERT.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 57,
+        "favorite_count": 233,
+        "reply_count": 7,
+        "quote_count": 6
       }
     }
   ]
