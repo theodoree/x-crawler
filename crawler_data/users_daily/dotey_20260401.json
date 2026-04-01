@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 204911,
+    "followers_count": 204957,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260401",
-  "last_updated": "2026-04-01T06:36:12.096943",
-  "tweet_count": 11,
+  "last_updated": "2026-04-01T08:29:48.561130",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2039147493355634989",
@@ -459,6 +459,162 @@
         "retweet_count": 0,
         "favorite_count": 6,
         "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039230364925698531",
+      "text": "Claude Code 也算是正面回应代码泄漏的事情了，还是值得点赞👍 直面问题，没有怪到人头上，也没因此开除谁。\n（哪些号称刚加入 Anthropic 搞出这问题被开除都是蹭热度的营销号）。\n\nBoris：\n> 工作中，犯错总是在所难免。但作为一个团队，最重要的是要达成一种共识：出了问题绝不该怪罪到某个人头上。真正的“罪魁祸首”往往是我们的流程设计、团队文化，或者是底层的基础设施 (infra)。\n>\n> 就拿这次的事故来说吧，问题出在一个本该实现自动化 (automated)，却仍然由人工手动操作的部署 (deploy) 环节上。痛定思痛，为了避免下次重蹈覆辙，我们的团队已经对自动化流程进行了几项立竿见影的优化，并且还有更多的改进措施正在紧锣密鼓地推进中。",
+      "created_at": "Wed Apr 01 06:36:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039210700657307889",
+        "text": "Mistakes happen. As a team, the important thing is to recognize it’s never an individuals’s fault — it’s the process, the culture, or the infra.\n\nIn this case, there was a manual deploy step that should have been better automated. Our team has made a few improvements to the automation for next time, a couple more on the way.",
+        "created_at": "Wed Apr 01 05:18:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "159337660",
+          "name": "Boris Cherny",
+          "screen_name": "bcherny",
+          "description": "Claude Code @anthropicai",
+          "followers_count": 363329,
+          "friends_count": 130,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 310,
+          "favorite_count": 3491,
+          "reply_count": 145,
+          "quote_count": 116
+        }
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 147,
+        "reply_count": 26,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2039232220435538245",
+      "text": "第四步，从头自己搭一个，从模仿到超越\n\n当你通过二次开发逐步熟悉了项目架构后，肯定也会发现原本架构的不足，知道架构“是什么”，但是不清楚当初架构决策背后的“为什么”\n\n这时候就可以尝试模仿着原来的架构，自己按照自己的想法从零搭建一个全新的系统。这一步是最难的，但也是真正考验你的时候。\n\n当你跨出这一步，恭喜你，已经完全搞透了原本的架构，甚至可以有能力做出更好的架构。",
+      "created_at": "Wed Apr 01 06:43:43 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039173267018191155",
+        "text": "第三步，二次开发，基于它去大胆修改定制\n光看是学不好的，另起炉灶也没必要，对于成熟的项目，直接二次开发。\n比如给/buddy加个小宠物\n甚至于去自己实现一个 /buddy 的功能\n\n由于它的架构已经相对稳定了，你只要基于它的架构填充功能，这其实并不会太难，最好都不要借助AI辅助。\n\n当你能从头到尾二次开发一个功能出来，那对它就已经有个大致了解了。\n\n这样的功能多实现几个，你就会越来越理解它的整个架构了，甚至你还能想出更好的方案",
+        "created_at": "Wed Apr 01 02:49:27 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 204957,
+          "friends_count": 1596,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 16,
+          "reply_count": 2,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "reply_count": 1,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2039232297807856003",
+      "text": "第四步，从模仿到超越\nhttps://t.co/JzjnEDPpmN",
+      "created_at": "Wed Apr 01 06:44:01 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039232220435538245",
+        "text": "第四步，从头自己搭一个，从模仿到超越\n\n当你通过二次开发逐步熟悉了项目架构后，肯定也会发现原本架构的不足，知道架构“是什么”，但是不清楚当初架构决策背后的“为什么”\n\n这时候就可以尝试模仿着原来的架构，自己按照自己的想法从零搭建一个全新的系统。这一步是最难的，但也是真正考验你的时候。\n\n当你跨出这一步，恭喜你，已经完全搞透了原本的架构，甚至可以有能力做出更好的架构。",
+        "created_at": "Wed Apr 01 06:43:43 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 204957,
+          "friends_count": 1596,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 9,
+          "reply_count": 1,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039233065302565260",
+      "text": "第四步：从模仿到超越\nhttps://t.co/JzjnEDPpmN",
+      "created_at": "Wed Apr 01 06:47:04 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039232220435538245",
+        "text": "第四步，从头自己搭一个，从模仿到超越\n\n当你通过二次开发逐步熟悉了项目架构后，肯定也会发现原本架构的不足，知道架构“是什么”，但是不清楚当初架构决策背后的“为什么”\n\n这时候就可以尝试模仿着原来的架构，自己按照自己的想法从零搭建一个全新的系统。这一步是最难的，但也是真正考验你的时候。\n\n当你跨出这一步，恭喜你，已经完全搞透了原本的架构，甚至可以有能力做出更好的架构。",
+        "created_at": "Wed Apr 01 06:43:43 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 204957,
+          "friends_count": 1596,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 9,
+          "reply_count": 1,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
         "quote_count": 0
       }
     }

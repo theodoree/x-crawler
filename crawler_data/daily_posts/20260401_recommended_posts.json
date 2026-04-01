@@ -1,12 +1,373 @@
 {
   "date": "20260401",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-01T06:36:12.039740",
-  "tweet_count": 228,
-  "unique_tweet_count": 228,
-  "total_crawled": 418,
-  "duplicates_removed": 190,
+  "last_crawl_time": "2026-04-01T08:29:48.501710",
+  "tweet_count": 235,
+  "unique_tweet_count": 235,
+  "total_crawled": 428,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2039237601182572796",
+      "text": "FSD 14.3 is in Tesla employee beta now and will probably go to wide release end of week",
+      "created_at": "Wed Apr 01 07:05:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237803075,
+        "friends_count": 1306,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1406,
+        "favorite_count": 12841,
+        "reply_count": 2449,
+        "quote_count": 299
+      }
+    },
+    {
+      "id": "2039234648644198590",
+      "text": "Try out self-driving in a Tesla. \n\nIt will greatly improve your quality of life and may save your life.",
+      "created_at": "Wed Apr 01 06:53:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039224252743012374",
+        "text": "I was on @wholemars space this afternoon while my Model 3 drove me for a couple of hours to drop off my taxes. And found myself quite emotional listening to others' stories about theirs.\n\nI'll never sell it.\n\nIt is the best thing I've ever spent money on beyond marriage and bringing children into the world.\n\nDuring the show it passed 159,000 miles. It is the 7,409th one Tesla made. Stood in line overnight 10 years ago to put down $1,000 before it was even announced. (I have a video over on Facebook of the first 100 people in line that I treasure today. Behind us were more than 1,000 in the Danville store).\n\nI really feel sorry for anyone who buys something else. I've driven many others since and they simply aren't even close to as good. Even the Chinese ones. They don't automatically drive nearly as well.\n\nMy eight year old car is still way better than any other that's out today. \n\nExcept a new Tesla.\n\nI studied automotive innovation most of my career because of my perch in Silicon Valley. When I was a kid the auto industry had its R&D centers somewhere else. Detroit. Stuttgart. Tokyo. \n\nToday they all have their R&D centers here in Silicon Valley because this is where the talent is that can build the future. \n\nHad the first ride in the Fiat 500. First ride in the BMW i3. First ride in the first Mercedes AI car. First ride in the first Tesla. Because two of my high school friends were killed in wrecks. \n\nMy last book written with @IrenaCronin has a whole chapter about Robotaxis (written seven years ago). Uber was invented right in front of me in a Paris snowstorm. Did one of the first interviews with Lyft's founder. A week ago had a ride in the NVIDIA Mercedes at GTC. \n\nI have the first video of a Waymo EVER driving around a Silicon Valley freeway (it's up on YouTube). \n\nI had a front row seat on how Tesla outclassed the whole industry and brought software driven automobiles to the market. No one had done so before. \n\nToday my eight year old car is WAY better than when I bought it (I picked it up April 4, 2018). \n\nIf I'm alive in 10 years we'll see maybe 100 million Optimus robots walking around everywhere and many vehicles that Franz @woodhaus2  and team haven't even dreamed up yet. \n\nAll driving autonomously. \n\nAnd finally the death rate will start going down because of plans made more than a decade ago. \n\nThere is a reason why I'm an Elon fan and it goes way beyond him giving me a ride in the first one before he gave his best friend a ride. \n\nIt builds products the others can't match. Even a decade later. Even after Elon showed them. Even after they tore apart his cars to analyze how they were built. Even after I drove mine to Detroit to give people in traditional auto industry their first look back in 2018. \n\nAnd next comes Optimus, a new Roadster, a new semi, a new car without a steering wheel, a new transportation system, new tunnels to go faster across cities like Las Vegas, and more that I can't even dream up yet and I've been a futurist for a long time. \n\nIt is so awesome finally seeing many \"normal\" people get what I've been saying for years and seeing the numbers of Tesla's on Silicon Valley's streets go up and up. \n\nSo many over the years have given me shit about owning a Tesla. Or supporting Elon. Or being one of the first to take my hands off of the steering wheel and sharing that here on X. \n\nThey all were wrong. \n\nTesla is the world leader in all of transportation, even if you include all the Chinese new brands, which are making cars with more screens and better seats.\n\nSoon everyone will understand that transportation isn't about having a leather dashboard or seats, but about having better AI.\n\nAnd Tesla's is the best. \n\nAnd I'm talking about the AI running in my eight year old car. \n\nThe AI that runs in today's Teslas is even better than that. \n\nAnd, yes, I know that lots of engineers claim theirs is better. \n\nBut they won't give me one of theirs to drive around for a few weeks.\n\nThere is a reason for that. \n\nTheirs isn't as safe. Isn't as smooth. Isn't as capable. \n\nAnd by the end of the year everyone will recognize that.",
+        "created_at": "Wed Apr 01 06:12:03 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13348",
+          "name": "Robert Scoble",
+          "screen_name": "Scobleizer",
+          "description": "San Francisco/Silicon Valley AI | Robots, holodecks, BCIs, analysis of new things | Ex-Microsoft, Rackspace, Fast Company | Wrote eight books about the future.",
+          "followers_count": 569055,
+          "friends_count": 42197,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 62,
+          "favorite_count": 333,
+          "reply_count": 72,
+          "quote_count": 12
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237803075,
+        "friends_count": 1306,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 895,
+        "favorite_count": 7710,
+        "reply_count": 1701,
+        "quote_count": 84
+      }
+    },
+    {
+      "id": "2039233065302565260",
+      "text": "第四步：从模仿到超越\nhttps://t.co/JzjnEDPpmN",
+      "created_at": "Wed Apr 01 06:47:04 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039232220435538245",
+        "text": "第四步，从头自己搭一个，从模仿到超越\n\n当你通过二次开发逐步熟悉了项目架构后，肯定也会发现原本架构的不足，知道架构“是什么”，但是不清楚当初架构决策背后的“为什么”\n\n这时候就可以尝试模仿着原来的架构，自己按照自己的想法从零搭建一个全新的系统。这一步是最难的，但也是真正考验你的时候。\n\n当你跨出这一步，恭喜你，已经完全搞透了原本的架构，甚至可以有能力做出更好的架构。",
+        "created_at": "Wed Apr 01 06:43:43 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 204957,
+          "friends_count": 1596,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 9,
+          "reply_count": 1,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204957,
+        "friends_count": 1596,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039232297807856003",
+      "text": "第四步，从模仿到超越\nhttps://t.co/JzjnEDPpmN",
+      "created_at": "Wed Apr 01 06:44:01 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039232220435538245",
+        "text": "第四步，从头自己搭一个，从模仿到超越\n\n当你通过二次开发逐步熟悉了项目架构后，肯定也会发现原本架构的不足，知道架构“是什么”，但是不清楚当初架构决策背后的“为什么”\n\n这时候就可以尝试模仿着原来的架构，自己按照自己的想法从零搭建一个全新的系统。这一步是最难的，但也是真正考验你的时候。\n\n当你跨出这一步，恭喜你，已经完全搞透了原本的架构，甚至可以有能力做出更好的架构。",
+        "created_at": "Wed Apr 01 06:43:43 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 204957,
+          "friends_count": 1596,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 9,
+          "reply_count": 1,
+          "quote_count": 2
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204957,
+        "friends_count": 1596,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039232220435538245",
+      "text": "第四步，从头自己搭一个，从模仿到超越\n\n当你通过二次开发逐步熟悉了项目架构后，肯定也会发现原本架构的不足，知道架构“是什么”，但是不清楚当初架构决策背后的“为什么”\n\n这时候就可以尝试模仿着原来的架构，自己按照自己的想法从零搭建一个全新的系统。这一步是最难的，但也是真正考验你的时候。\n\n当你跨出这一步，恭喜你，已经完全搞透了原本的架构，甚至可以有能力做出更好的架构。",
+      "created_at": "Wed Apr 01 06:43:43 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039173267018191155",
+        "text": "第三步，二次开发，基于它去大胆修改定制\n光看是学不好的，另起炉灶也没必要，对于成熟的项目，直接二次开发。\n比如给/buddy加个小宠物\n甚至于去自己实现一个 /buddy 的功能\n\n由于它的架构已经相对稳定了，你只要基于它的架构填充功能，这其实并不会太难，最好都不要借助AI辅助。\n\n当你能从头到尾二次开发一个功能出来，那对它就已经有个大致了解了。\n\n这样的功能多实现几个，你就会越来越理解它的整个架构了，甚至你还能想出更好的方案",
+        "created_at": "Wed Apr 01 02:49:27 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 204957,
+          "friends_count": 1596,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 16,
+          "reply_count": 2,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204957,
+        "friends_count": 1596,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 9,
+        "reply_count": 1,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2039230385113141653",
+      "text": "RT @ArthurMacwaters: Western civilization is awesome, actually https://t.co/0kis2wcJRw",
+      "created_at": "Wed Apr 01 06:36:25 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039225128547123201",
+          "url": "https://pbs.twimg.com/media/HEzIczwaAAETAnh.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2039225128551354368",
+          "url": "https://pbs.twimg.com/media/HEzIczxakAAe-KP.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2039225589543194624",
+          "url": "https://pbs.twimg.com/media/HEzI3pGb0AAwKhJ.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2039226511316893696",
+          "url": "https://pbs.twimg.com/media/HEzJtS-aQAAvIub.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2039226657828151776",
+        "text": "Western civilization is awesome, actually https://t.co/0kis2wcJRw",
+        "created_at": "Wed Apr 01 06:21:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039225128547123201",
+            "url": "https://pbs.twimg.com/media/HEzIczwaAAETAnh.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2039225128551354368",
+            "url": "https://pbs.twimg.com/media/HEzIczxakAAe-KP.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2039225589543194624",
+            "url": "https://pbs.twimg.com/media/HEzI3pGb0AAwKhJ.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2039226511316893696",
+            "url": "https://pbs.twimg.com/media/HEzJtS-aQAAvIub.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 68216,
+          "friends_count": 997,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 401,
+          "favorite_count": 2621,
+          "reply_count": 287,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237803075,
+        "friends_count": 1306,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 401,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039230364925698531",
+      "text": "Claude Code 也算是正面回应代码泄漏的事情了，还是值得点赞👍 直面问题，没有怪到人头上，也没因此开除谁。\n（哪些号称刚加入 Anthropic 搞出这问题被开除都是蹭热度的营销号）。\n\nBoris：\n> 工作中，犯错总是在所难免。但作为一个团队，最重要的是要达成一种共识：出了问题绝不该怪罪到某个人头上。真正的“罪魁祸首”往往是我们的流程设计、团队文化，或者是底层的基础设施 (infra)。\n>\n> 就拿这次的事故来说吧，问题出在一个本该实现自动化 (automated)，却仍然由人工手动操作的部署 (deploy) 环节上。痛定思痛，为了避免下次重蹈覆辙，我们的团队已经对自动化流程进行了几项立竿见影的优化，并且还有更多的改进措施正在紧锣密鼓地推进中。",
+      "created_at": "Wed Apr 01 06:36:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039210700657307889",
+        "text": "Mistakes happen. As a team, the important thing is to recognize it’s never an individuals’s fault — it’s the process, the culture, or the infra.\n\nIn this case, there was a manual deploy step that should have been better automated. Our team has made a few improvements to the automation for next time, a couple more on the way.",
+        "created_at": "Wed Apr 01 05:18:12 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "159337660",
+          "name": "Boris Cherny",
+          "screen_name": "bcherny",
+          "description": "Claude Code @anthropicai",
+          "followers_count": 363329,
+          "friends_count": 130,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 310,
+          "favorite_count": 3491,
+          "reply_count": 145,
+          "quote_count": 116
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 204957,
+        "friends_count": 1596,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 147,
+        "reply_count": 26,
+        "quote_count": 5
+      }
+    },
     {
       "id": "2039225446462804436",
       "text": "RT @MarioNawfal: Whatever the mainstream media wants you to believe about Elon, this is the truth: he's changing people's lives for the bet…",
