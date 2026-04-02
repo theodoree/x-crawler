@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 205260,
+    "followers_count": 205292,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260402",
-  "last_updated": "2026-04-02T04:46:29.640624",
-  "tweet_count": 5,
+  "last_updated": "2026-04-02T06:28:22.542468",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2039514661331034299",
@@ -159,6 +159,51 @@
       "quoted": null,
       "stats": {
         "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039579803901215217",
+      "text": "RT @AgiRay1015: #磊叔说\n\n之前我的 7 个 Claude Code Skill 散落在 7 个独立仓库，每个一套 README 一套提交记录，管理起来很碎。\n\n最近研究了 @dotey 老师的 baoyu-skills，他用 monorepo 统一管理所有 s…",
+      "created_at": "Thu Apr 02 05:44:53 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2038883240774381936",
+        "text": "#磊叔说\n\n之前我的 7 个 Claude Code Skill 散落在 7 个独立仓库，每个一套 README 一套提交记录，管理起来很碎。\n\n最近研究了 @dotey 老师的 baoyu-skills，他用 monorepo 统一管理所有 skill，一条命令装全套。\n\n学完直接搬过来。\n\n把 7 个 skill 统一迁入 airay-skills 单仓库，\n统一 airay- 前缀，并通过 .claude-plugin/marketplace.json 一条命令分发全部。\n\n从宝玉老师那里学到的几个关键模式：\n- 单仓库 monorepo，统一前缀命名避免冲突\n- 标准化 SKILL.md frontmatter\n- 相对路径不硬编码，单 plugin 一条命令安装全套。\n\n做完之后最大的感受是，好工具的设计思路其实是相通的。宝玉老师的 skill 管理模式就是 namespace 隔离、版本统一、单入口分发，这些在软件工程里早就被验证过的东西，放在 skill 管理上一样成立。\n\n另外一个感触是，写 skill 之前应该先想好管理方式。我之前每个 skill 独立仓库，当时觉得灵活，结果维护成本全转嫁给了未来的自己。早一点像这样设计，后来人会轻松很多。\n\n我的技能库地址：\nhttps://t.co/3MyXMNCkBL",
+        "created_at": "Tue Mar 31 07:36:59 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038880757855514624",
+            "url": "https://pbs.twimg.com/media/HEuPPy9bcAAVtNg.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1889214164322951168",
+          "name": "AI 磊叔",
+          "screen_name": "AgiRay1015",
+          "description": "帮你把复杂AI工具，变成简单生产力\n3本AI畅销书➡️19年AI老司机➡️智谱“编程大师”奖\n实战指南｜避坑攻略｜Vibe Coding\n链我🔎：airay1015\n全网同名：AI磊叔 👉关注不迷路",
+          "followers_count": 805,
+          "friends_count": 218,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 8,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

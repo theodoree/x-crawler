@@ -1,12 +1,67 @@
 {
   "date": "20260402",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-02T04:46:29.612563",
-  "tweet_count": 205,
-  "unique_tweet_count": 205,
-  "total_crawled": 401,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-04-02T06:28:22.513959",
+  "tweet_count": 208,
+  "unique_tweet_count": 208,
+  "total_crawled": 405,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2039579803901215217",
+      "text": "RT @AgiRay1015: #磊叔说\n\n之前我的 7 个 Claude Code Skill 散落在 7 个独立仓库，每个一套 README 一套提交记录，管理起来很碎。\n\n最近研究了 @dotey 老师的 baoyu-skills，他用 monorepo 统一管理所有 s…",
+      "created_at": "Thu Apr 02 05:44:53 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2038883240774381936",
+        "text": "#磊叔说\n\n之前我的 7 个 Claude Code Skill 散落在 7 个独立仓库，每个一套 README 一套提交记录，管理起来很碎。\n\n最近研究了 @dotey 老师的 baoyu-skills，他用 monorepo 统一管理所有 skill，一条命令装全套。\n\n学完直接搬过来。\n\n把 7 个 skill 统一迁入 airay-skills 单仓库，\n统一 airay- 前缀，并通过 .claude-plugin/marketplace.json 一条命令分发全部。\n\n从宝玉老师那里学到的几个关键模式：\n- 单仓库 monorepo，统一前缀命名避免冲突\n- 标准化 SKILL.md frontmatter\n- 相对路径不硬编码，单 plugin 一条命令安装全套。\n\n做完之后最大的感受是，好工具的设计思路其实是相通的。宝玉老师的 skill 管理模式就是 namespace 隔离、版本统一、单入口分发，这些在软件工程里早就被验证过的东西，放在 skill 管理上一样成立。\n\n另外一个感触是，写 skill 之前应该先想好管理方式。我之前每个 skill 独立仓库，当时觉得灵活，结果维护成本全转嫁给了未来的自己。早一点像这样设计，后来人会轻松很多。\n\n我的技能库地址：\nhttps://t.co/3MyXMNCkBL",
+        "created_at": "Tue Mar 31 07:36:59 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038880757855514624",
+            "url": "https://pbs.twimg.com/media/HEuPPy9bcAAVtNg.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1889214164322951168",
+          "name": "AI 磊叔",
+          "screen_name": "AgiRay1015",
+          "description": "帮你把复杂AI工具，变成简单生产力\n3本AI畅销书➡️19年AI老司机➡️智谱“编程大师”奖\n实战指南｜避坑攻略｜Vibe Coding\n链我🔎：airay1015\n全网同名：AI磊叔 👉关注不迷路",
+          "followers_count": 805,
+          "friends_count": 218,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 8,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205292,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2039563306139054326",
       "text": "RT @grapeot: 能用AI和用好AI之间差的不是30%，是10倍。这个差距的根源不是模型，是工作方式。你还在ChatGPT里复制粘贴代码来回跑腿，本质上是在给AI当工具人。把AI从顾问变成员工只需要一件事：给它一个能自己跑、自己验、自己改的闭环。🔄 https://t.…",
@@ -10457,6 +10512,118 @@
         "retweet_count": 8,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038335956629991756",
+      "text": "DOOM？！\nhttps://t.co/Of3qPiqltT",
+      "created_at": "Sun Mar 29 19:22:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038195261424759143",
+        "text": "Will it run DOOM? https://t.co/K7eOC1IltY",
+        "created_at": "Sun Mar 29 10:03:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038195023389532160",
+            "url": "https://video.twimg.com/amplify_video/2038195023389532160/vid/avc1/3378x1748/q2WNvCmMAVcgP9b0.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1463013252783165449",
+          "name": "tensorfish",
+          "screen_name": "tensorfish",
+          "description": "the curve of progress is steep",
+          "followers_count": 19815,
+          "friends_count": 1963,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 943,
+          "favorite_count": 10590,
+          "reply_count": 57,
+          "quote_count": 62
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205292,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038335883535859956",
+      "text": "弹球\nhttps://t.co/sDGzqXE0kF",
+      "created_at": "Sun Mar 29 19:21:59 +0000 2026",
+      "lang": "ja",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038273711237984564",
+        "text": "Now you can be even more distracted while trying to read papers\n\n(fully playable demo linked below) https://t.co/HrTFqqSgAB",
+        "created_at": "Sun Mar 29 15:14:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038273511459000321",
+            "url": "https://video.twimg.com/amplify_video/2038273511459000321/vid/avc1/3046x1978/ODRkKAW7A6UDQutG.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20314954",
+          "name": "Andrew Jiang",
+          "screen_name": "andrewjiang",
+          "description": "Building arc. YC alum & GP at @CuratedXYZ.",
+          "followers_count": 14019,
+          "friends_count": 4449,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 22,
+          "favorite_count": 282,
+          "reply_count": 17,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205292,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 3,
         "quote_count": 0
       }
     },
