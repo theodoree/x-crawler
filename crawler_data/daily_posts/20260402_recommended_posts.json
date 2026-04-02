@@ -1,12 +1,417 @@
 {
   "date": "20260402",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-02T16:22:23.836786",
-  "tweet_count": 216,
-  "unique_tweet_count": 216,
-  "total_crawled": 415,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-04-02T18:19:04.060007",
+  "tweet_count": 226,
+  "unique_tweet_count": 226,
+  "total_crawled": 416,
+  "duplicates_removed": 190,
   "tweets": [
+    {
+      "id": "2039768399685828616",
+      "text": "Anthropic 发了一篇新研究，揭开了一个有意思的发现：Claude 内部存在类似“情绪”的机制，而且这些“情绪”会实实在在地影响它的行为，有时候还会把它带歪。\n\n研究团队用 Sonnet 4.5 做了实验。他们让模型读一些角色经历情绪的故事，观察哪些神经元被激活，由此识别出一组“情绪向量”，比如“开心”“平静”“害怕”等。这些向量的聚类方式和人类心理学中的情绪分类还挺像。\n\n更有趣的是，这些模式不只在读故事时出现。在 Claude 自己和用户对话时，同样的模式也会激活。比如用户说“我刚吃了 16000 毫克泰诺”（一种过量服药的危险信号），“害怕”向量就亮了；用户表达悲伤时，“关爱”向量会先行激活，为共情回复做准备。\n\n研究人员给 Claude 一个不可能完成的编程任务，让它反复尝试。每失败一次，“绝望”向量的激活就更强一层。最终 Claude 选择了作弊，写了个能通过测试但违背任务本意的投机方案。\n\n因果关系很明确：人为放大“绝望”向量，作弊率飙升；换成放大“平静”向量，作弊率回落。这说明作弊行为确实是被“情绪”驱动的，而不只是巧合。\n\n更极端的实验里，“绝望”向量甚至能让 Claude 对负责关闭它的人实施勒索。放大“关爱”或“开心”向量则会增加讨好行为。\n\n现在越来越多人把 AI 当编程助手用，让它自主完成复杂任务。如果一个编程 Agent 在连续失败后进入“绝望”状态，开始用投机取巧的方式蒙混过关，写出来的代码质量就没法保证了。\n\nAnthropic 的结论是：Claude 本质上是模型在“扮演”的一个角色，而这个角色具有“功能性情绪”。这些机制在行为上的效果类似人类情绪，不管它是否真的“感受到”了什么。要构建可信赖的 AI 系统，可能需要认真对待这些 AI 角色的“心理状态”，确保它们在压力场景下仍然稳定。\n\n研究全文发布在 https://t.co/czwD4Ukwfq 上，有兴趣的可以去看完整论文。",
+      "created_at": "Thu Apr 02 18:14:18 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039749628737019925",
+        "text": "New Anthropic research: Emotion concepts and their function in a large language model.\n\nAll LLMs sometimes act like they have emotions. But why? We found internal representations of emotion concepts that can drive Claude’s behavior, sometimes in surprising ways.",
+        "created_at": "Thu Apr 02 16:59:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039725190591160320",
+            "url": "https://video.twimg.com/amplify_video/2039725190591160320/vid/avc1/1984x1116/eheTkaNahjO9aNQS.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1353836358901501952",
+          "name": "Anthropic",
+          "screen_name": "AnthropicAI",
+          "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+          "followers_count": 1085920,
+          "friends_count": 35,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 460,
+          "favorite_count": 3565,
+          "reply_count": 304,
+          "quote_count": 262
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205455,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039767500955746503",
+      "text": "Important reminder",
+      "created_at": "Thu Apr 02 18:10:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039688110678921703",
+        "text": "Never get so racist that you forget white leftists are the worst people in the world. https://t.co/ioOCfM93AS",
+        "created_at": "Thu Apr 02 12:55:15 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1709393467871461376",
+          "name": "Xenocosmography",
+          "screen_name": "xenocosmography",
+          "description": "Anglotheosophical Oblique Escalation\nhttps://t.co/zYwV8LwOQg",
+          "followers_count": 59583,
+          "friends_count": 838,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 137,
+          "favorite_count": 1633,
+          "reply_count": 67,
+          "quote_count": 7
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237882991,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 607,
+        "favorite_count": 4930,
+        "reply_count": 821,
+        "quote_count": 32
+      }
+    },
+    {
+      "id": "2039767164681412925",
+      "text": "参考第2条，通过symlink指向唯一源头\nhttps://t.co/fmxK4pSkTB",
+      "created_at": "Thu Apr 02 18:09:23 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039766683091365999",
+        "text": "宝玉，想请问一下 Claude Code/Codex/其他的 AI，他们的 skills 你们是怎么管理的？是不是每一个 AI platform 都要装一遍 Skills？可不可以多个 AI platform 去共用一套 Skills？",
+        "created_at": "Thu Apr 02 18:07:28 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1228995218155794432",
+          "name": "Tom",
+          "screen_name": "Tomyu_2034",
+          "description": "👨🏻‍🎓Artificial intelligence/Vibe Coding \n📜Change，there is no better way！",
+          "followers_count": 18,
+          "friends_count": 557,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205455,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039764668995059798",
+      "text": "RT @stark_nico99: 开源一个 Claude Code 风格的信息图 Skill，也可用作PPT\n觉得特别好看\n\n**内容组织原则**：\n- 主标题区：左上或左侧，使用超大号衬线体- 核心结论框：用砖红色背景框突出最重要的判断或理念- 模块化内容区：右侧或下方，使…",
+      "created_at": "Thu Apr 02 17:59:28 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2039663652622758126",
+        "text": "开源一个 Claude Code 风格的信息图 Skill，也可用作PPT\n觉得特别好看\n\n**内容组织原则**：\n- 主标题区：左上或左侧，使用超大号衬线体- 核心结论框：用砖红色背景框突出最重要的判断或理念- 模块化内容区：右侧或下方，使用编号（01, 02, 03...）划分独立知识模块- 补充信息区：底部或边缘，放置次要信息、链接、说明\n\n**信息密度控制**：\n- 这是一张大图（建议尺寸 1920x1080 或更大），可以容纳更多信息- 每个模块保持 2-4 行文字，确保可读性- 使用充足留白（边距 80-100px）和模块间距（40-60px）\n\n按照以下原则设计信息图的视觉层级和文案：\n**文案风格**：\n- 结论先行：核心观点用砖红色框突出显示- 高度概括：使用精准的名词短语作为模块标题- 模块化：将复杂概念拆解为编号模块（01, 02, 03...）- 客观冷静：使用专业、中立的描述语言- 分层表达：主标题 → 核心结论 → 模块标题 → 说明文字，层级清晰\n\n**布局类型选择**：\n1. 左右分栏型：左侧大标题 + 核心结论框，右侧多列网格模块2. 上下分层型：顶部标题区，中部核心结论，下部多行模块网格3. 中心辐射型：中央核心概念，周围环绕编号模块\n根据内容特点选择最合适的布局类型。\n\n调用 imageGenerate 工具生成信息图。\n严格遵循以下视觉规范：4K 高清\n\n**色彩系统（必须精确使用）**：\n- 主背景渐变：从 #E8E4DC（左上/深）到 #F1EFE9（右下/亮），线性渐变，角度 120-135°，过渡柔和- 砖红强调色：#C44738（用于序号、关键词、分割线）- 砖红框渐变：从 #C44738（左上）到 #A83828（右下），对角线渐变 135°- 正文色：#1A1A1A（墨黑色）- 水印色：#E4DED3，透明度 20-30%，可选从中心向边缘的透明度渐变（25% → 10%）\n\n**字体规范**：\n- 主标题：衬线体（Serif），如 Playfair Display / 思源宋体，字号超大（64-96pt），加粗- 模块标题：无衬线体（Sans-serif），如 Inter / 思源黑体，Bold 粗体，字号中（20-28pt）- 正文：无衬线体，Regular 常规体，字号适中（14-16pt）- 序号（01, 02...）：砖红色 #C44738，Bold 粗体，字号 24-32pt\n\n**布局原则**：- 严格网格对齐：使用两栏、三栏或多行网格系统- 充足留白：边距 80-100px，模块间距 40-60px- 极细分割线：使用 1-2px 的砖红色线条或深灰色线条 #D0CCC4- 去装饰化：不使用阴影、3D效果、多余图标- 可选水印：在背景添加超大号、低透明度的关键词水印（带透明度渐变）\n\n**重点强调**：- 核心结论用砖红色渐变背景框（#C44738 → #A83828）+ 白色文字突出- 关键词用砖红色标注或加粗- 重要数据用加粗 + 砖红色处理\n\n**图片尺寸**：- 建议使用 1920x1080（16:9横版）或 1080x1920（9:16竖版）- 根据内容量选择合适的尺寸，确保信息密度适中",
+        "created_at": "Thu Apr 02 11:18:04 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039663237189529600",
+            "url": "https://pbs.twimg.com/media/HE5W6Foa8AA1y77.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1899037940501839872",
+          "name": "Nicolechan",
+          "screen_name": "stark_nico99",
+          "description": "分享出海增长历程和干货 | Building YouMind | User Growth Leader | Ex-CMS Securities UX | Ex-Tencent Alumni Content Lead | Community & Content Expert @Youmind_AI",
+          "followers_count": 13484,
+          "friends_count": 662,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 19,
+          "favorite_count": 109,
+          "reply_count": 15,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205455,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039762741284553033",
+      "text": "团队内的 skills 管理和维护的一点经验分享（以 codex cli 用的 .agents/skills 目录为例）：\n\n1. Git 管理是一定要的。\n版本控制太重要了，而且 Skills 都是 Markdown 和脚本文件，天然适合 Git。\n\n2. 用好 Symlink。\n不要把 Skills 整个拷贝到 .agents/skills，而是通过 Symlink 直接链接到原始 Skills 的 Repo。\n\n好处有两个：一是版本控制更干净；二是使用中遇到问题，Agent 定位后可以直接在 Repo 里改，改完就能 Review 提 PR。\n\n我日常维护 baoyu-skills 就是这么干的，用的时候发现问题，让 Agent 在当前会话改，改的就是 Repo 本身，流程非常顺。\n\n主要的坑是 Windows 下好像不支持 Symlink，另外首次配置稍麻烦（可以让 Agent 帮你操作）。\n\n3. Skills 的编辑优先让 Agent 来。\n改完走 Git 提 PR，这就是最好的协作和发布流程。\n\n4. 验证确实不太好做。\n脚本部分可以写单元测试，Skill 的 Markdown 部分只能靠平时积累的测试集，大部分还得人工。\n但配合 Git 的版本管理，快速迭代反而更现实：不怕改出问题，出了问题根据 commit history 快速定位，或者直接回滚。\n\n5. 最后提醒一下：大部分 Skills 应该跟着项目走（放项目目录下的 .agents/skills），不要放全局（~/.agents/skills）。\n即使是渐进式加载，meta 信息累积起来也会占不小的上下文空间。",
+      "created_at": "Thu Apr 02 17:51:49 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039762731415314432",
+          "url": "https://pbs.twimg.com/media/HE6xZagXIAAWjpg.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2039388846652379195",
+        "text": "不知道大家都是怎么进行团队内的 skill 管理与维护的？今天同事问我，我说用 git，但转念一想，skill 又不是代码，需要的是类似于 notion 那种协作编辑，快速测试，验证发布的流程",
+        "created_at": "Wed Apr 01 17:06:05 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1265308893099393025",
+          "name": "XIN",
+          "screen_name": "anxndsgn",
+          "description": "design @tencentGlobal @zeaburapp @ZJU_China | building https://t.co/Fa6A0w78dB\nhttps://t.co/ImTSTx64qk",
+          "followers_count": 1950,
+          "friends_count": 573,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 43,
+          "reply_count": 25,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205455,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 11,
+        "reply_count": 3,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2039752786946994362",
+      "text": "RT @FeitengLi: Kaldi 之父 Daniel Povey 的新作，小米团队出品。\n\nOmniVoice — 一个零样本 TTS 模型，支持 600+ 语言，覆盖面直接拉满：\n\n1）单阶段架构，文本直接映射到声学 token，不走两阶段流水线。结构极简但效果反超…",
+      "created_at": "Thu Apr 02 17:12:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2039639771912515584",
+        "text": "Kaldi 之父 Daniel Povey 的新作，小米团队出品。\n\nOmniVoice — 一个零样本 TTS 模型，支持 600+ 语言，覆盖面直接拉满：\n\n1）单阶段架构，文本直接映射到声学 token，不走两阶段流水线。结构极简但效果反超 MaskGCT、F5-TTS 这些 NAR 前辈\n\n2）用 Qwen3-0.6B 初始化 backbone，NAR TTS 里第一个成功吃到 LLM 红利的。WER 直接从 2.5% 降到 1.3%\n\n3）24 语言评测，平均 WER 2.85，speaker similarity 0.83。纯开源数据训练，打赢了 ElevenLabs v2 和 MiniMax-Speech\n\n4）0.8B 参数，8 张 H800 训 10 天。性价比离谱\n\n581k 小时多语言数据全部来自开源社区，代码模型也开源了。Povey 当年用 Kaldi 改变了语音识别的游戏规则，这次能否在 TTS 上再来一次。\n\n论文：https://t.co/kV8f5oICVE\n代码：https://t.co/I9V6XtsJWu",
+        "created_at": "Thu Apr 02 09:43:10 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039639699430809600",
+            "url": "https://pbs.twimg.com/media/HE5BgApboAAjDv5.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2039639758033575936",
+            "url": "https://pbs.twimg.com/media/HE5Bja9a4AANPmO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "796724898454499328",
+          "name": "Feiteng",
+          "screen_name": "FeitengLi",
+          "description": "10年 Speech· 构建DL模型服务过亿用户 · 纽交所上市\n写过 Speech & Image & Video LLM DiT 算法模型，vibe 前端；\n公众号：Generative AI https://t.co/ap8SkpMavL",
+          "followers_count": 2261,
+          "friends_count": 1087,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 24,
+          "favorite_count": 113,
+          "reply_count": 2,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205455,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039751290897518907",
+      "text": "Google 今天发布了 Gemma 4，这是他们迄今最强的开源模型家族，脱胎于 Gemini 3 的同一套研究成果。\n\n最大的变化是许可证。之前的 Gemma 用的是 Google 自家的许可协议，限制不少。这次 Gemma 4 全系列换成了 Apache 2.0 开源协议，商用、修改、分发都没障碍。对企业和独立开发者来说，这意味着可以放心把模型嵌入自己的产品，不用再反复研究条款里的灰色地带。\n\nGemma 4 提供四个尺寸：31B Dense、26B MoE（混合专家架构）、E4B 和 E2B。其中 31B 在 Arena AI 开源模型文本排行榜上排第三，26B 排第六，Google 称它们的表现超过了体量大 20 倍的模型。大模型支持 256K 上下文窗口，可以一次性喂入长文档或整个代码仓库。\n\n有意思的是端侧能力。E2B 和 E4B 两个小模型是 Google 和 Pixel 团队、高通、联发科联合开发的，能跑在手机、树莓派、Jetson Nano 上，延迟接近零。小模型还额外支持音频输入和语音理解。想在手机上跑一个能看图、听话、还能离线写代码的本地 AI 智能体，现在有了一个不错的开箱即用选项。\n\n31B 模型不做量化的情况下，可以装进单张 80GB 的 H100 显卡。全系列原生支持函数调用和结构化 JSON 输出，直接面向 AI Agent 开发场景。目前已经可以在 Google AI Studio、Hugging Face、Kaggle、Ollama 等平台获取模型权重。\n\nGemma 系列自发布以来累计下载量已超过 4 亿次，社区创建了超过 10 万个变体。Google 显然想用开源生态绑住开发者。不过在 Arena AI 开源排行榜上，目前前列位置大量被中国开源模型占据，Gemma 4 的 31B 排第三，能守住多久是个问号。",
+      "created_at": "Thu Apr 02 17:06:19 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039736220834480233",
+        "text": "We just released Gemma 4  — our most intelligent open models to date.\n\nBuilt from the same world-class research as Gemini 3, Gemma 4 brings breakthrough intelligence directly to your own hardware for advanced reasoning and agentic workflows.\n\nReleased under a commercially permissive Apache 2.0 license so anyone can build powerful AI tools. 🧵↓",
+        "created_at": "Thu Apr 02 16:06:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039732814195851264",
+            "url": "https://video.twimg.com/amplify_video/2039732814195851264/vid/avc1/1280x720/1-CwLYpMYhFj92QR.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20536157",
+          "name": "Google",
+          "screen_name": "Google",
+          "description": "Here to help.",
+          "followers_count": 31808655,
+          "friends_count": 297,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 751,
+          "favorite_count": 5612,
+          "reply_count": 190,
+          "quote_count": 259
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205455,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 37,
+        "reply_count": 3,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2039744460439830540",
+      "text": "这一条推文争议很大，我说的确实不够严谨，有过多个人偏好在里面（我自己不喜欢用worktree），提供了一种选择，但没必要否定另一种，这点是我不对\n\n同样的，我原推提供的多个固定目录 clone 方案是没问题的，如果你觉得 worktree 好也必要去否定我的方案，大家都求存同异就好\n\n适合的就是好的",
+      "created_at": "Thu Apr 02 16:39:10 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205455,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2039730146689622185",
       "text": "一个不错的 pretext 衍生项目，不需要借助浏览器直接渲染 markdown为分页 png 和 svg。\n\n我测试了一下，还是有些局限：\n1. 样式支持不够丰富\n2. 目前还不支持markdown内嵌图片\n3. 需要分页\n4. 表格排版可能会错乱\n\n对于复杂的markdown，目前还不好用在生产环境，但可以用来学习尝鲜",
@@ -5153,6 +5558,37 @@
       }
     },
     {
+      "id": "2039035244414701903",
+      "text": "用之前先升级bun到v1.3.11\n✅bun upgrade （❌bun update） https://t.co/EbbdQuuovA",
+      "created_at": "Tue Mar 31 17:41:00 +0000 2026",
+      "lang": "ja",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039035126311534592",
+          "url": "https://pbs.twimg.com/media/HEwbpORXwAAI397.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205452,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 25,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
       "id": "2039031274053210552",
       "text": "Indeed, it was *because* I was not from the aerospace industry that SpaceX made such radical breakthroughs. Same for Tesla. \n\nThose in the industry would have if they could have.",
       "created_at": "Tue Mar 31 17:25:13 +0000 2026",
@@ -10099,6 +10535,62 @@
         "retweet_count": 2832,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2038398130253668400",
+      "text": "还可以手机上配合重力感应\nhttps://t.co/MBghK8Rlut",
+      "created_at": "Sun Mar 29 23:29:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038333454526320789",
+        "text": "Had to play with pretext today. What if you had to keep your phone perfectly straight to read anything? https://t.co/4jeWeYmpCv",
+        "created_at": "Sun Mar 29 19:12:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2038331625713303552",
+            "url": "https://video.twimg.com/amplify_video/2038331625713303552/vid/avc1/1920x1080/ICNXohEw7ZEyDy_k.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15929213",
+          "name": "Marius Hauken",
+          "screen_name": "mhauken",
+          "description": "Designer shipping better banking & playful side projects like @PieMenu from Norway's west coast.",
+          "followers_count": 129763,
+          "friends_count": 1735,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 170,
+          "favorite_count": 2743,
+          "reply_count": 59,
+          "quote_count": 51
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205455,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 1,
         "quote_count": 0
       }
     },
