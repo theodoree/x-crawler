@@ -1,12 +1,61 @@
 {
   "date": "20260402",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-02T14:29:52.547750",
-  "tweet_count": 215,
-  "unique_tweet_count": 215,
+  "last_crawl_time": "2026-04-02T16:22:23.836786",
+  "tweet_count": 216,
+  "unique_tweet_count": 216,
   "total_crawled": 415,
-  "duplicates_removed": 200,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2039730146689622185",
+      "text": "一个不错的 pretext 衍生项目，不需要借助浏览器直接渲染 markdown为分页 png 和 svg。\n\n我测试了一下，还是有些局限：\n1. 样式支持不够丰富\n2. 目前还不支持markdown内嵌图片\n3. 需要分页\n4. 表格排版可能会错乱\n\n对于复杂的markdown，目前还不好用在生产环境，但可以用来学习尝鲜",
+      "created_at": "Thu Apr 02 15:42:17 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039201766680793511",
+        "text": "🚀 marknative: 一个使用 TypeScript 构建的原生 Markdown 渲染引擎，直接将 Markdown 转换为优雅的分页文档！无需中间的 HTML 渲染，简单高效！https://t.co/m3rfnPDcrl",
+        "created_at": "Wed Apr 01 04:42:42 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1559459800500641792",
+          "name": "Liyown",
+          "screen_name": "liyownsmile",
+          "description": "AI agent 生态应用，开源社区爱好人员",
+          "followers_count": 3,
+          "friends_count": 45,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205439,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 8,
+        "reply_count": 1,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2039611549816689074",
       "text": "Visual intelligence beyond the human paradigm  https://t.co/nGEpbVGOCN",
