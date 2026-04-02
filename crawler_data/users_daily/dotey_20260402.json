@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 205464,
+    "followers_count": 205470,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260402",
-  "last_updated": "2026-04-02T20:12:42.658062",
-  "tweet_count": 17,
+  "last_updated": "2026-04-02T22:12:06.541166",
+  "tweet_count": 18,
   "tweets": [
     {
       "id": "2039514661331034299",
@@ -631,6 +631,45 @@
         "favorite_count": 1,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2039798856448090370",
+      "text": "“十几行prompt就能把我们部门全球百来号人替代了，肯定还做得更好......” \n可能有些岗位的工作真的是这样，不过人其实可以干更重要的事，如果还有的话",
+      "created_at": "Thu Apr 02 20:15:19 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039761154529181949",
+        "text": "@Yintinusa 我在甲骨文（含Sun）前前后后干了近十年，做到principal consultant，非管理岗的很高职级。站在AI时代回想我们整个部门，压根没存在必要🥲 十几行prompt就能把我们部门全球百来号人替代了，肯定还做得更好......",
+        "created_at": "Thu Apr 02 17:45:30 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "719527944",
+          "name": "0x00 ⚡️",
+          "screen_name": "NiaSocieto",
+          "description": "https://t.co/unCyHpf7CS https://t.co/SjobRWVqpP https://t.co/WjJECB9Q0F life member, radio ham, coder, inventor, polyglot, UAS specialist. IBM/Cisco/Oracle(Sun) alumni.",
+          "followers_count": 128,
+          "friends_count": 22,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 9,
+          "reply_count": 0,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 2,
+        "quote_count": 1
       }
     }
   ]
