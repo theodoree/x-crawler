@@ -1,12 +1,61 @@
 {
   "date": "20260402",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-02T00:24:12.769917",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-04-02T03:05:22.000539",
+  "tweet_count": 201,
+  "unique_tweet_count": 201,
+  "total_crawled": 400,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2039514661331034299",
+      "text": "没必要worktree，可以 clone 几份放在固定的目录，轮着用就够了，每次pull最新然后checkout一个新的branch，完成后提PR合并到main",
+      "created_at": "Thu Apr 02 01:26:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039514010870239504",
+        "text": "@dotey 请教monorepo太大导致没法git worktree，如何更好的并行开发？",
+        "created_at": "Thu Apr 02 01:23:27 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "90080292",
+          "name": "hyspace",
+          "screen_name": "hyspace",
+          "description": "Software engineer, アニメや漫画が好き",
+          "followers_count": 267,
+          "friends_count": 839,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205237,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 29,
+        "reply_count": 12,
+        "quote_count": 3
+      }
+    },
     {
       "id": "2039447849675469060",
       "text": "Claude Code 终端全屏渲染模式\n\nClaude Code 推出了一个新的终端渲染模式，代号 NO_FLICKER。启用方式很简单：CLAUDE_CODE_NO_FLICKER=1 claude。\n\n用过 Claude Code 的人大概都有体感：对话一长，终端就开始闪屏、跳屏，VS Code 内置终端和 tmux 里尤其明显。这是终端渲染的先天限制，ANSI 转义码（终端用来画界面的底层指令）里没有\"只刷新某一行\"的操作，想更新画面就只能清屏重画，也就是肉眼可见的闪烁。\n\nNO_FLICKER 模式的做法是接管整个终端视口，类似 vim 或 htop 那样切到备用屏幕缓冲区，只渲染当前可见的内容。这样一来闪烁消失了，内存和 CPU 占用也不再随对话增长而膨胀。\n\n附带的彩蛋是鼠标支持：可以点击输入框定位光标，点击折叠的工具输出展开查看，点击 URL 直接打开，拖拽选中文本会自动复制到剪贴板。对终端应用来说，这套交互相当少见。\n\n代价也有。原生的 Cmd+F 搜索失效了，因为对话内容不在终端滚动缓冲区里，需要按 Ctrl+O 再按 / 来搜索。原生的复制粘贴也被接管，选中即复制，或者可以在设置里改成 Ctrl+C 手动复制。\n\nBoris 说，这个模式在内部测试中已经被大多数人当成了默认选择。目前作为研究预览发布，需要 v2.1.88 或更高版本。如果鼠标捕获干扰工作流，可以加上 CLAUDE_CODE_DISABLE_MOUSE=1 只保留无闪烁渲染。",

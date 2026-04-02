@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 205237,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260402",
+  "last_updated": "2026-04-02T03:05:22.027968",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2039514661331034299",
+      "text": "没必要worktree，可以 clone 几份放在固定的目录，轮着用就够了，每次pull最新然后checkout一个新的branch，完成后提PR合并到main",
+      "created_at": "Thu Apr 02 01:26:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039514010870239504",
+        "text": "@dotey 请教monorepo太大导致没法git worktree，如何更好的并行开发？",
+        "created_at": "Thu Apr 02 01:23:27 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "90080292",
+          "name": "hyspace",
+          "screen_name": "hyspace",
+          "description": "Software engineer, アニメや漫画が好き",
+          "followers_count": 267,
+          "friends_count": 839,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 29,
+        "reply_count": 12,
+        "quote_count": 3
+      }
+    }
+  ]
+}
