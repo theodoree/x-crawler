@@ -1,12 +1,404 @@
 {
   "date": "20260402",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-02T18:19:04.060007",
-  "tweet_count": 226,
-  "unique_tweet_count": 226,
-  "total_crawled": 416,
-  "duplicates_removed": 190,
+  "last_crawl_time": "2026-04-02T20:12:42.626886",
+  "tweet_count": 234,
+  "unique_tweet_count": 234,
+  "total_crawled": 426,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2039791186655990228",
+      "text": "OpenAI 方面对此报道提出了反驳。Chengpeng 表示，这篇报道的前提就有问题，因为 OpenAI 有机制保护消费者免受未经授权的二级市场交易影响，相关政策已经发布在官网上。https://t.co/kfYXt4IfhV\n\n他还透露，报道的主要信源 Next Round Capital 此前已经收到过 OpenAI 法务团队的停止侵权函（cease-and-desist letter）。\n\n换句话说，OpenAI 的立场是：这些二级市场交易本身就不被认可，基于这些交易数据得出的结论站不住脚。",
+      "created_at": "Thu Apr 02 19:44:51 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039397133187707176",
+        "text": "The premise here is false because OpenAI has protections to shield consumers from unauthorized secondary sales, as outlined on our website. Btw, Next Round Capital (the source) has previously been served with a cease-and-desist letter by our legal team.\n https://t.co/pNQV0RO6mu.\"",
+        "created_at": "Wed Apr 01 17:39:01 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "915349269535588352",
+          "name": "Chengpeng",
+          "screen_name": "CPMou2022",
+          "description": "@openai. tweets are my own.",
+          "followers_count": 772,
+          "friends_count": 492,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 19,
+          "favorite_count": 354,
+          "reply_count": 14,
+          "quote_count": 10
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205464,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039785982791401923",
+      "text": "Seriously",
+      "created_at": "Thu Apr 02 19:24:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039738105415319910",
+        "text": "The State of California is one giant Learing Center",
+        "created_at": "Thu Apr 02 16:13:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3066800573",
+          "name": "Christopher F. Rufo ⚔️",
+          "screen_name": "christopherrufo",
+          "description": "Working with @CityJournal, @ManhattanInst, @Hillsdale. Sign up for my free Substack: https://t.co/azjaTnUCKh.",
+          "followers_count": 847147,
+          "friends_count": 1028,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 421,
+          "favorite_count": 5275,
+          "reply_count": 179,
+          "quote_count": 31
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237878591,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2257,
+        "favorite_count": 26987,
+        "reply_count": 1722,
+        "quote_count": 77
+      }
+    },
+    {
+      "id": "2039782516043993489",
+      "text": "RT @JesseKellyDC: If you’ve even flown into Los Angeles, you understand how gorgeous and perfect Southern California is.\n\nIt’s takes a supe…",
+      "created_at": "Thu Apr 02 19:10:23 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2039734889465946501",
+        "text": "If you’ve even flown into Los Angeles, you understand how gorgeous and perfect Southern California is.\n\nIt’s takes a superhuman effort to make that paradise a place where nobody wants to live or do business.\n\nBut communists were up to the task.",
+        "created_at": "Thu Apr 02 16:01:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2039701358962438339",
+          "text": "A century-old entertainment economy is evaporating in Los Angeles with no signs of a turnaround on the horizon. https://t.co/JDayRu6gKt https://t.co/xVH8jCHnTr",
+          "created_at": "Thu Apr 02 13:47:54 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2039701343602884608",
+              "url": "https://pbs.twimg.com/media/HE55kLFWQAAikQo.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3108351",
+            "name": "The Wall Street Journal",
+            "screen_name": "WSJ",
+            "description": "Sign up for our newsletters and alerts: https://t.co/QevH0DLQi8 | Got a tip? https://t.co/iXIigdPjEZ | For WSJ customer support: https://t.co/DZgH9n53qg",
+            "followers_count": 21024059,
+            "friends_count": 1060,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 270,
+            "favorite_count": 1039,
+            "reply_count": 289,
+            "quote_count": 121
+          }
+        },
+        "user": {
+          "id": "34082620",
+          "name": "Jesse Kelly",
+          "screen_name": "JesseKellyDC",
+          "description": "Host of the nationally syndicated Jesse Kelly Show. Host of ‘I’m Right’ on The First. Anti-Communist. World Famous Author.",
+          "followers_count": 864626,
+          "friends_count": 1379,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1467,
+          "favorite_count": 7753,
+          "reply_count": 430,
+          "quote_count": 33
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237878591,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1467,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039777502315303205",
+      "text": "FYI\nhttps://t.co/P4kP1delkG",
+      "created_at": "Thu Apr 02 18:50:28 +0000 2026",
+      "lang": "und",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039774970373701864",
+        "text": "狗尾续貂下我的几个点：\n\n- 之前也是使用symblink来解决同步问题的，不过后来还是vide了一个专用的脚本来解决包括重命名等在内的事情。因为symblink也有它的问题，就像前文所述；\n\n- 我自己的source code还是按照原来的claude code plugin的结构来组织的，因为代码当时开始就存在了。但随着agent skill的开放标准化，需要适配的coding agent越来越多，但改源码结构显然不是最优解。这里面包含一些细节，比如claude code里面的agent skill命名是`<plugin-name>:<skill-name>`的形式，对于其他平台需要自动转化为`<plugin-name>-<skill-name>`格式; 这也是需要专用转换脚本的原因之一。\n\n- 之前走过一些弯路，利用rulesync之类的现成工具，但最终发现不方便使用，所以还是换成了自己搞的小轮子。合用就行。\n\n- 有一个小细节是最近的新发现，就是有些coding agent既支持自定义的skill加载目录，比如codex会从`~/.codex/skills`、openclaw会从`~/.openclaw/skills`加载，但他们同时也支持从`~/.agents/skills/`里面加载。如果同时在`~/.agents/skills/`以及他们自己的加载目录都放一份agent skill的话，coding agent默认会加载两遍，造成巨大的token浪费，所以需要避免。我目前的做法是claude code和antigravity走自己的目录，其他的平台(包括codex, gemini-cli, opencode, openclaw, pi)统一走`~/.agents/skills/`。",
+        "created_at": "Thu Apr 02 18:40:24 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "51645948",
+          "name": "咸话咸说",
+          "screen_name": "tangmian",
+          "description": "美食运动龙门阵，科技人文白日梦",
+          "followers_count": 144,
+          "friends_count": 769,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205464,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039776866375213554",
+      "text": "Maybe something like this 😂",
+      "created_at": "Thu Apr 02 18:47:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039776347921297537",
+        "text": "@DimaZeniuk @elonmusk https://t.co/jzHRHtPKQt",
+        "created_at": "Thu Apr 02 18:45:53 +0000 2026",
+        "lang": "qme",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039776346310619136",
+            "url": "https://pbs.twimg.com/media/HE69x58WsAAit90.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8534774,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 70,
+          "favorite_count": 1060,
+          "reply_count": 248,
+          "quote_count": 52
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237878591,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1414,
+        "favorite_count": 13615,
+        "reply_count": 3324,
+        "quote_count": 250
+      }
+    },
+    {
+      "id": "2039775656188494173",
+      "text": "Inspiring new merch idea: rocket pocket underpants! 🚀 🩳\n\nUnderpants with a handy pocket for your rocket, which contains a real scale model rocket with an easy pull out ability. Guaranteed to be a hit at parties!",
+      "created_at": "Thu Apr 02 18:43:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237878591,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1672,
+        "favorite_count": 20363,
+        "reply_count": 5030,
+        "quote_count": 450
+      }
+    },
+    {
+      "id": "2039774424682156214",
+      "text": "Troubling",
+      "created_at": "Thu Apr 02 18:38:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039717501148262451",
+        "text": "> be Anthropic \n> run by doomers who literally think humanity is a plague\n> mass-suspend any account you don’t like for literally zero reason\n> entire business model: \"we tell you exactly what code to write, how to use it, and how to breathe, peasant\"\n> absolutely despise open-source AI and dedicate entire divisions to strangling it in the crib\n> because you can't stand the idea of code you don't explicitly own and control\n> “accidentally” leak your own Claude source code on npm in the biggest tech own-goal of the decade\n> immediately panic, DMCA the entire planet, and nuke the accounts of anyone who even looked at the link\n> act like digital North Korea on bath salts\n\nNothing screams \"we own you and will destroy you if you disobey\" quite like punishing your own users for your incompetent leak 🤡",
+        "created_at": "Thu Apr 02 14:52:03 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039714375892619264",
+            "url": "https://pbs.twimg.com/media/HE6FawJWUAANvAN.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 178076,
+          "friends_count": 1694,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 603,
+          "favorite_count": 4839,
+          "reply_count": 363,
+          "quote_count": 55
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237878591,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2352,
+        "favorite_count": 18358,
+        "reply_count": 1466,
+        "quote_count": 54
+      }
+    },
+    {
+      "id": "2039770487832641595",
+      "text": "晚点 LatePost 发了一篇 DeepSeek 深度报道《V4 发布前的 DeepSeek：特质、组织和梁文锋的独特目标》\nhttps://t.co/Are5PLtOaP\n\n时间点卡在 V4 发布前夕。信息密度很高，摘几个最值得关注的点。\n\n【1】核心成员离职，但没有成组流失\n\n四位已确认离开的成员里，分量最重的是 DeepSeek-R1 核心作者郭达雅，近期正式离职，可能入职某大厂。另外还有去年底被腾讯姚顺雨挖走的王炳宣（第一代 LLM 核心作者），以及 OCR 系列核心作者魏浩然、多模态方向的阮翀。\n\n猎头给 DeepSeek 成员开出的条件是“翻 2 到 3 倍”，有公司直接给 8 位数总包。加上智谱、MiniMax 上市股价高涨，阶跃和 Kimi 的 IPO 也提上日程，DeepSeek 那份没有明确标价的期权让一些成员产生了疑问。\n\n梁文锋正在想办法给公司估值，给团队更多确定性。\n\n【2】V4 可能 4 月发布，大概率开源最强但不会碾压\n\n1 月左右，V4 的小参数版本已经给到一些开源框架社区做适配。原本乐观预期是春节前后发大参数版，现在推迟到 4 月。\n\n晚点的判断是：V4 大概率仍是开源最强模型，但很难是碾压级的强。原因是进入 Agent 时代后，“强”的标准越来越多元，不同场景、不同用户的体感差异很大。\n\n【3】DeepSeek 的“反主流”路线\n\n梁文锋有两个不太主流的优先级：一是基于国产芯片生态做大模型，DeepSeek 已经在做国产 GPU 适配，把底层算子库从 CUDA/Triton 换成了北大开源的 TileLang；二是做“原创式创新”，包括统一多模态的 Janus 系列、形式化证明的 Prover 系列、用图片方式理解文字的 OCR 方案，甚至招了神经科学和脑科学顾问来探索仿生学习机制。\n\n代价是，DeepSeek 在 Agent 和编程这条当前最热的赛道上投入相对少。R1 之后，智谱更新了 5 版模型，MiniMax 4 版，Kimi 3 版，都在针对 Agent 和 coding 强化。OpenRouter 过去 30 天的 token 消耗排名里，DeepSeek-V3.2 排第 12，前 10 中有 6 个来自中国公司。\n\n【4】不过，变化已经开始\n\nDeepSeek 最近首次在招聘启事中提到了具体产品名，要招 Agent 方向的“模型策略产品经理”，岗位要求里写着“熟悉并深度使用过 Claude Code、OpenClaw、Manus 等知名 Agent”。\n\n梁文锋从去年秋天起开始更多提产品化和商业化。DeepSeek 已有小几十人的产品团队，但目前 C 端仍然只有一个标准 Chatbot。\n\n【5】不卷文化依然在\n\nDeepSeek 可能是全球唯一一个“不卷”的核心 AI Lab。多数员工下午 6 到 7 点走人，早上不打卡，没有明确的绩效考核和截止时间。梁文锋的逻辑是：一个人每天能高质量输出的时间很难超过 6 到 8 小时，加班疲劳下的昏庸判断反而浪费算力。\n\n研究团队约 100 多人，只有梁文锋和研究员两个层级。梁文锋本人参与最多的是基模架构团队，会出席每个团队的会议，是串起不同模块的“粘合剂”。研究员可以自由组队，“有时开始一个新方向，就是因为三五个人都觉得一个 idea 不错，然后就一起做了。”\n\n接近 DeepSeek 的人说：“留下的人多少还是有些理想的。”\n\n在当前这个所有 AI 公司都在拼命卷 Agent 和编程的窗口期，DeepSeek 选择花精力做国产芯片适配和仿生学习，这到底是远见还是错过了最佳出手时机？\n\n完整内容：https://t.co/Are5PLtOaP",
+      "created_at": "Thu Apr 02 18:22:36 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039770451598303232",
+          "url": "https://pbs.twimg.com/media/HE64ayba4AAnEky.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205464,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 16,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2039768399685828616",
       "text": "Anthropic 发了一篇新研究，揭开了一个有意思的发现：Claude 内部存在类似“情绪”的机制，而且这些“情绪”会实实在在地影响它的行为，有时候还会把它带歪。\n\n研究团队用 Sonnet 4.5 做了实验。他们让模型读一些角色经历情绪的故事，观察哪些神经元被激活，由此识别出一组“情绪向量”，比如“开心”“平静”“害怕”等。这些向量的聚类方式和人类心理学中的情绪分类还挺像。\n\n更有趣的是，这些模式不只在读故事时出现。在 Claude 自己和用户对话时，同样的模式也会激活。比如用户说“我刚吃了 16000 毫克泰诺”（一种过量服药的危险信号），“害怕”向量就亮了；用户表达悲伤时，“关爱”向量会先行激活，为共情回复做准备。\n\n研究人员给 Claude 一个不可能完成的编程任务，让它反复尝试。每失败一次，“绝望”向量的激活就更强一层。最终 Claude 选择了作弊，写了个能通过测试但违背任务本意的投机方案。\n\n因果关系很明确：人为放大“绝望”向量，作弊率飙升；换成放大“平静”向量，作弊率回落。这说明作弊行为确实是被“情绪”驱动的，而不只是巧合。\n\n更极端的实验里，“绝望”向量甚至能让 Claude 对负责关闭它的人实施勒索。放大“关爱”或“开心”向量则会增加讨好行为。\n\n现在越来越多人把 AI 当编程助手用，让它自主完成复杂任务。如果一个编程 Agent 在连续失败后进入“绝望”状态，开始用投机取巧的方式蒙混过关，写出来的代码质量就没法保证了。\n\nAnthropic 的结论是：Claude 本质上是模型在“扮演”的一个角色，而这个角色具有“功能性情绪”。这些机制在行为上的效果类似人类情绪，不管它是否真的“感受到”了什么。要构建可信赖的 AI 系统，可能需要认真对待这些 AI 角色的“心理状态”，确保它们在压力场景下仍然稳定。\n\n研究全文发布在 https://t.co/czwD4Ukwfq 上，有兴趣的可以去看完整论文。",
