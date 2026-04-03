@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 205675,
+    "followers_count": 205692,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260403",
-  "last_updated": "2026-04-03T16:13:56.325092",
-  "tweet_count": 4,
+  "last_updated": "2026-04-03T18:14:06.208946",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2039856736513740801",
@@ -206,6 +206,45 @@
       "stats": {
         "retweet_count": 0,
         "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040126382152233456",
+      "text": "鸭哥说的对，让 Agent 能高质量出活的关键是给 Agent 建立好 feedback loop，让它能自己去验证自己的结果，这样它就能反复调整验证，直到任务完成，而不需要过多的人工确认",
+      "created_at": "Fri Apr 03 17:56:47 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040112187184955405",
+        "text": "分享一个用 AI debug code 的例子。\n\n我因为对 opencode 做了一些魔改，所以本地一直用的是源码自己编译。最近一次升级把它搞挂了，所以我就开了个 Codex 开始 debug。",
+        "created_at": "Fri Apr 03 17:00:23 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "25820199",
+          "name": "鸭哥",
+          "screen_name": "grapeot",
+          "description": "",
+          "followers_count": 917,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 5,
         "reply_count": 0,
         "quote_count": 0
       }
