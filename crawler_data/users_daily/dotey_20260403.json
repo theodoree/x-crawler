@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 205523,
+    "followers_count": 205538,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260403",
-  "last_updated": "2026-04-03T03:05:31.303411",
-  "tweet_count": 3,
+  "last_updated": "2026-04-03T04:47:47.227881",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2039856736513740801",
@@ -169,6 +169,45 @@
         "favorite_count": 17,
         "reply_count": 6,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2039915423685042291",
+      "text": "https://t.co/4CwYadfD9O",
+      "created_at": "Fri Apr 03 03:58:31 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039912403379642537",
+        "text": "这个我还真研究过：\n缓存过期时间默认5分钟，max 可以选1小时。\n也就是说其实可以选5分钟 or 1小时。\n这个好坏主要是看每个人的常用习惯和场景。\n1小时价格贵但是缓存时间长；\n5分钟价格便宜但是缓存时间短。\n\n1. 如果你一般就是连续聊，聊完结束工作，可能明天或者下午继续干。那也就是说你续聊间隔常常在5分钟内，那就保持默认5分钟。5分钟能命中，是最划算的，缓存价格比1小时便宜。\n2. 如果你一般就是聊几句，然后忘了，过了半小时想起来，又来找 cc 聊几句。有一些人是这么一个使用习惯的。那就不如选 1小时过期，只要你1小时内续聊，就还是有缓存。但是，1小时的缓存价格贵，不然大家肯定默认1小时了。",
+        "created_at": "Fri Apr 03 03:46:31 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "371296701",
+          "name": "马天翼",
+          "screen_name": "fkysly",
+          "description": "Indie hacker & AI.",
+          "followers_count": 13517,
+          "friends_count": 545,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

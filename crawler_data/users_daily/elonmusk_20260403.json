@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237886302,
+    "followers_count": 237880006,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260403",
-  "last_updated": "2026-04-03T03:05:31.281221",
-  "tweet_count": 8,
+  "last_updated": "2026-04-03T04:47:47.206326",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2039875646789472465",
@@ -360,6 +360,180 @@
         "favorite_count": 2616,
         "reply_count": 369,
         "quote_count": 9
+      }
+    },
+    {
+      "id": "2039902890777796981",
+      "text": "Tesla",
+      "created_at": "Fri Apr 03 03:08:43 +0000 2026",
+      "lang": "tr",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039898604358488510",
+        "text": "Last time I was in a Tesla, FSD was so-so and no Grok. \n\nFeel like I time traveled.",
+        "created_at": "Fri Apr 03 02:51:41 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "358545917",
+          "name": "Cernovich",
+          "screen_name": "Cernovich",
+          "description": "Read more. 👇 👇 👇",
+          "followers_count": 1470792,
+          "friends_count": 4294,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 73,
+          "favorite_count": 1151,
+          "reply_count": 83,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 635,
+        "favorite_count": 8117,
+        "reply_count": 1062,
+        "quote_count": 44
+      }
+    },
+    {
+      "id": "2039921424467722369",
+      "text": "You can now choose between speed and quality for Imagine.\n\nProfessional mode is coming later this month.",
+      "created_at": "Fri Apr 03 04:22:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039905482253762692",
+        "text": "🚨 xAI just dropped a massive upgrade to Grok Imagine!\n\nNow you can choose between two modes:\n\nQuality (new): Produces next-level images with jaw-dropping detail, realism, and creativity, generating four high-quality images at once instead of an infinite scroll.\n\nSpeed: Delivers lightning-fast generations with consistently impressive results, just as you've experienced before.\n\nway more power. just select a mode, then type what you want to imagine.\n\nhere are two prompts that you can try. \n\nprompt one: \n\nA dramatic low-angle cinematic view of a menacing knight in intricate ornate black plate armor and helmet with flowing dark cape, riding a powerful muscular black warhorse in full gallop charging directly toward the viewer across a vast field of tall green grass. The knight raises a long straight sword triumphantly high in his right hand. The horse has a wildly flowing mane and tail whipped by motion, ornate leather-and-metal barding, and tack. Foreground shows extreme radial motion blur streaks in the grass conveying tremendous speed and velocity. Background features towering jagged snow-capped rocky mountain peaks under a vibrant deep blue sky with voluminous dramatic white clouds. Epic dark fantasy atmosphere, highly detailed textures on armor and horse, cinematic high-contrast lighting, dynamic heroic composition.\n\nprompt two: \n\nA serene young woman with fair skin, shoulder-length straight dark brown hair, and a calm introspective expression gazing slightly downward stands centered in a vast barren white sand desert at night under a deep dark navy blue sky, with distant low dark rocky mountains on the horizon. She wears a long flowing translucent white hooded robe with subtle iridescent holographic shimmer and prismatic rainbow-cyan reflections across the fabric, the hood up over her head. In both hands at chest level she holds a single glowing bioluminescent blue cross, jesus in the middle is emitting intense bright cyan-blue light that illuminates her robe, hands, and face. Directly behind her head and shoulders is a massive luminous circular rainbow halo aura with concentric glowing rings transitioning from inner vibrant blue and cyan outward to turquoise, yellow, orange, and red, crowned by a brilliant white starburst light at the top center casting dramatic volumetric god rays downward. Cinematic mystical ethereal atmosphere, photorealistic yet fantastical style, sharp focus, high detail on fabric textures, rose petals, sand ripples, and light effects.",
+        "created_at": "Fri Apr 03 03:19:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039903314876436480",
+            "url": "https://video.twimg.com/amplify_video/2039903314876436480/vid/avc1/1320x1080/6_TdnRI1qASWz-dG.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "C / asm since ’94 · AI + art via Grok\nAgenC //: 👾",
+          "followers_count": 228898,
+          "friends_count": 1037,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 23,
+          "favorite_count": 200,
+          "reply_count": 43,
+          "quote_count": 8
+        }
+      },
+      "stats": {
+        "retweet_count": 282,
+        "favorite_count": 2134,
+        "reply_count": 842,
+        "quote_count": 32
+      }
+    },
+    {
+      "id": "2039923476648349996",
+      "text": "Grok",
+      "created_at": "Fri Apr 03 04:30:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039911703958233404",
+        "text": "If you want the latest, correct, real time l information, use Grok. https://t.co/gim6TL61l4",
+        "created_at": "Fri Apr 03 03:43:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039911697792794624",
+            "url": "https://pbs.twimg.com/media/HE844ZgagAAydXf.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2039911697805381632",
+            "url": "https://pbs.twimg.com/media/HE844ZjakAAsjE_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "45715045",
+          "name": "Christopher Stanley",
+          "screen_name": "cstanley",
+          "description": "{title: \"Security Engineering\", company: 〚\"@SpaceX\", \"@X\", “@xAI”〛, education: \"M.S Computer Science // Cyber Security\"}",
+          "followers_count": 112682,
+          "friends_count": 479,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 118,
+          "reply_count": 26,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 172,
+        "favorite_count": 1525,
+        "reply_count": 470,
+        "quote_count": 16
+      }
+    },
+    {
+      "id": "2039923648354783312",
+      "text": "RT @NASA: LIVE: Agency leaders answer media questions and provide updates on our Artemis II mission around the Moon. https://t.co/Kxvg15mTUn",
+      "created_at": "Fri Apr 03 04:31:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2039864550502072552",
+        "text": "LIVE: Agency leaders answer media questions and provide updates on our Artemis II mission around the Moon. https://t.co/Kxvg15mTUn",
+        "created_at": "Fri Apr 03 00:36:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "11348282",
+          "name": "NASA",
+          "screen_name": "NASA",
+          "description": "The Moon is the mission. Real-time updates about our Artemis II mission around the Moon.",
+          "followers_count": 90533488,
+          "friends_count": 117,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 612,
+          "favorite_count": 2919,
+          "reply_count": 279,
+          "quote_count": 36
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 612,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
