@@ -1,12 +1,438 @@
 {
   "date": "20260403",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-03T12:14:48.860117",
-  "tweet_count": 253,
-  "unique_tweet_count": 253,
+  "last_crawl_time": "2026-04-03T14:18:31.644327",
+  "tweet_count": 260,
+  "unique_tweet_count": 260,
   "total_crawled": 453,
-  "duplicates_removed": 200,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2040050834155897011",
+      "text": "RT @wholemars: Blue states talk about clean energy, red states build clean energy.",
+      "created_at": "Fri Apr 03 12:56:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2039881850332832179",
+        "text": "Blue states talk about clean energy, red states build clean energy.",
+        "created_at": "Fri Apr 03 01:45:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2039852561822605400",
+          "text": "Letting people build things is pretty important if you want people to build things. https://t.co/hVuMC3o2Sp",
+          "created_at": "Thu Apr 02 23:48:44 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2039852558685249537",
+              "url": "https://pbs.twimg.com/media/HE8DGDKbIAEWD-W.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1123808797556920325",
+            "name": "Jesse Peltan",
+            "screen_name": "JessePeltan",
+            "description": "On a mission to build Type 1 Civilization and restore the biosphere",
+            "followers_count": 74172,
+            "friends_count": 446,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 44,
+            "favorite_count": 539,
+            "reply_count": 27,
+            "quote_count": 5
+          }
+        },
+        "user": {
+          "id": "1263491240336769026",
+          "name": "Whole Mars Catalog",
+          "screen_name": "wholemars",
+          "description": "🤖 🚗 🤖 🚕",
+          "followers_count": 867935,
+          "friends_count": 29496,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 366,
+          "favorite_count": 2046,
+          "reply_count": 200,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237892783,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 366,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040049288185889062",
+      "text": "RT @KatieMiller: You can bring your kids' puzzles to life and expand their imagination with Grok Imagine.\n\nThe new quality is awesome. http…",
+      "created_at": "Fri Apr 03 12:50:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2040047907403878528",
+        "text": "You can bring your kids' puzzles to life and expand their imagination with Grok Imagine.\n\nThe new quality is awesome. https://t.co/1u3iKNot33",
+        "created_at": "Fri Apr 03 12:44:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040047836104957953",
+            "url": "https://video.twimg.com/amplify_video/2040047836104957953/vid/avc1/480x640/gUYXEHQCQ_AmXJUX.mp4?tag=24",
+            "bitrate": 5184000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "240504013",
+          "name": "Katie Miller",
+          "screen_name": "KatieMiller",
+          "description": "@katiemillerpod available on YouTube, Spotify, Apple, Rumble, and of course X.",
+          "followers_count": 217772,
+          "friends_count": 879,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 190,
+          "favorite_count": 1049,
+          "reply_count": 222,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237892783,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 190,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040048952792547345",
+      "text": "Grok Imagine https://t.co/3dHFValu0y",
+      "created_at": "Fri Apr 03 12:49:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2040048817303875584",
+          "url": "https://video.twimg.com/amplify_video/2040048817303875584/vid/avc1/1920x1080/4nRVdixgILb-XAtp.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237892783,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1287,
+        "favorite_count": 11645,
+        "reply_count": 2274,
+        "quote_count": 227
+      }
+    },
+    {
+      "id": "2040048419260313761",
+      "text": "RT @xenocosmography: Finally. https://t.co/phswjj9qV8",
+      "created_at": "Fri Apr 03 12:47:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2040046971227165168",
+        "text": "Finally. https://t.co/phswjj9qV8",
+        "created_at": "Fri Apr 03 12:41:14 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2039848445624918439",
+          "text": "UN Secretary-General António Guterres warns the organization faces collapse without continued U.S. funding, which contributes roughly $2.2 billion to its core budget.\n\n\"the United Nations is on the brink of total collapse\" https://t.co/OM17TgCgqY",
+          "created_at": "Thu Apr 02 23:32:22 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2039800335905042432",
+              "url": "https://video.twimg.com/amplify_video/2039800335905042432/vid/avc1/640x360/3b7ILmBx61Aj2fLg.mp4?tag=21",
+              "bitrate": 832000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "52338305",
+            "name": "Brandon Straka #WalkAway",
+            "screen_name": "BrandonStraka",
+            "description": "SUBSCRIBE: https://t.co/ZZQJG0P903 @RealWalkAway Founder | Former Liberal. MEDIA: booking@brandonstraka.com |",
+            "followers_count": 1056087,
+            "friends_count": 2245,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2208,
+            "favorite_count": 10771,
+            "reply_count": 4991,
+            "quote_count": 1062
+          }
+        },
+        "user": {
+          "id": "1709393467871461376",
+          "name": "Xenocosmography",
+          "screen_name": "xenocosmography",
+          "description": "Anglotheosophical Oblique Escalation\nhttps://t.co/zYwV8LwOQg",
+          "followers_count": 60339,
+          "friends_count": 838,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 336,
+          "favorite_count": 2275,
+          "reply_count": 347,
+          "quote_count": 32
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237892783,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 336,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040045107895054350",
+      "text": "RT @dvorahfr: Quality mode of Grok Imagine : \nLook at the details in the background https://t.co/vJ6l7wDXRj",
+      "created_at": "Fri Apr 03 12:33:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2040035316841754624",
+          "url": "https://video.twimg.com/ext_tw_video/2040035316841754624/pu/vid/avc1/720x720/OVK5egMl6OuGKQEM.mp4?tag=19",
+          "bitrate": 1280000
+        }
+      ],
+      "retweet": {
+        "id": "2040035343215292706",
+        "text": "Quality mode of Grok Imagine : \nLook at the details in the background https://t.co/vJ6l7wDXRj",
+        "created_at": "Fri Apr 03 11:55:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040035316841754624",
+            "url": "https://video.twimg.com/ext_tw_video/2040035316841754624/pu/vid/avc1/720x720/OVK5egMl6OuGKQEM.mp4?tag=19",
+            "bitrate": 1280000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 127972,
+          "friends_count": 3498,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 190,
+          "favorite_count": 1068,
+          "reply_count": 201,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237892783,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 190,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040044771511849147",
+      "text": "Upgrades, upgrades …",
+      "created_at": "Fri Apr 03 12:32:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040028745562763334",
+        "text": "Goodnight, 𝕏..·˚ ༘ ☾ ⋆｡˚ ☄︎\n\nQuality Mode in Grok Imagine is god-tier. \nUpdate your app. https://t.co/lvFF8QWOz2",
+        "created_at": "Fri Apr 03 11:28:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2040028100357201920",
+            "url": "https://pbs.twimg.com/media/HE-iv62bIAASw_f.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2040028284663316480",
+            "url": "https://pbs.twimg.com/media/HE-i6pcbQAAjddo.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "C / asm since ’94 · AI + art via Grok\nAgenC //: 👾",
+          "followers_count": 229072,
+          "friends_count": 1032,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 44,
+          "favorite_count": 640,
+          "reply_count": 94,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237892783,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1192,
+        "favorite_count": 18883,
+        "reply_count": 1591,
+        "quote_count": 63
+      }
+    },
+    {
+      "id": "2040044667841270231",
+      "text": "Grok",
+      "created_at": "Fri Apr 03 12:32:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040022535568597223",
+        "text": "The Little Robot’s Secret Garden🤖 \n\nShort story by Grok Imagine https://t.co/4JkvI5c6uh",
+        "created_at": "Fri Apr 03 11:04:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040022475409682432",
+            "url": "https://video.twimg.com/amplify_video/2040022475409682432/vid/avc1/720x1072/slP-YNdkie72NUXS.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 19115,
+          "friends_count": 1246,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 41,
+          "favorite_count": 272,
+          "reply_count": 57,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237892783,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 700,
+        "favorite_count": 4246,
+        "reply_count": 987,
+        "quote_count": 37
+      }
+    },
     {
       "id": "2040002830782927062",
       "text": "RT @wholemars: Tesla up 6% YoY, legacy auto down 19%",
