@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 205478,
+    "followers_count": 205523,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260403",
-  "last_updated": "2026-04-03T00:25:43.130648",
-  "tweet_count": 1,
+  "last_updated": "2026-04-03T03:05:31.303411",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2039856736513740801",
@@ -78,6 +78,97 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2039889951538475350",
+      "text": "原文作者\nhttps://t.co/9tPz91Tt1Z",
+      "created_at": "Fri Apr 03 02:17:18 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039783012427333751",
+        "text": "i just published a short article on building applications w/ Claude. captures a few lessons from my own work and many discussions with others at Anthropic.\nhttps://t.co/VYnSSGwDet https://t.co/P1ImeaoS06",
+        "created_at": "Thu Apr 02 19:12:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039777771799650304",
+            "url": "https://pbs.twimg.com/media/HE6_E4TbIAAxemS.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "39202644",
+          "name": "Lance Martin",
+          "screen_name": "RLanceMartin",
+          "description": "@AnthropicAI. Previously langchain, vision for self-driving trucks / cars 🚘 🤖, phd @stanford 🧪",
+          "followers_count": 25717,
+          "friends_count": 414,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 19,
+          "favorite_count": 132,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039893544735830128",
+      "text": "这个 Claude Code 的灵动岛看起来真的挺酷的👍",
+      "created_at": "Fri Apr 03 02:31:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039729625157537978",
+        "text": "最近每天烧几亿 Tokens，做了一款很有趣的 Mac「灵动岛」App - 👾 Vibe Island.\n\nVibe Island 的灵感来源于我在 Vibe Coding 会同时开 5-10 个对话跑不同的任务，经常切着切着就忘了刚刚那个对话跑到哪了...任务做没做完、需不需要我审批等等问题。\n\n感觉人类大脑的上下文窗口已经远远不够用了。\n\n于是，我就给这些 Agents 造了一座灵动岛！\n\n装上 Vibe Island 之后：Mac 刘海区域会展示各种 Agents (Claude Code / Codex / OpenClaw 等等）的实时工作状态：\n\n- 当 Agent 需要权限审批或任务完成时，灵动岛会自动展开，不用切回终端就能操作\n- 面板聚合了所有正在运行的 Agents 对话，点击卡片，精准跳回到会话所在的终端界面\n- 所有状态都配有定制化的 8 bit 像素风游戏音效，狠狠提升了 Vibe Coding 的氛围感\n\n灵动岛是一个极其优雅的形态：既能展示后台任务的状态，又不打扰前台正在进行的任务，它只在需要你注意的时候弹出，不用切换应用就能完成轻量交互，还带有一点陪伴感。\n\n其实最早这个 App 只能触发右上角的系统通知，后来发现只做通知远远不够，实际应该解决的是：如何在恰当的时刻，以最小的摩擦，把注意力带回到正确的位置。\n\n欢迎前往官网下载体验👇🏻\nhttps://t.co/8dCab0ZgVR",
+        "created_at": "Thu Apr 02 15:40:13 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039727786840272896",
+            "url": "https://video.twimg.com/amplify_video/2039727786840272896/vid/avc1/1920x1440/FS6Rn0dORDTzkfrg.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1195806571923677184",
+          "name": "Edward Luo",
+          "screen_name": "imedwardluo",
+          "description": "🧪 一个曾经搞过艺术现在在搞产品的设计师\n👨🏻‍💻 正在做 https://t.co/X64ml8hDGy\n🤹🏻‍♂️ 合伙 AI 不独立开发\n🫠 伪装成完美主义的强迫症",
+          "followers_count": 1307,
+          "friends_count": 581,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 44,
+          "reply_count": 6,
+          "quote_count": 8
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 17,
+        "reply_count": 6,
+        "quote_count": 1
       }
     }
   ]
