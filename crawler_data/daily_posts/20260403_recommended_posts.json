@@ -1,12 +1,757 @@
 {
   "date": "20260403",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-03T08:19:25.931901",
-  "tweet_count": 241,
-  "unique_tweet_count": 241,
-  "total_crawled": 428,
-  "duplicates_removed": 187,
+  "last_crawl_time": "2026-04-03T10:16:40.770019",
+  "tweet_count": 253,
+  "unique_tweet_count": 253,
+  "total_crawled": 441,
+  "duplicates_removed": 188,
   "tweets": [
+    {
+      "id": "2040002830782927062",
+      "text": "RT @wholemars: Tesla up 6% YoY, legacy auto down 19%",
+      "created_at": "Fri Apr 03 09:45:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2039914767075397869",
+        "text": "Tesla up 6% YoY, legacy auto down 19%",
+        "created_at": "Fri Apr 03 03:55:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2039907372223656003",
+          "text": "NEWS: GM sold 25,851 EVs in the US in Q1 2026, -19% YoY.\n\n• Equinox EV: 9,589 (-7% YoY)\n• Lyriq: 3,370 (-22% YoY)\n• Optiq: 2,847 (+65% YoY)\n• Vistiq: 1,902\n• Hummer EV: 1,653 (-52% YoY)\n• Escalade IQ: 1,443(-27% YoY)\n• Silverado EV: 1,406 (-41% YoY)\n• Sierra EV: 1,288 (+3% YoY)\n• Blazer EV: 1,077 (-83% YoY)\n• Bolt EV: 791\n• BrightDrop Van: 496 (+81% YoY)",
+          "created_at": "Fri Apr 03 03:26:31 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2039905791877001216",
+              "url": "https://pbs.twimg.com/media/HE8zgoQXMAAcScn.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2039907242028511233",
+              "url": "https://pbs.twimg.com/media/HE801CfbMAEn9st.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2039907252866367488",
+              "url": "https://pbs.twimg.com/media/HE801q3XwAAe17F.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "243013409",
+            "name": "Sawyer Merritt",
+            "screen_name": "SawyerMerritt",
+            "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+            "followers_count": 1056090,
+            "friends_count": 446,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 25,
+            "favorite_count": 337,
+            "reply_count": 59,
+            "quote_count": 10
+          }
+        },
+        "user": {
+          "id": "1263491240336769026",
+          "name": "Whole Mars Catalog",
+          "screen_name": "wholemars",
+          "description": "🤖 🚗 🤖 🚕",
+          "followers_count": 867226,
+          "friends_count": 29496,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 128,
+          "favorite_count": 826,
+          "reply_count": 110,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 128,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040000197510795704",
+      "text": "RT @RyanTanaka: Grok &amp; xAI are definitely improving faster than any other AI.\n\nHappy 😎",
+      "created_at": "Fri Apr 03 09:35:23 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2039919889528565864",
+        "text": "Grok &amp; xAI are definitely improving faster than any other AI.\n\nHappy 😎",
+        "created_at": "Fri Apr 03 04:16:16 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "846087130896052228",
+          "name": "Ryan Tanaka",
+          "screen_name": "RyanTanaka",
+          "description": "Founder of @NeuraPod: A YouTube channel all about Neuralink.",
+          "followers_count": 10346,
+          "friends_count": 1523,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 97,
+          "favorite_count": 645,
+          "reply_count": 159,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 97,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040000052702351712",
+      "text": "RT @icreatelife: New Grok is so fine https://t.co/b1kMkPFSMt",
+      "created_at": "Fri Apr 03 09:34:48 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2039925954122842112",
+          "url": "https://video.twimg.com/amplify_video/2039925954122842112/vid/avc1/720x954/FihIS_4-_KfxsO-H.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2039926022670270913",
+        "text": "New Grok is so fine https://t.co/b1kMkPFSMt",
+        "created_at": "Fri Apr 03 04:40:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039925954122842112",
+            "url": "https://video.twimg.com/amplify_video/2039925954122842112/vid/avc1/720x954/FihIS_4-_KfxsO-H.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2433741582",
+          "name": "Kris Kashtanova",
+          "screen_name": "icreatelife",
+          "description": "AI Creativity | job: Sr. AI Evangelist @Adobe | 1st AI copyrights “Zarya of the Dawn”, \"Rose Enigma\" | my views | 日本語勉強中",
+          "followers_count": 115085,
+          "friends_count": 3599,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 125,
+          "favorite_count": 697,
+          "reply_count": 154,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 125,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039999701966360770",
+      "text": "Quality over quantity",
+      "created_at": "Fri Apr 03 09:33:24 +0000 2026",
+      "lang": "it",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039946898539508086",
+        "text": "New “Quality Mode” in Grok Imagine is absolutely stunning! The crispness and clarity are beautiful. https://t.co/x0ga79RsdU",
+        "created_at": "Fri Apr 03 06:03:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039946839634636800",
+            "url": "https://video.twimg.com/amplify_video/2039946839634636800/vid/avc1/720x1072/XcBSsiRppJYJ2h6N.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 18895,
+          "friends_count": 1244,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 13,
+          "favorite_count": 118,
+          "reply_count": 39,
+          "quote_count": 4
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 407,
+        "favorite_count": 2723,
+        "reply_count": 1090,
+        "quote_count": 67
+      }
+    },
+    {
+      "id": "2039999154907439150",
+      "text": "RT @art_muse: Grok Imagine https://t.co/7yDgTOeISO",
+      "created_at": "Fri Apr 03 09:31:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2039907382315405312",
+          "url": "https://video.twimg.com/amplify_video/2039907382315405312/vid/avc1/720x1066/tZqXxEG8-9YROMQN.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2039907523680260295",
+        "text": "Grok Imagine https://t.co/7yDgTOeISO",
+        "created_at": "Fri Apr 03 03:27:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039907382315405312",
+            "url": "https://video.twimg.com/amplify_video/2039907382315405312/vid/avc1/720x1066/tZqXxEG8-9YROMQN.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 18895,
+          "friends_count": 1244,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 98,
+          "favorite_count": 519,
+          "reply_count": 139,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 98,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039998909171528125",
+      "text": "RT @art_muse: Rain on me 🌧️ https://t.co/E9Puhx0wGy",
+      "created_at": "Fri Apr 03 09:30:15 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2039761484763566080",
+          "url": "https://video.twimg.com/amplify_video/2039761484763566080/vid/avc1/720x1066/57lWefMN7Ppybo40.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2039787450369810460",
+        "text": "Rain on me 🌧️ https://t.co/E9Puhx0wGy",
+        "created_at": "Thu Apr 02 19:30:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039761484763566080",
+            "url": "https://video.twimg.com/amplify_video/2039761484763566080/vid/avc1/720x1066/57lWefMN7Ppybo40.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 18895,
+          "friends_count": 1244,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 99,
+          "favorite_count": 553,
+          "reply_count": 94,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 99,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039998827407761489",
+      "text": "RT @wholemars: They may be onto something with this space based data center thing https://t.co/W71Z1Uqxpq",
+      "created_at": "Fri Apr 03 09:29:56 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039711733007478784",
+          "url": "https://pbs.twimg.com/media/HE6DA6obcAANAWS.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2039711735360393720",
+        "text": "They may be onto something with this space based data center thing https://t.co/W71Z1Uqxpq",
+        "created_at": "Thu Apr 02 14:29:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039711733007478784",
+            "url": "https://pbs.twimg.com/media/HE6DA6obcAANAWS.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1263491240336769026",
+          "name": "Whole Mars Catalog",
+          "screen_name": "wholemars",
+          "description": "🤖 🚗 🤖 🚕",
+          "followers_count": 867226,
+          "friends_count": 29496,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 125,
+          "favorite_count": 1132,
+          "reply_count": 119,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 125,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039997956271849696",
+      "text": "True",
+      "created_at": "Fri Apr 03 09:26:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039742310980751667",
+        "text": "ELON MUSK: \"Infiltration of the judiciary throughout the West is the greatest long con of the left.\" https://t.co/u5iZRKCAwo",
+        "created_at": "Thu Apr 02 16:30:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039742306174029824",
+            "url": "https://pbs.twimg.com/media/HE6e0gjW0AAktfP.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1573112872565149699",
+          "name": "The Conservative Alternative",
+          "screen_name": "OldeWorldOrder",
+          "description": "On a quest to unite conservatives from a variety of backgrounds | Midwest | Standing against the tyranny of trends. Standing with the wisdom of tradition. 🇺🇲",
+          "followers_count": 92589,
+          "friends_count": 2646,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 291,
+          "favorite_count": 1456,
+          "reply_count": 73,
+          "quote_count": 23
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1626,
+        "favorite_count": 11927,
+        "reply_count": 924,
+        "quote_count": 40
+      }
+    },
+    {
+      "id": "2039997821919846633",
+      "text": "RT @mayemusk: I used to love going to the Westfield mall with my grandchildren. And now, in New York City, the Rite Aid near me used to hav…",
+      "created_at": "Fri Apr 03 09:25:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2039982436205879351",
+        "text": "I used to love going to the Westfield mall with my grandchildren. And now, in New York City, the Rite Aid near me used to have a security guard and all shelves locked up. It’s now empty and for rent. So sad 😞",
+        "created_at": "Fri Apr 03 08:24:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2039816674149584904",
+          "text": "The Westfield mall on market street empty \n\nVacancies all across the Third Street Promenade \n\nI never thought I’d live to see California crumble like this. It is so sad. But instead of questioning how we got here, we’re just digging our heels in deeper. https://t.co/gJPHx0xdR1",
+          "created_at": "Thu Apr 02 21:26:07 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2039816670555033600",
+              "url": "https://pbs.twimg.com/media/HE7idFdaUAAhO8L.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1263491240336769026",
+            "name": "Whole Mars Catalog",
+            "screen_name": "wholemars",
+            "description": "🤖 🚗 🤖 🚕",
+            "followers_count": 867226,
+            "friends_count": 29496,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 99,
+            "favorite_count": 971,
+            "reply_count": 183,
+            "quote_count": 17
+          }
+        },
+        "user": {
+          "id": "14171401",
+          "name": "Maye Musk",
+          "screen_name": "mayemusk",
+          "description": "Doctor of Dietetics 👩‍🎓 Supermodel 😉💃 info@mayemusk.com \nAuthor: A Woman Makes A Plan 📖 +Sept 2026 TIMELESS 📖 \nPre-order: https://t.co/W9KRc2KNbf",
+          "followers_count": 1495946,
+          "friends_count": 208,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 177,
+          "favorite_count": 1014,
+          "reply_count": 181,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 177,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039997686250951164",
+      "text": "Try Grok",
+      "created_at": "Fri Apr 03 09:25:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2039630778590499126",
+        "text": "Grok 4.20 is criminally underrated. Don't let the haters distract you, try it for yourself. @xai was seriously cooking with this model.\n\nAnd it's just the beginning, a stronger version is coming soon.",
+        "created_at": "Thu Apr 02 09:07:26 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "8721292",
+          "name": "Mark Kretschmann",
+          "screen_name": "mark_k",
+          "description": "AI & Software Engineering | Practical insights on AI, code, fitness & e/acc • Accelerating the future",
+          "followers_count": 35219,
+          "friends_count": 623,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 28,
+          "favorite_count": 501,
+          "reply_count": 103,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 331,
+        "favorite_count": 2701,
+        "reply_count": 1004,
+        "quote_count": 40
+      }
+    },
+    {
+      "id": "2039982731652956661",
+      "text": "RT @Tslachan: $TSLA 🇰🇷\nBREAKING : Tesla Korea delivered 11,130 vehicles to customers during the month of March.\n\nThe figure is quite a surp…",
+      "created_at": "Fri Apr 03 08:25:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2039636834704355478",
+        "text": "$TSLA 🇰🇷\nBREAKING : Tesla Korea delivered 11,130 vehicles to customers during the month of March.\n\nThe figure is quite a surprise. Tesla has recorded its highest monthly sales since entering the Korean market in 2017. \n\nThat's an incredible number, and I can see how much Koreans care about Tesla.\n\nLook at the incredible charts!",
+        "created_at": "Thu Apr 02 09:31:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039636292657725441",
+            "url": "https://pbs.twimg.com/media/HE4-ZtbbwAEcPNl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319558110827040768",
+          "name": "Tsla Chan",
+          "screen_name": "Tslachan",
+          "description": "🇰🇷 First Foreigner Invited to Tesla Robotaxi/ First to Experience Tesla FSD in Korea/ Model Y Owner/Referral: https://t.co/z0RyAtGKFv",
+          "followers_count": 64087,
+          "friends_count": 679,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 349,
+          "favorite_count": 2051,
+          "reply_count": 251,
+          "quote_count": 60
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 349,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039981804825059672",
+      "text": "RT @art_muse: 1950s Sweetheart &amp; Polka Dot Tease❤️\n\nGrok Imagine https://t.co/SSHh5lOH7P",
+      "created_at": "Fri Apr 03 08:22:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2039976495452708865",
+          "url": "https://video.twimg.com/amplify_video/2039976495452708865/vid/avc1/720x1072/H50jPuCwfTqYAYkb.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2039976551123697941",
+        "text": "1950s Sweetheart &amp; Polka Dot Tease❤️\n\nGrok Imagine https://t.co/SSHh5lOH7P",
+        "created_at": "Fri Apr 03 08:01:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2039976495452708865",
+            "url": "https://video.twimg.com/amplify_video/2039976495452708865/vid/avc1/720x1072/H50jPuCwfTqYAYkb.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1703374786162749440",
+          "name": "Art Muse",
+          "screen_name": "art_muse",
+          "description": "Sharing AI art, musings, & moments that spark the soul. Animations by Grok Imagine.",
+          "followers_count": 18895,
+          "friends_count": 1244,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 195,
+          "favorite_count": 1112,
+          "reply_count": 272,
+          "quote_count": 27
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237884230,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 195,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2039979553440121093",
       "text": "Grok Imagine Pro mode for 1080P images &amp; video later this month",
