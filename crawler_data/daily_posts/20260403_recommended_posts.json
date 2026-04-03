@@ -1,12 +1,166 @@
 {
   "date": "20260403",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-03T20:10:34.100861",
-  "tweet_count": 270,
-  "unique_tweet_count": 270,
-  "total_crawled": 468,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-04-03T22:10:15.019677",
+  "tweet_count": 274,
+  "unique_tweet_count": 274,
+  "total_crawled": 470,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2040179409278452049",
+      "text": "New ads manager for 𝕏",
+      "created_at": "Fri Apr 03 21:27:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2037235438692556844",
+        "text": "The new X ads manager is live!",
+        "created_at": "Thu Mar 26 18:29:13 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "838842836",
+          "name": "Parsa T",
+          "screen_name": "ParsaTajik",
+          "description": "mts @xAI | prev infra @Affirm & founded @ Rush (GEO platform) + https://t.co/seNdHQQsjI",
+          "followers_count": 10455,
+          "friends_count": 687,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 159,
+          "favorite_count": 2346,
+          "reply_count": 132,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237894362,
+        "friends_count": 1308,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 250,
+        "favorite_count": 1309,
+        "reply_count": 730,
+        "quote_count": 21
+      }
+    },
+    {
+      "id": "2040179060501004347",
+      "text": "Tesla Semi is so clean, cool &amp; fun!",
+      "created_at": "Fri Apr 03 21:26:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040135963649941540",
+        "text": "Cities will be much quieter &amp; cleaner with Tesla Semi",
+        "created_at": "Fri Apr 03 18:34:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1867171663961362432",
+          "name": "Tesla Semi",
+          "screen_name": "tesla_semi",
+          "description": "BAMF – the future of electric trucking",
+          "followers_count": 41875,
+          "friends_count": 7,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 268,
+          "favorite_count": 2770,
+          "reply_count": 144,
+          "quote_count": 22
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237894362,
+        "friends_count": 1308,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 704,
+        "favorite_count": 8012,
+        "reply_count": 1292,
+        "quote_count": 44
+      }
+    },
+    {
+      "id": "2040178144897114360",
+      "text": "RT @xai: Introducing Quality mode on Grok Imagine – powered by our most advanced image generation model.\n\nQuality mode gives you enhanced d…",
+      "created_at": "Fri Apr 03 21:22:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2040150187373670570",
+        "text": "Introducing Quality mode on Grok Imagine – powered by our most advanced image generation model.\n\nQuality mode gives you enhanced details, stronger text rendering, and higher levels of creative control.\n\nNow available on web and mobile.\nTry it at https://t.co/zGhs9czkC5 https://t.co/3h41VNKgWM",
+        "created_at": "Fri Apr 03 19:31:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040149795730530304",
+            "url": "https://video.twimg.com/amplify_video/2040149795730530304/vid/avc1/1920x1080/GLffUfS1y4EnJxJa.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1661523610111193088",
+          "name": "xAI",
+          "screen_name": "xai",
+          "description": "",
+          "followers_count": 1943268,
+          "friends_count": 5,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 279,
+          "favorite_count": 1804,
+          "reply_count": 294,
+          "quote_count": 55
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237894362,
+        "friends_count": 1308,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 279,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2040159519607587304",
       "text": "充分利用 AI 情绪提升生成结果的 Prompt 应用案例：\n\n先让 AI 扮演仇人挑刺，AI 给出犀利又中肯的意见；然后基于这些意见去写一版本更好的气死仇人 \n\n可能 AI 明白了什么是同仇敌忾😂 https://t.co/LB6Tea4wHX",
@@ -10499,6 +10653,37 @@
         "favorite_count": 138844,
         "reply_count": 5653,
         "quote_count": 983
+      }
+    },
+    {
+      "id": "2039035244414701903",
+      "text": "用之前先升级bun到v1.3.11\n✅bun upgrade （❌bun update） https://t.co/EbbdQuuovA",
+      "created_at": "Tue Mar 31 17:41:00 +0000 2026",
+      "lang": "ja",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039035126311534592",
+          "url": "https://pbs.twimg.com/media/HEwbpORXwAAI397.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205700,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 28,
+        "reply_count": 4,
+        "quote_count": 0
       }
     },
     {
