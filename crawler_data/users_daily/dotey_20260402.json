@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 205470,
+    "followers_count": 205478,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260402",
-  "last_updated": "2026-04-02T22:12:06.541166",
-  "tweet_count": 18,
+  "last_updated": "2026-04-03T00:25:43.132767",
+  "tweet_count": 21,
   "tweets": [
     {
       "id": "2039514661331034299",
@@ -670,6 +670,75 @@
         "favorite_count": 8,
         "reply_count": 2,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2039851620293636379",
+      "text": "https://t.co/XxAkJdHil2",
+      "created_at": "Thu Apr 02 23:44:59 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 38,
+        "reply_count": 0,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2039852931705409822",
+      "text": "请教两个问题：\n1. Claude Code 的 Prompt Caching  过期时间是多少？5分钟还是 1 小时？\n2. 基于这样的 Caching 过期时间设置，怎么样可以更好的节约 token 成本？\n\nCodex CLI / https://t.co/Hk2c4x6Sui 又分别是多少？\n\n参考文档：https://t.co/kcAGgvUVFX",
+      "created_at": "Thu Apr 02 23:50:12 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039853323356901463",
+      "text": "RT @oran_ge: Slack 这家公司太离谱了\n昨天宣发 ColaOS，是我们公司最忙的一天\n结果它直接就把我们的工作区删除了\n一个做 IM 的，都没有任何的界面提示，也不让人备份数据，就直接给删掉了\n\n而它就在几天前，刚刚还扣了我们公司一笔订阅费\n我们员工都懵了，不知…",
+      "created_at": "Thu Apr 02 23:51:45 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2039845212407959688",
+        "text": "Slack 这家公司太离谱了\n昨天宣发 ColaOS，是我们公司最忙的一天\n结果它直接就把我们的工作区删除了\n一个做 IM 的，都没有任何的界面提示，也不让人备份数据，就直接给删掉了\n\n而它就在几天前，刚刚还扣了我们公司一笔订阅费\n我们员工都懵了，不知道的还以为老板跑路了呢…\n后来知道是所有的中国大陆和香港澳门的企业都被删除了。\n\nSlack 客服辩解说，我给你们这些企业都发过邮件啊…\n大哥，这么重要的事情，你一边收着钱，就发个很容易进垃圾箱的批量邮件…\n这种服务水平的企业以后谁还能信任呢？",
+        "created_at": "Thu Apr 02 23:19:31 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6782882",
+          "name": "Orange AI",
+          "screen_name": "oran_ge",
+          "description": "CEO of MarsWave @ColaOSOfficial",
+          "followers_count": 168334,
+          "friends_count": 613,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 69,
+          "reply_count": 9,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

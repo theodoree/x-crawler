@@ -1,0 +1,84 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 205478,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260403",
+  "last_updated": "2026-04-03T00:25:43.130648",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2039856736513740801",
+      "text": "RT @vista8: 身边很多朋友都做了信息卡生成Skill。\n\n我也多贡献一个，给任意URL，自动抓取Markdown，生成HTML摘要总结，再自动截图生成类似下面的图片。\n\nSkill安装指令：npx skills add joeseesun/info-card-desi…",
+      "created_at": "Fri Apr 03 00:05:19 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2039357542263038424",
+        "text": "身边很多朋友都做了信息卡生成Skill。\n\n我也多贡献一个，给任意URL，自动抓取Markdown，生成HTML摘要总结，再自动截图生成类似下面的图片。\n\nSkill安装指令：npx skills add joeseesun/info-card-designer\n\n注意：用了仓耳今楷字体，请勿商用，个人用没问题。\n\n开源仓库地址：\nhttps://t.co/bep2zWn8Ye",
+        "created_at": "Wed Apr 01 15:01:42 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2039348469165670621",
+          "text": "AI还挺会配色，给Youtube用了红色，哈哈哈。 https://t.co/GMZPv096FK",
+          "created_at": "Wed Apr 01 14:25:38 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2039348390975385600",
+              "url": "https://pbs.twimg.com/media/HE04joFaMAAt5wK.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "6690032",
+            "name": "向阳乔木",
+            "screen_name": "vista8",
+            "description": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+            "followers_count": 103060,
+            "friends_count": 1522,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 0,
+            "favorite_count": 8,
+            "reply_count": 2,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "6690032",
+          "name": "向阳乔木",
+          "screen_name": "vista8",
+          "description": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+          "followers_count": 103060,
+          "friends_count": 1522,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 58,
+          "favorite_count": 246,
+          "reply_count": 16,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 58,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
