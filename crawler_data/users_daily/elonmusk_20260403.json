@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237892783,
+    "followers_count": 237886126,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260403",
-  "last_updated": "2026-04-03T14:18:31.677460",
-  "tweet_count": 57,
+  "last_updated": "2026-04-03T16:13:56.305340",
+  "tweet_count": 58,
   "tweets": [
     {
       "id": "2039875646789472465",
@@ -2677,6 +2677,59 @@
         "favorite_count": 11645,
         "reply_count": 2274,
         "quote_count": 227
+      }
+    },
+    {
+      "id": "2040049084590088557",
+      "text": "RT @dvorahfr: Try Quality mode of Grok Imagine ! \n\nResults are just insane 🤩 https://t.co/v44g5PY2zZ",
+      "created_at": "Fri Apr 03 12:49:38 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2040021083412430848",
+          "url": "https://video.twimg.com/ext_tw_video/2040021083412430848/pu/vid/avc1/720x1072/MXWCtu7HjjWrdQAc.mp4?tag=19",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2040021107260916040",
+        "text": "Try Quality mode of Grok Imagine ! \n\nResults are just insane 🤩 https://t.co/v44g5PY2zZ",
+        "created_at": "Fri Apr 03 10:58:28 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040021083412430848",
+            "url": "https://video.twimg.com/ext_tw_video/2040021083412430848/pu/vid/avc1/720x1072/MXWCtu7HjjWrdQAc.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 128002,
+          "friends_count": 3498,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 217,
+          "favorite_count": 1031,
+          "reply_count": 183,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 217,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     },
     {

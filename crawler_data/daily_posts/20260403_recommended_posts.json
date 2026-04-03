@@ -1,11 +1,11 @@
 {
   "date": "20260403",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-03T14:18:31.644327",
-  "tweet_count": 260,
-  "unique_tweet_count": 260,
-  "total_crawled": 453,
-  "duplicates_removed": 193,
+  "last_crawl_time": "2026-04-03T16:13:56.267913",
+  "tweet_count": 261,
+  "unique_tweet_count": 261,
+  "total_crawled": 460,
+  "duplicates_removed": 199,
   "tweets": [
     {
       "id": "2040050834155897011",
@@ -137,6 +137,69 @@
       },
       "stats": {
         "retweet_count": 190,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040049084590088557",
+      "text": "RT @dvorahfr: Try Quality mode of Grok Imagine ! \n\nResults are just insane 🤩 https://t.co/v44g5PY2zZ",
+      "created_at": "Fri Apr 03 12:49:38 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2040021083412430848",
+          "url": "https://video.twimg.com/ext_tw_video/2040021083412430848/pu/vid/avc1/720x1072/MXWCtu7HjjWrdQAc.mp4?tag=19",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": {
+        "id": "2040021107260916040",
+        "text": "Try Quality mode of Grok Imagine ! \n\nResults are just insane 🤩 https://t.co/v44g5PY2zZ",
+        "created_at": "Fri Apr 03 10:58:28 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040021083412430848",
+            "url": "https://video.twimg.com/ext_tw_video/2040021083412430848/pu/vid/avc1/720x1072/MXWCtu7HjjWrdQAc.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2178040394",
+          "name": "Déborah",
+          "screen_name": "dvorahfr",
+          "description": "Exhibition of my AI Illustrations and videos  by Grok Imagine and Art of all kinds!\n Follow me for Art",
+          "followers_count": 128002,
+          "friends_count": 3498,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 217,
+          "favorite_count": 1031,
+          "reply_count": 183,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237886126,
+        "friends_count": 1307,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 217,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
