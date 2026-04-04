@@ -1,12 +1,98 @@
 {
   "date": "20260404",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-04T03:02:32.493936",
-  "tweet_count": 204,
-  "unique_tweet_count": 204,
-  "total_crawled": 391,
-  "duplicates_removed": 187,
+  "last_crawl_time": "2026-04-04T04:37:25.258966",
+  "tweet_count": 206,
+  "unique_tweet_count": 206,
+  "total_crawled": 404,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2040281402906738746",
+      "text": "claude -p --output-format json ... \n卧槽，claude -p 这种方式从 4 月 4 日起居然也会被 Anthropic 算作第三方用量，需要开通 Extra Usage。\n\nhttps://t.co/1magMOTvxg https://t.co/sxD3by8IoR",
+      "created_at": "Sat Apr 04 04:12:47 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2040281012744126464",
+          "url": "https://pbs.twimg.com/media/HFCIxW6WgAAQBao.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2040208136582135981",
+        "text": "ICYMI\nYou can make OpenClaw use Claude Code as the backend instead of directly having OpenClaw use your subscription\nhttps://t.co/dZSo7Vz8HU",
+        "created_at": "Fri Apr 03 23:21:39 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1181339960516976640",
+          "name": "Shadow",
+          "screen_name": "4shadowed",
+          "description": "Maintainer and Discord Admin for @openclaw • https://t.co/s5rIw35ZJx",
+          "followers_count": 3446,
+          "friends_count": 223,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 165,
+          "reply_count": 16,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205771,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2040278308298928335",
+      "text": "还有一个重要细节值得补充。有开发者追问：那些在本地包装 Claude Code 的个人工具（比如 T3 Code），订阅还能用吗？Boris Cherny 确认可以，并表示正在把这条边界写得更清楚。Theo（T3 Code 作者）随即宣布自家工具安全过关。\n\n但 Anthropic 工程师 Thariq 马上补了一句冷水：这个确认仅限于包装 Claude Code 的本地工具（直接调用 cli 那种），Agent SDK 的使用规则还没定，他们还在厘清。\n\n简单总结下就是：Claude Code 本地使用算合规，通过 Agent SDK 调用目前悬而未决，第三方工具直接用订阅 OAuth 明确封杀。",
+      "created_at": "Sat Apr 04 04:00:29 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2040278021085503488",
+          "url": "https://pbs.twimg.com/media/HFCGDOHWoAA37fE.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205771,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2040260984703520792",
       "text": "一个提示词技巧：如何让 Gemini/nano banana 帮你去掉照片水印\n\n如果你直接让 Gemini 去水印，有些水印它是不给去的，但是你换个思路就可以。\n\n第一步：不要说去水印，让它把背景和文字都去掉，换个颜色。\n参考提示词：\n> 人物形象不变，但是衣服和帽子换成红色，干净背景没有文字\n\n第二步：让它把原来的衣服（和背景）加回去\n参考提示词：\n> 换回原来的帽子、衣服",
