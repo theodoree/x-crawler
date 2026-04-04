@@ -1,12 +1,61 @@
 {
   "date": "20260404",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-04T18:10:59.045432",
-  "tweet_count": 215,
-  "unique_tweet_count": 215,
-  "total_crawled": 412,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-04-04T20:08:32.653598",
+  "tweet_count": 216,
+  "unique_tweet_count": 216,
+  "total_crawled": 415,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2040505908615090277",
+      "text": "-p 应该没问题",
+      "created_at": "Sat Apr 04 19:04:54 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040498490850287886",
+        "text": "@vdxdot @fxnction yah that's incorrect, /r/cli/sub -  I had to rush an update since we didn't get much headstart either. Working on better docs.",
+        "created_at": "Sat Apr 04 18:35:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "25401953",
+          "name": "Peter Steinberger 🦞",
+          "screen_name": "steipete",
+          "description": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "followers_count": 472505,
+          "friends_count": 2311,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 16,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205838,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2040489979399536698",
       "text": "My idea of a good time is working with amazing engineers to create incredible technology 🤩\n\nThe Tesla chip research fab will have all the machines needed to do logic, memory, packing &amp; masks in one building for a lightning fast development cycle. Heaven 💫",

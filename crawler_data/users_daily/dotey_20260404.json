@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 205843,
+    "followers_count": 205838,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260404",
-  "last_updated": "2026-04-04T18:10:59.096534",
-  "tweet_count": 5,
+  "last_updated": "2026-04-04T20:08:32.684145",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2040236453528064241",
@@ -195,6 +195,45 @@
         "favorite_count": 1,
         "reply_count": 1,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2040505908615090277",
+      "text": "-p 应该没问题",
+      "created_at": "Sat Apr 04 19:04:54 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040498490850287886",
+        "text": "@vdxdot @fxnction yah that's incorrect, /r/cli/sub -  I had to rush an update since we didn't get much headstart either. Working on better docs.",
+        "created_at": "Sat Apr 04 18:35:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "25401953",
+          "name": "Peter Steinberger 🦞",
+          "screen_name": "steipete",
+          "description": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "followers_count": 472505,
+          "friends_count": 2311,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 16,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
