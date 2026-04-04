@@ -1,12 +1,142 @@
 {
   "date": "20260404",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-04T16:09:32.773630",
-  "tweet_count": 212,
-  "unique_tweet_count": 212,
+  "last_crawl_time": "2026-04-04T18:10:59.045432",
+  "tweet_count": 215,
+  "unique_tweet_count": 215,
   "total_crawled": 412,
-  "duplicates_removed": 200,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2040489979399536698",
+      "text": "My idea of a good time is working with amazing engineers to create incredible technology 🤩\n\nThe Tesla chip research fab will have all the machines needed to do logic, memory, packing &amp; masks in one building for a lightning fast development cycle. Heaven 💫",
+      "created_at": "Sat Apr 04 18:01:36 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237807750,
+        "friends_count": 1308,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 426,
+        "favorite_count": 4439,
+        "reply_count": 1054,
+        "quote_count": 46
+      }
+    },
+    {
+      "id": "2040488645019447497",
+      "text": "RT @america: Dr. Oz: “We have shut down just in the last ten weeks 221 hospices.”\n\nBret: “Wait, over 220 in the state of California?”\n\nDr.…",
+      "created_at": "Sat Apr 04 17:56:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2040438800929665405",
+        "text": "Dr. Oz: “We have shut down just in the last ten weeks 221 hospices.”\n\nBret: “Wait, over 220 in the state of California?”\n\nDr. Oz: “Yes, in Los Angeles alone.”\n https://t.co/AyBaNchqdg",
+        "created_at": "Sat Apr 04 14:38:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040199879797211136",
+            "url": "https://video.twimg.com/amplify_video/2040199879797211136/vid/avc1/1080x596/Nhkfr_aDo4lZleMF.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1841988608825466880",
+          "name": "America",
+          "screen_name": "america",
+          "description": "PAC Founded by @ElonMusk to support candidates who champion Secure Borders, Sensible Spending, Safe Cities, Fair Justice System, Free Speech and Self-Protection",
+          "followers_count": 1192265,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1777,
+          "favorite_count": 9534,
+          "reply_count": 288,
+          "quote_count": 93
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237807750,
+        "friends_count": 1308,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1777,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040488538773537043",
+      "text": "The Tesla chip design reviews are so fun!",
+      "created_at": "Sat Apr 04 17:55:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040432175380942950",
+        "text": "Thrilled to be rejoining @Tesla_AI  as silicon engineering lead next week! Back to building the chips that push the boundaries of AI and autonomy. Real engineering happens at Tesla. Excited for what’s ahead #AI6 #DOJO3. @rawat_ritvik  @elonmusk @aelluswamy 🚀”",
+        "created_at": "Sat Apr 04 14:11:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "40297659",
+          "name": "Anant Nivarti",
+          "screen_name": "AntAnanth",
+          "description": "Semiconductor professional. Chip Designer. @TeslaAI. Ex AMD, APPLE. AI startups",
+          "followers_count": 624,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 61,
+          "favorite_count": 968,
+          "reply_count": 66,
+          "quote_count": 0
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237807750,
+        "friends_count": 1308,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 236,
+        "favorite_count": 2286,
+        "reply_count": 582,
+        "quote_count": 15
+      }
+    },
     {
       "id": "2040361193534300169",
       "text": "RT @deaflibertarian: Elon Musk and his staff at Space X truly care DO about deaf kids.\n\nMore details to come!\n\nBut basically, I will love h…",
