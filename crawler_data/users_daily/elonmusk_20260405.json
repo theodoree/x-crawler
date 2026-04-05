@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237796363,
+    "followers_count": 237800835,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260405",
-  "last_updated": "2026-04-05T16:10:26.225802",
-  "tweet_count": 17,
+  "last_updated": "2026-04-05T18:11:40.919254",
+  "tweet_count": 21,
   "tweets": [
     {
       "id": "2040597982555562006",
@@ -902,6 +902,182 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2040829162093760764",
+      "text": "RT @XFreeze: Tesla’s Supercharger network just hit a massive new scale - 80,000+ active stalls worldwide\n\nIt took over a decade to build th…",
+      "created_at": "Sun Apr 05 16:29:23 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2040827116506284504",
+        "text": "Tesla’s Supercharger network just hit a massive new scale - 80,000+ active stalls worldwide\n\nIt took over a decade to build the first 40,000\nNow Tesla just doubled it in less than four years\n\nThe scale is wild. In Q1 2026 alone:\n• 1.8 TWh of energy delivered\n• 53 million individual charging sessions completed\n• Network wait times dropped to just <1%\n\nTesla is also rapidly rolling out the new V4 Superchargers, capable of true 500 kW speeds\n\nThe best part is these are not just for Teslas - Ford, GM, Rivian, Mercedes, Hyundai, Kia, and nearly every major EV brand now let their drivers use the Tesla superchargers because of the extreme reliability and massive network Tesla offers\n\nTesla quietly built the entire EV charging ecosystem, and now legacy automakers struggle to sell cars without it - they are heavily relying on Tesla’s massive network to make their vehicles truly viable on the road and give customers the confidence to buy their cars",
+        "created_at": "Sun Apr 05 16:21:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040824174089015298",
+            "url": "https://video.twimg.com/amplify_video/2040824174089015298/vid/avc1/2800x1800/ThFdAMtoI5d-EvZK.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 179228,
+          "friends_count": 1699,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 307,
+          "favorite_count": 1427,
+          "reply_count": 193,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 307,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040829274991857696",
+      "text": "Upgrades to our API",
+      "created_at": "Sun Apr 05 16:29:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040770361566826685",
+        "text": "We’ve made major upgrades to X API:\n\n• Pay-Per-Use now GA worldwide \n• XMCP Server + xurl for agents\n• Official Python &amp; TypeScript XDKs\n• API Playground - free realistic simulations\n\nNew releases coming will be a game changer.\n\nStart building → https://t.co/hiyP33PMVa 🚢",
+        "created_at": "Sun Apr 05 12:35:44 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2533341854",
+          "name": "Chris Park",
+          "screen_name": "chrisparkX",
+          "description": "𝕏 | @X @API @XDevelopers",
+          "followers_count": 23407,
+          "friends_count": 1570,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 96,
+          "favorite_count": 1095,
+          "reply_count": 162,
+          "quote_count": 22
+        }
+      },
+      "stats": {
+        "retweet_count": 691,
+        "favorite_count": 6661,
+        "reply_count": 755,
+        "quote_count": 29
+      }
+    },
+    {
+      "id": "2040829334320218337",
+      "text": "RT @doganuraldesign: Grok Imagine just got a huge upgrade!\n\nNow you can create realistic cinematic shots. I’ve created a prompt template to…",
+      "created_at": "Sun Apr 05 16:30:04 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2040808798030340596",
+        "text": "Grok Imagine just got a huge upgrade!\n\nNow you can create realistic cinematic shots. I’ve created a prompt template to help you get similar results.\n\nHere’s how to use + examples ↓ https://t.co/LmILD7vOrp",
+        "created_at": "Sun Apr 05 15:08:28 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040806629604741120",
+            "url": "https://video.twimg.com/amplify_video/2040806629604741120/vid/avc1/1080x1080/S2JgiQFckIgn56tu.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1553043003496960000",
+          "name": "Dogan Ural",
+          "screen_name": "doganuraldesign",
+          "description": "Official Creative Ambassador @xAI / Designer / Creative Director / Latent Space Explorer / Dad",
+          "followers_count": 125709,
+          "friends_count": 629,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 199,
+          "favorite_count": 985,
+          "reply_count": 141,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 199,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040829476511285517",
+      "text": "What makes the API update interesting",
+      "created_at": "Sun Apr 05 16:30:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040808375118692394",
+        "text": "The 𝕏 API just got a massive update that completely changes the game for AI agents and builders\n\n𝕏 is the most real-time platform on Earth, and with the 𝕏 API, you can leverage this real-time data to build your applications\n\nThe new capabilities are actually insane:\n•  Pay-Per-Use: You no longer have to worry about monthly tiers. You now only pay for what you actually use\n•  XMCP Server + Xurl for agents: Native Model Context Protocol support allows your AI agents to seamlessly read context and execute actions on the platform\n• Official Python & TypeScript XDKs: First-party tools to help you build and ship significantly faster\n• API Playground: Free, realistic simulations to safely test your agent's code before going live\n\nYou also get up to 20% back in FREE xAI API credits when you purchase 𝕏 API credits (based on your total spend)\n\nStart building here → https://t.co/4ZkypGG3M5",
+        "created_at": "Sun Apr 05 15:06:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2040807710476718080",
+            "url": "https://pbs.twimg.com/media/HFJnzM3X0AAGFJC.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 179228,
+          "friends_count": 1699,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 115,
+          "favorite_count": 909,
+          "reply_count": 179,
+          "quote_count": 42
+        }
+      },
+      "stats": {
+        "retweet_count": 1229,
+        "favorite_count": 6581,
+        "reply_count": 1459,
+        "quote_count": 69
       }
     }
   ]

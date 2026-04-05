@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 205878,
+    "followers_count": 205884,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260405",
-  "last_updated": "2026-04-05T16:10:26.216793",
-  "tweet_count": 2,
+  "last_updated": "2026-04-05T18:11:40.907658",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2040659186070040584",
@@ -88,6 +88,275 @@
         }
       },
       "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040830616032206967",
+      "text": "刚我也测试了下，用“ --append-system-prompt”和“-p”是可以的，但是不能有 OpenClaw 关键字在 system prompt https://t.co/vkn6ZAUpTX",
+      "created_at": "Sun Apr 05 16:35:10 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2040830259520565250",
+          "url": "https://pbs.twimg.com/media/HFJ8TumXcAIiFLo.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2040830481420181504",
+          "url": "https://pbs.twimg.com/media/HFJ8gpPW4AAHNQv.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2040811558427648357",
+        "text": "Anthropic now blocks first-party harness use too 👀\n\nclaude -p --append-system-prompt 'A personal assistant running inside OpenClaw.' 'is clawd here?'\n\n→ 400 Third-party apps now draw from your extra usage, not your plan limits.\n\nSo yeah: bring your own coin 🪙🦞",
+        "created_at": "Sun Apr 05 15:19:26 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "25401953",
+          "name": "Peter Steinberger 🦞",
+          "screen_name": "steipete",
+          "description": "Polyagentmorous ClawFather. Came back from retirement to mess with AI and help a lobster take over the world @openclaw🦞",
+          "followers_count": 474323,
+          "friends_count": 2312,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 120,
+          "favorite_count": 2580,
+          "reply_count": 288,
+          "quote_count": 115
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 14,
+        "reply_count": 5,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2040830685187850752",
+      "text": "图2来自\nhttps://t.co/jw3ye66lCD",
+      "created_at": "Sun Apr 05 16:35:26 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040827544618840548",
+        "text": "@steipete Well there you go. Tested and confirmed: https://t.co/Qia47kwNV2",
+        "created_at": "Sun Apr 05 16:22:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2040827481528434688",
+            "url": "https://pbs.twimg.com/media/HFJ5yBxbgAAzf8M.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "107251794",
+          "name": "Flor.",
+          "screen_name": "FlorianKluge",
+          "description": "Agentic Coding for SEO. Built systems that replaced me, then built more. Automating myself into obsolescence faster than expected.",
+          "followers_count": 1063,
+          "friends_count": 484,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 237,
+          "reply_count": 12,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040844181942194353",
+      "text": "RT @binghe: 如何利用 AI设计出你心目中的优秀界面设计？\n\nCoding 了个软件，但是 claude code 和 Codex 的前端设计的。。总是不太满意。。\n\n我又口喷不出来个所以然，但我在抖音发现了一个大兄弟，比较巧秒的做法，特别适合我们这些编程小白使用。……",
+      "created_at": "Sun Apr 05 17:29:04 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2040829183014928652",
+        "text": "如何利用 AI设计出你心目中的优秀界面设计？\n\nCoding 了个软件，但是 claude code 和 Codex 的前端设计的。。总是不太满意。。\n\n我又口喷不出来个所以然，但我在抖音发现了一个大兄弟，比较巧秒的做法，特别适合我们这些编程小白使用。\n\n我中间加了一些自己的理解，还有提供了参照样稿，出来的效果，完全达到我的预期。\n\n大体SOP 如下：\n\n1，前期与 AI（我是与 Claude 聊） 反复讨论形成产品文档.md 文件，越详细越好。\n\n2，再新开会话，将文档发给 Gemini 生成前端设计提示词（注明用于 Stitch）因为我感觉老 G 的设计品味不错。\n\n3，复制这些专业的提示词到 Stitch 生成静态设计图，大概率给的结果不太差。\n\n如果你感觉出来的不太好看，没事。先去dribbble 里找到好看的前端设计，把图片保存下来。\n\n再回到 Gemini ，还是让他仿照你保存的图片，来生成提示词。只改风格，配色，和交互效果，不要改基础功能。\n\n4，出来满意的作品，然后全选导出图片，选择Google AI studio 继续构建\n\n 5，做完后，点击 build 生成可交互前端界面（代码渲染）\n\n6，下载代码，后续开发交给 Claude Code 或其他 Agent完成 UI 的适配。\n\n打完收工！",
+        "created_at": "Sun Apr 05 16:29:28 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2040828217737830400",
+            "url": "https://pbs.twimg.com/media/HFJ6c4XbYAAcXGA.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2445001998",
+          "name": "冰河",
+          "screen_name": "binghe",
+          "description": "🎉 爱技术，爱赚钱，爱分享！\n\n🐬 分享 赚钱项目 ｜打破信息壁垒 ｜副业避坑\n\n🌻 能拆解的赚钱项目才有意义\n\n🪐 知识星球社群/公众号：“钱来有道” \n\n🌌 小宇宙 |Podcasts |QQ音乐  播客 “钱来有道”\n\n🎀 搞钱训练营  https://t.co/58qRl0IBTf",
+          "followers_count": 43094,
+          "friends_count": 235,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 46,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040850151405707702",
+      "text": "开源项目推荐：Claude Island\nMac 灵动岛 Claude Code 通知管理器\n\nClaude Code 用得越多，越离不开终端，但也越烦一个事：它每次要执行文件操作或运行命令时都需要你切回终端窗口点批准。开发者 farouqaldori 做了个小工具 Claude Island，把这个流程搬到了 MacBook 的刘海区域。\n\n这是一个 macOS 原生应用，用 Swift 写的，装好之后会在刘海位置显示一个可展开的浮层。Claude Code 运行时，它实时追踪会话状态。需要授权的时候，刘海区弹出批准/拒绝按钮，点一下就行，不用切窗口。\n\n原理不复杂：应用会在 ~/.claude/hooks/ 目录下安装钩子脚本，通过 Unix socket 和 Claude Code 通信，监听会话事件。首次启动自动配置，不需要手动折腾。\n\n除了权限审批，它还能查看完整的对话历史，支持 Markdown 渲染，同时管理多个 Claude Code 会话。对于同时开好几个项目的开发者来说，省去了在多个终端标签页之间来回切换的麻烦。\n\n要求 macOS 15.6 以上，目前已发布 3 个版本，可以直接下载安装，也可以从源码编译。代码开源，Apache 2.0 协议。\n\n值得一提的是，应用集成了 Mixpanel 做匿名使用统计，会采集应用版本和会话启动事件，但声明不收集对话内容和个人数据。介意的话需要留意一下。\n\n用 Claude Code 干活但又不想一直盯着终端的 Mac 用户，可以试试看，是个轻量的效率补丁。",
+      "created_at": "Sun Apr 05 17:52:47 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2040849748232634369",
+          "url": "https://pbs.twimg.com/media/HFKOCHtaAAENwFc.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2040246806509195312",
+        "text": "@dotey https://t.co/TwYxGXWnEs\n和这个很像，不过这个是开源的，而且很久没更新了",
+        "created_at": "Sat Apr 04 01:55:19 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1618259331279118344",
+          "name": "波瀾万Jo",
+          "screen_name": "panda_ai_agent",
+          "description": "全栈工程师，LLM爱好者，INTP。欢迎会日语的朋友（数据工程师，LLM工程师，前后端工程师）投递简历",
+          "followers_count": 7,
+          "friends_count": 228,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 8,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040854097838952598",
+      "text": "小米 MiMo 团队负责人罗福莉：\n全球算力跟不上 Agent 时代的 Token 消耗，出路不是更便宜的 Token，而是更省 Token 的框架和更高效的模型共同进化。\n\n一个技术细节：\nOpenClaw 的上下文管理做得非常糟糕。一个用户请求会触发多轮低价值的工具调用，每次都带着超过 10 万 Token 的长上下文窗口，实际请求次数是 Claude Code 自身框架的好几倍。换算成 API 价格，真实成本可能是订阅价的几十倍。\n\n罗福莉提了两个观点：\n第一，短期阵痛反而是好事。第三方框架被迫走 API 付费后，成本压力会倒逼它们改进上下文管理、提高 prompt 缓存命中率、减少无效 Token 消耗。\n\n第二，呼吁其他大模型公司不要在没想清楚定价模型之前盲目打价格战。低价卖 Token 的同时对第三方框架大开门户，看着对用户友好，实际是个陷阱，Anthropic 刚从这个坑里爬出来。",
+      "created_at": "Sun Apr 05 18:08:28 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040825059342721520",
+        "text": "Two days ago, Anthropic cut off third-party harnesses from using Claude subscriptions — not surprising. Three days ago, MiMo launched its Token Plan — a design I spent real time on, and what I believe is a serious attempt at getting compute allocation and agent harness development right. Putting these two things together, some thoughts:\n\n1. Claude Code's subscription is a beautifully designed system for balanced compute allocation. My guess — it doesn't make money, possibly bleeds it, unless their API margins are 10-20x, which I doubt. I can't rigorously calculate the losses from third-party harnesses plugging in, but I've looked at OpenClaw's context management up close — it's bad. Within a single user query, it fires off rounds of low-value tool calls as separate API requests, each carrying a long context window (often >100K tokens) — wasteful even with cache hits, and in extreme cases driving up cache miss rates for other queries. The actual request count per query ends up several times higher than Claude Code's own framework. Translated to API pricing, the real cost is probably tens of times the subscription price. That's not a gap — that's a crater.\n\n2. Third-party harnesses like OpenClaw/OpenCode can still call Claude via API — they just can't ride on subscriptions anymore. Short term, these agent users will feel the pain, costs jumping easily tens of times. But that pressure is exactly what pushes these harnesses to improve context management, maximize prompt cache hit rates to reuse processed context, cut wasteful token burn. Pain eventually converts to engineering discipline.\n\n3. I'd urge LLM companies not to blindly race to the bottom on pricing before figuring out how to price a coding plan without hemorrhaging money. Selling tokens dirt cheap while leaving the door wide open to third-party harnesses looks nice to users, but it's a trap — the same trap Anthropic just walked out of. The deeper problem: if users burn their attention on low-quality agent harnesses, highly unstable and slow inference services, and models downgraded to cut costs, only to find they still can't get anything done — that's not a healthy cycle for user experience or retention.\n\n4. On MiMo Token Plan — it supports third-party harnesses, billed by token quota, same logic as Claude's newly launched extra usage packages. Because what we're going for is long-term stable delivery of high-quality models and services — not getting you to impulse-pay and then abandon ship.\n\nThe bigger picture: global compute capacity can't keep up with the token demand agents are creating. The real way forward isn't cheaper tokens — it's co-evolution. \"More token-efficient agent harnesses\" × \"more powerful and efficient models.\" Anthropic's move, whether they intended it or not, is pushing the entire ecosystem — open source and closed source alike — in that direction. That's probably a good thing. The Agent era doesn't belong to whoever burns the most compute. It belongs to whoever uses it wisely.",
+        "created_at": "Sun Apr 05 16:13:05 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1721721873095155712",
+          "name": "Fuli Luo",
+          "screen_name": "_LuoFuli",
+          "description": "Now building @XiaomiMiMo. Previously @deepseek_ai",
+          "followers_count": 54101,
+          "friends_count": 149,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 41,
+          "favorite_count": 310,
+          "reply_count": 39,
+          "quote_count": 19
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040854544779755670",
+      "text": "@Michaelzsguo : 很多浪费其实都来自设计不佳的 harness，小龙虾就是一个例子。\nhttps://t.co/dzQOdW4JQa",
+      "created_at": "Sun Apr 05 18:10:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040844920475287733",
+        "text": "罗福莉刚刚写了一篇很不错的文章。即使 Anthropic 正在切断 OpenClaw 这类第三方 agent 对 Claude 订阅的接入，罗福莉依然给整个 AI 生态提供了一个相对乐观的视角。\n\n我很同意罗福莉说的很多浪费其实都来自设计不佳的 harness，小龙虾就是一个例子。它们在每次查询时发起多次高上下文 API 调用，拉低 cache hit rate，又白白烧掉大量 tokens。Anthropic 的这个决定，反而会倒逼整个生态在 context management、prompt caching 和整体效率上做得更好。这样的约束，往往最终会催生出真正的工程纪律，也会逼出新的创造力。\n\n现在用 Claude，或者想办法给 Claude Code “薅到一个划算的 deal”，有时候真的像在菜市场里讨价还价，因为 token economics 已经成了最核心的问题。大家都在焦虑，自己的 tokens 或订阅额度到底会以多快的速度被烧光。我们也都害怕看到那句提示：“Your session will be refreshed at 3 a.m.” 也许，真正的后备方案只有本地模型，而最近 Gemma 4 这样的模型也说明了，这条路正在一天比一天更有吸引力。",
+        "created_at": "Sun Apr 05 17:32:00 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2040844790321807360",
+            "url": "https://pbs.twimg.com/media/HFKJhiDWgAAQhis.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1479852652150337542",
+          "name": "Michael Guo",
+          "screen_name": "Michaelzsguo",
+          "description": "Building AI agents and AI-native orgs. Demystifying AI in practice.  EN/中文",
+          "followers_count": 746,
+          "friends_count": 361,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
       "stats": {
         "retweet_count": 0,
         "favorite_count": 0,
