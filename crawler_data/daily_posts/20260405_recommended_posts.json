@@ -1,12 +1,225 @@
 {
   "date": "20260405",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-05T06:28:58.525661",
-  "tweet_count": 212,
-  "unique_tweet_count": 212,
-  "total_crawled": 402,
-  "duplicates_removed": 190,
+  "last_crawl_time": "2026-04-05T08:14:01.507655",
+  "tweet_count": 215,
+  "unique_tweet_count": 215,
+  "total_crawled": 412,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2040692685359734898",
+      "text": "RT @XFreeze: The videos feel so incredibly real and are filled with amazing details and genuine emotion https://t.co/lNtwL8fIon",
+      "created_at": "Sun Apr 05 07:27:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2040686599415996416",
+          "url": "https://video.twimg.com/amplify_video/2040686599415996416/vid/avc1/954x720/pF_eEMtgxIdp2aAd.mp4?tag=24",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2040687457058906395",
+        "text": "The videos feel so incredibly real and are filled with amazing details and genuine emotion https://t.co/lNtwL8fIon",
+        "created_at": "Sun Apr 05 07:06:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040686599415996416",
+            "url": "https://video.twimg.com/amplify_video/2040686599415996416/vid/avc1/954x720/pF_eEMtgxIdp2aAd.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 179107,
+          "friends_count": 1700,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 137,
+          "favorite_count": 776,
+          "reply_count": 239,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237797194,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 137,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040690357680374241",
+      "text": "RT @AdamLowisz: Grok Imagine has gotten real good. These are Hollywood level quality of video. https://t.co/5cNezLczSG",
+      "created_at": "Sun Apr 05 07:17:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2040672389219188736",
+          "url": "https://video.twimg.com/ext_tw_video/2040672389219188736/pu/vid/avc1/720x1072/jVdM4UA8ScRW1WaG.mp4?tag=22",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2040672413428379992",
+        "text": "Grok Imagine has gotten real good. These are Hollywood level quality of video. https://t.co/5cNezLczSG",
+        "created_at": "Sun Apr 05 06:06:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040672389219188736",
+            "url": "https://video.twimg.com/ext_tw_video/2040672389219188736/pu/vid/avc1/720x1072/jVdM4UA8ScRW1WaG.mp4?tag=22",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2040449311738110298",
+          "text": "Another Grok Imagine upgrade. Update now.\n\nEverything’s tighter. Subtle movement lands. It just flows.\n\nDetails lock in. xAI engineers showing off.\n\n@Grok https://t.co/rGF1Y91jME",
+          "created_at": "Sat Apr 04 15:20:00 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2040445661284622336",
+              "url": "https://video.twimg.com/amplify_video/2040445661284622336/vid/avc1/960x960/DbXzZbp4ZZbdHLwK.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KgAW",
+            "followers_count": 3296505,
+            "friends_count": 50988,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 211,
+            "favorite_count": 968,
+            "reply_count": 159,
+            "quote_count": 12
+          }
+        },
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 51687,
+          "friends_count": 6241,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 95,
+          "favorite_count": 568,
+          "reply_count": 129,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237797194,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 95,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040685567592317031",
+      "text": "Try using the X API",
+      "created_at": "Sun Apr 05 06:58:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040675469763510393",
+        "text": "Met a founding engineer today from @Replit.  Jen Li. We were both judging the @Pokee_AI hackathon.\n\nThey have me some credits and I built two apps in 20 minutes using the X API:a weather one which mapped storms being reported in by my climate scientist list and another monitoring my three news lists for information about the Iran war.\n\nPokee includes X API for its customers automatically.\n\nWhile doing that my other AI read all your posts: https://t.co/8L5xphk0qQ\n\nHe tells me about why Replit is hugely important in the AI industry. In other words how you can use it in your life and business.",
+        "created_at": "Sun Apr 05 06:18:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040673820655398912",
+            "url": "https://video.twimg.com/amplify_video/2040673820655398912/vid/avc1/1920x1080/muk7ml02MID4plCZ.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "13348",
+          "name": "Robert Scoble",
+          "screen_name": "Scobleizer",
+          "description": "San Francisco/Silicon Valley AI | Robots, holodecks, BCIs, analysis of new things | Ex-Microsoft, Rackspace, Fast Company | Wrote eight books about the future.",
+          "followers_count": 570015,
+          "friends_count": 42778,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 40,
+          "favorite_count": 290,
+          "reply_count": 68,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237797194,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 488,
+        "favorite_count": 3539,
+        "reply_count": 822,
+        "quote_count": 36
+      }
+    },
     {
       "id": "2040673011771289918",
       "text": "Exactly",
