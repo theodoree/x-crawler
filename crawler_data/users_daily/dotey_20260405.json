@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 205852,
+    "followers_count": 205878,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260405",
-  "last_updated": "2026-04-05T14:13:48.942990",
-  "tweet_count": 1,
+  "last_updated": "2026-04-05T16:10:26.216793",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2040659186070040584",
@@ -24,6 +24,75 @@
         "favorite_count": 63,
         "reply_count": 2,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2040812260138869077",
+      "text": "RT @Jackywine: 自从团队有大聪明开始手写代码",
+      "created_at": "Sun Apr 05 15:22:13 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2040663094989668734",
+        "text": "自从团队有大聪明开始手写代码",
+        "created_at": "Sun Apr 05 05:29:30 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "1902744185922257189",
+          "text": "“自从团队开始用了 AI 写代码” https://t.co/wCsfk2U44S",
+          "created_at": "Thu Mar 20 15:28:59 +0000 2025",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "1902744065780916225",
+              "url": "https://pbs.twimg.com/media/GmfnpYtaoAEiCoX.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3178231",
+            "name": "宝玉",
+            "screen_name": "dotey",
+            "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+            "followers_count": 205878,
+            "friends_count": 1597,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 158,
+            "favorite_count": 3096,
+            "reply_count": 116,
+            "quote_count": 27
+          }
+        },
+        "user": {
+          "id": "1404738934043602947",
+          "name": "Jackywine",
+          "screen_name": "Jackywine",
+          "description": "Prompt Engineer | Open-Source AI Enthusiast | NVIDIA,OpenAI,DeepMind,xAI·用户\n不过是工作之余分享一些 AI、设计、产品、一人公司的普通网友罢了\n✈️Telegram channel：https://t.co/HRpOru3LUj",
+          "followers_count": 38201,
+          "friends_count": 3274,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 7,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

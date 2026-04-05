@@ -1,12 +1,251 @@
 {
   "date": "20260405",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-05T14:13:48.888735",
-  "tweet_count": 215,
-  "unique_tweet_count": 215,
+  "last_crawl_time": "2026-04-05T16:10:26.190791",
+  "tweet_count": 219,
+  "unique_tweet_count": 219,
   "total_crawled": 415,
-  "duplicates_removed": 200,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2040812260138869077",
+      "text": "RT @Jackywine: 自从团队有大聪明开始手写代码",
+      "created_at": "Sun Apr 05 15:22:13 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2040663094989668734",
+        "text": "自从团队有大聪明开始手写代码",
+        "created_at": "Sun Apr 05 05:29:30 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "1902744185922257189",
+          "text": "“自从团队开始用了 AI 写代码” https://t.co/wCsfk2U44S",
+          "created_at": "Thu Mar 20 15:28:59 +0000 2025",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "1902744065780916225",
+              "url": "https://pbs.twimg.com/media/GmfnpYtaoAEiCoX.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3178231",
+            "name": "宝玉",
+            "screen_name": "dotey",
+            "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+            "followers_count": 205878,
+            "friends_count": 1597,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 158,
+            "favorite_count": 3096,
+            "reply_count": 116,
+            "quote_count": 27
+          }
+        },
+        "user": {
+          "id": "1404738934043602947",
+          "name": "Jackywine",
+          "screen_name": "Jackywine",
+          "description": "Prompt Engineer | Open-Source AI Enthusiast | NVIDIA,OpenAI,DeepMind,xAI·用户\n不过是工作之余分享一些 AI、设计、产品、一人公司的普通网友罢了\n✈️Telegram channel：https://t.co/HRpOru3LUj",
+          "followers_count": 38201,
+          "friends_count": 3274,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 7,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 205878,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040806249957339311",
+      "text": "RT @XFreeze: Grok 4.20 Multi-Agent just ranked #1 on Search Arena (Style Control)\n\nGrok 4.20 set a new industry record on AA-Omniscience wi…",
+      "created_at": "Sun Apr 05 14:58:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2040701694606999774",
+        "text": "Grok 4.20 Multi-Agent just ranked #1 on Search Arena (Style Control)\n\nGrok 4.20 set a new industry record on AA-Omniscience with 78% accuracy - the lowest hallucination rate ever recorded on the benchmark\n\nBeats Claude Opus 4.6 &amp; Gemini 3.1 Pro https://t.co/LveQ1Gzx9H",
+        "created_at": "Sun Apr 05 08:02:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2040692985180946432",
+            "url": "https://pbs.twimg.com/media/HFH_dT1XgAAsSMd.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 179045,
+          "friends_count": 1700,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 233,
+          "favorite_count": 1279,
+          "reply_count": 232,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237796363,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 233,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040806082285850652",
+      "text": "RT @yunta_tsai: I was sitting at the Cybercab production line, working late at night. One associate saw me and came over to ask how I was d…",
+      "created_at": "Sun Apr 05 14:57:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2040614135139016783",
+        "text": "I was sitting at the Cybercab production line, working late at night. One associate saw me and came over to ask how I was doing. Then his eyes glittered. “One day I am going to apply for a job on the moon so that my grandchildren will be proud.”\n\nWhat a spirit.",
+        "created_at": "Sun Apr 05 02:14:57 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1577705091737432070",
+          "name": "Yun-Ta Tsai",
+          "screen_name": "yunta_tsai",
+          "description": "Sr. Staff Engineer  @Tesla_AI",
+          "followers_count": 69541,
+          "friends_count": 216,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 316,
+          "favorite_count": 3686,
+          "reply_count": 208,
+          "quote_count": 34
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237796363,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 316,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040805943408202036",
+      "text": "RT @WallStreetMav: SpaceX now has over 10,000 Starlink satellites in orbit (and growing), providing internet data service to every corner o…",
+      "created_at": "Sun Apr 05 14:57:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2040760018316808233",
+        "text": "SpaceX now has over 10,000 Starlink satellites in orbit (and growing), providing internet data service to every corner of the earth. Even ships at sea or aircraft in the sky can receive high speed internet service.\n\nOver 2/3 of the active satellites in orbit are Starlink now. And it won't create any long term trash in orbit. The orbits are so low (480 km to 550 km) that even if SpaceX were to lose control of one, the small satellites will run out of fuel within 5 years. Then they get dragged back into the atmosphere and burn up.\n\nEvery satellite is in a lane to avoid other Starlink satellites. They all are connected to a collusion avoidance system and can make small course adjustments if needed.\n\nStarlink can provide high speed internet anywhere on the planet without having to bury expensive fiber cables underground or undersea. All you need is a small dish which scans the sky for the closest satellite to provide internet connectivity.",
+        "created_at": "Sun Apr 05 11:54:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040757869608570881",
+            "url": "https://video.twimg.com/amplify_video/2040757869608570881/vid/avc1/630x670/LpeKhgGCZqk6h6MU.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1366565625401909249",
+          "name": "Wall Street Mav",
+          "screen_name": "WallStreetMav",
+          "description": "Finance, economics, news, memes. Follow and Tap the .... (🔔 +Notify)",
+          "followers_count": 1732545,
+          "friends_count": 820,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 321,
+          "favorite_count": 1457,
+          "reply_count": 248,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237796363,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 321,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2040692685359734898",
       "text": "RT @XFreeze: The videos feel so incredibly real and are filled with amazing details and genuine emotion https://t.co/lNtwL8fIon",
