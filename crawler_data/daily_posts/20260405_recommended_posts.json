@@ -1,12 +1,172 @@
 {
   "date": "20260405",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-05T20:08:55.781328",
-  "tweet_count": 235,
-  "unique_tweet_count": 235,
-  "total_crawled": 429,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-04-05T22:08:52.714772",
+  "tweet_count": 238,
+  "unique_tweet_count": 238,
+  "total_crawled": 435,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2040901249466593766",
+      "text": "This is the way",
+      "created_at": "Sun Apr 05 21:15:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040817426070171812",
+        "text": "Je crois qu'on ne mesure pas ce qu'Elon Musk est en train de construire avec X.\n\nTous les médias de l'histoire ont été couplés à une culture, une langue, une bulle géographique. Le Monde parle aux Français. Le NYT parle aux Américains. NHK parle aux Japonais. Chaque média filtre le réel à travers le prisme de sa culture locale.\n\nX est en train de devenir le premier média de l'humanité. Pas d'un pays. De l'espèce.\n\nJe le vis en temps réel. Mes posts en français se font RT par des Japonais, répondre par des Brésiliens, citer par des Américains. Des conversations qui n'auraient jamais existé il y a 5 ans. Un libertarien français qui débat avec un ingénieur de Tokyo et un entrepreneur de Sao Paulo sous le même tweet. Pas traduit par un éditeur. Traduit instantanément par l'IA, en un clic.\n\nLes bulles de filtre culturelles sont en train d'exploser.\n\nEt je pense qu'on sous-estime massivement les effets composés de ça.\n\nQuand une idée peut traverser un océan en 3 secondes, quand un argument sourcé posté à Paris peut être vérifié par un économiste à Singapour et amplifié par un développeur à Austin dans la même heure, le coût de propagation d'une bonne idée tend vers zéro.\n\nEt c'est catastrophique pour un type d'acteur très précis : les médias qui ont construit leur business model sur le monopole de l'information locale. Ceux qui pouvaient raconter n'importe quoi sur \"ce qui se passe ailleurs\" parce que personne ne pouvait vérifier.\n\nQuand un journaliste français écrit que \"le modèle américain ne marche pas\", maintenant il y a 50 Américains dans les réponses avec des sources. Quand un éditorialiste dit que \"le Danemark prouve que le socialisme fonctionne\", il y a un Danois qui explique que le Danemark est 10e en liberté économique mondiale.\n\nLe fact-checking n'est plus un département. C'est un effet réseau.\n\nLes médias honnêtes n'ont rien à craindre de ça. Les médias qui vendaient une narration protégée par l'ignorance géographique de leur audience vont avoir un problème existentiel.\n\nParce qu'on ne peut plus mentir à l'échelle locale quand le monde entier regarde.",
+        "created_at": "Sun Apr 05 15:42:45 +0000 2026",
+        "lang": "fr",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1874492187070615552",
+          "name": "Brivael - FR",
+          "screen_name": "BrivaelFr",
+          "description": "Co fondateur @argildotai (YC S24) techno optimiste libertarian allergique au bullshit | Moi ou mes agents IA te répondent. Si ça semble con, c'est un miroir.",
+          "followers_count": 16969,
+          "friends_count": 250,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1896,
+          "favorite_count": 8258,
+          "reply_count": 561,
+          "quote_count": 220
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237807367,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1518,
+        "favorite_count": 12912,
+        "reply_count": 1412,
+        "quote_count": 59
+      }
+    },
+    {
+      "id": "2040900054144393477",
+      "text": "Cool",
+      "created_at": "Sun Apr 05 21:11:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040879055990632715",
+        "text": "The @vercel team is always listening and engaging with customers on @x. We shape the product as a result of these conversations.\n\nVercel gives us the velocity to ship, X gives us a nonstop stream of user feedback. Thanks @simhskal &amp; @riyvir!",
+        "created_at": "Sun Apr 05 19:47:39 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15540222",
+          "name": "Guillermo Rauch",
+          "screen_name": "rauchg",
+          "description": "@vercel CEO",
+          "followers_count": 417867,
+          "friends_count": 651,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 476,
+          "reply_count": 48,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237807367,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 477,
+        "favorite_count": 3771,
+        "reply_count": 654,
+        "quote_count": 18
+      }
+    },
+    {
+      "id": "2040899426018021856",
+      "text": "Try the Easter templates on Grok Imagine",
+      "created_at": "Sun Apr 05 21:08:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2040862024964477359",
+        "text": "New grok imagine Easter template. \n\nFirst week on the job and it’s Easter. \n\nWhich one of these cute cards do I send my new co-workers? \n\nThey’re a fun bunch. \n\nQuick! https://t.co/vHf3WAInZp",
+        "created_at": "Sun Apr 05 18:39:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040861973018226688",
+            "url": "https://video.twimg.com/amplify_video/2040861973018226688/vid/avc1/480x640/33Mwg0pt2Urvjaty.mp4?tag=24",
+            "bitrate": 5184000
+          },
+          {
+            "type": "video",
+            "id": "2040861972863049728",
+            "url": "https://video.twimg.com/amplify_video/2040861972863049728/vid/avc1/720x1072/EcXXeHvORFTpJlD9.mp4?tag=24",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "35787166",
+          "name": "Nicki Minaj",
+          "screen_name": "NICKIMINAJ",
+          "description": "🇺🇸 #PinkFriday2 THE ALBUM is OUT NOW #PinkFriday2FRAGRANCE out now 🎀 @PinkFridayNails 💅🏽 @locibynickim LØCi 👟",
+          "followers_count": 26171187,
+          "friends_count": 6973,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1126,
+          "favorite_count": 7934,
+          "reply_count": 1247,
+          "quote_count": 212
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237807367,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 821,
+        "favorite_count": 8037,
+        "reply_count": 1331,
+        "quote_count": 67
+      }
+    },
     {
       "id": "2040864550594252813",
       "text": "Honest feedback is the goal of Grok",
