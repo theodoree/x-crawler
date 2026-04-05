@@ -1,0 +1,111 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "https://t.co/dDtDyVssfm",
+    "followers_count": 237800643,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260405",
+  "last_updated": "2026-04-05T03:05:40.384381",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2040597982555562006",
+      "text": "RT @yunta_tsai: One day. https://t.co/95c0QJ5xDk",
+      "created_at": "Sun Apr 05 01:10:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2040590149734813696",
+          "url": "https://pbs.twimg.com/media/HFGh7f8a0AAzx9I.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2040590152943444128",
+        "text": "One day. https://t.co/95c0QJ5xDk",
+        "created_at": "Sun Apr 05 00:39:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2040590149734813696",
+            "url": "https://pbs.twimg.com/media/HFGh7f8a0AAzx9I.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1577705091737432070",
+          "name": "Yun-Ta Tsai",
+          "screen_name": "yunta_tsai",
+          "description": "Sr. Staff Engineer  @Tesla_AI",
+          "followers_count": 69257,
+          "friends_count": 216,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 337,
+          "favorite_count": 2932,
+          "reply_count": 472,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 337,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2040599116825444861",
+      "text": "RT @XFreeze: ChatGPT literally just flagged the Seven Last Words of Jesus on Good Friday....hit a policy violation &amp; marked it as \"dangerou…",
+      "created_at": "Sun Apr 05 01:15:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2040493753694118188",
+        "text": "ChatGPT literally just flagged the Seven Last Words of Jesus on Good Friday....hit a policy violation & marked it as \"dangerous\" 🤦\n\nMy friend was just doing sermon research. That's it.\n\nBut here's the wild part..... ChatGPT has no problem giving a step-by-step guide for suicide… yet somehow a quote from the Bible is marked as harmful and blocked as a policy violation\n\nMake it make sense...ChatGPT is just utterly woke AI 🤡",
+        "created_at": "Sat Apr 04 18:16:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2040487000613310464",
+            "url": "https://pbs.twimg.com/media/HFFEHbhb0AAw3AM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 179109,
+          "friends_count": 1700,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1174,
+          "favorite_count": 5904,
+          "reply_count": 665,
+          "quote_count": 93
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1174,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
