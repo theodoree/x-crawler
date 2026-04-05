@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237809487,
+    "followers_count": 237809152,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260404",
-  "last_updated": "2026-04-04T22:08:19.587327",
-  "tweet_count": 16,
+  "last_updated": "2026-04-05T00:26:23.020018",
+  "tweet_count": 18,
   "tweets": [
     {
       "id": "2040356683378196967",
@@ -708,6 +708,72 @@
         "favorite_count": 5042,
         "reply_count": 909,
         "quote_count": 31
+      }
+    },
+    {
+      "id": "2040564169888669961",
+      "text": "This is accurate\nhttps://t.co/xZfdyZnCQT",
+      "created_at": "Sat Apr 04 22:56:24 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 934,
+        "favorite_count": 6502,
+        "reply_count": 984,
+        "quote_count": 30
+      }
+    },
+    {
+      "id": "2040575646557261915",
+      "text": "RT @PaulYacoubian: Elon’s data centers are absolute units https://t.co/uJM4MthnUa",
+      "created_at": "Sat Apr 04 23:42:00 +0000 2026",
+      "lang": "ca",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2040491437976915968",
+          "url": "https://pbs.twimg.com/media/HFFIJt_XEAAZ8My.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2040491442754203758",
+        "text": "Elon’s data centers are absolute units https://t.co/uJM4MthnUa",
+        "created_at": "Sat Apr 04 18:07:25 +0000 2026",
+        "lang": "ca",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2040491437976915968",
+            "url": "https://pbs.twimg.com/media/HFFIJt_XEAAZ8My.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "175934436",
+          "name": "Paul Yacoubian",
+          "screen_name": "PaulYacoubian",
+          "description": "Growth Advisory | Angel investor in kled, dub, dimensional, wiselayer (acq), circle, replit, anduril, replicate (acq) | Founder/CEO https://t.co/Qy1IFm39la (acq)",
+          "followers_count": 44482,
+          "friends_count": 2214,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 208,
+          "favorite_count": 1950,
+          "reply_count": 178,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 208,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
