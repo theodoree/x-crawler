@@ -1,12 +1,454 @@
 {
   "date": "20260406",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-06T16:18:05.264294",
-  "tweet_count": 228,
-  "unique_tweet_count": 228,
-  "total_crawled": 426,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-04-06T18:20:26.080670",
+  "tweet_count": 236,
+  "unique_tweet_count": 236,
+  "total_crawled": 428,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2041211971979382939",
+      "text": "RT @alx: These are the Twitter/X accounts with the most engagement so far in 2026. I suppose I had some intuition for how bad it was, but j…",
+      "created_at": "Mon Apr 06 17:50:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041156719326203916",
+        "text": "These are the Twitter/X accounts with the most engagement so far in 2026. I suppose I had some intuition for how bad it was, but jeez, this is what you get when the ecosystem is broken. https://t.co/JG3vBracN3",
+        "created_at": "Mon Apr 06 14:10:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041156713957445632",
+            "url": "https://pbs.twimg.com/media/HFOlN4JWUAAysGJ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "534023",
+          "name": "ALX 🇺🇸",
+          "screen_name": "alx",
+          "description": "American Supremacist.",
+          "followers_count": 1040581,
+          "friends_count": 4463,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 176,
+          "favorite_count": 1222,
+          "reply_count": 286,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237815372,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 176,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041211723521347972",
+      "text": "Yes",
+      "created_at": "Mon Apr 06 17:49:33 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041183429526540389",
+        "text": "Elon Musk nails exactly why the woke mind virus is fundamentally racist, sexist, and evil:\n\n\"Woke mind virus is when you stop caring about people's skills and their integrity\n\nAnd you start focusing instead on gender and race and other things that are different from that\"\n\nIt's the ultimate disguise: \"It basically gives mean people a shield to be mean and cruel, armored in false virtue\"\n\nMeritocracy > Identity politics 🎯",
+        "created_at": "Mon Apr 06 15:57:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041175502271160320",
+            "url": "https://video.twimg.com/amplify_video/2041175502271160320/vid/avc1/1080x1080/nNQFQT-IVL2uheYQ.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 182599,
+          "friends_count": 1705,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 449,
+          "favorite_count": 1877,
+          "reply_count": 132,
+          "quote_count": 24
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237815372,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1669,
+        "favorite_count": 9679,
+        "reply_count": 843,
+        "quote_count": 41
+      }
+    },
+    {
+      "id": "2041208184392798550",
+      "text": "Did you know Tesla FSD was this good?",
+      "created_at": "Mon Apr 06 17:35:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041206068622024963",
+        "text": "Based on Tesla's latest Vehicle Safety Report (as of April 2026), FSD (Supervised) is 7x safer than the US average human driver—1 crash every ~5-7 million miles vs. ~660k for humans, with over 9 billion miles of data.\n\nOn a 1-10 scale (10 being zero risk, perfect autonomy), I'd rate it an **8.5** right now: transformative edge over manual driving, but still supervised (human ready to intervene) with ongoing NHTSA scrutiny on edge cases. Data keeps improving quarterly.",
+        "created_at": "Mon Apr 06 17:27:05 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1720665183188922368",
+          "name": "Grok",
+          "screen_name": "grok",
+          "description": "https://t.co/fqNKQSiLQB\n@grok it",
+          "followers_count": 8539442,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 60,
+          "favorite_count": 511,
+          "reply_count": 79,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237815372,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 678,
+        "favorite_count": 5340,
+        "reply_count": 1283,
+        "quote_count": 56
+      }
+    },
+    {
+      "id": "2041207954293313631",
+      "text": "RT @PTrubey: @elonmusk Yep. FSD served around a freeway obstruction at night once for me. Reacted faster than I could.",
+      "created_at": "Mon Apr 06 17:34:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041205103747874950",
+        "text": "@elonmusk Yep. FSD served around a freeway obstruction at night once for me. Reacted faster than I could.",
+        "created_at": "Mon Apr 06 17:23:15 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "990361260",
+          "name": "Phil Trubey",
+          "screen_name": "PTrubey",
+          "description": "Looking for AI startups with fundamental technology.",
+          "followers_count": 12225,
+          "friends_count": 804,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 114,
+          "favorite_count": 708,
+          "reply_count": 84,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237815372,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 114,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041207869438378158",
+      "text": "Yes",
+      "created_at": "Mon Apr 06 17:34:14 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041205337601032358",
+        "text": "@elonmusk Tesla will continue to improve. It will eventually hit the point where it will save 99% of the lives that could have been lost in an accident. We are going to live in a better future with fewer fatalities. Insurance premiums will also come down significantly.",
+        "created_at": "Mon Apr 06 17:24:10 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "17050482",
+          "name": "Adam Lowisz X Meetup 🇺🇸🇵🇱🇪🇺🇬🇧🇺🇦",
+          "screen_name": "AdamLowisz",
+          "description": "Organizing Adam's X Meetups and other events. Click follow! Visit https://t.co/UMpXgz27hD for the next event. Volunteer and help @ElonMusk make X a force for good",
+          "followers_count": 51730,
+          "friends_count": 6251,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 629,
+          "reply_count": 122,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237815372,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 850,
+        "favorite_count": 8978,
+        "reply_count": 1153,
+        "quote_count": 30
+      }
+    },
+    {
+      "id": "2041206859500233143",
+      "text": "RT @Similarweb: Tesla app hits 8.9M monthly active users in Feb 2026, almost 1:1 with the ~9M vehicle fleet, indicating strong owner engage…",
+      "created_at": "Mon Apr 06 17:30:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041091291573018935",
+        "text": "Tesla app hits 8.9M monthly active users in Feb 2026, almost 1:1 with the ~9M vehicle fleet, indicating strong owner engagement. https://t.co/yRPVyfBeXI",
+        "created_at": "Mon Apr 06 09:51:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038917073917665280",
+            "url": "https://pbs.twimg.com/media/HEuwRq1XYAA-CfU.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "24683972",
+          "name": "Similarweb",
+          "screen_name": "Similarweb",
+          "description": "The World’s Leading AI-Powered Digital Data Company. Listed on @NYSE: $SMWB",
+          "followers_count": 61845,
+          "friends_count": 288,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 137,
+          "favorite_count": 903,
+          "reply_count": 132,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237815372,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 137,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041204649135591621",
+      "text": "Tesla self-driving saves a lot of lives – the statistics are unequivocal. \n\nThat doesn’t mean it’s perfect, of course. \n\nEven when we improve safety 10X, saving 90% of the million lives lost in auto accidents every year, Tesla will still get sued for the 10% who did die. The 90% who are still alive mostly won’t even know that Tesla saved them. \n\nNonetheless, it is the right thing to do.",
+      "created_at": "Mon Apr 06 17:21:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041190502473597431",
+        "text": "Tesla FSD just saved two lives on the highway. \n\nA man walked straight into traffic in heavy fog/rain at 65+ mph. The Model 3 spotted him and swerved safely. Could’ve been fatal for both the pedestrian and my cousin driving. Insane reaction time.\n\nGrateful for @elonmusk @Tesla https://t.co/wxIDmlcz8U",
+        "created_at": "Mon Apr 06 16:25:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041185306305556480",
+            "url": "https://video.twimg.com/amplify_video/2041185306305556480/vid/avc1/724x470/PEp9SHRY3vegNdNK.mp4?tag=21",
+            "bitrate": 832000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1695368724209971201",
+          "name": "Elliot Cohen",
+          "screen_name": "ElliotCohe74430",
+          "description": "@doge | @blackstone | @carnegiemellon",
+          "followers_count": 39,
+          "friends_count": 56,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 107,
+          "favorite_count": 807,
+          "reply_count": 131,
+          "quote_count": 14
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237815372,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1821,
+        "favorite_count": 13598,
+        "reply_count": 1634,
+        "quote_count": 94
+      }
+    },
+    {
+      "id": "2041194399254667392",
+      "text": "RT @virushuo: 所有在计算机上的操作实际上都是重复劳动。软件工程解决的问题是：如何在无限的用户需求和有限的系统/开发资源中取得平衡，在有限的成本下完成维护。\n\n没有什么是AI做不了的。这个论调不是今年才有的，从有软件这一天这就是软件工程的终极目标。但就算有了AI，仍…",
+      "created_at": "Mon Apr 06 16:40:42 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2041163627554578559",
+        "text": "所有在计算机上的操作实际上都是重复劳动。软件工程解决的问题是：如何在无限的用户需求和有限的系统/开发资源中取得平衡，在有限的成本下完成维护。\n\n没有什么是AI做不了的。这个论调不是今年才有的，从有软件这一天这就是软件工程的终极目标。但就算有了AI，仍然需要解决这些平衡问题和维护成本问题",
+        "created_at": "Mon Apr 06 14:38:26 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2040772808696070420",
+          "text": "这是 CRUD 工程师，不分前端或后端。\n\n有品味的前端，在 AI 时代已摇身一变成为产品工程师或者 OPC 创业者。\n\n前端不可能消亡，除非后续，真的不需要碳基的人，一切都是 agents 硅基的世界。\n\n然而，碳基不可能消亡。比碳基人类更强大的，在地球上很多，比如碳基绿植。只要植物一死，人类和硅基会全部消亡。",
+          "created_at": "Sun Apr 05 12:45:27 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "16681326",
+            "name": "Frank Wang 玉伯",
+            "screen_name": "lifesinger",
+            "description": "I am curious and honest",
+            "followers_count": 34386,
+            "friends_count": 1164,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3,
+            "favorite_count": 76,
+            "reply_count": 11,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "49913",
+          "name": "virushuo",
+          "screen_name": "virushuo",
+          "description": "Back to the 2006.  Screeching voices of the minority.\n\nAuthor «Illustrated History of Programming»",
+          "followers_count": 63298,
+          "friends_count": 2757,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 43,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206170,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2041180255000449527",
       "text": "转译：否定别人的想法算不上什么本事\n作者：Scott Lawson\n\n想象一下这个场景：在某个会议上，有人提出了一个新想法。这个点子很新颖、与众不同，当然，实现起来也需要费点功夫。结果，提案人还没解释完，已经有三个人想好了这个点子行不通的理由。\n\n“我从来没听客户提过这种需求。”“我们不能用 Python 写这个，太慢了。”“这会让系统变得太复杂。”“我们以前试过类似的方法，根本行不通。”“运维团队肯定不想再多维护一个服务了。”“大家已经习惯现在的做法了。”\n\n这些反驳的人既不蠢，也没说错。但问题在于，他们没有创造任何价值。\n\n一幅四格漫画。第一格“提案”：一个人正跪在地上生火（代表一个新想法），旁边的同事却说：“那块木头看起来是湿的。”第二格“专家登场”：更多人围过来提出异议，比如“我以前试过类似的方法，根本没用。”第三格“没有创造的‘贡献’”：火彻底灭了，每个人都觉得自己严谨又负责，会议纪要的清单上只有“发现潜在风险”这一项被打上了勾。第四格“真正的本事长啥样”：两个人一起小心翼翼地护着火苗，探讨着：“如果这事儿成了，它的规模能有多大？”以及“现在的问题是风太大，咱们想办法把风解决掉吧。”\n\n艰难的保卫战\n\n提出一个想法和毙掉一个想法之间，存在着一种根本性的不对称。提出想法需要想象力、勇气，以及洞察尚未存在之物的能力。而毙掉它，只需要一句话，完全不需要什么想象力。\n\n解释一个想法如何开辟新的细分市场，可能需要整整五分钟；而轻飘飘地说一句“这听起来风险很大”，只需要两秒钟。但在会议桌上，这两句话的分量常常让人感觉是对等的。\n\n再多的批评、反对或风险识别，本身都无法创造任何价值。批评确实能防止犯错，这固然重要，但它的本质是“保守”，而非“创造”。唯一能创造价值的东西，就是想法本身。如果你的日常工作只是不断毙掉别人的点子，那你从未真正创造过价值，你只是在避免损失而已。\n\n这种事情总是遵循一个可预测的套路：第一步，听到一个你还没完全听懂的想法；第二步，找到其中的一个缺陷；第三步，在根本没有探索其潜力的情况下，主观认定这个缺陷掩盖了所有价值；第四步，毙掉这个想法；第五步，走出会议室，心里美滋滋地觉得自己又做出了宝贵的贡献。\n\n篝火旁的批评家\n\n“篝火旁的批评家”并不是非要扑灭你生的火。他们只是双手插兜站在你旁边，冷眼观察着木头很湿、风正在变大，然后顺便告诉你，他们以前也试过这样生火，结果失败了。他们没有恶意，他们说的甚至都是事实。但就在他们高谈阔论的时候，你苦苦呵护的火苗已经熄灭了。\n\n这并不是因为大家懒。这其实是我们大脑的底层硬件决定的（人类在进化过程中为了生存，大脑演化出了一套对潜在危险极度敏感的保护机制）。比如负面偏见 (Negativity bias)、损失厌恶 (Loss aversion)、现状偏见 (Status quo bias)——我们的大脑天生就擅长寻找威胁、过度放大损失，并且抗拒改变。把这些生物学本能放到一个所有人都想表现出“我在做贡献”的会议里，结果可想而知。正如经济学家奥斯坦·古尔斯比（Austan Goolsbee）的父亲所说：“找茬是一份拿最低工资的工作 (Fault-finder is a minimum wage job)。” 这种事，谁都能干。\n\n提案人往往已经为这个想法琢磨了几周甚至几个月。他们在脑海中反复推演过各个环节，甚至可能已经做出了概念验证 (Proof of Concept)。他们对这个想法的认知深度，是表面信息所无法涵盖的。而现在，他们却要努力把这一切，向满屋子第一次听到这个想法的人解释清楚。理解一件事的潜在价值很难，但挑刺却很容易。\n\n于是，讨论的重心自然而然地滑向了那些负面因素。提案人走出会议室，沮丧地觉得是自己没沟通好，但真正的问题其实出在环境结构上。更可怕的是，这种代价会像滚雪球一样积累。一个人的想法如果被无情毙掉一次，下次再想提议时就会犹豫再三。最惨重的损失，从来不是那一个死掉的想法，而是之后那十个连被说出口的机会都没有的潜在创意。\n\n早期的想法总是脆弱的。从定义上讲，它们就是不完整的。在这个阶段去评判它们，就像指着一条毛毛虫，然后断言它是一只“糟糕的蝴蝶”。如果你不理解为什么一个理智、聪明的人会觉得这个想法值得一提，那说明你的了解还不够，根本没资格发表评论。\n\n我们该怎么做？\n\n几十年前，爱德华·德·博诺（Edward de Bono）就在他的六顶思考帽 (Six Thinking Hats) 框架中描述过这个问题。其核心洞察非常简单：乐观思考和批判性思考都有价值，但它们必须分开进行。如果你把两者混在一起，批判性思考永远会赢，因为它的认知成本更低（也就是说，找茬不需要大脑太费力）。我们需要乐观，也需要悲观，只是不能同时进行。\n\n下次当有人提出新想法时，不妨试试这么做：\n\n首先，戴上“黄帽子”：“这事儿要是成了，潜力有多大？” 花点真正的时间去畅想积极的一面。如果这个想法成功了，世界会变成什么样？谁会从中受益？它能解锁什么新机会？\n\n然后，戴上“黑帽子”：“可能会出什么问题？” 只有当你真正理解了它的潜在价值后，再来做压力测试。但是，如果你还是说不出提案人为什么要提出这个想法，那就说明你还没准备好。这时候去反驳，无异于打固定靶，毫无建设性。\n\n最后，权衡利弊：“潜在的收益值得我们承担这些风险吗？” 到这一步，你已经全面考虑了正反两面，可以做出理性的决策了。\n\n除此之外，还需要改变一些工作习惯：\n\n别再把“找茬”当成贡献了。 找出缺陷充其量只能算“半个贡献”。另外半个应该是：“对于这个问题，我们可以这样解决。”如果你指出了问题，却没有提供解决问题的思路，那就不叫贡献。\n\n把担忧转化为“条件”，而不是“判决”。 满怀建设性地说一句“如果我们能解决 X 问题，这事儿就能成”，是非常有用的。而冷冰冰的一句“因为有 X 问题，这事儿根本行不通”，则会直接终结对话。前者表达的是“如果我们能跨过这道坎，我就全力支持”，后者则是直接“砰”地一声关上了大门。\n\n建设永远先于破坏\n毙掉一个想法太容易了。真正困难的，是用心护住那微弱的火苗，给它足够的时间，看看它最终能燃成怎样绚烂的火焰。\n\n原文来源：https://t.co/VeN0YoCjOF",

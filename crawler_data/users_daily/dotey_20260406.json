@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206131,
+    "followers_count": 206170,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260406",
-  "last_updated": "2026-04-06T16:18:05.295501",
-  "tweet_count": 3,
+  "last_updated": "2026-04-06T18:20:26.140969",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2041056119183851930",
@@ -84,6 +84,69 @@
         "favorite_count": 36,
         "reply_count": 4,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2041194399254667392",
+      "text": "RT @virushuo: 所有在计算机上的操作实际上都是重复劳动。软件工程解决的问题是：如何在无限的用户需求和有限的系统/开发资源中取得平衡，在有限的成本下完成维护。\n\n没有什么是AI做不了的。这个论调不是今年才有的，从有软件这一天这就是软件工程的终极目标。但就算有了AI，仍…",
+      "created_at": "Mon Apr 06 16:40:42 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2041163627554578559",
+        "text": "所有在计算机上的操作实际上都是重复劳动。软件工程解决的问题是：如何在无限的用户需求和有限的系统/开发资源中取得平衡，在有限的成本下完成维护。\n\n没有什么是AI做不了的。这个论调不是今年才有的，从有软件这一天这就是软件工程的终极目标。但就算有了AI，仍然需要解决这些平衡问题和维护成本问题",
+        "created_at": "Mon Apr 06 14:38:26 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2040772808696070420",
+          "text": "这是 CRUD 工程师，不分前端或后端。\n\n有品味的前端，在 AI 时代已摇身一变成为产品工程师或者 OPC 创业者。\n\n前端不可能消亡，除非后续，真的不需要碳基的人，一切都是 agents 硅基的世界。\n\n然而，碳基不可能消亡。比碳基人类更强大的，在地球上很多，比如碳基绿植。只要植物一死，人类和硅基会全部消亡。",
+          "created_at": "Sun Apr 05 12:45:27 +0000 2026",
+          "lang": "zh",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "16681326",
+            "name": "Frank Wang 玉伯",
+            "screen_name": "lifesinger",
+            "description": "I am curious and honest",
+            "followers_count": 34386,
+            "friends_count": 1164,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3,
+            "favorite_count": 76,
+            "reply_count": 11,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "49913",
+          "name": "virushuo",
+          "screen_name": "virushuo",
+          "description": "Back to the 2006.  Screeching voices of the minority.\n\nAuthor «Illustrated History of Programming»",
+          "followers_count": 63298,
+          "friends_count": 2757,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 43,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
