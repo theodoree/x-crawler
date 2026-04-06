@@ -1,12 +1,204 @@
 {
   "date": "20260406",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-06T18:20:26.080670",
-  "tweet_count": 236,
-  "unique_tweet_count": 236,
-  "total_crawled": 428,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-04-06T20:14:26.726903",
+  "tweet_count": 240,
+  "unique_tweet_count": 240,
+  "total_crawled": 436,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2041230389138915637",
+      "text": "RT @SawyerMerritt: For the first time ever, Tesla ranked as the #1 imported car brand in South Korea on a quarterly basis, effectively shat…",
+      "created_at": "Mon Apr 06 19:03:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041161213443227692",
+        "text": "For the first time ever, Tesla ranked as the #1 imported car brand in South Korea on a quarterly basis, effectively shattering the long-standing dominance of players like BMW. Not just in EVs — across vehicles of all fuel types. Tesla registrations in March skyrocketed +330% YoY. https://t.co/99T17ZqQwq",
+        "created_at": "Mon Apr 06 14:28:50 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1055954,
+          "friends_count": 447,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 386,
+          "favorite_count": 2688,
+          "reply_count": 245,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237817815,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 386,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041228825561120979",
+      "text": "RT @WhiteHouse: 🚀 HISTORY MADE: Artemis II astronauts travel farther from Earth than any humans ever have. 🇺🇸 https://t.co/8WcfvNYPLC",
+      "created_at": "Mon Apr 06 18:57:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041225550212333568",
+          "url": "https://video.twimg.com/amplify_video/2041225550212333568/vid/avc1/1080x1920/71JzGGW2cdT4JhrL.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2041225851157549398",
+        "text": "🚀 HISTORY MADE: Artemis II astronauts travel farther from Earth than any humans ever have. 🇺🇸 https://t.co/8WcfvNYPLC",
+        "created_at": "Mon Apr 06 18:45:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041225550212333568",
+            "url": "https://video.twimg.com/amplify_video/2041225550212333568/vid/avc1/1080x1920/71JzGGW2cdT4JhrL.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1879644163769335808",
+          "name": "The White House",
+          "screen_name": "WhiteHouse",
+          "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+          "followers_count": 4330155,
+          "friends_count": 6,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1509,
+          "favorite_count": 9771,
+          "reply_count": 921,
+          "quote_count": 112
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237817815,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1509,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041228621239746962",
+      "text": "RT @xenocosmography: Every single day I love the first based US President more. https://t.co/0bba15ER9Y",
+      "created_at": "Mon Apr 06 18:56:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041205577230274969",
+        "text": "Every single day I love the first based US President more. https://t.co/0bba15ER9Y",
+        "created_at": "Mon Apr 06 17:25:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041011632302932386",
+          "text": "Donald Trump just posted a video of Somali people enjoying the Mall of America to the soundtrack of “Mad World” because he is a bigoted POS https://t.co/XwQv7IBY1a",
+          "created_at": "Mon Apr 06 04:34:27 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2041011562950086656",
+              "url": "https://video.twimg.com/amplify_video/2041011562950086656/vid/avc1/1180x1012/3H_jwUiqq38lOv7M.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "288277167",
+            "name": "Aaron Rupar",
+            "screen_name": "atrupar",
+            "description": "journalist. sign up for my newsletter, Public Notice (link below). Powered by @SnapStream (more info: https://t.co/2oHPuuFBnN).",
+            "followers_count": 1081869,
+            "friends_count": 5168,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2652,
+            "favorite_count": 19641,
+            "reply_count": 4425,
+            "quote_count": 471
+          }
+        },
+        "user": {
+          "id": "1709393467871461376",
+          "name": "Xenocosmography",
+          "screen_name": "xenocosmography",
+          "description": "Anglotheosophical Oblique Escalation\nhttps://t.co/zYwV8LwOQg",
+          "followers_count": 61234,
+          "friends_count": 839,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 340,
+          "favorite_count": 3061,
+          "reply_count": 224,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237817815,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 340,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2041211971979382939",
       "text": "RT @alx: These are the Twitter/X accounts with the most engagement so far in 2026. I suppose I had some intuition for how bad it was, but j…",
@@ -5329,6 +5521,37 @@
         "favorite_count": 24,
         "reply_count": 15,
         "quote_count": 7
+      }
+    },
+    {
+      "id": "2040278308298928335",
+      "text": "还有一个重要细节值得补充。有开发者追问：那些在本地包装 Claude Code 的个人工具（比如 T3 Code），订阅还能用吗？Boris Cherny 确认可以，并表示正在把这条边界写得更清楚。Theo（T3 Code 作者）随即宣布自家工具安全过关。\n\n但 Anthropic 工程师 Thariq 马上补了一句冷水：这个确认仅限于包装 Claude Code 的本地工具（直接调用 cli 那种），Agent SDK 的使用规则还没定，他们还在厘清。\n\n简单总结下就是：Claude Code 本地使用算合规，通过 Agent SDK 调用目前悬而未决，第三方工具直接用订阅 OAuth 明确封杀。",
+      "created_at": "Sat Apr 04 04:00:29 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2040278021085503488",
+          "url": "https://pbs.twimg.com/media/HFCGDOHWoAA37fE.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206173,
+        "friends_count": 1596,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 24,
+        "reply_count": 6,
+        "quote_count": 1
       }
     },
     {
