@@ -1,0 +1,13 @@
+{
+  "summary_type": "user_daily",
+  "generation_time": "2026-04-06T01:38:54.648043",
+  "tweet_count": 9,
+  "summary": "**新工具/技术**（如有）\n- Claude Island：macOS 原生小工具，把 Claude Code 的权限批准等交互搬到刘海区浮层，通过 ~/.claude/hooks/ + Unix socket 与 Claude Code 通信，开源 (Apache‑2.0)。\n- Claude Code：Anthropic 的编码/终端集成工具，常被用作 agent harness 的执行端，需要在终端批准文件/命令操作。\n- OpenClaw / OpenCode：第三方 agent harness（被讨论为资源消耗高的示例），存在上下文管理不佳、频繁触发大上下文 API 调用的问题。\n- Stitch / Gemini /Google AI Studio：实务流水线组合 —— 用产品文档让 Gemini 生成设计提示词，Stitch 生成静态设计图，Google AI Studio 构建可交互前端并导出代码。\n\n**核心观点/方法论**（如有）\n- 代价与算力共演：MiMo 团队观点：全球算力跟不上 agent 时代的 Token 消耗，解决方案不是单纯更便宜的 token，而是“更省 token 的 harness”×“更高效的模型”共同进化——这决定了可持续性与成本结构。\n- 上下文管理为核心竞争力：高效的 prompt cache 与上下文裁剪能显著降低无效 token 烧耗，是 agent 工程的关键优化点。\n- 定价与生态健康：对第三方 harness 放开订阅/低价 token 会诱发滥用；短期收紧会逼出工程纪律，避免长期质量与用户体验恶化。\n\n**实践经验/案例**（如有）\n- system prompt 测试：dotey 实测发现 --append-system-prompt 与 -p 可用，但 system prompt 中不能出现 “OpenClaw” 关键字（附图证实）。\n- 前端设计流水线：实操 SOP：先与 Claude 产出详细产品文档 → 用 Gemini 生成用于 Stitch 的设计提示词 → Stitch 输出静态设计 → Google AI Studio 构建交互并导出代码，再由 Claude Code 完成 UI 适配，适合非设计背景的开发者快速落地。\n- Claude Island 的使用价值与隐私提醒：能显著省去在终端与窗口间切换，提高批准效率并管理会话历史；但集成了 Mixpanel（采集版本/会话事件），有隐私敏感度的用户需注意。\n- OpenClaw 被切断的教训：被切断订阅接入会产生短期成本冲击，但有助于促使 harness 优化上下文策略，长期利于生态效率。\n- 开源资源跟进：dotey 指出原始 repo 已停止维护并给出正在维护的 fork 链接，便于希望部署/编译的开发者快速上手。",
+  "metadata": {
+    "original_tweets": 7,
+    "retweets": 2,
+    "media_tweets": 2,
+    "data_hash": "0237ffef",
+    "user": "dotey"
+  }
+}
