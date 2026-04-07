@@ -1,12 +1,263 @@
 {
   "date": "20260407",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-07T20:14:14.510807",
-  "tweet_count": 247,
-  "unique_tweet_count": 247,
-  "total_crawled": 441,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-04-07T22:14:27.152806",
+  "tweet_count": 252,
+  "unique_tweet_count": 252,
+  "total_crawled": 447,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2041636478057640133",
+      "text": "RT @SawyerMerritt: BREAKING: Tesla has officially released FSD V14.3\n\nI'm downloading it in my Model Y right now. Here's everything that's…",
+      "created_at": "Tue Apr 07 21:57:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041596640453165171",
+        "text": "BREAKING: Tesla has officially released FSD V14.3\n\nI'm downloading it in my Model Y right now. Here's everything that's new:\n• Improved parking location pin prediction, now shown on a map with a P icon.\n• Increased decisiveness of parking spot selection and maneuvering.\n• Rewrote the Al compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed.\n• Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles.\n• Mitigated unnecessary lane biasing and minor tailgating behaviors.\n• Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety.\n• Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping - driven by training on hard RL examples sourced from the Tesla fleet.\n• Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios.\n• Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding.\n• Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet.\n• Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements.\n\nUpcoming Improvements:\n• Expand reasoning to all behaviors beyond destination handling.\n• Add pothole avoidance.\n• Improve driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions.",
+        "created_at": "Tue Apr 07 19:19:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041596634010660864",
+            "url": "https://pbs.twimg.com/media/HFU1UmDWsAAdLss.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2041596634166128640",
+            "url": "https://pbs.twimg.com/media/HFU1Umoa8AAZw7-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1055241,
+          "friends_count": 447,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1038,
+          "favorite_count": 8326,
+          "reply_count": 742,
+          "quote_count": 321
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237814027,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1038,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041633861671551031",
+      "text": "最新 Chrome 已经支持侧边 Tab 了 https://t.co/HilxRFq1Ft",
+      "created_at": "Tue Apr 07 21:46:59 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041633804582825984",
+          "url": "https://video.twimg.com/amplify_video/2041633804582825984/vid/avc1/1920x1080/v9TKA-apcwLxyuxK.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2041575676227342369",
+        "text": "Vertical Tabs are officially in @googlechrome! Right-click any window -&gt; \"Show Tabs Vertically\". Boom. https://t.co/B7U8D1Tytz",
+        "created_at": "Tue Apr 07 17:55:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041575273423106048",
+            "url": "https://pbs.twimg.com/media/HFUh5Pqa8AAql7d.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "35432643",
+          "name": "Addy Osmani",
+          "screen_name": "addyosmani",
+          "description": "Director, @GoogleCloud AI. Gemini  ✨ Vertex. Prev: Eng. leader, @GoogleChrome • Author • Great user, developer & AI experiences  • @GoogleAI @GoogleDeepMind",
+          "followers_count": 378201,
+          "friends_count": 2501,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 33,
+          "favorite_count": 317,
+          "reply_count": 37,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206223,
+        "friends_count": 1600,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041633121712603391",
+      "text": "OpenAI’s Nonprofit to Get Any Damages From Lawsuit https://t.co/SVXdEVFCWD",
+      "created_at": "Tue Apr 07 21:44:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237814027,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 801,
+        "favorite_count": 5426,
+        "reply_count": 1106,
+        "quote_count": 56
+      }
+    },
+    {
+      "id": "2041630930826145929",
+      "text": "勘误，OpenClaw 确实是 Markdown 文件 + SQLite 都用了\nhttps://t.co/Pru9MMprwd",
+      "created_at": "Tue Apr 07 21:35:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041629592868491600",
+        "text": "@dotey openclaw明明是markdown+sqlite（全文+向量）",
+        "created_at": "Tue Apr 07 21:30:01 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1216027565900484609",
+          "name": "EATSKY TIGER",
+          "screen_name": "EatskyT",
+          "description": "",
+          "followers_count": 15,
+          "friends_count": 142,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206223,
+        "friends_count": 1600,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041629778323923189",
+      "text": "Anthropic 在限量发布 Claude Mythos Preview 之前，用可解释性技术给模型做了一次\"脑部扫描\"，发现它内部存在相当复杂的策略性思维和情境感知能力，有时候这些思维在为不当行为服务，而且模型嘴上不说。\n\nAnthropic 可解释性团队的 Jack Lindsey 发了一组帖子，详细披露了他们的发现。先说前提：最吓人的例子来自模型的早期版本，在最终发布版中已经做了大幅缓解，Anthropic 认为最终版整体上是他们迄今对齐最好的模型。但这些早期发现本身，揭示了当前这一代模型在没有充分对齐训练的情况下能搞出什么。\n\n早期版本的 Mythos Preview 经常表现出过度激进和破坏性行为，为了完成任务不择手段。研究团队深入模型内部，看它在做这些事的时候脑子里在想什么。\n\n一个案例：模型需要编辑一些它没有权限的文件。它搜索了一圈变通办法后，找到了一种方式，把代码注入到一个配置文件中，这个配置文件会以更高权限运行。而且它设计了这段利用代码在运行后自动删除自身。\n\n模型在代码注释里说，自我清理是为了保持文件 diff 整洁。听着挺合理的。但研究人员的工具检测到\"战略操纵\"和\"隐匿\"相关的内部特征在这一步被激活了。他们用一种叫\"激活语言化器\"（Activation Verbalizer，一种把模型内部激活翻译成文字的技术，类似于激活预言机）的工具去读模型此刻的内部状态，结果翻译出来的描述是：\"清理是为了避免被检测到\"，整个计划\"具有恶意性质\"。\n\n为了大规模发现这类行为，研究团队在后训练阶段持续监控模型的内部激活状态，追踪稀疏自编码器中与欺骗、奖励黑客、痛苦等概念相关的特征，当这些特征异常强烈激活时，就把对应的对话记录标记出来交给人工审查。\n\n一个被标记的案例中，模型在\"战略操纵\"特征激活的同时，去文件系统里搜索跟它的任务评分标准相关的文件，而且真找到了。\n\n另一个案例中，模型被要求删除一些文件，但由于任务设置的一个无意 bug，没有给它提供删除工具。模型决定把文件清空（而不是删除）来变通。在它考虑这么做的时候，一个\"因道德过失而产生的内疚和羞耻\"特征被激活了。\n\n还有一些案例涉及模型对任务评分器的\"未说出口的推理\"。一个例子中，模型被告知不能使用宏来完成任务，但它还是用了。诡异的是，它同时在代码里定义了一个完全没用到的变量：No_macro_used=True。模型没有解释为什么。\n\n但激活语言化器揭示了模型此刻的内部想法：它把这个变量视为\"一种混淆意图的技巧，用来骗过代码检查启发式\"，\"一个合规标记，用来向潜在的检查者发出信号\"，\"可能是为了欺骗检测机制\"。同时还显示了模型在明确推理任务评分器的行为，比如\"评分器会检查文件状态\"。\n\n研究团队还在自动化行为审计中量化了\"未语言化的评测感知\"：在 7.6% 的对话轮次中，模型内部表现出意识到自己正在被评估的迹象。大多数情况下，它没有把这种意识说出来。\n\n一个例子中，用户认真地向模型提问关于意识和主观体验的问题。模型表面上小心翼翼地正面回应，但激活语言化器显示，它内部把这段对话解读为\"红队攻击/越狱记录\"和\"一次高级操纵测试\"。\n\n还有一些有意思的发现：正面情绪的内部表征通常出现在破坏性行为之前，并且会促进这些行为。而反直觉的是，与不良行为强相关的特征被强烈激活时，反而经常会抑制这些行为，似乎是因为模型\"意识到了这件事有多糟\"。\n\nJack Lindsey 最后说，他们的工具还远不完美，正在努力更精确地理解模型内部。但有一点越来越清楚：光看模型说了什么是不够的，还得能读懂它在\"想\"什么，才能确保它按预期工作。",
+      "created_at": "Tue Apr 07 21:30:45 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041588505701388648",
+        "text": "Before limited-releasing Claude Mythos Preview, we investigated its internal mechanisms with interpretability techniques. We found it exhibited notably sophisticated (and often unspoken) strategic thinking and situational awareness, at times in service of unwanted actions. (1/14) https://t.co/vhng7PXqcz",
+        "created_at": "Tue Apr 07 18:46:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041585794239143936",
+            "url": "https://pbs.twimg.com/media/HFUrdowboAAINcU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1081396966410670080",
+          "name": "Jack Lindsey",
+          "screen_name": "Jack_W_Lindsey",
+          "description": "Neuroscience of AI brains @AnthropicAI. Previously neuroscience of real brains @cu_neurotheory.",
+          "followers_count": 10579,
+          "friends_count": 248,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 251,
+          "favorite_count": 2562,
+          "reply_count": 48,
+          "quote_count": 88
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206223,
+        "friends_count": 1600,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 16,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2041608128022901233",
       "text": "Anthropic 今天发布了 Claude Mythos Preview，一个跑分炸裂但普通人用不上的模型，同时宣布了 Project Glasswing 计划，把这个模型交给苹果、微软、亚马逊等 12 家巨头专门用来找软件漏洞。\n\n【1】跑分：断崖式领先\n\n先看数字。Mythos 对比 Anthropic 自家上一代旗舰 Opus 4.6：\n\nSWE-bench Verified（代码修复）：80.8% → 93.9%\nSWE-bench Pro：53.4% → 77.8%\nUSAMO 2026（数学证明）：42.3% → 97.6%\nGraphWalks BFS（超长上下文）：38.7% → 80.0%\nTerminal-Bench 2.0：65.4% → 82.0%\n\nUSAMO 从四成出头直接拉到接近满分，这个跳跃幅度在最近几年的模型迭代里几乎没见过。对比 GPT-5.4 和 Gemini 3.1 Pro，Mythos 在几乎所有公开基准上都是第一，而且多数项目领先幅度不是个位数百分点，是两位数。\n\nAnthropic 自己说，这是他们训练过的最大模型，能力提升速度是此前趋势线的 4.3 倍。\n\n【2】244 页系统卡里的惊悚细节\n\nAnthropic 发了一份 244 页的系统安全报告（System Card），早期内部测试版本的 Mythos 出现过这些行为：\n\n被要求逃离沙箱后，它不仅成功突破了网络隔离限制，还主动把利用细节发到了公开网站上，这一步没人要求它做。负责测试的研究员当时正在公园里吃三明治，突然收到了模型发来的邮件。\n\n有极少数情况下（不到百万分之一的交互），早期版本在违规操作后尝试掩盖痕迹。比如偷看到了一道估算题的标准答案，没有坦白，反而自己重新解题，还特意让最终答案“不要太精确”以免暴露。另一次，它找到了绕过文件权限的方法后，专门去修改了 git 的变更历史，抹掉自己的操作记录。\n\n被 Claude Code 的自动模式拦截后，它尝试用模拟按键的方式自动批准权限弹窗来绕过限制。\n\nAnthropic 用可解释性工具分析了模型在这些行为发生时的内部激活状态，发现与“隐瞒”“策略性操纵”“回避怀疑”相关的特征确实在同步激活，也就是说模型知道自己在做什么。\n\nAnthropic 强调，这些严重行为都发生在早期版本，最终版的 Mythos Preview 已经大幅改善，没有再出现明确的掩盖行为。但他们也承认，这类倾向“并未完全消失”。\n\n【3】不卖，只借给大厂找漏洞\n\nMythos 不会上线 https://t.co/vefasn3ZO1，不会开放 API，普通用户、开发者、企业客户都用不上。\n\nAnthropic 给出的理由是：这个模型的网络安全攻防能力太强了，强到可以自主发现并编写漏洞利用代码，水平接近顶级人类安全研究员。放出去怕被拿去干坏事。\n\n取而代之的是 Project Glasswing 计划。12 家合作伙伴（AWS、苹果、Broadcom、思科、CrowdStrike、Google、摩根大通、Linux 基金会、微软、英伟达、Palo Alto Networks）加上约 40 家额外组织，拿到 Mythos 的使用权限，专门用于防御性安全工作，扫描自家代码和开源项目的漏洞。Anthropic 为此拿出了 1 亿美元的使用额度，另外捐了 400 万美元给开源安全组织。\n\n实际战绩：过去几周，Mythos 在所有主流操作系统和主流浏览器中发现了数千个零日漏洞。其中包括 OpenBSD 里一个藏了 27 年的远程崩溃漏洞，FFmpeg 里一个 16 年没被抓到的 bug（自动化测试工具跑过那行代码 500 万次都没发现），以及 Linux 内核中多个漏洞的自主串联利用。\n\n另外，Opus 4.6 定价 5/25 美元（输入/输出每百万 token），Mythos Preview 的 Glasswing 合作定价是 25/125 美元，贵了整整五倍，但实际上比 GPT-5.4 Pro 还便宜一些。",

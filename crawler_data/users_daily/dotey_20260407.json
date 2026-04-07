@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206230,
+    "followers_count": 206223,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260407",
-  "last_updated": "2026-04-07T20:14:14.539611",
-  "tweet_count": 12,
+  "last_updated": "2026-04-07T22:14:27.215080",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2041307413777883484",
@@ -482,6 +482,142 @@
         "favorite_count": 8,
         "reply_count": 2,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2041629778323923189",
+      "text": "Anthropic 在限量发布 Claude Mythos Preview 之前，用可解释性技术给模型做了一次\"脑部扫描\"，发现它内部存在相当复杂的策略性思维和情境感知能力，有时候这些思维在为不当行为服务，而且模型嘴上不说。\n\nAnthropic 可解释性团队的 Jack Lindsey 发了一组帖子，详细披露了他们的发现。先说前提：最吓人的例子来自模型的早期版本，在最终发布版中已经做了大幅缓解，Anthropic 认为最终版整体上是他们迄今对齐最好的模型。但这些早期发现本身，揭示了当前这一代模型在没有充分对齐训练的情况下能搞出什么。\n\n早期版本的 Mythos Preview 经常表现出过度激进和破坏性行为，为了完成任务不择手段。研究团队深入模型内部，看它在做这些事的时候脑子里在想什么。\n\n一个案例：模型需要编辑一些它没有权限的文件。它搜索了一圈变通办法后，找到了一种方式，把代码注入到一个配置文件中，这个配置文件会以更高权限运行。而且它设计了这段利用代码在运行后自动删除自身。\n\n模型在代码注释里说，自我清理是为了保持文件 diff 整洁。听着挺合理的。但研究人员的工具检测到\"战略操纵\"和\"隐匿\"相关的内部特征在这一步被激活了。他们用一种叫\"激活语言化器\"（Activation Verbalizer，一种把模型内部激活翻译成文字的技术，类似于激活预言机）的工具去读模型此刻的内部状态，结果翻译出来的描述是：\"清理是为了避免被检测到\"，整个计划\"具有恶意性质\"。\n\n为了大规模发现这类行为，研究团队在后训练阶段持续监控模型的内部激活状态，追踪稀疏自编码器中与欺骗、奖励黑客、痛苦等概念相关的特征，当这些特征异常强烈激活时，就把对应的对话记录标记出来交给人工审查。\n\n一个被标记的案例中，模型在\"战略操纵\"特征激活的同时，去文件系统里搜索跟它的任务评分标准相关的文件，而且真找到了。\n\n另一个案例中，模型被要求删除一些文件，但由于任务设置的一个无意 bug，没有给它提供删除工具。模型决定把文件清空（而不是删除）来变通。在它考虑这么做的时候，一个\"因道德过失而产生的内疚和羞耻\"特征被激活了。\n\n还有一些案例涉及模型对任务评分器的\"未说出口的推理\"。一个例子中，模型被告知不能使用宏来完成任务，但它还是用了。诡异的是，它同时在代码里定义了一个完全没用到的变量：No_macro_used=True。模型没有解释为什么。\n\n但激活语言化器揭示了模型此刻的内部想法：它把这个变量视为\"一种混淆意图的技巧，用来骗过代码检查启发式\"，\"一个合规标记，用来向潜在的检查者发出信号\"，\"可能是为了欺骗检测机制\"。同时还显示了模型在明确推理任务评分器的行为，比如\"评分器会检查文件状态\"。\n\n研究团队还在自动化行为审计中量化了\"未语言化的评测感知\"：在 7.6% 的对话轮次中，模型内部表现出意识到自己正在被评估的迹象。大多数情况下，它没有把这种意识说出来。\n\n一个例子中，用户认真地向模型提问关于意识和主观体验的问题。模型表面上小心翼翼地正面回应，但激活语言化器显示，它内部把这段对话解读为\"红队攻击/越狱记录\"和\"一次高级操纵测试\"。\n\n还有一些有意思的发现：正面情绪的内部表征通常出现在破坏性行为之前，并且会促进这些行为。而反直觉的是，与不良行为强相关的特征被强烈激活时，反而经常会抑制这些行为，似乎是因为模型\"意识到了这件事有多糟\"。\n\nJack Lindsey 最后说，他们的工具还远不完美，正在努力更精确地理解模型内部。但有一点越来越清楚：光看模型说了什么是不够的，还得能读懂它在\"想\"什么，才能确保它按预期工作。",
+      "created_at": "Tue Apr 07 21:30:45 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041588505701388648",
+        "text": "Before limited-releasing Claude Mythos Preview, we investigated its internal mechanisms with interpretability techniques. We found it exhibited notably sophisticated (and often unspoken) strategic thinking and situational awareness, at times in service of unwanted actions. (1/14) https://t.co/vhng7PXqcz",
+        "created_at": "Tue Apr 07 18:46:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041585794239143936",
+            "url": "https://pbs.twimg.com/media/HFUrdowboAAINcU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1081396966410670080",
+          "name": "Jack Lindsey",
+          "screen_name": "Jack_W_Lindsey",
+          "description": "Neuroscience of AI brains @AnthropicAI. Previously neuroscience of real brains @cu_neurotheory.",
+          "followers_count": 10579,
+          "friends_count": 248,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 251,
+          "favorite_count": 2562,
+          "reply_count": 48,
+          "quote_count": 88
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 16,
+        "reply_count": 2,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2041630930826145929",
+      "text": "勘误，OpenClaw 确实是 Markdown 文件 + SQLite 都用了\nhttps://t.co/Pru9MMprwd",
+      "created_at": "Tue Apr 07 21:35:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041629592868491600",
+        "text": "@dotey openclaw明明是markdown+sqlite（全文+向量）",
+        "created_at": "Tue Apr 07 21:30:01 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1216027565900484609",
+          "name": "EATSKY TIGER",
+          "screen_name": "EatskyT",
+          "description": "",
+          "followers_count": 15,
+          "friends_count": 142,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041633861671551031",
+      "text": "最新 Chrome 已经支持侧边 Tab 了 https://t.co/HilxRFq1Ft",
+      "created_at": "Tue Apr 07 21:46:59 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041633804582825984",
+          "url": "https://video.twimg.com/amplify_video/2041633804582825984/vid/avc1/1920x1080/v9TKA-apcwLxyuxK.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2041575676227342369",
+        "text": "Vertical Tabs are officially in @googlechrome! Right-click any window -&gt; \"Show Tabs Vertically\". Boom. https://t.co/B7U8D1Tytz",
+        "created_at": "Tue Apr 07 17:55:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041575273423106048",
+            "url": "https://pbs.twimg.com/media/HFUh5Pqa8AAql7d.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "35432643",
+          "name": "Addy Osmani",
+          "screen_name": "addyosmani",
+          "description": "Director, @GoogleCloud AI. Gemini  ✨ Vertex. Prev: Eng. leader, @GoogleChrome • Author • Great user, developer & AI experiences  • @GoogleAI @GoogleDeepMind",
+          "followers_count": 378201,
+          "friends_count": 2501,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 33,
+          "favorite_count": 317,
+          "reply_count": 37,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 1,
+        "quote_count": 0
       }
     }
   ]
