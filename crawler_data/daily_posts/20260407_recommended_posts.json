@@ -1,12 +1,118 @@
 {
   "date": "20260407",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-07T00:26:24.223454",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-04-07T03:05:38.806136",
+  "tweet_count": 203,
+  "unique_tweet_count": 203,
+  "total_crawled": 388,
+  "duplicates_removed": 185,
   "tweets": [
+    {
+      "id": "2041341355369152928",
+      "text": "https://t.co/1cvpnYbwvE",
+      "created_at": "Tue Apr 07 02:24:40 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206193,
+        "friends_count": 1596,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 13,
+        "reply_count": 5,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2041328344499888579",
+      "text": "NASA Artemis passing close to the Moon https://t.co/jLvGoW1IR9",
+      "created_at": "Tue Apr 07 01:32:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041309231891283968",
+          "url": "https://video.twimg.com/amplify_video/2041309231891283968/vid/avc1/1280x720/-y4xRLaGrKRAopMY.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237818584,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 21177,
+        "favorite_count": 233017,
+        "reply_count": 5605,
+        "quote_count": 1178
+      }
+    },
+    {
+      "id": "2041326712252956991",
+      "text": "RT @NASA: On the shoulders of giants... 🧑🏼‍🚀\n\nThe Artemis II crew aboard Integrity have officially traveled farther into space than any hum…",
+      "created_at": "Tue Apr 07 01:26:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041308230614126775",
+        "text": "On the shoulders of giants... 🧑🏼‍🚀\n\nThe Artemis II crew aboard Integrity have officially traveled farther into space than any humans before, passing the record set during Apollo. Our live coverage continues:\n\nhttps://t.co/do2p0Gvxdu",
+        "created_at": "Tue Apr 07 00:13:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "11348282",
+          "name": "NASA",
+          "screen_name": "NASA",
+          "description": "The Moon is the mission. Real-time updates about our Artemis II mission around the Moon.",
+          "followers_count": 90778831,
+          "friends_count": 117,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3035,
+          "favorite_count": 15116,
+          "reply_count": 808,
+          "quote_count": 177
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237818584,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3035,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2041307413777883484",
       "text": "Anthropic 年化收入突破 300 亿美元，超过 OpenAI\n\n2024 年 12 月，Anthropic 的年化收入（run-rate revenue，把当月收入乘以 12 得到的数字）刚到 10 亿美元。2025 年底涨到 90 亿，今年 2 月 140 亿，3 月 190 亿，今天 Anthropic 官方确认：300 亿。\n\n300 亿是什么概念？OpenAI 目前月收入约 20 亿美元，年化大约 240 亿。也就是说，Anthropic 在收入上已经超过了 OpenAI。一家 2021 年才成立、不到三年前才赚到第一美元的公司，跑赢了它的母体。\n\n增长速度更吓人：连续三年年化收入 10 倍增长。10 亿到 90 亿到 140 亿到 300 亿，每个节点之间的间隔越来越短。从 190 亿到 300 亿只用了一个月，一个月新增了 110 亿的年化收入。\n\n企业客户端同样在加速。今年 2 月，年消费超过 100 万美元的企业客户是 500 多家。今天这个数字翻倍到了 1000 家，不到两个月。财富 10 强中有 8 家是 Claude 的客户。每个月活用户贡献约 211 美元收入，OpenAI 的对应数字是每周活用户 25 美元，变现效率差了 8 倍。用户少得多，收入反而更高，企业级路线走通了。\n\nClaude Code 是这轮增长最大的推手。这个产品 2025 年 5 月才公开发布，9 个月做到 25 亿美元年化收入。目前 GitHub 上 4% 的公开 commit 由 Claude Code 生成，据报道年底可能达到 20%，也就是地球上每五个代码提交里有一个来自同一个模型。\n\n为了撑住这个需求，Anthropic 今天同时宣布了一个大动作：和 Google、Broadcom 签署协议，采购数吉瓦级别的下一代 TPU 算力，预计 2027 年起陆续上线。绝大部分算力将部署在美国境内。这些算力主要用于推理，也就是跑现有的模型服务用户，而不是训练下一代模型。Claude 目前同时跑在 AWS Trainium、Google TPU 和 NVIDIA GPU 三种芯片上，是唯一同时在三大云平台（AWS Bedrock、Google Cloud Vertex AI、Microsoft Azure Foundry）上架的前沿 AI 模型。\n\n二级市场已经开始重新定价。Anthropic 今年 2 月刚以 3800 亿美元估值完成 300 亿美元融资。多个消息源提到，买方需求远超卖方供给，有分析认为隐含估值已经朝 6000 亿方向走。公司正在准备 IPO，已经聘请了 Wilson Sonsini 做法律顾问，多家媒体报道最早可能在今年下半年。\n\n一个有意思的对比：OpenAI 刚完成 1220 亿美元融资，估值 8520 亿。但 Anthropic 收入已经超过 OpenAI，增速也更快，估值却只有 OpenAI 的不到一半。IPO 定价的时候，市场会怎么给这家连续三年 10 倍增长的公司算估值？",

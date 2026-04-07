@@ -1,0 +1,76 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "https://t.co/dDtDyVssfm",
+    "followers_count": 237818584,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260407",
+  "last_updated": "2026-04-07T03:05:38.841673",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2041326712252956991",
+      "text": "RT @NASA: On the shoulders of giants... 🧑🏼‍🚀\n\nThe Artemis II crew aboard Integrity have officially traveled farther into space than any hum…",
+      "created_at": "Tue Apr 07 01:26:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041308230614126775",
+        "text": "On the shoulders of giants... 🧑🏼‍🚀\n\nThe Artemis II crew aboard Integrity have officially traveled farther into space than any humans before, passing the record set during Apollo. Our live coverage continues:\n\nhttps://t.co/do2p0Gvxdu",
+        "created_at": "Tue Apr 07 00:13:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "11348282",
+          "name": "NASA",
+          "screen_name": "NASA",
+          "description": "The Moon is the mission. Real-time updates about our Artemis II mission around the Moon.",
+          "followers_count": 90778831,
+          "friends_count": 117,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3035,
+          "favorite_count": 15116,
+          "reply_count": 808,
+          "quote_count": 177
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3035,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041328344499888579",
+      "text": "NASA Artemis passing close to the Moon https://t.co/jLvGoW1IR9",
+      "created_at": "Tue Apr 07 01:32:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041309231891283968",
+          "url": "https://video.twimg.com/amplify_video/2041309231891283968/vid/avc1/1280x720/-y4xRLaGrKRAopMY.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 21177,
+        "favorite_count": 233017,
+        "reply_count": 5605,
+        "quote_count": 1178
+      }
+    }
+  ]
+}
