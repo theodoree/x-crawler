@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237809260,
+    "followers_count": 237806356,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260407",
-  "last_updated": "2026-04-07T06:33:02.519908",
-  "tweet_count": 29,
+  "last_updated": "2026-04-07T08:28:32.300456",
+  "tweet_count": 30,
   "tweets": [
     {
       "id": "2041326712252956991",
@@ -1322,6 +1322,45 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2041418536707563585",
+      "text": "A fever dream",
+      "created_at": "Tue Apr 07 07:31:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041396907441053927",
+        "text": "Overheard in Silicon Valley: “Remember ‘hate speech and misinformation’? That was weird.”",
+        "created_at": "Tue Apr 07 06:05:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5943622",
+          "name": "Marc Andreessen 🇺🇸",
+          "screen_name": "pmarca",
+          "description": "Grand Theft Auto 6 (GTA 6) is officially scheduled to be released on November 19, 2026.",
+          "followers_count": 2447975,
+          "friends_count": 29777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 85,
+          "favorite_count": 1118,
+          "reply_count": 115,
+          "quote_count": 17
+        }
+      },
+      "stats": {
+        "retweet_count": 619,
+        "favorite_count": 6825,
+        "reply_count": 1018,
+        "quote_count": 19
       }
     }
   ]

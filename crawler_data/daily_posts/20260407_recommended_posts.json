@@ -1,12 +1,61 @@
 {
   "date": "20260407",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-07T06:33:02.490370",
-  "tweet_count": 231,
-  "unique_tweet_count": 231,
-  "total_crawled": 403,
-  "duplicates_removed": 172,
+  "last_crawl_time": "2026-04-07T08:28:32.266396",
+  "tweet_count": 232,
+  "unique_tweet_count": 232,
+  "total_crawled": 431,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2041418536707563585",
+      "text": "A fever dream",
+      "created_at": "Tue Apr 07 07:31:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041396907441053927",
+        "text": "Overheard in Silicon Valley: “Remember ‘hate speech and misinformation’? That was weird.”",
+        "created_at": "Tue Apr 07 06:05:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5943622",
+          "name": "Marc Andreessen 🇺🇸",
+          "screen_name": "pmarca",
+          "description": "Grand Theft Auto 6 (GTA 6) is officially scheduled to be released on November 19, 2026.",
+          "followers_count": 2447975,
+          "friends_count": 29777,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 85,
+          "favorite_count": 1118,
+          "reply_count": 115,
+          "quote_count": 17
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237806356,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 619,
+        "favorite_count": 6825,
+        "reply_count": 1018,
+        "quote_count": 19
+      }
+    },
     {
       "id": "2041402378260517142",
       "text": "RT @nicksortor: 🚨 @NASAAdmin Jared Isaacman had the PERFECT response to Trump’s proposed 2027 budget cutting $5.6 BILLION (23%) from NASA…",
