@@ -1,11 +1,11 @@
 {
   "date": "20260407",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-07T10:24:21.034943",
-  "tweet_count": 232,
-  "unique_tweet_count": 232,
+  "last_crawl_time": "2026-04-07T12:20:49.361180",
+  "tweet_count": 233,
+  "unique_tweet_count": 233,
   "total_crawled": 432,
-  "duplicates_removed": 200,
+  "duplicates_removed": 199,
   "tweets": [
     {
       "id": "2041418536707563585",
@@ -1373,6 +1373,62 @@
         "favorite_count": 6220,
         "reply_count": 867,
         "quote_count": 64
+      }
+    },
+    {
+      "id": "2041391479135076536",
+      "text": "RT @punishablepress: A Somali stabs two 18 year old girls after they refused his advances at 2:30am and tried to get away from him.\n\nA pass…",
+      "created_at": "Tue Apr 07 05:43:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041251871768113376",
+        "text": "A Somali stabs two 18 year old girls after they refused his advances at 2:30am and tried to get away from him.\n\nA passerby tried to intervene and he was stabbed in the head with broken glass.\n\nThe Irish Government is responsible for these crimes. https://t.co/X11ycesXNp",
+        "created_at": "Mon Apr 06 20:29:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041250934198554624",
+            "url": "https://video.twimg.com/amplify_video/2041250934198554624/vid/avc1/1080x1920/G-Nj6botDu_MTRXK.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1722567099229601792",
+          "name": "Michael McCarthy",
+          "screen_name": "punishablepress",
+          "description": "Bring back common sense.\nStreaming Tues/Thurs @ 6:30pm GMT on Twitch\nBanned on TikTok.",
+          "followers_count": 165313,
+          "friends_count": 551,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2760,
+          "favorite_count": 11152,
+          "reply_count": 286,
+          "quote_count": 118
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237807254,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2760,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     },
     {
