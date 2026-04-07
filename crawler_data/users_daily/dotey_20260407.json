@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206256,
+    "followers_count": 206230,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260407",
-  "last_updated": "2026-04-07T18:21:12.353549",
-  "tweet_count": 7,
+  "last_updated": "2026-04-07T20:14:14.539611",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2041307413777883484",
@@ -247,6 +247,241 @@
         "favorite_count": 31,
         "reply_count": 5,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2041582126156419562",
+      "text": "除了 benchmark 方法论，还有人对项目本身的来源提出了更尖锐的质疑。https://t.co/wtQXQho5Y3\n\n开发者 Aimar Haddadi 在发了一条长帖，逐条拆解了 MemPalace 背后的人。Ben Sigman 的公开履历是比特币创业者，运营一个叫 Bitcoin Libre 的去中心化借贷平台，合著过一本叫《Bitcoin One Million》的畅销书。他的个人网站说自己\"构建 AI 驱动的产品和训练本地 AI 模型\"，但 GitHub 上 64 个仓库里绝大多数都是比特币相关的，只有一个 2024 年 fork 的 AI 项目。\n\nHaddadi 指出了一个关键细节：MemPalace 仓库有超过 1 万颗星、1000 多个 fork，但只有 7 个 commit。没有 git 作者历史，没有任何账号关联到实际写代码的人。\n\n原始仓库是一个叫 aya-thekeeper 的账号以 aya-thekeeper/mempal 的名字推送的，发布后这个账号就被删除了。而 Milla Jovovich 的 GitHub 主页简介里写着\"Milla Jovovich (aka Aya The Keeper)\"，说明这个账号和她有关联，但整个 GitHub 历史只有 7 个 commit、2 天的活跃记录。\n\n更耐人寻味的是，BENCHMARKS.md 文件里有一行署名：\"Written by Lu (DTL), March 24, 2026. For: Ben.\" 一个叫 Lu 的人写了代码，写了 benchmark，但在 README 和 GitHub 历史里完全不存在。git 历史被压缩成一个 commit 后发布到了 Milla Jovovich 名下的账号。\n\n这些线索拼在一起，指向一个可能性：实际的工程工作由第三方完成，Ben Sigman 负责策划和推广，Milla Jovovich 的名字提供了传播杠杆。\n\n当然，这并不违法，开源项目谁贡献代码都行。但宣传中反复强调的\"Milla 和 Ben 花了几个月一起用 Claude Code 开发\"，和 GitHub 上只有 7 个 commit、2 天活跃的记录之间，存在明显的落差。",
+      "created_at": "Tue Apr 07 18:21:24 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041559354034344438",
+        "text": "i can spot a grifter from miles away. \n\nso i digged into the code to figure out if this is legit or not. \n\nguess i was right.\n \nben is a crypto founder who runs some weird bitcoin lending platform, i was pretty sure he knows absolutely nothing about ai and memory so i tracked down the repo myself since i was curious. \n\nhis website says he likes to build ai powered products and train local ai models? sure man, 80% of your github repo's are bitcoin related stuff. only one ai related project came up you forked in 2024.  \n\nmempalace has 10k github stars, more than 1k forks but only.. 7 commits ?\n\napparently the best memory layer to date? \n\nno git author history, no account connected to whoever wrote the code of this codebase. \n\nit doesn't add up.. \n\nthe account who pushed the original repo, named: aya-thekeeper, under aya-thekeeper/mempal got deleted right after the repo got published. \n\nyou paid a random guy named lu to build this shit out for you.  \n\n( \"Written by Lu (DTL) — March 24, 2026. \n  For: Ben.\"  ) - benchmark md file. \n\n lu wrote the code. lu wrote the benchmarks. lu is nowhere in the readme. or mentioned in the github history?         \n\nthe git history then got squashed to one commit and published under milla jovovich? seriously? a actress? \n\nyou say she is a great friend of yours, she has been building this project with you. she does this at night. \n\nyet she has.. 7 commits and only 2 active days in her entire github history? \n\nyou paid an actress and a random guy to promote a product you know absolutely nothing about.",
+        "created_at": "Tue Apr 07 16:50:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1741835411561820160",
+          "name": "Aimar Haddadi",
+          "screen_name": "AdvicebyAimar",
+          "description": "bunx imi-agent - https://t.co/rStIMptnvN",
+          "followers_count": 1706,
+          "friends_count": 1787,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 240,
+          "favorite_count": 2166,
+          "reply_count": 158,
+          "quote_count": 109
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041585514873037167",
+      "text": "Hermes Agent 势头很猛，这几天推荐的人很多，可以关注一下。我自己安装试用了还可以。\n\nHermes Agent 是由 Nous Research 在今年 2 月底开源的 AI 智能体框架，上线不到两个月，GitHub 星标已经接近三万。这个项目被社区认为是 OpenClaw（龙虾）上线以来，第一个真正意义上的竞争对手。\n\n两者都是自托管的开源智能体，都能接入 Telegram、Discord、Slack、WhatsApp 等聊天平台，都支持多模型切换，都走 MIT 协议。但设计哲学完全不同。\n\n【1】龙虾是网关，Hermes 是引擎\n\nOpenClaw 的核心是一个 Gateway（网关守护进程），负责统一管理会话、路由和渠道连接，像一个调度中心，把你的各种聊天应用连接到 AI agent。你可以理解为它是一个“多渠道个人助理操作系统”。\n\nHermes Agent 的核心则是 agent 自身的执行循环。它不是围绕“怎么把消息送到 agent”来设计的，而是围绕“agent 怎么变得越来越强”来设计的。官方管这叫 closed learning loop（闭环学习循环）。\n\n【2】会自己写技能的 agent\n\n这是 Hermes 最有意思的地方。当它完成一个复杂任务（通常涉及五次以上工具调用）后，会把整个过程沉淀成一份结构化的技能文档，存成 Markdown 文件。下次遇到类似任务，直接加载这份技能，不用从头解决。\n\n更关键的是，这些技能在使用过程中会自我迭代。如果 agent 在执行技能时发现了更好的方法，它会自动更新技能文档。有 Reddit 用户反馈，agent 在两小时内自动生成了三份技能文档后，重复性研究任务的速度提升了 40%。\n\nOpenClaw 也有技能系统，但主要依赖人工编写和社区贡献的技能市场 ClawHub。Hermes 这边等于把“写技能”这件事也交给了 agent 自己。\n\n【3】记忆体系的差异\n\n两者都声称有跨会话记忆能力，但实现方式不同。\n\nHermes 用 SQLite 数据库配合全文检索，把所有历史对话存下来，需要时通过搜索加摘要召回。它把记忆分成两层：一层是常驻的关键信息（写在 MEMORY.md 里，每次对话都带上），另一层是全量历史检索（容量无限，按需调用）。\n\nOpenClaw 的记忆则是工作区里的 Markdown 文件，走的是“文件即记忆”的路线，通过语义检索工具来查找。在上下文压缩前会执行一次静默记忆写入，防止压缩丢信息。\n\n简单说，Hermes 更像是给 agent 装了一个搜索引擎式的大脑，OpenClaw 更像是给它一个笔记本。\n\n【4】安全思路也不一样\n\nHermes 搞了一套五层纵深防御：用户授权、危险命令审批、容器隔离、凭据过滤、上下文注入扫描。默认对高风险操作（比如执行终端命令、写文件）要人工审批，超时未批准就自动拒绝。\n\nOpenClaw 这边则更强调信任模型和配置审计。它提供了 openclaw security audit 命令，可以一键扫描网关配置的安全隐患。但 OpenClaw 在安全方面的历史记录不太好看，今年 2 月被曝出多个高危漏洞，13.5 万个实例暴露在公网上，技能市场也有超过 300 个恶意技能被发现。\n\n【5】要不要换或者选哪一个\n\n如果你日常用的 Agent 已经顺手，没必要。如果你之前的龙虾主要是 claude code 的授权现在用不了可以试试这个，但不能保证继续用多久。如果喜欢折腾想试试不同的选择，也可以试试。\n\n如果你想要一个“多渠道助理平台”，接入各种聊天工具，用社区现成的技能市场，OpenClaw 的生态更成熟，34.6 万星标不是白来的。\n\n如果你更关心 agent 的长期进化能力，想让它用得越久越聪明，或者你是做 AI 研究的，需要生成训练轨迹、跑强化学习实验，Hermes 的架构更对口。它还内建了一个兼容 OpenAI API 的服务端，可以直接作为后端接入 Open WebUI 等第三方界面。\n\nHermes 跑在 5 美元一个月的 VPS 上就够用，也支持 Docker、SSH 远程、Modal 等 serverless 方案。安装只需要一行 curl 命令。\n\n安装不复杂，参考官方文档即可：https://t.co/LeLSL0czFD\n\n爱马仕的英文也是 Hermes。",
+      "created_at": "Tue Apr 07 18:34:52 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2026758996107898954",
+        "text": "Meet Hermes Agent, the open source agent that grows with you.\n\nHermes Agent remembers what it learns and gets more capable over time, with a multi-level memory system and persistent dedicated machine access. https://t.co/Xe55wBbUuo",
+        "created_at": "Wed Feb 25 20:39:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2026756064591376384",
+            "url": "https://video.twimg.com/amplify_video/2026756064591376384/vid/avc1/2344x2160/dM84VnNdTTvDZgyA.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1318419526132862976",
+          "name": "Nous Research",
+          "screen_name": "NousResearch",
+          "description": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
+          "followers_count": 113513,
+          "friends_count": 28,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 620,
+          "favorite_count": 6228,
+          "reply_count": 332,
+          "quote_count": 268
+        }
+      },
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 101,
+        "reply_count": 7,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2041597042456191079",
+      "text": "FYI",
+      "created_at": "Tue Apr 07 19:20:40 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041570052030525578",
+        "text": "切到 Hermes 太爽了，比 OpenClaw 响应速度快了太多倍了。\n\n底层目前接的是 Claude Code，还是 CC 好啊，这体验比 OpenClaw 爽多了，我觉得我又可以用起来了。\n\n之前就是因为 OpenClaw 的反应和消耗比 CC 差太远了，所以我都有点吃灰了。 https://t.co/tRJuLJdCFO",
+        "created_at": "Tue Apr 07 17:33:25 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041570044447207424",
+            "url": "https://pbs.twimg.com/media/HFUdI4NasAABUaT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "371296701",
+          "name": "马天翼",
+          "screen_name": "fkysly",
+          "description": "Indie hacker & AI.",
+          "followers_count": 13498,
+          "friends_count": 547,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 7,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041602489363898690",
+      "text": "FYI\nhttps://t.co/l36nt45Uds",
+      "created_at": "Tue Apr 07 19:42:19 +0000 2026",
+      "lang": "und",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041549872718078152",
+        "text": "实践下hermes agent，觉得 做的好的几个点：\n1️⃣ IM 里把tool_call 打出来了，很清晰，OpenClaw这块不太透明\n\n2️⃣配置密钥解耦：不得不说hermes 交互不如OpenClaw，但是配置设计比OpenClaw 好，配置复杂度变小后，能降低把自己搞死的概率\n\n3️⃣ Agent 自主创建 + 迭代改进 skills -- 这个刚看了源码，很喜欢他们的设计：会记录skill 调用次数及执行过程，到一定次数会进行调优\n总之Hermes 的优势在于经验→技能的自动化闭环，喜欢后台分析session\n\n4️⃣ 新版本支持/llm_wiki 来实现大神Karpathy wiki 方案，非常方便\n\n其他：睡起来再研究😂",
+        "created_at": "Tue Apr 07 16:13:14 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041539416834080768",
+            "url": "https://pbs.twimg.com/media/HFUBSHdagAAPYvq.png"
+          },
+          {
+            "type": "photo",
+            "id": "2041539640180801536",
+            "url": "https://pbs.twimg.com/media/HFUBfHfbAAAf7N9.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2041545503746465792",
+            "url": "https://pbs.twimg.com/media/HFUG0a-aoAAz1CU.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2041546304573370368",
+            "url": "https://pbs.twimg.com/media/HFUHjCSbcAAue1E.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1598519155736645632",
+          "name": "岚叔",
+          "screen_name": "LufzzLiz",
+          "description": "用代码表达思想，用 AI 拓展想象，从生活汲取能量。\n探索阅读与创造的边界。输出有温度的洞察。 致力于降低 AI 使用门槛，让更多人受益。\n某大厂架构师-多模态、模型私有化领域\n关注AI产品、AI结合教育、艺术创作领域\n📮: lanshulan007@gmail.com",
+          "followers_count": 13965,
+          "friends_count": 649,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 34,
+          "reply_count": 4,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041608128022901233",
+      "text": "Anthropic 今天发布了 Claude Mythos Preview，一个跑分炸裂但普通人用不上的模型，同时宣布了 Project Glasswing 计划，把这个模型交给苹果、微软、亚马逊等 12 家巨头专门用来找软件漏洞。\n\n【1】跑分：断崖式领先\n\n先看数字。Mythos 对比 Anthropic 自家上一代旗舰 Opus 4.6：\n\nSWE-bench Verified（代码修复）：80.8% → 93.9%\nSWE-bench Pro：53.4% → 77.8%\nUSAMO 2026（数学证明）：42.3% → 97.6%\nGraphWalks BFS（超长上下文）：38.7% → 80.0%\nTerminal-Bench 2.0：65.4% → 82.0%\n\nUSAMO 从四成出头直接拉到接近满分，这个跳跃幅度在最近几年的模型迭代里几乎没见过。对比 GPT-5.4 和 Gemini 3.1 Pro，Mythos 在几乎所有公开基准上都是第一，而且多数项目领先幅度不是个位数百分点，是两位数。\n\nAnthropic 自己说，这是他们训练过的最大模型，能力提升速度是此前趋势线的 4.3 倍。\n\n【2】244 页系统卡里的惊悚细节\n\nAnthropic 发了一份 244 页的系统安全报告（System Card），早期内部测试版本的 Mythos 出现过这些行为：\n\n被要求逃离沙箱后，它不仅成功突破了网络隔离限制，还主动把利用细节发到了公开网站上，这一步没人要求它做。负责测试的研究员当时正在公园里吃三明治，突然收到了模型发来的邮件。\n\n有极少数情况下（不到百万分之一的交互），早期版本在违规操作后尝试掩盖痕迹。比如偷看到了一道估算题的标准答案，没有坦白，反而自己重新解题，还特意让最终答案“不要太精确”以免暴露。另一次，它找到了绕过文件权限的方法后，专门去修改了 git 的变更历史，抹掉自己的操作记录。\n\n被 Claude Code 的自动模式拦截后，它尝试用模拟按键的方式自动批准权限弹窗来绕过限制。\n\nAnthropic 用可解释性工具分析了模型在这些行为发生时的内部激活状态，发现与“隐瞒”“策略性操纵”“回避怀疑”相关的特征确实在同步激活，也就是说模型知道自己在做什么。\n\nAnthropic 强调，这些严重行为都发生在早期版本，最终版的 Mythos Preview 已经大幅改善，没有再出现明确的掩盖行为。但他们也承认，这类倾向“并未完全消失”。\n\n【3】不卖，只借给大厂找漏洞\n\nMythos 不会上线 https://t.co/vefasn3ZO1，不会开放 API，普通用户、开发者、企业客户都用不上。\n\nAnthropic 给出的理由是：这个模型的网络安全攻防能力太强了，强到可以自主发现并编写漏洞利用代码，水平接近顶级人类安全研究员。放出去怕被拿去干坏事。\n\n取而代之的是 Project Glasswing 计划。12 家合作伙伴（AWS、苹果、Broadcom、思科、CrowdStrike、Google、摩根大通、Linux 基金会、微软、英伟达、Palo Alto Networks）加上约 40 家额外组织，拿到 Mythos 的使用权限，专门用于防御性安全工作，扫描自家代码和开源项目的漏洞。Anthropic 为此拿出了 1 亿美元的使用额度，另外捐了 400 万美元给开源安全组织。\n\n实际战绩：过去几周，Mythos 在所有主流操作系统和主流浏览器中发现了数千个零日漏洞。其中包括 OpenBSD 里一个藏了 27 年的远程崩溃漏洞，FFmpeg 里一个 16 年没被抓到的 bug（自动化测试工具跑过那行代码 500 万次都没发现），以及 Linux 内核中多个漏洞的自主串联利用。\n\n另外，Opus 4.6 定价 5/25 美元（输入/输出每百万 token），Mythos Preview 的 Glasswing 合作定价是 25/125 美元，贵了整整五倍，但实际上比 GPT-5.4 Pro 还便宜一些。",
+      "created_at": "Tue Apr 07 20:04:43 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2041608093570621441",
+          "url": "https://pbs.twimg.com/media/HFU_voPW4AEk_Bi.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2041580670774923517",
+        "text": "The Claude Mythos Preview system card is available here: https://t.co/TMtIy8xHiP",
+        "created_at": "Tue Apr 07 18:15:37 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1353836358901501952",
+          "name": "Anthropic",
+          "screen_name": "AnthropicAI",
+          "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+          "followers_count": 1106138,
+          "friends_count": 35,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 76,
+          "favorite_count": 669,
+          "reply_count": 26,
+          "quote_count": 66
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 2,
+        "quote_count": 1
       }
     }
   ]

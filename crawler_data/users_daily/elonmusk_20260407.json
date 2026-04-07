@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237809843,
+    "followers_count": 237812526,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260407",
-  "last_updated": "2026-04-07T18:21:12.107523",
-  "tweet_count": 35,
+  "last_updated": "2026-04-07T20:14:14.547605",
+  "tweet_count": 36,
   "tweets": [
     {
       "id": "2041326712252956991",
@@ -1629,6 +1629,57 @@
         "favorite_count": 12348,
         "reply_count": 1150,
         "quote_count": 48
+      }
+    },
+    {
+      "id": "2041592146311192598",
+      "text": "RT @magicsilicon: Looking forward to an exciting partnership with @elonmusk and building Terafab together! https://t.co/Hi3sfAnP3J",
+      "created_at": "Tue Apr 07 19:01:13 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2041570085442351105",
+          "url": "https://pbs.twimg.com/media/HFUdLQ7a8AEPLnm.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2041570515002048949",
+        "text": "Looking forward to an exciting partnership with @elonmusk and building Terafab together! https://t.co/Hi3sfAnP3J",
+        "created_at": "Tue Apr 07 17:35:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041570085442351105",
+            "url": "https://pbs.twimg.com/media/HFUdLQ7a8AEPLnm.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "241662924",
+          "name": "Pushkar Ranade",
+          "screen_name": "magicsilicon",
+          "description": "Tweets about technology, computing, investing, history and politics. I write about semiconductors. Subscribe to my ✍️ at:",
+          "followers_count": 5166,
+          "friends_count": 2064,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 355,
+          "favorite_count": 3496,
+          "reply_count": 320,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 355,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
