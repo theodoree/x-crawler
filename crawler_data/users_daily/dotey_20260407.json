@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206234,
+    "followers_count": 206238,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260407",
-  "last_updated": "2026-04-07T14:36:05.537370",
-  "tweet_count": 4,
+  "last_updated": "2026-04-07T16:25:07.797208",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2041307413777883484",
@@ -141,6 +141,112 @@
         "favorite_count": 60,
         "reply_count": 5,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2041537335896969515",
+      "text": "AK 分享了提示词：https://t.co/j0tNCKv0cr\n\nhttps://t.co/o3pxCu59JB",
+      "created_at": "Tue Apr 07 15:23:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041535832490914156",
+        "text": "@dotey ak大神这个思路真的打开了新世界\n在信息输入的同时就进行整理\n\n就是这个整理的skill他有开源吗\n或者有什么好的推荐的吗",
+        "created_at": "Tue Apr 07 15:17:27 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1923215615227199489",
+          "name": "赖叔 | LaiShu.ai",
+          "screen_name": "hiheimu",
+          "description": "前制造业 IT 研发经理｜曾带百人团队\n记录重返 AI 时代的学习、思考与判断\nAI in use · thinking out loud",
+          "followers_count": 847,
+          "friends_count": 486,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 17,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041537869102170495",
+      "text": "Skill 可以参考这个版本：\nhttps://t.co/H3ApfI0GF9",
+      "created_at": "Tue Apr 07 15:25:32 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 22,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041543098451259772",
+      "text": "好莱坞女星 Milla Jovovich（《第五元素》女主角）和开发者 Ben Sigman 联合发布了一个开源 AI 记忆系统 MemPalace，声称在 LongMemEval 基准测试中拿下满分，是有史以来第一个做到这个成绩的系统。项目完全本地运行，不需要云服务和 API 密钥，免费开源。\n\n【1】它想解决什么问题\n\n每次和 AI 对话结束后，所有上下文都消失了。你花几个小时跟 Claude 或 ChatGPT 解释你的项目架构、技术选型、调试过程，第二天它全忘了。半年下来可能积累了近 2000 万 Token 的对话，但没有一个系统帮你把这些东西管起来。\n\n现有的记忆方案（比如 Mem0、Zep）让 AI 自己决定记什么，提取出“用户喜欢 Postgres”这样的标签，但把你解释为什么选 Postgres 的那段对话丢掉了。MemPalace 的思路相反：全部存下来，靠结构让它可搜索。\n\n【2】怎么做的\n\n借鉴了古希腊“记忆宫殿”（方位记忆法）的概念：把对话按项目和人物分成“翼”（wing），每个翼里按主题分成“房间”（room），房间之间有“走廊”（hall）按记忆类型分类，不同翼的同名房间通过“隧道”（tunnel）互相关联。\n\n同时开发了一种叫 AAAK 的压缩语法，号称能把上下文压缩 30 倍，让 AI 用大约 120 个 Token 就加载几个月的关键信息。支持所有主流模型，包括本地运行的 Llama 和 Mistral。\n\n通过 MCP 协议接入 Claude 等工具后，AI 会自动调用 MemPalace 的 19 个工具来搜索历史对话，用户不需要手动操作。\n\n【3】争议\n\n项目发布当天就遭到多方质疑，其中最系统的一篇来自 Penfield Labs，逐条拆解了 benchmark 数据的问题：\nLongMemEval 的“满分”实际上只做了检索这一步，没有生成答案，也没有经过评判。\n\n标准排行榜上的成绩是端到端的问答准确率，MemPalace 测的只是“能不能找到正确的对话片段”，难度低了一个量级。项目自己的文档也承认，最后三道题的修复是针对特定题目写的补丁代码，属于“teaching to the test”。\n\nLoCoMo 基准测试的 100% 更离谱：10 段对话最多 32 个会话，但检索参数设成了 top_k=50，等于把所有内容全部丢给 Sonnet 做阅读理解，检索层完全被绕过了。项目自己的 BENCHMARKS.md 文件里白纸黑字写了这一点。而且 LoCoMo 数据集本身的标准答案就有大约 99 道题是错的，理论上不可能 100%。\n\n“无损压缩”也站不住脚。AAAK 模块把句子截断到 55 个字符，decode 函数不能还原原文。项目自己跑的测试里，用 AAAK 压缩后的检索准确率从 96.6% 掉到了 84.2%，差了 12 个百分点。无损压缩不会导致质量下降。\n\n宣传材料里提到的“矛盾检测”功能，在代码里也找不到实现。知识图谱模块只做了完全匹配的去重，矛盾的事实可以无限累积。\n\n【4】该怎么看\n\n项目内部文档其实还比较靠谱，大部分方法论缺陷在 BENCHMARKS.md 里都有披露。问题在于发布推文把所有限定条件都去掉了，只留下了最炸裂的数字。\n\n抛开 benchmark 争议，MemPalace 的核心想法有可取之处：用结构化的方式组织对话记忆，全部本地运行，不依赖云服务。仅靠宫殿结构分层检索，准确率就提升了 34%，这个数字是实测的。纯本地无 API 的基线成绩 96.6% R@5 也确实是同类系统中最高的。\n\n简单来说：明星光环制造的传播效果远超工程本身的分量。",
+      "created_at": "Tue Apr 07 15:46:19 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041542853340573696",
+          "url": "https://video.twimg.com/amplify_video/2041542853340573696/vid/avc1/720x870/igK_9_Jii-L7ziRS.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2041229266432733356",
+        "text": "Excited to announce a new open-source, free-to-use memory tool I have been developing with my good friend @MillaJovovich.\n\nThe project is called MemPalace and it is an agentic memory tool that scored 100% on LongMemEval - the industry standard benchmark for memory… this is higher on than any other published results - free or paid - and it is available now on GitHub. \n\nYou can check out Milla’s video about it on her Instagram. \n\nI’ll also put some links in the comments below - please try it out, critique it, fork it, contribute to it - and join our discord.",
+        "created_at": "Mon Apr 06 18:59:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041229261441507328",
+            "url": "https://pbs.twimg.com/media/HFPnMslaoAAbx8R.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16531881",
+          "name": "Ben Sigman",
+          "screen_name": "bensig",
+          "description": "🛠️ https://t.co/HUNhmFa3Ro",
+          "followers_count": 42603,
+          "friends_count": 2591,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 266,
+          "favorite_count": 2255,
+          "reply_count": 112,
+          "quote_count": 207
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 31,
+        "reply_count": 5,
+        "quote_count": 2
       }
     }
   ]
