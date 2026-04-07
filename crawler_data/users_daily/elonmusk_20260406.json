@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237817971,
+    "followers_count": 237817934,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260406",
-  "last_updated": "2026-04-06T22:11:19.847175",
-  "tweet_count": 35,
+  "last_updated": "2026-04-07T00:26:24.263062",
+  "tweet_count": 36,
   "tweets": [
     {
       "id": "2040955175834390991",
@@ -1772,6 +1772,52 @@
       "quoted": null,
       "stats": {
         "retweet_count": 386,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041289689601306885",
+      "text": "RT @benjitaylor: In addition to larger features, my goal is to make 𝕏 faster and more delightful to use overall, which means upgrading lots…",
+      "created_at": "Mon Apr 06 22:59:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041234542049341626",
+        "text": "In addition to larger features, my goal is to make 𝕏 faster and more delightful to use overall, which means upgrading lots of little things across the product. This is a new sidebar we’re now rolling out on iOS. Excited for more details like this. https://t.co/0XRp0HSGA4",
+        "created_at": "Mon Apr 06 19:20:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041234477956169728",
+            "url": "https://video.twimg.com/amplify_video/2041234477956169728/vid/avc1/1260x2736/28M8fvSZhPRQ-Ews.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2606432720",
+          "name": "Benji Taylor",
+          "screen_name": "benjitaylor",
+          "description": "leading design @x. prev. head of design @base. founder @family (acq by @aave). tools @dip.",
+          "followers_count": 109537,
+          "friends_count": 425,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 313,
+          "favorite_count": 3344,
+          "reply_count": 577,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 313,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

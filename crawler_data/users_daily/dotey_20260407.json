@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 206196,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260407",
+  "last_updated": "2026-04-07T00:26:24.251929",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2041307413777883484",
+      "text": "Anthropic 年化收入突破 300 亿美元，超过 OpenAI\n\n2024 年 12 月，Anthropic 的年化收入（run-rate revenue，把当月收入乘以 12 得到的数字）刚到 10 亿美元。2025 年底涨到 90 亿，今年 2 月 140 亿，3 月 190 亿，今天 Anthropic 官方确认：300 亿。\n\n300 亿是什么概念？OpenAI 目前月收入约 20 亿美元，年化大约 240 亿。也就是说，Anthropic 在收入上已经超过了 OpenAI。一家 2021 年才成立、不到三年前才赚到第一美元的公司，跑赢了它的母体。\n\n增长速度更吓人：连续三年年化收入 10 倍增长。10 亿到 90 亿到 140 亿到 300 亿，每个节点之间的间隔越来越短。从 190 亿到 300 亿只用了一个月，一个月新增了 110 亿的年化收入。\n\n企业客户端同样在加速。今年 2 月，年消费超过 100 万美元的企业客户是 500 多家。今天这个数字翻倍到了 1000 家，不到两个月。财富 10 强中有 8 家是 Claude 的客户。每个月活用户贡献约 211 美元收入，OpenAI 的对应数字是每周活用户 25 美元，变现效率差了 8 倍。用户少得多，收入反而更高，企业级路线走通了。\n\nClaude Code 是这轮增长最大的推手。这个产品 2025 年 5 月才公开发布，9 个月做到 25 亿美元年化收入。目前 GitHub 上 4% 的公开 commit 由 Claude Code 生成，据报道年底可能达到 20%，也就是地球上每五个代码提交里有一个来自同一个模型。\n\n为了撑住这个需求，Anthropic 今天同时宣布了一个大动作：和 Google、Broadcom 签署协议，采购数吉瓦级别的下一代 TPU 算力，预计 2027 年起陆续上线。绝大部分算力将部署在美国境内。这些算力主要用于推理，也就是跑现有的模型服务用户，而不是训练下一代模型。Claude 目前同时跑在 AWS Trainium、Google TPU 和 NVIDIA GPU 三种芯片上，是唯一同时在三大云平台（AWS Bedrock、Google Cloud Vertex AI、Microsoft Azure Foundry）上架的前沿 AI 模型。\n\n二级市场已经开始重新定价。Anthropic 今年 2 月刚以 3800 亿美元估值完成 300 亿美元融资。多个消息源提到，买方需求远超卖方供给，有分析认为隐含估值已经朝 6000 亿方向走。公司正在准备 IPO，已经聘请了 Wilson Sonsini 做法律顾问，多家媒体报道最早可能在今年下半年。\n\n一个有意思的对比：OpenAI 刚完成 1220 亿美元融资，估值 8520 亿。但 Anthropic 收入已经超过 OpenAI，增速也更快，估值却只有 OpenAI 的不到一半。IPO 定价的时候，市场会怎么给这家连续三年 10 倍增长的公司算估值？",
+      "created_at": "Tue Apr 07 00:09:47 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041275563466502560",
+        "text": "Our run-rate revenue has surpassed $30 billion, up from $9 billion at the end of 2025, as demand for Claude continues to accelerate. This partnership gives us the compute to keep pace.\n\nRead more: https://t.co/XgSjL0And7",
+        "created_at": "Mon Apr 06 22:03:14 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1353836358901501952",
+          "name": "Anthropic",
+          "screen_name": "AnthropicAI",
+          "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+          "followers_count": 1098773,
+          "friends_count": 35,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 146,
+          "favorite_count": 1823,
+          "reply_count": 64,
+          "quote_count": 176
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 15,
+        "reply_count": 6,
+        "quote_count": 1
+      }
+    }
+  ]
+}
