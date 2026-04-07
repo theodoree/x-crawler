@@ -1,12 +1,61 @@
 {
   "date": "20260407",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-07T12:20:49.361180",
-  "tweet_count": 233,
-  "unique_tweet_count": 233,
-  "total_crawled": 432,
+  "last_crawl_time": "2026-04-07T14:36:05.507425",
+  "tweet_count": 234,
+  "unique_tweet_count": 234,
+  "total_crawled": 433,
   "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2041509264221483449",
+      "text": "因为太多人写过 Andrej Karpathy 的 LLM Wiki，我就没写，其实在我心中比 Auto Research 更有创意，Auto Research 本身不新鲜，早就有相关理论，但 LLM WIKI 倒是让我眼前一亮。\n\n我们每个人或多或少都在做信息收集的工作，比如 X 上看到好的文章点赞或者收藏，看到一篇好的技术文章添加到浏览器收藏夹，微信上有人分享了篇好文章点收藏，还有更多的是惊鸿一瞥再也找不到然后想起来根据关键词去 Google ……\n\n其实绝大部分收藏后再也不会打开，一方面是因为收藏即看过的心理暗示，一方面是因为散落各地找起来太麻烦。\n\n所以第一个问题其实是中心化的信息收集整理，把散落在各处的信息汇聚在一处。\n\n已经有很多工具了，我自己也有写小工具/agent 帮助收集信息，因为我除了收集外还有一些二次加工的需要，比如翻译、总结。\n\n但还存在问题就是信息是点状的，最多人工打个tag、加个分类。\n\n但 Karpathy 的更进一步，让 LLM 帮你把信息整理成结构化的。这一步是我之前没考虑过的，也没见过有其他产品做的。\n\n这里面的差别在于以前整理是要人做的，你自己建分类，自己打 tag，对于勤劳的爱整理的人当然没问题，但对于我这种懒人来说是不会做的，所以找信息是比较麻烦的。\n\n但如果这种事情让 Agent 做，那就省事多了，毕竟它不知疲倦，而且极擅长处理内容。\n\n只要稍加调教，它就能帮你把信息整理得井井有条，编程成你自己喜欢的格式，就像你的秘书一样，你只要去看看 WIKI 就可以方便的找到需要的信息，不需要以前那样去各个地方用关键字找。\n\n这里面最核心是思路的转变，信息的收集和整理，不再是人主动的行为，而是 AI Agent 在帮你做这些事情，你所要做的就是每天去看属于自己的 WIKI。",
+      "created_at": "Tue Apr 07 13:31:52 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041469379502801373",
+        "text": "@dotey 老师怎么看 llm wiki。说下浅见，如 karpathy 说是个 idea，并没有如 autoreaerch 一样有工程示例。对于 raw 的摘要和索引这个不新鲜，之前很多这样做的，只是把这一部分当做查询 raw 的桥梁。现在升级为 wiki 之后， query 时不查 raw 而直接查 wiki，但从 raw 到 wiki 的压缩并没看到技术实现的进步",
+        "created_at": "Tue Apr 07 10:53:23 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1549382488874553344",
+          "name": "zwdroid",
+          "screen_name": "zwdroidai",
+          "description": "",
+          "followers_count": 37,
+          "friends_count": 331,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206234,
+        "friends_count": 1597,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 60,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2041418536707563585",
       "text": "A fever dream",
