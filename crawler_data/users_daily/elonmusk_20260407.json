@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237803646,
+    "followers_count": 237809843,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260407",
-  "last_updated": "2026-04-07T16:25:07.805189",
-  "tweet_count": 31,
+  "last_updated": "2026-04-07T18:21:12.107523",
+  "tweet_count": 35,
   "tweets": [
     {
       "id": "2041326712252956991",
@@ -1407,6 +1407,228 @@
         "favorite_count": 6825,
         "reply_count": 1018,
         "quote_count": 19
+      }
+    },
+    {
+      "id": "2041566253438156980",
+      "text": "RT @Tesla: Intel is joining Terafab! \n\nTesla, @xAI and @SpaceX are launching the most epic chip-building effort ever – combining logic, mem…",
+      "created_at": "Tue Apr 07 17:18:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041512897277493411",
+        "text": "Intel is joining Terafab! \n\nTesla, @xAI and @SpaceX are launching the most epic chip-building effort ever – combining logic, memory &amp; advanced packaging under one roof\n\nhttps://t.co/nxYbLUEvuC",
+        "created_at": "Tue Apr 07 13:46:18 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041501301318766866",
+          "text": "Intel is proud to join the Terafab project with @SpaceX, @xAI, and @Tesla to help refactor silicon fab technology.\n\nOur ability to design, fabricate, and package ultra-high-performance chips at scale will help accelerate Terafab’s aim to produce 1 TW/year of compute to power future advances in AI and robotics.\n\nIt was fun hosting @elonmusk at Intel this past weekend!",
+          "created_at": "Tue Apr 07 13:00:14 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2041498320968052736",
+              "url": "https://pbs.twimg.com/media/HFTb6BbbcAANe5y.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2803191",
+            "name": "Intel",
+            "screen_name": "intel",
+            "description": "Intel news, stories & events about global tech innovation. That’s the power of #IntelInside. Looking for support? Visit: https://t.co/ofvIi4CIFc",
+            "followers_count": 4461875,
+            "friends_count": 1335,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1278,
+            "favorite_count": 8964,
+            "reply_count": 563,
+            "quote_count": 521
+          }
+        },
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24726879,
+          "friends_count": 56,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1139,
+          "favorite_count": 9663,
+          "reply_count": 485,
+          "quote_count": 113
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1139,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041566390738665769",
+      "text": "Looking forward to working with Intel on the Terafab!",
+      "created_at": "Tue Apr 07 17:18:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041501301318766866",
+        "text": "Intel is proud to join the Terafab project with @SpaceX, @xAI, and @Tesla to help refactor silicon fab technology.\n\nOur ability to design, fabricate, and package ultra-high-performance chips at scale will help accelerate Terafab’s aim to produce 1 TW/year of compute to power future advances in AI and robotics.\n\nIt was fun hosting @elonmusk at Intel this past weekend!",
+        "created_at": "Tue Apr 07 13:00:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041498320968052736",
+            "url": "https://pbs.twimg.com/media/HFTb6BbbcAANe5y.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2803191",
+          "name": "Intel",
+          "screen_name": "intel",
+          "description": "Intel news, stories & events about global tech innovation. That’s the power of #IntelInside. Looking for support? Visit: https://t.co/ofvIi4CIFc",
+          "followers_count": 4461875,
+          "friends_count": 1335,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1278,
+          "favorite_count": 8964,
+          "reply_count": 563,
+          "quote_count": 521
+        }
+      },
+      "stats": {
+        "retweet_count": 2102,
+        "favorite_count": 21599,
+        "reply_count": 2268,
+        "quote_count": 124
+      }
+    },
+    {
+      "id": "2041566643802009992",
+      "text": "RT @SpaceX: Intel is joining Terafab! \n\nSpaceX, @xAI, and @Tesla are launching the most epic chip-building effort ever - combining logic, m…",
+      "created_at": "Tue Apr 07 17:19:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041508085215187427",
+        "text": "Intel is joining Terafab! \n\nSpaceX, @xAI, and @Tesla are launching the most epic chip-building effort ever - combining logic, memory, and advanced packaging under one roof → https://t.co/512DIlqNgY",
+        "created_at": "Tue Apr 07 13:27:11 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041501301318766866",
+          "text": "Intel is proud to join the Terafab project with @SpaceX, @xAI, and @Tesla to help refactor silicon fab technology.\n\nOur ability to design, fabricate, and package ultra-high-performance chips at scale will help accelerate Terafab’s aim to produce 1 TW/year of compute to power future advances in AI and robotics.\n\nIt was fun hosting @elonmusk at Intel this past weekend!",
+          "created_at": "Tue Apr 07 13:00:14 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2041498320968052736",
+              "url": "https://pbs.twimg.com/media/HFTb6BbbcAANe5y.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2803191",
+            "name": "Intel",
+            "screen_name": "intel",
+            "description": "Intel news, stories & events about global tech innovation. That’s the power of #IntelInside. Looking for support? Visit: https://t.co/ofvIi4CIFc",
+            "followers_count": 4461875,
+            "friends_count": 1335,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1278,
+            "favorite_count": 8964,
+            "reply_count": 563,
+            "quote_count": 521
+          }
+        },
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41420515,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1391,
+          "favorite_count": 10419,
+          "reply_count": 509,
+          "quote_count": 144
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1391,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041567389637353488",
+      "text": "Honored to work with Intel and Lip-Bu",
+      "created_at": "Tue Apr 07 17:22:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041502088182833531",
+        "text": "Elon has a proven track record of reimagining entire industries. This is exactly what is needed in semiconductor manufacturing today. Terafab represents a step change in how silicon logic, memory and packaging will get built in the future. Intel is proud to be a partner and work closely with Elon on this highly strategic project 🚀🚀",
+        "created_at": "Tue Apr 07 13:03:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1548488713440595968",
+          "name": "Lip-Bu Tan",
+          "screen_name": "LipBuTan1",
+          "description": "CEO of Intel Corporation, Chairman of Walden International, Founding Managing Partner of Walden Catalyst Ventures",
+          "followers_count": 20301,
+          "friends_count": 37,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 521,
+          "favorite_count": 4519,
+          "reply_count": 189,
+          "quote_count": 52
+        }
+      },
+      "stats": {
+        "retweet_count": 1058,
+        "favorite_count": 12348,
+        "reply_count": 1150,
+        "quote_count": 48
       }
     }
   ]

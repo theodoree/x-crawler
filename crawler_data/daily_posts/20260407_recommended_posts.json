@@ -1,12 +1,274 @@
 {
   "date": "20260407",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-07T16:25:07.766957",
-  "tweet_count": 237,
-  "unique_tweet_count": 237,
-  "total_crawled": 434,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-04-07T18:21:12.069026",
+  "tweet_count": 241,
+  "unique_tweet_count": 241,
+  "total_crawled": 437,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2041567389637353488",
+      "text": "Honored to work with Intel and Lip-Bu",
+      "created_at": "Tue Apr 07 17:22:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041502088182833531",
+        "text": "Elon has a proven track record of reimagining entire industries. This is exactly what is needed in semiconductor manufacturing today. Terafab represents a step change in how silicon logic, memory and packaging will get built in the future. Intel is proud to be a partner and work closely with Elon on this highly strategic project 🚀🚀",
+        "created_at": "Tue Apr 07 13:03:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1548488713440595968",
+          "name": "Lip-Bu Tan",
+          "screen_name": "LipBuTan1",
+          "description": "CEO of Intel Corporation, Chairman of Walden International, Founding Managing Partner of Walden Catalyst Ventures",
+          "followers_count": 20301,
+          "friends_count": 37,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 521,
+          "favorite_count": 4519,
+          "reply_count": 189,
+          "quote_count": 52
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237809843,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1058,
+        "favorite_count": 12348,
+        "reply_count": 1150,
+        "quote_count": 48
+      }
+    },
+    {
+      "id": "2041566643802009992",
+      "text": "RT @SpaceX: Intel is joining Terafab! \n\nSpaceX, @xAI, and @Tesla are launching the most epic chip-building effort ever - combining logic, m…",
+      "created_at": "Tue Apr 07 17:19:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041508085215187427",
+        "text": "Intel is joining Terafab! \n\nSpaceX, @xAI, and @Tesla are launching the most epic chip-building effort ever - combining logic, memory, and advanced packaging under one roof → https://t.co/512DIlqNgY",
+        "created_at": "Tue Apr 07 13:27:11 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041501301318766866",
+          "text": "Intel is proud to join the Terafab project with @SpaceX, @xAI, and @Tesla to help refactor silicon fab technology.\n\nOur ability to design, fabricate, and package ultra-high-performance chips at scale will help accelerate Terafab’s aim to produce 1 TW/year of compute to power future advances in AI and robotics.\n\nIt was fun hosting @elonmusk at Intel this past weekend!",
+          "created_at": "Tue Apr 07 13:00:14 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2041498320968052736",
+              "url": "https://pbs.twimg.com/media/HFTb6BbbcAANe5y.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2803191",
+            "name": "Intel",
+            "screen_name": "intel",
+            "description": "Intel news, stories & events about global tech innovation. That’s the power of #IntelInside. Looking for support? Visit: https://t.co/ofvIi4CIFc",
+            "followers_count": 4461875,
+            "friends_count": 1335,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1278,
+            "favorite_count": 8964,
+            "reply_count": 563,
+            "quote_count": 521
+          }
+        },
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41420515,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1391,
+          "favorite_count": 10419,
+          "reply_count": 509,
+          "quote_count": 144
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237809843,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1391,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041566390738665769",
+      "text": "Looking forward to working with Intel on the Terafab!",
+      "created_at": "Tue Apr 07 17:18:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041501301318766866",
+        "text": "Intel is proud to join the Terafab project with @SpaceX, @xAI, and @Tesla to help refactor silicon fab technology.\n\nOur ability to design, fabricate, and package ultra-high-performance chips at scale will help accelerate Terafab’s aim to produce 1 TW/year of compute to power future advances in AI and robotics.\n\nIt was fun hosting @elonmusk at Intel this past weekend!",
+        "created_at": "Tue Apr 07 13:00:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041498320968052736",
+            "url": "https://pbs.twimg.com/media/HFTb6BbbcAANe5y.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2803191",
+          "name": "Intel",
+          "screen_name": "intel",
+          "description": "Intel news, stories & events about global tech innovation. That’s the power of #IntelInside. Looking for support? Visit: https://t.co/ofvIi4CIFc",
+          "followers_count": 4461875,
+          "friends_count": 1335,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1278,
+          "favorite_count": 8964,
+          "reply_count": 563,
+          "quote_count": 521
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237809843,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2102,
+        "favorite_count": 21599,
+        "reply_count": 2268,
+        "quote_count": 124
+      }
+    },
+    {
+      "id": "2041566253438156980",
+      "text": "RT @Tesla: Intel is joining Terafab! \n\nTesla, @xAI and @SpaceX are launching the most epic chip-building effort ever – combining logic, mem…",
+      "created_at": "Tue Apr 07 17:18:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041512897277493411",
+        "text": "Intel is joining Terafab! \n\nTesla, @xAI and @SpaceX are launching the most epic chip-building effort ever – combining logic, memory &amp; advanced packaging under one roof\n\nhttps://t.co/nxYbLUEvuC",
+        "created_at": "Tue Apr 07 13:46:18 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041501301318766866",
+          "text": "Intel is proud to join the Terafab project with @SpaceX, @xAI, and @Tesla to help refactor silicon fab technology.\n\nOur ability to design, fabricate, and package ultra-high-performance chips at scale will help accelerate Terafab’s aim to produce 1 TW/year of compute to power future advances in AI and robotics.\n\nIt was fun hosting @elonmusk at Intel this past weekend!",
+          "created_at": "Tue Apr 07 13:00:14 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2041498320968052736",
+              "url": "https://pbs.twimg.com/media/HFTb6BbbcAANe5y.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2803191",
+            "name": "Intel",
+            "screen_name": "intel",
+            "description": "Intel news, stories & events about global tech innovation. That’s the power of #IntelInside. Looking for support? Visit: https://t.co/ofvIi4CIFc",
+            "followers_count": 4461875,
+            "friends_count": 1335,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1278,
+            "favorite_count": 8964,
+            "reply_count": 563,
+            "quote_count": 521
+          }
+        },
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24726879,
+          "friends_count": 56,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1139,
+          "favorite_count": 9663,
+          "reply_count": 485,
+          "quote_count": 113
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237809843,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1139,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2041543098451259772",
       "text": "好莱坞女星 Milla Jovovich（《第五元素》女主角）和开发者 Ben Sigman 联合发布了一个开源 AI 记忆系统 MemPalace，声称在 LongMemEval 基准测试中拿下满分，是有史以来第一个做到这个成绩的系统。项目完全本地运行，不需要云服务和 API 密钥，免费开源。\n\n【1】它想解决什么问题\n\n每次和 AI 对话结束后，所有上下文都消失了。你花几个小时跟 Claude 或 ChatGPT 解释你的项目架构、技术选型、调试过程，第二天它全忘了。半年下来可能积累了近 2000 万 Token 的对话，但没有一个系统帮你把这些东西管起来。\n\n现有的记忆方案（比如 Mem0、Zep）让 AI 自己决定记什么，提取出“用户喜欢 Postgres”这样的标签，但把你解释为什么选 Postgres 的那段对话丢掉了。MemPalace 的思路相反：全部存下来，靠结构让它可搜索。\n\n【2】怎么做的\n\n借鉴了古希腊“记忆宫殿”（方位记忆法）的概念：把对话按项目和人物分成“翼”（wing），每个翼里按主题分成“房间”（room），房间之间有“走廊”（hall）按记忆类型分类，不同翼的同名房间通过“隧道”（tunnel）互相关联。\n\n同时开发了一种叫 AAAK 的压缩语法，号称能把上下文压缩 30 倍，让 AI 用大约 120 个 Token 就加载几个月的关键信息。支持所有主流模型，包括本地运行的 Llama 和 Mistral。\n\n通过 MCP 协议接入 Claude 等工具后，AI 会自动调用 MemPalace 的 19 个工具来搜索历史对话，用户不需要手动操作。\n\n【3】争议\n\n项目发布当天就遭到多方质疑，其中最系统的一篇来自 Penfield Labs，逐条拆解了 benchmark 数据的问题：\nLongMemEval 的“满分”实际上只做了检索这一步，没有生成答案，也没有经过评判。\n\n标准排行榜上的成绩是端到端的问答准确率，MemPalace 测的只是“能不能找到正确的对话片段”，难度低了一个量级。项目自己的文档也承认，最后三道题的修复是针对特定题目写的补丁代码，属于“teaching to the test”。\n\nLoCoMo 基准测试的 100% 更离谱：10 段对话最多 32 个会话，但检索参数设成了 top_k=50，等于把所有内容全部丢给 Sonnet 做阅读理解，检索层完全被绕过了。项目自己的 BENCHMARKS.md 文件里白纸黑字写了这一点。而且 LoCoMo 数据集本身的标准答案就有大约 99 道题是错的，理论上不可能 100%。\n\n“无损压缩”也站不住脚。AAAK 模块把句子截断到 55 个字符，decode 函数不能还原原文。项目自己跑的测试里，用 AAAK 压缩后的检索准确率从 96.6% 掉到了 84.2%，差了 12 个百分点。无损压缩不会导致质量下降。\n\n宣传材料里提到的“矛盾检测”功能，在代码里也找不到实现。知识图谱模块只做了完全匹配的去重，矛盾的事实可以无限累积。\n\n【4】该怎么看\n\n项目内部文档其实还比较靠谱，大部分方法论缺陷在 BENCHMARKS.md 里都有披露。问题在于发布推文把所有限定条件都去掉了，只留下了最炸裂的数字。\n\n抛开 benchmark 争议，MemPalace 的核心想法有可取之处：用结构化的方式组织对话记忆，全部本地运行，不依赖云服务。仅靠宫殿结构分层检索，准确率就提升了 34%，这个数字是实测的。纯本地无 API 的基线成绩 96.6% R@5 也确实是同类系统中最高的。\n\n简单来说：明星光环制造的传播效果远超工程本身的分量。",
