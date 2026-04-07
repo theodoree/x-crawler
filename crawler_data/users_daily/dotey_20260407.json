@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206205,
+    "followers_count": 206197,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260407",
-  "last_updated": "2026-04-07T04:50:10.468679",
-  "tweet_count": 2,
+  "last_updated": "2026-04-07T06:33:02.543877",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2041307413777883484",
@@ -63,6 +63,45 @@
         "favorite_count": 13,
         "reply_count": 5,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2041379270681833925",
+      "text": "RT @MinLiBuilds: https://t.co/lx2bdjgH5E",
+      "created_at": "Tue Apr 07 04:55:19 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2041178722230030384",
+        "text": "https://t.co/lx2bdjgH5E",
+        "created_at": "Mon Apr 06 15:38:25 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1679698342283186177",
+          "name": "实践哥MinLi",
+          "screen_name": "MinLiBuilds",
+          "description": "实践哥MinLi不做概念党，只聊 AI 实战。分享Claude，Codex，Gemini各种一手折腾心得。",
+          "followers_count": 6750,
+          "friends_count": 1408,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 78,
+          "favorite_count": 418,
+          "reply_count": 13,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 78,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
