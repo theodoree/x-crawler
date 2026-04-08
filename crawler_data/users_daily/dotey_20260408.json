@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206310,
+    "followers_count": 206330,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260408",
-  "last_updated": "2026-04-08T03:05:37.656285",
-  "tweet_count": 1,
+  "last_updated": "2026-04-08T04:51:47.620175",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2041692514340479030",
@@ -77,6 +77,45 @@
       "stats": {
         "retweet_count": 37,
         "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041714524475048446",
+      "text": "开关",
+      "created_at": "Wed Apr 08 03:07:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041708218158870834",
+        "text": "@lovevfp @dotey &gt;146应该有这个开关 chrome://flags/#vertical-tabs",
+        "created_at": "Wed Apr 08 02:42:26 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "454844250",
+          "name": "nnecec",
+          "screen_name": "nnecec_cn",
+          "description": "",
+          "followers_count": 12,
+          "friends_count": 255,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 5,
         "reply_count": 0,
         "quote_count": 0
       }

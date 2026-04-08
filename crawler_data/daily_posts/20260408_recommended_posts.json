@@ -1,12 +1,478 @@
 {
   "date": "20260408",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-08T03:05:37.598591",
-  "tweet_count": 202,
-  "unique_tweet_count": 202,
-  "total_crawled": 400,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-04-08T04:51:47.559704",
+  "tweet_count": 209,
+  "unique_tweet_count": 209,
+  "total_crawled": 402,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2041727321531674798",
+      "text": "RT @maciekmikula: I'm thrilled to join @xAI and @SpaceX!\n\nAfter many years at Google DeepMind working on Gemini (including co-founding and…",
+      "created_at": "Wed Apr 08 03:58:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041713140044591434",
+        "text": "I'm thrilled to join @xAI and @SpaceX!\n\nAfter many years at Google DeepMind working on Gemini (including co-founding and launching Gemini Diffusion at Google I/O and contributing to Gemini, Gemma, AlphaCode, and Waymo), I can't wait to see what we build together.\n\nFew places turn science fiction into reality this fast. We're forging Grok into the most capable assistant yet, making physical intelligence real, and taking it all to Space.\n\nThe last few years have been intense, but what's ahead is on another level. No better time to build — we can watch from the sidelines or be part of it. DMs are open.\n\nUnderstand the Universe 🚀",
+        "created_at": "Wed Apr 08 03:02:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041675564839530497",
+            "url": "https://pbs.twimg.com/media/HFV9G-Ta8AE5_wD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1399043732205363204",
+          "name": "Maciej Mikuła",
+          "screen_name": "maciekmikula",
+          "description": "Making sci-fi real @xAI\n\nex-Engineer @GoogleDeepMind: Gemini, Gemini Diffusion, AlphaCode, Waymo.",
+          "followers_count": 1042,
+          "friends_count": 231,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 207,
+          "favorite_count": 2025,
+          "reply_count": 234,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237813359,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 207,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041725579314262055",
+      "text": "RT @tesla_na: FSD Supervised can see &amp; react faster than you",
+      "created_at": "Wed Apr 08 03:51:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041719078663155838",
+        "text": "FSD Supervised can see &amp; react faster than you",
+        "created_at": "Wed Apr 08 03:25:36 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041704633996017686",
+          "text": "FSD 14.3 inhuman reaction time https://t.co/uthMiwwcNy",
+          "created_at": "Wed Apr 08 02:28:12 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2041703077544402944",
+              "url": "https://video.twimg.com/amplify_video/2041703077544402944/vid/avc1/2880x1440/6g-CO5T2Ayl_ZNt-.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1137314605422657537",
+            "name": "ΛI DRIVR",
+            "screen_name": "AIDRIVR",
+            "description": "directionless perfectionist",
+            "followers_count": 42484,
+            "friends_count": 420,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 51,
+            "favorite_count": 693,
+            "reply_count": 40,
+            "quote_count": 14
+          }
+        },
+        "user": {
+          "id": "1679769205938311169",
+          "name": "Tesla North America",
+          "screen_name": "tesla_na",
+          "description": "Building a world of amazing abundance",
+          "followers_count": 103879,
+          "friends_count": 20,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 243,
+          "favorite_count": 1649,
+          "reply_count": 158,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237813359,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 243,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041721974553256184",
+      "text": "RT @60Minutes: “I think that the California high-speed rail nightmare is the probably quintessential example of government waste and misman…",
+      "created_at": "Wed Apr 08 03:37:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2040934198974754835",
+        "text": "“I think that the California high-speed rail nightmare is the probably quintessential example of government waste and mismanagement,” says Rep. Vince Fong, a Republican whose district sits in California’s Central Valley, through which the project is supposed to run. https://t.co/UaSgU7ubDj",
+        "created_at": "Sun Apr 05 23:26:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2040934140506193920",
+            "url": "https://video.twimg.com/amplify_video/2040934140506193920/vid/avc1/1280x720/iMjJE9ogc9PMxrga.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "18812572",
+          "name": "60 Minutes",
+          "screen_name": "60Minutes",
+          "description": "The most successful news magazine in TV history. Send us a news tip at https://t.co/HA3SozEs8h ⏱️",
+          "followers_count": 1474030,
+          "friends_count": 502,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1353,
+          "favorite_count": 6873,
+          "reply_count": 321,
+          "quote_count": 90
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237813359,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1353,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041721593572028518",
+      "text": "RT @RonanFarrow: My 18-month investigation into Sam Altman and OpenAI in @NewYorker, with @andrewmarantz, is out now. \n\nRead here: https://…",
+      "created_at": "Wed Apr 08 03:35:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041533182512648337",
+        "text": "My 18-month investigation into Sam Altman and OpenAI in @NewYorker, with @andrewmarantz, is out now. \n\nRead here: https://t.co/HEPHN4E54P\n\nThread on a few of the key findings here: https://t.co/TVIBsUoRdB https://t.co/idOvZz1oQW",
+        "created_at": "Tue Apr 07 15:06:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041532101602758657",
+            "url": "https://video.twimg.com/amplify_video/2041532101602758657/vid/avc1/2160x3840/XswBC76ZMmtBzWUW.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2041213917611856067",
+          "text": "(🧵1/11) For the past year and a half, I've been investigating OpenAI and Sam Altman for @NewYorker. With my coauthor @andrewmarantz, I reviewed never-before-disclosed internal memos, obtained 200+ pages of documents related to a close colleague, including extensive private notes, and interviewed more than 100 people.\n\nOpenAI was founded on the premise that A.I. could be the most dangerous invention in human history—and that its C.E.O. would need to be a person of uncommon integrity. We lay out the most detailed account yet of why Altman was ousted out by board members and executives who came to believe he lacked that integrity, and ask: were they right to allege that he couldn't be trusted?\n\nA thread on some of of our findings:",
+          "created_at": "Mon Apr 06 17:58:16 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2041213620181184513",
+              "url": "https://video.twimg.com/amplify_video/2041213620181184513/vid/avc1/1080x1080/KTrbl7iy7MmINAEQ.mp4?tag=21",
+              "bitrate": 8768000
+            },
+            {
+              "type": "photo",
+              "id": "2041213696547151872",
+              "url": "https://pbs.twimg.com/media/HFPZCs1a4AAlP0a.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "340613443",
+            "name": "Ronan Farrow",
+            "screen_name": "RonanFarrow",
+            "description": "Pulitzer-winning investigative journo @newyorker. Documentaries @hbo. Ex-diplomat. Bad lawyer. Disused PhD. Tips: ronan_farrow@newyorker.com.",
+            "followers_count": 959155,
+            "friends_count": 5097,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 7686,
+            "favorite_count": 35284,
+            "reply_count": 541,
+            "quote_count": 567
+          }
+        },
+        "user": {
+          "id": "340613443",
+          "name": "Ronan Farrow",
+          "screen_name": "RonanFarrow",
+          "description": "Pulitzer-winning investigative journo @newyorker. Documentaries @hbo. Ex-diplomat. Bad lawyer. Disused PhD. Tips: ronan_farrow@newyorker.com.",
+          "followers_count": 959155,
+          "friends_count": 5097,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2782,
+          "favorite_count": 10697,
+          "reply_count": 191,
+          "quote_count": 91
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237813359,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2782,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041721116843241690",
+      "text": "RT @WhiteHouse: Yesterday, four astronauts on Artemis II traveled farther than any humans in history.\n\nThanks to @NASA and incredible Ameri…",
+      "created_at": "Wed Apr 08 03:33:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041565728562675976",
+        "text": "Yesterday, four astronauts on Artemis II traveled farther than any humans in history.\n\nThanks to @NASA and incredible American ingenuity. 🇺🇸 https://t.co/SaHZUxXuz5",
+        "created_at": "Tue Apr 07 17:16:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041564701109129217",
+            "url": "https://pbs.twimg.com/media/HFUYR2uWEAEOGNM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1879644163769335808",
+          "name": "The White House",
+          "screen_name": "WhiteHouse",
+          "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+          "followers_count": 4362497,
+          "friends_count": 6,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2242,
+          "favorite_count": 15033,
+          "reply_count": 969,
+          "quote_count": 113
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237813359,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2242,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041721031803670751",
+      "text": "RT @NASAAdmin: My favorite image so far. Orion, built by human hands in just a few years, set against a moment billions of years in the mak…",
+      "created_at": "Wed Apr 08 03:33:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041636223702155604",
+        "text": "My favorite image so far. Orion, built by human hands in just a few years, set against a moment billions of years in the making.",
+        "created_at": "Tue Apr 07 21:56:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041606250291515482",
+          "text": "The eclipse from Orion.\n \nOn April 6, external cameras attached to the Orion spacecraft's solar array wings captured the Moon backlit by the Sun during a solar eclipse. https://t.co/THcLukR3cp",
+          "created_at": "Tue Apr 07 19:57:15 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2041606246269177856",
+              "url": "https://pbs.twimg.com/media/HFU-EGgX0AARfp5.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "632344577",
+            "name": "NASA Artemis",
+            "screen_name": "NASAArtemis",
+            "description": "We are going for all of humanity 🚀",
+            "followers_count": 1138975,
+            "friends_count": 60,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 5969,
+            "favorite_count": 27954,
+            "reply_count": 244,
+            "quote_count": 362
+          }
+        },
+        "user": {
+          "id": "2000593641480605696",
+          "name": "NASA Administrator Jared Isaacman",
+          "screen_name": "NASAAdmin",
+          "description": "Serving President Donald J. Trump as the 15th @NASA Administrator | Leading the next Golden Age of space discovery 🚀",
+          "followers_count": 158062,
+          "friends_count": 49,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 792,
+          "favorite_count": 8498,
+          "reply_count": 202,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237813359,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 792,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041714524475048446",
+      "text": "开关",
+      "created_at": "Wed Apr 08 03:07:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041708218158870834",
+        "text": "@lovevfp @dotey &gt;146应该有这个开关 chrome://flags/#vertical-tabs",
+        "created_at": "Wed Apr 08 02:42:26 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "454844250",
+          "name": "nnecec",
+          "screen_name": "nnecec_cn",
+          "description": "",
+          "followers_count": 12,
+          "friends_count": 255,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206330,
+        "friends_count": 1600,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2041697396808454517",
       "text": "FSD 14.3 release notes @Tesla_AI",
