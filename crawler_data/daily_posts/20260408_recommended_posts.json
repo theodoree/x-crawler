@@ -1,12 +1,404 @@
 {
   "date": "20260408",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-08T14:36:21.841643",
-  "tweet_count": 225,
-  "unique_tweet_count": 225,
-  "total_crawled": 422,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-04-08T16:28:16.578567",
+  "tweet_count": 232,
+  "unique_tweet_count": 232,
+  "total_crawled": 425,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2041912492570579225",
+      "text": "Banger 😂",
+      "created_at": "Wed Apr 08 16:14:09 +0000 2026",
+      "lang": "in",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041802816742695109",
+        "text": "@Rainmaker1973 how do we know there isn't a 3rd picture looking at us the same way?",
+        "created_at": "Wed Apr 08 08:58:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1473747251642216461",
+          "name": "Royce",
+          "screen_name": "petrroyce",
+          "description": "EloPhanto . com ; TheAICMO . com ; search . sh",
+          "followers_count": 5177,
+          "friends_count": 1279,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 29,
+          "favorite_count": 1060,
+          "reply_count": 141,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237762242,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 256,
+        "favorite_count": 3153,
+        "reply_count": 724,
+        "quote_count": 26
+      }
+    },
+    {
+      "id": "2041912435037339657",
+      "text": "Vast technology differences simultaneously",
+      "created_at": "Wed Apr 08 16:13:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041769341029400715",
+        "text": "Both societies exist simultaneously. really incredible to think about https://t.co/D2UHn3r03A",
+        "created_at": "Wed Apr 08 06:45:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041769336491372545",
+            "url": "https://pbs.twimg.com/media/HFXSZM7acAEQ5LE.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "177101260",
+          "name": "Massimo",
+          "screen_name": "Rainmaker1973",
+          "description": "Engineer. Selecting and curating pictures and videos trying to awaken your sense of wonder since 2014. Science, tech, art, weather, space, the unusual around us",
+          "followers_count": 4296776,
+          "friends_count": 171,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 581,
+          "favorite_count": 5668,
+          "reply_count": 181,
+          "quote_count": 67
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237762242,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 806,
+        "favorite_count": 9777,
+        "reply_count": 950,
+        "quote_count": 39
+      }
+    },
+    {
+      "id": "2041907089682133078",
+      "text": "True",
+      "created_at": "Wed Apr 08 15:52:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041896095186321530",
+        "text": "What the left plans to do once in power\n\n-Crackdown on social media speech\n-Mass amnesty = 30M+ new voters\n-End the filibuster + pack SCOTUS\n-Nationwide mail-in + no voter ID\n-52 states (DC and Puerto Rico)\n-Abolish the Electoral College\n-MAGA arrests, de-banking\n\nRemember this",
+        "created_at": "Wed Apr 08 15:09:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1552795969959636992",
+          "name": "End Wokeness",
+          "screen_name": "EndWokeness",
+          "description": "Fighting, exposing, and mocking wokeness. DM for submissions",
+          "followers_count": 3901237,
+          "friends_count": 1371,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2093,
+          "favorite_count": 8779,
+          "reply_count": 786,
+          "quote_count": 164
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237762242,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2654,
+        "favorite_count": 17545,
+        "reply_count": 1558,
+        "quote_count": 79
+      }
+    },
+    {
+      "id": "2041898270918897733",
+      "text": "🎯",
+      "created_at": "Wed Apr 08 15:17:39 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041612029610406072",
+        "text": "Jusqu'à ce jour, les marxistes sont incapables de donner une réponse satisfaisante à ce genre de meme. C'est dire la nullité de leur pensée économique. \n\nLa valeur n'est pas dans le bien ni dans l'effort fourni pour le produire. Elle est dans l'esprit de celui qui désire ce bien pour résoudre un besoin individuel. La valeur est donc subjective, marginale, contextuelle. Elle n'est pas objective, mesurable, mathématisable.\n\nAinsi s'écrase lamentablement la théorie marxiste de la valeur travail et les théories classiques de la valeur objective. Si ces théories ont réussi à survivre jusqu'à aujourd'hui, c'est uniquement parce qu'elle donne une caution scientifique à l'interventionnisme étatique, rien d'autre.",
+        "created_at": "Tue Apr 07 20:20:13 +0000 2026",
+        "lang": "fr",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "784082104040710145",
+          "name": "Ulrich",
+          "screen_name": "viennoiscafe",
+          "description": "Libéralisme & économie. @mises",
+          "followers_count": 6667,
+          "friends_count": 491,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1457,
+          "favorite_count": 12067,
+          "reply_count": 496,
+          "quote_count": 168
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237762242,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1331,
+        "favorite_count": 13512,
+        "reply_count": 1302,
+        "quote_count": 57
+      }
+    },
+    {
+      "id": "2041890624258109845",
+      "text": "RT @FoxNews: SKY FULL OF STARS: @elonmusk reaffirms his hope for humanity to reach new heights in outer space after NASA releases breathtak…",
+      "created_at": "Wed Apr 08 14:47:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041838192135991336",
+        "text": "SKY FULL OF STARS: @elonmusk reaffirms his hope for humanity to reach new heights in outer space after NASA releases breathtaking new photo of the Milky Way galaxy captured by Artemis II astronauts. https://t.co/hEERowg4RF",
+        "created_at": "Wed Apr 08 11:18:55 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041838085634392064",
+            "url": "https://pbs.twimg.com/media/HFYQ67caAAAGMke.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1367531",
+          "name": "Fox News",
+          "screen_name": "FoxNews",
+          "description": "Stay Ahead. Get Breaking News Here First. Download the App.",
+          "followers_count": 28710647,
+          "friends_count": 280,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 899,
+          "favorite_count": 4801,
+          "reply_count": 788,
+          "quote_count": 68
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237762242,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 899,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041890303842615349",
+      "text": "RT @IterIntellectus: first company i've seen with the stated goal of climbing the kardashev scale that actually might do it https://t.co/h0…",
+      "created_at": "Wed Apr 08 14:45:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041867858657853711",
+        "text": "first company i've seen with the stated goal of climbing the kardashev scale that actually might do it https://t.co/h07TvAMUj7",
+        "created_at": "Wed Apr 08 13:16:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041867025455443969",
+            "url": "https://video.twimg.com/amplify_video/2041867025455443969/vid/avc1/1276x1160/Tu1Ew3Zz_cPGISSY.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1655936149733654530",
+          "name": "vittorio",
+          "screen_name": "IterIntellectus",
+          "description": "practice expert\n\n“unique online personality”\n\nformer TPOT thinker (exiled)\n\nprofessional shitpoaster @SpaceX\n\ndon't take me seriously",
+          "followers_count": 180487,
+          "friends_count": 2169,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 264,
+          "favorite_count": 1882,
+          "reply_count": 158,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237762242,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 264,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041887852519374879",
+      "text": "RT @pmarca: It will cost more than that, and it will still never happen. There is no chance. It is not possible.",
+      "created_at": "Wed Apr 08 14:36:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041808277504454684",
+        "text": "It will cost more than that, and it will still never happen. There is no chance. It is not possible.",
+        "created_at": "Wed Apr 08 09:20:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041551139586371615",
+          "text": "In a 60 Minutes report, officials said they now believe the rail line linking L.A. and San Francisco could ultimately cost about $126 billion, more than triple the original price tag approved by voters. https://t.co/1QoEZ8aNgg https://t.co/LoD3MB8boD",
+          "created_at": "Tue Apr 07 16:18:16 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2041551135723429897",
+              "url": "https://pbs.twimg.com/media/HFUL8PuXIAkjY-Z.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "10252962",
+            "name": "KTLA",
+            "screen_name": "KTLA",
+            "description": "L.A.’s Very Own KTLA 5. Keeping Southern California informed since 1947.",
+            "followers_count": 982032,
+            "friends_count": 1176,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 246,
+            "favorite_count": 955,
+            "reply_count": 568,
+            "quote_count": 149
+          }
+        },
+        "user": {
+          "id": "5943622",
+          "name": "Marc Andreessen 🇺🇸",
+          "screen_name": "pmarca",
+          "description": "Grand Theft Auto 6 (GTA 6) is officially scheduled to be released on November 19, 2026.",
+          "followers_count": 2465423,
+          "friends_count": 29811,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 693,
+          "favorite_count": 5746,
+          "reply_count": 666,
+          "quote_count": 44
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237762242,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 693,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2041887772357840913",
       "text": "RT @herandrews: We gradually transitioned from a democratic welfare state to full-on race communism between the 1960s and today for two rea…",
