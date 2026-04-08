@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237768226,
+    "followers_count": 237771896,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260408",
-  "last_updated": "2026-04-08T12:20:31.584013",
-  "tweet_count": 20,
+  "last_updated": "2026-04-08T14:36:21.869227",
+  "tweet_count": 22,
   "tweets": [
     {
       "id": "2041667711802212446",
@@ -1036,6 +1036,122 @@
       "quoted": null,
       "stats": {
         "retweet_count": 149,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041887045967344041",
+      "text": "RT @rohanpaul_ai: Google CEO Sundar Pichai on current frontier model's ability to break the security of almost all current software.\n\n\"Thes…",
+      "created_at": "Wed Apr 08 14:33:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041559361051619558",
+        "text": "Google CEO Sundar Pichai on current frontier model's ability to break the security of almost all current software.\n\n\"These models are definitely, like really gonna break pretty much all software out there, maybe already, we don't know.\"\nhttps://t.co/ezjPcSehiG",
+        "created_at": "Tue Apr 07 16:50:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041528348095217664",
+            "url": "https://video.twimg.com/amplify_video/2041528348095217664/vid/avc1/1352x754/zHkbfKcEoYaEfFAg.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2588345408",
+          "name": "Rohan Paul",
+          "screen_name": "rohanpaul_ai",
+          "description": "Compiling in real-time, the race towards AGI.\n\nThe Largest Show on X for AI.\n\n🗞️ Get my daily AI analysis newsletter to your email  👉 https://t.co/6LBxO8215l",
+          "followers_count": 144425,
+          "friends_count": 7442,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 77,
+          "favorite_count": 639,
+          "reply_count": 66,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 77,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041887772357840913",
+      "text": "RT @herandrews: We gradually transitioned from a democratic welfare state to full-on race communism between the 1960s and today for two rea…",
+      "created_at": "Wed Apr 08 14:35:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041845502375858309",
+        "text": "We gradually transitioned from a democratic welfare state to full-on race communism between the 1960s and today for two reasons:\n\n1. The beneficiaries of our race laws went from 10 percent of the population to a majority in places like NYC and soon a majority nationally.\n\n2. We bent a lot of rules to give black Americans a one-time boost thinking they’d catch up. That didn’t happen, so now the choice is either go back to colorblindness and the rule of law anyway even though it means unequal outcomes, or let the government keep meddling more and more in the name of racial equity.",
+        "created_at": "Wed Apr 08 11:47:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041652481730499035",
+          "text": "🚨 MAMDANI: “The wealth of a median white household in the city is more than $200,000, while that of a black household is less than $20,000 … We are reckoning with the long history of racism here and starting to act upon a framework that puts equity right at the center of it.” https://t.co/W53H10fmFm",
+          "created_at": "Tue Apr 07 23:00:58 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2041652316374220800",
+              "url": "https://video.twimg.com/amplify_video/2041652316374220800/vid/avc1/1920x1080/28DKVIk3ilp6a1SL.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "69156861",
+            "name": "Chief Nerd",
+            "screen_name": "TheChiefNerd",
+            "description": "Software Engineer | Podcast Clipper |  DM for Removal | Merch 👉https://t.co/LEGwYHQAst | Tips 👉https://t.co/h9xVqydk1b",
+            "followers_count": 923279,
+            "friends_count": 2357,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 5382,
+            "favorite_count": 40986,
+            "reply_count": 5243,
+            "quote_count": 871
+          }
+        },
+        "user": {
+          "id": "35199446",
+          "name": "Helen Andrews",
+          "screen_name": "herandrews",
+          "description": "author @SentinelBooks, site https://t.co/MCWPKMEbtF",
+          "followers_count": 68539,
+          "friends_count": 7131,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 585,
+          "favorite_count": 4587,
+          "reply_count": 139,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 585,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

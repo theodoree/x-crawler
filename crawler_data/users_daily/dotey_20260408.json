@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206439,
+    "followers_count": 206477,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260408",
-  "last_updated": "2026-04-08T12:20:31.612616",
-  "tweet_count": 3,
+  "last_updated": "2026-04-08T14:36:21.897777",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2041692514340479030",
@@ -157,6 +157,75 @@
         "favorite_count": 5,
         "reply_count": 2,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2041882739293442449",
+      "text": "RT @shao__meng: 恭喜 Mario @badlogicgames 🎉\n\n在 OpenClaw 创始人加入 OpenAI 后，它背后的 Agent 框架 Pi 也和创始人一起加入 Earendil (https://t.co/JXAkDWMPM5)，pi 成为 Ea…",
+      "created_at": "Wed Apr 08 14:15:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2041819565101871574",
+        "text": "恭喜 Mario @badlogicgames 🎉\n\n在 OpenClaw 创始人加入 OpenAI 后，它背后的 Agent 框架 Pi 也和创始人一起加入 Earendil (https://t.co/7nc2Ypqe1n)，pi 成为 Earendil 旗下的开源项目，Mario 保留技术主导权，同时获得团队支持。\nhttps://t.co/ln7LNvoVAe\n\n历史教训：RoboVM 的创伤\nMario 详细回顾了 2014-2016 年间 RoboVM 的经历：\n· RoboVM 最初是开源项目，后成立公司并推出商业插件（保持核心开源）\n· 被 Xamarin 收购后，微软立即关闭源代码并终止项目\n· 作为\"开源倡导者\"的 Mario 被迫发布\"不再开源\"的公告，遭受社区激烈批评\n\n现实压力：pi 的意外走红\n· Peter 基于 pi 构建的应用爆红后，Mario 成为\"连带责任人\"\n· 过去两个月每天 3-5 个电话，来自各路 VC 和大公司\n· 他意识到 pi 有商业价值，但明确拒绝：\n  · 独自创业当 CEO（不想重复管理压力）\n  · 接受 VC 资金（担心重蹈 RoboVM 覆辙）\n  · 牺牲家庭时间（4岁孩子曾因\"爸爸不在\"哭泣）\n\nbtw... 家庭这方面太有同感了，我也有一个 6 岁的孩子，离职半年后迟迟不能全职工作，最主要的考虑就是对孩子和家庭的陪伴了。\n\n选择 Earendil 的逻辑\n经过 9 个月的观察与互动（从 2025 年 4 月的\"VibeTunnel\"实验到多次办公室访问），Mario 确认：\n· @mitsuhiko（Sentry 创始人）：开源商业化经验丰富，价值观一致（\"开源是必需品而非装饰\"），技术共鸣强\n· Colin：处理 Mario 不愿碰的商业/管理事务，产品嗅觉好\n团队氛围：Cristina、Jakob 等早期成员都是通才且\"人很好\"，几乎所有人都有孩子（与 Mario 的家庭优先价值观契合）\n· 投资者质量：熟悉且尊重开发者工具领域的投资人\n\n对 pi 开源项目的影响\n· 所有权：归 Earendil 公司所有、但 Mario 保留技术决策权\n· 代码仓库：迁移至 earendil-works/pi、但 MIT 许可证永久不变\n· 包名：改为 @ earendil/pi、但功能与使用方式不变\n· 商标：Earendil 持有 pi 商标、但防止滥用，非控制手段 \n· 治理：三人决策（Mario/Armin/Colin）\n·社区：Discord 保持独立",
+        "created_at": "Wed Apr 08 10:04:54 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041819534450159622",
+            "url": "https://pbs.twimg.com/media/HFYADG5a8AYbLOb.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2041808475336941725",
+          "text": "People of pi. BIG NEWS. I've sold out. Let me know how you feel about this in the comments below.\n\nhttps://t.co/dy1ffkhMRf",
+          "created_at": "Wed Apr 08 09:20:50 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "189876762",
+            "name": "Mario Zechner",
+            "screen_name": "badlogicgames",
+            "description": "Old man yelling at Claudes. The fucking bluecheck is temporary...\n\nhttps://t.co/mnOoWUqt4g\n\nhttps://t.co/8i5vIRDt6P",
+            "followers_count": 37261,
+            "friends_count": 1266,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 128,
+            "favorite_count": 1205,
+            "reply_count": 268,
+            "quote_count": 44
+          }
+        },
+        "user": {
+          "id": "1727548535816724480",
+          "name": "meng shao",
+          "screen_name": "shao__meng",
+          "description": "AI 团队顾问&企业 AI 培训，专注「上下文工程」 &「AI 智能体」\n· 顾问：前沿理论 → 企业真实落地闭环\n· 培训：企业 AI 培训，推动全员 AI 提效\n\n合作：私信 / shaomeng@outlook.com\n公众号/小红书：AI 启蒙小伙伴",
+          "followers_count": 28950,
+          "friends_count": 1188,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 12,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
