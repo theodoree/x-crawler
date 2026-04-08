@@ -1,12 +1,85 @@
 {
   "date": "20260408",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-08T20:15:05.212411",
-  "tweet_count": 235,
-  "unique_tweet_count": 235,
-  "total_crawled": 432,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-04-08T22:17:19.131390",
+  "tweet_count": 236,
+  "unique_tweet_count": 236,
+  "total_crawled": 435,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2041987422859210861",
+      "text": "RT @dongxi_nlp: 本地的 Harness 是徒劳的，因为随着模型迭代把问题本身解决，针对旧模型局限而精心设计的harness，便失去了存在的意义。\n\n换句话说，模型的局限性厂家最清楚，它可以完全按照模型的特性设计不同的harness，然后打包卖给你。\n\n这个包，就…",
+      "created_at": "Wed Apr 08 21:11:54 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2041954843107979356",
+        "text": "本地的 Harness 是徒劳的，因为随着模型迭代把问题本身解决，针对旧模型局限而精心设计的harness，便失去了存在的意义。\n\n换句话说，模型的局限性厂家最清楚，它可以完全按照模型的特性设计不同的harness，然后打包卖给你。\n\n这个包，就是 Managed Agents",
+        "created_at": "Wed Apr 08 19:02:26 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041929199976640948",
+          "text": "New on the Engineering Blog: \n\nBuilding Managed Agents—our hosted service for long-running agents—meant solving an old problem in computing: how to design a system for “programs as yet unthought of.”\n\nRead more: https://t.co/YYaEub2QGV",
+          "created_at": "Wed Apr 08 17:20:33 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1353836358901501952",
+            "name": "Anthropic",
+            "screen_name": "AnthropicAI",
+            "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+            "followers_count": 1127935,
+            "friends_count": 35,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 200,
+            "favorite_count": 1821,
+            "reply_count": 116,
+            "quote_count": 38
+          }
+        },
+        "user": {
+          "id": "1477948736156454913",
+          "name": "马东锡 NLP",
+          "screen_name": "dongxi_nlp",
+          "description": "Prev. PhD @Stockholm_Uni | Alumni @KTHuniversity @uppsalauni Sharing insights on AI, autonomous agents, and large language & reasoning models",
+          "followers_count": 38141,
+          "friends_count": 954,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 33,
+          "reply_count": 4,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206498,
+        "friends_count": 1600,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2041965338817069499",
       "text": "Only a few hundred Tesla Model S &amp; X cars left in inventory. Order now if you want one.",
