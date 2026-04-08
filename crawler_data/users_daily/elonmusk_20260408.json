@@ -1,0 +1,61 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "https://t.co/dDtDyVssfm",
+    "followers_count": 237813085,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260408",
+  "last_updated": "2026-04-08T00:27:18.698218",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2041667711802212446",
+      "text": "RT @benjitaylor: Excited to launch our brand new photo editor. Now available on iOS, with Android coming soon. Lots of good quality of life…",
+      "created_at": "Wed Apr 08 00:01:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041595272040693912",
+        "text": "Excited to launch our brand new photo editor. Now available on iOS, with Android coming soon. Lots of good quality of life updates and more improvements to come. https://t.co/NOyOHHDpN9",
+        "created_at": "Tue Apr 07 19:13:38 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041593665894993921",
+            "url": "https://video.twimg.com/amplify_video/2041593665894993921/vid/avc1/1080x1080/phw2gcQdJmdeSOy5.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2606432720",
+          "name": "Benji Taylor",
+          "screen_name": "benjitaylor",
+          "description": "leading design @x. prev. head of design @base. founder @family (acq by @aave). tools @dip.",
+          "followers_count": 109960,
+          "friends_count": 427,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 144,
+          "favorite_count": 1571,
+          "reply_count": 179,
+          "quote_count": 22
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 144,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

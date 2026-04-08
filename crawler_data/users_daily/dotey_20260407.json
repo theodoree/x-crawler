@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206223,
+    "followers_count": 206235,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260407",
-  "last_updated": "2026-04-07T22:14:27.215080",
-  "tweet_count": 15,
+  "last_updated": "2026-04-08T00:27:18.729183",
+  "tweet_count": 17,
   "tweets": [
     {
       "id": "2041307413777883484",
@@ -617,6 +617,78 @@
         "retweet_count": 0,
         "favorite_count": 1,
         "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041649498531791236",
+      "text": "LLM 是一颗超强大脑，但它是个“缸中之脑”——泡在营养液里，没有眼睛、没有耳朵、没有手脚。你对它喊话它听不见，它想做事也做不了。\n\nHarness 就是给这颗大脑装上的“全套身体”。\n\n眼睛和耳朵：让大脑能接收外界信息——用户说了什么、文件里写了什么、数据库里存了什么。\n\n嘴巴：让大脑的想法能输出给用户看到。\n\n手和脚：让大脑能真正去做事——读文件、改代码、跑命令、调 API。\n\n小脑和反射神经：大脑说了句胡话怎么办？手没抓住东西怎么办？这些容错、重试、纠偏的机制，不需要大脑操心，身体自己处理。\n\n记忆系统：这部分值得展开说。大脑本身有“工作记忆”（上下文窗口），但容量有限，就像人一次只能在脑子里同时想七八件事。Harness 要帮大脑管理三层记忆：第一层是当前对话的短期记忆——这轮对话里已经说了什么、做了什么，哪些该保留、哪些该丢掉，怎么把最关键的信息塞进有限的窗口里。第二层是跨对话的长期记忆——上周你告诉它你的项目用 TypeScript，下周它还记得，不用你重复说。第三层是项目级知识——代码库的结构、团队的规范、常用命令，这些不是“记住”的，而是 Harness 主动去读取和组装的。三层记忆协同工作，让大脑每次被唤醒时都像一个“了解情况的人”，而不是一个每次都要从头介绍背景的陌生人。\n\n一句话总结：大脑负责“想”，Harness 负责“让它能感知、能行动、能记住、能靠谱地完成任务”。",
+      "created_at": "Tue Apr 07 22:49:07 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2041649468458627072",
+          "url": "https://pbs.twimg.com/media/HFVlX9tXcAAQ7l6.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2027156511555027252",
+        "text": "2026 年 “Harness Engineering” 这个词要火。\n\n“Harness” 这个词，字面意思是“马具”，就是套在马身上、让人能控制马匹方向和力量的那套装备。\n\n用在 AI 编程的语境里，它的比喻再贴切不过：AI Agent 就像一匹动力十足但不太守规矩的马，而 Harness 就是那套让它既能跑得快、又不会跑偏的缰绳和马鞍。\n\n过去三年，三个阶段：\n\n1. Prompt Engineering（2023-2024）：关注“怎么跟 AI 说话”\n\n精心设计一段提示词，希望模型给出理想输出。Prompt Engineering 是优化一次性的输入-输出对。\n\n局限很明显：一条消息能塞的信息有限，任务一复杂就失控。\n\n2. Context Engineering（2025）：关注“给 AI 看什么信息”\n\n不再只盯措辞，而是设计整个信息环境：系统提示、对话历史、记忆、RAG 检索结果、工具调用输出。\n\n3. Harness Engineering（2026）：关注“构建什么环境让 AI 工作，这个环境如何保证它的产出是可靠的”\n\n比 Context Engineering 更进一步，不仅管理输入给模型的信息，还包括模型之外的整个执行环境。\n\n现在问题是，“Harness Engineering”中文怎么说？",
+        "created_at": "Thu Feb 26 22:59:09 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027156419665899520",
+            "url": "https://pbs.twimg.com/media/HCHoBfpWsAATUzk.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 206235,
+          "friends_count": 1600,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 84,
+          "favorite_count": 442,
+          "reply_count": 67,
+          "quote_count": 22
+        }
+      },
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 51,
+        "reply_count": 6,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2041649659962089821",
+      "text": "用 Claude Code 和 OpenClaw 来理解 Harness 的区别\n\nClaude Code 和 OpenClaw 背后用的是同一颗大脑（Claude），但它们是两套完全不同的“身体”——两种不同的 Harness。\n\nClaude Code 是 Anthropic 官方打造的 Harness，专门为编程场景设计。它给大脑装的“身体”比较专精：能直接在终端里跑命令、读写文件、操作 Git，整个循环是“想→做→看结果→再想”。最近又加了 Channels 功能，让你通过 Discord、Telegram 远程跟它交互——相当于给这个身体加了一部手机，人不在电脑前也能指挥它干活。\n\nOpenClaw 则是社区打造的一套更通用的 Harness，设计理念不同——它不只是一个编程助手的身体，更像一个“全天候管家的身体”。它能同时连接 Slack、Discord、Telegram 等多个渠道（多个耳朵和嘴巴），有自己的记忆系统和插件生态，还能通过 ACP 协议调度 Claude Code、Codex 等多个 Agent 协同工作——相当于一个管家指挥多个工人干活。\n\n所以你看，同一颗大脑，Claude Code 给它装了一副“程序员的身体”，OpenClaw 给它装了一副“项目经理的身体”。能力天差地别，但大脑没换。\n\nHarness Engineering 就是“造身体的工程学”。 怎么设计记忆系统让大脑永远“了解情况”？怎么设计工具接口让大脑高效调用外部能力？怎么处理大脑犯错的情况？怎么编排多个 Agent 协作？这些都是 Harness Engineering 要解决的问题。模型大家都用同一个，但谁的“身体”造得好，谁的 Agent 就更强——模型智商是起点，Harness 的质量决定了实际表现的上限。",
+      "created_at": "Tue Apr 07 22:49:45 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2041649623954272256",
+          "url": "https://pbs.twimg.com/media/HFVlhA-asAAuRXj.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 13,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
