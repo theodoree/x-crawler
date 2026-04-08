@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206330,
+    "followers_count": 206355,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260408",
-  "last_updated": "2026-04-08T04:51:47.620175",
-  "tweet_count": 2,
+  "last_updated": "2026-04-08T06:34:15.312984",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2041692514340479030",
@@ -118,6 +118,45 @@
         "favorite_count": 5,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2041759343087935521",
+      "text": "A 家面试题，确实有难度😅",
+      "created_at": "Wed Apr 08 06:05:36 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041724712552911198",
+        "text": "透露一个面试题，估计我这辈子也不去人类学了。\n他们工程师背景都是Stripe/Notion/Slack，技术面问的是怎么在Desktop App里面解决网络延迟、本地缓存，还有API skew protection的问题……\n所有的这些答案你能在Stripe/Notion/Slack的技术博客里面找到，这是不是某种意义上的祖传面试题",
+        "created_at": "Wed Apr 08 03:47:59 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3150623335",
+          "name": "Bread🍞",
+          "screen_name": "himself65",
+          "description": "AI Engineer at @FundaAI. All views are my own and do not constitute financial or investment advice. Not my employer's opinion.",
+          "followers_count": 62999,
+          "friends_count": 243,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 268,
+          "reply_count": 11,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "reply_count": 2,
+        "quote_count": 1
       }
     }
   ]
