@@ -1,12 +1,141 @@
 {
   "date": "20260408",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-08T00:27:18.670928",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-04-08T03:05:37.598591",
+  "tweet_count": 202,
+  "unique_tweet_count": 202,
+  "total_crawled": 400,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2041697396808454517",
+      "text": "FSD 14.3 release notes @Tesla_AI",
+      "created_at": "Wed Apr 08 01:59:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041677496698204493",
+        "text": "New release of FSD Supervised now starting to roll out\n\nThis update brings 20% faster reaction time to further increase safety, among many other improvements\n\nFull release notes below\nFull Self-Driving (Supervised) v14.3 includes\n- Upgraded the Reinforcement Learning (RL) stage of training the FSD neural network, resulting in improvements in a wide variety of driving scenarios.\n\n- Upgraded the neural network vision encoder, improving understanding in rare and low-visibility scenarios, strengthening 3D geometry understanding, and expanding traffic sign understanding.\n\n- Rewrote the AI compiler and runtime from the ground up with MLIR, resulting in 20% faster reaction time and improving model iteration speed.\n\n- Mitigated unnecessary lane biasing and minor tailgating behaviors.\n\n- Increased decisiveness of parking spot selection and maneuvering. \n\n- Improved parking location pin prediction, now shown on a map with a (P) icon.\n\n- Enhanced response to emergency vehicles, school buses, right-of-way violators, and other rare vehicles.\n \n- Improved handling of small animals by focusing RL training on harder examples and adding rewards for better proactive safety.\n\n- Improved traffic light handling at complex intersections with compound lights, curved roads, and yellow light stopping – driven by training on hard RL examples sourced from the Tesla fleet.\n\n- Improved handling for rare and unusual objects extending, hanging, or leaning into the vehicle path by sourcing infrequent events from the fleet.\n\n- Improved handling of temporary system degradations by maintaining control and automatically recovering without driver intervention, reducing unnecessary disengagements.\n\nUpcoming Improvements\n- Expand reasoning to all behaviors beyond destination handling.\n\n- Add pothole avoidance.\n\n- Improve driver monitoring system sensitivity with better eye gaze tracking, eye wear handling, and higher accuracy in variable lighting conditions.",
+        "created_at": "Wed Apr 08 00:40:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1659653864138612761",
+          "name": "Tesla AI",
+          "screen_name": "Tesla_AI",
+          "description": "",
+          "followers_count": 453596,
+          "friends_count": 18,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 643,
+          "favorite_count": 5429,
+          "reply_count": 521,
+          "quote_count": 146
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237815626,
+        "friends_count": 1309,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 872,
+        "favorite_count": 8492,
+        "reply_count": 1006,
+        "quote_count": 47
+      }
+    },
+    {
+      "id": "2041692514340479030",
+      "text": "RT @jesselaunz: 我靠，这是核武级了\n\n“在 OpenBSD 上，我们发现了一个存在了 27 年的漏洞—— 我只需向任意 OpenBSD 服务器发送几段数据就能让它崩溃。”\n\n“在 Linux 上，我们发现了多个漏洞，作为一个没有任何权限的用户，只需在机器上运行一…",
+      "created_at": "Wed Apr 08 01:40:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2041636659368960148",
+        "text": "我靠，这是核武级了\n\n“在 OpenBSD 上，我们发现了一个存在了 27 年的漏洞—— 我只需向任意 OpenBSD 服务器发送几段数据就能让它崩溃。”\n\n“在 Linux 上，我们发现了多个漏洞，作为一个没有任何权限的用户，只需在机器上运行一个二进制文件，就能将自己提升为管理员” https://t.co/xasVShEkHW",
+        "created_at": "Tue Apr 07 21:58:06 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041636418980868098",
+            "url": "https://video.twimg.com/amplify_video/2041636418980868098/vid/avc1/3840x2160/P17dV9Gn4J7Y7Cey.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2041578392852517128",
+          "text": "Introducing Project Glasswing: an urgent initiative to help secure the world’s most critical software.\n\nIt’s powered by our newest frontier model, Claude Mythos Preview, which can find software vulnerabilities better than all but the most skilled humans.\nhttps://t.co/NQ7IfEtYk7",
+          "created_at": "Tue Apr 07 18:06:34 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1353836358901501952",
+            "name": "Anthropic",
+            "screen_name": "AnthropicAI",
+            "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+            "followers_count": 1113832,
+            "friends_count": 35,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3787,
+            "favorite_count": 25723,
+            "reply_count": 1105,
+            "quote_count": 2556
+          }
+        },
+        "user": {
+          "id": "20571502",
+          "name": "Jesse Lau 遁一子",
+          "screen_name": "jesselaunz",
+          "description": "遁一子，a true man, free guy。油管洞见无界：https://t.co/dD6ecEaaH2\nPDF搜索站： https://t.co/ePYRL6mUtC\n英文名言：https://t.co/1qwYTIAhjx",
+          "followers_count": 29827,
+          "friends_count": 2077,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 37,
+          "favorite_count": 337,
+          "reply_count": 21,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206310,
+        "friends_count": 1600,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 37,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2041667711802212446",
       "text": "RT @benjitaylor: Excited to launch our brand new photo editor. Now available on iOS, with Android coming soon. Lots of good quality of life…",
