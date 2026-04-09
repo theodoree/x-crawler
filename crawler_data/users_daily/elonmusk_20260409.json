@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237758110,
+    "followers_count": 237761219,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260409",
-  "last_updated": "2026-04-09T06:34:40.164636",
-  "tweet_count": 29,
+  "last_updated": "2026-04-09T08:33:32.632681",
+  "tweet_count": 32,
   "tweets": [
     {
       "id": "2042034018724803055",
@@ -1304,6 +1304,72 @@
         "favorite_count": 1298,
         "reply_count": 636,
         "quote_count": 45
+      }
+    },
+    {
+      "id": "2042134561103212707",
+      "text": "Cybertruck is so awesome 😎  https://t.co/5r99xq5m6V",
+      "created_at": "Thu Apr 09 06:56:35 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041888126344331264",
+          "url": "https://video.twimg.com/amplify_video/2041888126344331264/vid/avc1/1080x1080/Ihh3bruWugvxvGdU.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1457,
+        "favorite_count": 17866,
+        "reply_count": 1306,
+        "quote_count": 111
+      }
+    },
+    {
+      "id": "2042135446751473938",
+      "text": "Grok will never go to therapy. Never.  https://t.co/brJIgWeyRP",
+      "created_at": "Thu Apr 09 07:00:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041934051737575424",
+          "url": "https://video.twimg.com/amplify_video/2041934051737575424/vid/avc1/1920x1080/-bBa3gi5ICdwbf9s.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 773,
+        "favorite_count": 7590,
+        "reply_count": 1394,
+        "quote_count": 90
+      }
+    },
+    {
+      "id": "2042135870183239802",
+      "text": "https://t.co/FEMJgzLQzt",
+      "created_at": "Thu Apr 09 07:01:47 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2042129777360764928",
+          "url": "https://video.twimg.com/amplify_video/2042129777360764928/vid/avc1/560x560/AU7ZPdC-Ak9x_0ye.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1824,
+        "favorite_count": 16930,
+        "reply_count": 2483,
+        "quote_count": 337
       }
     }
   ]

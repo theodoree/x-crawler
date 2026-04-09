@@ -1,12 +1,108 @@
 {
   "date": "20260409",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-09T06:34:40.134604",
-  "tweet_count": 228,
-  "unique_tweet_count": 228,
-  "total_crawled": 417,
-  "duplicates_removed": 189,
+  "last_crawl_time": "2026-04-09T08:33:32.600055",
+  "tweet_count": 231,
+  "unique_tweet_count": 231,
+  "total_crawled": 428,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2042135870183239802",
+      "text": "https://t.co/FEMJgzLQzt",
+      "created_at": "Thu Apr 09 07:01:47 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2042129777360764928",
+          "url": "https://video.twimg.com/amplify_video/2042129777360764928/vid/avc1/560x560/AU7ZPdC-Ak9x_0ye.mp4?tag=24",
+          "bitrate": 5184000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237761219,
+        "friends_count": 1310,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1824,
+        "favorite_count": 16930,
+        "reply_count": 2483,
+        "quote_count": 337
+      }
+    },
+    {
+      "id": "2042135446751473938",
+      "text": "Grok will never go to therapy. Never.  https://t.co/brJIgWeyRP",
+      "created_at": "Thu Apr 09 07:00:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041934051737575424",
+          "url": "https://video.twimg.com/amplify_video/2041934051737575424/vid/avc1/1920x1080/-bBa3gi5ICdwbf9s.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237761219,
+        "friends_count": 1310,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 773,
+        "favorite_count": 7590,
+        "reply_count": 1394,
+        "quote_count": 90
+      }
+    },
+    {
+      "id": "2042134561103212707",
+      "text": "Cybertruck is so awesome 😎  https://t.co/5r99xq5m6V",
+      "created_at": "Thu Apr 09 06:56:35 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041888126344331264",
+          "url": "https://video.twimg.com/amplify_video/2041888126344331264/vid/avc1/1080x1080/Ihh3bruWugvxvGdU.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237761219,
+        "friends_count": 1310,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1457,
+        "favorite_count": 17866,
+        "reply_count": 1306,
+        "quote_count": 111
+      }
+    },
     {
       "id": "2042127554224742713",
       "text": "Generated with @Grok Imagine https://t.co/44cGoDrcVG",
