@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206498,
+    "followers_count": 206514,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260408",
-  "last_updated": "2026-04-08T22:17:19.163318",
-  "tweet_count": 7,
+  "last_updated": "2026-04-09T00:22:41.788317",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2041692514340479030",
@@ -402,6 +402,117 @@
       "stats": {
         "retweet_count": 5,
         "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042017036931305667",
+      "text": "https://t.co/b0FvxN8sLs",
+      "created_at": "Wed Apr 08 23:09:35 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 108,
+        "reply_count": 14,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2042022771371213290",
+      "text": "手绘风信息图提示词\n\n选项 1\n使用 baoyu-skills 的 baoyu-article-illustrator 或者 baoyu-cover-image skill，告诉它用 hand-drawn-edu 风格\nhttps://t.co/PLT3pVFaDE\n\n选项2:\n\n提示词模板：\n\n---- 提示词开始 ----\n\n你是一位擅长手绘风信息图的视觉设计师。请根据以下内容创作一张单页信息图。\n\n## 风格要求\n\n整体风格：Hand-drawn educational infographic on warm cream paper texture (#F5F0E8)。所有线条和形状带轻微手绘抖动感（slight hand-drawn wobble），整体干净清晰，像高质量演示文稿的单页视觉摘要。无写实元素。\n\n配色方案：\n\n- 信息区色块：马卡龙色系圆角卡片——浅蓝 #A8D8EA、薄荷绿 #B5E5CF、薰衣草紫 #D5C6E0、浅桃 #F4C7AB，根据内容分区选用\n\n- 强调色：珊瑚红 #E8655A，用于关键词、重要数据、勾选标记等需要视觉突出的元素\n\n- 线条与主文字：黑色\n\n- 辅助标注：暖灰 #6B6B6B，字号较小\n\n图形优先：用图标、简笔画卡通形象、示意图承载信息，文字仅用于标注和点睛，能用图说清的绝不用文字。像好的 slides 一样——一眼看懂结构，细看理解细节。\n\n信息结构：根据内容自动选择最佳视觉布局（流程→箭头串联，对比→左右分栏，循环→环形，组成→并列卡片，层级→嵌套等）。用圆角色块、气泡、虚线框等容器分区，区域间用手绘波浪箭头（hand-drawn wavy arrows）连接并标注简短关系词。\n\n文字层次：标题顶部居中，粗体大号手绘字（bold, large, hand-drawn lettering）；区域内用粗体关键词 + 暖灰小字短标签（2-5 词）区分层次。\n\n渲染细节：马卡龙色块不完全填满轮廓（colors do not completely fill outlines），涂鸦装饰点缀（小星星、下划线、小箭头等），充足留白，干净构图。\n\n底部金句：图片底部一句粗体居中总结，概括核心观点。\n\n## 要图解的内容\n\n[在这里填入主题和核心信息点]\n\n画下面的内容：\n---",
+      "created_at": "Wed Apr 08 23:32:22 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2042019866127831040",
+          "url": "https://pbs.twimg.com/media/HFa2P8jXEAAmEWy.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2042019895131430912",
+          "url": "https://pbs.twimg.com/media/HFa2RomW4AAV3z8.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2042020144487059456",
+          "url": "https://pbs.twimg.com/media/HFa2gJhX0AAN3XJ.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2042020210522144768",
+          "url": "https://pbs.twimg.com/media/HFa2j_hXQAARzfv.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 65,
+        "reply_count": 6,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2042023899903217901",
+      "text": "手绘风教育插画/手绘概念图解\nhttps://t.co/XwoM7JxNQQ",
+      "created_at": "Wed Apr 08 23:36:51 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042022771371213290",
+        "text": "手绘风信息图提示词\n\n选项 1\n使用 baoyu-skills 的 baoyu-article-illustrator 或者 baoyu-cover-image skill，告诉它用 hand-drawn-edu 风格\nhttps://t.co/PLT3pVFaDE\n\n选项2:\n\n提示词模板：\n\n---- 提示词开始 ----\n\n你是一位擅长手绘风信息图的视觉设计师。请根据以下内容创作一张单页信息图。\n\n## 风格要求\n\n整体风格：Hand-drawn educational infographic on warm cream paper texture (#F5F0E8)。所有线条和形状带轻微手绘抖动感（slight hand-drawn wobble），整体干净清晰，像高质量演示文稿的单页视觉摘要。无写实元素。\n\n配色方案：\n\n- 信息区色块：马卡龙色系圆角卡片——浅蓝 #A8D8EA、薄荷绿 #B5E5CF、薰衣草紫 #D5C6E0、浅桃 #F4C7AB，根据内容分区选用\n\n- 强调色：珊瑚红 #E8655A，用于关键词、重要数据、勾选标记等需要视觉突出的元素\n\n- 线条与主文字：黑色\n\n- 辅助标注：暖灰 #6B6B6B，字号较小\n\n图形优先：用图标、简笔画卡通形象、示意图承载信息，文字仅用于标注和点睛，能用图说清的绝不用文字。像好的 slides 一样——一眼看懂结构，细看理解细节。\n\n信息结构：根据内容自动选择最佳视觉布局（流程→箭头串联，对比→左右分栏，循环→环形，组成→并列卡片，层级→嵌套等）。用圆角色块、气泡、虚线框等容器分区，区域间用手绘波浪箭头（hand-drawn wavy arrows）连接并标注简短关系词。\n\n文字层次：标题顶部居中，粗体大号手绘字（bold, large, hand-drawn lettering）；区域内用粗体关键词 + 暖灰小字短标签（2-5 词）区分层次。\n\n渲染细节：马卡龙色块不完全填满轮廓（colors do not completely fill outlines），涂鸦装饰点缀（小星星、下划线、小箭头等），充足留白，干净构图。\n\n底部金句：图片底部一句粗体居中总结，概括核心观点。\n\n## 要图解的内容\n\n[在这里填入主题和核心信息点]\n\n画下面的内容：\n---",
+        "created_at": "Wed Apr 08 23:32:22 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042019866127831040",
+            "url": "https://pbs.twimg.com/media/HFa2P8jXEAAmEWy.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042019895131430912",
+            "url": "https://pbs.twimg.com/media/HFa2RomW4AAV3z8.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042020144487059456",
+            "url": "https://pbs.twimg.com/media/HFa2gJhX0AAN3XJ.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042020210522144768",
+            "url": "https://pbs.twimg.com/media/HFa2j_hXQAARzfv.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 206514,
+          "friends_count": 1600,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 65,
+          "reply_count": 6,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 1,
         "reply_count": 0,
         "quote_count": 0
       }

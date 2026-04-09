@@ -1,0 +1,144 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "https://t.co/dDtDyVssfm",
+    "followers_count": 237758882,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260409",
+  "last_updated": "2026-04-09T00:22:41.674133",
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2042034018724803055",
+      "text": "Grok is the AI to use if you value truth",
+      "created_at": "Thu Apr 09 00:17:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042001376637542651",
+        "text": "Grok 4.20 Non-Hallucination rate improved to even higher than previous highest\n\nJust days ago, it hit a record-breaking 78% Non-Hallucination Rate - already #1 in the world, smoking Claude Opus 4.6 (max), Gemini 3.1, GPT-5.4 (xhigh), and every other major model\n\nNow, it just pushed that number even higher to 83%\n\nWhile every other AI confidently makes up stuff and fabricate answers it doesn't know - Grok simply says \"I don't know\"",
+        "created_at": "Wed Apr 08 22:07:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041997462991228928",
+            "url": "https://pbs.twimg.com/media/HFah36XXUAAuvA9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 184085,
+          "friends_count": 1713,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 40,
+          "favorite_count": 261,
+          "reply_count": 52,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 213,
+        "favorite_count": 1578,
+        "reply_count": 446,
+        "quote_count": 23
+      }
+    },
+    {
+      "id": "2042034167211593841",
+      "text": "RT @durov: The EU deep state is telling us (via state-owned media and Soros-funded NGOs) that Telegram is a PROBLEM because people can disc…",
+      "created_at": "Thu Apr 09 00:17:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041979377773133898",
+        "text": "The EU deep state is telling us (via state-owned media and Soros-funded NGOs) that Telegram is a PROBLEM because people can discuss content from OTHER social media in PRIVATE telegram groups. This nonsense is used to justify surveillance (Chat Control) and censorship (DSA). https://t.co/9hGfL87NKm",
+        "created_at": "Wed Apr 08 20:39:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041979372257615872",
+            "url": "https://pbs.twimg.com/media/HFaRa5IXIAAFIi4.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "16477634",
+          "name": "Pavel Durov",
+          "screen_name": "durov",
+          "description": "Founder, CEO at @telegram (2013), founder, ex-CEO of @vkontakte (2006), part-time troll.",
+          "followers_count": 2762340,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 893,
+          "favorite_count": 3942,
+          "reply_count": 223,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 893,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042034250279735644",
+      "text": "RT @davemorin: What X is doing with translation is one of the most amazing things that has ever happened on the internet. Bravo @elonmusk a…",
+      "created_at": "Thu Apr 09 00:17:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041977562533183489",
+        "text": "What X is doing with translation is one of the most amazing things that has ever happened on the internet. Bravo @elonmusk and @nikitabier. What a civilization level breakthrough.",
+        "created_at": "Wed Apr 08 20:32:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3475",
+          "name": "Dave Morin 🦞",
+          "screen_name": "davemorin",
+          "description": "Founder @OfflineVentures @Slow @Path • Chairman @Esalen • Board @OpenClaw •  Early @Apple @Facebook • Podcast @MoreOrLessPod • Skier • Dad of 3",
+          "followers_count": 409827,
+          "friends_count": 3485,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 79,
+          "favorite_count": 570,
+          "reply_count": 70,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 79,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
