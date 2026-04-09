@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206591,
+    "followers_count": 206637,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260409",
-  "last_updated": "2026-04-09T03:05:22.856867",
-  "tweet_count": 1,
+  "last_updated": "2026-04-09T04:49:54.221768",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2042069496127471849",
@@ -59,6 +59,66 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2042083196506935482",
+      "text": "你可以用 baoyu-skills 的 baoyu-slide-deck 来生成 Slides，比如：\n&gt; /baoyu-slide-deck 用手绘风格画 &lt;PDF文件路径或者素材路径&gt;\n\nhttps://t.co/YZtwkjcgME https://t.co/oFnKmz9GcJ",
+      "created_at": "Thu Apr 09 03:32:28 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2042082763910627328",
+          "url": "https://pbs.twimg.com/media/HFbvdFDXQAAxHEm.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2042082816284938241",
+          "url": "https://pbs.twimg.com/media/HFbvgIKX0AEEmHj.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2042083093637472256",
+          "url": "https://pbs.twimg.com/media/HFbvwRYXoAAaVHE.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2042083107252105216",
+          "url": "https://pbs.twimg.com/media/HFbvxEGWcAArNBM.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2042065442043515124",
+        "text": "@dotey 前几天，傅盛公司的人来我们公司讲他的小龙虾 PPT 是怎么做的。那时候给我们看他的 Skill，我还以为他们是公开的呢，结果只有这个没有公开。但是对他的那个手写的画风印象特别深刻，想要研究一下。这下宝玉老师出了这个 Skill，终于可以研究了。",
+        "created_at": "Thu Apr 09 02:21:55 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2023043268099895296",
+          "name": "黑泽",
+          "screen_name": "zhedao88",
+          "description": "产品经理 | Passion in AI \n正在AI Coding自己的投资工具",
+          "followers_count": 30,
+          "friends_count": 75,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 28,
+        "reply_count": 3,
+        "quote_count": 1
       }
     }
   ]

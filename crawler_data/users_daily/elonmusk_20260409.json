@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237761907,
+    "followers_count": 237761447,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260409",
-  "last_updated": "2026-04-09T03:05:22.833680",
-  "tweet_count": 8,
+  "last_updated": "2026-04-09T04:49:54.199200",
+  "tweet_count": 18,
   "tweets": [
     {
       "id": "2042034018724803055",
@@ -353,6 +353,440 @@
         "favorite_count": 5284,
         "reply_count": 1007,
         "quote_count": 43
+      }
+    },
+    {
+      "id": "2042080823332258302",
+      "text": "Tesla V14.3 self-driving review. The point releases will bring polish.\n\nV15 will far exceed human levels of safety, even in completely unsupervised and complex situations.",
+      "created_at": "Thu Apr 09 03:23:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042036635882418353",
+        "text": "600 miles in with FSD v14.3 already and here are my thoughts:\n\nThe improved reaction time is immediately noticeable and definitely quicker than a human could react. Yesterday a semi truck swerved fast into my lane and the car reacted insanely quickly to get me around them. Tesla says it’s 20% quicker but feels more than that- and it was already extremely good. \n\nI’ll start by saying FSD was already so great with v14.2 that it’s sometimes hard to find new things, but there some huge apparent changes immediately noticeable with v14.3. To those who think it’s not a big improvement over v14.2.x+, you’ll be very impressed and especially with some more polish. The reinforcement learning upgrades and thinking are noticeable. \n\nParking is where you immediately notice some changes. In the release notes it says that parking is quicker and more decisive and it’s true. It has picked spots closer and quicker to the selected pin. My Y isn’t showing the new P pin graphic for parking pin for some reason, but it’s definitely parking closer than before with more thought to it. Looking forward to eventually getting more options to hopefully park either closer or further away from people.  \n\nFor the very first v14.3+ build, I have to say it’s pretty polished. The only gripe I have is the way it won’t get out of the left lane soon enough on highways. It likes to cruise in the left lane which isn’t ideal, it’s gotten better but the addition of reduction in unnecessary lane changes needs to be dialed back a bit. \n\nLane changes are a huge plus with this build and they are quick, decisive and executed very well, smooth as butter too. Turn signals come on at way better times now in parking lots and at the perfect time on the road. \n\nI was lucky enough to get the update with 600 miles left of my 1800 mile Oregon road trip, so I pulled over to install it so I could get as much experience as possible with it to share with you all. So far 600+ miles in, I’m impressed. A few rough edges with the left lane behavior and the last few inches of parking are a bit slow 1/5 times until it puts it into park but with a point release update everything should be dialed in. The 350 mile drive home today from the Bay Area had zero intervention including all parking and charging. \n\nOne thing I would love to see implemented is a reset button for the FSD stats page. Would be cool to have a specific trip meter for FSD stats on Trip A/B or make your own trip. I’ve been hinting at a pretty cool road trip next month with my 2025 Model 3 so it would be cool to have a reset for that.\n\nSpeed control seems good on highways, it’s matching traffic speed great. Braking is very impressive for sudden slowdowns, had a big one in San Jose last night it did a great job with from 80-10mph. \n\nHUGE improvements with stop sign behavior. The acceleration and deceleration are way smoother than before, much more pleasant. Mad Max takes off strong but again, a better curve than before. Mad Max is also polished a bit and feels great. FSD v14.3 did a great job in LA traffic once I got back and will go out this evening to film videos for everyone on my normal test loops. Let me know if there’s anything specific I should try or check out. \n\nCan’t wait to see how v14.3+ progresses especially with the upgraded reasoning coming to all scenarios soon. Some awesome additions here. \n\nTHANK YOU everyone @Tesla_AI for all the hard work getting this update out. More videos to come.",
+        "created_at": "Thu Apr 09 00:27:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042036629507125248",
+            "url": "https://pbs.twimg.com/media/HFbFftAbsAAZmaS.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "988975103785365504",
+          "name": "Zack",
+          "screen_name": "BLKMDL3",
+          "description": "",
+          "followers_count": 88143,
+          "friends_count": 2342,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 114,
+          "favorite_count": 1495,
+          "reply_count": 102,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 828,
+        "favorite_count": 5423,
+        "reply_count": 1024,
+        "quote_count": 144
+      }
+    },
+    {
+      "id": "2042081387076104238",
+      "text": "RT @benjitaylor: Working at 𝕏 is ‘intense’ the same way a rollercoaster is intense. If you love rollercoasters, it’s just fun.",
+      "created_at": "Thu Apr 09 03:25:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2041701761711534183",
+        "text": "Working at 𝕏 is ‘intense’ the same way a rollercoaster is intense. If you love rollercoasters, it’s just fun.",
+        "created_at": "Wed Apr 08 02:16:47 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2606432720",
+          "name": "Benji Taylor",
+          "screen_name": "benjitaylor",
+          "description": "leading design @x. prev. head of design @base. founder @family (acq by @aave). tools @dip.",
+          "followers_count": 110671,
+          "friends_count": 429,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 156,
+          "favorite_count": 1957,
+          "reply_count": 170,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 156,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042081485566681269",
+      "text": "RT @teslaownersSV: Just crushed FSD 14.3 through Mountain View &amp; Sunnyvale straight to Starbucks with @that1evguyjay! 🚗☕\n\n@Grok picked the…",
+      "created_at": "Thu Apr 09 03:25:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042014495967773125",
+        "text": "Just crushed FSD 14.3 through Mountain View & Sunnyvale straight to Starbucks with @that1evguyjay! 🚗☕\n\n@Grok picked the ENTIRE route end-to-end and the confidence was unreal. \n\nZero interventions the whole drive — buttery smooth accel/decel, lightning reactions, and it nailed every tricky urban move: no-right-turn-on-red without hesitation, zero drifting into oncoming traffic, and crushed all those complex city paths like a pro.\n\nIt confidently rerouted us to Shoreline Park and smoothly handled a blocked path… but wouldn’t park itself at the end so I had to take manual control.\n\nStill, this version feels next-level human. 14.3 is straight fire 🔥\n\nVideo shot on @insta360 Ace Pro 2\n\nhttps://t.co/Wg1vsLSRPe\n\n@elonmusk @tesla @aelluswamy @Tesla_AI",
+        "created_at": "Wed Apr 08 22:59:29 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042012232700325888",
+            "url": "https://video.twimg.com/amplify_video/2042012232700325888/vid/avc1/1920x1080/O1iRUGrY8vE7IVzR.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.\n2.8M followers",
+          "followers_count": 1399758,
+          "friends_count": 864,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 172,
+          "favorite_count": 852,
+          "reply_count": 85,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 172,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042082730620686516",
+      "text": "RT @nayibbukele: Impeach the corrupt judges.",
+      "created_at": "Thu Apr 09 03:30:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042046306613432745",
+        "text": "Impeach the corrupt judges.",
+        "created_at": "Thu Apr 09 01:05:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041953638197706815",
+          "text": "Crazed homeless man accused of slaughtering Iryna Zarutska on train found incompetent to stand trial https://t.co/BVq243rJyX https://t.co/Aslp4ZGWxO",
+          "created_at": "Wed Apr 08 18:57:39 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2041953630236889088",
+              "url": "https://pbs.twimg.com/media/HFZ6AgoW0AA9UDI.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "17469289",
+            "name": "New York Post",
+            "screen_name": "nypost",
+            "description": "Breaking news, features and more from the NY Post. Follow ➡️  @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion, @vrtpod, @_nynext",
+            "followers_count": 3730604,
+            "friends_count": 10067,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 2225,
+            "favorite_count": 11533,
+            "reply_count": 4704,
+            "quote_count": 2178
+          }
+        },
+        "user": {
+          "id": "20736511",
+          "name": "Nayib Bukele",
+          "screen_name": "nayibbukele",
+          "description": "Philosopher King",
+          "followers_count": 7883770,
+          "friends_count": 539,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10462,
+          "favorite_count": 65879,
+          "reply_count": 1466,
+          "quote_count": 341
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10462,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042087642800779569",
+      "text": "Exactly",
+      "created_at": "Thu Apr 09 03:50:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042073703282884838",
+        "text": "@davidsenra @tobi Every time I listen to Bernie Sanders, I think of the pie. He is worried about slicing the pie and distributing the crumbs to everyone. I always ask, why not just bake 10 more pies?\n\nAbundance means not having to slice the pie, but instead, share or give away what you can’t eat.",
+        "created_at": "Thu Apr 09 02:54:45 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3246204024",
+          "name": "Dave Hawkins",
+          "screen_name": "DaveHawkinsX",
+          "description": "Thinking about the future every day. What is to come? Can we thrive in it? What strategies should we use to make life joyful and optimistic?",
+          "followers_count": 1477,
+          "friends_count": 3414,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 161,
+          "favorite_count": 1729,
+          "reply_count": 168,
+          "quote_count": 18
+        }
+      },
+      "stats": {
+        "retweet_count": 876,
+        "favorite_count": 8787,
+        "reply_count": 729,
+        "quote_count": 61
+      }
+    },
+    {
+      "id": "2042087991347446070",
+      "text": "Tesla puts a lot of effort into ensuring that our cars don’t run over animals",
+      "created_at": "Thu Apr 09 03:51:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042071089635860953",
+        "text": "More than 350 million vertebrate animals are killed by human driven vehicles every year. In general, autonomous vehicles are much better than humans at dodging animals.\n\nA compilation I made of @Tesla’s FSD stopping for animals, and often saving their lives: https://t.co/MC7QhcdwRG",
+        "created_at": "Thu Apr 09 02:44:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042070607873851392",
+            "url": "https://video.twimg.com/amplify_video/2042070607873851392/vid/avc1/1920x1080/mcPiHD9Vi7QGbxHV.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1054891,
+          "friends_count": 447,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 164,
+          "favorite_count": 1359,
+          "reply_count": 114,
+          "quote_count": 26
+        }
+      },
+      "stats": {
+        "retweet_count": 1604,
+        "favorite_count": 14180,
+        "reply_count": 1439,
+        "quote_count": 109
+      }
+    },
+    {
+      "id": "2042089424625004947",
+      "text": "This is messed up",
+      "created_at": "Thu Apr 09 03:57:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042017343212073007",
+        "text": "DeCarlos Brown arrests…\n\n1. Capable\n2. Capable\n3. Capable\n4. Capable\n5. Capable\n6. Capable\n7. Capable\n8. Capable\n9. Capable\n10. Capable\n11. Capable\n12. Capable\n13. Capable\n14. Capable\n15. Incapable to stand trial\n\nWhat a miscarriage of justice.\n\nSickening.",
+        "created_at": "Wed Apr 08 23:10:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2327400218",
+          "name": "C3",
+          "screen_name": "C_3C_3",
+          "description": "",
+          "followers_count": 313680,
+          "friends_count": 8734,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8787,
+          "favorite_count": 52540,
+          "reply_count": 667,
+          "quote_count": 192
+        }
+      },
+      "stats": {
+        "retweet_count": 1068,
+        "favorite_count": 10450,
+        "reply_count": 646,
+        "quote_count": 22
+      }
+    },
+    {
+      "id": "2042090236206063966",
+      "text": "Not someone you want in charge of superpowerful AI https://t.co/17sxmN3Rhc",
+      "created_at": "Thu Apr 09 04:00:27 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041968469944766464",
+          "url": "https://video.twimg.com/amplify_video/2041968469944766464/vid/avc1/1280x720/_k1oRNf7giOfu567.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1151,
+        "favorite_count": 8950,
+        "reply_count": 995,
+        "quote_count": 54
+      }
+    },
+    {
+      "id": "2042090841230151749",
+      "text": "Good for him!",
+      "created_at": "Thu Apr 09 04:02:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042044314268975508",
+        "text": "Project Hail Mary writer Andy Weir on social commentary in books:\n\n\"I dislike social commentary. Like… I really hate it. When I’m reading a book, I just want to be entertained, not preached at by the author. Plus, it ruins the wonder of the story if I know the author has a political or social axe to grind. I no longer speculate about all possible outcomes of the story because I know for a fact that the universe of that book will conspire to ensure that the author’s political agenda is validated. I hate that.\"\n\n\"I put no politics or social commentary into my stories at all. Anyone who thinks they see something like that is reading it in on their own. I have no point to make, and I’m not trying to affect the reader’s opinion on anything. My sole job is to entertain, and I stick to that.\"\n\n\"To that end, I also don’t talk about my personal political opinions publicly. I don’t want readers to even know, honestly. I don’t want that in the back of their minds as they read my stuff.\"\n\nIs this why he has the #1 sci-fi movie in decades?",
+        "created_at": "Thu Apr 09 00:57:58 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042044234333839360",
+            "url": "https://pbs.twimg.com/media/HFbMaXMaYAApfMD.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042044306303938560",
+            "url": "https://pbs.twimg.com/media/HFbMejTa8AA0ZET.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1729690249813688320",
+          "name": "Fandom Pulse",
+          "screen_name": "fandompulse",
+          "description": "Pop Culture, Movies, TV, Gaming, Books, Comics. Take back the culture from woke corporations.",
+          "followers_count": 6998,
+          "friends_count": 38,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 871,
+          "favorite_count": 9245,
+          "reply_count": 305,
+          "quote_count": 154
+        }
+      },
+      "stats": {
+        "retweet_count": 588,
+        "favorite_count": 10446,
+        "reply_count": 548,
+        "quote_count": 15
+      }
+    },
+    {
+      "id": "2042099472541610409",
+      "text": "The @BoringCompany could build a Hyperloop tunnel from downtown SF to downtown LA for &lt;5% of this cost and it would be a technological marvel exceeding any high speed rail on Earth",
+      "created_at": "Thu Apr 09 04:37:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041915726122963443",
+        "text": "If you gave away $126 billion to subsidize free flights between LA and San Francisco at current demand levels, you could fund roughly 150 to 200 years of travel before the money runs out.",
+        "created_at": "Wed Apr 08 16:27:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2565360157",
+          "name": "Hans Mahncke",
+          "screen_name": "HansMahncke",
+          "description": "Author of Swiftboating America, the definitive account of the greatest political crime in history.",
+          "followers_count": 218306,
+          "friends_count": 870,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1282,
+          "favorite_count": 9451,
+          "reply_count": 332,
+          "quote_count": 75
+        }
+      },
+      "stats": {
+        "retweet_count": 432,
+        "favorite_count": 3631,
+        "reply_count": 626,
+        "quote_count": 40
       }
     }
   ]
