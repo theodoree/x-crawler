@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206844,
+    "followers_count": 206884,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260409",
-  "last_updated": "2026-04-09T14:38:58.880272",
-  "tweet_count": 2,
+  "last_updated": "2026-04-09T16:31:30.738514",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2042069496127471849",
@@ -119,6 +119,96 @@
         "favorite_count": 28,
         "reply_count": 3,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2042262815172440280",
+      "text": "RT @stark_nico99: 开源一个四格漫画Skill\n灵感来源于 @dotey 宝玉老师之前分享过的一个四格漫画\n\n提示词：\n基于主题,创作一个富有哲理的四格漫画故事。故事结构:\n**第一格:问题/现状呈现**\n- 场景描述\n- 人物动作和表情\n- 对话内容\n- 旁白…",
+      "created_at": "Thu Apr 09 15:26:13 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2042183446831993008",
+        "text": "开源一个四格漫画Skill\n灵感来源于 @dotey 宝玉老师之前分享过的一个四格漫画\n\n提示词：\n基于主题,创作一个富有哲理的四格漫画故事。故事结构:\n**第一格:问题/现状呈现**\n- 场景描述\n- 人物动作和表情\n- 对话内容\n- 旁白(点明主题)\n**第二格:问题加深/冲突**\n- 场景描述\n- 人物动作和表情变化\n- 对话内容\n- 旁白(揭示困境）\n**第三格:转折/觉醒**\n- 场景描述\n- 人物动作和表情转变\n- 对话内容\n- 旁白(引导思考)\n**第四格:升华/智慧**\n- 场景描述\n- 人物动作和表情释然\n- 对话内容\n- 旁白(传达哲理)\n- 橙色标签(核心关键词)\n\n**故事要点:**\n- 使用视觉隐喻(如:推墙与门、紧握与松手、高度与花朵等)\n- 对比强烈(前三格 vs 第四格)\n- 结尾升华,传达深刻哲理\n- 简洁有力,不拖沓\n将完整的四格故事呈现给用户确认。\n\n使用 imageGenerate 工具生成插画。严格遵循以下提示词模板:\n四格漫画,2×2方格布局(两行两列),简约线条艺术风格,商务插画风格。纯白背景,黑色线条勾勒,仅使用橙色作为重点标签的强调色,橙色使用非常克制。除木质物体可使用极少量浅棕色外,不使用灰色调。\n\n在整个四格漫画的顶部,用黑色清晰的中文字体写上标题:\"[主题名称]\"。\n\n人物风格:简化但比例协调的人物造型(非火柴人):圆形头部,极简五官(两个点表示眼睛,一条弧线表示嘴巴,简单的发型轮廓),身体有清晰的衬衫领子、袖子、裤子和鞋子细节。人物占据画面较小比例(中远景)。通过不同发型区分角色:光头、短发、中长发等。\n\n四格布局:2行2列的方格布局,每格边框为手绘风格,线条略带自然曲线感(非完全笔直)。\n\n风格要点:干净的线条艺术,有个性的简化人物,人物在画面中比例适当,纯白背景,仅黑色轮廓线,橙色仅用于关键标签且非常克制,极少阴影(仅木质物体可用浅棕色),手绘美学感的略不规则边框,商务休闲服装轮廓清晰。\n\n[如果涉及品牌logo,添加:]重要:人物的胸前要显示各自的logo(简化版本,黑色线条勾勒,Claude logo使用温暖的铁锈橙色填充)\n\n第一格(左上):[详细的场景、人物、动作、表情、对话、旁白描述]\n\n第二格(右上):[详细的场景、人物、动作、表情、对话、旁白描述]\n\n第三格(左下):[详细的场景、人物、动作、表情、对话、旁白描述]\n\n第四格(右下):[详细的场景、人物、动作、表情、对话、旁白描述,强调橙色标签是整幅画中唯一的橙色元素]\n\n**关键参数:**\n- aspect_ratio: \"16:9\"\n- quality: \"medium\"\n- title: \"[主题名称] - 四格漫画\"",
+        "created_at": "Thu Apr 09 10:10:50 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042183339180957696",
+            "url": "https://pbs.twimg.com/media/HFdK7VIaIAAXB1B.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042183339159994368",
+            "url": "https://pbs.twimg.com/media/HFdK7VDaQAASptW.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042183339478847488",
+            "url": "https://pbs.twimg.com/media/HFdK7WPbkAAyWKv.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042183339189407744",
+            "url": "https://pbs.twimg.com/media/HFdK7VKbEAA5XcB.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1899037940501839872",
+          "name": "Nicolechan",
+          "screen_name": "stark_nico99",
+          "description": "分享出海增长历程和干货 | Building YouMind | User Growth Leader | Ex-CMS Securities UX | Ex-Tencent Alumni Content Lead | Community & Content Expert @Youmind_AI",
+          "followers_count": 13668,
+          "friends_count": 683,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 82,
+          "reply_count": 21,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042269631277105184",
+      "text": "如果你想在 Claude Code 中禁用1M上下文，只要在你的 ~/.claude/settings.json中添加以下内容：\n{\n  \"env\": {\n    \"CLAUDE_CODE_DISABLE_1M_CONTEXT\": \"1\"\n  }\n}\n\n之所以这么做，很多人认为1M上下文会“降智”，但没有证据表明，只是猜测。",
+      "created_at": "Thu Apr 09 15:53:18 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 17,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042271034045342150",
+      "text": "如果你想设置自动压缩上下文的阈值：\n\n{\n  \"env\": {\n    \"CLAUDE_CODE_AUTO_COMPACT_WINDOW\": \"200000\"\n  }\n}",
+      "created_at": "Thu Apr 09 15:58:52 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
