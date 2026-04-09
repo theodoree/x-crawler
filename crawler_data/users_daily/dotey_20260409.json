@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 206884,
+    "followers_count": 206908,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260409",
-  "last_updated": "2026-04-09T16:31:30.738514",
-  "tweet_count": 5,
+  "last_updated": "2026-04-09T18:23:19.262068",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2042069496127471849",
@@ -208,6 +208,95 @@
         "retweet_count": 0,
         "favorite_count": 1,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042295026189738348",
+      "text": "RT @ianneo_ai: 我又发现了一个狠东西，这个确实有用啊！\n\n不要只收藏，去看！\n\n有人把 58 个大厂的设计系统做成了一个 DESIGN.md 文件\n\n苹果、Airbnb、Spotify、Anthropic、Cursor……每个品牌一句话描述风格特征\n\n用法很暴力：…",
+      "created_at": "Thu Apr 09 17:34:12 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2042094983600337035",
+        "text": "我又发现了一个狠东西，这个确实有用啊！\n\n不要只收藏，去看！\n\n有人把 58 个大厂的设计系统做成了一个 DESIGN.md 文件\n\n苹果、Airbnb、Spotify、Anthropic、Cursor……每个品牌一句话描述风格特征\n\n用法很暴力：把这个文件丢进你的项目，Claude Code 或 Cursor 就能按这个风格写 UI\n\n相当于你的 AI 编程助手突然有了审美\n\n之前觉得 AI 写前端最大的问题是能跑但丑\n\n这个思路解决了：不是教 AI 什么是好看，是直接告诉它照着谁的风格来\n\n6 个分类 58 个品牌，从 AI 产品到金融科技都有",
+        "created_at": "Thu Apr 09 04:19:19 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042094782407962624",
+            "url": "https://pbs.twimg.com/media/HFb6Ypca8AAYSb1.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042094804121862145",
+            "url": "https://pbs.twimg.com/media/HFb6Z6VawAE9zlh.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1249322582869852161",
+          "name": "Ian (伊恩)",
+          "screen_name": "ianneo_ai",
+          "description": "前 Dribbble 中国区 #1 👉 https://t.co/suGhf2hhC6\n懂审美的产品设计师，正在用 AI 团队打造一人公司\n主要研究 AI 工作流，在这里持续更新 👉 https://t.co/vj6iG8RdA6",
+          "followers_count": 11491,
+          "friends_count": 574,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 82,
+          "favorite_count": 380,
+          "reply_count": 4,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 82,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042304660912947576",
+      "text": "OpenAI 调整订阅体系，新增 100 美元/月 Pro 档位\n\nOpenAI 刚刚重新划分了 ChatGPT 的付费层级，核心变化是围绕 Codex（他们的 AI 编程智能体）的用量做文章。\n\n新推出的 Pro 档位定价 100 美元/月，Codex 用量是 Plus（20 美元/月）的 5 倍，适合每天高强度用 Codex 写代码的用户。ChatGPT 里原有的 Pro 功能照旧保留，包括专属 Pro 模型和不限量的即时/思考模型访问。为了拉新，5 月 31 日之前 Pro 用户还能拿到 10 倍于 Plus 的 Codex 用量。\n\n另一边，Plus 用户的待遇在\"悄悄缩水\"。之前 Plus 用户享受的 Codex 限时促销今天结束，用量被重新分配——官方说法是\"支持一周内更均匀地使用，而不是一天内集中用完\"，翻译一下就是单日可用量变少了。\n\n简单说：如果你只是偶尔让 Codex 帮忙写写代码，20 美元的 Plus 够用；如果你已经把 Codex 当成日常开发主力工具，OpenAI 希望你掏 100 美元。这个定价刚好卡在 Anthropic 的 Claude Pro（20 美元）和之前 ChatGPT Pro（200 美元）之间，等于在中间开了一档，把重度开发者用户单独圈出来收费。",
+      "created_at": "Thu Apr 09 18:12:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042295688323875316",
+        "text": "We’re updating our ChatGPT Pro and Plus subscriptions to better support the growing use of Codex.\n\nWe’re introducing a new $100/month Pro tier. This new tier offers 5x more Codex usage than Plus and is best for longer, high-effort Codex sessions. \n\nIn ChatGPT, this new Pro tier still offers access to all Pro features, including the exclusive Pro model and unlimited access to Instant and Thinking models.\n\nTo celebrate the launch, we’re increasing Codex usage for a limited time through May 31st so that Pro $100 subscribers get up to 10x usage of ChatGPT Plus on Codex to build your most ambitious ideas.",
+        "created_at": "Thu Apr 09 17:36:50 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4398626122",
+          "name": "OpenAI",
+          "screen_name": "OpenAI",
+          "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+          "followers_count": 4708989,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 350,
+          "favorite_count": 4525,
+          "reply_count": 414,
+          "quote_count": 362
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "reply_count": 2,
         "quote_count": 0
       }
     }
