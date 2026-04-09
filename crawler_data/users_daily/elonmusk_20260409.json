@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237769822,
+    "followers_count": 237757690,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260409",
-  "last_updated": "2026-04-09T18:23:19.271542",
-  "tweet_count": 37,
+  "last_updated": "2026-04-09T20:19:38.138766",
+  "tweet_count": 38,
   "tweets": [
     {
       "id": "2042034018724803055",
@@ -1589,6 +1589,52 @@
         "favorite_count": 4985,
         "reply_count": 1165,
         "quote_count": 61
+      }
+    },
+    {
+      "id": "2042335198097129926",
+      "text": "Accurate",
+      "created_at": "Thu Apr 09 20:13:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041874516872151478",
+        "text": "In 19 days, a jury in Oakland is going to decide whether the entire legal foundation of the AI industry is built on fraud.\n\nEveryone thinks the Musk vs Altman lawsuit is a billionaire grudge match. \n\nTwo egos, one grudge, a $150 billion damages number designed for headlines. \n\nEasy to dismiss. Easy to scroll past.\n\nThat's exactly what Altman wants you to think.\n\nBecause what's actually on trial on April 27 is something much BIGGER than Elon's hurt feelings...\n\nA jury is going to decide whether you can legally take billions of dollars in nonprofit donations, use them to build the most valuable technology in human history, and then quietly convert that nonprofit into a for-profit company worth $850 billion.\n\nIf the answer is no, the entire AI industry has a problem.\n\nBecause OpenAI is not the only company that did this:\n\nAnthropic was founded by OpenAI defectors using the same nonprofit-first mission language. \n\nxAI pitches itself as building AI \"for humanity.\" \n\nEvery frontier lab has used the moral cover of \"we're doing this for the good of the world\" to attract talent, capital, and regulatory goodwill they would have never gotten otherwise.\n\nAn Elon win doesn't just touch OpenAI. It creates a legal precedent that every AI company built on a nonprofit or public benefit promise becomes vulnerable to shareholder and donor clawback suits.\n\nThat's why this case matters. And that's why Altman is panicking.\n\nJust look at what he did this week:\n\nElon filed a motion demanding the court remove Altman and Brockman from their roles and FORCE OpenAI to return to its nonprofit origins. \n\nThen he amended the suit to say if he wins the $150 billion, all of it goes to OpenAI's charity arm. Not him. Zero dollars to Elon personally.\n\nThat amendment was surgical. It stripped Altman of his entire public defense. \n\nHe can no longer claim this is about Elon's ego or Elon's bank account. Elon is now legally on record saying he just wants the mission back.\n\nOpenAI's response was to panic-write a letter to the California and Delaware attorneys general asking them to investigate Elon for \"anti-competitive behavior.\" Their strategy chief publicly accused Elon of coordinating attacks with Mark Zuckerberg. \n\nThey called the lawsuit \"harassment driven by ego and jealousy.\"\n\nThat's NOT the response of a company that thinks it's going to win.\n\nReal companies with real defenses don't ask the government to silence the person suing them 3 weeks before trial. They let the evidence speak. \n\nOpenAI is scrambling because they know what's in discovery.\nElon's team has been building this case for two years. Emails, board minutes, internal conversations about the conversion. \n\nThe kind of paper trail that juries understand and executives can't explain away.\n\nAnd the timing couldn't be worse...\n\nOpenAI is trying to IPO at $852 billion. They just raised $122 billion. Microsoft has $135 billion of exposure to them. \n\nA jury verdict that even partially sides with Elon in late April or May would crater the entire IPO runway and send shockwaves through every major AI investor on Earth.\n\nThis is why Altman spent the last 2 weeks doing press tours and policy blueprints and \"super intelligence agendas\" aimed at Washington. He's trying to REFRAME himself as the responsible statesman of AI right before a jury decides if he's a con artist.\n\nMost people will watch this trial start and think it's celebrity drama.\n\nThe smart money is watching it and realizing that the legal foundation of the AI boom is about to be tested in court for the first time EVER.\n\nAnd if that foundation cracks, everything built on top of it is at risk.",
+        "created_at": "Wed Apr 08 13:43:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041874376065519616",
+            "url": "https://video.twimg.com/ext_tw_video/2041874376065519616/pu/vid/avc1/1918x1080/DPZdf4NUBMbEcVa5.mp4?tag=19",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1759241571025768451",
+          "name": "Ricardo",
+          "screen_name": "Ric_RTP",
+          "description": "Private content partner to finance & tech founders on X | 1.5B+ views and $50M+ in value generated for 35+ clients | DM to apply",
+          "followers_count": 31603,
+          "friends_count": 132,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 641,
+          "favorite_count": 1588,
+          "reply_count": 136,
+          "quote_count": 73
+        }
+      },
+      "stats": {
+        "retweet_count": 266,
+        "favorite_count": 1709,
+        "reply_count": 435,
+        "quote_count": 7
       }
     }
   ]

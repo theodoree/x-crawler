@@ -1,12 +1,169 @@
 {
   "date": "20260409",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-09T18:23:19.234328",
-  "tweet_count": 242,
-  "unique_tweet_count": 242,
-  "total_crawled": 434,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-04-09T20:19:38.108914",
+  "tweet_count": 245,
+  "unique_tweet_count": 245,
+  "total_crawled": 442,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2042335198097129926",
+      "text": "Accurate",
+      "created_at": "Thu Apr 09 20:13:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041874516872151478",
+        "text": "In 19 days, a jury in Oakland is going to decide whether the entire legal foundation of the AI industry is built on fraud.\n\nEveryone thinks the Musk vs Altman lawsuit is a billionaire grudge match. \n\nTwo egos, one grudge, a $150 billion damages number designed for headlines. \n\nEasy to dismiss. Easy to scroll past.\n\nThat's exactly what Altman wants you to think.\n\nBecause what's actually on trial on April 27 is something much BIGGER than Elon's hurt feelings...\n\nA jury is going to decide whether you can legally take billions of dollars in nonprofit donations, use them to build the most valuable technology in human history, and then quietly convert that nonprofit into a for-profit company worth $850 billion.\n\nIf the answer is no, the entire AI industry has a problem.\n\nBecause OpenAI is not the only company that did this:\n\nAnthropic was founded by OpenAI defectors using the same nonprofit-first mission language. \n\nxAI pitches itself as building AI \"for humanity.\" \n\nEvery frontier lab has used the moral cover of \"we're doing this for the good of the world\" to attract talent, capital, and regulatory goodwill they would have never gotten otherwise.\n\nAn Elon win doesn't just touch OpenAI. It creates a legal precedent that every AI company built on a nonprofit or public benefit promise becomes vulnerable to shareholder and donor clawback suits.\n\nThat's why this case matters. And that's why Altman is panicking.\n\nJust look at what he did this week:\n\nElon filed a motion demanding the court remove Altman and Brockman from their roles and FORCE OpenAI to return to its nonprofit origins. \n\nThen he amended the suit to say if he wins the $150 billion, all of it goes to OpenAI's charity arm. Not him. Zero dollars to Elon personally.\n\nThat amendment was surgical. It stripped Altman of his entire public defense. \n\nHe can no longer claim this is about Elon's ego or Elon's bank account. Elon is now legally on record saying he just wants the mission back.\n\nOpenAI's response was to panic-write a letter to the California and Delaware attorneys general asking them to investigate Elon for \"anti-competitive behavior.\" Their strategy chief publicly accused Elon of coordinating attacks with Mark Zuckerberg. \n\nThey called the lawsuit \"harassment driven by ego and jealousy.\"\n\nThat's NOT the response of a company that thinks it's going to win.\n\nReal companies with real defenses don't ask the government to silence the person suing them 3 weeks before trial. They let the evidence speak. \n\nOpenAI is scrambling because they know what's in discovery.\nElon's team has been building this case for two years. Emails, board minutes, internal conversations about the conversion. \n\nThe kind of paper trail that juries understand and executives can't explain away.\n\nAnd the timing couldn't be worse...\n\nOpenAI is trying to IPO at $852 billion. They just raised $122 billion. Microsoft has $135 billion of exposure to them. \n\nA jury verdict that even partially sides with Elon in late April or May would crater the entire IPO runway and send shockwaves through every major AI investor on Earth.\n\nThis is why Altman spent the last 2 weeks doing press tours and policy blueprints and \"super intelligence agendas\" aimed at Washington. He's trying to REFRAME himself as the responsible statesman of AI right before a jury decides if he's a con artist.\n\nMost people will watch this trial start and think it's celebrity drama.\n\nThe smart money is watching it and realizing that the legal foundation of the AI boom is about to be tested in court for the first time EVER.\n\nAnd if that foundation cracks, everything built on top of it is at risk.",
+        "created_at": "Wed Apr 08 13:43:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2041874376065519616",
+            "url": "https://video.twimg.com/ext_tw_video/2041874376065519616/pu/vid/avc1/1918x1080/DPZdf4NUBMbEcVa5.mp4?tag=19",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1759241571025768451",
+          "name": "Ricardo",
+          "screen_name": "Ric_RTP",
+          "description": "Private content partner to finance & tech founders on X | 1.5B+ views and $50M+ in value generated for 35+ clients | DM to apply",
+          "followers_count": 31603,
+          "friends_count": 132,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 641,
+          "favorite_count": 1588,
+          "reply_count": 136,
+          "quote_count": 73
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237757690,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 266,
+        "favorite_count": 1709,
+        "reply_count": 435,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2042332738586390565",
+      "text": "人工智能大跃进\nhttps://t.co/UsivSYqO5v https://t.co/wp01zU97QY",
+      "created_at": "Thu Apr 09 20:04:04 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2042332352748134400",
+          "url": "https://pbs.twimg.com/media/HFfSdD7XIAAMGdM.png"
+        },
+        {
+          "type": "photo",
+          "id": "2042332420951736320",
+          "url": "https://pbs.twimg.com/media/HFfShCAXgAAnw9o.png"
+        },
+        {
+          "type": "photo",
+          "id": "2042332449024188416",
+          "url": "https://pbs.twimg.com/media/HFfSiqlXIAASO8_.png"
+        },
+        {
+          "type": "photo",
+          "id": "2042332510487511041",
+          "url": "https://pbs.twimg.com/media/HFfSmPjXAAEXyFk.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206888,
+        "friends_count": 1602,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042324560700154312",
+      "text": "Anthropic 推出了一个叫“顾问工具”（advisor tool）的新 API 功能，核心思路是：让便宜的模型干活，遇到难题时请贵的模型出主意。\n\n具体来说，Sonnet 或 Haiku 作为\"执行者\"全程跑任务、调工具、处理结果。碰到自己搞不定的决策，就把上下文递给 Opus，Opus 给出方案或纠正，执行者接着干。Opus 全程不碰工具、不直接输出给用户，只充当幕后军师。\n\n这跟很多人熟悉的“大模型拆任务、小模型干活”的模式正好反过来。以前是大模型当指挥官，把任务拆成小块分配下去。现在是小模型自己跑，只在关键节点向大模型请教。好处很直接：大部分 Token 消耗在便宜的模型上，贵的模型只在刀刃上用。\n\n效果方面，Sonnet 配 Opus 顾问在 SWE-bench 多语言测试上比 Sonnet 单干高了 2.7 个百分点，同时每个任务的成本还降了 11.9%。更有意思的是 Haiku 的表现：配上 Opus 顾问后，Haiku 在 BrowseComp 测试上从 19.7% 跳到 41.2%，翻了一倍多。虽然分数还是比 Sonnet 单干低 29%，但成本只有 Sonnet 的 15%，适合跑量大但对智能要求没那么极端的场景。\n\n用起来也简单，在 Messages API 的 tools 里加一个 advisor_20260301 类型就行，一个 API 请求内部完成模型切换，不需要额外管理上下文或做多次调用。可以设 max_uses 控制每次请求最多咨询几次顾问，账单里顾问和执行者的 Token 分开计费。\n\n对开发者来说，这提供了一个新的性价比选项：不用在\"全程跑 Opus 太贵\"和\"只用 Sonnet 不够聪明\"之间二选一了。你的 Agent 可以 95% 的时间跑 Sonnet 的价格，5% 的关键决策享受 Opus 的判断力。目前是 beta 阶段，需要加 anthropic-beta: advisor-tool-2026-03-01 请求头才能用。",
+      "created_at": "Thu Apr 09 19:31:34 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042308622181339453",
+        "text": "We're bringing the advisor strategy to the Claude Platform.\n\nPair Opus as an advisor with Sonnet or Haiku as an executor, and get near Opus-level intelligence in your agents at a fraction of the cost. https://t.co/fRkegyMs5t",
+        "created_at": "Thu Apr 09 18:28:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042300431292846080",
+            "url": "https://pbs.twimg.com/media/HFe1a_PWUAACcm3.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+          "followers_count": 1019520,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 734,
+          "favorite_count": 12923,
+          "reply_count": 479,
+          "quote_count": 372
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 206888,
+        "friends_count": 1602,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 18,
+        "reply_count": 6,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2042304660912947576",
       "text": "OpenAI 调整订阅体系，新增 100 美元/月 Pro 档位\n\nOpenAI 刚刚重新划分了 ChatGPT 的付费层级，核心变化是围绕 Codex（他们的 AI 编程智能体）的用量做文章。\n\n新推出的 Pro 档位定价 100 美元/月，Codex 用量是 Plus（20 美元/月）的 5 倍，适合每天高强度用 Codex 写代码的用户。ChatGPT 里原有的 Pro 功能照旧保留，包括专属 Pro 模型和不限量的即时/思考模型访问。为了拉新，5 月 31 日之前 Pro 用户还能拿到 10 倍于 Plus 的 Codex 用量。\n\n另一边，Plus 用户的待遇在\"悄悄缩水\"。之前 Plus 用户享受的 Codex 限时促销今天结束，用量被重新分配——官方说法是\"支持一周内更均匀地使用，而不是一天内集中用完\"，翻译一下就是单日可用量变少了。\n\n简单说：如果你只是偶尔让 Codex 帮忙写写代码，20 美元的 Plus 够用；如果你已经把 Codex 当成日常开发主力工具，OpenAI 希望你掏 100 美元。这个定价刚好卡在 Anthropic 的 Claude Pro（20 美元）和之前 ChatGPT Pro（200 美元）之间，等于在中间开了一档，把重度开发者用户单独圈出来收费。",
