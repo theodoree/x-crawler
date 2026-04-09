@@ -1,12 +1,204 @@
 {
   "date": "20260409",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-09T20:19:38.108914",
-  "tweet_count": 245,
-  "unique_tweet_count": 245,
-  "total_crawled": 442,
+  "last_crawl_time": "2026-04-09T22:16:27.859151",
+  "tweet_count": 248,
+  "unique_tweet_count": 248,
+  "total_crawled": 445,
   "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2042348111809691858",
+      "text": "Tesla driving itself around LA https://t.co/NyM36R6J7a",
+      "created_at": "Thu Apr 09 21:05:09 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2041748114709868547",
+          "url": "https://video.twimg.com/amplify_video/2041748114709868547/vid/avc1/3840x2160/0k6eQBwdqqzAY86u.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237760979,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3154,
+        "favorite_count": 40314,
+        "reply_count": 3045,
+        "quote_count": 354
+      }
+    },
+    {
+      "id": "2042347855478997239",
+      "text": "RT @Tesla: No other car can do this",
+      "created_at": "Thu Apr 09 21:04:08 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042311578264150273",
+        "text": "No other car can do this",
+        "created_at": "Thu Apr 09 18:39:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041751061531390171",
+          "text": "Introducing Tesla Self-Driving 14.3: Self-Driving that doesn't waste your time\n\nThe most humanlike self-driving you've ever experienced https://t.co/oGeokakWBg",
+          "created_at": "Wed Apr 08 05:32:41 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2041748114709868547",
+              "url": "https://video.twimg.com/amplify_video/2041748114709868547/vid/avc1/3840x2160/0k6eQBwdqqzAY86u.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1263491240336769026",
+            "name": "Whole Mars Catalog",
+            "screen_name": "wholemars",
+            "description": "🤖 🚗 🤖 🚕",
+            "followers_count": 888117,
+            "friends_count": 29515,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 92,
+            "favorite_count": 707,
+            "reply_count": 61,
+            "quote_count": 14
+          }
+        },
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24719503,
+          "friends_count": 56,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 579,
+          "favorite_count": 3694,
+          "reply_count": 352,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237760979,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 579,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042338583160504675",
+      "text": "RT @tobi: I remember this “not-a-flamethrower” moment fondly. It was being sold through Shopify and I had to explain Elon’s shenanigans to…",
+      "created_at": "Thu Apr 09 20:27:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042227945763160561",
+        "text": "I remember this “not-a-flamethrower” moment fondly. It was being sold through Shopify and I had to explain Elon’s shenanigans to risk, underwriting and AUP teams all at the same time to keep it up.",
+        "created_at": "Thu Apr 09 13:07:39 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2042109288198394305",
+          "text": "@elonmusk @boringcompany Can you bring back the Boring Co. Not-A-Flamethrower for sale to raise money for this project? https://t.co/Y887DS1ZTy",
+          "created_at": "Thu Apr 09 05:16:09 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2042109274235514880",
+              "url": "https://video.twimg.com/ext_tw_video/2042109274235514880/pu/vid/avc1/480x480/PwObmR1cMtdZXO0Q.mp4?tag=19",
+              "bitrate": 832000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1232787923445178369",
+            "name": "Oukham",
+            "screen_name": "OPteemyst",
+            "description": "Leader of some programmers... I post only positive messages and quotes with a mix of Elon, Tesla, SpaceX because they are inspiring. Thanks for the follow 🙏",
+            "followers_count": 13302,
+            "friends_count": 95,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 14,
+            "favorite_count": 250,
+            "reply_count": 16,
+            "quote_count": 3
+          }
+        },
+        "user": {
+          "id": "676573",
+          "name": "tobi lutke",
+          "screen_name": "tobi",
+          "description": "Shopify CEO by day, Dad in evening, hacker at night, Aspiring comprehensivist. \n+ qmd !",
+          "followers_count": 460818,
+          "friends_count": 2173,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 296,
+          "favorite_count": 3237,
+          "reply_count": 252,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237760979,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 296,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2042335198097129926",
       "text": "Accurate",
