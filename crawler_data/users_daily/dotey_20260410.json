@@ -8,8 +8,8 @@
     "is_blue_verified": true
   },
   "date": "20260410",
-  "last_updated": "2026-04-10T18:18:48.576525",
-  "tweet_count": 2,
+  "last_updated": "2026-04-10T20:12:28.456763",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2042623741268513071",
@@ -86,6 +86,52 @@
         "retweet_count": 1,
         "favorite_count": 7,
         "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042675917927977084",
+      "text": "Claude Code 新增了一个叫 ultraplan 的功能：你在终端里发起一个规划任务，Claude 会在云端帮你起草实现方案，你在浏览器里审阅、批注、修改，满意之后选择在云端执行或者拉回本地终端执行。\n\n这个功能解决的是一个很实际的痛点：在终端里审阅一份复杂的实施计划，体验很差。你只能上下滚动，没法针对某一段提意见。ultraplan 把\"规划\"这件事搬到了浏览器里，你可以像审阅文档一样，对具体段落加批注、打表情、在大纲里跳转，然后让 Claude 根据你的反馈修改方案，反复迭代到满意为止。\n\n用法很简单，在 Claude Code 终端里输入 /ultraplan 加上你的需求描述就行，比如\"/ultraplan 把认证服务从 session 迁移到 JWT\"。云端会开始分析你的代码库、起草方案，这期间终端不占用，你可以继续干别的活。方案写好后，你在浏览器里审阅，最后二选一：让云端直接执行并开 PR，或者把方案传回终端在本地执行。\n\nAnthropic 工程师 Thariq 说，这个功能的核心思路是：实现代码有时候需要本地环境，但规划本身只需要读代码和理解意图，完全可以放在云端做。ultraplan 消耗的 token 量和本地 plan 模式差不多，不会额外多花钱。\n\n这个功能今天开始对所有开启了 Claude Code 网页版的用户开放预览，需要 Claude Code v2.1.91 或更新版本。",
+      "created_at": "Fri Apr 10 18:47:44 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042671370186973589",
+        "text": "New in Claude Code: /ultraplan\n\nClaude builds an implementation plan for you on the web. You can read it and edit it, then run the plan on the web or back in your terminal.\n\nAvailable now in preview for all users with CC on the web enabled.",
+        "created_at": "Fri Apr 10 18:29:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042669906899222528",
+            "url": "https://video.twimg.com/amplify_video/2042669906899222528/vid/avc1/1080x1080/SQ5geTxp4Kc3BfcW.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "352806502",
+          "name": "Thariq",
+          "screen_name": "trq212",
+          "description": "Claude Code @anthropicai.   prev YC W20, mit media lab. \n\ntowards machines of loving grace",
+          "followers_count": 193181,
+          "friends_count": 1776,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 174,
+          "favorite_count": 3128,
+          "reply_count": 217,
+          "quote_count": 69
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 38,
+        "reply_count": 3,
         "quote_count": 0
       }
     }
