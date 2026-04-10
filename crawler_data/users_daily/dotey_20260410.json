@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207017,
+    "followers_count": 207014,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260410",
-  "last_updated": "2026-04-10T20:12:28.456763",
-  "tweet_count": 3,
+  "last_updated": "2026-04-10T22:13:07.156951",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2042623741268513071",
@@ -133,6 +133,52 @@
         "favorite_count": 38,
         "reply_count": 3,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2042714553004245254",
+      "text": "Anthropic 推出 Claude for Word 插件\n\nAnthropic 刚刚发布了 Word 插件的测试版。装上之后，Claude 直接在 Word 侧边栏里工作，你选中一段文字、用自然语言描述想怎么改，它就会以 Word 原生的\"修订模式\"呈现修改结果，接受或拒绝都在 Word 自带的审阅面板里完成。\n\n这意味着改合同、写备忘录、润色报告这些事，不用再把内容复制到 ChatGPT 或 Claude 网页端来回倒腾了。Claude 会识别你文档里的标题样式、编号格式和项目符号，改完之后格式不会乱。你还可以上传参考文档，它会在写作时标注引用来源。\n\n还支持 Skills：团队把某个反复使用的工作流（比如合同审查、研究简报）封装成一个 Skill，其他成员一键就能复用，不用每次重新描述需求。\n\n另外，这个插件和之前推出的 Excel、PowerPoint 插件共享同一个对话上下文。也就是说你可以让 Claude 从 Excel 里的财报数据出发，直接在 Word 里起草分析报告，中间不用手动搬运数据。\n\n目前仅对 Claude Team 和 Enterprise 付费用户开放，支持 .docx 和 .docm 格式。",
+      "created_at": "Fri Apr 10 21:21:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042670341915295865",
+        "text": "Claude for Word is now in beta.\n\nDraft, edit, and revise documents directly from the sidebar. Claude preserves your formatting, and edits appear as tracked changes.\n\nAvailable on Team and Enterprise plans. https://t.co/tl1mZVELNg",
+        "created_at": "Fri Apr 10 18:25:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042648096434270208",
+            "url": "https://video.twimg.com/amplify_video/2042648096434270208/vid/avc1/1920x1080/bKlmMghf6IWdpD8Z.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+          "followers_count": 1038680,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 838,
+          "favorite_count": 13699,
+          "reply_count": 595,
+          "quote_count": 678
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 18,
+        "reply_count": 3,
+        "quote_count": 1
       }
     }
   ]

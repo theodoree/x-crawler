@@ -1,12 +1,204 @@
 {
   "date": "20260410",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-10T20:12:28.403774",
-  "tweet_count": 237,
-  "unique_tweet_count": 237,
-  "total_crawled": 432,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-04-10T22:13:07.105663",
+  "tweet_count": 240,
+  "unique_tweet_count": 240,
+  "total_crawled": 437,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2042724949547454909",
+      "text": "RT @Tesla: FSD Supervised approved in the Netherlands 🇳🇱",
+      "created_at": "Fri Apr 10 22:02:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042710059818586562",
+        "text": "FSD Supervised approved in the Netherlands 🇳🇱",
+        "created_at": "Fri Apr 10 21:03:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2042709396111724639",
+          "text": "De toekomst van mobiliteit is aangebroken\n\nFSD Supervised has been approved in the Netherlands 🇳🇱 & will begin rolling out in the country shortly! \n\nTrained on billions of kilometers of real-world driving data, it can drive you almost anywhere under your supervision – from residential roads to city streets & highways\n\nNo other vehicle can do this. \n\nWe're excited to bring FSD Supervised to more European countries soon",
+          "created_at": "Fri Apr 10 21:00:46 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2042709111322685440",
+              "url": "https://video.twimg.com/amplify_video/2042709111322685440/vid/avc1/1080x1080/VWzy4RiCQmK2CXe1.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1620480811303866369",
+            "name": "Tesla Europe, Middle East & Africa",
+            "screen_name": "teslaeurope",
+            "description": "All things Tesla Europe, Middle East & Africa",
+            "followers_count": 164986,
+            "friends_count": 19,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1210,
+            "favorite_count": 4862,
+            "reply_count": 500,
+            "quote_count": 585
+          }
+        },
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24717234,
+          "friends_count": 56,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 951,
+          "favorite_count": 5438,
+          "reply_count": 368,
+          "quote_count": 246
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237767800,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 951,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042724887320760724",
+      "text": "First (supervised) FSD approval in Europe!\n\nCongratulations to the Tesla team and thank you to the regulatory authorities in the Netherlands for all the hard work required to make this happen.",
+      "created_at": "Fri Apr 10 22:02:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042709396111724639",
+        "text": "De toekomst van mobiliteit is aangebroken\n\nFSD Supervised has been approved in the Netherlands 🇳🇱 & will begin rolling out in the country shortly! \n\nTrained on billions of kilometers of real-world driving data, it can drive you almost anywhere under your supervision – from residential roads to city streets & highways\n\nNo other vehicle can do this. \n\nWe're excited to bring FSD Supervised to more European countries soon",
+        "created_at": "Fri Apr 10 21:00:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042709111322685440",
+            "url": "https://video.twimg.com/amplify_video/2042709111322685440/vid/avc1/1080x1080/VWzy4RiCQmK2CXe1.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1620480811303866369",
+          "name": "Tesla Europe, Middle East & Africa",
+          "screen_name": "teslaeurope",
+          "description": "All things Tesla Europe, Middle East & Africa",
+          "followers_count": 164986,
+          "friends_count": 19,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1210,
+          "favorite_count": 4862,
+          "reply_count": 500,
+          "quote_count": 585
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237767800,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 605,
+        "favorite_count": 4292,
+        "reply_count": 664,
+        "quote_count": 64
+      }
+    },
+    {
+      "id": "2042714553004245254",
+      "text": "Anthropic 推出 Claude for Word 插件\n\nAnthropic 刚刚发布了 Word 插件的测试版。装上之后，Claude 直接在 Word 侧边栏里工作，你选中一段文字、用自然语言描述想怎么改，它就会以 Word 原生的\"修订模式\"呈现修改结果，接受或拒绝都在 Word 自带的审阅面板里完成。\n\n这意味着改合同、写备忘录、润色报告这些事，不用再把内容复制到 ChatGPT 或 Claude 网页端来回倒腾了。Claude 会识别你文档里的标题样式、编号格式和项目符号，改完之后格式不会乱。你还可以上传参考文档，它会在写作时标注引用来源。\n\n还支持 Skills：团队把某个反复使用的工作流（比如合同审查、研究简报）封装成一个 Skill，其他成员一键就能复用，不用每次重新描述需求。\n\n另外，这个插件和之前推出的 Excel、PowerPoint 插件共享同一个对话上下文。也就是说你可以让 Claude 从 Excel 里的财报数据出发，直接在 Word 里起草分析报告，中间不用手动搬运数据。\n\n目前仅对 Claude Team 和 Enterprise 付费用户开放，支持 .docx 和 .docm 格式。",
+      "created_at": "Fri Apr 10 21:21:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042670341915295865",
+        "text": "Claude for Word is now in beta.\n\nDraft, edit, and revise documents directly from the sidebar. Claude preserves your formatting, and edits appear as tracked changes.\n\nAvailable on Team and Enterprise plans. https://t.co/tl1mZVELNg",
+        "created_at": "Fri Apr 10 18:25:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042648096434270208",
+            "url": "https://video.twimg.com/amplify_video/2042648096434270208/vid/avc1/1920x1080/bKlmMghf6IWdpD8Z.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+          "followers_count": 1038680,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 838,
+          "favorite_count": 13699,
+          "reply_count": 595,
+          "quote_count": 678
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207014,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 18,
+        "reply_count": 3,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2042696980972130523",
       "text": "RT @NASA: Fist bump! 👊 \n \nThe Artemis II crew is now under 35,000 miles from Earth. The astronauts are preparing the spacecraft for reentry…",

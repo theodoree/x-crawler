@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237766788,
+    "followers_count": 237767800,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260410",
-  "last_updated": "2026-04-10T20:12:28.434547",
-  "tweet_count": 34,
+  "last_updated": "2026-04-10T22:13:07.134890",
+  "tweet_count": 36,
   "tweets": [
     {
       "id": "2042414639099887681",
@@ -1671,6 +1671,122 @@
       "quoted": null,
       "stats": {
         "retweet_count": 2400,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042724887320760724",
+      "text": "First (supervised) FSD approval in Europe!\n\nCongratulations to the Tesla team and thank you to the regulatory authorities in the Netherlands for all the hard work required to make this happen.",
+      "created_at": "Fri Apr 10 22:02:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042709396111724639",
+        "text": "De toekomst van mobiliteit is aangebroken\n\nFSD Supervised has been approved in the Netherlands 🇳🇱 & will begin rolling out in the country shortly! \n\nTrained on billions of kilometers of real-world driving data, it can drive you almost anywhere under your supervision – from residential roads to city streets & highways\n\nNo other vehicle can do this. \n\nWe're excited to bring FSD Supervised to more European countries soon",
+        "created_at": "Fri Apr 10 21:00:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042709111322685440",
+            "url": "https://video.twimg.com/amplify_video/2042709111322685440/vid/avc1/1080x1080/VWzy4RiCQmK2CXe1.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1620480811303866369",
+          "name": "Tesla Europe, Middle East & Africa",
+          "screen_name": "teslaeurope",
+          "description": "All things Tesla Europe, Middle East & Africa",
+          "followers_count": 164986,
+          "friends_count": 19,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1210,
+          "favorite_count": 4862,
+          "reply_count": 500,
+          "quote_count": 585
+        }
+      },
+      "stats": {
+        "retweet_count": 605,
+        "favorite_count": 4292,
+        "reply_count": 664,
+        "quote_count": 64
+      }
+    },
+    {
+      "id": "2042724949547454909",
+      "text": "RT @Tesla: FSD Supervised approved in the Netherlands 🇳🇱",
+      "created_at": "Fri Apr 10 22:02:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042710059818586562",
+        "text": "FSD Supervised approved in the Netherlands 🇳🇱",
+        "created_at": "Fri Apr 10 21:03:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2042709396111724639",
+          "text": "De toekomst van mobiliteit is aangebroken\n\nFSD Supervised has been approved in the Netherlands 🇳🇱 & will begin rolling out in the country shortly! \n\nTrained on billions of kilometers of real-world driving data, it can drive you almost anywhere under your supervision – from residential roads to city streets & highways\n\nNo other vehicle can do this. \n\nWe're excited to bring FSD Supervised to more European countries soon",
+          "created_at": "Fri Apr 10 21:00:46 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2042709111322685440",
+              "url": "https://video.twimg.com/amplify_video/2042709111322685440/vid/avc1/1080x1080/VWzy4RiCQmK2CXe1.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1620480811303866369",
+            "name": "Tesla Europe, Middle East & Africa",
+            "screen_name": "teslaeurope",
+            "description": "All things Tesla Europe, Middle East & Africa",
+            "followers_count": 164986,
+            "friends_count": 19,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1210,
+            "favorite_count": 4862,
+            "reply_count": 500,
+            "quote_count": 585
+          }
+        },
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24717234,
+          "friends_count": 56,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 951,
+          "favorite_count": 5438,
+          "reply_count": 368,
+          "quote_count": 246
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 951,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
