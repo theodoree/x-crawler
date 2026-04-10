@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 207018,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260410",
+  "last_updated": "2026-04-10T16:20:23.837336",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2042623741268513071",
+      "text": "RT @mtrainier2020: AI 武器化的到来\n\nMythos 这个其实并不是Anthoropic在吹牛。为什么不public，其实也是为了安全考虑。\n在安全领域里面即便发现了RCE，讲规矩的黑客会把漏洞报告给厂家，然后给厂家几周到几个月的时间去修复漏洞。\n这维护了一…",
+      "created_at": "Fri Apr 10 15:20:24 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2042490968927289712",
+        "text": "AI 武器化的到来\n\nMythos 这个其实并不是Anthoropic在吹牛。为什么不public，其实也是为了安全考虑。\n在安全领域里面即便发现了RCE，讲规矩的黑客会把漏洞报告给厂家，然后给厂家几周到几个月的时间去修复漏洞。\n这维护了一个良好的生态。\n但是有些漏洞，没有这个Grace period，发现即被公布，留给厂家修复漏洞的时间为0。所以又叫zero day。\n后来，又泛指暂无厂商补丁的安全漏洞。\n\nClaude Code的挖洞能力已经有了很大提升。而Mythos的能力要更上了一个台阶。\n那么Mythos如果对公众可用，那相当于搞出了大批zero day。\n所以，他们搞了一个企业联盟，先拿工具把内部的代码扫一下，把漏洞先补一补。\n相当于给现有的基础设施，到处强化补丁。\n这样将来真的对大众公布后，能不会引起基础设施出大问题。\n\n从business的角度来讲，搞这种security push，可以牢牢抓住这部分企业用户。\n\n这也是为啥openAI也开始心悸慌忙，也要搞类似的。 但是这个身位已经拉开了。\n而且等到openAI针对安全的版本出来，low hang fruit，简单扫扫代码就能发现的漏洞早就被Claude挖光了。市场也被占完了。\n\n那么问题来了，\n假设一年后，这个联盟内部明显的安全漏洞挖的差不多后，mythos 会放出来给普通公司用吗？ 会放给个人用吗？ 中转了，国内公司敢用吗？\n\n大概率这种服务只会出企业版，而且是严格审核的企业版。\n\n这还是刀口对内的，白盒代码审核，挖洞。\n如果刀口对外，那就是大杀器。\n\n国内搞网络安全的，应该也想明白了。这种东西，只能自己搞。\n\nps，openAI聪明的话去做入侵检测+白盒的AI agent才有机会。亦步亦趋，做白盒代码挖洞，一步差，步步差。",
+        "created_at": "Fri Apr 10 06:32:49 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1141738094485315584",
+          "name": "Rainier",
+          "screen_name": "mtrainier2020",
+          "description": "Cogito, ergo sum",
+          "followers_count": 141386,
+          "friends_count": 980,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 22,
+          "favorite_count": 143,
+          "reply_count": 13,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 22,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
