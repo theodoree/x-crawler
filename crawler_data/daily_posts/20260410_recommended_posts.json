@@ -1,12 +1,312 @@
 {
   "date": "20260410",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-10T16:20:23.782707",
-  "tweet_count": 227,
-  "unique_tweet_count": 227,
-  "total_crawled": 418,
-  "duplicates_removed": 191,
+  "last_crawl_time": "2026-04-10T18:18:48.520547",
+  "tweet_count": 232,
+  "unique_tweet_count": 232,
+  "total_crawled": 427,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2042661182306418963",
+      "text": "RT @Tesla_AI: Improved auto wipers",
+      "created_at": "Fri Apr 10 17:49:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042658710229758340",
+        "text": "Improved auto wipers",
+        "created_at": "Fri Apr 10 17:39:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2042612546776006971",
+          "text": "Tesla AI Sr. Staff Engineer says Tesla has implemented a new software based Auto-Wiper system that uses the wiper motor itself as a tactile sensor.\n\nInstead of relying solely on the front cameras, the system estimates the physical friction between the rubber wiper blade and the glass by analyzing the motor’s electrical power consumption.\n\nThe system will also automatically enable the defroster when high friction is detected, such as frost or ice. Additionally, it keeps a long-term friction level average to warn when wiper replacements are necessary due to higher than normal friction. Smart stuff!\n\nI suspect this system will get better over time with OTA updates.",
+          "created_at": "Fri Apr 10 14:35:55 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2042612540497145856",
+              "url": "https://pbs.twimg.com/media/HFjRSIoXMAA1t7K.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2042612540488679424",
+              "url": "https://pbs.twimg.com/media/HFjRSImWAAAgHZv.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1494873435863977985",
+            "name": "Nic Cruz Patane",
+            "screen_name": "niccruzpatane",
+            "description": "Deep dive into everything Tesla",
+            "followers_count": 98468,
+            "friends_count": 165,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 125,
+            "favorite_count": 2056,
+            "reply_count": 105,
+            "quote_count": 25
+          }
+        },
+        "user": {
+          "id": "1659653864138612761",
+          "name": "Tesla AI",
+          "screen_name": "Tesla_AI",
+          "description": "",
+          "followers_count": 455577,
+          "friends_count": 18,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 226,
+          "favorite_count": 1947,
+          "reply_count": 223,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237761529,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 226,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042658288840642600",
+      "text": "RT @NASA: Wake up—it's Artemis II's last day in space!\n\nAs the crew prepares to splash down in the Pacific Ocean this evening, they started…",
+      "created_at": "Fri Apr 10 17:37:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042630452071022823",
+        "text": "Wake up—it's Artemis II's last day in space!\n\nAs the crew prepares to splash down in the Pacific Ocean this evening, they started their day with \"Run To The Water\" by Live, their wake-up song played by Mission Control. https://t.co/AKGFIcB05m",
+        "created_at": "Fri Apr 10 15:47:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042629898791993344",
+            "url": "https://video.twimg.com/amplify_video/2042629898791993344/vid/avc1/3840x2160/x4TodyYcfyWEW0RO.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "11348282",
+          "name": "NASA",
+          "screen_name": "NASA",
+          "description": "The Moon is the mission. Real-time updates about our Artemis II mission around the Moon.",
+          "followers_count": 90951009,
+          "friends_count": 118,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5873,
+          "favorite_count": 44408,
+          "reply_count": 967,
+          "quote_count": 330
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237761529,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5873,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042657845813088483",
+      "text": "RT @athenaeumbc: Did you know C.S. Lewis predicted the modern obsession with “being nice” would destroy the soul?\n\nIn The Abolition of Man,…",
+      "created_at": "Fri Apr 10 17:35:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042633712995570130",
+        "text": "Did you know C.S. Lewis predicted the modern obsession with “being nice” would destroy the soul?\n\nIn The Abolition of Man, Lewis argues that when a society stops believing in objective virtue, it doesn’t become tolerant… it becomes manipulable.\n\nHe calls the result “men without chests.”\n\nPeople with appetites and intellects, but no courage, no honor, no trained moral instincts. They can calculate everything and defend nothing.\n\nLewis saw that once we reject inherited moral law, we don’t become free. We become raw material… easily shaped by propaganda, pleasure, and fear.\n\nModern man prides himself on compassion while quietly surrendering every standard that once gave compassion meaning.\n\nLewis’s insight is brutal: a civilization that educates clever cowards will eventually be ruled by tyrants or technicians.\n\nBecause when nothing is worth dying for, everything becomes negotiable… including human dignity.",
+        "created_at": "Fri Apr 10 16:00:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042561436442890240",
+            "url": "https://pbs.twimg.com/media/HFiizfMXEAAGWmx.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1622398615443357696",
+          "name": "Athenaeum Book Club",
+          "screen_name": "athenaeumbc",
+          "description": "Athenaeum is the fastest growing digital Book Club.",
+          "followers_count": 147123,
+          "friends_count": 153,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1793,
+          "favorite_count": 5591,
+          "reply_count": 295,
+          "quote_count": 130
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237761529,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1793,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042645963614126491",
+      "text": "RT @BasedMikeLee: Early next week, the Senate will resume debate on the SAVE America Act.\n\nWe need to stay in it until it’s passed.\n\nSpread…",
+      "created_at": "Fri Apr 10 16:48:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042641286277271908",
+        "text": "Early next week, the Senate will resume debate on the SAVE America Act.\n\nWe need to stay in it until it’s passed.\n\nSpread the word if you agree. https://t.co/7umepTRgBm",
+        "created_at": "Fri Apr 10 16:30:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042641140051312640",
+            "url": "https://video.twimg.com/amplify_video/2042641140051312640/vid/avc1/2160x3840/XLbrAbTSLBuNntnf.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 680329,
+          "friends_count": 3852,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2573,
+          "favorite_count": 7277,
+          "reply_count": 874,
+          "quote_count": 122
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237761529,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2573,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042643752167067978",
+      "text": "有人说：低模型怎么会认为他是错的\n\n其实换个角度想，对于模型来说，“顾问工具”是一个帮助完成任务的“工具”，没有高级低级之分。在没有其他更合适的工具去用的时候，它就会尝试去用顾问工具解决问题。\n\n在模型看来，顾问工具和bash工具是一样的，都是解决问题的工具。",
+      "created_at": "Fri Apr 10 16:39:55 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042324560700154312",
+        "text": "Anthropic 推出了一个叫“顾问工具”（advisor tool）的新 API 功能，核心思路是：让便宜的模型干活，遇到难题时请贵的模型出主意。\n\n具体来说，Sonnet 或 Haiku 作为\"执行者\"全程跑任务、调工具、处理结果。碰到自己搞不定的决策，就把上下文递给 Opus，Opus 给出方案或纠正，执行者接着干。Opus 全程不碰工具、不直接输出给用户，只充当幕后军师。\n\n这跟很多人熟悉的“大模型拆任务、小模型干活”的模式正好反过来。以前是大模型当指挥官，把任务拆成小块分配下去。现在是小模型自己跑，只在关键节点向大模型请教。好处很直接：大部分 Token 消耗在便宜的模型上，贵的模型只在刀刃上用。\n\n效果方面，Sonnet 配 Opus 顾问在 SWE-bench 多语言测试上比 Sonnet 单干高了 2.7 个百分点，同时每个任务的成本还降了 11.9%。更有意思的是 Haiku 的表现：配上 Opus 顾问后，Haiku 在 BrowseComp 测试上从 19.7% 跳到 41.2%，翻了一倍多。虽然分数还是比 Sonnet 单干低 29%，但成本只有 Sonnet 的 15%，适合跑量大但对智能要求没那么极端的场景。\n\n用起来也简单，在 Messages API 的 tools 里加一个 advisor_20260301 类型就行，一个 API 请求内部完成模型切换，不需要额外管理上下文或做多次调用。可以设 max_uses 控制每次请求最多咨询几次顾问，账单里顾问和执行者的 Token 分开计费。\n\n对开发者来说，这提供了一个新的性价比选项：不用在\"全程跑 Opus 太贵\"和\"只用 Sonnet 不够聪明\"之间二选一了。你的 Agent 可以 95% 的时间跑 Sonnet 的价格，5% 的关键决策享受 Opus 的判断力。目前是 beta 阶段，需要加 anthropic-beta: advisor-tool-2026-03-01 请求头才能用。",
+        "created_at": "Thu Apr 09 19:31:34 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 207017,
+          "friends_count": 1601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 78,
+          "favorite_count": 434,
+          "reply_count": 59,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207017,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2042638498289864964",
       "text": "Yup",
