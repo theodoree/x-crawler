@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237771585,
+    "followers_count": 237770657,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260410",
-  "last_updated": "2026-04-10T06:38:29.452642",
-  "tweet_count": 15,
+  "last_updated": "2026-04-10T08:33:18.961487",
+  "tweet_count": 16,
   "tweets": [
     {
       "id": "2042414639099887681",
@@ -743,6 +743,76 @@
       "quoted": null,
       "stats": {
         "retweet_count": 100,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042493251685642404",
+      "text": "RT @XFreeze: Elon Musk’s mindset in the early days of SpaceX is a masterclass in resilience 🚀\n\nAfter 3 consecutive rocket failures, all the…",
+      "created_at": "Fri Apr 10 06:41:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042202545330794959",
+        "text": "Elon Musk’s mindset in the early days of SpaceX is a masterclass in resilience 🚀\n\nAfter 3 consecutive rocket failures, all the money was gone and the world had stopped believing in him. Almost anyone else would have walked away with nothing\n\nInstead, he put together every last cent for a make-or-break 4th launch using the scraps of what they had left\n\nWhen asked how he found the strength to keep going when everything seemed lost, his answer was simple:\n\n\"I don't ever give up. I’d have to be dead or completely incapacitated\"",
+        "created_at": "Thu Apr 09 11:26:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042201521870286848",
+            "url": "https://video.twimg.com/amplify_video/2042201521870286848/vid/avc1/1080x1080/qCuxAK-uPQq2IINo.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2041760847069114523",
+          "text": "@beffjezos I never give up. Never.",
+          "created_at": "Wed Apr 08 06:11:34 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 237770657,
+            "friends_count": 1311,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3093,
+            "favorite_count": 35309,
+            "reply_count": 2494,
+            "quote_count": 643
+          }
+        },
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 185257,
+          "friends_count": 1712,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 590,
+          "favorite_count": 2940,
+          "reply_count": 379,
+          "quote_count": 38
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 590,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
