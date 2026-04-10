@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237773491,
+    "followers_count": 237776399,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260410",
-  "last_updated": "2026-04-10T03:06:30.767870",
-  "tweet_count": 6,
+  "last_updated": "2026-04-10T04:59:49.843526",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2042414639099887681",
@@ -317,6 +317,51 @@
       "quoted": null,
       "stats": {
         "retweet_count": 7709,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042454867399323992",
+      "text": "RT @NASA: They're halfway home. \n \nThe Artemis II astronauts have hit the \"halfway\" mark between the Moon and the Earth. They will splash d…",
+      "created_at": "Fri Apr 10 04:09:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042402702798266791",
+        "text": "They're halfway home. \n \nThe Artemis II astronauts have hit the \"halfway\" mark between the Moon and the Earth. They will splash down in the Pacific Ocean around 8:07 pm ET on Friday, April 10 (0007 UTC on Saturday, April 11), off the coast of San Diego. https://t.co/CQmOuDTVGh",
+        "created_at": "Fri Apr 10 00:42:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042402700780879872",
+            "url": "https://pbs.twimg.com/media/HFgSb2xXwAAGVvX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "11348282",
+          "name": "NASA",
+          "screen_name": "NASA",
+          "description": "The Moon is the mission. Real-time updates about our Artemis II mission around the Moon.",
+          "followers_count": 90938017,
+          "friends_count": 117,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 13449,
+          "favorite_count": 92046,
+          "reply_count": 1401,
+          "quote_count": 569
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 13449,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
