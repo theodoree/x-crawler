@@ -1,12 +1,402 @@
 {
   "date": "20260411",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-11T18:11:09.614267",
-  "tweet_count": 222,
-  "unique_tweet_count": 222,
-  "total_crawled": 418,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-04-11T20:08:23.899374",
+  "tweet_count": 228,
+  "unique_tweet_count": 228,
+  "total_crawled": 422,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2043054713814254019",
+      "text": "RT @xicilion: 它来了它来了。一百多个图例，6000 多精选矢量图标，一句话就可以根据你的 Markdown 内容自动定制。 \n\n包括架构图、流程图、工作流图、状态图、部署图、类图、用例图、信息图。。。。\n\n我就不数了，装上自己体验吧。\n\n```\nnpx skill…",
+      "created_at": "Sat Apr 11 19:52:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2042848369450848424",
+        "text": "它来了它来了。一百多个图例，6000 多精选矢量图标，一句话就可以根据你的 Markdown 内容自动定制。 \n\n包括架构图、流程图、工作流图、状态图、部署图、类图、用例图、信息图。。。。\n\n我就不数了，装上自己体验吧。\n\n```\nnpx skills add markdown-viewer/skills\n```\n\nhttps://t.co/gIK8PqZTqs https://t.co/uEG99NbWHG",
+        "created_at": "Sat Apr 11 06:13:00 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042847793245728768",
+            "url": "https://pbs.twimg.com/media/HFmnPpaaMAAaAxV.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042847793258336256",
+            "url": "https://pbs.twimg.com/media/HFmnPpdakAAyMZN.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042847793249947649",
+            "url": "https://pbs.twimg.com/media/HFmnPpbakAE9NWT.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042847793249947651",
+            "url": "https://pbs.twimg.com/media/HFmnPpbakAMxI-X.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "364478145",
+          "name": "响马",
+          "screen_name": "xicilion",
+          "description": "。。。。。。",
+          "followers_count": 65882,
+          "friends_count": 3262,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 158,
+          "favorite_count": 895,
+          "reply_count": 18,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207109,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 158,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043045655430730211",
+      "text": "Cybertruck is so awesome. \n\nUntil you’ve tried it out, you have no idea, because there’s nothing like it. \n\nBest product Tesla has ever made to date.",
+      "created_at": "Sat Apr 11 19:16:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043006045086532008",
+        "text": "Cybertruck is extremely comfortable on long trips especially thanks to:\n\n– Minimal body roll\n\n– Comfort Mode on FSD (gentler acceleration &amp;  braking, softer damping, smoother handling)\n\n– Air suspension + self-leveling keeping the truck flat even with load",
+        "created_at": "Sat Apr 11 16:39:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1686044379910131718",
+          "name": "Cybertruck",
+          "screen_name": "cybertruck",
+          "description": "📐",
+          "followers_count": 241462,
+          "friends_count": 12,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 182,
+          "favorite_count": 1918,
+          "reply_count": 135,
+          "quote_count": 17
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237794135,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1193,
+        "favorite_count": 12511,
+        "reply_count": 2611,
+        "quote_count": 108
+      }
+    },
+    {
+      "id": "2043045231655030821",
+      "text": "🚀 for all mankind 🚀 https://t.co/riHsNMQqcP",
+      "created_at": "Sat Apr 11 19:15:15 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043045229717262336",
+          "url": "https://pbs.twimg.com/media/HFpaz9lakAAf3oP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2043030927396475117",
+        "text": "@elonmusk Thank you, @elonmusk - the four of us glimpsed the red hues of Mars far in the distance as the sun slipped behind the Moon and there was zero doubt in our minds that the creative genius of our greatest minds will have us there very soon. LETS GO",
+        "created_at": "Sat Apr 11 18:18:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "330921167",
+          "name": "Reid Wiseman",
+          "screen_name": "astro_reid",
+          "description": "Astronaut | Aquanaut | Artemis II",
+          "followers_count": 597849,
+          "friends_count": 158,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 906,
+          "favorite_count": 12233,
+          "reply_count": 278,
+          "quote_count": 72
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237794135,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2427,
+        "favorite_count": 26205,
+        "reply_count": 1460,
+        "quote_count": 96
+      }
+    },
+    {
+      "id": "2043041347918270633",
+      "text": "RT @tszzl: @CantEverDie you’re a constant disgusting liar and you should feel much worse about yourself https://t.co/hsA32JgkOE",
+      "created_at": "Sat Apr 11 18:59:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043031953138683908",
+          "url": "https://pbs.twimg.com/media/HFpOvKeakAQlIRc.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2043031953151295488",
+          "url": "https://pbs.twimg.com/media/HFpOvKhbAAAxtg1.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2043031958490616299",
+        "text": "@CantEverDie you’re a constant disgusting liar and you should feel much worse about yourself https://t.co/hsA32JgkOE",
+        "created_at": "Sat Apr 11 18:22:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043031953138683908",
+            "url": "https://pbs.twimg.com/media/HFpOvKeakAQlIRc.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043031953151295488",
+            "url": "https://pbs.twimg.com/media/HFpOvKhbAAAxtg1.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1460283925",
+          "name": "roon",
+          "screen_name": "tszzl",
+          "description": "fellow creators the creator seeks",
+          "followers_count": 310304,
+          "friends_count": 12370,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 237,
+          "favorite_count": 3552,
+          "reply_count": 175,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237794135,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 237,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043035490467631477",
+      "text": "RT @brad_zhang2024: 🔄 fireworks-tech-graph 大版本更新！\n\n再次感谢神佬 @berryxia 和各位小伙伴的支持，一天时间竟然十多万曝光，今天啥也没干，看了大家的反馈，进行了大幅升级更新。\n\n根据推友的反馈，后续会考虑对 codex,w…",
+      "created_at": "Sat Apr 11 18:36:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2042984441644224919",
+        "text": "🔄 fireworks-tech-graph 大版本更新！\n\n再次感谢神佬 @berryxia 和各位小伙伴的支持，一天时间竟然十多万曝光，今天啥也没干，看了大家的反馈，进行了大幅升级更新。\n\n根据推友的反馈，后续会考虑对 codex,windows 和 Linux 进行兼容支持，明天会优先看下 codex 的兼容性，大家可以把遇到的各种问题发到评论区，我会及时测试更新。\n\ntech graph从 5 种风格到 7 种：\n1 新增 Claude 和 OpenAI 风格\n2 从 8 种图类型到完整 UML 标准的 14种风格支持\n3 新增脚本把探索的踩坑经验变成 harness 经验\n\n这次更新做了什么：\n\n🎨 新增 2 种官方品牌风格\n- Style 6: Claude Official — 温暖奶油色底，Anthropic 品牌色，适合 Anthropic 生态的技术文档和架构展示\n\n- Style 7: OpenAI Official — 纯白底，OpenAI 品牌配色，干净利落的现代极简风\n加上原来的 5 种风格，现在从写博客、做 GitHub README、画架构文档到做 Keynote 演示，全场景覆盖\n\n📊 图类型 8 → 14，完整 UML 支持\n之前只有架构图、序列图这些常见类型，现在补齐了全部 14 种标准 UML 图：\n类图、组件图、部署图、包图、复合结构图、对象图、用例图、活动图、状态机图、序列图、通信图、时序图、交互概览图、ER 图\n\n做系统设计评审、技术方案答辩、架构文档沉淀，一个 Skill 全搞定\n\n🛠 新增自动化脚本\n加了 三个脚本，目的是让生成流程更工程化：\n自动校验 SVG 语法、批量测试所有风格、一键导出 PNG。不再需要手动检查图是否渲染正确，脚本帮你兜底，由于 SVG 调试比较费 token，我差不多今天花了 100 多刀调试，替大家省点钱，哈哈💰\n\n一句话总结：不再需要 Mermaid 写 DSL、不需要 https://t.co/Pu1N1Z3H2s 拖拽，用自然语言描述你的系统，直接出出版级技术图\n\n欢迎安装，star：\n🔗 https://t.co/ZKEHSaBwsb\n\n#ClaudeCode #SVG #UML #TechDiagram #AI #DiagramAsCode",
+        "created_at": "Sat Apr 11 15:13:42 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042983161819467781",
+            "url": "https://pbs.twimg.com/media/HFoiXIpakAU7TVx.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2042983207591907330",
+            "url": "https://pbs.twimg.com/media/HFoiZzKakAIc_iv.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2042628758264517098",
+          "text": "写技术文章最烦的事之一：画图。                                                       \n                                                                                       \n  脑子里很清楚的架构，落到 https://t.co/Pu1N1Z3H2s 上总是对不齐、颜色难看、导出模糊。                  \n                                                                                       \n  所以我做了 fireworks-tech-graph，一个专门生成技术图的 Claude Code Skill。            \n                                                                                     o…\n  用法很简单——                                                                         \n                                                                                     t\n  「画一张 Multi-Agent 协作图：Orchestrator 调度 3 个                                  \n  SubAgent，分别负责搜索、计算和代码执行，最后汇聚到 Aggregator 输出结果，玻璃态风格」\n                                                                                       \n  然后它会：                                                                           \n  ① 识别图类型 → Agent 架构图                                                          \n  ② 分配语义形状 → Orchestrator 用六边形，Agent 用六边形，存储用圆柱体                 \n  ③ 用语义颜色编码箭头 → 蓝色主流程、橙色控制流、绿色读写                              \n  ④ 自动导出 SVG + 1920px PNG                                                          \n                                                                                       \n  整个过程不需要写 DSL，不需要打开任何工具，一句话描述，图就出来了。                   \n                                                                                     o…\n  目前支持 8 种图类型、5 种视觉风格，AI/Agent 领域的常见 Pattern                       \n  全部内置（RAG、Mem0、Agentic Search、Multi-Agent、Tool Call 等）。                  \n                                                                                       \n  开源，欢迎 star 和 fork 👇                                                         \n  https://t.co/2Th5Epuaej",
+          "created_at": "Fri Apr 10 15:40:20 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2042628641868386304",
+              "url": "https://pbs.twimg.com/media/HFjf7W6akAAL2Ln.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1758488993275195392",
+            "name": "烟花老师",
+            "screen_name": "brad_zhang2024",
+            "description": "AI 社区【一支烟花】 发起人， AI 应用架构师，分享深度 AI 内容，链接 AI 创业者",
+            "followers_count": 4012,
+            "friends_count": 1972,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 101,
+            "favorite_count": 581,
+            "reply_count": 15,
+            "quote_count": 18
+          }
+        },
+        "user": {
+          "id": "1758488993275195392",
+          "name": "烟花老师",
+          "screen_name": "brad_zhang2024",
+          "description": "AI 社区【一支烟花】 发起人， AI 应用架构师，分享深度 AI 内容，链接 AI 创业者",
+          "followers_count": 4012,
+          "friends_count": 1972,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 44,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207109,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043029143709978971",
+      "text": "True",
+      "created_at": "Sat Apr 11 18:11:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043006263307485437",
+        "text": "It's crazy to me how Robin Hood is now popularized as \"stealing from the rich to give to the poor\"\n\n(Socialist messaging)\n\nIn reality, Robin Hood stole back the taxes that a cruel leader unjustly levied against the population\n\n(Anti-socialist messaging) https://t.co/EfsJ6EUCUh",
+        "created_at": "Sat Apr 11 16:40:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043006261277659138",
+            "url": "https://pbs.twimg.com/media/HFo3Xs1akAIBw_-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "770619360062898176",
+          "name": "Lauren Chen",
+          "screen_name": "TheLaurenChen",
+          "description": "Rabble-rouser.\n\nIG & FB @TheLaurenChen \n\nEmail: hi@laurenchen.com",
+          "followers_count": 625795,
+          "friends_count": 1771,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2592,
+          "favorite_count": 18500,
+          "reply_count": 810,
+          "quote_count": 199
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237794135,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5277,
+        "favorite_count": 48189,
+        "reply_count": 2370,
+        "quote_count": 143
+      }
+    },
     {
       "id": "2043028992408850925",
       "text": "RT @Nero: He might be the only true centrist. He hits the common sense middle squarely and on just about everything.",
