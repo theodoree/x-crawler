@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207014,
+    "followers_count": 207011,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260410",
-  "last_updated": "2026-04-10T22:13:07.156951",
-  "tweet_count": 4,
+  "last_updated": "2026-04-11T00:25:50.510321",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2042623741268513071",
@@ -179,6 +179,45 @@
         "favorite_count": 18,
         "reply_count": 3,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2042748811014013435",
+      "text": "Sam Altman 凌晨 3 点 45 分被一枚燃烧弹砸醒了。\n\n有人向他家扔了一枚莫洛托夫鸡尾酒（一种简易燃烧瓶），幸运的是燃烧弹从房子上弹开，家人没有受伤。Altman 在博客里罕见地贴出了全家福照片，说希望这张照片能让下一个想动手的人犹豫一下。\n\n他把这次袭击和几天前一篇关于他的争议文章联系在一起。有人提醒他，在公众对 AI 的焦虑情绪高涨的当下，那篇文章可能会让他变得更危险。他当时没当回事，现在凌晨坐在家里后悔了。",
+      "created_at": "Fri Apr 10 23:37:23 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042738954550603884",
+        "text": "I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is:\n\nhttps://t.co/7Dw9UFpeep",
+        "created_at": "Fri Apr 10 22:58:13 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1605",
+          "name": "Sam Altman",
+          "screen_name": "sama",
+          "description": "AI is cool i guess",
+          "followers_count": 4601321,
+          "friends_count": 989,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 326,
+          "favorite_count": 3871,
+          "reply_count": 728,
+          "quote_count": 204
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 30,
+        "reply_count": 8,
+        "quote_count": 2
       }
     }
   ]
