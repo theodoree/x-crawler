@@ -1,12 +1,265 @@
 {
   "date": "20260411",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-11T12:12:00.664188",
-  "tweet_count": 212,
-  "unique_tweet_count": 212,
+  "last_crawl_time": "2026-04-11T14:14:16.617124",
+  "tweet_count": 217,
+  "unique_tweet_count": 217,
   "total_crawled": 412,
-  "duplicates_removed": 200,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2042968508737466737",
+      "text": "RT @libsoftiktok: Meet Zul Mohamed. He pleaded guily to 106 felony voter fraud charges for forging mail-in ballot applications.\n\nHe’s now r…",
+      "created_at": "Sat Apr 11 14:10:23 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042396053924635049",
+        "text": "Meet Zul Mohamed. He pleaded guily to 106 felony voter fraud charges for forging mail-in ballot applications.\n\nHe’s now running for mayor in Carrollton, Texas and wants to be in charge of passing laws.\n\nCRAZY AS HELL https://t.co/tAflnE627C",
+        "created_at": "Fri Apr 10 00:15:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042396047910035456",
+            "url": "https://pbs.twimg.com/media/HFgMYm5W4AAexpA.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1326229737551912960",
+          "name": "Libs of TikTok",
+          "screen_name": "libsoftiktok",
+          "description": "News you can’t see anywhere else. 📧 submissions@libsoftiktok.com. DM submissions. Bookings: Partnerships@libsoftiktok.com. ⬇️Subscribe to our newsletter",
+          "followers_count": 4752075,
+          "friends_count": 1064,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 29664,
+          "favorite_count": 55788,
+          "reply_count": 3672,
+          "quote_count": 1928
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237778886,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 29663,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042963466437431476",
+      "text": "RT @Mick_O_Keeffe: 🚨🇮🇪 BREAKING! \n\nFarmers are being dragged out of their tractors and assaulted by gardaí at the Whitegate oil refinery ri…",
+      "created_at": "Sat Apr 11 13:50:21 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042936131499462830",
+        "text": "🚨🇮🇪 BREAKING! \n\nFarmers are being dragged out of their tractors and assaulted by gardaí at the Whitegate oil refinery right now! https://t.co/ngFMetb3u7",
+        "created_at": "Sat Apr 11 12:01:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042936096623923200",
+            "url": "https://video.twimg.com/ext_tw_video/2042936096623923200/pu/vid/avc1/1920x1080/XdnfnxSjaG7t8waA.mp4?tag=19",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1279898928041865220",
+          "name": "MichaeloKeeffe",
+          "screen_name": "Mick_O_Keeffe",
+          "description": "Irish. Banned by Twitter regime. Restored by Elon and X.",
+          "followers_count": 236572,
+          "friends_count": 528,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4962,
+          "favorite_count": 10459,
+          "reply_count": 1038,
+          "quote_count": 329
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237778886,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4961,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042962981307441271",
+      "text": "Grok saved the cat",
+      "created_at": "Sat Apr 11 13:48:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042854579612553450",
+        "text": "BREAKING: Grok saved another life. This time, a cat from Frankfurt. ♥️\n\nA Frankfurt Photographer, Lars Maier credits Grok for saving his cat, Moritz’s life during an overnight diabetic ketoacidosis crisis.\n\nGrok instantly recognized the symptoms and told him: “RUSH to the 24h vet NOW!”— vets say 30 mins later would’ve been fatal.\n\nMoritz is home, eating, and recovering.",
+        "created_at": "Sat Apr 11 06:37:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042742313047240704",
+            "url": "https://pbs.twimg.com/media/HFlHT5DXMAAI76k.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1841316,
+          "friends_count": 932,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 393,
+          "favorite_count": 3086,
+          "reply_count": 338,
+          "quote_count": 60
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237778886,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 675,
+        "favorite_count": 6194,
+        "reply_count": 1031,
+        "quote_count": 80
+      }
+    },
+    {
+      "id": "2042962634866331966",
+      "text": "Given the extremely high rate of recidivism, this is important for community safety",
+      "created_at": "Sat Apr 11 13:47:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042848185002135779",
+        "text": "Murder registry is a good idea from Elon.\n\nPeople should know if they are close to a murderer so proper precautions can be taken. https://t.co/YuyRmO8WF1",
+        "created_at": "Sat Apr 11 06:12:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042848182066085888",
+            "url": "https://pbs.twimg.com/media/HFmnmR4aAAARvQV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1094676,
+          "friends_count": 1833,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 431,
+          "favorite_count": 2922,
+          "reply_count": 171,
+          "quote_count": 31
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237778886,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1914,
+        "favorite_count": 13277,
+        "reply_count": 1142,
+        "quote_count": 81
+      }
+    },
+    {
+      "id": "2042961026468188209",
+      "text": "Falcon has landed https://t.co/7Lt1sfMs1H",
+      "created_at": "Sat Apr 11 13:40:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2042933134178549760",
+          "url": "https://video.twimg.com/amplify_video/2042933134178549760/vid/avc1/3840x2160/s0h7F9iywYv2YskI.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237778886,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2637,
+        "favorite_count": 38617,
+        "reply_count": 2541,
+        "quote_count": 213
+      }
+    },
     {
       "id": "2042855123530191136",
       "text": "RT @liz_churchill10: EPIC BACKFIRE IN IRELAND\n\nThe Irish Government sent in the MILITARY to CRUSH fuel protesters…but the Crowds EXPLODED i…",
