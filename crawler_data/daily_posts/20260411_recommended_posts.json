@@ -1,12 +1,274 @@
 {
   "date": "20260411",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-11T16:10:07.554482",
-  "tweet_count": 218,
-  "unique_tweet_count": 218,
-  "total_crawled": 417,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-04-11T18:11:09.614267",
+  "tweet_count": 222,
+  "unique_tweet_count": 222,
+  "total_crawled": 418,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2043028992408850925",
+      "text": "RT @Nero: He might be the only true centrist. He hits the common sense middle squarely and on just about everything.",
+      "created_at": "Sat Apr 11 18:10:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042905215742116105",
+        "text": "He might be the only true centrist. He hits the common sense middle squarely and on just about everything.",
+        "created_at": "Sat Apr 11 09:58:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2042794486560915889",
+          "text": "Elon Musk isn’t actually politically right wing but that’s a discussion most people probably aren’t ready for",
+          "created_at": "Sat Apr 11 02:38:53 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1587576674236993541",
+            "name": "American Space Enthusiast 🇺🇸",
+            "screen_name": "USAspaceenjoyer",
+            "description": "posting about whatever I want, mostly space but sometimes other things - 🇺🇸",
+            "followers_count": 731,
+            "friends_count": 1186,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 110,
+            "favorite_count": 4197,
+            "reply_count": 390,
+            "quote_count": 19
+          }
+        },
+        "user": {
+          "id": "6160792",
+          "name": "MILO",
+          "screen_name": "Nero",
+          "description": "Civil rights icon",
+          "followers_count": 825383,
+          "friends_count": 2882,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 36,
+          "favorite_count": 641,
+          "reply_count": 57,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237789808,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 36,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043028778822377577",
+      "text": "RT @XFreeze: Grok 4.20 just claimed #1 on IFBench (Artificial Analysis) - the gold standard for instruction following\n\n81% score. Outrankin…",
+      "created_at": "Sat Apr 11 18:09:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042999627847221713",
+        "text": "Grok 4.20 just claimed #1 on IFBench (Artificial Analysis) - the gold standard for instruction following\n\n81% score. Outranking every other model\n\nAnd here is what that actually means -\nWhen you ask Grok to do something, it doesn't give you a close enough answer. It doesn't approximate. It doesn't go off-script\n\nIt follows your instructions. Precisely. Every time\n\nxAI is not just racing to build the most intelligent AI - they are also building the most reliable one\n\nAn AI that actually listens to you...",
+        "created_at": "Sat Apr 11 16:14:03 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042999002061549568",
+            "url": "https://pbs.twimg.com/media/HFowxKJbMAAregd.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 187479,
+          "friends_count": 1718,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 218,
+          "reply_count": 54,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237789808,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 48,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043016343155544088",
+      "text": "RT @XFreeze: TWO Falcon 9 launches in ONE day is back again 🚀\n\n• Starlink mission launched from California - 25 more satellites successfull…",
+      "created_at": "Sat Apr 11 17:20:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042956594275647763",
+        "text": "TWO Falcon 9 launches in ONE day is back again 🚀\n\n• Starlink mission launched from California - 25 more satellites successfully deployed\n\n• Cygnus NG-24 cargo mission to the ISS - launched and booster landed safely at LZ-40\n\nThat single Starlink launch just pushed the total number of active Starlink satellites in orbit to over 10,225\n\nSpaceX is moving at a pace the rest of the industry can only dream of",
+        "created_at": "Sat Apr 11 13:23:03 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042956113138909184",
+            "url": "https://pbs.twimg.com/media/HFoJwsdbgAATzdJ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 187479,
+          "friends_count": 1718,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 322,
+          "favorite_count": 1831,
+          "reply_count": 214,
+          "quote_count": 17
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237789808,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 322,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043015977676210461",
+      "text": "RT @Jason_Young1231: CC Switch 昨晚更新到了 3.13。今天带了一天娃，还没来得及写更新说明，但既然安替老师提到了，我觉得还是有必要澄清一下。\n\n这个“使用统计”功能，统计的是上游返回的模型名和用量信息。所以，如果上游没有做伪装，它确实可以帮助发现…",
+      "created_at": "Sat Apr 11 17:19:01 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2042904190423531866",
+        "text": "CC Switch 昨晚更新到了 3.13。今天带了一天娃，还没来得及写更新说明，但既然安替老师提到了，我觉得还是有必要澄清一下。\n\n这个“使用统计”功能，统计的是上游返回的模型名和用量信息。所以，如果上游没有做伪装，它确实可以帮助发现模型掺水。 但如果上游本身做了伪装，那这个功能不能作为判定模型为真的依据。\n\n总结一下： 它可以帮助判定假，不能帮助判定真，谢谢大家！",
+        "created_at": "Sat Apr 11 09:54:48 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2042896780984270989",
+          "text": "必须赞扬 @Jason_Young1231 啊，他今天最新更新的 CC-Switch v3.13.0 版本，新“使用统计”功能发现我买的一个Claude API是 glm-5和MiniMax-M2.7假冒的，其他两家是真Claude。大家都用新版软件测测自己买的API真假吧！ https://t.co/VK8go3i7dh",
+          "created_at": "Sat Apr 11 09:25:22 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2042896717973196801",
+              "url": "https://pbs.twimg.com/media/HFnTvcOakAERJKr.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "5709522",
+            "name": "Michael Anti",
+            "screen_name": "mranti",
+            "description": "安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",
+            "followers_count": 352836,
+            "friends_count": 11385,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 14,
+            "favorite_count": 136,
+            "reply_count": 17,
+            "quote_count": 4
+          }
+        },
+        "user": {
+          "id": "936609800598597633",
+          "name": "Jason Young",
+          "screen_name": "Jason_Young1231",
+          "description": "Building CC Switch, a Claude Code, OpenCode and Codex assistant tool https://t.co/2aciSaL2Ia",
+          "followers_count": 10149,
+          "friends_count": 599,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 12,
+          "favorite_count": 73,
+          "reply_count": 12,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207115,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2042997530406064304",
       "text": "RT @EndWokeness: Homicides per 100,000 in El Salvador: \n\n2015: 103\n2016: 81.0\n2017: 60.2\n2018: 50.4\n2019: 35.8\n2020: 21.2\n2021: 18.1\n2022:…",
