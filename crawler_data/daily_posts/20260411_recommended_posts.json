@@ -1,12 +1,116 @@
 {
   "date": "20260411",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-11T03:04:29.676989",
-  "tweet_count": 204,
-  "unique_tweet_count": 204,
-  "total_crawled": 400,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-04-11T04:40:49.186817",
+  "tweet_count": 206,
+  "unique_tweet_count": 206,
+  "total_crawled": 404,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2042805474681118988",
+      "text": "Anthropic 昨天刚发布 Claude Managed Agents 公测，API 团队的 Michael Cohen 的科普：Agent 要替用户操作第三方服务，怎么安全地管理这些账号密钥？\n\n答案是 Vaults。\n\nVaults 是 CMA 里专门管理终端用户凭证的组件。开发者给每个用户创建一个 Vault，把这个用户访问外部服务的密钥（比如 Linear 的 API Key、GitHub Token）存进去。之后每次启动 Agent 会话时，只需要传入对应的 vault_id，Anthropic 的基础设施会在 Claude 需要调用外部工具时自动注入凭证。\n\n安全设计上有一个值得注意的细节：凭证永远不会被读进 Claude 的上下文窗口。也就是说，即使有人通过提示注入（prompt injection）试图让 Claude 泄露密钥，也拿不到，因为凭证根本不在 Claude 能\"看到\"的地方。Anthropic 工程博客的技术文章进一步解释了这个架构：Agent 生成的代码在沙箱里运行，而凭证存储在沙箱之外，Claude 调用 MCP 工具时通过一个专用代理（proxy）完成鉴权，harness 本身也接触不到任何凭证。\n\n从代码示例看，整个流程三步：创建 Vault、绑定凭证到 MCP 服务器地址、在创建 Session 时传入 vault_id。对于需要让同一个 Agent 服务多个用户的 SaaS 场景，这比自己搭一套密钥管理系统省事太多了。\n\nCMA 整体现在处于公测阶段，按 API 调用的 token 费用加每小时 0.08 美元的会话费计费。Notion、Rakuten、Asana、Sentry 已经在用了。Claude Code 里也内置了一个 claude-api Skill，可以直接在命令行里引导你完成 Vaults 的配置。",
+      "created_at": "Sat Apr 11 03:22:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042756608133075000",
+        "text": "i wanna talk more about Claude Managed Agents and the various features that come ready-for-use in the API. i'm gonna be walking through components of CMA step-by-step. one of the biggest questions / points of confusion I've seen is auth! so lets start there. \n\nlets talk about Vaults!",
+        "created_at": "Sat Apr 11 00:08:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042711913558401024",
+            "url": "https://pbs.twimg.com/media/HFkrqaIbYAAvivX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1920210289410351104",
+          "name": "Michael Cohen",
+          "screen_name": "mc_anthropic",
+          "description": "Working on the @AnthropicAI API. Views are my own",
+          "followers_count": 5235,
+          "friends_count": 157,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 100,
+          "reply_count": 6,
+          "quote_count": 5
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207044,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 16,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042803584090145203",
+      "text": "推荐学习👍\n这属于自己“蒸馏”自己了😂",
+      "created_at": "Sat Apr 11 03:15:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041359029113585924",
+        "text": "https://t.co/ozd2hhQ0oS",
+        "created_at": "Tue Apr 07 03:34:53 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1492195583699951620",
+          "name": "数字生命卡兹克",
+          "screen_name": "Khazix0918",
+          "description": "愿我们永远对世界保持好奇。\n公众号：数字生命卡兹克",
+          "followers_count": 39252,
+          "friends_count": 145,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 39,
+          "favorite_count": 275,
+          "reply_count": 22,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207044,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 23,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2042788780243911135",
       "text": "OpenAI 刚发了一则安全公告：第三方开发库 Axios 出了安全漏洞，属于一次波及整个行业的供应链安全事件。OpenAI 表示没有证据显示用户数据被访问、系统被入侵或软件被篡改。\n\n但出于谨慎，OpenAI 正在更新 macOS 应用的安全签名证书。所有 macOS 用户需要把 ChatGPT 桌面端、Codex 应用、Codex CLI 和 Atlas 都升级到最新版本。这么做是为了防止有人趁机分发一个伪装成 OpenAI 官方的假应用。\n\nAxios 是前端和 Node.js 开发中极其常用的 HTTP 请求库，全球下载量数以亿计。供应链攻击的意思是，攻击者不直接攻击目标公司，而是先污染目标公司依赖的上游组件，让受害者在不知情的情况下把恶意代码引进自己的系统。这类事件近两年越来越频繁，之前 XZ Utils 后门事件也是同一路数。\n\n如果你在 Mac 上用 ChatGPT 桌面端或 Codex，现在就去更新。可以通过应用内更新，也可以去官网重新下载。暂时不用担心数据泄露，但拖着不更新，万一后续出现仿冒应用，旧版本的签名验证可能挡不住。",

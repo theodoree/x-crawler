@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207019,
+    "followers_count": 207044,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260411",
-  "last_updated": "2026-04-11T03:04:29.701802",
-  "tweet_count": 2,
+  "last_updated": "2026-04-11T04:40:49.211786",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2042777337398210713",
@@ -87,6 +87,90 @@
         "favorite_count": 8,
         "reply_count": 0,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2042803584090145203",
+      "text": "推荐学习👍\n这属于自己“蒸馏”自己了😂",
+      "created_at": "Sat Apr 11 03:15:02 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2041359029113585924",
+        "text": "https://t.co/ozd2hhQ0oS",
+        "created_at": "Tue Apr 07 03:34:53 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1492195583699951620",
+          "name": "数字生命卡兹克",
+          "screen_name": "Khazix0918",
+          "description": "愿我们永远对世界保持好奇。\n公众号：数字生命卡兹克",
+          "followers_count": 39252,
+          "friends_count": 145,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 39,
+          "favorite_count": 275,
+          "reply_count": 22,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 23,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042805474681118988",
+      "text": "Anthropic 昨天刚发布 Claude Managed Agents 公测，API 团队的 Michael Cohen 的科普：Agent 要替用户操作第三方服务，怎么安全地管理这些账号密钥？\n\n答案是 Vaults。\n\nVaults 是 CMA 里专门管理终端用户凭证的组件。开发者给每个用户创建一个 Vault，把这个用户访问外部服务的密钥（比如 Linear 的 API Key、GitHub Token）存进去。之后每次启动 Agent 会话时，只需要传入对应的 vault_id，Anthropic 的基础设施会在 Claude 需要调用外部工具时自动注入凭证。\n\n安全设计上有一个值得注意的细节：凭证永远不会被读进 Claude 的上下文窗口。也就是说，即使有人通过提示注入（prompt injection）试图让 Claude 泄露密钥，也拿不到，因为凭证根本不在 Claude 能\"看到\"的地方。Anthropic 工程博客的技术文章进一步解释了这个架构：Agent 生成的代码在沙箱里运行，而凭证存储在沙箱之外，Claude 调用 MCP 工具时通过一个专用代理（proxy）完成鉴权，harness 本身也接触不到任何凭证。\n\n从代码示例看，整个流程三步：创建 Vault、绑定凭证到 MCP 服务器地址、在创建 Session 时传入 vault_id。对于需要让同一个 Agent 服务多个用户的 SaaS 场景，这比自己搭一套密钥管理系统省事太多了。\n\nCMA 整体现在处于公测阶段，按 API 调用的 token 费用加每小时 0.08 美元的会话费计费。Notion、Rakuten、Asana、Sentry 已经在用了。Claude Code 里也内置了一个 claude-api Skill，可以直接在命令行里引导你完成 Vaults 的配置。",
+      "created_at": "Sat Apr 11 03:22:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042756608133075000",
+        "text": "i wanna talk more about Claude Managed Agents and the various features that come ready-for-use in the API. i'm gonna be walking through components of CMA step-by-step. one of the biggest questions / points of confusion I've seen is auth! so lets start there. \n\nlets talk about Vaults!",
+        "created_at": "Sat Apr 11 00:08:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042711913558401024",
+            "url": "https://pbs.twimg.com/media/HFkrqaIbYAAvivX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1920210289410351104",
+          "name": "Michael Cohen",
+          "screen_name": "mc_anthropic",
+          "description": "Working on the @AnthropicAI API. Views are my own",
+          "followers_count": 5235,
+          "friends_count": 157,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 100,
+          "reply_count": 6,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 16,
+        "reply_count": 4,
+        "quote_count": 0
       }
     }
   ]
