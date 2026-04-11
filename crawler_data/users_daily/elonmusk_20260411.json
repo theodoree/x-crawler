@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237778886,
+    "followers_count": 237783809,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260411",
-  "last_updated": "2026-04-11T14:14:16.647401",
-  "tweet_count": 13,
+  "last_updated": "2026-04-11T16:10:07.580741",
+  "tweet_count": 14,
   "tweets": [
     {
       "id": "2042770839633039635",
@@ -612,6 +612,45 @@
       "quoted": null,
       "stats": {
         "retweet_count": 29663,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2042997530406064304",
+      "text": "RT @EndWokeness: Homicides per 100,000 in El Salvador: \n\n2015: 103\n2016: 81.0\n2017: 60.2\n2018: 50.4\n2019: 35.8\n2020: 21.2\n2021: 18.1\n2022:…",
+      "created_at": "Sat Apr 11 16:05:42 +0000 2026",
+      "lang": "es",
+      "media": [],
+      "retweet": {
+        "id": "2042972940233511167",
+        "text": "Homicides per 100,000 in El Salvador: \n\n2015: 103\n2016: 81.0\n2017: 60.2\n2018: 50.4\n2019: 35.8\n2020: 21.2\n2021: 18.1\n2022: 7.8\n2023: 2.4\n2024: 2.0\n2025: 1.15\n\nDisorder is a policy choice",
+        "created_at": "Sat Apr 11 14:28:00 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1552795969959636992",
+          "name": "End Wokeness",
+          "screen_name": "EndWokeness",
+          "description": "Fighting, exposing, and mocking wokeness. DM for submissions",
+          "followers_count": 3896947,
+          "friends_count": 1370,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 746,
+          "favorite_count": 5529,
+          "reply_count": 153,
+          "quote_count": 29
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 744,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
