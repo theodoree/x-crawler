@@ -1,0 +1,76 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "https://t.co/dDtDyVssfm",
+    "followers_count": 237766746,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260411",
+  "last_updated": "2026-04-11T03:04:29.708794",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2042770839633039635",
+      "text": "Grok can be quite funny 😂 https://t.co/kopVI70H32",
+      "created_at": "Sat Apr 11 01:04:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 775,
+        "favorite_count": 6812,
+        "reply_count": 1539,
+        "quote_count": 101
+      }
+    },
+    {
+      "id": "2042771312792473723",
+      "text": "🇺🇸🇺🇸 Welcome home! 🇺🇸🇺🇸",
+      "created_at": "Sat Apr 11 01:06:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042756933686337713",
+        "text": "Welcome home Reid, Victor, Christina, and Jeremy! 🫶\n\nThe Artemis II astronauts have splashed down at 8:07pm ET (0007 UTC April 11), bringing their historic 10-day mission around the Moon to an end. https://t.co/1yjAgHEOYl",
+        "created_at": "Sat Apr 11 00:09:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2042756826111053826",
+            "url": "https://video.twimg.com/amplify_video/2042756826111053826/vid/avc1/3840x2160/utCRvfDZCRKpceEZ.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "11348282",
+          "name": "NASA",
+          "screen_name": "NASA",
+          "description": "The Moon is the mission. Real-time updates about our Artemis II mission around the Moon.",
+          "followers_count": 90995575,
+          "friends_count": 118,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 75175,
+          "favorite_count": 240511,
+          "reply_count": 4521,
+          "quote_count": 7971
+        }
+      },
+      "stats": {
+        "retweet_count": 14968,
+        "favorite_count": 186882,
+        "reply_count": 4043,
+        "quote_count": 457
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 207019,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260411",
+  "last_updated": "2026-04-11T03:04:29.701802",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2042777337398210713",
+      "text": "OpenAI Codex 团队的 Nick Baumann 分享了一个他日常用 Codex 干活的心得：与其每次把一堆文档、日志、API 输出丢给 AI 去啃，不如给它造几个专用的命令行小工具。\n\n他的逻辑很直接：MCP 连接器（比如 Slack、Linear、Sentry 这些）解决的是“能不能访问”的问题，但很多时候原始数据太大、太杂，AI 拿到手也处理得费劲。这时候更好的做法是把常用操作封装成一个带参数、输出 JSON、有帮助文档的 CLI 命令。Codex 本身就擅长用命令行，它会搜索、会加 flag 筛选、会把上一个命令的结果串到下一个命令里，不需要你教它怎么调。\n\n他自己实际在用三个这样的 CLI：\n\n【1】codex-threads：检索自己以前的 Codex 对话记录\n\nCodex 的会话存档噪音很多，直接让 AI 读原始记录又慢又乱。他做了个工具在本地建索引，可以搜索、定位、读取历史会话。典型用法是找到一次做得好的对话，然后把里面的模式提炼成 skill（可复用的工作指南）。\n\n【2】slack-cli：在 Slack 里精准找信息\n\n场景很具体：有人在某个 Slack 频道讨论过一个技术决策的理由，你知道讨论过但找不到在哪。这个 CLI 可以让 Codex 搜索、定位到具体的消息链、拉上下文、引用关键消息。它底层还是走 Codex 的授权网关，权限没变，只是把交互方式从扔一坨聊天记录变成了一条命令拿到你要的东西。\n\n【3】typefully-cli：写推文和排期发布\n\n他用 Typefully 管理社交内容，但不想每次都让 Codex 重新学一遍 Typefully 的 API。于是让 Codex 读 API 文档，编译出一个 Rust 写的小 CLI，只暴露他常用的几个操作。配套的 skill 里还写了一条规矩：不许自动发布、排期或删除内容，除非他明确要求。\n\n他把整个方法论总结成了一篇教程发到 OpenAI 开发者文档上，还配了一个 cli-creator skill 帮你用 Codex 自己造 CLI。\n\n这个思路对用 Claude Code 的人同样适用。核心就一句话：如果你发现自己反复在给 AI 喂同一类乱糟糟的数据，那就别再解释了，给它造个命令。\n\nCodex 团队还搞了一个 Skill 叫 cli-creator：https://t.co/nF6K4Ci4tJ",
+      "created_at": "Sat Apr 11 01:30:44 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042705384306336083",
+        "text": "https://t.co/7kFjxY5i79",
+        "created_at": "Fri Apr 10 20:44:49 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1674506538336022528",
+          "name": "Nick",
+          "screen_name": "nickbaumann_",
+          "description": "codex @openAI | prev @cline | product of @UWMadison 🦡",
+          "followers_count": 7357,
+          "friends_count": 275,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 23,
+          "favorite_count": 292,
+          "reply_count": 5,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 148,
+        "reply_count": 4,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2042788780243911135",
+      "text": "OpenAI 刚发了一则安全公告：第三方开发库 Axios 出了安全漏洞，属于一次波及整个行业的供应链安全事件。OpenAI 表示没有证据显示用户数据被访问、系统被入侵或软件被篡改。\n\n但出于谨慎，OpenAI 正在更新 macOS 应用的安全签名证书。所有 macOS 用户需要把 ChatGPT 桌面端、Codex 应用、Codex CLI 和 Atlas 都升级到最新版本。这么做是为了防止有人趁机分发一个伪装成 OpenAI 官方的假应用。\n\nAxios 是前端和 Node.js 开发中极其常用的 HTTP 请求库，全球下载量数以亿计。供应链攻击的意思是，攻击者不直接攻击目标公司，而是先污染目标公司依赖的上游组件，让受害者在不知情的情况下把恶意代码引进自己的系统。这类事件近两年越来越频繁，之前 XZ Utils 后门事件也是同一路数。\n\n如果你在 Mac 上用 ChatGPT 桌面端或 Codex，现在就去更新。可以通过应用内更新，也可以去官网重新下载。暂时不用担心数据泄露，但拖着不更新，万一后续出现仿冒应用，旧版本的签名验证可能挡不住。",
+      "created_at": "Sat Apr 11 02:16:13 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042780052669239782",
+        "text": "We recently identified a security issue involving the third-party developer library Axios that was part of a broader industry incident. We found no evidence that OpenAI user data was accessed, that our systems were compromised, or that our software was altered.\n\nOut of an abundance of caution we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps.\n\nWe are updating our security certifications, which will require all macOS users to update their OpenAI apps to the latest versions. This helps prevent any risk—however unlikely—of someone attempting to distribute a fake app that appears to be from OpenAI. You can update safely through an in-app update or at the official links below. 🧵",
+        "created_at": "Sat Apr 11 01:41:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4398626122",
+          "name": "OpenAI",
+          "screen_name": "OpenAI",
+          "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+          "followers_count": 4711478,
+          "friends_count": 4,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 156,
+          "favorite_count": 1577,
+          "reply_count": 151,
+          "quote_count": 83
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 0,
+        "quote_count": 1
+      }
+    }
+  ]
+}
