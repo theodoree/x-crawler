@@ -1,0 +1,13 @@
+{
+  "summary_type": "user_daily",
+  "generation_time": "2026-04-12T01:37:39.819154",
+  "tweet_count": 7,
+  "summary": "**新工具/技术**\n- codex-threads：本地为 Codex 会话建索引、搜索和读取历史对话，方便把优秀对话提炼成可复用的 skill。  \n- slack-cli：把 Slack 搜索封装成命令行接口，能精确定位消息链并拉上下文，保持原有权限控制。  \n- typefully-cli：用 Rust 写的小 CLI，封装 Typefully API 的常用操作并加上“不自动发布”之类的安全规则。  \n- cli-creator skill：Codex 团队的工具/教程，能引导 Codex 自动生成专用 CLI（把重复数据处理封装成命令）。  \n- Claude Managed Agents → Vaults：Anthropic 的凭证管理组件，存储用户密钥并在调用工具时通过代理注入，凭证不进入模型上下文。  \n- fireworks-tech-graph：从自然语言生成多风格、多种类 UML/技术图的 Skill，支持批量导出和自动校验脚本。  \n- markdown-viewer/skills（图例/图标库）：大量矢量图标和图例，可根据 Markdown 自动定制图形元素。  \n- CC Switch（v3.13）：新增“使用统计”功能，用上游返回的模型名和用量信息帮助发现假冒模型（能验假不能验真）。\n\n**核心观点/方法论**\n- 如果你反复给 AI 喂同一类“乱糟糟”的原始数据，别再不断解释了，应把常用操作封装成带参数、输出 JSON、有文档的 CLI：这样减少上下文噪音、节省 token、提高可复用性。  \n- 安全设计要将敏感凭证与模型隔离（Vaults 模式）：凭证不进上下文，通过受控代理注入，从而抵抗提示注入和信息外泄风险。  \n- 供应链/依赖风险需要操作层面的补救（如更新 macOS 签名证书并强制升级客户端），即使未发现入侵也要先防后补。\n\n**实践经验/案例**\n- Nick Baumann 的实操：用 codex-threads 找到“做得好”的历史对话并把模式转成 skill，实测可复用性和效率显著提升。  \n- Typefully-CLI 案例说明：把 API 学习成本降到一次性，让 Codex 调用稳定命令，同时加规则避免误操作（不自动发布/删除）。  \n- Anthropic 的 Vaults 流程：创建 Vault → 绑定凭证 → 在 Session 创建时传入 vault_id；适合多用户 SaaS 场景，省去自建密钥管理的成本。  \n- OpenAI/Axios 事件教训：及时升级官方 macOS 客户端以防假冒应用分发，运维与用户教育同等重要。",
+  "metadata": {
+    "original_tweets": 4,
+    "retweets": 3,
+    "media_tweets": 0,
+    "data_hash": "2288c307",
+    "user": "dotey"
+  }
+}
