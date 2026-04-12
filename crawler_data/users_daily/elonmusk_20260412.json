@@ -1,0 +1,60 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "https://t.co/dDtDyVssfm",
+    "followers_count": 237800636,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260412",
+  "last_updated": "2026-04-12T00:28:08.282647",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2043123445492543506",
+      "text": "Starship V3 with Raptor 3",
+      "created_at": "Sun Apr 12 00:26:03 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043078591114596407",
+        "text": "Superheavy's evolution has been quite something to watch over the years! 😍\n📸: @BocaChicaGal | @NASASpaceflight https://t.co/mxirCwx42Y",
+        "created_at": "Sat Apr 11 21:27:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043078105120624640",
+            "url": "https://pbs.twimg.com/media/HFp4tkAX0AAMUvM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1675781539",
+          "name": "Niall Anderson",
+          "screen_name": "INiallAnderson",
+          "description": "2️⃣5️⃣ | 🖖🏻\nWe're at a turning point for humanity and I'd love to celebrate that together! 🌎 🚀\n\nProducer for @MarcusHouse 📝",
+          "followers_count": 4771,
+          "friends_count": 2099,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 412,
+          "favorite_count": 4938,
+          "reply_count": 72,
+          "quote_count": 53
+        }
+      },
+      "stats": {
+        "retweet_count": 88,
+        "favorite_count": 642,
+        "reply_count": 138,
+        "quote_count": 3
+      }
+    }
+  ]
+}
