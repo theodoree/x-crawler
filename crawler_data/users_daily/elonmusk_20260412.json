@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237802776,
+    "followers_count": 237805003,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260412",
-  "last_updated": "2026-04-12T03:05:57.664413",
-  "tweet_count": 7,
+  "last_updated": "2026-04-12T04:59:37.621721",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2043123445492543506",
@@ -336,6 +336,87 @@
         "favorite_count": 12008,
         "reply_count": 885,
         "quote_count": 38
+      }
+    },
+    {
+      "id": "2043191692212551894",
+      "text": "RT @SpaceX: Starship and Super Heavy move out to continue preflight testing https://t.co/zYN1fkvNIk",
+      "created_at": "Sun Apr 12 04:57:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043167539690106880",
+          "url": "https://pbs.twimg.com/media/HFrKDVvWcAAowqq.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2043167566982684672",
+          "url": "https://pbs.twimg.com/media/HFrKE7aaIAAtxD4.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2043167584166739968",
+          "url": "https://pbs.twimg.com/media/HFrKF7baAAA0dWw.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2043167598934708224",
+          "url": "https://pbs.twimg.com/media/HFrKGycXUAAue4j.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2043167629947424983",
+        "text": "Starship and Super Heavy move out to continue preflight testing https://t.co/zYN1fkvNIk",
+        "created_at": "Sun Apr 12 03:21:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043167539690106880",
+            "url": "https://pbs.twimg.com/media/HFrKDVvWcAAowqq.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043167566982684672",
+            "url": "https://pbs.twimg.com/media/HFrKE7aaIAAtxD4.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043167584166739968",
+            "url": "https://pbs.twimg.com/media/HFrKF7baAAA0dWw.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043167598934708224",
+            "url": "https://pbs.twimg.com/media/HFrKGycXUAAue4j.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41412178,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 600,
+          "favorite_count": 3953,
+          "reply_count": 195,
+          "quote_count": 74
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 600,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

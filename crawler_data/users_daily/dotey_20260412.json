@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207111,
+    "followers_count": 207115,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260412",
-  "last_updated": "2026-04-12T03:05:57.691724",
-  "tweet_count": 1,
+  "last_updated": "2026-04-12T04:59:37.649634",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2043125192545689697",
@@ -51,6 +51,75 @@
       "quoted": null,
       "stats": {
         "retweet_count": 8,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043171447221207329",
+      "text": "RT @timyangnet: 再复述一下上次的观点：\n\n不少人热衷用龙虾等 agent 做自动资讯摘要，心理错觉自己已经有 10x 阅读效率提升，但提升的更多是搬运效率，不是阅读效率。\n\n因为阅读的真正瓶颈，在于理解和洞见，自动摘要对这一步帮助很有限。\n\n有人会认为 agen…",
+      "created_at": "Sun Apr 12 03:36:47 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2043106904671658129",
+        "text": "再复述一下上次的观点：\n\n不少人热衷用龙虾等 agent 做自动资讯摘要，心理错觉自己已经有 10x 阅读效率提升，但提升的更多是搬运效率，不是阅读效率。\n\n因为阅读的真正瓶颈，在于理解和洞见，自动摘要对这一步帮助很有限。\n\n有人会认为 agent 帮你拓宽阅读源，但很多时候也只是把 feed 流推荐换了个壳：相当于搜索再总结，既会损失原文里的细节和精华，输入源的丰富性也未必比 feed 推荐流更强，有时甚至还更弱。",
+        "created_at": "Sat Apr 11 23:20:19 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041308642574819454",
+          "text": "个人都能轻松搭知识库了，AI 能 10x 提升日常信息消费效率吗？\n\n我越来越觉得：很难。\n\n因为真正的瓶颈，从来不是看到更多，而是读进去、想明白、变成自己的认知。\n\n前面堆再多材料，进不了大脑，就只是流过。\n\n而且理解之后还有第二个漏斗：\n 认同一个道理，不等于形成自己的洞见。\n所以 AI 最有价值的地方，不是替你思考，\n而是帮你翻译、解释、答疑、对照知识库，降低理解的摩擦力。\n\n它不是信息消费的加速器，\n更像精读过程中的辅助解读器。",
+          "created_at": "Tue Apr 07 00:14:40 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2041308583640612864",
+              "url": "https://pbs.twimg.com/media/HFQvV2zawAAf1FU.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "5922652",
+            "name": "Tim✨",
+            "screen_name": "timyangnet",
+            "description": "Co-Founder Westar Labs | 🛠️ $STC & AI Explorer | Ex-Chief Architect Weibo (NASDAQ:WB)\n\nWhat we hear is opinion; what we see is perspective.\n\n此有故彼有 此生故彼生",
+            "followers_count": 9810,
+            "friends_count": 1151,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3,
+            "favorite_count": 34,
+            "reply_count": 0,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "5922652",
+          "name": "Tim✨",
+          "screen_name": "timyangnet",
+          "description": "Co-Founder Westar Labs | 🛠️ $STC & AI Explorer | Ex-Chief Architect Weibo (NASDAQ:WB)\n\nWhat we hear is opinion; what we see is perspective.\n\n此有故彼有 此生故彼生",
+          "followers_count": 9810,
+          "friends_count": 1151,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 38,
+          "reply_count": 3,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
