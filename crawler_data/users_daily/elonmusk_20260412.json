@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237800636,
+    "followers_count": 237802776,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260412",
-  "last_updated": "2026-04-12T00:28:08.282647",
-  "tweet_count": 1,
+  "last_updated": "2026-04-12T03:05:57.664413",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2043123445492543506",
@@ -54,6 +54,288 @@
         "favorite_count": 642,
         "reply_count": 138,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2043134688890605888",
+      "text": "Tesla Semi feels like a sports car to drive",
+      "created_at": "Sun Apr 12 01:10:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042964934862979554",
+        "text": "Instead of a two-speed transmission, The Tesla Semi has two rear axles.\n\nThe forward axle, with two motors, is geared for acceleration, while the rear axle is geared for highway efficiency. The Semi has a tri-motor setup with 800kW of power. \n\nAt highway speeds, the front axle will completely disengage.",
+        "created_at": "Sat Apr 11 13:56:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042964928294801408",
+            "url": "https://pbs.twimg.com/media/HFoRxzeX0AABhYe.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1494873435863977985",
+          "name": "Nic Cruz Patane",
+          "screen_name": "niccruzpatane",
+          "description": "Deep dive into everything Tesla",
+          "followers_count": 98625,
+          "friends_count": 167,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 123,
+          "favorite_count": 1279,
+          "reply_count": 86,
+          "quote_count": 14
+        }
+      },
+      "stats": {
+        "retweet_count": 1386,
+        "favorite_count": 12158,
+        "reply_count": 1200,
+        "quote_count": 63
+      }
+    },
+    {
+      "id": "2043141724344824003",
+      "text": "Starlink Internet is awesome",
+      "created_at": "Sun Apr 12 01:38:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043133990568366435",
+        "text": "I moved today, tried to setup internet, provider needed to send a tech, earliest appointment was Wednesday.\n\nGot a @Starlink Standard 4 delivered and online in less than 1 hour, truly sci-fi, ty to SpaceX team and Elon.",
+        "created_at": "Sun Apr 12 01:07:57 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "284333988",
+          "name": "Logan Kilpatrick",
+          "screen_name": "OfficialLoganK",
+          "description": "Member of technical staff, working on @GoogleAIStudio, the Gemini API, & Kaggle. My views!",
+          "followers_count": 297782,
+          "friends_count": 3018,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 165,
+          "favorite_count": 3426,
+          "reply_count": 167,
+          "quote_count": 14
+        }
+      },
+      "stats": {
+        "retweet_count": 1355,
+        "favorite_count": 16226,
+        "reply_count": 1731,
+        "quote_count": 98
+      }
+    },
+    {
+      "id": "2043151953702891731",
+      "text": "RT @KRoelandschap: First start of FSD in The Netherlands 🇳🇱 \n\nTLDR: long video, short quiz https://t.co/cOh7uHTDlF",
+      "created_at": "Sun Apr 12 02:19:20 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2043092124422324224",
+          "url": "https://video.twimg.com/amplify_video/2043092124422324224/vid/avc1/2160x3840/PTE0syin9SDkq3ES.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2043093775367508441",
+        "text": "First start of FSD in The Netherlands 🇳🇱 \n\nTLDR: long video, short quiz https://t.co/cOh7uHTDlF",
+        "created_at": "Sat Apr 11 22:28:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043092124422324224",
+            "url": "https://video.twimg.com/amplify_video/2043092124422324224/vid/avc1/2160x3840/PTE0syin9SDkq3ES.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1375440705754124289",
+          "name": "Kees Roelandschap",
+          "screen_name": "KRoelandschap",
+          "description": "Building robofleet in Europe. Passionate about AI & self driving tech. Co-Host of the @TeslaToMars420 podcast. Founder of The RYD3 Company: stay tuned for more!",
+          "followers_count": 9333,
+          "friends_count": 1095,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 158,
+          "favorite_count": 1226,
+          "reply_count": 83,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 158,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043152038696235148",
+      "text": "RT @Glinner: Hi to my new international readers. I was a successful UK comedy writer until I spoke out against men in women's sports and pr…",
+      "created_at": "Sun Apr 12 02:19:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042756751880262065",
+        "text": "Hi to my new international readers. I was a successful UK comedy writer until I spoke out against men in women's sports and private spaces, and children being mutilated and sterilised in gender clinics. The fight is far from over so join me if any of this interests you.",
+        "created_at": "Sat Apr 11 00:08:56 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "7076492",
+          "name": "Graham Linehan",
+          "screen_name": "Glinner",
+          "description": "Substack https://t.co/C5bDlddFJx YouTube https://t.co/KxvlEmE8G3 BuyMeACoffee https://t.co/SFz8dFE7Bp",
+          "followers_count": 656411,
+          "friends_count": 3623,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1744,
+          "favorite_count": 19489,
+          "reply_count": 354,
+          "quote_count": 31
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1744,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043152426627371119",
+      "text": "Starlink is alien-level technology",
+      "created_at": "Sun Apr 12 02:21:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043130647250931913",
+        "text": "Marc Andreessen on why Starlink may be the most misunderstood success story in tech right now:\n\n“Elon’s not the first guy who said we’re going to do satellite-based internet access.\n\nThere was Bill Gates, Craig McCaw. Complete catastrophe, total bankruptcy, complete disaster.\n\nElon’s like, ‘I know, I’m going to do another three of those. We’re starting as a side project at the rocket ship company.’\n\nIf the rockets are reusable, we’re going to be launching them all the time. What’s going to go in the rockets? I could wait for the customers to come to me, or I could just put up my own satellites.\n\nAnybody who knew anything about the history of satellites knew that was the craziest idea in the world.\n\nAnd of course it’s like this giant success. It’s the side project.\n\nIt’s clearly the least studied and understood thing I know of in the world right now.”",
+        "created_at": "Sun Apr 12 00:54:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043130269662941184",
+            "url": "https://video.twimg.com/amplify_video/2043130269662941184/vid/avc1/3840x2160/Ix60DxPLlPAGh-YY.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "255793931",
+          "name": "David Senra",
+          "screen_name": "davidsenra",
+          "description": "Conversations with the greatest living founders.",
+          "followers_count": 62522,
+          "friends_count": 83,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 241,
+          "favorite_count": 2288,
+          "reply_count": 64,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 1043,
+        "favorite_count": 9156,
+        "reply_count": 1030,
+        "quote_count": 68
+      }
+    },
+    {
+      "id": "2043152663693668601",
+      "text": "True",
+      "created_at": "Sun Apr 12 02:22:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043140356556902422",
+        "text": "when spacex was getting started, the first and last men to walk on the moon testified before congress against it.\n\ngene cernan told congress commercial space companies \"do not yet know what they don't know.\"\n\nhe said the boeings and lockheed martins were \"the folks who have been working on everything we've done for the last 50 years. they know how it can be done.\"\n\nneil armstrong said he was \"not confident\" the newcomers could achieve their goals.\n\ntogether with jim lovell they warned it would put america on \"a long downward slide to mediocrity.\"\n\nspacex now launches more rockets than every country on earth combined.\n\nthe experts will always tell you it can't be done. build it anyway!",
+        "created_at": "Sun Apr 12 01:33:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043140218383925248",
+            "url": "https://pbs.twimg.com/media/HFqxNB8WgAA1c1j.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043140272171679745",
+            "url": "https://pbs.twimg.com/media/HFqxQKUWgAE0cfl.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043140301372665856",
+            "url": "https://pbs.twimg.com/media/HFqxR3GaMAAzATF.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043140341402828800",
+            "url": "https://pbs.twimg.com/media/HFqxUMOWAAAh6KC.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1611451855107661835",
+          "name": "Zane Hengsperger",
+          "screen_name": "zanehengsperger",
+          "description": "slingin metal @noxmetals | large proponent of 100x factories and technologically abundant industrial capacity in the west | yc s25",
+          "followers_count": 30482,
+          "friends_count": 1452,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 623,
+          "favorite_count": 6121,
+          "reply_count": 261,
+          "quote_count": 41
+        }
+      },
+      "stats": {
+        "retweet_count": 1253,
+        "favorite_count": 12008,
+        "reply_count": 885,
+        "quote_count": 38
       }
     }
   ]

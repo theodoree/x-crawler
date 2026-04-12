@@ -1,0 +1,60 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 207111,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260412",
+  "last_updated": "2026-04-12T03:05:57.691724",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2043125192545689697",
+      "text": "RT @timyangnet: 大家经常说的编排（Orchestration）Agent 似乎也不是必须，看 Anthropic 那个让 16 个 agent 并行两周不打架的案例：\n\n这是 Nicholas Carlini 的编译器项目。最有意思的是他绕过了复杂的 agent…",
+      "created_at": "Sun Apr 12 00:32:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2043086842762014744",
+        "text": "大家经常说的编排（Orchestration）Agent 似乎也不是必须，看 Anthropic 那个让 16 个 agent 并行两周不打架的案例：\n\n这是 Nicholas Carlini 的编译器项目。最有意思的是他绕过了复杂的 agent 编排，回归了最朴素的如图所示 Bash Shell 循环：\n\n🛠 同步协议：\n\n任务池： 一个名为 current_tasks/ 的共享文件夹。\n\n互斥锁： 智能体写入 .lock 文件标记“我在做了”。\n\n分布式协同： 利用 Git 处理并行修改，连合并冲突（Merge Conflict）都由 Claude 自行解决。\n\n🔄 单次 Loop 逻辑：\n\n启动： 容器启动，拉取 upstream 最新状态。\n\n寻路： Claude 扫描目录，认领没被锁定的任务。\n\n交付： 完成编码，更新进度文件，git push 并释放锁。\n\ncurrent_task 从哪里来？所有 agent 都可以往里面提交任务，这个应该是写在 AGENT_PROMPT.md 启动规则里面。\n\n对于长任务 agent 来说，这种设计模式省去了昂贵的编排管理成本，非常值得借鉴。\n\nhttps://t.co/T6cM3IPiBf",
+        "created_at": "Sat Apr 11 22:00:36 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043043758808403968",
+            "url": "https://pbs.twimg.com/media/HFpZeWBakAAYcUT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5922652",
+          "name": "Tim✨",
+          "screen_name": "timyangnet",
+          "description": "Co-Founder Westar Labs | 🛠️ $STC & AI Explorer | Ex-Chief Architect Weibo (NASDAQ:WB)\n\nWhat we hear is opinion; what we see is perspective.\n\n此有故彼有 此生故彼生",
+          "followers_count": 9783,
+          "friends_count": 1151,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 53,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

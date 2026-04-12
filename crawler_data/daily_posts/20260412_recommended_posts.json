@@ -1,12 +1,409 @@
 {
   "date": "20260412",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-12T00:28:08.253637",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-04-12T03:05:57.635550",
+  "tweet_count": 207,
+  "unique_tweet_count": 207,
+  "total_crawled": 400,
+  "duplicates_removed": 193,
   "tweets": [
+    {
+      "id": "2043152663693668601",
+      "text": "True",
+      "created_at": "Sun Apr 12 02:22:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043140356556902422",
+        "text": "when spacex was getting started, the first and last men to walk on the moon testified before congress against it.\n\ngene cernan told congress commercial space companies \"do not yet know what they don't know.\"\n\nhe said the boeings and lockheed martins were \"the folks who have been working on everything we've done for the last 50 years. they know how it can be done.\"\n\nneil armstrong said he was \"not confident\" the newcomers could achieve their goals.\n\ntogether with jim lovell they warned it would put america on \"a long downward slide to mediocrity.\"\n\nspacex now launches more rockets than every country on earth combined.\n\nthe experts will always tell you it can't be done. build it anyway!",
+        "created_at": "Sun Apr 12 01:33:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043140218383925248",
+            "url": "https://pbs.twimg.com/media/HFqxNB8WgAA1c1j.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043140272171679745",
+            "url": "https://pbs.twimg.com/media/HFqxQKUWgAE0cfl.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043140301372665856",
+            "url": "https://pbs.twimg.com/media/HFqxR3GaMAAzATF.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043140341402828800",
+            "url": "https://pbs.twimg.com/media/HFqxUMOWAAAh6KC.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1611451855107661835",
+          "name": "Zane Hengsperger",
+          "screen_name": "zanehengsperger",
+          "description": "slingin metal @noxmetals | large proponent of 100x factories and technologically abundant industrial capacity in the west | yc s25",
+          "followers_count": 30482,
+          "friends_count": 1452,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 623,
+          "favorite_count": 6121,
+          "reply_count": 261,
+          "quote_count": 41
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237802776,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1253,
+        "favorite_count": 12008,
+        "reply_count": 885,
+        "quote_count": 38
+      }
+    },
+    {
+      "id": "2043152426627371119",
+      "text": "Starlink is alien-level technology",
+      "created_at": "Sun Apr 12 02:21:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043130647250931913",
+        "text": "Marc Andreessen on why Starlink may be the most misunderstood success story in tech right now:\n\n“Elon’s not the first guy who said we’re going to do satellite-based internet access.\n\nThere was Bill Gates, Craig McCaw. Complete catastrophe, total bankruptcy, complete disaster.\n\nElon’s like, ‘I know, I’m going to do another three of those. We’re starting as a side project at the rocket ship company.’\n\nIf the rockets are reusable, we’re going to be launching them all the time. What’s going to go in the rockets? I could wait for the customers to come to me, or I could just put up my own satellites.\n\nAnybody who knew anything about the history of satellites knew that was the craziest idea in the world.\n\nAnd of course it’s like this giant success. It’s the side project.\n\nIt’s clearly the least studied and understood thing I know of in the world right now.”",
+        "created_at": "Sun Apr 12 00:54:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043130269662941184",
+            "url": "https://video.twimg.com/amplify_video/2043130269662941184/vid/avc1/3840x2160/Ix60DxPLlPAGh-YY.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "255793931",
+          "name": "David Senra",
+          "screen_name": "davidsenra",
+          "description": "Conversations with the greatest living founders.",
+          "followers_count": 62522,
+          "friends_count": 83,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 241,
+          "favorite_count": 2288,
+          "reply_count": 64,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237802776,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1043,
+        "favorite_count": 9156,
+        "reply_count": 1030,
+        "quote_count": 68
+      }
+    },
+    {
+      "id": "2043152038696235148",
+      "text": "RT @Glinner: Hi to my new international readers. I was a successful UK comedy writer until I spoke out against men in women's sports and pr…",
+      "created_at": "Sun Apr 12 02:19:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2042756751880262065",
+        "text": "Hi to my new international readers. I was a successful UK comedy writer until I spoke out against men in women's sports and private spaces, and children being mutilated and sterilised in gender clinics. The fight is far from over so join me if any of this interests you.",
+        "created_at": "Sat Apr 11 00:08:56 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "7076492",
+          "name": "Graham Linehan",
+          "screen_name": "Glinner",
+          "description": "Substack https://t.co/C5bDlddFJx YouTube https://t.co/KxvlEmE8G3 BuyMeACoffee https://t.co/SFz8dFE7Bp",
+          "followers_count": 656411,
+          "friends_count": 3623,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1744,
+          "favorite_count": 19489,
+          "reply_count": 354,
+          "quote_count": 31
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237802776,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1744,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043151953702891731",
+      "text": "RT @KRoelandschap: First start of FSD in The Netherlands 🇳🇱 \n\nTLDR: long video, short quiz https://t.co/cOh7uHTDlF",
+      "created_at": "Sun Apr 12 02:19:20 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2043092124422324224",
+          "url": "https://video.twimg.com/amplify_video/2043092124422324224/vid/avc1/2160x3840/PTE0syin9SDkq3ES.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2043093775367508441",
+        "text": "First start of FSD in The Netherlands 🇳🇱 \n\nTLDR: long video, short quiz https://t.co/cOh7uHTDlF",
+        "created_at": "Sat Apr 11 22:28:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043092124422324224",
+            "url": "https://video.twimg.com/amplify_video/2043092124422324224/vid/avc1/2160x3840/PTE0syin9SDkq3ES.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1375440705754124289",
+          "name": "Kees Roelandschap",
+          "screen_name": "KRoelandschap",
+          "description": "Building robofleet in Europe. Passionate about AI & self driving tech. Co-Host of the @TeslaToMars420 podcast. Founder of The RYD3 Company: stay tuned for more!",
+          "followers_count": 9333,
+          "friends_count": 1095,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 158,
+          "favorite_count": 1226,
+          "reply_count": 83,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237802776,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 158,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043141724344824003",
+      "text": "Starlink Internet is awesome",
+      "created_at": "Sun Apr 12 01:38:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043133990568366435",
+        "text": "I moved today, tried to setup internet, provider needed to send a tech, earliest appointment was Wednesday.\n\nGot a @Starlink Standard 4 delivered and online in less than 1 hour, truly sci-fi, ty to SpaceX team and Elon.",
+        "created_at": "Sun Apr 12 01:07:57 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "284333988",
+          "name": "Logan Kilpatrick",
+          "screen_name": "OfficialLoganK",
+          "description": "Member of technical staff, working on @GoogleAIStudio, the Gemini API, & Kaggle. My views!",
+          "followers_count": 297782,
+          "friends_count": 3018,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 165,
+          "favorite_count": 3426,
+          "reply_count": 167,
+          "quote_count": 14
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237802776,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1355,
+        "favorite_count": 16226,
+        "reply_count": 1731,
+        "quote_count": 98
+      }
+    },
+    {
+      "id": "2043134688890605888",
+      "text": "Tesla Semi feels like a sports car to drive",
+      "created_at": "Sun Apr 12 01:10:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2042964934862979554",
+        "text": "Instead of a two-speed transmission, The Tesla Semi has two rear axles.\n\nThe forward axle, with two motors, is geared for acceleration, while the rear axle is geared for highway efficiency. The Semi has a tri-motor setup with 800kW of power. \n\nAt highway speeds, the front axle will completely disengage.",
+        "created_at": "Sat Apr 11 13:56:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2042964928294801408",
+            "url": "https://pbs.twimg.com/media/HFoRxzeX0AABhYe.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1494873435863977985",
+          "name": "Nic Cruz Patane",
+          "screen_name": "niccruzpatane",
+          "description": "Deep dive into everything Tesla",
+          "followers_count": 98625,
+          "friends_count": 167,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 123,
+          "favorite_count": 1279,
+          "reply_count": 86,
+          "quote_count": 14
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237802776,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1386,
+        "favorite_count": 12158,
+        "reply_count": 1200,
+        "quote_count": 63
+      }
+    },
+    {
+      "id": "2043125192545689697",
+      "text": "RT @timyangnet: 大家经常说的编排（Orchestration）Agent 似乎也不是必须，看 Anthropic 那个让 16 个 agent 并行两周不打架的案例：\n\n这是 Nicholas Carlini 的编译器项目。最有意思的是他绕过了复杂的 agent…",
+      "created_at": "Sun Apr 12 00:32:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2043086842762014744",
+        "text": "大家经常说的编排（Orchestration）Agent 似乎也不是必须，看 Anthropic 那个让 16 个 agent 并行两周不打架的案例：\n\n这是 Nicholas Carlini 的编译器项目。最有意思的是他绕过了复杂的 agent 编排，回归了最朴素的如图所示 Bash Shell 循环：\n\n🛠 同步协议：\n\n任务池： 一个名为 current_tasks/ 的共享文件夹。\n\n互斥锁： 智能体写入 .lock 文件标记“我在做了”。\n\n分布式协同： 利用 Git 处理并行修改，连合并冲突（Merge Conflict）都由 Claude 自行解决。\n\n🔄 单次 Loop 逻辑：\n\n启动： 容器启动，拉取 upstream 最新状态。\n\n寻路： Claude 扫描目录，认领没被锁定的任务。\n\n交付： 完成编码，更新进度文件，git push 并释放锁。\n\ncurrent_task 从哪里来？所有 agent 都可以往里面提交任务，这个应该是写在 AGENT_PROMPT.md 启动规则里面。\n\n对于长任务 agent 来说，这种设计模式省去了昂贵的编排管理成本，非常值得借鉴。\n\nhttps://t.co/T6cM3IPiBf",
+        "created_at": "Sat Apr 11 22:00:36 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043043758808403968",
+            "url": "https://pbs.twimg.com/media/HFpZeWBakAAYcUT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5922652",
+          "name": "Tim✨",
+          "screen_name": "timyangnet",
+          "description": "Co-Founder Westar Labs | 🛠️ $STC & AI Explorer | Ex-Chief Architect Weibo (NASDAQ:WB)\n\nWhat we hear is opinion; what we see is perspective.\n\n此有故彼有 此生故彼生",
+          "followers_count": 9783,
+          "friends_count": 1151,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 53,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207111,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2043123445492543506",
       "text": "Starship V3 with Raptor 3",
