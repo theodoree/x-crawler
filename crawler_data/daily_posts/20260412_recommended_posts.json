@@ -1,12 +1,822 @@
 {
   "date": "20260412",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-12T20:10:34.545853",
-  "tweet_count": 276,
-  "unique_tweet_count": 276,
-  "total_crawled": 463,
-  "duplicates_removed": 187,
+  "last_crawl_time": "2026-04-12T22:10:01.834622",
+  "tweet_count": 290,
+  "unique_tweet_count": 290,
+  "total_crawled": 476,
+  "duplicates_removed": 186,
   "tweets": [
+    {
+      "id": "2043437606038335845",
+      "text": "Chrome DevTools MCP 新增了多项专用调试技能：用 Lighthouse 跑性能审计、检测内存泄漏、无障碍调试、LCP（最大内容绘制，直接影响用户感知到的页面加载速度）优化，以及一个实验性的命令行工具。",
+      "created_at": "Sun Apr 12 21:14:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043399706634805682",
+        "text": "Want to give your agent quality checks? \n\nChrome's DevTools MCP now includes:\n\n⚡️ Performance checks via Lighthouse\n📈 Memory leak detection Skill\n🦻 Accessibility debugging Skill\n🎨 LCP optimization Skill\n\nand an experimental new CLI 👀 https://t.co/jOS6z66WtG",
+        "created_at": "Sun Apr 12 18:43:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043393639746056192",
+            "url": "https://video.twimg.com/amplify_video/2043393639746056192/vid/avc1/1920x1080/kftfJQc2KeBDdm7h.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "35432643",
+          "name": "Addy Osmani",
+          "screen_name": "addyosmani",
+          "description": "Director, @GoogleCloud AI. Gemini  ✨ Vertex. Prev: Eng. leader, @GoogleChrome • Author • Great user, developer & AI experiences  • @GoogleAI @GoogleDeepMind",
+          "followers_count": 387138,
+          "friends_count": 2506,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 50,
+          "favorite_count": 378,
+          "reply_count": 12,
+          "quote_count": 5
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207162,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043436718473502847",
+      "text": "RT @wmorrill3: @elonmusk Couldn't agree more.\n\nSmooth on FSD roadtrips. SbW and rear-steer makes manual driving easy in comfort mode and fu…",
+      "created_at": "Sun Apr 12 21:10:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043433014336893379",
+        "text": "@elonmusk Couldn't agree more.\n\nSmooth on FSD roadtrips. SbW and rear-steer makes manual driving easy in comfort mode and fun in sport mode. Impressively capable off-road. Toughness on the outside so I never have to worry and just looks awesome.",
+        "created_at": "Sun Apr 12 20:56:10 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "619309584",
+          "name": "Wes",
+          "screen_name": "wmorrill3",
+          "description": "Biking, Running, Hiking, Climbing - Always adventuring. \n\nCybertruck Lead Engineer +\nReliability, Test, and Analysis for all Tesla vehicles.",
+          "followers_count": 32978,
+          "friends_count": 236,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 143,
+          "favorite_count": 1097,
+          "reply_count": 117,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 143,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043431468584870131",
+      "text": "Sowell is awesome and always right",
+      "created_at": "Sun Apr 12 20:50:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043429605919646188",
+        "text": "Thomas Sowell points out that slavery was a universal evil rather than something local to any specific civilization. https://t.co/PdfB33VRZN",
+        "created_at": "Sun Apr 12 20:42:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043429542786957312",
+            "url": "https://video.twimg.com/amplify_video/2043429542786957312/vid/avc1/1280x720/JjWMRzkIyoDv9uNy.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1094982,
+          "friends_count": 1832,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 380,
+          "favorite_count": 1873,
+          "reply_count": 107,
+          "quote_count": 37
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3777,
+        "favorite_count": 26901,
+        "reply_count": 1338,
+        "quote_count": 93
+      }
+    },
+    {
+      "id": "2043429392865730570",
+      "text": "Smooth",
+      "created_at": "Sun Apr 12 20:41:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043393415279149131",
+        "text": "The most difficult roundabout in the Netherlands, Keizer Karelplein in Nijmegen.\n\nNo effort for FSD.\n$TSLA https://t.co/M54BTnch02",
+        "created_at": "Sun Apr 12 18:18:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043392184146399232",
+            "url": "https://video.twimg.com/amplify_video/2043392184146399232/vid/avc1/3840x2160/rf4vMGv9oWzCF0sA.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1767163566719696896",
+          "name": "Tesla Inside",
+          "screen_name": "TSLA_inside_",
+          "description": "Enhauto/ promotion code. BERKNL (10%) Tesla Model 3 Highland owner. For advertising, send a DM/",
+          "followers_count": 11770,
+          "friends_count": 1123,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 91,
+          "favorite_count": 1213,
+          "reply_count": 114,
+          "quote_count": 37
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 926,
+        "favorite_count": 9212,
+        "reply_count": 931,
+        "quote_count": 34
+      }
+    },
+    {
+      "id": "2043428677908893735",
+      "text": "RT @DimaZeniuk: SpaceX’s Starlink keeps people connected even in the most remote places 🛶\n\nWith over 10,000 satellites in orbit, the networ…",
+      "created_at": "Sun Apr 12 20:38:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043427393902096413",
+        "text": "SpaceX’s Starlink keeps people connected even in the most remote places 🛶\n\nWith over 10,000 satellites in orbit, the network keeps improving with every launch https://t.co/vV5fZ5pYVG",
+        "created_at": "Sun Apr 12 20:33:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043427350402961409",
+            "url": "https://video.twimg.com/ext_tw_video/2043427350402961409/pu/vid/avc1/1280x720/6ZfRuICpGovtfH-j.mp4?tag=19",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1198495865301864448",
+          "name": "Dima Zeniuk",
+          "screen_name": "DimaZeniuk",
+          "description": "Tesla | SpaceX | Starlink | X |\nFree speech\n\nInspired by innovation | Future | Neuralink",
+          "followers_count": 122186,
+          "friends_count": 640,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 211,
+          "favorite_count": 1316,
+          "reply_count": 133,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 211,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043428556055986613",
+      "text": "RT @TheRabbitHole: @elonmusk Grok understands the history of slavery https://t.co/iUggOE6Wi0",
+      "created_at": "Sun Apr 12 20:38:27 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043426497680351232",
+          "url": "https://pbs.twimg.com/media/HFu1krbboAAo5wY.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2043426500909908314",
+        "text": "@elonmusk Grok understands the history of slavery https://t.co/iUggOE6Wi0",
+        "created_at": "Sun Apr 12 20:30:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043426497680351232",
+            "url": "https://pbs.twimg.com/media/HFu1krbboAAo5wY.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1094982,
+          "friends_count": 1832,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 356,
+          "favorite_count": 1843,
+          "reply_count": 183,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 356,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043428385138074096",
+      "text": "RT @dm_jns: 🇧🇪Good news for Belgian Tesla owners!\n\nThe Netherlands’ RDW just issued the first European type approval for Tesla FSD Supervis…",
+      "created_at": "Sun Apr 12 20:37:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043404019314401640",
+        "text": "🇧🇪Good news for Belgian Tesla owners!\n\nThe Netherlands’ RDW just issued the first European type approval for Tesla FSD Supervised.\n\nAttached letter from the Belgian federal administration (Minister Jean-Luc Crucke) shows they strongly support European autonomous driving legislation and have been actively involved in the discussions.\n\nSince it’s a European approval, Belgium could follow the Dutch decision much faster than expected!\n\n#Tesla #FSD #Belgium",
+        "created_at": "Sun Apr 12 19:00:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043404010753765376",
+            "url": "https://pbs.twimg.com/media/HFuhHxGWMAAKQHR.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "713780886601334784",
+          "name": "Jonas DM.",
+          "screen_name": "dm_jns",
+          "description": "",
+          "followers_count": 848,
+          "friends_count": 1133,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 218,
+          "favorite_count": 1235,
+          "reply_count": 64,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 218,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043425155750466020",
+      "text": "RT @tesla_thailand: ไม่ว่าจะวันธรรมดา หรือช่วงเทศกาล\nทุกการเดินทางไปกับ Tesla จะทำให้คุณอุ่นใจและมั่นใจ https://t.co/F8CXTMYzDq",
+      "created_at": "Sun Apr 12 20:24:56 +0000 2026",
+      "lang": "th",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043189630171054080",
+          "url": "https://pbs.twimg.com/media/HFreJLMbgAAIEJ3.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2043189630275817472",
+          "url": "https://pbs.twimg.com/media/HFreJLlaEAAiuMA.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2043189686643064832",
+          "url": "https://pbs.twimg.com/media/HFreMdkaAAAvlA-.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2043189685498093568",
+          "url": "https://pbs.twimg.com/media/HFreMZTbIAAITaq.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2043189750753099926",
+        "text": "ไม่ว่าจะวันธรรมดา หรือช่วงเทศกาล\nทุกการเดินทางไปกับ Tesla จะทำให้คุณอุ่นใจและมั่นใจ https://t.co/F8CXTMYzDq",
+        "created_at": "Sun Apr 12 04:49:31 +0000 2026",
+        "lang": "th",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043189630171054080",
+            "url": "https://pbs.twimg.com/media/HFreJLMbgAAIEJ3.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043189630275817472",
+            "url": "https://pbs.twimg.com/media/HFreJLlaEAAiuMA.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043189686643064832",
+            "url": "https://pbs.twimg.com/media/HFreMdkaAAAvlA-.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043189685498093568",
+            "url": "https://pbs.twimg.com/media/HFreMZTbIAAITaq.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1747117165264986112",
+          "name": "Tesla Thailand",
+          "screen_name": "tesla_thailand",
+          "description": "Our mission is to building a world of amazing abundance \nพันธกิจของเราคือการสร้างโลกที่อุดมสมบูรณ์อย่างน่าทึ่ง",
+          "followers_count": 5614,
+          "friends_count": 21,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 186,
+          "favorite_count": 899,
+          "reply_count": 86,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 186,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043424885951828377",
+      "text": "True",
+      "created_at": "Sun Apr 12 20:23:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043357927172399448",
+        "text": "Africans were selling fellow Africans as slaves to Arab slave traders for CENTURIES before the first Europeans ever showed up.\n\nAnd when Britain banned the slave trade they got angry that their trade was being thwarted and refused to stop slave trading.",
+        "created_at": "Sun Apr 12 15:57:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1456222570638946304",
+          "name": "Wanjiru Njoya",
+          "screen_name": "WanjiruNjoya",
+          "description": "Property rights absolutist",
+          "followers_count": 50838,
+          "friends_count": 497,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 703,
+          "favorite_count": 3847,
+          "reply_count": 275,
+          "quote_count": 65
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3495,
+        "favorite_count": 24978,
+        "reply_count": 963,
+        "quote_count": 83
+      }
+    },
+    {
+      "id": "2043424813742747915",
+      "text": "RT @LinkN01: In March 2026 there were 70,663 EV's registered in Germany, Tesla had almost 10% of that market. And Model Y was the best-sell…",
+      "created_at": "Sun Apr 12 20:23:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043414217869472146",
+        "text": "In March 2026 there were 70,663 EV's registered in Germany, Tesla had almost 10% of that market. And Model Y was the best-selling EV in the country. \n\nI suspect those 10% will be kinder garden numbers compared to what is coming when FSD Supervised hits Germany. https://t.co/0zYa5OhxPR",
+        "created_at": "Sun Apr 12 19:41:28 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043413739068698625",
+            "url": "https://pbs.twimg.com/media/HFup-B5XsAETj8A.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "376256456",
+          "name": "Alexander Kristensen",
+          "screen_name": "LinkN01",
+          "description": "Applications Engineer - Turnkey CNC production solutions for Automotive, Medtech and everything else                              \n$TSLA since 2017",
+          "followers_count": 10672,
+          "friends_count": 1039,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 185,
+          "favorite_count": 997,
+          "reply_count": 86,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 185,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043424536927072561",
+      "text": "Starlink gives you fast Internet anywhere on Earth",
+      "created_at": "Sun Apr 12 20:22:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043077092204777887",
+        "text": "Fast, reliable internet in even the most rural and remote areas 🛰️❤️",
+        "created_at": "Sat Apr 11 21:21:51 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1579610,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 240,
+          "favorite_count": 1766,
+          "reply_count": 152,
+          "quote_count": 31
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1451,
+        "favorite_count": 13624,
+        "reply_count": 3097,
+        "quote_count": 285
+      }
+    },
+    {
+      "id": "2043424305925783946",
+      "text": "RT @01Ananto: Let’s be honest… everyone was waiting to see how Tesla FSD 14.3 would handle Manhattan.\n\n@scotsrule08  and I took my 2026 HW4…",
+      "created_at": "Sun Apr 12 20:21:34 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043384102741536983",
+        "text": "Let’s be honest… everyone was waiting to see how Tesla FSD 14.3 would handle Manhattan.\n\n@scotsrule08  and I took my 2026 HW4 Model Y out for a 2-hour drive through NYC - and it seriously delivered.\n\nThis 1-hour video is packed with wild moments that genuinely surprised both of us.\n\nWe were honestly impressed by how it handled traffic, pedestrians, construction zones, road closures, and so much more — it felt like a completely seamless drive.\n\nBig shoutout to Spencer for teaming up on this — definitely give him a follow!",
+        "created_at": "Sun Apr 12 17:41:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043382277586239488",
+            "url": "https://video.twimg.com/amplify_video/2043382277586239488/vid/avc1/1920x1080/7eJoQLhMX0nIfP01.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2603928967",
+          "name": "🅰️nanto Mohammad",
+          "screen_name": "01Ananto",
+          "description": "Use my Referral Link to order your Tesla: https://t.co/5UFeb0Uagb",
+          "followers_count": 1883,
+          "friends_count": 1172,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 207,
+          "favorite_count": 1093,
+          "reply_count": 83,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 207,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043424224350785725",
+      "text": "Tesla Cybertruck",
+      "created_at": "Sun Apr 12 20:21:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043300229504524562",
+        "text": "Just completed my longest ever single day road trip in the Cybertruck.\nHere are the stats:\n\n• 946 miles driven from Fort Lauderdale FL to Richmond VA.\n• 17.5 hrs (slow due to Florida traffic)\n• 7 Supercharger stops - total time charging 1hr 53min (avg 16min, longest 23min)\n• $132.40 in Supercharger fees ($0.14 per mile)\n• 100% on FSD\n• WiFi courtesy of Starlink mini \n\nCybertruck is the only vehicle I’d want to try this with. Super easy and comfortable. Kids enjoyed it and were able to watch movies and play computer games against each other thanks to Starlink and the entertainment system.",
+        "created_at": "Sun Apr 12 12:08:32 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043300222114091008",
+            "url": "https://pbs.twimg.com/media/HFtCueSWUAAnQh3.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043300222097375233",
+            "url": "https://pbs.twimg.com/media/HFtCueOXQAE5j1M.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043300222097313792",
+            "url": "https://pbs.twimg.com/media/HFtCueOWUAAcDp5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1664675447458734080",
+          "name": "Darryn Appleton",
+          "screen_name": "DrTeslaFSD",
+          "description": "Cardiologist, Tesla FSD enthusiast, AI watcher, $TSLA bull. Sharing insights on the autonomous future. We, Robot 🤖. Student of Bitcoin",
+          "followers_count": 3398,
+          "friends_count": 768,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 82,
+          "favorite_count": 1169,
+          "reply_count": 171,
+          "quote_count": 15
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 747,
+        "favorite_count": 6797,
+        "reply_count": 664,
+        "quote_count": 31
+      }
+    },
+    {
+      "id": "2043423992623857870",
+      "text": "RT @visegrad24: My grandfather’s brother, David de Villiers, was murdered on his farm when I was 17 years old. \n\nAnd his killer actually wr…",
+      "created_at": "Sun Apr 12 20:20:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043291423416393921",
+        "text": "My grandfather’s brother, David de Villiers, was murdered on his farm when I was 17 years old. \n\nAnd his killer actually wrote in his blood on his wall: “White Devil”,\n\nsays @willempet in an interview with V24 founder @StefanTompson about South Africa. 🇿🇦\nhttps://t.co/2Mf5sZAHTJ",
+        "created_at": "Sun Apr 12 11:33:32 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1882871487234772992",
+            "url": "https://video.twimg.com/amplify_video/1882871487234772992/vid/avc1/848x480/6QwCa3n_bq2zuCh1.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1222773302441148416",
+          "name": "Visegrád 24",
+          "screen_name": "visegrad24",
+          "description": "Aggregating and curating news, politics and current affairs.",
+          "followers_count": 1743947,
+          "friends_count": 2382,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 574,
+          "favorite_count": 2190,
+          "reply_count": 108,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237844479,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 574,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2043420601730375921",
       "text": "Cybertruck is an APC from the future",

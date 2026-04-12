@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207174,
+    "followers_count": 207162,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260412",
-  "last_updated": "2026-04-12T20:10:34.605392",
-  "tweet_count": 4,
+  "last_updated": "2026-04-12T22:10:01.865839",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2043125192545689697",
@@ -188,6 +188,52 @@
         "favorite_count": 3,
         "reply_count": 0,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2043437606038335845",
+      "text": "Chrome DevTools MCP 新增了多项专用调试技能：用 Lighthouse 跑性能审计、检测内存泄漏、无障碍调试、LCP（最大内容绘制，直接影响用户感知到的页面加载速度）优化，以及一个实验性的命令行工具。",
+      "created_at": "Sun Apr 12 21:14:25 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043399706634805682",
+        "text": "Want to give your agent quality checks? \n\nChrome's DevTools MCP now includes:\n\n⚡️ Performance checks via Lighthouse\n📈 Memory leak detection Skill\n🦻 Accessibility debugging Skill\n🎨 LCP optimization Skill\n\nand an experimental new CLI 👀 https://t.co/jOS6z66WtG",
+        "created_at": "Sun Apr 12 18:43:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043393639746056192",
+            "url": "https://video.twimg.com/amplify_video/2043393639746056192/vid/avc1/1920x1080/kftfJQc2KeBDdm7h.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "35432643",
+          "name": "Addy Osmani",
+          "screen_name": "addyosmani",
+          "description": "Director, @GoogleCloud AI. Gemini  ✨ Vertex. Prev: Eng. leader, @GoogleChrome • Author • Great user, developer & AI experiences  • @GoogleAI @GoogleDeepMind",
+          "followers_count": 387138,
+          "friends_count": 2506,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 50,
+          "favorite_count": 378,
+          "reply_count": 12,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 8,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
