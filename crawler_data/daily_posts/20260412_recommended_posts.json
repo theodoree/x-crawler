@@ -1,11 +1,11 @@
 {
   "date": "20260412",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-12T14:16:09.577058",
-  "tweet_count": 243,
-  "unique_tweet_count": 243,
-  "total_crawled": 443,
-  "duplicates_removed": 200,
+  "last_crawl_time": "2026-04-12T16:12:31.945564",
+  "tweet_count": 245,
+  "unique_tweet_count": 245,
+  "total_crawled": 429,
+  "duplicates_removed": 184,
   "tweets": [
     {
       "id": "2043293725804421596",
@@ -13822,6 +13822,92 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2010507437669818783",
+      "text": "小红书\nhttps://t.co/5XxOWvPs6s",
+      "created_at": "Mon Jan 12 00:21:41 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2010497572704501766",
+        "text": "下面是一套提示词，可以把输入内容拆解为小红书风格的系列信息图，输出每张图片的独立生成提示词，将每一张图片提示词放到 Gemini Pro 中用 Nano banana Pro 生成，就可以得到一系列的小红书图片。\n\n你可也可以直接用我分享的 GEM：https://t.co/zxaN5zMPyy\n\n这是一个示例会话：https://t.co/JuN9gpVQNb\n\n这套提示词可以在 Gemini、Claude、ChatGPT 等大模型中使用，帮你生成每一页图片提示词，然后你也可以对生成的图片提示词进行微调。但是画图时还是 nano banana Pro 画图效果最好。\n\n以下是完整提示词（请根据需要酌情修改）：",
+        "created_at": "Sun Jan 11 23:42:29 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2010497430685417472",
+            "url": "https://pbs.twimg.com/media/G-a4wtnXAAAP8yT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 207165,
+          "friends_count": 1601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 216,
+          "favorite_count": 958,
+          "reply_count": 43,
+          "quote_count": 16
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207165,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 19,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "1996285439867556304",
+      "text": "A thread for my nana banana pro prompts 🧵 https://t.co/riAcKUtR6T",
+      "created_at": "Wed Dec 03 18:28:32 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1996285423878799360",
+          "url": "https://pbs.twimg.com/media/G7Q7BCiWAAA-4sc.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207165,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 135,
+        "favorite_count": 1270,
+        "reply_count": 58,
+        "quote_count": 29
       }
     }
   ]
