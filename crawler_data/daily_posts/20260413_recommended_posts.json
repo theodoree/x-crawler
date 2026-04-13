@@ -1,12 +1,257 @@
 {
   "date": "20260413",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-13T18:27:54.783355",
-  "tweet_count": 243,
-  "unique_tweet_count": 243,
-  "total_crawled": 435,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-04-13T20:22:23.995201",
+  "tweet_count": 247,
+  "unique_tweet_count": 247,
+  "total_crawled": 443,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2043777708430414218",
+      "text": "Starlink provides global high-speed, low-latency Internet",
+      "created_at": "Mon Apr 13 19:45:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043776113852530979",
+        "text": "Starlink is becoming the most important nervous system of our planet\n\nWith Starlink, you basically end all dead zones and have full, reliable communications from anywhere on Earth\n\nIf you can see the sky, you can communicate\n\nAlmost every single day, companies around the world are partnering with Starlink to expand services to their users\n\nIt's a system where you can get connected with anyone, making Starlink the most reliable network on Earth",
+        "created_at": "Mon Apr 13 19:39:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043776095208509441",
+            "url": "https://pbs.twimg.com/media/HFzzh7tWkAE2kY6.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 189075,
+          "friends_count": 1721,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 84,
+          "favorite_count": 413,
+          "reply_count": 121,
+          "quote_count": 14
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237905434,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1109,
+        "favorite_count": 8135,
+        "reply_count": 1511,
+        "quote_count": 68
+      }
+    },
+    {
+      "id": "2043776304525521115",
+      "text": "RT @FaraiMazhindu: It is telling that those who oppose Elon Musk's investment in South Africa can offer nothing but hollow insults and chea…",
+      "created_at": "Mon Apr 13 19:40:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043736287237005472",
+        "text": "It is telling that those who oppose Elon Musk's investment in South Africa can offer nothing but hollow insults and cheap propaganda.\n\nThe claim that Starlink is a tool for colonization isn't just daft, it reveals a hilarious level of cognitive shallowness. It proves that the critics don't even understand the technology they are arguing against. \n\nYou cannot stop Musk's brilliance or the massive contributions he's making to humanity. We are simply witnessing a man who refuses to bend to a crooked system that everyone else has already bowed to. \n\nThere is no reason to celebrate a status quo built on clear racism and systemic corruption.",
+        "created_at": "Mon Apr 13 17:01:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043736273634852865",
+            "url": "https://pbs.twimg.com/media/HFzPUAyWAAEYcrk.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2043546269210103908",
+          "text": "The demand for Elon Musk to surrender 30% of his business to operate in South Africa is absurd.\n\nBringing infrastructure, creating high-skill jobs, and expanding the national tax base should be more than enough contribution from any global entity.\n\nThe South African government claims this is about compliance, but in reality, it's a system of state sanctioned theft.\n\nWhile other corporations have quietly paid for political patronage to bypass these rules, Musk is calling out the corruption. This 30% norm hasn't empowered the people, it has simply enriched a circle of political elites.\n\nMost businesses take the easy way out and pay the bribe, but Musk has the integrity to stand his ground and expose the rot.",
+          "created_at": "Mon Apr 13 04:26:12 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1627746561802309637",
+            "name": "Farai Mazhindu",
+            "screen_name": "FaraiMazhindu",
+            "description": "FM",
+            "followers_count": 5153,
+            "friends_count": 336,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 935,
+            "favorite_count": 7336,
+            "reply_count": 1168,
+            "quote_count": 187
+          }
+        },
+        "user": {
+          "id": "1627746561802309637",
+          "name": "Farai Mazhindu",
+          "screen_name": "FaraiMazhindu",
+          "description": "FM",
+          "followers_count": 5153,
+          "friends_count": 336,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 291,
+          "favorite_count": 1523,
+          "reply_count": 268,
+          "quote_count": 34
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237905434,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 291,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043775334471111061",
+      "text": "California legislators are trying to make investigating fraud illegal",
+      "created_at": "Mon Apr 13 19:36:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043756610955423782",
+        "text": "California is trying to pass a bill that would criminalize investigative journalism with misdemeanors, $10,000 fines, imprisonment, and content takedown.\n\nThe proposed bill is titled AB 2624 and was made after I exposed mass fraud by immigrant groups in America.\n\nUnder AB 2624, government-funded entities like the Somali “Learing” Daycare centers would be protected from being exposed if they operated inside California.\n\nThe enemy truly is within. When our politicians would rather protect fraudsters and illegal migrants, it’s time for us to stand up or face mass oppression from the traitors who “rule” over us.",
+        "created_at": "Mon Apr 13 18:22:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043756606824046592",
+            "url": "https://pbs.twimg.com/media/HFzhzj0a4AAOIWt.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "819432501982752768",
+          "name": "Nick shirley",
+          "screen_name": "nickshirleyy",
+          "description": "If you’re reading this hit that follow button. \nTeaching the world to lear 🌎\nBecome a subscriber to support 🙏🏼",
+          "followers_count": 1547387,
+          "friends_count": 938,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 13290,
+          "favorite_count": 42279,
+          "reply_count": 3272,
+          "quote_count": 1503
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237905434,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5601,
+        "favorite_count": 25732,
+        "reply_count": 1805,
+        "quote_count": 245
+      }
+    },
+    {
+      "id": "2043773334983455121",
+      "text": "Grok",
+      "created_at": "Mon Apr 13 19:28:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043762328043434232",
+        "text": "Grok 4.20 Reasoning just took the #1 spot on the BridgeBench reasoning  benchmark. 🔥\n\nBeating GPT-5.4, Claude Opus 4.6, Google Gemini and others.\n\nWeek after week, Grok keeps climbing across benchmarks. 🚀 https://t.co/WnBNrvbQdV",
+        "created_at": "Mon Apr 13 18:44:44 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043762266471067648",
+            "url": "https://video.twimg.com/amplify_video/2043762266471067648/vid/avc1/1080x1080/gh8YYCRV_ofPoOTt.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1840384,
+          "friends_count": 933,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 59,
+          "favorite_count": 390,
+          "reply_count": 150,
+          "quote_count": 21
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237905434,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 670,
+        "favorite_count": 4724,
+        "reply_count": 1171,
+        "quote_count": 36
+      }
+    },
     {
       "id": "2043752638337143191",
       "text": "RT @TheCaptainEli: It’s fascinating how everyone who has something negative to say about Elon Musk bases it entirely on politics or recycle…",
