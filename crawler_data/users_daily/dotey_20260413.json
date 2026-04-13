@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207364,
+    "followers_count": 207382,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260413",
-  "last_updated": "2026-04-13T16:29:11.762868",
-  "tweet_count": 8,
+  "last_updated": "2026-04-13T18:27:54.843139",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2043489520184905828",
@@ -320,6 +320,105 @@
         "favorite_count": 45,
         "reply_count": 22,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2043732168967405787",
+      "text": "澄清一下，这个选项默认确实是关闭的，所以我不认为作者是恶意启用这个功能，可能只是bug或者我自己修改配置导致的 https://t.co/gs5sInuO7X",
+      "created_at": "Mon Apr 13 16:44:54 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043731636702031872",
+          "url": "https://pbs.twimg.com/media/HFzLGG3aMAA1hj1.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043737757915209956",
+      "text": "开发者 Can Vardar 发现，Claude Code 里如果关闭遥测（telemetry，即向 Anthropic 回传使用数据），提示缓存时间会从 1 小时骤降到 5 分钟，他算了笔账说这相当于隐私换 12 倍性能，给 Anthropic 扣了个邪恶公司的帽子。\n\n这条推文传开后，Anthropic 工程师 Boris Cherny 出来做了详细回应。\n\nClaude Code 的缓存策略一直是个黑盒子，Boris 的这条推文把里面的细节讲的比较清楚了，推荐可以仔细看看。\n\n他先澄清了一个误解：1 小时缓存并不是无条件更好。缓存写入成本更高、读取成本更低，划不划算取决于你怎么用。如果你只是跑了一次查询就走了，1 小时缓存反而浪费钱，因为你付了写入的高价却没享受到反复读取的便宜价。\n\n实际上 Anthropic 一直在根据使用场景做精细化调整。比如子任务（subagent）很少被恢复，给它 1 小时缓存纯属白花钱，所以这类查询就保留 5 分钟。API 用户目前也没有默认开启 1 小时缓存，还在测试阶段。\n\n关掉遥测导致缓存变短，Boris 说这其实是个连带效应：遥测关闭后，客户端的实验开关也跟着失效了，系统读到的就是默认值 5 分钟。换句话说，这不是故意惩罚，是技术实现上的耦合问题。\n\nBoris 还透露了后续计划：很快会把部分查询的客户端默认值改成 1 小时，同时提供环境变量让用户自己强制切换 1 小时或 5 分钟。\n\n至于12 倍性能差距，Boris 说远没有那么夸张，实际节省的 Token 量并不大。",
+      "created_at": "Mon Apr 13 17:07:06 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043715713551212834",
+        "text": "👋 1h prompt cache is nuanced actually. It costs more for cache writes, and less for cache reads. Whether you benefit from cheaper cache reads depends on your usage pattern -- context window size, whether the query is the main agent or subagent, etc.\n\nWe have been testing a number of heuristics to give subscribers better prompt cache hit rates, which means lower token usage and lower latency, when it works. But this effect is far from uniform due to the nuance above. Say you use 1h cache for an agent, but only used the agent to make a single query -- in this case the 1h cache would be wasted and you'd be overcharged.\n\nAt this point we have rolled out 1h prompt cache by default in a number of places for subscribers to optimize cache duration based on real usage patterns, but we actually keep it at 5m for many queries also (eg. subagents, which are rarely resumed so you'd be paying for them even though they do not benefit from 1h). We also are not defaulting API customers to 1h yet -- this needs more testing to make sure it's a net improvement on average.\n\nSeparately, when we do this kind of experimentation, we use experiment gates that are cached client-side. When you turn off telemetry we also disable experiment gates -- we do not call home when telemetry is off -- so Claude reads the default value, which is 5m. We will soon be changing the client side default to 1h for a few queries, since we now feel good that it is a small token savings on average for those queries. We will also give you env vars to force 1h and 5m.\n\nIn any case, the token savings is nowhere near 12x unfortunately. It is a small win though, that we have been in the process of rolling out to everyone. Hope the explanation helps.\n\nMore here: https://t.co/06IJFDFvye",
+        "created_at": "Mon Apr 13 15:39:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "159337660",
+          "name": "Boris Cherny",
+          "screen_name": "bcherny",
+          "description": "Claude Code @anthropicai",
+          "followers_count": 396254,
+          "friends_count": 130,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 21,
+          "favorite_count": 492,
+          "reply_count": 24,
+          "quote_count": 8
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 43,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043738054062404029",
+      "text": "推荐配合阅读：\nhttps://t.co/zLsyQds36v",
+      "created_at": "Mon Apr 13 17:08:17 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043463546025992494",
+        "text": "https://t.co/4RgB8oF4DA",
+        "created_at": "Sun Apr 12 22:57:29 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 207382,
+          "friends_count": 1603,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 80,
+          "favorite_count": 410,
+          "reply_count": 31,
+          "quote_count": 14
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
