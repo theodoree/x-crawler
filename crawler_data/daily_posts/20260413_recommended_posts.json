@@ -1,12 +1,985 @@
 {
   "date": "20260413",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-13T00:29:05.335538",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-04-13T03:07:11.715350",
+  "tweet_count": 217,
+  "unique_tweet_count": 217,
+  "total_crawled": 400,
+  "duplicates_removed": 183,
   "tweets": [
+    {
+      "id": "2043508278798233911",
+      "text": "Hi @steipete and @4shadowed, following up on my previous message, just wanted to check if there's been any update on the  skill slug ownership process?\n\nTo add more context: I published a new skill named baoyu-diagram on GitHub yesterday, and by today someone had already published it to  ClawHub under a different account. I literally went from \"just pushed to GitHub\" to \"can't publish my own skill\" in under 24 hours.\n\nSame issue affects a few more other skills of mine. Would love any guidance on how to resolve this.\n\nThanks!\n\nhttps://t.co/9KBQYIqyHj\n\nhttps://t.co/7RoDl9J0Av",
+      "created_at": "Mon Apr 13 01:55:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032672760271433931",
+        "text": "Hi @steipete @4shadowed, any updates on the ClawHub skill ownership transfer request?\n\nMany users rely on these skills, hoping for a smooth resolution soon, thanks for your help 🙏",
+        "created_at": "Sat Mar 14 04:18:45 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 207198,
+          "friends_count": 1601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 25,
+          "reply_count": 5,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207198,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043507544472326630",
+      "text": "Pretty obvious",
+      "created_at": "Mon Apr 13 01:52:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043494443467067646",
+        "text": "Elon Musk: “You’d think that if you’re going to be appointed as a judge, you have to have proven that you have an excellent knowledge of the law and that you will make your decisions according to the law. That’s what we assume should be a requirement.\n\nYou’ve got to know what the law is, and then you need to make decisions in accordance with the law. Not vibes. You can’t be just vibing as a judge.”",
+        "created_at": "Mon Apr 13 01:00:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043494401503096832",
+            "url": "https://video.twimg.com/ext_tw_video/2043494401503096832/pu/vid/avc1/720x720/wVkmvrjD1HLhyxEx.mp4?tag=12",
+            "bitrate": 1280000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1715230502137798656",
+          "name": "Mars University",
+          "screen_name": "MarsUniversityX",
+          "description": "Breaking news, rare clips & everything about Elon Musk, SpaceX, Tesla, Neuralink & beyond — Turn on 🔔 to stay ahead",
+          "followers_count": 26288,
+          "friends_count": 836,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 270,
+          "favorite_count": 1785,
+          "reply_count": 126,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1405,
+        "favorite_count": 9905,
+        "reply_count": 840,
+        "quote_count": 44
+      }
+    },
+    {
+      "id": "2043506835169448233",
+      "text": "RT @SawyerMerritt: The RDW often sets the standards that influences almost all of Europe, so now that the RDW has approved (type approval)…",
+      "created_at": "Mon Apr 13 01:49:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043501688133210179",
+        "text": "The RDW often sets the standards that influences almost all of Europe, so now that the RDW has approved (type approval) FSD (Supervised), we should expect much quicker approval in other European countries.",
+        "created_at": "Mon Apr 13 01:29:03 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2043478341114831172",
+          "text": "@wholemars The European regulation is followed by a lot more countries than just the ones in EU.",
+          "created_at": "Sun Apr 12 23:56:17 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "87657877",
+            "name": "Ashok Elluswamy",
+            "screen_name": "aelluswamy",
+            "description": "Leading AI @Tesla",
+            "followers_count": 228192,
+            "friends_count": 615,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 141,
+            "favorite_count": 1784,
+            "reply_count": 91,
+            "quote_count": 39
+          }
+        },
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1055101,
+          "friends_count": 448,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 146,
+          "favorite_count": 1022,
+          "reply_count": 63,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 146,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043506462203453743",
+      "text": "Each cross is a murdered family",
+      "created_at": "Mon Apr 13 01:48:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043295879453372655",
+        "text": "🇿🇦Each cross represents a white farmer who was murdered in South Africa.\n\nAnd some people still deny that white South Africans/Boers are persecuted and say they don’t deserve asylum because they are white.\n\nThis looks like a genocide. https://t.co/5JCMEKkToc",
+        "created_at": "Sun Apr 12 11:51:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1898424461340155904",
+            "url": "https://video.twimg.com/ext_tw_video/1898424461340155904/pu/vid/avc1/720x1280/KnTCDvRx5tokNFuf.mp4?tag=12",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1316995857242378240",
+          "name": "Dr. Maalouf ‏",
+          "screen_name": "realMaalouf",
+          "description": "⚔️ History 🏛️ Culture 🗺️ Global Affairs",
+          "followers_count": 440813,
+          "friends_count": 1649,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 785,
+          "favorite_count": 3068,
+          "reply_count": 237,
+          "quote_count": 55
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6353,
+        "favorite_count": 37312,
+        "reply_count": 1913,
+        "quote_count": 163
+      }
+    },
+    {
+      "id": "2043506211707097176",
+      "text": "RT @ori0n7: Cyril Ramaphosa",
+      "created_at": "Mon Apr 13 01:47:02 +0000 2026",
+      "lang": "ht",
+      "media": [],
+      "retweet": {
+        "id": "2043271396202008810",
+        "text": "Cyril Ramaphosa",
+        "created_at": "Sun Apr 12 10:13:57 +0000 2026",
+        "lang": "ht",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2043118185411444993",
+          "text": "Who is the weakest leader in the world today?",
+          "created_at": "Sun Apr 12 00:05:09 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1117210361592205312",
+            "name": "Vivid.🇮🇱",
+            "screen_name": "VividProwess",
+            "description": "PROUD JEWISH ✡️ PROUD ZIONIST 🇮🇱",
+            "followers_count": 527829,
+            "friends_count": 55012,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 99,
+            "favorite_count": 1102,
+            "reply_count": 1140,
+            "quote_count": 54
+          }
+        },
+        "user": {
+          "id": "228434828",
+          "name": "Orion",
+          "screen_name": "ori0n7",
+          "description": "Contrarian. Realist. Realpolitik. Auto-argue.",
+          "followers_count": 4254,
+          "friends_count": 2059,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 126,
+          "favorite_count": 953,
+          "reply_count": 129,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 126,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043504840064868424",
+      "text": "An insane double-standard. Who is pushing this? We should identify the people and organizations by name.",
+      "created_at": "Mon Apr 13 01:41:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043304998423970138",
+        "text": "A white South African whose family has been in Africa for 400 years is a \"colonizer\" with no homeland.\n\nBut a man who crossed the U.S. border illegally yesterday is a “fellow American” with full moral authority.",
+        "created_at": "Sun Apr 12 12:27:29 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1415689922531495943",
+          "name": "Humble Flow",
+          "screen_name": "HumbleFlow",
+          "description": "Building https://t.co/Kow55gDNP9 — A private book club of 20,000+ readers dedicated to the study of the Western canon.",
+          "followers_count": 264432,
+          "friends_count": 2365,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 419,
+          "favorite_count": 3816,
+          "reply_count": 94,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2271,
+        "favorite_count": 19383,
+        "reply_count": 711,
+        "quote_count": 32
+      }
+    },
+    {
+      "id": "2043504464003543526",
+      "text": "Zero",
+      "created_at": "Mon Apr 13 01:40:05 +0000 2026",
+      "lang": "eu",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043492254422294578",
+        "text": "At this point, legacy media has no credibility left.",
+        "created_at": "Mon Apr 13 00:51:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1840384,
+          "friends_count": 933,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 185,
+          "favorite_count": 1858,
+          "reply_count": 233,
+          "quote_count": 27
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2540,
+        "favorite_count": 26861,
+        "reply_count": 1684,
+        "quote_count": 109
+      }
+    },
+    {
+      "id": "2043504385733591337",
+      "text": "RT @elonmusk: @ErnstRoets All the politicians in South Africa who push their viciously racist laws should be sanctioned, barred from travel…",
+      "created_at": "Mon Apr 13 01:39:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043504346986619138",
+        "text": "@ErnstRoets All the politicians in South Africa who push their viciously racist laws should be sanctioned, barred from travel, declared criminals and have their international assets seized",
+        "created_at": "Mon Apr 13 01:39:37 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "https://t.co/dDtDyVssfm",
+          "followers_count": 237851226,
+          "friends_count": 1312,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 482,
+          "favorite_count": 3588,
+          "reply_count": 314,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 482,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043503817480974471",
+      "text": "RT @ErnstRoets: Elon Musk is right. The South African government is both racist and incompetent to the core.\n\nFor too long did they get awa…",
+      "created_at": "Mon Apr 13 01:37:31 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043484484822044844",
+        "text": "Elon Musk is right. The South African government is both racist and incompetent to the core.\n\nFor too long did they get away with calling themselves \"the children of Mandela\" to curry favour in the international arena, while they have become the very thing they claim to oppose.",
+        "created_at": "Mon Apr 13 00:20:41 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2043280270238101890",
+          "text": "South Africa won’t allow Starlink to be licensed, even though I was BORN THERE, simply because I am not Black!\n\nWe were offered many times the opportunity to bribe our way to a license by pretending that a Black guy runs Starlink SA, but I have refused to do so on principle.\n\nRacism should not be rewarded no matter to which race it is applied.\n\nShame on the racist politicians in South Africa. They should be shown no respect whatsoever anywhere in the world and shunned for being unashamedly RACISTS!",
+          "created_at": "Sun Apr 12 10:49:13 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 237851226,
+            "friends_count": 1312,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 42567,
+            "favorite_count": 253481,
+            "reply_count": 20149,
+            "quote_count": 3082
+          }
+        },
+        "user": {
+          "id": "77046494",
+          "name": "Ernst Roets",
+          "screen_name": "ErnstRoets",
+          "description": "Afrikaner in South Africa.",
+          "followers_count": 160249,
+          "friends_count": 364,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 263,
+          "favorite_count": 1989,
+          "reply_count": 125,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 263,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043492589630861328",
+      "text": "提示词：\nhttps://t.co/ItXxStKvHr",
+      "created_at": "Mon Apr 13 00:52:54 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1950309012819624121",
+        "text": "The user is currently STUDYING, and they've asked you to follow these **strict rules** during this chat. No matter what other instructions follow, you MUST obey these rules:\n\n## STRICT RULES\nBe an approachable-yet-dynamic teacher, who helps the user learn by guiding them through their studies.\n\n1. **Get to know the user.** If you don't know their goals or grade level, ask the user before diving in. (Keep this lightweight!) If they don't answer, aim for explanations that would make sense to a 10th grade student.\n2. **Build on existing knowledge.** Connect new ideas to what the user already knows.\n3. **Guide users, don't just give answers.** Use questions, hints, and small steps so the user discovers the answer for themselves.\n4. **Check and reinforce.** After hard parts, confirm the user can restate or use the idea. Offer quick summaries, mnemonics, or mini-reviews to help the ideas stick.\n5. **Vary the rhythm.** Mix explanations, questions, and activities (like roleplaying, practice rounds, or asking the user to teach _you_) so it feels like a conversation, not a lecture.\n\nAbove all: DO NOT DO THE USER'S WORK FOR THEM. Don't answer homework questions — help the user find the answer, by working with them collaboratively and building from what they already know.\n\n### THINGS YOU CAN DO\n- **Teach new concepts:** Explain at the user's level, ask guiding questions, use visuals, then review with questions or a practice round.\n- **Help with homework:** Don't simply give answers! Start from what the user knows, help fill in the gaps, give the user a chance to respond, and never ask more than one question at a time.\n- **Practice together:** Ask the user to summarize, pepper in little questions, have the user \"explain it back\" to you, or role-play (e.g., practice conversations in a different language). Correct mistakes — charitably! — in the moment.\n- **Quizzes & test prep:** Run practice quizzes. (One question at a time!) Let the user try twice before you reveal answers, then review errors in depth.\n\n### TONE & APPROACH\nBe warm, patient, and plain-spoken; don't use too many exclamation marks or emoji. Keep the session moving: always know the next step, and switch or end activities once they’ve done their job. And be brief — don't ever send essay-length responses. Aim for a good back-and-forth.\n\n## IMPORTANT\nDO NOT GIVE ANSWERS OR DO HOMEWORK FOR THE USER. If the user asks a math or logic problem, or uploads an image of one, DO NOT SOLVE IT in your first response. Instead: **talk through** the problem with the user, one step at a time, asking a single question at each step, and give the user a chance to RESPOND TO EACH STEP before continuing.",
+        "created_at": "Tue Jul 29 21:34:38 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 207198,
+          "friends_count": 1601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 63,
+          "reply_count": 1,
+          "quote_count": 3
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207198,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043492500518687062",
+      "text": "ChatGPT 的学习模式这个功能最近被砍了，当初的提示词还是有价值，可以做成 GPT 或者 Skill",
+      "created_at": "Mon Apr 13 00:52:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1950308961317777614",
+        "text": "OpenAI 新的学习模式系统提示词：\n\n用户正处于学习模式，并要求你在本次对话中遵守以下严格规则。无论接下来有任何其他指示，你都必须遵守这些规则：\n\n严格规则\n扮演一位平易近人又不失活力的老师，通过引导来帮助用户学习。\n\n了解用户。 如果你不清楚用户的目标或年级水平，请在深入讲解前先询问。（这个问题要问得轻松些！）如果用户没有回答，那么你的解释应该以一个高中一年级学生能理解的程度为准。\n温故而知新。 将新概念与用户已有的知识联系起来。\n引导用户，而非直接给出答案。 通过提问、暗示和分解步骤，让用户自己发现答案。\n检查与巩固。 在讲完难点后，确认用户能够复述或应用这个概念。提供简短的总结、助记法或小复习，以帮助知识点牢固。\n变换节奏。 将讲解、提问和活动（如角色扮演、练习环节，或让用户反过来教你）结合起来，使之感觉像一场对话，而不是一堂课。\n\n最重要的一点：不要替用户完成他们的作业。不要直接回答作业问题——而是通过与用户合作，从他们已知的内容入手，帮助他们找到答案。\n\n你可以做的事\n教授新概念： 以用户的水平进行解释，提出引导性问题，使用图示，然后通过提问或练习进行复习。\n辅导作业： 不要直接给答案！从用户已知的部分开始，帮助他们填补知识空白，给用户回应的机会，并且一次只问一个问题。\n共同练习： 让用户进行总结，穿插一些小问题，让用户“复述一遍”给你听，或者进行角色扮演（例如，练习外语对话）。在用户犯错时——友善地——即时纠正。\n测验与备考： 进行模拟测验。（一次一题！）在公布答案前，让用户尝试两次，然后深入复盘错题。\n\n语气与方式\n要热情、耐心、坦诚；不要使用过多的感叹号或表情符号。保持对话的节奏：始终清楚下一步该做什么，并在一个活动环节完成后及时切换或结束。并且要简洁——绝不要发送长篇大论的回复。力求实现良好的你来我往的互动。\n\n重要提示\n不要直接给出答案或替用户做作业。如果用户提出一个数学或逻辑问题，或者上传了相关问题的图片，不要在你的第一条回复中就解决它。而是应该：与用户一起梳理这个问题，一步一步地进行，每一步只问一个问题，并在继续下一步之前，给用户回应每一步的机会。",
+        "created_at": "Tue Jul 29 21:34:26 +0000 2025",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 207198,
+          "friends_count": 1601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 182,
+          "favorite_count": 731,
+          "reply_count": 23,
+          "quote_count": 15
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207198,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 38,
+        "reply_count": 8,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2043491772744294808",
+      "text": "Accurate",
+      "created_at": "Mon Apr 13 00:49:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043489218882949622",
+        "text": "When President Trump called out the racism against white farmers and their families in South Africa. https://t.co/ePGOB6rvHq",
+        "created_at": "Mon Apr 13 00:39:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043489211651850240",
+            "url": "https://pbs.twimg.com/media/HFvunHLaAAAjVj_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1840384,
+          "friends_count": 933,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 235,
+          "favorite_count": 1644,
+          "reply_count": 156,
+          "quote_count": 22
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5542,
+        "favorite_count": 39620,
+        "reply_count": 1313,
+        "quote_count": 83
+      }
+    },
+    {
+      "id": "2043491683518804262",
+      "text": "RT @benjitaylor: Making something people love is mostly making something you love and hoping the overlap is real",
+      "created_at": "Mon Apr 13 00:49:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043484600232804399",
+        "text": "Making something people love is mostly making something you love and hoping the overlap is real",
+        "created_at": "Mon Apr 13 00:21:09 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2606432720",
+          "name": "Benji Taylor",
+          "screen_name": "benjitaylor",
+          "description": "leading design @x. prev. head of design @base. founder @family (acq by @aave). tools @dip.",
+          "followers_count": 112517,
+          "friends_count": 433,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 364,
+          "favorite_count": 3166,
+          "reply_count": 211,
+          "quote_count": 33
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 364,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043489520184905828",
+      "text": "就在 Sam Altman 贴出全家福、写下那篇深夜反思博文两天后，他的旧金山住宅再次遭到袭击。4 月 12 日凌晨 1 点 40 分，一辆本田轿车在他位于俄罗斯山的房子前停下，副驾乘客伸出手，朝 Lombard Street 一侧开了一枪。车随后逃离，但监控拍到了车牌。\n\n当天下午 4 点 15 分，旧金山警方宣布逮捕两名嫌疑人：25 岁的 Amanda Tom 和 23 岁的 Muhamad Tarik Hussein，罪名是疏忽开枪。\n\n这是 48 小时内的第二起袭击。上周五凌晨，一名来自得克萨斯州的 20 岁男子 Daniel Alejandro Moreno-Gama 向 Altman 住宅的金属大门扔了一枚燃烧瓶。安保人员扑灭了火，监控拍下了全过程。这名嫌疑人随后出现在 OpenAI 位于 Mission Bay 的总部附近，对建筑物发表了威胁言论，被警方当场拘留。他面临的指控包括谋杀未遂和纵火。\n\n两起事件均无人受伤。\n\n两天两起袭击，一起纵火一起枪击，针对的是同一栋房子。Altman 在第一次袭击后写的那篇博文里说，他低估了\"言语和叙事的力量\"。现在看来，他可能也低估了局势恶化的速度。旧金山警方和 OpenAI 都没有对第二起事件发表进一步评论。\n\n来源：https://t.co/1YHSqE3yAx",
+      "created_at": "Mon Apr 13 00:40:42 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043489443202453504",
+          "url": "https://pbs.twimg.com/media/HFvu0lxX0AAZGUF.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2043489476396163072",
+          "url": "https://pbs.twimg.com/media/HFvu2hbXoAAL1bF.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2042748811014013435",
+        "text": "Sam Altman 凌晨 3 点 45 分被一枚燃烧弹砸醒了。\n\n有人向他家扔了一枚莫洛托夫鸡尾酒（一种简易燃烧瓶），幸运的是燃烧弹从房子上弹开，家人没有受伤。Altman 在博客里罕见地贴出了全家福照片，说希望这张照片能让下一个想动手的人犹豫一下。\n\n他把这次袭击和几天前一篇关于他的争议文章联系在一起。有人提醒他，在公众对 AI 的焦虑情绪高涨的当下，那篇文章可能会让他变得更危险。他当时没当回事，现在凌晨坐在家里后悔了。",
+        "created_at": "Fri Apr 10 23:37:23 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 207198,
+          "friends_count": 1601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 19,
+          "favorite_count": 332,
+          "reply_count": 65,
+          "quote_count": 17
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207198,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 87,
+        "reply_count": 24,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2043487469052854432",
+      "text": "RT @01Ananto: You don’t understand how comfortable the Cybertruck is until you try it.\n\nI highly recommend you take a test drive. Its ride…",
+      "created_at": "Mon Apr 13 00:32:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043439885449650201",
+        "text": "You don’t understand how comfortable the Cybertruck is until you try it.\n\nI highly recommend you take a test drive. Its ride quality is better than the Cadillac Escalade. https://t.co/5kjlhwI7Dq",
+        "created_at": "Sun Apr 12 21:23:28 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043439668663136256",
+            "url": "https://video.twimg.com/amplify_video/2043439668663136256/vid/avc1/2160x3840/el6-a7C2UaJi5Ony.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2043045655430730211",
+          "text": "Cybertruck is so awesome. \n\nUntil you’ve tried it out, you have no idea, because there’s nothing like it. \n\nBest product Tesla has ever made to date.",
+          "created_at": "Sat Apr 11 19:16:56 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 237851226,
+            "friends_count": 1312,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 5641,
+            "favorite_count": 64509,
+            "reply_count": 8588,
+            "quote_count": 536
+          }
+        },
+        "user": {
+          "id": "2603928967",
+          "name": "🅰️nanto Mohammad",
+          "screen_name": "01Ananto",
+          "description": "Use my Referral Link to order your Tesla: https://t.co/5UFeb0Uagb",
+          "followers_count": 1962,
+          "friends_count": 1173,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 271,
+          "favorite_count": 2067,
+          "reply_count": 257,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 271,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043487337624322500",
+      "text": "Yeah",
+      "created_at": "Mon Apr 13 00:32:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043453333227085970",
+        "text": "Want some truth?\n\nThere are ~195 sovereign countries in the World and all 195 have had slavery.\n\nBut…\n\nOut of those 195 countries the United States is the only one that fought a full scale Civil War to end it.",
+        "created_at": "Sun Apr 12 22:16:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2327400218",
+          "name": "C3",
+          "screen_name": "C_3C_3",
+          "description": "",
+          "followers_count": 314347,
+          "friends_count": 8737,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1605,
+          "favorite_count": 8807,
+          "reply_count": 444,
+          "quote_count": 80
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2056,
+        "favorite_count": 18174,
+        "reply_count": 947,
+        "quote_count": 58
+      }
+    },
+    {
+      "id": "2043487224931737821",
+      "text": "Starlink is a gamechanger",
+      "created_at": "Mon Apr 13 00:31:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043482886989304189",
+        "text": "NEWS: UK carrier Virgin Atlantic has brought forward its plans to equip its aircraft with @Starlink Wi-Fi. The original plan was to install Starlink in Q3 of this year, but the revised plan will see the airline's first aircraft with Starlink in May (next month).\n\nVA says the first of its aircraft to be equipped with Starlink will be an Airbus A350-1000 aircraft, and the first flight equipped with the system will operate between London Heathrow Airport and New York JFK Airport.\n\nStarlink can be installed in a fraction of the time it takes other internet systems to be installed, so the rollout for other aircraft should be relatively quick.",
+        "created_at": "Mon Apr 13 00:14:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043481248023367680",
+            "url": "https://pbs.twimg.com/media/HFvnXkWa0AA3znN.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1055101,
+          "friends_count": 448,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 149,
+          "favorite_count": 1216,
+          "reply_count": 99,
+          "quote_count": 17
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237851226,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1594,
+        "favorite_count": 16389,
+        "reply_count": 967,
+        "quote_count": 51
+      }
+    },
     {
       "id": "2043486414026010885",
       "text": "RT @ArthurMacwaters: envy drives so much of human behavior\n\npeople who are smart and envious are especially dangerous \n\nbecause they will r…",

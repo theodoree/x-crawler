@@ -1,0 +1,182 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 207198,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260413",
+  "last_updated": "2026-04-13T03:07:11.742582",
+  "tweet_count": 4,
+  "tweets": [
+    {
+      "id": "2043489520184905828",
+      "text": "就在 Sam Altman 贴出全家福、写下那篇深夜反思博文两天后，他的旧金山住宅再次遭到袭击。4 月 12 日凌晨 1 点 40 分，一辆本田轿车在他位于俄罗斯山的房子前停下，副驾乘客伸出手，朝 Lombard Street 一侧开了一枪。车随后逃离，但监控拍到了车牌。\n\n当天下午 4 点 15 分，旧金山警方宣布逮捕两名嫌疑人：25 岁的 Amanda Tom 和 23 岁的 Muhamad Tarik Hussein，罪名是疏忽开枪。\n\n这是 48 小时内的第二起袭击。上周五凌晨，一名来自得克萨斯州的 20 岁男子 Daniel Alejandro Moreno-Gama 向 Altman 住宅的金属大门扔了一枚燃烧瓶。安保人员扑灭了火，监控拍下了全过程。这名嫌疑人随后出现在 OpenAI 位于 Mission Bay 的总部附近，对建筑物发表了威胁言论，被警方当场拘留。他面临的指控包括谋杀未遂和纵火。\n\n两起事件均无人受伤。\n\n两天两起袭击，一起纵火一起枪击，针对的是同一栋房子。Altman 在第一次袭击后写的那篇博文里说，他低估了\"言语和叙事的力量\"。现在看来，他可能也低估了局势恶化的速度。旧金山警方和 OpenAI 都没有对第二起事件发表进一步评论。\n\n来源：https://t.co/1YHSqE3yAx",
+      "created_at": "Mon Apr 13 00:40:42 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043489443202453504",
+          "url": "https://pbs.twimg.com/media/HFvu0lxX0AAZGUF.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2043489476396163072",
+          "url": "https://pbs.twimg.com/media/HFvu2hbXoAAL1bF.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2042748811014013435",
+        "text": "Sam Altman 凌晨 3 点 45 分被一枚燃烧弹砸醒了。\n\n有人向他家扔了一枚莫洛托夫鸡尾酒（一种简易燃烧瓶），幸运的是燃烧弹从房子上弹开，家人没有受伤。Altman 在博客里罕见地贴出了全家福照片，说希望这张照片能让下一个想动手的人犹豫一下。\n\n他把这次袭击和几天前一篇关于他的争议文章联系在一起。有人提醒他，在公众对 AI 的焦虑情绪高涨的当下，那篇文章可能会让他变得更危险。他当时没当回事，现在凌晨坐在家里后悔了。",
+        "created_at": "Fri Apr 10 23:37:23 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 207198,
+          "friends_count": 1601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 19,
+          "favorite_count": 332,
+          "reply_count": 65,
+          "quote_count": 17
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 87,
+        "reply_count": 24,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2043492500518687062",
+      "text": "ChatGPT 的学习模式这个功能最近被砍了，当初的提示词还是有价值，可以做成 GPT 或者 Skill",
+      "created_at": "Mon Apr 13 00:52:33 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1950308961317777614",
+        "text": "OpenAI 新的学习模式系统提示词：\n\n用户正处于学习模式，并要求你在本次对话中遵守以下严格规则。无论接下来有任何其他指示，你都必须遵守这些规则：\n\n严格规则\n扮演一位平易近人又不失活力的老师，通过引导来帮助用户学习。\n\n了解用户。 如果你不清楚用户的目标或年级水平，请在深入讲解前先询问。（这个问题要问得轻松些！）如果用户没有回答，那么你的解释应该以一个高中一年级学生能理解的程度为准。\n温故而知新。 将新概念与用户已有的知识联系起来。\n引导用户，而非直接给出答案。 通过提问、暗示和分解步骤，让用户自己发现答案。\n检查与巩固。 在讲完难点后，确认用户能够复述或应用这个概念。提供简短的总结、助记法或小复习，以帮助知识点牢固。\n变换节奏。 将讲解、提问和活动（如角色扮演、练习环节，或让用户反过来教你）结合起来，使之感觉像一场对话，而不是一堂课。\n\n最重要的一点：不要替用户完成他们的作业。不要直接回答作业问题——而是通过与用户合作，从他们已知的内容入手，帮助他们找到答案。\n\n你可以做的事\n教授新概念： 以用户的水平进行解释，提出引导性问题，使用图示，然后通过提问或练习进行复习。\n辅导作业： 不要直接给答案！从用户已知的部分开始，帮助他们填补知识空白，给用户回应的机会，并且一次只问一个问题。\n共同练习： 让用户进行总结，穿插一些小问题，让用户“复述一遍”给你听，或者进行角色扮演（例如，练习外语对话）。在用户犯错时——友善地——即时纠正。\n测验与备考： 进行模拟测验。（一次一题！）在公布答案前，让用户尝试两次，然后深入复盘错题。\n\n语气与方式\n要热情、耐心、坦诚；不要使用过多的感叹号或表情符号。保持对话的节奏：始终清楚下一步该做什么，并在一个活动环节完成后及时切换或结束。并且要简洁——绝不要发送长篇大论的回复。力求实现良好的你来我往的互动。\n\n重要提示\n不要直接给出答案或替用户做作业。如果用户提出一个数学或逻辑问题，或者上传了相关问题的图片，不要在你的第一条回复中就解决它。而是应该：与用户一起梳理这个问题，一步一步地进行，每一步只问一个问题，并在继续下一步之前，给用户回应每一步的机会。",
+        "created_at": "Tue Jul 29 21:34:26 +0000 2025",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 207198,
+          "friends_count": 1601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 182,
+          "favorite_count": 731,
+          "reply_count": 23,
+          "quote_count": 15
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 38,
+        "reply_count": 8,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2043492589630861328",
+      "text": "提示词：\nhttps://t.co/ItXxStKvHr",
+      "created_at": "Mon Apr 13 00:52:54 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1950309012819624121",
+        "text": "The user is currently STUDYING, and they've asked you to follow these **strict rules** during this chat. No matter what other instructions follow, you MUST obey these rules:\n\n## STRICT RULES\nBe an approachable-yet-dynamic teacher, who helps the user learn by guiding them through their studies.\n\n1. **Get to know the user.** If you don't know their goals or grade level, ask the user before diving in. (Keep this lightweight!) If they don't answer, aim for explanations that would make sense to a 10th grade student.\n2. **Build on existing knowledge.** Connect new ideas to what the user already knows.\n3. **Guide users, don't just give answers.** Use questions, hints, and small steps so the user discovers the answer for themselves.\n4. **Check and reinforce.** After hard parts, confirm the user can restate or use the idea. Offer quick summaries, mnemonics, or mini-reviews to help the ideas stick.\n5. **Vary the rhythm.** Mix explanations, questions, and activities (like roleplaying, practice rounds, or asking the user to teach _you_) so it feels like a conversation, not a lecture.\n\nAbove all: DO NOT DO THE USER'S WORK FOR THEM. Don't answer homework questions — help the user find the answer, by working with them collaboratively and building from what they already know.\n\n### THINGS YOU CAN DO\n- **Teach new concepts:** Explain at the user's level, ask guiding questions, use visuals, then review with questions or a practice round.\n- **Help with homework:** Don't simply give answers! Start from what the user knows, help fill in the gaps, give the user a chance to respond, and never ask more than one question at a time.\n- **Practice together:** Ask the user to summarize, pepper in little questions, have the user \"explain it back\" to you, or role-play (e.g., practice conversations in a different language). Correct mistakes — charitably! — in the moment.\n- **Quizzes & test prep:** Run practice quizzes. (One question at a time!) Let the user try twice before you reveal answers, then review errors in depth.\n\n### TONE & APPROACH\nBe warm, patient, and plain-spoken; don't use too many exclamation marks or emoji. Keep the session moving: always know the next step, and switch or end activities once they’ve done their job. And be brief — don't ever send essay-length responses. Aim for a good back-and-forth.\n\n## IMPORTANT\nDO NOT GIVE ANSWERS OR DO HOMEWORK FOR THE USER. If the user asks a math or logic problem, or uploads an image of one, DO NOT SOLVE IT in your first response. Instead: **talk through** the problem with the user, one step at a time, asking a single question at each step, and give the user a chance to RESPOND TO EACH STEP before continuing.",
+        "created_at": "Tue Jul 29 21:34:38 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 207198,
+          "friends_count": 1601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 63,
+          "reply_count": 1,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043508278798233911",
+      "text": "Hi @steipete and @4shadowed, following up on my previous message, just wanted to check if there's been any update on the  skill slug ownership process?\n\nTo add more context: I published a new skill named baoyu-diagram on GitHub yesterday, and by today someone had already published it to  ClawHub under a different account. I literally went from \"just pushed to GitHub\" to \"can't publish my own skill\" in under 24 hours.\n\nSame issue affects a few more other skills of mine. Would love any guidance on how to resolve this.\n\nThanks!\n\nhttps://t.co/9KBQYIqyHj\n\nhttps://t.co/7RoDl9J0Av",
+      "created_at": "Mon Apr 13 01:55:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032672760271433931",
+        "text": "Hi @steipete @4shadowed, any updates on the ClawHub skill ownership transfer request?\n\nMany users rely on these skills, hoping for a smooth resolution soon, thanks for your help 🙏",
+        "created_at": "Sat Mar 14 04:18:45 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 207198,
+          "friends_count": 1601,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 25,
+          "reply_count": 5,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    }
+  ]
+}
