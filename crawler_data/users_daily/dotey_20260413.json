@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207212,
+    "followers_count": 207237,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260413",
-  "last_updated": "2026-04-13T05:05:12.943856",
-  "tweet_count": 5,
+  "last_updated": "2026-04-13T06:46:08.176061",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2043489520184905828",
@@ -213,6 +213,45 @@
       "stats": {
         "retweet_count": 0,
         "favorite_count": 3,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043574118759481773",
+      "text": "AI 辅助学习，重点不在提示词，在于让 AI 按照你能看懂的难度输出，不清楚反复追问，帮你从不同的角度分析查漏补缺",
+      "created_at": "Mon Apr 13 06:16:52 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043555868902637845",
+        "text": "https://t.co/nnEQCW6HJr",
+        "created_at": "Mon Apr 13 05:04:21 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1492195583699951620",
+          "name": "数字生命卡兹克",
+          "screen_name": "Khazix0918",
+          "description": "愿我们永远对世界保持好奇。\n公众号：数字生命卡兹克",
+          "followers_count": 39620,
+          "friends_count": 145,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 12,
+          "favorite_count": 118,
+          "reply_count": 7,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 24,
         "reply_count": 2,
         "quote_count": 0
       }
