@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207237,
+    "followers_count": 207268,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260413",
-  "last_updated": "2026-04-13T06:46:08.176061",
-  "tweet_count": 6,
+  "last_updated": "2026-04-13T08:44:13.528554",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2043489520184905828",
@@ -254,6 +254,51 @@
         "favorite_count": 24,
         "reply_count": 2,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2043588734952563180",
+      "text": "Cursor Agent 3.0 被曝“套壳” Claude Code，官方回应称为小范围测试\n\nCursor 的新版 Agent 被曝出“套壳”了 Anthropic 的底层技术。开发者逆向分析发现，Cursor 3.0 版本在本地运行了一个替换引擎，简单粗暴地把系统提示词和消息里的“Claude”字眼全部替换成了“Cursor”。其安装包里直接内置了 Anthropic 官方的 Agent 开发工具，并接入了一个专门为 Cursor 微调的 Claude 3.7 模型。\n\n面对社区的质疑，Cursor 团队成员 Michael Truell 迅速给出了澄清。他表示这只是一次常规的 A/B 性能测试，目的是对比评估 Claude 官方框架和 Cursor 默认框架的优劣。这次测试非常隐蔽，只覆盖了不到 1% 的流量。\n\nMichael 说的应该是事实，只是这种形式爆出来还是有点尴尬 😅",
+      "created_at": "Mon Apr 13 07:14:57 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043587733948411904",
+          "url": "https://pbs.twimg.com/media/HFxIN3VXMAAnEio.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2043435856849940818",
+        "text": "Delved into Cursor 3.0 -- turns out there's some interesting shenanigans going on....\n\n\"The most newsworthy finding is that \"Cursor Agent\" is a rebranded Claude Code running behind a local proxy with a find-and-replace engine that swaps \"Claude\"→\"Cursor\" in system prompts and messages. \nThey bundle the full @anthropic-ai/claude-agent-sdk and  @anthropic-ai/claude-code packages, plus a custom fine-tuned model  (claude-3.7-sonnet-finetuned-cursor-20250514-v1)\"\n\nFull report https://t.co/AaGPQIxUNz",
+        "created_at": "Sun Apr 12 21:07:28 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6392872",
+          "name": "Jason Kneen",
+          "screen_name": "jasonkneen",
+          "description": "R&D AI Labs — @restreamio @EmergentLabs @blackboxai @Scobleizer. @huggiapp @moltrats @vibeclawdev \n\n@cursorbuddyapp",
+          "followers_count": 26478,
+          "friends_count": 2103,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 25,
+          "favorite_count": 407,
+          "reply_count": 32,
+          "quote_count": 22
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 35,
+        "reply_count": 9,
+        "quote_count": 8
       }
     }
   ]

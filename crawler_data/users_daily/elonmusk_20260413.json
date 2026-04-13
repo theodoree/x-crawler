@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237853382,
+    "followers_count": 237858848,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260413",
-  "last_updated": "2026-04-13T06:46:08.150081",
-  "tweet_count": 27,
+  "last_updated": "2026-04-13T08:44:13.535387",
+  "tweet_count": 28,
   "tweets": [
     {
       "id": "2043486414026010885",
@@ -1371,6 +1371,51 @@
       "quoted": null,
       "stats": {
         "retweet_count": 4699,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043583968617058334",
+      "text": "RT @XFreeze: Most people still think overpopulation is the problem. It's not\n\nJapan lost nearly 1 million people in 2025 alone and only rec…",
+      "created_at": "Mon Apr 13 06:56:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043582845583606155",
+        "text": "Most people still think overpopulation is the problem. It's not\n\nJapan lost nearly 1 million people in 2025 alone and only recorded 705,809 births in 2025 hitting a new record low for the 10th consecutive year - that's just the beginning\n\nPopulation collapse is a far greater threat to humanity than anything...\n\nNo humans = no innovation, no progress, no future\n\nIf we don't have enough people to carry the torch of reason forward, the universe goes dark Permanently\n\nWe need to start fixing this now by actually valuing excellence and the people who push humanity ahead...",
+        "created_at": "Mon Apr 13 06:51:32 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043582055515054080",
+            "url": "https://pbs.twimg.com/media/HFxDDVhWYAASmvy.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 188743,
+          "friends_count": 1721,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 328,
+          "favorite_count": 1558,
+          "reply_count": 443,
+          "quote_count": 35
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 328,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
