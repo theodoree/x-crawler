@@ -1,12 +1,61 @@
 {
   "date": "20260413",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-13T03:07:11.715350",
-  "tweet_count": 217,
-  "unique_tweet_count": 217,
-  "total_crawled": 400,
-  "duplicates_removed": 183,
+  "last_crawl_time": "2026-04-13T05:05:12.913930",
+  "tweet_count": 218,
+  "unique_tweet_count": 218,
+  "total_crawled": 417,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2043538751561814213",
+      "text": "至于 Plan 后是否新开 session，要综合来看：\n从效果来说，通常新 session 更好，因为上下文更少更相关\n\n从省token来说，同一个session节约，因为该有的信息基本都有了\n\n如果cache过期了，就开新的吧\n\nhttps://t.co/Ooqv739PRE",
+      "created_at": "Mon Apr 13 03:56:20 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043537859559543176",
+        "text": "@dotey 以claude code中常见的先分析-写plan-执行这个流程来说，如果用的的opus 1M，是cc写好了implementation plan后刻意去开个新session来执行更好还是就在当前session执行更好啊？",
+        "created_at": "Mon Apr 13 03:52:47 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2833481",
+          "name": "RichChat",
+          "screen_name": "richardchang",
+          "description": "Tech enthusiast | AI aficionado | Sharing original insights on AI trends, tools, and applications |  分享AI趋势、工具及应用的原创见解，欢迎关注和交流 | 公众号 - 檬查查",
+          "followers_count": 1593,
+          "friends_count": 552,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207212,
+        "friends_count": 1601,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2043508278798233911",
       "text": "Hi @steipete and @4shadowed, following up on my previous message, just wanted to check if there's been any update on the  skill slug ownership process?\n\nTo add more context: I published a new skill named baoyu-diagram on GitHub yesterday, and by today someone had already published it to  ClawHub under a different account. I literally went from \"just pushed to GitHub\" to \"can't publish my own skill\" in under 24 hours.\n\nSame issue affects a few more other skills of mine. Would love any guidance on how to resolve this.\n\nThanks!\n\nhttps://t.co/9KBQYIqyHj\n\nhttps://t.co/7RoDl9J0Av",
