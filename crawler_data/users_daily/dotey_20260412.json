@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207162,
+    "followers_count": 207167,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260412",
-  "last_updated": "2026-04-12T22:10:01.865839",
-  "tweet_count": 5,
+  "last_updated": "2026-04-13T00:29:05.392180",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2043125192545689697",
@@ -234,6 +234,67 @@
         "favorite_count": 8,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2043463546025992494",
+      "text": "https://t.co/4RgB8oF4DA",
+      "created_at": "Sun Apr 12 22:57:29 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 97,
+        "reply_count": 5,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2043464825087619284",
+      "text": "机器人公司找到了一种收集训练数据的廉价方案：给印度工厂工人戴上头戴摄像头，把他们每天的操作过程全程录下来。\n\n大语言模型可以从互联网上海量的文本中学习，机器人不行。机器人需要的是具身数据（embodied data），也就是真实世界里手怎么伸、腕怎么转、东西滑落了怎么接、布料怎么折叠、工具卡住了怎么处理。这些数据极度稀缺，因为现实世界又慢又乱又贵。\n\n自建机器人车队来采集？买得起养不起，还危险。用远程操控让人类引导机器人动作？每分钟都在烧硬件、操作员和校准成本。所以公司们退而求其次，去找最便宜的替代方案。\n\n工人的第一人称视频当然不等于机器人的动作数据，但它能捕捉到操作顺序、身体姿态、双手配合，以及那些让熟练工作看起来毫不费力的微调整。这些信息对训练模型仍然有价值。\n\n换个角度看，机器人领域真正的前沿竞争，可能就是看谁能更高效地采集现实的数据。仓库、工厂、厨房、维修台，这些地方之所以重要，是因为它们是人类与物理世界反复接触的高密度场景，恰好是机器人最缺的东西。\n\n工人的劳动被用了两次，第一次是干活本身，第二次是变成训练数据。而在具身数据的采集成本降下来之前，机器人会一直先向工人学习，然后再考虑取代他们。",
+      "created_at": "Sun Apr 12 23:02:34 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043403127777587563",
+        "text": "Indian factory workers wear head-mounted cameras to capture data for training robotics AI models.\n\nThis image captures a blunt truth about robotics: teaching a machine to move in the real world is still painfully expensive.\n\nWhat looks dystopian at first is also a clue about the bottleneck.\n\nRobots do not learn useful physical behavior from internet-scale text the way language models do.\n\nThey need embodied data: hands reaching, wrists turning, objects slipping, fabric folding, tools resisting, people recovering from small mistakes in real time.\n\nThat data is rare because reality is slow, messy, and costly.\n\nA robot fleet is expensive to buy, expensive to maintain, hard to supervise, and dangerous to scale in uncontrolled settings.\n\nEven teleoperation is costly, because every minute of human-guided movement requires hardware, operators, calibration, and failure recovery.\n\nSo companies go looking for the cheapest possible proxy for physical intelligence.\n\nFirst-person video from factory workers is not the same as robot action data, but it can still be valuable because it captures sequencing, posture, bimanual coordination, and the micro-adjustments that make real work look easy.\n\nThe frontier in robotics is not just better models.\n\nIt is better pipelines for collecting reality itself.\n\nThat is why warehouses, factories, kitchens, and repair benches matter so much: they are dense environments of repeated contact with the physical world, which is exactly what robots lack.\n\nThe unsettling part is that this turns human labor into training infrastructure twice over, first as work, then as data.\n\nAnd until embodied data becomes cheaper to gather than human motion is to record, robotics will keep learning from workers before it fully replaces them.",
+        "created_at": "Sun Apr 12 18:57:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043402988438552576",
+            "url": "https://video.twimg.com/amplify_video/2043402988438552576/vid/avc1/478x852/wRh8gC4UosI2HtT3.mp4?tag=21",
+            "bitrate": 950000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2588345408",
+          "name": "Rohan Paul",
+          "screen_name": "rohanpaul_ai",
+          "description": "Compiling in real-time, the race towards AGI.\n\nThe Largest Show on X for AI.\n\n🗞️ Get my daily AI analysis newsletter to your email  👉 https://t.co/6LBxO8215l",
+          "followers_count": 144620,
+          "friends_count": 7432,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 11,
+          "favorite_count": 84,
+          "reply_count": 8,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 35,
+        "reply_count": 7,
+        "quote_count": 1
       }
     }
   ]
