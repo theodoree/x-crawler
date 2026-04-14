@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207524,
+    "followers_count": 207547,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260414",
-  "last_updated": "2026-04-14T06:38:47.289947",
-  "tweet_count": 6,
+  "last_updated": "2026-04-14T08:36:08.047843",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2043855999648379333",
@@ -328,6 +328,111 @@
         "favorite_count": 48,
         "reply_count": 6,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2043953753921847582",
+      "text": "https://t.co/RHdIs6xzUk",
+      "created_at": "Tue Apr 14 07:25:24 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 43,
+        "reply_count": 3,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2043957913480253917",
+      "text": "RT @anorth_chen: @dotey 悲观者正确，乐观者前行。\n宝玉老师提出了很多条质疑的点，本着严谨交流的态度，我不介意一一回复。\n\n这篇文章内容涵盖了大量软件工程，因为我们希望把自己AI First如何实践落地的理念分享出来，而不仅仅是一些形而上concept的内…",
+      "created_at": "Tue Apr 14 07:41:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2043956253836386618",
+        "text": "悲观者正确，乐观者前行。\n宝玉老师提出了很多条质疑的点，本着严谨交流的态度，我不介意一一回复。\n\n这篇文章内容涵盖了大量软件工程，因为我们希望把自己AI First如何实践落地的理念分享出来，而不仅仅是一些形而上concept的内容。至于其他AI First的实践，由于篇幅和文章重点无法涵盖所有。\n\n第一，AI提交代码是不需要全部人工回归一遍的。我们会拆细每次PR的影响范围，基本都只会涉及某个功能模块，而不是大范围的修改，这在手写代码时也是基本的软件开发协作规范。\n在符合软件工程协作规范下的情况下，AI提交的代码修改完全可以被自动化测试覆盖，不需要担心它会搞崩别的功能。\n\n第二，我们中间的测试/审查/发布确实做到了全部自动化跑通了，所以我们做到了今天这个迭代效率。\n\n第三，我们每次A/B测试的线上监控基础设施也都是完善的，有充足的数据支撑我们做判断。我建议你学习了解下statsig。\n\n第四，你为什么会把大而模糊的任务丢给AI？这个问题非常奇怪，我相信如果你做过管理，也不会把大而模糊，自己都没想清楚的任务丢给员工吧。\n\n第五，系统架构的设计是任何软件工程团队的基本功了，拿出这一条来悲观质疑真的很像在抬杠。\n\n结论是，我们全都做到了。\n\n关于你提到的claude code和codex团队是否有这么搞的问题，事实上我们就是观察到了claude团队极其夸张的迭代效率，以及OpenAI工程团队在今年二月份的分享得到的灵感：https://t.co/ym1wzNQOX5…\n你觉得他们有没有也在用这一套呢？为什么你如此笃定AI交付和功能质量必然在对立面？\n\n我们的分享来自于团队脚踏实地实践后的经验，关于我们目前做到了怎样的迭代效率，请看产品changelog：https://t.co/JyZwCJnvLt…",
+        "created_at": "Tue Apr 14 07:35:20 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1744746496535539712",
+          "name": "North@CreaoAI",
+          "screen_name": "anorth_chen",
+          "description": "ENTJ, Head of Community @CreaoAI | 2021 CS Bachelor (Focus in AI) @UofT | Crypto Trader | Before: Ex Technical Specialist @AlibabaGroup; Web3 Innovator",
+          "followers_count": 3233,
+          "friends_count": 472,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 14,
+          "reply_count": 2,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043962393085059347",
+      "text": "RT @op7418: Gemini 真是做设计的一把好手，尤其是用 SVG 画 logo\n\n只要给一些适当的引导就可以画的很好\n\n给 Codepilot  的新 logo SVG 的部分也是他完成的，我自己在基础上精修 https://t.co/FXImDddv81",
+      "created_at": "Tue Apr 14 07:59:44 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043722653715013632",
+          "url": "https://pbs.twimg.com/media/HFzC7OoaIAAieQH.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2043722921856860201",
+        "text": "Gemini 真是做设计的一把好手，尤其是用 SVG 画 logo\n\n只要给一些适当的引导就可以画的很好\n\n给 Codepilot  的新 logo SVG 的部分也是他完成的，我自己在基础上精修 https://t.co/FXImDddv81",
+        "created_at": "Mon Apr 13 16:08:09 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043722653715013632",
+            "url": "https://pbs.twimg.com/media/HFzC7OoaIAAieQH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1669276256",
+          "name": "歸藏(guizang.ai)",
+          "screen_name": "op7418",
+          "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+          "followers_count": 137210,
+          "friends_count": 1243,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 102,
+          "favorite_count": 1249,
+          "reply_count": 27,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 102,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]

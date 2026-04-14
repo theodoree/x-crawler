@@ -1,12 +1,147 @@
 {
   "date": "20260414",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-14T06:38:47.259692",
-  "tweet_count": 211,
-  "unique_tweet_count": 211,
-  "total_crawled": 406,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-04-14T08:36:08.021998",
+  "tweet_count": 214,
+  "unique_tweet_count": 214,
+  "total_crawled": 411,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2043962393085059347",
+      "text": "RT @op7418: Gemini 真是做设计的一把好手，尤其是用 SVG 画 logo\n\n只要给一些适当的引导就可以画的很好\n\n给 Codepilot  的新 logo SVG 的部分也是他完成的，我自己在基础上精修 https://t.co/FXImDddv81",
+      "created_at": "Tue Apr 14 07:59:44 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043722653715013632",
+          "url": "https://pbs.twimg.com/media/HFzC7OoaIAAieQH.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2043722921856860201",
+        "text": "Gemini 真是做设计的一把好手，尤其是用 SVG 画 logo\n\n只要给一些适当的引导就可以画的很好\n\n给 Codepilot  的新 logo SVG 的部分也是他完成的，我自己在基础上精修 https://t.co/FXImDddv81",
+        "created_at": "Mon Apr 13 16:08:09 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043722653715013632",
+            "url": "https://pbs.twimg.com/media/HFzC7OoaIAAieQH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1669276256",
+          "name": "歸藏(guizang.ai)",
+          "screen_name": "op7418",
+          "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design）\n\n歸藏的 AIGC 周刊｜公众号：歸藏的AI工具箱",
+          "followers_count": 137210,
+          "friends_count": 1243,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 102,
+          "favorite_count": 1249,
+          "reply_count": 27,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207547,
+        "friends_count": 1604,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 102,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043957913480253917",
+      "text": "RT @anorth_chen: @dotey 悲观者正确，乐观者前行。\n宝玉老师提出了很多条质疑的点，本着严谨交流的态度，我不介意一一回复。\n\n这篇文章内容涵盖了大量软件工程，因为我们希望把自己AI First如何实践落地的理念分享出来，而不仅仅是一些形而上concept的内…",
+      "created_at": "Tue Apr 14 07:41:56 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2043956253836386618",
+        "text": "悲观者正确，乐观者前行。\n宝玉老师提出了很多条质疑的点，本着严谨交流的态度，我不介意一一回复。\n\n这篇文章内容涵盖了大量软件工程，因为我们希望把自己AI First如何实践落地的理念分享出来，而不仅仅是一些形而上concept的内容。至于其他AI First的实践，由于篇幅和文章重点无法涵盖所有。\n\n第一，AI提交代码是不需要全部人工回归一遍的。我们会拆细每次PR的影响范围，基本都只会涉及某个功能模块，而不是大范围的修改，这在手写代码时也是基本的软件开发协作规范。\n在符合软件工程协作规范下的情况下，AI提交的代码修改完全可以被自动化测试覆盖，不需要担心它会搞崩别的功能。\n\n第二，我们中间的测试/审查/发布确实做到了全部自动化跑通了，所以我们做到了今天这个迭代效率。\n\n第三，我们每次A/B测试的线上监控基础设施也都是完善的，有充足的数据支撑我们做判断。我建议你学习了解下statsig。\n\n第四，你为什么会把大而模糊的任务丢给AI？这个问题非常奇怪，我相信如果你做过管理，也不会把大而模糊，自己都没想清楚的任务丢给员工吧。\n\n第五，系统架构的设计是任何软件工程团队的基本功了，拿出这一条来悲观质疑真的很像在抬杠。\n\n结论是，我们全都做到了。\n\n关于你提到的claude code和codex团队是否有这么搞的问题，事实上我们就是观察到了claude团队极其夸张的迭代效率，以及OpenAI工程团队在今年二月份的分享得到的灵感：https://t.co/ym1wzNQOX5…\n你觉得他们有没有也在用这一套呢？为什么你如此笃定AI交付和功能质量必然在对立面？\n\n我们的分享来自于团队脚踏实地实践后的经验，关于我们目前做到了怎样的迭代效率，请看产品changelog：https://t.co/JyZwCJnvLt…",
+        "created_at": "Tue Apr 14 07:35:20 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1744746496535539712",
+          "name": "North@CreaoAI",
+          "screen_name": "anorth_chen",
+          "description": "ENTJ, Head of Community @CreaoAI | 2021 CS Bachelor (Focus in AI) @UofT | Crypto Trader | Before: Ex Technical Specialist @AlibabaGroup; Web3 Innovator",
+          "followers_count": 3233,
+          "friends_count": 472,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 14,
+          "reply_count": 2,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207547,
+        "friends_count": 1604,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043953753921847582",
+      "text": "https://t.co/RHdIs6xzUk",
+      "created_at": "Tue Apr 14 07:25:24 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207547,
+        "friends_count": 1604,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 43,
+        "reply_count": 3,
+        "quote_count": 5
+      }
+    },
     {
       "id": "2043936713618104582",
       "text": "今天刷到这篇文章几次，说点不一样的。与其说 AI First，不如说软件工程 First。\n\n这篇文章看着在讲 AI，底下全是软件工程。\n\n抛开后面讲组织和人的部分，原文前半段的重点简单总结一下：\n\nAI 时代，人成了瓶颈。PM 花几周做需求，AI 两小时就能实现，PM 成了瓶颈。QA 测三天，AI 写代码只要两小时，QA 成了瓶颈。团队 25 个人，对手几百人，人力也是瓶颈。\n\n怎么办？把人从链条里拿掉。AI 写代码、AI 审查代码、AI 跑测试、AI 部署上线、AI 监控线上状态，出了问题自动回滚。每天定时扫描日志，自动发现问题、分配任务、跟踪修复。整条流水线跑起来，人只需要在关键节点做判断。\n\n至于文中提到的统一代码库，锦上添花，和 AI First 关系不大。有当然更好，没有也有很多替代方案。\n\n整套方案听下来，逻辑自洽，效果也漂亮：一天部署好几次，功能当天上当天撤，数据说了算。\n\n但先别急着照搬，先对照自己的情况想几件事：\n\n第一，自动化测试。AI 改完代码，你得有办法确认它没搞崩别的功能。测试覆盖不够的话，每次 AI 提交代码你都得人工回归一遍，那速度根本快不起来。\n\n第二，CI/CD 流程。从提交代码到部署上线，中间的测试、审查、发布、回滚，是不是全自动跑通了？这条流水线不通，AI 写得再快，代码也堆在那儿等人手动处理。\n\n第三，A/B 测试和线上监控。新功能上线之后效果好不好，得有数据说话，效果不好得能随时关掉。没有这套机制，AI 一天产出五个功能，你都不知道哪个该留哪个该砍。\n\n第四，任务管理。任务得拆到合适的粒度，生命周期得跟踪得住。一个大而模糊的任务丢给 AI，现在的能力还啃不动。多个 Agent 同时干活的时候，谁做哪个、哪个优先、做到什么程度，这些都得有地方管。\n\n第五，系统架构。架构太乱或者压根没有架构的代码，AI 维护起来跟人一样头疼。上下文塞满了还是搞不清边界在哪，改一处崩三处。\n\n这几条里如果有做不到的，就得靠人去补。补不上，AI First 就只是一句口号。\n\n但假设你全做到了，就能 AI First 了？\n\n还是不行。这套玩法只适合一部分场景。\n\n什么场景适合？后端逻辑为主、界面不复杂的产品，比如 API 服务、数据处理平台、内部工具。功能好不好，跑一下数据就知道，不需要人去盯着每个像素。原文里的就是个 Agent 平台，本质上是后端驱动的产品，可以用这套打法。\n\n再比如早期产品快速试错，功能上了不行就撤，用户预期本来就没那么高，AI 的速度优势能充分发挥。\n\n但很多场景玩不转。\n\n比如 UI 密集的产品。自媒体天天喊前端已死，但你让 AI 做个复杂界面试试，各种易用性问题、交互细节、视觉还原，它搞不定的。否则马斯克靠 AI 早就改了不知道改版 X 多少次了。\n\n比如对功能质量敏感的产品。Anthropic 和 OpenAI 不知道 AI First 吗？他们敢在 Claude Code 和 Codex 上这么搞吗？让 AI 全自动迭代自家的核心产品，用户不骂死才怪。\n\n再比如安全性要求高的场景，银行系统、在线交易平台，AI 代码出个差错，那可不是回滚能解决的。\n\nAI First 的方向没有错，它代表的是一种意识的转变：每做一个决策的时候，想一想这件事能不能让 AI 来做，如果不能，缺什么条件，怎么把条件补上。\n\n但这种意识要落地，靠的不仅是买几个 AI 工具的订阅，还需要把基础搭好。测试、CI/CD、监控、架构、任务管理，这些做扎实了，AI 的能力自然能释放出来。做不好，加再多 AI 也是在沙子上盖楼。\n\n从这个角度看，AI First 的终点未必是让 AI 干所有的活，而是借着这股力量，把你一直想做但没动力做的工程改进，真正推动起来。\n\n仰望星空是好的，但也还要脚踏实地。",
