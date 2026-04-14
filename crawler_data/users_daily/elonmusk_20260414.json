@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237980505,
+    "followers_count": 237985430,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260414",
-  "last_updated": "2026-04-14T14:37:19.691776",
-  "tweet_count": 5,
+  "last_updated": "2026-04-14T16:27:52.868472",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2043853789304893655",
@@ -262,6 +262,52 @@
       "quoted": null,
       "stats": {
         "retweet_count": 214,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044071159172583653",
+      "text": "RT @cb_doge: SpaceX just launched the 1000th Starlink satellite of 2026.\n\nThat’s ~10 satellites deployed every single day and one launch ro…",
+      "created_at": "Tue Apr 14 15:11:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044048543913333195",
+        "text": "SpaceX just launched the 1000th Starlink satellite of 2026.\n\nThat’s ~10 satellites deployed every single day and one launch roughly every 2.5 days.\n\nStarlink now has 10,000+ active satellites in orbit, the largest satellite constellation ever built. https://t.co/mCGfvv5SYE",
+        "created_at": "Tue Apr 14 13:42:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044047862074630144",
+            "url": "https://video.twimg.com/amplify_video/2044047862074630144/vid/avc1/1420x1080/TXMT8HDYalf-_0Dx.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1841675,
+          "friends_count": 933,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 494,
+          "favorite_count": 3053,
+          "reply_count": 490,
+          "quote_count": 33
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 494,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

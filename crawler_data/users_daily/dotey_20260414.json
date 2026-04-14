@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207626,
+    "followers_count": 207650,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260414",
-  "last_updated": "2026-04-14T14:37:19.686495",
-  "tweet_count": 11,
+  "last_updated": "2026-04-14T16:27:52.893559",
+  "tweet_count": 14,
   "tweets": [
     {
       "id": "2043855999648379333",
@@ -526,6 +526,183 @@
       },
       "stats": {
         "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044062618671882251",
+      "text": "RT @hylarucoder: 继续分享一些 harness engineering 实际经验\n\n坦白说，在做 haicode (一个我自用的 coding agent) 的过程中，我通过 Harness 方案借鉴了 Claude Code 的不少优秀设计。虽然功能复刻个七七…",
+      "created_at": "Tue Apr 14 14:37:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044041420475138514",
+        "text": "继续分享一些 harness engineering 实际经验\n\n坦白说，在做 haicode (一个我自用的 coding agent) 的过程中，我通过 Harness 方案借鉴了 Claude Code 的不少优秀设计。虽然功能复刻个七七八八，但整体使用体验始终不如 CC 丝滑，比如有的任务执行很顺，有的任务执行就不收敛。\n\n我今天静下心来想了下，只有功能点对齐是不够的，必须深入对齐其底层机制，正好 k2.6-code 发布，跑通了一套“四步对齐法”，效果我觉得还行，分享一下希望对你有帮助。\n\nhaicode 目前有接近 10w 行 golang，要对齐 CC 50w 行ts，确实有点困难。通过人眼来对齐肯定是没什么可能性了，看不过来。\n\n所以需要引入文档作为中间层来对齐，我选择的是 PRD 做事实层面的对齐。分四步走\n\n第一步：PRD 宏观对齐（Gap Analysis）\n\nPrompt 示例：「请帮我比对当前项目与上游 Claude Code 的源码，找出我们在架构和体验上还有哪些差距？重点关注 Agent Loop、上下文管理、Agent Teams 等核心模块。请将不完善的地方拆解成独立的 PRD，并输出到 docs/product-specs 目录中」\n\n需要注意的是，不需要像我一样说的很规范，现在 k2.6 之类的国模都比较聪明，在实际使用的过程中可以用语音说很长的一些废话，意思到位，最后确保放入对应目录中就行了。\n\n第二步：PRD 细化与反思（Deep Dive & Questioning）\n\n要求模型在 PRD 中明确标注“当前实现”与“上游实现”的具体差距（Delta），客观评价当前做得好的与不好的地方。\n\n「请基于这里的 PRD结合上游源码，评价当前做得好的与不好的地方，提出你在分析过程中遇到的‘开放式问题’（例如设计意图、edge case）来问我。」\n\n第三步：PRD 细化与反思（Deep Dive & Questioning）\n\n使用提示词：「对于你刚才提出的开放式问题，请你直接从上游 Claude Code 的代码库中寻找答案，并补充到 PRD 中」\n\n这时候再进行人工审核。Harness 开发中 80% 的常规逻辑模型能快速搞定，但剩下 20% 决定体验的核心逻辑，必须依赖我们把 PRD 抠得足够细。\n\n有的朋友可能会问我为啥咱不一步到位，把三步 PRD 生成的提示词写在一起？因为效果不好。精细一些的活，分开一步一步来效果比较可控。\n\n第四步：转化执行计划（Actionable Plan）\n「请将所有梳理出的差距和 PRD 改写成具体的执行计划（Execution Plan），并放入 docs/exec-plans 目录」\n\n然后就把 plan 目录拖到终端，让他开始干活。在 claude code 中每次干活时间还挺长的（ 没有调优的情况下，我看一个 todo 能干超过 30~40min）\n\n因为是每个月 199 的套餐，最终我验收了两个 plan，效果还不错。\n\n但 cc + kimi 也有一些不爽的地方，估计 claude code 有 bug，有的时候给我弹 API Error: Claude Code is unable to respond to this request \n\n另外在调试 haicode 这种智能体上面，我还用了其他的模型 GLM 5.1 / GPT 5.4 / Opus，我的感觉是模型\n\nGLM 5.1, 比较稳扎稳打：在连带智能体调试的体验上还不错，不会乱飞。\n\nGPT 5.4 / Codex (容易过度设计)：它有一种“工程兜底”的强迫症。有时候会情不自禁地发明一些超出 Claude Code 原本路线的解法，比如居然想用关键词来做意图检测，反而把简单问题复杂化了。\n\nOpus 4.6 agent 调试agent最强：在代码拆解和逻辑洞察上的表现应该是最好的， 能够连带 提示词 + 工程一起改，效果最好，但但但但我分析了两天之后 5x 订阅掉了（不知道是相关性还是因果性）......血亏🤣",
+        "created_at": "Tue Apr 14 13:13:45 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044035522549649408",
+            "url": "https://pbs.twimg.com/media/HF3fel3aEAAUUoz.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2043735521369960959",
+          "text": "也是用手搓的 coding agent 体验上 k2.6-code-preview 了！ https://t.co/DquRObsSy2",
+          "created_at": "Mon Apr 13 16:58:13 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2043735386539864064",
+              "url": "https://pbs.twimg.com/media/HFzOgYGasAAiMBR.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "451425069",
+            "name": "海拉鲁编程客",
+            "screen_name": "hylarucoder",
+            "description": "🖥️ Indie Maker\n📌 油管「海拉鲁编程客」\n 🌸 沦为程序员的段子手/猫咪",
+            "followers_count": 22074,
+            "friends_count": 1061,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 0,
+            "favorite_count": 45,
+            "reply_count": 5,
+            "quote_count": 0
+          }
+        },
+        "user": {
+          "id": "451425069",
+          "name": "海拉鲁编程客",
+          "screen_name": "hylarucoder",
+          "description": "🖥️ Indie Maker\n📌 油管「海拉鲁编程客」\n 🌸 沦为程序员的段子手/猫咪",
+          "followers_count": 22074,
+          "friends_count": 1061,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 9,
+          "favorite_count": 97,
+          "reply_count": 6,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044067489219219464",
+      "text": "RT @chenchengpro: 看了 @Khazix0918 那条关于横纵分析法的帖子，又把他开源的 khazix-skills 仓库从头到尾翻了一遍，聊聊我的观察。\n\n先说背景。作者三年前在金融行业做公司和行业研究，当时就搞了一套方法论。后来 AI 来了，他把这套东西迭代…",
+      "created_at": "Tue Apr 14 14:57:21 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044063181610594722",
+        "text": "看了 @Khazix0918 那条关于横纵分析法的帖子，又把他开源的 khazix-skills 仓库从头到尾翻了一遍，聊聊我的观察。\n\n先说背景。作者三年前在金融行业做公司和行业研究，当时就搞了一套方法论。后来 AI 来了，他把这套东西迭代了一下，封装成了 Prompt 和 Skill 两个版本，开源在 GitHub 上。自己说用了两年，是手头最顺手的工具之一。\n\n这套方法叫横纵分析法，底层逻辑来自两个学术传统。一个是语言学里索绪尔的历时分析和共时分析，一个是社会科学里的纵向研究和横截面研究。他把这些研究视角抽出来，结合商业竞争战略分析的思路，做成了一个 AI 可执行的通用研究框架。\n\n具体操作就两条轴。纵轴沿时间线还原一个事物的完整故事，从诞生到现在，谁做的，经历了什么，为什么在某个节点爆发或掉头。横轴在当下时间点做竞品对比，它跟同赛道的东西有什么不同，用户为什么选它，它在整个赛道里是什么位置。最后把两条轴交叉起来看，能发现单独看任何一条轴都看不到的东西，比如今天的某个优势其实是三年前一个不起眼的决策慢慢积累出来的。\n\n他用 Claude 深度研究模式演示了一下，研究对象是 Harness。13 分钟出了一份大概一万字的报告，纵向把历史节点拉得很清楚，横向对比了 Prompt Engineering、Context Engineering 和 Agent Engineering。\n\n翻仓库能看到更多细节。整个仓库只有 9 个文件，但信息密度极高。\n\nhv-analysis 这个 Skill 的执行流程是这样的：先拉起并行子 Agent 分三路收集信息（纵向历史、横向竞品、补充资料），还接了 arXiv API 查论文。然后按框架生成报告，纵向分析 6000 到 15000 字，横向分析 3000 到 10000 字，交汇洞察 1500 到 3000 字，最后用 WeasyPrint 生成带封面的 A4 PDF。它还会根据研究对象的类型自动调整侧重，研究产品就重点看版本迭代和功能对比，研究公司就重点看融资历程和商业模式，研究人物就重点看职业轨迹和同领域对比。\n\n但真正让我觉得这个仓库被低估的是第二个 Skill，khazix-writer。\n\n这是一个微信公众号长文写作 Skill，SKILL.md 有 29.5 KB，几乎是一本完整的写作方法论手册。核心定位一句话：「有见识的普通人在认真聊一件打动他的事」。\n\n它定义了五种文章原型：调查实验型（「我替你做了这件事」）、产品体验型（「跟我一起体验」）、现象解读型（「你注意到了吗？背后是什么？」）、工具分享型（「我发现了一个好东西」）、方法论分享型（系统化分享积累经验）。每种原型有不同的叙事结构和节奏。\n\n写作技法拆得非常细：长短句混合的节奏感、口语化的故意打断、知识「顺嘴带出」而不是「我来科普」、私人视角连接公共议题、敢于判断有明确好恶、理解对立面后再表达不同观点、文化升维（从具体事件连接到更大的哲学参照）、回环呼应（契诃夫之枪，第一幕挂在墙上的东西第三幕必须响）。\n\n还有一套四层自检体系。L1 硬规则扫描，L2 风格一致性检查，L3 内容质量审查，L4 人味终审，最后一层的核心问题就一个：「这是有见识的普通人在聊天，还是 AI 信息输出？」\n\n最让我觉得有意思的是它的反向约束设计。大部分人写 Prompt 是告诉 AI 你要怎么写，这个 Skill 花了同样多甚至更多的篇幅告诉 AI 你绝对不能怎么写。禁用冒号和破折号，禁用直引号，禁用「说白了」「本质上」「综上所述」「值得注意的是」这些 AI 死亡标记词，禁止编造案例，禁止用「AI 工具」「某个模型」这种模糊称呼，必须写具体名字。甚至画了一条清晰的人机分工线：AI 负责找证据、扩写、提供背景知识；人类负责一手观察、核心创意、真实情感。AI 绝对不能代替人类生成的是：编造的场景、核心原创洞察、文字里的温度。\n\n两个 Skill 可以串联使用，先用 hv-analysis 做深度研究，再用 khazix-writer 把研究结果写成文章。支持 Claude Code、Codex、OpenClaw 直接安装。如果只想用横纵分析法做快速研究，仓库 prompts 目录下有独立 Prompt 版本，复制到任何有深度研究功能的 AI 里就能跑。\n\n仓库地址：https://t.co/o8sxfv5plx\n\n原帖最后有一句话我觉得是整件事的核心：这个时代做研究，真正稀缺的不再是信息，而是你对这个世界有多好奇。方法和工具都是后面的事，好奇心在前面。没有好奇心，有再好的方法论也是摆设。",
+        "created_at": "Tue Apr 14 14:40:14 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2043555868902637845",
+          "text": "https://t.co/nnEQCW6HJr",
+          "created_at": "Mon Apr 13 05:04:21 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1492195583699951620",
+            "name": "数字生命卡兹克",
+            "screen_name": "Khazix0918",
+            "description": "愿我们永远对世界保持好奇。\n公众号：数字生命卡兹克",
+            "followers_count": 40308,
+            "friends_count": 144,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 213,
+            "favorite_count": 1125,
+            "reply_count": 26,
+            "quote_count": 28
+          }
+        },
+        "user": {
+          "id": "15205852",
+          "name": "陈成",
+          "screen_name": "chenchengpro",
+          "description": "engineering @antgroup, created umijs, dvajs, mako and neovate code",
+          "followers_count": 9357,
+          "friends_count": 676,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 69,
+          "reply_count": 0,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044067879927136674",
+      "text": "RT @sujingshen: https://t.co/qejg8bnyGe",
+      "created_at": "Tue Apr 14 14:58:54 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2043898494818410731",
+        "text": "https://t.co/qejg8bnyGe",
+        "created_at": "Tue Apr 14 03:45:49 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1745332167218196480",
+          "name": "SagaSu",
+          "screen_name": "sujingshen",
+          "description": "The profile picture is a photo of my daughter,\nOnly professionals can achieve success.\nhttps://t.co/xIRlZmXtR4",
+          "followers_count": 4898,
+          "friends_count": 178,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 65,
+          "favorite_count": 273,
+          "reply_count": 21,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 65,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
