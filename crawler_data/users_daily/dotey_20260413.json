@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207396,
+    "followers_count": 207410,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260413",
-  "last_updated": "2026-04-13T22:17:33.878363",
-  "tweet_count": 11,
+  "last_updated": "2026-04-14T00:31:29.721702",
+  "tweet_count": 12,
   "tweets": [
     {
       "id": "2043489520184905828",
@@ -417,6 +417,61 @@
       "stats": {
         "retweet_count": 1,
         "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043840804859281434",
+      "text": "RT @wong2__: 沉迷Vibe Coding却疏于锻炼？快来试试Vibe Ring！\n\n把落灰的Switch健身环和mac按键映射：\n1. 挤压健身环 = 长按Fn语音输入\n2. 向外拉健身环 = 回车发送\n\nhttps://t.co/5vbXAYikGR https:…",
+      "created_at": "Mon Apr 13 23:56:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2043281427857658159",
+        "text": "沉迷Vibe Coding却疏于锻炼？快来试试Vibe Ring！\n\n把落灰的Switch健身环和mac按键映射：\n1. 挤压健身环 = 长按Fn语音输入\n2. 向外拉健身环 = 回车发送\n\nhttps://t.co/5vbXAYikGR https://t.co/eG1y1nvqh9",
+        "created_at": "Sun Apr 12 10:53:49 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043279125780283392",
+            "url": "https://pbs.twimg.com/media/HFsvigUawAACu3o.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043280557409439744",
+            "url": "https://pbs.twimg.com/media/HFsw11jaEAAaq5H.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2043280630495281152",
+            "url": "https://pbs.twimg.com/media/HFsw6F0bgAAvdFo.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "27219828",
+          "name": "wong2",
+          "screen_name": "wong2__",
+          "description": "自由开发者\nex jike, douban, renren\nCreator of ChatHub, ChatGPT for Google (acquired by @ManusAI)",
+          "followers_count": 18141,
+          "friends_count": 3627,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 186,
+          "favorite_count": 709,
+          "reply_count": 31,
+          "quote_count": 44
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 186,
+        "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
       }
