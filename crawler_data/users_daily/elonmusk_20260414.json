@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237985430,
+    "followers_count": 237991182,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260414",
-  "last_updated": "2026-04-14T16:27:52.868472",
-  "tweet_count": 6,
+  "last_updated": "2026-04-14T18:27:32.687732",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2043853789304893655",
@@ -308,6 +308,104 @@
       "quoted": null,
       "stats": {
         "retweet_count": 494,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044107361258999891",
+      "text": "RT @cb_doge: NEWS: SpaceX is now using a voice-based AI assistant powered by Grok to handle Starlink customer support calls. The voice soun…",
+      "created_at": "Tue Apr 14 17:35:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044103612763423175",
+        "text": "NEWS: SpaceX is now using a voice-based AI assistant powered by Grok to handle Starlink customer support calls. The voice sounds fully human and can converse with users in real time.\n\n\"Grok is already doing quite a good job at SpaceX and Tesla. We are seeing Grok be very helpful in things like customer service and the AI is infinitely patient, so you can yell at it, and it's still going to be very nice.\"",
+        "created_at": "Tue Apr 14 17:20:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044103553514647554",
+            "url": "https://video.twimg.com/amplify_video/2044103553514647554/vid/avc1/1920x1080/efQgShADn1cbTjYH.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1841733,
+          "friends_count": 933,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 379,
+          "favorite_count": 2211,
+          "reply_count": 440,
+          "quote_count": 42
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 379,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044108172731003129",
+      "text": "RT @ChananBos: People wonder if FSD is safe on narrow European roads. Well have a look what it did when a tractor took up more than half of…",
+      "created_at": "Tue Apr 14 17:39:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044018060177076243",
+        "text": "People wonder if FSD is safe on narrow European roads. Well have a look what it did when a tractor took up more than half of the road or when overtaking bicycles with fast oncoming traffic. https://t.co/z37Csa09sP",
+        "created_at": "Tue Apr 14 11:40:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044017762419212288",
+            "url": "https://video.twimg.com/amplify_video/2044017762419212288/vid/avc1/3840x2160/kBzkNVTf29OvzllK.mp4?tag=21",
+            "bitrate": 25128000
+          },
+          {
+            "type": "video",
+            "id": "2044017917444886528",
+            "url": "https://video.twimg.com/amplify_video/2044017917444886528/vid/avc1/3840x2160/wu3qG0rFmZ2Ef1X3.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1042880610321088512",
+          "name": "Chanan Bos",
+          "screen_name": "ChananBos",
+          "description": "Content creator @Fastned | Former @CleanTechnica journalist | Concerned about the currently unsustainable future of humanity",
+          "followers_count": 915,
+          "friends_count": 341,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 347,
+          "favorite_count": 2852,
+          "reply_count": 297,
+          "quote_count": 53
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 347,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
