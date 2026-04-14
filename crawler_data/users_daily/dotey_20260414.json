@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207572,
+    "followers_count": 207626,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260414",
-  "last_updated": "2026-04-14T10:30:57.549147",
-  "tweet_count": 9,
+  "last_updated": "2026-04-14T14:37:19.686495",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2043855999648379333",
@@ -430,6 +430,102 @@
       "quoted": null,
       "stats": {
         "retweet_count": 102,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044052968387887238",
+      "text": "怎么说呢，不能全世界都去夸你们家的文章，不能写了不同意见就是质疑，不能质疑了就是 AI 写的。\n\n我已经解释过“但先别急着照搬，先对照自己的情况想几件事：” 这句话在原文只是针对读者的提问不是你们家文章的问题。\n\n当然你要硬对好入座那有什么办法。\n\nhttps://t.co/0KMKCgA8i2 https://t.co/hW3vO45XCO",
+      "created_at": "Tue Apr 14 13:59:38 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044051657277812736",
+          "url": "https://pbs.twimg.com/media/HF3uJwaXsAA8jbg.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2043952175781753037",
+        "text": "@wang_xiaolou 如果是这样那真的太遗憾了。\n\n想不到华语头部的AI kol，会选择用AI为了质疑而质疑，生产废料内容。\n\n但想想他质疑的第五点，确实不像是人能写出来的东西。",
+        "created_at": "Tue Apr 14 07:19:08 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1744746496535539712",
+          "name": "North@CreaoAI",
+          "screen_name": "anorth_chen",
+          "description": "INTJ, Head of Community @CreaoAI | 2021 CS Bachelor (Focus in AI) @UofT | Crypto Trader | Before: Ex Technical Specialist @AlibabaGroup; Web3 Innovator",
+          "followers_count": 3355,
+          "friends_count": 472,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 1,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "reply_count": 4,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2044058209460027430",
+      "text": "要不要看看《软件工程之美》作者再笑？\nhttps://t.co/gcwwzrrKMQ https://t.co/NnoADo1POe",
+      "created_at": "Tue Apr 14 14:20:28 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044057841678643200",
+          "url": "https://pbs.twimg.com/media/HF3zxvGbcAAkmpU.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2044056781996077343",
+        "text": "怎么说呢，“虽然我写了一些逻辑不通顺的不同意见，但你不能因为我写了不同意见就认为是AI写的”\n\n“但我确实是用AI写的”\n\n谢谢宝玉老师承包了我一天的笑点。\n\n欢迎各种不同意见，人总是需要跳出自己的思维茧房里跟不同的声音交流互相学习。但看到逻辑不通顺的AI内容我实在有点忍不住，言语上若些冒犯还请见谅。",
+        "created_at": "Tue Apr 14 14:14:48 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044055855340105732",
+            "url": "https://pbs.twimg.com/media/HF3x-HaasAQIOWK.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1744746496535539712",
+          "name": "North@CreaoAI",
+          "screen_name": "anorth_chen",
+          "description": "INTJ, Head of Community @CreaoAI | 2021 CS Bachelor (Focus in AI) @UofT | Crypto Trader | Before: Ex Technical Specialist @AlibabaGroup; Web3 Innovator",
+          "followers_count": 3355,
+          "friends_count": 472,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
