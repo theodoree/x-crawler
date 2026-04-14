@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237945890,
+    "followers_count": 237955166,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260414",
-  "last_updated": "2026-04-14T04:59:03.568766",
-  "tweet_count": 2,
+  "last_updated": "2026-04-14T06:38:47.296783",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2043853789304893655",
@@ -96,6 +96,172 @@
       "quoted": null,
       "stats": {
         "retweet_count": 410,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043932326657425888",
+      "text": "RT @battleangelviv: FSD learned which spot at my apartment complex is my assigned parking spot and confidently pulls into the correct one e…",
+      "created_at": "Tue Apr 14 06:00:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043908090865868866",
+        "text": "FSD learned which spot at my apartment complex is my assigned parking spot and confidently pulls into the correct one every time now\n\nSo so cool to see. Sentient!",
+        "created_at": "Tue Apr 14 04:23:57 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1518265999367286787",
+          "name": "Viv 🪩",
+          "screen_name": "battleangelviv",
+          "description": "social @Tesla @X",
+          "followers_count": 32204,
+          "friends_count": 1080,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 72,
+          "favorite_count": 903,
+          "reply_count": 76,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 72,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043932358332821615",
+      "text": "RT @TheRabbitHole: South African politicians openly chant for the death of Whites. https://t.co/1HlTnjh82T",
+      "created_at": "Tue Apr 14 06:00:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2043844311993987072",
+          "url": "https://video.twimg.com/amplify_video/2043844311993987072/vid/avc1/1920x1080/EBPmimMqi10nWi5i.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2043844813079076870",
+        "text": "South African politicians openly chant for the death of Whites. https://t.co/1HlTnjh82T",
+        "created_at": "Tue Apr 14 00:12:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043844311993987072",
+            "url": "https://video.twimg.com/amplify_video/2043844311993987072/vid/avc1/1920x1080/EBPmimMqi10nWi5i.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1095850,
+          "friends_count": 1833,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 542,
+          "favorite_count": 1541,
+          "reply_count": 318,
+          "quote_count": 71
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 542,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043933022156927204",
+      "text": "RT @Starlink: Starlink Mini enables reliable high-speed internet on the go 🛰️🛣️",
+      "created_at": "Tue Apr 14 06:03:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043808836524634222",
+        "text": "Starlink Mini enables reliable high-speed internet on the go 🛰️🛣️",
+        "created_at": "Mon Apr 13 21:49:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2041623076463604155",
+          "text": "Absolutely love my @Starlink Mini 👌\n\nCruising down the interstate with great, fast, reliable internet. https://t.co/KbKicHW4GP",
+          "created_at": "Tue Apr 07 21:04:07 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2041623069052301312",
+              "url": "https://pbs.twimg.com/media/HFVNXUQa8AARtv1.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2041623069039718402",
+              "url": "https://pbs.twimg.com/media/HFVNXUNa8AIb2y8.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1574980389101178880",
+            "name": "Coleton Guerin",
+            "screen_name": "OutofSpecDetail",
+            "description": "Detailing nerd level 9000. You’ll find me polishing paint at Clear Detailing and over on the @Out_of_Spec Detailing channel!",
+            "followers_count": 6631,
+            "friends_count": 14,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 4,
+            "favorite_count": 178,
+            "reply_count": 24,
+            "quote_count": 0
+          }
+        },
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1581586,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 214,
+          "favorite_count": 1610,
+          "reply_count": 172,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 214,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
