@@ -1,12 +1,308 @@
 {
   "date": "20260414",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-14T18:27:32.651800",
-  "tweet_count": 230,
-  "unique_tweet_count": 230,
-  "total_crawled": 420,
-  "duplicates_removed": 190,
+  "last_crawl_time": "2026-04-14T20:22:26.480040",
+  "tweet_count": 235,
+  "unique_tweet_count": 235,
+  "total_crawled": 430,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2044145889707774000",
+      "text": "Anthropic 的 Claude Code 桌面端负责人 Anthony Morris 宣布 Claude Code 桌面应用完成了一次从底层开始的重新设计，核心目标是让用户更容易同时跑多个 Claude 编程任务。\n\nMorris 说自己已经好几周没打开过 IDE 和终端了。\n\nClaude Code 桌面端此前已经支持 Git worktree 隔离（每个会话自动用独立代码副本，互不干扰）、可视化代码差异审查、应用预览、插件市场等功能。这次重建在此基础上进一步降低了并行工作的操作门槛。用户可以一键开启新会话，在同一个代码仓库中并行处理多个任务，每个会话的代码修改在合并前互不影响。",
+      "created_at": "Tue Apr 14 20:08:53 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044129923644961155",
+        "text": "Today we're launching a rebuilt version of Claude Code on desktop.\n\nThe app has been redesigned for the ground up to make it easier than ever to parallelize work with Claude.\n\nI haven't opened an IDE or terminal in weeks. Excited for you all to give it a shot! https://t.co/JV4YQNxZh1",
+        "created_at": "Tue Apr 14 19:05:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044129299234754560",
+            "url": "https://video.twimg.com/amplify_video/2044129299234754560/vid/avc1/2560x1440/Jn9Ykq2RV2pNytEH.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "73253803",
+          "name": "Anthony Morris ツ",
+          "screen_name": "amorriscode",
+          "description": "claude code @anthropicAI | ex @stripe\n→ https://t.co/AjndW0qdf0",
+          "followers_count": 25169,
+          "friends_count": 1977,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 46,
+          "favorite_count": 1018,
+          "reply_count": 133,
+          "quote_count": 33
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207671,
+        "friends_count": 1604,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044133644827042166",
+      "text": "微软给 Word 里的 Copilot 加了一组面向专业文档场景的新功能，核心卖点是：AI 编辑文档时能开启\"修订模式\"（Track Changes），每一处改动都留痕可追溯。\n\n这批功能瞄准的是法务、财务、合规这类对文档完整性要求极高的岗位。除了修订留痕，还包括：AI 可以在文档特定位置添加和回复批注，自动生成和更新目录，插入页眉页脚、页码等动态元素。简单说，Copilot 从\"帮你写内容\"往\"帮你走完整个文档工作流\"又推了一步。\n\n对经常跟合同、政策文件打交道的人来说，这解决了一个实际痛点：以前让 AI 改文档，改完你得自己逐字对比哪里动了；现在修订痕迹自动标出来，跟同事手动改稿一样，可以逐条接受或拒绝。\n\n不过目前可用范围很窄。这些功能只在 Windows 桌面版 Word 的 Frontier 计划（微软的早期体验项目，需要申请加入）中提供，Mac 和网页版还没跟上。个人用户在评论区也反映，即使有 Microsoft 365 个人订阅，也未必能用上这些新能力，似乎仍需要特定的账户类型。\n\n文档：https://t.co/wEwDsJsKpg",
+      "created_at": "Tue Apr 14 19:20:13 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207671,
+        "friends_count": 1604,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044130627864129631",
+      "text": "RT @turingbook: OpenClaw之父Peter观点：\n智能体工作流真正的失败往往是因为人们过早地把自己排除在外，却期望在没有人类品味参与的情况下获得高质量输出。   \n强大的输出需要愿景 + 引导 + 正确的问题。",
+      "created_at": "Tue Apr 14 19:08:14 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044127079911043319",
+        "text": "OpenClaw之父Peter观点：\n智能体工作流真正的失败往往是因为人们过早地把自己排除在外，却期望在没有人类品味参与的情况下获得高质量输出。   \n强大的输出需要愿景 + 引导 + 正确的问题。",
+        "created_at": "Tue Apr 14 18:54:08 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2043774600031654085",
+          "text": "Peter Steinberger, creator of OpenClaw: The real failure of agentic workflows comes when people remove themselves too early and expect quality without human taste in the loop. \nStrong output needs vision + steering + the right questions.\nhttps://t.co/g0EkBmYeUQ",
+          "created_at": "Mon Apr 13 19:33:30 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2043668148348751872",
+              "url": "https://video.twimg.com/amplify_video/2043668148348751872/vid/avc1/1008x720/i8zdQttCyUZXeDQk.mp4?tag=14",
+              "bitrate": 2176000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "2588345408",
+            "name": "Rohan Paul",
+            "screen_name": "rohanpaul_ai",
+            "description": "Compiling in real-time, the race towards AGI.\n\nThe Largest Show on X for AI.\n\n🗞️ Get my daily AI analysis newsletter to your email  👉 https://t.co/6LBxO8215l",
+            "followers_count": 144832,
+            "friends_count": 7431,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 54,
+            "favorite_count": 512,
+            "reply_count": 25,
+            "quote_count": 14
+          }
+        },
+        "user": {
+          "id": "2863771",
+          "name": "刘江/LIU Jiang",
+          "screen_name": "turingbook",
+          "description": "Exploring AGI. Co-Founder of Turing Company. ex Meituan, BAAI, CSDN. 图灵联合创始人。曾任：北京智源人工智能研究院副院长，CSDN&《程序员》杂志总编，美团技术学院院长。",
+          "followers_count": 50152,
+          "friends_count": 3012,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 10,
+          "reply_count": 2,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207671,
+        "friends_count": 1604,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044126158351151405",
+      "text": "RT @Safety: We strictly prohibit users from generating non-consensual explicit deepfakes and from using our tools to undress real people. x…",
+      "created_at": "Tue Apr 14 18:50:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044119192765641088",
+        "text": "We strictly prohibit users from generating non-consensual explicit deepfakes and from using our tools to undress real people. xAI has extensive safeguards in place to prevent such misuse, such as continuous monitoring of public usage, analysis of evasion attempts in real time, frequent model updates, prompt filters, and additional safeguards.",
+        "created_at": "Tue Apr 14 18:22:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2044109408763032042",
+          "text": "https://t.co/NkVeUy4qmx",
+          "created_at": "Tue Apr 14 17:43:55 +0000 2026",
+          "lang": "zxx",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2044109405462114309",
+              "url": "https://pbs.twimg.com/media/HF4irJKasAUWLHA.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "17075423",
+            "name": "David Ingram",
+            "screen_name": "David_Ingram",
+            "description": "Tech reporter for @NBCNews. I write a lot about Elon Musk.",
+            "followers_count": 10322,
+            "friends_count": 7606,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 18,
+            "favorite_count": 39,
+            "reply_count": 49,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "95731075",
+          "name": "Safety",
+          "screen_name": "Safety",
+          "description": "Providing the latest safety tools, resources, and updates from X.",
+          "followers_count": 3158046,
+          "friends_count": 134,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 463,
+          "favorite_count": 2331,
+          "reply_count": 525,
+          "quote_count": 47
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237996798,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 463,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044122415018430513",
+      "text": "很难想象微软到现在才推出这个 AI 操作 Word 的功能，还没 Anthropic 快😂\n不过没关系，Gemini 还不能操作 Google Docs（只读，如果我没记错的话）",
+      "created_at": "Tue Apr 14 18:35:36 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044116974331113806",
+        "text": "New in Word: Copilot now tracks changes, leaves comments, and more, working more like a coworker right inside your document, grounded in all your enterprise context with Work IQ. https://t.co/x7KAZsk3WR",
+        "created_at": "Tue Apr 14 18:13:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044116351971930113",
+            "url": "https://video.twimg.com/amplify_video/2044116351971930113/vid/avc1/1920x1080/jqE8FHp1SDVy0B0w.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "20571756",
+          "name": "Satya Nadella",
+          "screen_name": "satyanadella",
+          "description": "Chairman and CEO at Microsoft",
+          "followers_count": 4163873,
+          "friends_count": 310,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 124,
+          "favorite_count": 1283,
+          "reply_count": 185,
+          "quote_count": 42
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207671,
+        "friends_count": 1604,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 22,
+        "reply_count": 7,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2044119905616728126",
       "text": "RT @xleaps: https://t.co/V1JH2pPLBa",

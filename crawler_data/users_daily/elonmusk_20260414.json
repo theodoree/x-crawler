@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 237991182,
+    "followers_count": 237996798,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260414",
-  "last_updated": "2026-04-14T18:27:32.687732",
-  "tweet_count": 8,
+  "last_updated": "2026-04-14T20:22:26.520911",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2043853789304893655",
@@ -406,6 +406,75 @@
       "quoted": null,
       "stats": {
         "retweet_count": 347,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044126158351151405",
+      "text": "RT @Safety: We strictly prohibit users from generating non-consensual explicit deepfakes and from using our tools to undress real people. x…",
+      "created_at": "Tue Apr 14 18:50:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044119192765641088",
+        "text": "We strictly prohibit users from generating non-consensual explicit deepfakes and from using our tools to undress real people. xAI has extensive safeguards in place to prevent such misuse, such as continuous monitoring of public usage, analysis of evasion attempts in real time, frequent model updates, prompt filters, and additional safeguards.",
+        "created_at": "Tue Apr 14 18:22:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2044109408763032042",
+          "text": "https://t.co/NkVeUy4qmx",
+          "created_at": "Tue Apr 14 17:43:55 +0000 2026",
+          "lang": "zxx",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2044109405462114309",
+              "url": "https://pbs.twimg.com/media/HF4irJKasAUWLHA.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "17075423",
+            "name": "David Ingram",
+            "screen_name": "David_Ingram",
+            "description": "Tech reporter for @NBCNews. I write a lot about Elon Musk.",
+            "followers_count": 10322,
+            "friends_count": 7606,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 18,
+            "favorite_count": 39,
+            "reply_count": 49,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "95731075",
+          "name": "Safety",
+          "screen_name": "Safety",
+          "description": "Providing the latest safety tools, resources, and updates from X.",
+          "followers_count": 3158046,
+          "friends_count": 134,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 463,
+          "favorite_count": 2331,
+          "reply_count": 525,
+          "quote_count": 47
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 463,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
