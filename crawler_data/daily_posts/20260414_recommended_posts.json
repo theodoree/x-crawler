@@ -1,12 +1,117 @@
 {
   "date": "20260414",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-14T20:22:26.480040",
-  "tweet_count": 235,
-  "unique_tweet_count": 235,
-  "total_crawled": 430,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-04-14T22:17:50.639293",
+  "tweet_count": 237,
+  "unique_tweet_count": 237,
+  "total_crawled": 435,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2044169550112141790",
+      "text": "They are calling for the genocide of Whites",
+      "created_at": "Tue Apr 14 21:42:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044104395659587621",
+        "text": "🇿🇦🇺🇸 Gunther Eagleman nailed it:\n\nCalls to “Kill the Boer, Kill the Farmer” are still happening in South Africa, and ignoring the brutal farm attacks is straight-up tragic.\n\nAs with many things, the far left chooses to look the other way on these crimes.\nhttps://t.co/HZVaqkq4TA",
+        "created_at": "Tue Apr 14 17:24:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044098540268613632",
+            "url": "https://video.twimg.com/amplify_video/2044098540268613632/vid/avc1/1920x1080/_04kxa9HGN3NikPp.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KgAW",
+          "followers_count": 3330196,
+          "friends_count": 51012,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 328,
+          "favorite_count": 1311,
+          "reply_count": 250,
+          "quote_count": 37
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238001486,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3333,
+        "favorite_count": 18670,
+        "reply_count": 2282,
+        "quote_count": 182
+      }
+    },
+    {
+      "id": "2044156620666495126",
+      "text": "RT @xicilion: 没有谁该 first，至少很长一段时间，AI 和人类在开发中的关系，是结对关系。谁也离不开谁。\n哪种完全撒手让 AI 从头干到尾的，看起来很潮，实际上是执行人根本不知道自己想要什么，也根本不知道 AI 在干什么。因为 AI 干出什么，他们都会觉得超出…",
+      "created_at": "Tue Apr 14 20:51:31 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044135192919716020",
+        "text": "没有谁该 first，至少很长一段时间，AI 和人类在开发中的关系，是结对关系。谁也离不开谁。\n哪种完全撒手让 AI 从头干到尾的，看起来很潮，实际上是执行人根本不知道自己想要什么，也根本不知道 AI 在干什么。因为 AI 干出什么，他们都会觉得超出预期。",
+        "created_at": "Tue Apr 14 19:26:22 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "364478145",
+          "name": "响马",
+          "screen_name": "xicilion",
+          "description": "。。。。。。",
+          "followers_count": 66064,
+          "friends_count": 3269,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 8,
+          "reply_count": 2,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207679,
+        "friends_count": 1604,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2044145889707774000",
       "text": "Anthropic 的 Claude Code 桌面端负责人 Anthony Morris 宣布 Claude Code 桌面应用完成了一次从底层开始的重新设计，核心目标是让用户更容易同时跑多个 Claude 编程任务。\n\nMorris 说自己已经好几周没打开过 IDE 和终端了。\n\nClaude Code 桌面端此前已经支持 Git worktree 隔离（每个会话自动用独立代码副本，互不干扰）、可视化代码差异审查、应用预览、插件市场等功能。这次重建在此基础上进一步降低了并行工作的操作门槛。用户可以一键开启新会话，在同一个代码仓库中并行处理多个任务，每个会话的代码修改在合并前互不影响。",

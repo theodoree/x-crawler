@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207671,
+    "followers_count": 207679,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260414",
-  "last_updated": "2026-04-14T20:22:26.513340",
-  "tweet_count": 26,
+  "last_updated": "2026-04-14T22:17:50.690693",
+  "tweet_count": 27,
   "tweets": [
     {
       "id": "2043855999648379333",
@@ -1245,6 +1245,45 @@
         "retweet_count": 1,
         "favorite_count": 5,
         "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044156620666495126",
+      "text": "RT @xicilion: 没有谁该 first，至少很长一段时间，AI 和人类在开发中的关系，是结对关系。谁也离不开谁。\n哪种完全撒手让 AI 从头干到尾的，看起来很潮，实际上是执行人根本不知道自己想要什么，也根本不知道 AI 在干什么。因为 AI 干出什么，他们都会觉得超出…",
+      "created_at": "Tue Apr 14 20:51:31 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044135192919716020",
+        "text": "没有谁该 first，至少很长一段时间，AI 和人类在开发中的关系，是结对关系。谁也离不开谁。\n哪种完全撒手让 AI 从头干到尾的，看起来很潮，实际上是执行人根本不知道自己想要什么，也根本不知道 AI 在干什么。因为 AI 干出什么，他们都会觉得超出预期。",
+        "created_at": "Tue Apr 14 19:26:22 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "364478145",
+          "name": "响马",
+          "screen_name": "xicilion",
+          "description": "。。。。。。",
+          "followers_count": 66064,
+          "friends_count": 3269,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 8,
+          "reply_count": 2,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "reply_count": 0,
         "quote_count": 0
       }
     }
