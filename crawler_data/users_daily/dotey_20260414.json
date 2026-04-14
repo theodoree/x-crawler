@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207462,
+    "followers_count": 207491,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260414",
-  "last_updated": "2026-04-14T03:06:04.043384",
-  "tweet_count": 1,
+  "last_updated": "2026-04-14T04:59:03.562299",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2043855999648379333",
@@ -45,6 +45,177 @@
       "quoted": null,
       "stats": {
         "retweet_count": 41,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043898700531896576",
+      "text": "RT @indie_maker_fox: 这个技能画出来的架构图的质量是真的太高了！\n\nhttps://t.co/xPijG1GFTH\n\n下面是OpenHarness的架构图，配色很舒服 https://t.co/lQ9SiNzP53",
+      "created_at": "Tue Apr 14 03:46:38 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043857349212012544",
+          "url": "https://pbs.twimg.com/media/HF09bidagAAjHCh.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2043857352282255829",
+        "text": "这个技能画出来的架构图的质量是真的太高了！\n\nhttps://t.co/xPijG1GFTH\n\n下面是OpenHarness的架构图，配色很舒服 https://t.co/lQ9SiNzP53",
+        "created_at": "Tue Apr 14 01:02:20 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043857349212012544",
+            "url": "https://pbs.twimg.com/media/HF09bidagAAjHCh.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1865299069092139008",
+          "name": "Indie Fox",
+          "screen_name": "indie_maker_fox",
+          "description": "🔥 TanStack boilerplate：https://t.co/EOxhRbrenE\n🚀 AI SaaS boilerplate：https://t.co/VyNtTs0jSX\n🎉 Directory boilerplate：https://t.co/g5ZcaPuMnZ\n👨‍💻 独立开发，公开构建，AI 实战派\n🤑 产品出海，2 年收入破 10 万美刀",
+          "followers_count": 12073,
+          "friends_count": 1085,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 397,
+          "reply_count": 9,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 48,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043904844608532640",
+      "text": "Vercel 开源了 Open Agents，一个用来搭建企业自有编程 Agent 平台的参考实现。\n\nCEO Guillermo Rauch 说：现成的编程 Agent 在大型代码仓库上表现不行，也不了解你公司的知识体系和内部流程，所以 Stripe、Spotify、Block 这些公司都在造自己的 AI 软件工厂。\n\nOpen Agents 绑定了 Vercel 自家的 Fluid、Workflow、Sandbox 和 AI Gateway 这套底座。但不管怎么说，Open Agents 给了一个可以直接 fork 的起点。\n\n架构分三层：前端负责会话和认证，Agent 作为持久化工作流运行在 Vercel 上，沙箱提供隔离的代码执行环境。一个关键设计是 Agent 不跑在沙箱里面，而是从外部通过工具调用（文件读写、Shell 命令、搜索等）操作沙箱。这样 Agent 的生命周期、沙箱的生命周期、模型的选择，三件事互不绑定，各自演进。\n\n功能上已经比较完整：支持对话驱动的编程 Agent、沙箱快照恢复、仓库克隆和分支操作、自动提交和发 PR、会话分享，甚至还有语音输入。\n\n对于正在考虑自建编程 Agent 的技术团队，这省了从零搭架子的功夫。对于没有这个需求的开发者，这个项目的架构设计本身也值得看看，尤其是 Agent 和执行环境分离这个思路，几乎是当前所有 Agent 框架都在趋同的方向。\n\n对比下 Anthropic 的 Managed Agents。\n\nVercel 的 Open Agents 是开源参考实现，给你一套可以 fork 的代码，自己部署、自己改。Anthropic 的 Managed Agents 是全托管服务，你通过 API 定义 Agent 的行为，基础设施全部由 Anthropic 运行，连沙箱、状态管理、错误恢复都不用操心。\n\n有意思的是，两者在架构核心上达成了同一个共识：Agent 和执行环境必须分离。Vercel 的文档里专门强调\"the agent is not the sandbox\"，Agent 从外部通过工具调用操作沙箱。Anthropic 的工程博客用了一个更形象的说法，把 Agent 拆成\"大脑\"和\"手\"，大脑（模型和调度循环）不住在容器里，通过接口远程操控沙箱。\n\nAnthropic 的工程博客还解释了为什么要这么做：早期他们把所有东西塞进一个容器，结果容器变成了\"宠物\"（Pet），挂了就什么都丢了，调试还得钻进去看，而容器里又有用户数据，安全上也过不去。拆开之后，容器变成了\"牲口\"（Cattle），坏了就换一个，会话日志（Session）独立存储在外面，随时可以恢复。\n\n除了架构哲学，两者的差异很明显：\n\n模型锁定方面，Open Agents 不绑定模型，你可以接任何 LLM。Managed Agents 只能用 Claude 系列模型，但换来的是 Anthropic 在 harness 层面做的 prompt caching、上下文压缩、自动恢复这些优化，这些东西自己搭很难做好。\n\n成本结构方面，Open Agents 的成本是你自己的基础设施费用加上模型 API 调用费。Managed Agents 是三层计费：模型 token 费 + 每小时 0.08 美元的运行时费（按毫秒计，空闲不收费）+ 网页搜索每千次 10 美元。\n\n控制权方面，Open Agents 给你完整源码，怎么改都行，但搭建和维护是你的事。Managed Agents 上手快（有人说 30 分钟就能跑起来），但你被限制在 Anthropic 提供的 API 能力范围内。",
+      "created_at": "Tue Apr 14 04:11:03 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2043904837415272448",
+          "url": "https://pbs.twimg.com/media/HF1ontzXAAAErih.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2043745569278251112",
+        "text": "3 months ago I started building a coding agent that runs in the cloud.\n\nIt's since written every line of code I've shipped, including itself.\n\nToday, I'm open sourcing it. Introducing Open Agents. https://t.co/puuqWfMKej",
+        "created_at": "Mon Apr 13 17:38:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043745566291832833",
+            "url": "https://pbs.twimg.com/media/HFzXw6oasAEFzQy.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1051829114494177282",
+          "name": "Nico Albanese",
+          "screen_name": "nicoalbanese10",
+          "description": "@aisdk @vercel, unfortunate @arsenal fan, like to build stuff",
+          "followers_count": 8947,
+          "friends_count": 745,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 127,
+          "favorite_count": 1623,
+          "reply_count": 108,
+          "quote_count": 45
+        }
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 61,
+        "reply_count": 4,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2043911437697888290",
+      "text": "RT @xicilion: Agent 和执行环境必须分离，这个结论是对的。不过他们实现有些差别。关注沙箱可以了解一下 @anthropic-ai/sandbox-runtime，实现原理和 boxsh 一样，区别在于 sandbox-runtime 目标在于安全，boxsh…",
+      "created_at": "Tue Apr 14 04:37:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2043911257108164942",
+        "text": "Agent 和执行环境必须分离，这个结论是对的。不过他们实现有些差别。关注沙箱可以了解一下 @anthropic-ai/sandbox-runtime，实现原理和 boxsh 一样，区别在于 sandbox-runtime 目标在于安全，boxsh 在安全之上规划了零成本 cow worktree 工作流。\nboxsh 的沙箱单位是会话。",
+        "created_at": "Tue Apr 14 04:36:32 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2043904844608532640",
+          "text": "Vercel 开源了 Open Agents，一个用来搭建企业自有编程 Agent 平台的参考实现。\n\nCEO Guillermo Rauch 说：现成的编程 Agent 在大型代码仓库上表现不行，也不了解你公司的知识体系和内部流程，所以 Stripe、Spotify、Block 这些公司都在造自己的 AI 软件工厂。\n\nOpen Agents 绑定了 Vercel 自家的 Fluid、Workflow、Sandbox 和 AI Gateway 这套底座。但不管怎么说，Open Agents 给了一个可以直接 fork 的起点。\n\n架构分三层：前端负责会话和认证，Agent 作为持久化工作流运行在 Vercel 上，沙箱提供隔离的代码执行环境。一个关键设计是 Agent 不跑在沙箱里面，而是从外部通过工具调用（文件读写、Shell 命令、搜索等）操作沙箱。这样 Agent 的生命周期、沙箱的生命周期、模型的选择，三件事互不绑定，各自演进。\n\n功能上已经比较完整：支持对话驱动的编程 Agent、沙箱快照恢复、仓库克隆和分支操作、自动提交和发 PR、会话分享，甚至还有语音输入。\n\n对于正在考虑自建编程 Agent 的技术团队，这省了从零搭架子的功夫。对于没有这个需求的开发者，这个项目的架构设计本身也值得看看，尤其是 Agent 和执行环境分离这个思路，几乎是当前所有 Agent 框架都在趋同的方向。\n\n对比下 Anthropic 的 Managed Agents。\n\nVercel 的 Open Agents 是开源参考实现，给你一套可以 fork 的代码，自己部署、自己改。Anthropic 的 Managed Agents 是全托管服务，你通过 API 定义 Agent 的行为，基础设施全部由 Anthropic 运行，连沙箱、状态管理、错误恢复都不用操心。\n\n有意思的是，两者在架构核心上达成了同一个共识：Agent 和执行环境必须分离。Vercel 的文档里专门强调\"the agent is not the sandbox\"，Agent 从外部通过工具调用操作沙箱。Anthropic 的工程博客用了一个更形象的说法，把 Agent 拆成\"大脑\"和\"手\"，大脑（模型和调度循环）不住在容器里，通过接口远程操控沙箱。\n\nAnthropic 的工程博客还解释了为什么要这么做：早期他们把所有东西塞进一个容器，结果容器变成了\"宠物\"（Pet），挂了就什么都丢了，调试还得钻进去看，而容器里又有用户数据，安全上也过不去。拆开之后，容器变成了\"牲口\"（Cattle），坏了就换一个，会话日志（Session）独立存储在外面，随时可以恢复。\n\n除了架构哲学，两者的差异很明显：\n\n模型锁定方面，Open Agents 不绑定模型，你可以接任何 LLM。Managed Agents 只能用 Claude 系列模型，但换来的是 Anthropic 在 harness 层面做的 prompt caching、上下文压缩、自动恢复这些优化，这些东西自己搭很难做好。\n\n成本结构方面，Open Agents 的成本是你自己的基础设施费用加上模型 API 调用费。Managed Agents 是三层计费：模型 token 费 + 每小时 0.08 美元的运行时费（按毫秒计，空闲不收费）+ 网页搜索每千次 10 美元。\n\n控制权方面，Open Agents 给你完整源码，怎么改都行，但搭建和维护是你的事。Managed Agents 上手快（有人说 30 分钟就能跑起来），但你被限制在 Anthropic 提供的 API 能力范围内。",
+          "created_at": "Tue Apr 14 04:11:03 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2043904837415272448",
+              "url": "https://pbs.twimg.com/media/HF1ontzXAAAErih.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "3178231",
+            "name": "宝玉",
+            "screen_name": "dotey",
+            "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+            "followers_count": 207491,
+            "friends_count": 1603,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 15,
+            "favorite_count": 61,
+            "reply_count": 4,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "364478145",
+          "name": "响马",
+          "screen_name": "xicilion",
+          "description": "。。。。。。",
+          "followers_count": 66037,
+          "friends_count": 3268,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 8,
+          "reply_count": 0,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
