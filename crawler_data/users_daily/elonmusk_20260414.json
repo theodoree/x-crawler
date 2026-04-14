@@ -1,0 +1,105 @@
+{
+  "user": {
+    "screen_name": "elonmusk",
+    "name": "Elon Musk",
+    "description": "https://t.co/dDtDyVssfm",
+    "followers_count": 237934133,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260414",
+  "last_updated": "2026-04-14T03:06:04.049516",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2043853789304893655",
+      "text": "RT @cb_doge: NEWS: U.S. Department of Agriculture (USDA) to adopt Grok.\n\nThe U.S. Department of Agriculture (USDA) says it’s “proud” to mov…",
+      "created_at": "Tue Apr 14 00:48:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043829173719052510",
+        "text": "NEWS: U.S. Department of Agriculture (USDA) to adopt Grok.\n\nThe U.S. Department of Agriculture (USDA) says it’s “proud” to move forward with a plan to deploy xAI’s Grok across the agency.\n\nThe USDA is also sponsoring Grok for federal approval, calling it a step toward equipping its workforce with the most capable AI available.\n\nA major win for xAI. \n\n(Source: Fast Company)",
+        "created_at": "Mon Apr 13 23:10:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043828402873061376",
+            "url": "https://pbs.twimg.com/media/HF0jGo8aUAAeSW9.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1840832,
+          "friends_count": 933,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 628,
+          "favorite_count": 2999,
+          "reply_count": 258,
+          "quote_count": 46
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 628,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043853914274144373",
+      "text": "RT @SawyerMerritt: Emirates executive Patrick Brannelly in new interview on why they adopted @Starlink:\n\n\"The legacy systems weren’t workin…",
+      "created_at": "Tue Apr 14 00:48:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043842458925113776",
+        "text": "Emirates executive Patrick Brannelly in new interview on why they adopted @Starlink:\n\n\"The legacy systems weren’t working. No matter how much money we threw at them, passengers still complained, and it was impossible technically for everybody that wanted to connect to connect. Then Starlink came along saying, ‘We guarantee it, it will work.’  With a very pragmatic technical viewpoint, insisting on XWAPs, to connect 100%, and to install more than one antenna to handle demand and for redundancy. It was like for the first time, talking to people that actually understood how the internet works in a highly dense environment on an aircraft.\n\nIt seemed our legacy connectivity industry didn’t really understand the core technologies needed to deliver customer connectivity happiness. But Starlink absolutely understood it.\n\nNow, in addition, the big fundamental shift from the first generation of Starlink was the evolution of satellite-to-satellite laser connectivity. So, if you’re a middle of the ocean, where you’ve got nowhere to ground the traffic, Starlink could just pass the traffic through adjacent satellites until there’s one over a ground station. That worked much better than I think anybody had imagined.\"\n\nEmirates has already started to install Starlink on its entire fleet of ~232 aircraft, with full completion expected by mid-2027. Customers onboard with Starlink are already seeing 10-20X internet speed improvements.\n\n(full SatelliteToday interview linked below)",
+        "created_at": "Tue Apr 14 00:03:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043841008044269568",
+            "url": "https://pbs.twimg.com/media/HF0ukW3a4AAdQWH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1055571,
+          "friends_count": 449,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 410,
+          "favorite_count": 2991,
+          "reply_count": 207,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 410,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}

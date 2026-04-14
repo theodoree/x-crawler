@@ -1,12 +1,171 @@
 {
   "date": "20260414",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-14T00:31:29.695853",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-04-14T03:06:04.015031",
+  "tweet_count": 203,
+  "unique_tweet_count": 203,
+  "total_crawled": 400,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2043855999648379333",
+      "text": "RT @yuanhao: https://t.co/M6p0kbGVzn",
+      "created_at": "Tue Apr 14 00:56:57 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2043490301294022741",
+        "text": "https://t.co/M6p0kbGVzn",
+        "created_at": "Mon Apr 13 00:43:48 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "11685162",
+          "name": "Yuanhao",
+          "screen_name": "yuanhao",
+          "description": "Building yoyo: a self-evolving coding agent that modifies its own source code, tests itself, and grows up in public. https://t.co/puIQ795ERu",
+          "followers_count": 1891,
+          "friends_count": 225,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 41,
+          "favorite_count": 227,
+          "reply_count": 4,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207462,
+        "friends_count": 1603,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 41,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043853914274144373",
+      "text": "RT @SawyerMerritt: Emirates executive Patrick Brannelly in new interview on why they adopted @Starlink:\n\n\"The legacy systems weren’t workin…",
+      "created_at": "Tue Apr 14 00:48:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043842458925113776",
+        "text": "Emirates executive Patrick Brannelly in new interview on why they adopted @Starlink:\n\n\"The legacy systems weren’t working. No matter how much money we threw at them, passengers still complained, and it was impossible technically for everybody that wanted to connect to connect. Then Starlink came along saying, ‘We guarantee it, it will work.’  With a very pragmatic technical viewpoint, insisting on XWAPs, to connect 100%, and to install more than one antenna to handle demand and for redundancy. It was like for the first time, talking to people that actually understood how the internet works in a highly dense environment on an aircraft.\n\nIt seemed our legacy connectivity industry didn’t really understand the core technologies needed to deliver customer connectivity happiness. But Starlink absolutely understood it.\n\nNow, in addition, the big fundamental shift from the first generation of Starlink was the evolution of satellite-to-satellite laser connectivity. So, if you’re a middle of the ocean, where you’ve got nowhere to ground the traffic, Starlink could just pass the traffic through adjacent satellites until there’s one over a ground station. That worked much better than I think anybody had imagined.\"\n\nEmirates has already started to install Starlink on its entire fleet of ~232 aircraft, with full completion expected by mid-2027. Customers onboard with Starlink are already seeing 10-20X internet speed improvements.\n\n(full SatelliteToday interview linked below)",
+        "created_at": "Tue Apr 14 00:03:09 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043841008044269568",
+            "url": "https://pbs.twimg.com/media/HF0ukW3a4AAdQWH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1055571,
+          "friends_count": 449,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 410,
+          "favorite_count": 2991,
+          "reply_count": 207,
+          "quote_count": 20
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237934133,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 410,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2043853789304893655",
+      "text": "RT @cb_doge: NEWS: U.S. Department of Agriculture (USDA) to adopt Grok.\n\nThe U.S. Department of Agriculture (USDA) says it’s “proud” to mov…",
+      "created_at": "Tue Apr 14 00:48:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043829173719052510",
+        "text": "NEWS: U.S. Department of Agriculture (USDA) to adopt Grok.\n\nThe U.S. Department of Agriculture (USDA) says it’s “proud” to move forward with a plan to deploy xAI’s Grok across the agency.\n\nThe USDA is also sponsoring Grok for federal approval, calling it a step toward equipping its workforce with the most capable AI available.\n\nA major win for xAI. \n\n(Source: Fast Company)",
+        "created_at": "Mon Apr 13 23:10:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2043828402873061376",
+            "url": "https://pbs.twimg.com/media/HF0jGo8aUAAeSW9.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1840832,
+          "friends_count": 933,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 628,
+          "favorite_count": 2999,
+          "reply_count": 258,
+          "quote_count": 46
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 237934133,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 628,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2043840804859281434",
       "text": "RT @wong2__: 沉迷Vibe Coding却疏于锻炼？快来试试Vibe Ring！\n\n把落灰的Switch健身环和mac按键映射：\n1. 挤压健身环 = 长按Fn语音输入\n2. 向外拉健身环 = 回车发送\n\nhttps://t.co/5vbXAYikGR https:…",

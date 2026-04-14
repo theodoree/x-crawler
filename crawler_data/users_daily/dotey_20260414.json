@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 207462,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260414",
+  "last_updated": "2026-04-14T03:06:04.043384",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2043855999648379333",
+      "text": "RT @yuanhao: https://t.co/M6p0kbGVzn",
+      "created_at": "Tue Apr 14 00:56:57 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2043490301294022741",
+        "text": "https://t.co/M6p0kbGVzn",
+        "created_at": "Mon Apr 13 00:43:48 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "11685162",
+          "name": "Yuanhao",
+          "screen_name": "yuanhao",
+          "description": "Building yoyo: a self-evolving coding agent that modifies its own source code, tests itself, and grows up in public. https://t.co/puIQ795ERu",
+          "followers_count": 1891,
+          "friends_count": 225,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 41,
+          "favorite_count": 227,
+          "reply_count": 4,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 41,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
