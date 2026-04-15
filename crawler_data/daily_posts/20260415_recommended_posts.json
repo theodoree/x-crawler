@@ -1,12 +1,1243 @@
 {
   "date": "20260415",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-15T06:39:13.685933",
-  "tweet_count": 212,
-  "unique_tweet_count": 212,
-  "total_crawled": 408,
-  "duplicates_removed": 196,
+  "last_crawl_time": "2026-04-15T08:36:19.966354",
+  "tweet_count": 233,
+  "unique_tweet_count": 233,
+  "total_crawled": 412,
+  "duplicates_removed": 179,
   "tweets": [
+    {
+      "id": "2044331885548220642",
+      "text": "RT @SawyerMerritt: Here's my first drive on Tesla FSD V14.3.1. It feels polished vs 14.3 and it my opinion is ready for wide release.\n\n• Wi…",
+      "created_at": "Wed Apr 15 08:27:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044174452821311858",
+        "text": "Here's my first drive on Tesla FSD V14.3.1. It feels polished vs 14.3 and it my opinion is ready for wide release.\n\n• With 14.3.1, you can now tap on the new \"P\" parking icon and bring up your different parking options\n• Mad Max mode on the highway feels slightly more conservative with top speed (favors low 80s more often), but will now get to the right lanes sooner to prepare for exiting the highway. In this first drive, Mad Max did not go above 83mph, despite no cars around me most of the time. Follow distance is also more comfortable. I like all these things.\n• I'm having zero brake stabbing issues on 14.3.1, whereas I had a couple on my first drive with 14.3\n• Urban lane selection is better vs 14.3\n• Navigation routes and occasional parking alignment still need some work, but that's not a reason to hold back wide release.\n\nIt still surprises me how much quicker V14.3 reacts to things. If a car pulls out of a parking spot as you drive by, FSD hits the brakes before you even know what's going on. The 20% better reaction time is definitely noticeable.",
+        "created_at": "Tue Apr 14 22:02:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044169610417651712",
+            "url": "https://video.twimg.com/amplify_video/2044169610417651712/vid/avc1/3840x2160/ohl34ywz6BZ2h9Lh.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1056132,
+          "friends_count": 449,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 282,
+          "favorite_count": 3251,
+          "reply_count": 165,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 282,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044331778496966983",
+      "text": "RT @BLKMDL3: FSD v14.3.1 review after 10 drives and many hours, here are my thoughts (it’s a great one)\n\n- v14.3.1 feels like a big jump ev…",
+      "created_at": "Wed Apr 15 08:27:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044321995966558565",
+        "text": "FSD v14.3.1 review after 10 drives and many hours, here are my thoughts (it’s a great one)\n\n- v14.3.1 feels like a big jump even compared to FSD v14.3, even for “just” a point release build. Everything’s polished and smoother overall as expected. \n\n- Always after a big update or fundamental architecture changes, there will be a couple rough edges. I was very impressed with how solid FSD v14.3 was, and .1 added a lot of polish to it.\n\n- First big thing I noticed with this build was improved lane bias and preference changes. Notably, v14.3 would like to sit toward the left lane on emptier highways, in my driving tonight I didn’t see any of that. Will drive a lot more tomorrow to verify. \n\n- In FSD v14.3, a new feature introduced was a new P parking icon at your destination. At first with v14.3, it didn’t show for me, then it did majority of the time. With v14.3.1, it has shown every single time now. Something new in .1 is you can now select it and change the arrival type from parking lot to garage, street parking, curbside etc. Nice improvement and quick to change. \n\n- As with v14.3, stop sign behavior is MUCH improved. It commits and doesn’t hesitate, no double stops I’ve seen and a smoother acceleration and deceleration curve, leading to a more comfortable drive. Notably, speed bumps and dip handling is also buttery smooth, great acceleration/deceleration curve as well.\n\n- Gated parking lots. One thing I noticed today with gated lots and garages is that it pulls up to the ticket dispenser way quicker and in a better position than before. It’s close and centered, exactly where I’d pull up. Goes right away when gate opens too, 10/10 no notes. \n\nParking- This is a big change with FSD v14.3+. It now picks parking spots quicker and more decisive. With v14.3.1 it’s even better, it’s picking the first spot it sees and commits, and sometimes they are even corner spots which I personally love to avoid door dings. I saw a ton of corner spot parking today which is awesome. When it’s parking, it’s so quick to decide which spot to take, but sometimes once it starts pulling in the spot it’s a bit slow to finish the maneuver as well as a bit slow in parking lots sometimes now, the final 5 feet of the maneuver are the slowest understandably. I saw an instance of the twitchy steering wheel as well.\n\nSpot selection is so improved it’s hard to even compare to v14.2.x. What a massive upgrade and the decision making is so fast and confident. \n\n- Speed control was great on my drives tonight, mostly city but was behaving exactly how I would and expect of it now. Went perfectly with flow of traffic on the profiles I selected.  Hurry mode is dialed in, and doesn’t sit in left lane, at least on the drives I did. \n\n- So cool to have Grok integrated with navigation. Tesla Self Driving and Grok took me to 5 separate destinations earlier with ZERO input, I just pressed start FSD and it drove, parked, unparked and got me to each destination without any intervention. Definitely worth watching the video I posted earlier of it.\n\n- Decision making and reaction times are next level as well, it reacted to multiple bad human drivers we encountered tonight extremely well and the reaction time is lightning fast. Will post some videos tomorrow of it reacting to other vehicles, its reasoning is fantastic. \n\nOverall, what a big polish upgrade to an already excellent build. Really excited to drive it more extensively tomorrow. Thank you to the legends @Tesla_AI for the hard work getting another fantastic build out to us, this one’s phenomenal.",
+        "created_at": "Wed Apr 15 07:48:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044321989989675008",
+            "url": "https://pbs.twimg.com/media/HF7kBMPasAA3V7M.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "988975103785365504",
+          "name": "Zack",
+          "screen_name": "BLKMDL3",
+          "description": "",
+          "followers_count": 88279,
+          "friends_count": 2345,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 56,
+          "favorite_count": 322,
+          "reply_count": 48,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 56,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044331228632101031",
+      "text": "Tesla Diner",
+      "created_at": "Wed Apr 15 08:25:21 +0000 2026",
+      "lang": "tr",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044159596290617786",
+        "text": "Fried Pickle Po' Boy now available at Tesla Diner https://t.co/CYlWNspYzC",
+        "created_at": "Tue Apr 14 21:03:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044159550841028608",
+            "url": "https://pbs.twimg.com/media/HF5QR_QaAAA1kYs.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1679769205938311169",
+          "name": "Tesla North America",
+          "screen_name": "tesla_na",
+          "description": "Building a world of amazing abundance",
+          "followers_count": 104339,
+          "friends_count": 20,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 143,
+          "favorite_count": 1674,
+          "reply_count": 126,
+          "quote_count": 32
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 191,
+        "favorite_count": 2118,
+        "reply_count": 602,
+        "quote_count": 21
+      }
+    },
+    {
+      "id": "2044330785101279297",
+      "text": "Wow",
+      "created_at": "Wed Apr 15 08:23:35 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044223009083294040",
+        "text": "The new leading Democrat candidate for Governor of California: https://t.co/4zcNPqhvFG",
+        "created_at": "Wed Apr 15 01:15:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044223004708929536",
+            "url": "https://pbs.twimg.com/media/HF6J_fVbgAAsuMS.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "534023",
+          "name": "ALX 🇺🇸",
+          "screen_name": "alx",
+          "description": "American Supremacist.",
+          "followers_count": 1036636,
+          "friends_count": 4473,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 58,
+          "favorite_count": 247,
+          "reply_count": 40,
+          "quote_count": 8
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 294,
+        "favorite_count": 1888,
+        "reply_count": 416,
+        "quote_count": 12
+      }
+    },
+    {
+      "id": "2044330491562889511",
+      "text": "RT @cb_doge: Engineering Is Magic. https://t.co/NUGrnOasgo",
+      "created_at": "Wed Apr 15 08:22:25 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044326864748187648",
+          "url": "https://pbs.twimg.com/media/HF7oc8IakAAvv8P.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2044326937099939870",
+        "text": "Engineering Is Magic. https://t.co/NUGrnOasgo",
+        "created_at": "Wed Apr 15 08:08:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044326864748187648",
+            "url": "https://pbs.twimg.com/media/HF7oc8IakAAvv8P.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1842050,
+          "friends_count": 933,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 161,
+          "favorite_count": 917,
+          "reply_count": 176,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 161,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044330367029739654",
+      "text": "Restoring broken neural pathways",
+      "created_at": "Wed Apr 15 08:21:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044097503155397038",
+        "text": "What is neuron degeneration? \n\nSkyler, a machine learning engineer at Neuralink, shares how brain-computer interfaces could bypass neural pathways that are broken due to ALS, helping restore the ability to speak to those who have lost it. https://t.co/achRvtrTYh",
+        "created_at": "Tue Apr 14 16:56:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044097397651861504",
+            "url": "https://video.twimg.com/ext_tw_video/2044097397651861504/pu/vid/avc1/1280x720/egUqE6zg6aSl5nvK.mp4?tag=12",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "895332160130891776",
+          "name": "Neuralink",
+          "screen_name": "neuralink",
+          "description": "Creating a general-purpose, high-bandwidth interface to the brain",
+          "followers_count": 1724967,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 199,
+          "favorite_count": 1453,
+          "reply_count": 67,
+          "quote_count": 24
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 315,
+        "favorite_count": 1914,
+        "reply_count": 443,
+        "quote_count": 16
+      }
+    },
+    {
+      "id": "2044328235664916495",
+      "text": "Have to make up for lost time",
+      "created_at": "Wed Apr 15 08:13:27 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1998807709987262928",
+        "text": "WHAT FEATURES DID X AND XAI ADD IN 2025?\n\n2025 is almost over and both X and xAI has have been cooking!\n\nLet’s see what features they worked on this year!\n\nGood job done by the teams! https://t.co/EUrOLxBGVr",
+        "created_at": "Wed Dec 10 17:31:08 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1998807632832794624",
+            "url": "https://pbs.twimg.com/media/G70w87FWkAAbBfa.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1324273819184361472",
+          "name": "Nima Owji",
+          "screen_name": "nima_owji",
+          "description": "Independent App Researcher. Web Developer. I post about tech. For inquiries, send me a DM!",
+          "followers_count": 48021,
+          "friends_count": 1146,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 36,
+          "favorite_count": 257,
+          "reply_count": 50,
+          "quote_count": 7
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 364,
+        "favorite_count": 2521,
+        "reply_count": 891,
+        "quote_count": 33
+      }
+    },
+    {
+      "id": "2044326346483216561",
+      "text": "RT @BillMelugin_: NEW: CA gubernatorial candidate Tom Steyer (D) releases an immigration platform that is radically left of Gov. Newsom. It…",
+      "created_at": "Wed Apr 15 08:05:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044191951558254712",
+        "text": "NEW: CA gubernatorial candidate Tom Steyer (D) releases an immigration platform that is radically left of Gov. Newsom. It includes:\n\n- Abolish ICE\n- Put ICE agents in jail & “treat them like the mob”.\n- Bring those “kidnapped & detained by ICE back home.”\n- Give CA AG power to imprison ICE agents & their leadership. \n- Taxpayer funded legal representation & support for illegal aliens.\n- Ignore a SCOTUS ruling that allows ICE to utilize to use race, language, job, and location to contribute to “reasonable suspicion” for immigration arrests, and instead, “California should take matters into our own hands and extend legal protections to its residents, despite the federal governments failure.” \n\n“This is about our right as a state to protect our residents,” Steyer says.",
+        "created_at": "Tue Apr 14 23:11:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2044155939453129001",
+          "text": "https://t.co/bUcFaPgkZJ",
+          "created_at": "Tue Apr 14 20:48:49 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "949934436",
+            "name": "Tom Steyer",
+            "screen_name": "TomSteyer",
+            "description": "Proud Californian and relentless optimist who knows how to get things done. Fighting for a California you can afford.",
+            "followers_count": 241378,
+            "friends_count": 1202,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 121,
+            "favorite_count": 1155,
+            "reply_count": 1682,
+            "quote_count": 238
+          }
+        },
+        "user": {
+          "id": "1071585991",
+          "name": "Bill Melugin",
+          "screen_name": "BillMelugin_",
+          "description": "Congressional correspondent for @foxnews in DC. 4x EMMY winner, 3x Edward R. Murrow winner, 4x RTNA Golden Mike winner. @Cronkite_ASU grad & SoCal native.",
+          "followers_count": 634345,
+          "friends_count": 3681,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3606,
+          "favorite_count": 11544,
+          "reply_count": 1435,
+          "quote_count": 544
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 3606,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044321519577563230",
+      "text": "RT @MikeBenzCyber: To recap:\n1. The EU Council blocked $40 billion to Hungary because it wouldn't give NGOs control over its courts.\n2. The…",
+      "created_at": "Wed Apr 15 07:46:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043962728801341824",
+        "text": "To recap:\n1. The EU Council blocked $40 billion to Hungary because it wouldn't give NGOs control over its courts.\n2. The EU Court blocked Hungary from passing a FARA law to see whether NGOs there were funded by the EU.\n3. The EU Council announced it would centralize voting power on EU accession to block Hungary from having a vote in the future if Orban won the election.\n4. The EU flooded Hungary with political NGOs to back Magyar's campaign to oust Orban from power so Hungary would bend to the EU on Ukraine accession, mass immigration, MMIWG2SLGBTQQIA+, etc.\n5. Magyar wins, the EU immediately imposes a 27-point conditions list for Hungary to unblock the funds, including on Ukraine accession, mass immigration, MMIWG2SLGBTQQIA+, etc.\n6. The EU Commissioner comes out and says she's actually going to centralize voting power to cut out EU members like Hungary anyway.",
+        "created_at": "Tue Apr 14 08:01:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2023621824110616995",
+          "text": "Right now, all eyes (and cash) among EU Blobsters are on Hungary's election, which is 2 months away, where untold foreign millions could be pouring in to covertly fund this guy's astroturfed campaign, because the Biden Admin &amp; EU teamed up to force Hungary to repeal its FARA law https://t.co/ZJexgyuifu",
+          "created_at": "Tue Feb 17 04:53:34 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2023621464591626241",
+              "url": "https://video.twimg.com/amplify_video/2023621464591626241/vid/avc1/1920x1080/Qp_6eDDTUeMnyTJV.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1599510806680535042",
+            "name": "Mike Benz",
+            "screen_name": "MikeBenzCyber",
+            "description": "Executive Director, @FFO_Freedom. Former State Dept Cyber. Author of the unpublishable monstrosity, Weapons Of Mass Deletion.",
+            "followers_count": 1154225,
+            "friends_count": 790,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1191,
+            "favorite_count": 4173,
+            "reply_count": 89,
+            "quote_count": 53
+          }
+        },
+        "user": {
+          "id": "1599510806680535042",
+          "name": "Mike Benz",
+          "screen_name": "MikeBenzCyber",
+          "description": "Executive Director, @FFO_Freedom. Former State Dept Cyber. Author of the unpublishable monstrosity, Weapons Of Mass Deletion.",
+          "followers_count": 1154225,
+          "friends_count": 790,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5246,
+          "favorite_count": 13113,
+          "reply_count": 423,
+          "quote_count": 287
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5246,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044321297061294571",
+      "text": "RT @mattvanswol: 🚨#BREAKING: The woman who was randomly shot in the face 6 times and st*bbed to de*th while she was walking her dog in Atla…",
+      "created_at": "Wed Apr 15 07:45:53 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044042507403591912",
+        "text": "🚨#BREAKING: The woman who was randomly shot in the face 6 times and st*bbed to de*th while she was walking her dog in Atlanta GA has been identified as 40-year-old Lauren Bullis.\n\nThe suspect, “Olaolukitan Adon Abel” was also allegedly in the process of se*ually assaulting her before neighbors came to the scene.\n\nOlaolukitan is charged with 3 other \"completely random\" shootings and the de*th of another woman.\n\nWe do not have to live like this.",
+        "created_at": "Tue Apr 14 13:18:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044042149600047104",
+            "url": "https://video.twimg.com/amplify_video/2044042149600047104/vid/avc1/1920x1080/Mrdm0Z0c1O_bk8xC.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1244068896157708289",
+          "name": "Matt Van Swol",
+          "screen_name": "mattvanswol",
+          "description": "Former Nuclear Scientist for US Dept of Energy | Ex-Photographer for @apple, @united, and @hyatt",
+          "followers_count": 492327,
+          "friends_count": 7748,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 28310,
+          "favorite_count": 78601,
+          "reply_count": 3998,
+          "quote_count": 1416
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 28310,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044320822874255643",
+      "text": "RT @RupertLowe10: An undercover BBC investigation has found a ‘shadow industry of law firms and advisers is charging thousands of pounds to…",
+      "created_at": "Wed Apr 15 07:44:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044297057540747327",
+        "text": "An undercover BBC investigation has found a ‘shadow industry of law firms and advisers is charging thousands of pounds to help migrants pretend to be gay in order to stay in the UK’.\n\nWE KNOW.\n\nWe’ve all been saying it for years, but the BBC is finally catching on...\n\nA Restore Britain Government would solve this in two ways.\n\nDeportations.\n\nAnyone who arrived illegally gets deported - included those already granted asylum.\n\nIf you came here on a boat, you will be sent home.\n\nIf a foreign national lawyer or worker has been involved in the fraud, they too will be deported.\n\nThey can claim they’re gay if they like - they can explain all about it to the deportation officer on their flight home.\n\nProsecutions.\n\nAny British national found defrauding the asylum system will go to prison - that includes those within the Home Office.\n\nSimple as that.\n\nWe will pursue the judiciary - if they have been found to knowingly allow foreign sex pests and criminals to roam our streets? They will be held accountable. \n\nWe will not be afraid to put judges in prison.\n\nBecause the British people have all had enough of this.\n\nRestore Britain will finally end the vile piss-take, and thousands of people will go to prison for their role in it.",
+        "created_at": "Wed Apr 15 06:09:34 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1121375429884039175",
+          "name": "Rupert Lowe MP",
+          "screen_name": "RupertLowe10",
+          "description": "Great Yarmouth MP. Ex-Southampton FC Chairman. Businessman. Farmer. Former MEP. Leader, @restorebritain_.",
+          "followers_count": 740890,
+          "friends_count": 765,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2410,
+          "favorite_count": 11349,
+          "reply_count": 352,
+          "quote_count": 77
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2410,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044320025813889444",
+      "text": "RT @Mick_O_Keeffe: If you have been watching the Fuel Protests unfold in Ireland over the last week you might think this was the first time…",
+      "created_at": "Wed Apr 15 07:40:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2043786263367401854",
+        "text": "If you have been watching the Fuel Protests unfold in Ireland over the last week you might think this was the first time the state attacked peaceful protestors. \n\nIt wasn't. \n\nFor the last few years Irish people have been protesting against the massive demographic change happening to our country and the state came down on us with force, just like the farmers and truckers. \n\nThis is the reality of what's happening in Ireland. \n\nI have no confidence in my government.",
+        "created_at": "Mon Apr 13 20:19:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2043785984446476290",
+            "url": "https://video.twimg.com/ext_tw_video/2043785984446476290/pu/vid/avc1/1384x1080/_dUElAKcXZJiLbkp.mp4?tag=19",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1279898928041865220",
+          "name": "MichaeloKeeffe",
+          "screen_name": "Mick_O_Keeffe",
+          "description": "Irish. Banned by Twitter regime. Restored by Elon and X.",
+          "followers_count": 237986,
+          "friends_count": 536,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1547,
+          "favorite_count": 4904,
+          "reply_count": 197,
+          "quote_count": 46
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1547,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044319223145701511",
+      "text": "RT @Tesla_Asia: Model 3 Performance in spring🌸\n\n📸：GODZILLA https://t.co/u5o6tNbSHM",
+      "created_at": "Wed Apr 15 07:37:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044229488263991296",
+          "url": "https://pbs.twimg.com/media/HF6P44dakAA4E_8.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2044229750047289348",
+          "url": "https://pbs.twimg.com/media/HF6QIHrasAQkEgj.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2044229799733084160",
+          "url": "https://pbs.twimg.com/media/HF6QLAxbwAAVGue.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2044229849016066177",
+        "text": "Model 3 Performance in spring🌸\n\n📸：GODZILLA https://t.co/u5o6tNbSHM",
+        "created_at": "Wed Apr 15 01:42:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044229488263991296",
+            "url": "https://pbs.twimg.com/media/HF6P44dakAA4E_8.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044229750047289348",
+            "url": "https://pbs.twimg.com/media/HF6QIHrasAQkEgj.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044229799733084160",
+            "url": "https://pbs.twimg.com/media/HF6QLAxbwAAVGue.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1201427034754318337",
+          "name": "Tesla Asia",
+          "screen_name": "Tesla_Asia",
+          "description": "Our mission is to build a world of amazing abundance.",
+          "followers_count": 213847,
+          "friends_count": 48,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 218,
+          "favorite_count": 1752,
+          "reply_count": 164,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 218,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044319058171179461",
+      "text": "And thank you to @TaiwanSemi_TSC and @Samsung for your support in bringing this chip to production! It will be one of most produced AI chips ever.",
+      "created_at": "Wed Apr 15 07:36:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 158,
+        "favorite_count": 1587,
+        "reply_count": 183,
+        "quote_count": 19
+      }
+    },
+    {
+      "id": "2044317846319313049",
+      "text": "RT @XFreeze: SpaceX is moving at literal light speed right now\n\nSpaceX launched 2 more Falcon 9s in under 24 hours AGAIN - Florida in the m…",
+      "created_at": "Wed Apr 15 07:32:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044316827287970078",
+        "text": "SpaceX is moving at literal light speed right now\n\nSpaceX launched 2 more Falcon 9s in under 24 hours AGAIN - Florida in the morning, California at night\n\nEven with unlimited budgets, government space programs usually launch only once or twice a year\n\nMeanwhile, SpaceX is doing multiple launches a day with just hours between them, and Starlink reliability is going through the roof with every single payload",
+        "created_at": "Wed Apr 15 07:28:07 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044316131218079744",
+            "url": "https://pbs.twimg.com/media/HF7esKnawAA4ASo.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044316131218087936",
+            "url": "https://pbs.twimg.com/media/HF7esKna4AAS9Cu.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 190101,
+          "friends_count": 1724,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 197,
+          "favorite_count": 1216,
+          "reply_count": 196,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 197,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044317405560877199",
+      "text": "RT @Devon_Eriksen_: Have you ever watched a horror movie with vampires? \n\nNot sexy vampires for middle aged dumpy wine aunts to masturbate…",
+      "created_at": "Wed Apr 15 07:30:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044143977708871975",
+        "text": "Have you ever watched a horror movie with vampires? \n\nNot sexy vampires for middle aged dumpy wine aunts to masturbate to, but actual lore accurate vampires?\n\nThe kind of movie where your grandfather is scratching at the window asking why you won't let him in, but there's something wrong with his eyes and the tone of his voice, and either that's not him, or worse yet, maybe it is him, but with everything that made him love you stripped away and replaced by insatiable hunger?\n\nThe main character is never stupid enough to let him in, is he? \n\nIt's always grandma. \n\nAbout halfway through the movie. \n\nAnd she's always the first to die, slaughtered the moment she opens that window, but almost everyone else sheltering in the house quickly, follows, leaving the protagonist and his scantily-dressed girlfriend to flee across the moors at night, pursued by the blood-hungry corpses of everyone else they ever loved. \n\nYou've seen that movie, right? \n\nWell, I feel like I'm in that movie. \n\nIt's not that I hate grandma. She's nice. Loves people. Bakes cookies. \n\nBut she keeps trying to open the goddamned window. \n\nEvery time I point out that some institution of our former society is being worn as a skinsuit by corrupt self-interest masquerading as socialism masquerading as compassion, there's always those guys who are shocked and betrayed that I attacked their beloved thing. \n\nNo. Your beloved thing is gone. It doesn't matter what it did for you 30 years ago. It's not 30 years ago now. The soul of your beloved thing was eaten by a monster, and now it has become a monster itself. \n\nIt doesn't matter whether I'm talking about the Catholic church, Christianity in general, the Republican party, the American Medical Association, the NRA, Disney, whatever. \n\nIt's always the same. There's always the guy who is shocked, angry, and betrayed, because we're both supposed to be \"right-wing\", and here I am, attacking his beloved grandpa.\n\nI must be an evil nihilist straight from the bowels of reddit. \n\nBut I am not trying to rob you. I am trying to help you. \n\nThat is not your grandpa. \n\nThat is a vampire. \n\nWhat's almost worse is that there are some guys who do, eventually, understand. After they yell at me a bit and call me a grandpa-hater or something. \n\nBut the first thing they say, when they figure it out is...\n\n\"Can't we save the skinsuit?\"\n\nThey're still hoping, on some level, that grandpa is still there. That there's a cure. That they can have their beloved institutions and traditions back. \n\nWell, I'm not hopeful. I mean, I can't say for sure whether they can or can't, but that's not important. That's the wrong question. \n\nWe can't worry about saving Grandpa right now, because we have to save ourselves first. We have to survive the night. \n\nAnd if you're not willing to stake Grandpa through the heart for that, or, worse yet, if you try to stop the rest of us, yelling \"Grandpa! Noooooooo!\", grabbing at someone's wrist as he's trying to raise the big wooden mallet, then...\n\nWell, then you're not an enemy, but you are a liability. \n\nAnd so we have to put you in the back seat. We can't stop attacking Vampire Grandpa to spare your feelings. \n\nThe hour is too late for us to listen to friends who can't tell the difference between us and the enemy.",
+        "created_at": "Tue Apr 14 20:01:17 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2044124301859926243",
+          "text": "I think we can agree the issue is internationalist leftism. Reactionary right-wing stuff can be an issue too, but they're exactly that.\n\nCan we make a pact to destroy the Communists and their ilk, together? https://t.co/K2LOchYI87",
+          "created_at": "Tue Apr 14 18:43:06 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "animated_gif",
+              "id": "2044124295409078272",
+              "url": "https://pbs.twimg.com/tweet_video_thumb/HF4wN2iakAAmeNj.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1256751589987147788",
+            "name": "cTwelve",
+            "screen_name": "theCTwelve",
+            "description": "🇺🇸 Veteran, ONCE AGAIN a senior network engineer, writer. Ex-seminarian too! Catholic!🇻🇦Been a wild ride. Opinions entirely my own, and also probably dumb.",
+            "followers_count": 551,
+            "friends_count": 736,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1,
+            "favorite_count": 160,
+            "reply_count": 7,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "1675940718345617413",
+          "name": "Devon Eriksen",
+          "screen_name": "Devon_Eriksen_",
+          "description": "Scifi Author, Engineer, Sharpshooter, part-time Dæmon Prince of Tzeentch. Not a cat. https://t.co/TKQzarK7SE",
+          "followers_count": 115197,
+          "friends_count": 636,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 711,
+          "favorite_count": 4328,
+          "reply_count": 243,
+          "quote_count": 67
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 711,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044316980854014013",
+      "text": "RT @travelingflying: South African man: “White people are an inferior species to Black people. This is science. White people are below huma…",
+      "created_at": "Wed Apr 15 07:28:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044173856701899051",
+        "text": "South African man: “White people are an inferior species to Black people. This is science. White people are below human beings; you are negotiating with an animal, like a wild dog. You can’t expect the same behaviour from a dog”\n\nThis extremely racist false “science” is taught at universities in South Africa. Racism against White people needs to stop and be condemned and exposed.",
+        "created_at": "Tue Apr 14 22:00:01 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044086886684340225",
+            "url": "https://video.twimg.com/amplify_video/2044086886684340225/vid/avc1/464x228/fS2cMz9qvJPC_n4N.mp4?tag=21",
+            "bitrate": 256000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4868124659",
+          "name": "Taya",
+          "screen_name": "travelingflying",
+          "description": "Entrepreneur| Investor|World traveler|Part-time online troll|Conservative|",
+          "followers_count": 170716,
+          "friends_count": 23377,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1472,
+          "favorite_count": 5726,
+          "reply_count": 978,
+          "quote_count": 169
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1472,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044316337791709335",
+      "text": "RT @SpaceX: Falcon 9 launches 25 @Starlink satellites from California https://t.co/pQzorVl1PH",
+      "created_at": "Wed Apr 15 07:26:11 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044293625454948353",
+          "url": "https://pbs.twimg.com/media/HF7KOKHWcAET7ri.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2044293704559501312",
+          "url": "https://pbs.twimg.com/media/HF7KSwzWIAAUOIx.jpg"
+        },
+        {
+          "type": "video",
+          "id": "2044293737518440449",
+          "url": "https://video.twimg.com/amplify_video/2044293737518440449/vid/avc1/3840x2160/djbobSgZRjTgvj6C.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2044294385198571761",
+        "text": "Falcon 9 launches 25 @Starlink satellites from California https://t.co/pQzorVl1PH",
+        "created_at": "Wed Apr 15 05:58:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044293625454948353",
+            "url": "https://pbs.twimg.com/media/HF7KOKHWcAET7ri.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044293704559501312",
+            "url": "https://pbs.twimg.com/media/HF7KSwzWIAAUOIx.jpg"
+          },
+          {
+            "type": "video",
+            "id": "2044293737518440449",
+            "url": "https://video.twimg.com/amplify_video/2044293737518440449/vid/avc1/3840x2160/djbobSgZRjTgvj6C.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41438005,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 460,
+          "favorite_count": 3581,
+          "reply_count": 290,
+          "quote_count": 40
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 460,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044315118583066738",
+      "text": "Congrats to the @Tesla_AI chip design team on taping out AI5!\n\nAI6, Dojo3 &amp; other exciting chips in work. https://t.co/hm54TdIzBx",
+      "created_at": "Wed Apr 15 07:21:20 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044315115600916481",
+          "url": "https://pbs.twimg.com/media/HF7dxDJasAEV_PP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238039647,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1937,
+        "favorite_count": 17854,
+        "reply_count": 2400,
+        "quote_count": 332
+      }
+    },
+    {
+      "id": "2044314980036517989",
+      "text": "pi 是 OpenClaw 背后的 Agent 底层框架，它的核心维护者 Mario Zechner 最近宣布了一项新的规则：所有未提前申请批准的 issue 和 PR（代码合并请求），提交之后会立刻被机器人自动关闭。\n\n之所以要这么严格是因为他每天都会收到 30 到 50 条 issue，其中绝大部分都是由 AI Agent 自动生成的垃圾信息。\n\n新的规则是这样运行的：\n- 首先，这些被自动关闭的 issue，维护者每天都会手动再看一遍：\n  * 如果发现写得不错、符合要求，就会重新打开；\n  * 如果写得特别棒，维护者会给你加一个 \"lgtmi\" 标签，以后你的 issue 都不再自动关闭；\n  * 如果你不仅 issue 写得优秀，还附带了代码修复（PR），那标签会升级为 \"lgtm\"，以后你的 issue 和 PR 都不会再被机器人关闭；\n- 但是如果有人反复用 AI 工具刷垃圾内容，他的账号会被永久拉黑，不再接受任何贡献。\n\n其实这种情况并不是个例，而是整个开源社区目前都在面对的问题。AI 编程工具让大家提交 issue 或 PR 的成本几乎降到了零，但维护者审核这些内容的工作量却一点也没有减少。于是，GitHub 上越来越多的项目都开始收紧贡献的门槛，从过去的“欢迎所有人参与”变成了现在的“你先证明你是真人，而且是认真来贡献的”。",
+      "created_at": "Wed Apr 15 07:20:47 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044168670486622429",
+        "text": "People of pi. The great @steipete has graced our repository with a bespoke slop PR to fix cache affinity in the OpenAI Responses provider, which should lead to better prompt caching.\n\nAnd the new \"pi contribution model (tm)\" is now live. Here's how it works:\n\n- If you send a PR, it gets autoclosed, unless you've previously been approved by a maintainer.\n- If you send an issue, it gets autoclosed, unless you've previously been approved by a maintainer.\n\nAll auto-closed issues are triaged daily. \n\n- Issues that follow CONTRIBUTING.md and are worthwhile will be reopened.\n- Issues that are exceptionally well written get an \"lgtmi\" comment from me or @mitsuhiko, which will approve all your future issues automatically. No more auto-closing.\n- Issues that are well written AND offer a PR get an \"lgtm\" comment from me or @mitsuhiko, which will approve all your future issues and PRs automatically. No more auto-closing.\n\nI, the idiot who has to go through all the closed slop daily, mark the last issue I processed with the \"last read\" label. If your issue is below that and hasn't been opened, then it did not meet the quality standard. You may or may not receive a reply on why the issue was not opened, depending on my time and mood.\n\nAccounts that:\n- Let their agents slop a book into the issue tracker repeatedly\n- Otherwise behave badly\n\nwill get their account blocked across all my repositories. no exceptions. not takesies backsies.\n\nI get anywhere between 30-50 issues per day. Most of them are agent garbage. This is the only way to keep me sane and ensure the issue and PR trackers have actual good signal.",
+        "created_at": "Tue Apr 14 21:39:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044167356188966912",
+            "url": "https://pbs.twimg.com/media/HF5XYUcXwAAL8oq.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044168340470673408",
+            "url": "https://pbs.twimg.com/media/HF5YRnLasAAMZRl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "189876762",
+          "name": "Mario Zechner",
+          "screen_name": "badlogicgames",
+          "description": "Old man yelling at Claudes. The fucking bluecheck is temporary...\n\nhttps://t.co/mnOoWUqt4g\n\nhttps://t.co/8i5vIRDt6P",
+          "followers_count": 39524,
+          "friends_count": 1291,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 432,
+          "reply_count": 21,
+          "quote_count": 6
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207832,
+        "friends_count": 1603,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 38,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044306736358596938",
+      "text": "RT @intuitiveml: @dotey 我认为很多人可能误解了宝玉在“AI First”这个问题上的观点，所以我也想在这里做一些澄清，因为我对此非常有共鸣。\n\n我写这篇文章的目的，并不是想让所有人盲目地去采用“AI First”。相反，我想表达的是，把 AI 真正有效地…",
+      "created_at": "Wed Apr 15 06:48:01 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044114865309266369",
+        "text": "我认为很多人可能误解了宝玉在“AI First”这个问题上的观点，所以我也想在这里做一些澄清，因为我对此非常有共鸣。\n\n我写这篇文章的目的，并不是想让所有人盲目地去采用“AI First”。相反，我想表达的是，把 AI 真正有效地带入行业其实是一件很困难的事情。根据我的观察，大多数团队和公司在采用 AI 时方式是有问题的。人们往往过于强调“AI”本身，却忽视了软件工程的基础和良好的实践。这种失衡会导致很糟糕的结果，并最终让人们对 AI 失去信任，但这并不是因为 AI 没有价值，而是因为使用方式不正确。\n\n此外，我讨论的内容也不仅仅局限于工程本身。要成功采用 AI，还非常依赖组织结构和人员管理等方面，这些同样是团队或公司在推进 AI 过程中至关重要的因素。",
+        "created_at": "Tue Apr 14 18:05:36 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1218452020119527425",
+          "name": "Peter Pang",
+          "screen_name": "intuitiveml",
+          "description": "🚀 Co-founder, CreaoAI. Previously GenAI @ Meta (LLaMA).  xApple. Join the journey ↓",
+          "followers_count": 4373,
+          "friends_count": 92,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 22,
+          "reply_count": 5,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207832,
+        "friends_count": 1603,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2044295863967637838",
       "text": "RT @turingbook: DeepSeek的绝对核心郭达雅已经到字节上班了。中山大学印鉴和微软研究院周明老师联合培养的博士。 https://t.co/HoZK11GQge",

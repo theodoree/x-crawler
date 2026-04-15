@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207798,
+    "followers_count": 207832,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260415",
-  "last_updated": "2026-04-15T06:39:13.706206",
-  "tweet_count": 8,
+  "last_updated": "2026-04-15T08:36:20.018117",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2044207906690871682",
@@ -333,6 +333,95 @@
         "retweet_count": 4,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044306736358596938",
+      "text": "RT @intuitiveml: @dotey 我认为很多人可能误解了宝玉在“AI First”这个问题上的观点，所以我也想在这里做一些澄清，因为我对此非常有共鸣。\n\n我写这篇文章的目的，并不是想让所有人盲目地去采用“AI First”。相反，我想表达的是，把 AI 真正有效地…",
+      "created_at": "Wed Apr 15 06:48:01 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044114865309266369",
+        "text": "我认为很多人可能误解了宝玉在“AI First”这个问题上的观点，所以我也想在这里做一些澄清，因为我对此非常有共鸣。\n\n我写这篇文章的目的，并不是想让所有人盲目地去采用“AI First”。相反，我想表达的是，把 AI 真正有效地带入行业其实是一件很困难的事情。根据我的观察，大多数团队和公司在采用 AI 时方式是有问题的。人们往往过于强调“AI”本身，却忽视了软件工程的基础和良好的实践。这种失衡会导致很糟糕的结果，并最终让人们对 AI 失去信任，但这并不是因为 AI 没有价值，而是因为使用方式不正确。\n\n此外，我讨论的内容也不仅仅局限于工程本身。要成功采用 AI，还非常依赖组织结构和人员管理等方面，这些同样是团队或公司在推进 AI 过程中至关重要的因素。",
+        "created_at": "Tue Apr 14 18:05:36 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1218452020119527425",
+          "name": "Peter Pang",
+          "screen_name": "intuitiveml",
+          "description": "🚀 Co-founder, CreaoAI. Previously GenAI @ Meta (LLaMA).  xApple. Join the journey ↓",
+          "followers_count": 4373,
+          "friends_count": 92,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 22,
+          "reply_count": 5,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044314980036517989",
+      "text": "pi 是 OpenClaw 背后的 Agent 底层框架，它的核心维护者 Mario Zechner 最近宣布了一项新的规则：所有未提前申请批准的 issue 和 PR（代码合并请求），提交之后会立刻被机器人自动关闭。\n\n之所以要这么严格是因为他每天都会收到 30 到 50 条 issue，其中绝大部分都是由 AI Agent 自动生成的垃圾信息。\n\n新的规则是这样运行的：\n- 首先，这些被自动关闭的 issue，维护者每天都会手动再看一遍：\n  * 如果发现写得不错、符合要求，就会重新打开；\n  * 如果写得特别棒，维护者会给你加一个 \"lgtmi\" 标签，以后你的 issue 都不再自动关闭；\n  * 如果你不仅 issue 写得优秀，还附带了代码修复（PR），那标签会升级为 \"lgtm\"，以后你的 issue 和 PR 都不会再被机器人关闭；\n- 但是如果有人反复用 AI 工具刷垃圾内容，他的账号会被永久拉黑，不再接受任何贡献。\n\n其实这种情况并不是个例，而是整个开源社区目前都在面对的问题。AI 编程工具让大家提交 issue 或 PR 的成本几乎降到了零，但维护者审核这些内容的工作量却一点也没有减少。于是，GitHub 上越来越多的项目都开始收紧贡献的门槛，从过去的“欢迎所有人参与”变成了现在的“你先证明你是真人，而且是认真来贡献的”。",
+      "created_at": "Wed Apr 15 07:20:47 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044168670486622429",
+        "text": "People of pi. The great @steipete has graced our repository with a bespoke slop PR to fix cache affinity in the OpenAI Responses provider, which should lead to better prompt caching.\n\nAnd the new \"pi contribution model (tm)\" is now live. Here's how it works:\n\n- If you send a PR, it gets autoclosed, unless you've previously been approved by a maintainer.\n- If you send an issue, it gets autoclosed, unless you've previously been approved by a maintainer.\n\nAll auto-closed issues are triaged daily. \n\n- Issues that follow CONTRIBUTING.md and are worthwhile will be reopened.\n- Issues that are exceptionally well written get an \"lgtmi\" comment from me or @mitsuhiko, which will approve all your future issues automatically. No more auto-closing.\n- Issues that are well written AND offer a PR get an \"lgtm\" comment from me or @mitsuhiko, which will approve all your future issues and PRs automatically. No more auto-closing.\n\nI, the idiot who has to go through all the closed slop daily, mark the last issue I processed with the \"last read\" label. If your issue is below that and hasn't been opened, then it did not meet the quality standard. You may or may not receive a reply on why the issue was not opened, depending on my time and mood.\n\nAccounts that:\n- Let their agents slop a book into the issue tracker repeatedly\n- Otherwise behave badly\n\nwill get their account blocked across all my repositories. no exceptions. not takesies backsies.\n\nI get anywhere between 30-50 issues per day. Most of them are agent garbage. This is the only way to keep me sane and ensure the issue and PR trackers have actual good signal.",
+        "created_at": "Tue Apr 14 21:39:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044167356188966912",
+            "url": "https://pbs.twimg.com/media/HF5XYUcXwAAL8oq.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044168340470673408",
+            "url": "https://pbs.twimg.com/media/HF5YRnLasAAMZRl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "189876762",
+          "name": "Mario Zechner",
+          "screen_name": "badlogicgames",
+          "description": "Old man yelling at Claudes. The fucking bluecheck is temporary...\n\nhttps://t.co/mnOoWUqt4g\n\nhttps://t.co/8i5vIRDt6P",
+          "followers_count": 39524,
+          "friends_count": 1291,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 432,
+          "reply_count": 21,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 38,
+        "reply_count": 5,
         "quote_count": 0
       }
     }
