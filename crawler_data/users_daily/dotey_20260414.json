@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207679,
+    "followers_count": 207700,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260414",
-  "last_updated": "2026-04-14T22:17:50.690693",
-  "tweet_count": 27,
+  "last_updated": "2026-04-15T00:31:53.153391",
+  "tweet_count": 28,
   "tweets": [
     {
       "id": "2043855999648379333",
@@ -1285,6 +1285,27 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2044191830267310196",
+      "text": "你的同学小明发现 DeepSeek 写作功能强大，便打算以后所有的作文都用它完成，不再自己动笔。\n\n你会怎样劝说他? https://t.co/OvpACQguYG",
+      "created_at": "Tue Apr 14 23:11:26 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044191786105499649",
+          "url": "https://pbs.twimg.com/media/HF5tmU-W8AELF1g.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 24,
+        "reply_count": 49,
+        "quote_count": 5
       }
     }
   ]
