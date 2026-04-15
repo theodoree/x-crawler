@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238085408,
+    "followers_count": 238092688,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260415",
-  "last_updated": "2026-04-15T18:27:14.025193",
-  "tweet_count": 40,
+  "last_updated": "2026-04-15T20:19:57.150458",
+  "tweet_count": 41,
   "tweets": [
     {
       "id": "2044250132296986737",
@@ -2008,6 +2008,66 @@
         "favorite_count": 4330,
         "reply_count": 999,
         "quote_count": 64
+      }
+    },
+    {
+      "id": "2044488530618130918",
+      "text": "Tesla Semi",
+      "created_at": "Wed Apr 15 18:50:25 +0000 2026",
+      "lang": "tr",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044483771555319855",
+        "text": "Hammer down https://t.co/Pu5UpUCRrm",
+        "created_at": "Wed Apr 15 18:31:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044483762042650624",
+            "url": "https://pbs.twimg.com/media/HF93JkGbQAAEtUs.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044483762021666817",
+            "url": "https://pbs.twimg.com/media/HF93JkBbEAEzd7F.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044483762021666818",
+            "url": "https://pbs.twimg.com/media/HF93JkBbEAIyc8T.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044483762029998080",
+            "url": "https://pbs.twimg.com/media/HF93JkDaMAAgkiN.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1867171663961362432",
+          "name": "Tesla Semi",
+          "screen_name": "tesla_semi",
+          "description": "BAMF – the future of electric trucking",
+          "followers_count": 44283,
+          "friends_count": 7,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 317,
+          "favorite_count": 3232,
+          "reply_count": 209,
+          "quote_count": 75
+        }
+      },
+      "stats": {
+        "retweet_count": 2267,
+        "favorite_count": 32118,
+        "reply_count": 2354,
+        "quote_count": 122
       }
     }
   ]
