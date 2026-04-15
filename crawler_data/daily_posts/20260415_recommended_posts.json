@@ -1,12 +1,61 @@
 {
   "date": "20260415",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-15T20:19:57.115390",
-  "tweet_count": 254,
-  "unique_tweet_count": 254,
-  "total_crawled": 453,
+  "last_crawl_time": "2026-04-15T22:17:05.393314",
+  "tweet_count": 255,
+  "unique_tweet_count": 255,
+  "total_crawled": 454,
   "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2044515130789249045",
+      "text": "Super exciting projects ahead!",
+      "created_at": "Wed Apr 15 20:36:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044446497442603056",
+        "text": "We are looking for excellent people to help build our vertically integrated AI stack. Numerics, quantization, HW simulators, compiler, runtime, kernel performance, RTL, verification, emulation, DFT, physical design, post Si bringup. Join us at Tesla!",
+        "created_at": "Wed Apr 15 16:03:23 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1376251730183262210",
+          "name": "Ritvik Rawat",
+          "screen_name": "rawat_ritvik",
+          "description": "Leading AI Inference at Tesla",
+          "followers_count": 5087,
+          "friends_count": 44,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 321,
+          "favorite_count": 3174,
+          "reply_count": 276,
+          "quote_count": 26
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238097533,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1486,
+        "favorite_count": 13369,
+        "reply_count": 1562,
+        "quote_count": 73
+      }
+    },
     {
       "id": "2044488530618130918",
       "text": "Tesla Semi",

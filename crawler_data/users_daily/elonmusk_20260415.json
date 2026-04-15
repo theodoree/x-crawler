@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238092688,
+    "followers_count": 238097533,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260415",
-  "last_updated": "2026-04-15T20:19:57.150458",
-  "tweet_count": 41,
+  "last_updated": "2026-04-15T22:17:05.429645",
+  "tweet_count": 42,
   "tweets": [
     {
       "id": "2044250132296986737",
@@ -2068,6 +2068,45 @@
         "favorite_count": 32118,
         "reply_count": 2354,
         "quote_count": 122
+      }
+    },
+    {
+      "id": "2044515130789249045",
+      "text": "Super exciting projects ahead!",
+      "created_at": "Wed Apr 15 20:36:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044446497442603056",
+        "text": "We are looking for excellent people to help build our vertically integrated AI stack. Numerics, quantization, HW simulators, compiler, runtime, kernel performance, RTL, verification, emulation, DFT, physical design, post Si bringup. Join us at Tesla!",
+        "created_at": "Wed Apr 15 16:03:23 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1376251730183262210",
+          "name": "Ritvik Rawat",
+          "screen_name": "rawat_ritvik",
+          "description": "Leading AI Inference at Tesla",
+          "followers_count": 5087,
+          "friends_count": 44,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 321,
+          "favorite_count": 3174,
+          "reply_count": 276,
+          "quote_count": 26
+        }
+      },
+      "stats": {
+        "retweet_count": 1486,
+        "favorite_count": 13369,
+        "reply_count": 1562,
+        "quote_count": 73
       }
     }
   ]
