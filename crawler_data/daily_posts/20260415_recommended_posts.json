@@ -1,12 +1,628 @@
 {
   "date": "20260415",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-15T14:35:33.901417",
-  "tweet_count": 241,
-  "unique_tweet_count": 241,
+  "last_crawl_time": "2026-04-15T16:24:54.662599",
+  "tweet_count": 251,
+  "unique_tweet_count": 251,
   "total_crawled": 441,
-  "duplicates_removed": 200,
+  "duplicates_removed": 190,
   "tweets": [
+    {
+      "id": "2044443400318091314",
+      "text": "Iron Dome for cats 😂 https://t.co/gLXq7zuIld",
+      "created_at": "Wed Apr 15 15:51:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2044113715126235136",
+          "url": "https://video.twimg.com/amplify_video/2044113715126235136/vid/avc1/1920x1080/UAZ0QOW1r4YBjZDL.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238078562,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 532,
+        "favorite_count": 4330,
+        "reply_count": 999,
+        "quote_count": 64
+      }
+    },
+    {
+      "id": "2044442283039482208",
+      "text": "RT @SethDillon: They don’t change the child’s sex, either.",
+      "created_at": "Wed Apr 15 15:46:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044380399409750492",
+        "text": "They don’t change the child’s sex, either.",
+        "created_at": "Wed Apr 15 11:40:44 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2043821591679603043",
+          "text": "Child sex changes do not cure mental health issues: Finnish study\n\nhttps://t.co/Gkug2r2VA5",
+          "created_at": "Mon Apr 13 22:40:14 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "65146567",
+            "name": "Human Events",
+            "screen_name": "HumanEvents",
+            "description": "Established in 1944. Back in 2019.",
+            "followers_count": 144520,
+            "friends_count": 548,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 512,
+            "favorite_count": 2986,
+            "reply_count": 379,
+            "quote_count": 257
+          }
+        },
+        "user": {
+          "id": "31700619",
+          "name": "Seth Dillon",
+          "screen_name": "SethDillon",
+          "description": "|Satire| Reality → 1",
+          "followers_count": 884872,
+          "friends_count": 1513,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 547,
+          "favorite_count": 5922,
+          "reply_count": 144,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238078562,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 547,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044442172376965489",
+      "text": "RT @isaacrrr7: Javier Milei: “No tengo nada en contra de los artistas. Yo mismo tuve una banda de rock. Mi problema es que si necesitas una…",
+      "created_at": "Wed Apr 15 15:46:12 +0000 2026",
+      "lang": "es",
+      "media": [],
+      "retweet": {
+        "id": "2044087998518599818",
+        "text": "Javier Milei: “No tengo nada en contra de los artistas. Yo mismo tuve una banda de rock. Mi problema es que si necesitas una subvención del gobierno para hacer arte, ya no eres un artista, eres un empleado público.”\n\nMilei es un número uno.\nhttps://t.co/SQeY55YZjZ",
+        "created_at": "Tue Apr 14 16:18:50 +0000 2026",
+        "lang": "es",
+        "media": [
+          {
+            "type": "video",
+            "id": "2037917852443820032",
+            "url": "https://video.twimg.com/amplify_video/2037917852443820032/vid/avc1/1124x714/phEUPOTrQUPM4bhd.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1283672799777886208",
+          "name": "Isaac",
+          "screen_name": "isaacrrr7",
+          "description": "Judío Argentino en Israel, 30 años.\nSígueme también en @isaacrrrr7.\nSiempre defendiendo a Israel y a Occidente.\nNo a Hamás. No a la invasión islámica.",
+          "followers_count": 166134,
+          "friends_count": 2903,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6450,
+          "favorite_count": 41672,
+          "reply_count": 441,
+          "quote_count": 238
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238078562,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 6450,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044441806981775371",
+      "text": "Good question",
+      "created_at": "Wed Apr 15 15:44:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044293794426958023",
+        "text": "This group calls for genocide against whites, supports the Islamic regime in Iran, and spreads antisemitism. Then they blame @elonmusk, yet never answer a simple question: why is South Africa becoming what they accuse others of?\n\nhttps://t.co/cxjL6IscPL",
+        "created_at": "Wed Apr 15 05:56:36 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044098540268613632",
+            "url": "https://video.twimg.com/amplify_video/2044098540268613632/vid/avc1/1920x1080/_04kxa9HGN3NikPp.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "406527960",
+          "name": "Amjad Taha أمجد طه",
+          "screen_name": "amjadt25",
+          "description": "Emirati Expert in Strategic and Political Affairs (Middle East) | Author | Analyst and Researcher | Bu Zayed| Posts reflect my views only.",
+          "followers_count": 670328,
+          "friends_count": 1999,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 570,
+          "favorite_count": 2382,
+          "reply_count": 299,
+          "quote_count": 58
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238078562,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2626,
+        "favorite_count": 15656,
+        "reply_count": 1225,
+        "quote_count": 82
+      }
+    },
+    {
+      "id": "2044441579755356376",
+      "text": "RT @mattvanswol: It took me a few hours yesterday, but I got access to the case files for Olaolukitan Adon Abel previous se*ual battery cas…",
+      "created_at": "Wed Apr 15 15:43:51 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044423310235107349",
+        "text": "It took me a few hours yesterday, but I got access to the case files for Olaolukitan Adon Abel previous se*ual battery case from Savannah GA that caused him to be BANISHED from the ENTIRE CITY.\n\nI'll drop the files below, but here's the story:\n\n>Abel assaulted 4 different women in the span of a few hours\n\n>4 victims, 4 counts of se*ual battery, in Chatham County, April 2025.\n\n>When police tried to arrest him, he resisted.\n\n>They added an obstruction charge on top of everything else\n\n>That obstruction charge vanished before trial\n\n>Prosecutors dropped it entirely. No explanation given.\n\n>His attorney, B. Foster, got all 4 se*ual battery counts handled under Georgia's First Offender Act\n\n>Meaning if he completed probation, the whole thing would essentially disappear from his record.\n\n>The judge sentenced him to 48 months, then suspended most of it.\n\n>He actually served 120 days in prison TOTAL\n\n>Thirty days per victim\n\n>He paid $0 in fines\n\n>Zero in restitution to any of the 4 women\n\n>The court did order a psychose*ual evaluation and required he follow whatever treatment came from it\n\n>They mandated mental health counseling\n\n>They banned him from the entire city of Savannah for four years\n\n>They explicitly prohibited him from possessing any firearm\n\n>He signed the probation agreement on June 7, 2025\n\n>7 months later, he got a gun and m*rdered 2 women, including Lauren Bullis\n\nYou are not angry enough.",
+        "created_at": "Wed Apr 15 14:31:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044423048565026816",
+            "url": "https://pbs.twimg.com/media/HF8_7kxW8AAdDWZ.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044423056572248064",
+            "url": "https://pbs.twimg.com/media/HF8_8CmbcAALHou.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044423063358341120",
+            "url": "https://pbs.twimg.com/media/HF8_8b4XAAAMZ58.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2044042507403591912",
+          "text": "🚨#BREAKING: The woman who was randomly shot in the face 6 times and st*bbed to de*th while she was walking her dog in Atlanta GA has been identified as 40-year-old Lauren Bullis.\n\nThe suspect, “Olaolukitan Adon Abel” was also allegedly in the process of se*ually assaulting her before neighbors came to the scene.\n\nOlaolukitan is charged with 3 other \"completely random\" shootings and the de*th of another woman.\n\nWe do not have to live like this.",
+          "created_at": "Tue Apr 14 13:18:04 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2044042149600047104",
+              "url": "https://video.twimg.com/amplify_video/2044042149600047104/vid/avc1/1920x1080/Mrdm0Z0c1O_bk8xC.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1244068896157708289",
+            "name": "Matt Van Swol",
+            "screen_name": "mattvanswol",
+            "description": "Former Nuclear Scientist for US Dept of Energy | Ex-Photographer for @apple, @united, and @hyatt",
+            "followers_count": 492521,
+            "friends_count": 7749,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 32246,
+            "favorite_count": 91447,
+            "reply_count": 4667,
+            "quote_count": 1615
+          }
+        },
+        "user": {
+          "id": "1244068896157708289",
+          "name": "Matt Van Swol",
+          "screen_name": "mattvanswol",
+          "description": "Former Nuclear Scientist for US Dept of Energy | Ex-Photographer for @apple, @united, and @hyatt",
+          "followers_count": 492521,
+          "friends_count": 7749,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1523,
+          "favorite_count": 3681,
+          "reply_count": 192,
+          "quote_count": 77
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238078562,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1523,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044441478160945265",
+      "text": "RT @XFreeze: Grok just hit its highest monthly traffic EVER: over 326 MILLION visits in March alone \n\nThat’s a massive 61% jump YoY and up…",
+      "created_at": "Wed Apr 15 15:43:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044420791106777578",
+        "text": "Grok just hit its highest monthly traffic EVER: over 326 MILLION visits in March alone \n\nThat’s a massive 61% jump YoY and up 9.3% just since February \n\nPeople love Grok because it's the only AI they can trust with the answers and ask anything without hitting the policy walls unlike other AIs",
+        "created_at": "Wed Apr 15 14:21:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044420564685856769",
+            "url": "https://video.twimg.com/amplify_video/2044420564685856769/vid/avc1/1080x1080/DjWZ4YU8Xjv11Zwe.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 190186,
+          "friends_count": 1725,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 147,
+          "favorite_count": 961,
+          "reply_count": 155,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238078562,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 147,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044440026839503041",
+      "text": "RT @BillMelugin_: BREAKING: DHS confirms to @FoxNews that Olaolukitan Adon Abel, the suspect arrested for a seemingly random murder spree i…",
+      "created_at": "Wed Apr 15 15:37:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044254385375523074",
+        "text": "BREAKING: DHS confirms to @FoxNews that Olaolukitan Adon Abel, the suspect arrested for a seemingly random murder spree in DeKalb County, GA that left two women dead and a homeless man shot, is a national of the United Kingdom who was naturalized into a US citizen during the Biden administration in 2022. \n\nDHS confirms to FOX that one of the victims, 40-year-old Lauren Bullis, was a DHS employee who worked in the DHS Office of the Inspector General. She was found stabbed and shot to death while walking her dog. \n\nAbel faces two counts of murder, aggravated assault, and weapons charges after police say he carried out an early morning shooting spree in three separate locations in DeKalb County, GA on Monday, shooting and killing a woman in front of a Checkers, shooting and stabbing Lauren Bullis to death while she was walking her dog, and shooting a homeless man several times in front of a shopping center. Motive is unknown.\n\nDHS confirms that Abel had a lengthy rap sheet prior to this incident, including prior convictions for sexual battery, battery against a police officer, and assault with a deadly weapon. \n\nPhoto courtesy: DHS",
+        "created_at": "Wed Apr 15 03:20:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044254172480983040",
+            "url": "https://pbs.twimg.com/media/HF6mVsVW0AAbt7G.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1071585991",
+          "name": "Bill Melugin",
+          "screen_name": "BillMelugin_",
+          "description": "Congressional correspondent for @foxnews in DC. 4x EMMY winner, 3x Edward R. Murrow winner, 4x RTNA Golden Mike winner. @Cronkite_ASU grad & SoCal native.",
+          "followers_count": 634514,
+          "friends_count": 3683,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4401,
+          "favorite_count": 9805,
+          "reply_count": 1086,
+          "quote_count": 315
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238078562,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4401,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044439867606892973",
+      "text": "RT @RonDeSantis: .@Starlink is the best internet around.  On flights it is miles ahead of anything else.\n\nJust a superior service/product.",
+      "created_at": "Wed Apr 15 15:37:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044389994630939065",
+        "text": ".@Starlink is the best internet around.  On flights it is miles ahead of anything else.\n\nJust a superior service/product.",
+        "created_at": "Wed Apr 15 12:18:52 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2044007521333989668",
+          "text": "Falcon 9 launches 29 @Starlink satellites from Florida https://t.co/LArWOnC3tD",
+          "created_at": "Tue Apr 14 10:59:03 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2044006974241505280",
+              "url": "https://pbs.twimg.com/media/HF3Fg3IWAAAsd4w.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2044007257277341696",
+              "url": "https://pbs.twimg.com/media/HF3FxVhWIAAijqH.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2044007281290031111",
+              "url": "https://pbs.twimg.com/media/HF3Fyu-asAcnaxU.jpg"
+            },
+            {
+              "type": "photo",
+              "id": "2044007304505208832",
+              "url": "https://pbs.twimg.com/media/HF3F0FdWMAARYWO.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "34743251",
+            "name": "SpaceX",
+            "screen_name": "SpaceX",
+            "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+            "followers_count": 41442410,
+            "friends_count": 127,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1520,
+            "favorite_count": 9181,
+            "reply_count": 503,
+            "quote_count": 67
+          }
+        },
+        "user": {
+          "id": "487297085",
+          "name": "Ron DeSantis",
+          "screen_name": "RonDeSantis",
+          "description": "Governor of Florida. Husband to @CaseyDeSantis. Father to Madison, Mason, and Mamie. Iraq Veteran.",
+          "followers_count": 3044583,
+          "friends_count": 2,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 321,
+          "favorite_count": 3261,
+          "reply_count": 208,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238078562,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 321,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044433328195973231",
+      "text": "RT @xicilion: 磨刀不误砍柴工，这句规劝不太适用于程序员这个群体。\n这个群体最喜欢干的事情，就是越磨越兴奋，根本不去砍柴。",
+      "created_at": "Wed Apr 15 15:11:03 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044425747608248375",
+        "text": "磨刀不误砍柴工，这句规劝不太适用于程序员这个群体。\n这个群体最喜欢干的事情，就是越磨越兴奋，根本不去砍柴。",
+        "created_at": "Wed Apr 15 14:40:56 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "364478145",
+          "name": "响马",
+          "screen_name": "xicilion",
+          "description": "。。。。。。",
+          "followers_count": 66100,
+          "friends_count": 3270,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 147,
+          "reply_count": 20,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207932,
+        "friends_count": 1603,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044429284131951084",
+      "text": "如果是 TypeScript 技术栈，做 Agent 开发首选 pi-mono，功能强，调用方便。其次是 vercel 的 aisdk 也还可以。\n\nclaude agent sdk 不那么推荐了，主要是绑死了 claude，但目前还有一个不可替代的优势，就可以共享 Claude Max 订阅，开发阶段会比较方便，能用多久不清楚。\n\n应用层的话，electron 还是首选，稳定可靠，AI 训练预料足够多，主要问题是应用程序体积略大。但刚开始写 Agent，建议从 cli 开始写，不需要一开始就做界面，这样可以聚焦在 Agent 本身，除非你核心就是 UI。\n\n推荐一个开源的项目 craft-agents-oss，TypeScript + pi-mono + Electron + React + claude agent sdk，很好的学习参考。\n\nhttps://t.co/nOJxIrSlz6",
+      "created_at": "Wed Apr 15 14:54:59 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044385503181779318",
+        "text": "终于要开始做 AI Agent开发了，请教下大家：\n- 应该用哪个框架？\n- electron 应该还是最优解吧？\n- BYOK 要支持么？\n- 除了编程agent，有哪些值得观摩学习的其它领域的工具么？",
+        "created_at": "Wed Apr 15 12:01:01 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "393923779",
+          "name": "Meathill",
+          "screen_name": "meathill1",
+          "description": "好吃好玩好写代码。全栈工程师，兴趣使然的开发者和分享者。经常活跃在重庆江北机场附近，路过的同学可以随时找我喝咖啡。开发中：https://t.co/DxRXOcEXkB https://t.co/vrkU4uhYr0 #buildinpublic #remote",
+          "followers_count": 6238,
+          "friends_count": 336,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207932,
+        "friends_count": 1603,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 43,
+        "favorite_count": 216,
+        "reply_count": 15,
+        "quote_count": 5
+      }
+    },
     {
       "id": "2044340646799106195",
       "text": "RT @dm_jns: 🇧🇪 Positive news for FSD Supervised in Belgium!\n\nI just received an official response from the cabinet of @MDiependaele , Minis…",
