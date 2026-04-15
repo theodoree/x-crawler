@@ -1,12 +1,473 @@
 {
   "date": "20260415",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-15T08:36:19.966354",
-  "tweet_count": 233,
-  "unique_tweet_count": 233,
-  "total_crawled": 412,
-  "duplicates_removed": 179,
+  "last_crawl_time": "2026-04-15T10:30:37.154560",
+  "tweet_count": 241,
+  "unique_tweet_count": 241,
+  "total_crawled": 433,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2044340646799106195",
+      "text": "RT @dm_jns: 🇧🇪 Positive news for FSD Supervised in Belgium!\n\nI just received an official response from the cabinet of @MDiependaele , Minis…",
+      "created_at": "Wed Apr 15 09:02:46 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044331063917297691",
+        "text": "🇧🇪 Positive news for FSD Supervised in Belgium!\n\nI just received an official response from the cabinet of @MDiependaele , Minister-President of the Flemish Government.\n\nA few days ago, the Dutch vehicle authority RDW granted the first type approval for Tesla FSD Supervised. In my message to the Flemish government, I urged them to actively support and accelerate the recognition and implementation of this RDW approval in Flanders/Belgium, so Tesla owners and all road users can benefit from this safer, more advanced driver assistance system as soon as possible.\n\nHere's the reply I received:\n\nDear Sir,\n\nYour message was well received and read with interest. It shows your involvement in our society. Minister-President Diependaele thanks you for your insights and for the initiative you are taking.\n\nOthers whom you contacted are better placed to answer you substantively, yet we are reviewing your message internally. We will contact you if additional clarification is needed.\n\nWith kind regards,\n\nAdvisor Local Policy  \nCabinet of Matthias Diependaele  \nMinister-President of the Flemish Government  \nFlemish Minister of Economy, Innovation and Industry, Foreign Affairs, Digitalization and Facility Management  \n\nThis is encouraging, they explicitly thanked me for the input and confirm they're reviewing it internally at the highest level. A small but positive step toward bringing FSD Supervised to Flemish roads faster!\n\nI will continue to follow up and keep you updated on any further developments!",
+        "created_at": "Wed Apr 15 08:24:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044331055524515840",
+            "url": "https://pbs.twimg.com/media/HF7sQ3_WkAAqBcF.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "713780886601334784",
+          "name": "Jonas DM.",
+          "screen_name": "dm_jns",
+          "description": "",
+          "followers_count": 996,
+          "friends_count": 1133,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 203,
+          "favorite_count": 1241,
+          "reply_count": 145,
+          "quote_count": 28
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238048418,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 203,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044339755463463183",
+      "text": "Orders of Magnitude",
+      "created_at": "Wed Apr 15 08:59:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044081768152666129",
+        "text": "No orbital launch provider but SpaceX has ever put even 1,000 satellites in orbit; SpaceX has launched &gt;11,000.\n\nWhat has @elonmusk said about this unprecedented accomplishment?\n“It’s a good start.” 🚀 https://t.co/Px76yETwDV",
+        "created_at": "Tue Apr 14 15:54:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044081763991855104",
+            "url": "https://pbs.twimg.com/media/HF4JiMqWoAAeDmJ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "367237480",
+          "name": "James Stephenson",
+          "screen_name": "ICannot_Enough",
+          "description": "@ElonMusk and I own Tesla (along with several other people).",
+          "followers_count": 285941,
+          "friends_count": 687,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 63,
+          "favorite_count": 763,
+          "reply_count": 50,
+          "quote_count": 19
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238048418,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 877,
+        "favorite_count": 8306,
+        "reply_count": 965,
+        "quote_count": 40
+      }
+    },
+    {
+      "id": "2044339610453774352",
+      "text": "RT @Babygravy9: People don’t even know about the French Algerians. They just think there were a few French administrators in Algeria, but t…",
+      "created_at": "Wed Apr 15 08:58:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044319795789566367",
+        "text": "People don’t even know about the French Algerians. They just think there were a few French administrators in Algeria, but there were actually hundreds of thousands of French and they were all ethnically cleansed in a matter of years after independence.",
+        "created_at": "Wed Apr 15 07:39:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2044168317024247939",
+          "text": "In the 1960s, Algerian Muslims violently expelled the European pied-noir community.\n\nEuropeans made up 13% of Algeria's population. In just a few years, most were gone because staying meant death.\n\nToday, people either ignore that this happened or consider it a good thing. They want the same to happen to the Boers and to many others.",
+          "created_at": "Tue Apr 14 21:38:00 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2044092504207659008",
+              "url": "https://pbs.twimg.com/media/HF4TTXFWEAAQbe2.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1666214540982247426",
+            "name": "Templarpilled",
+            "screen_name": "Templarpilled",
+            "description": "God's wittiest knight here to meme and educate | Christianity, Western History, great men of the past | Ave Christus Rex! 👑✝️",
+            "followers_count": 120310,
+            "friends_count": 203,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 231,
+            "favorite_count": 1652,
+            "reply_count": 32,
+            "quote_count": 12
+          }
+        },
+        "user": {
+          "id": "1161261376846946305",
+          "name": "RAW EGG NATIONALIST",
+          "screen_name": "Babygravy9",
+          "description": "New book THE LAST MEN: LIBERALISM AND THE DEATH OF MASCULINITY out now (Amazon); S'stack (https://t.co/YQuXSS0rXk); #1 bestselling author; founder Kindred Harvest",
+          "followers_count": 318412,
+          "friends_count": 2914,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 343,
+          "favorite_count": 1757,
+          "reply_count": 126,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238048418,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 343,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044336546342662598",
+      "text": "RT @BLKMDL3: FSD v14.3.1 did an exceptional job with parking at Costco now. \n\nIt found the absolute first spot open, picked it quickly, and…",
+      "created_at": "Wed Apr 15 08:46:29 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044243925591044246",
+        "text": "FSD v14.3.1 did an exceptional job with parking at Costco now. \n\nIt found the absolute first spot open, picked it quickly, and backed in perfectly. \n\nSolid! https://t.co/d4WgOnlJi6",
+        "created_at": "Wed Apr 15 02:38:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044243920935337984",
+            "url": "https://pbs.twimg.com/media/HF6dA-WaQAA43Jq.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "988975103785365504",
+          "name": "Zack",
+          "screen_name": "BLKMDL3",
+          "description": "",
+          "followers_count": 88320,
+          "friends_count": 2345,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 184,
+          "favorite_count": 1549,
+          "reply_count": 108,
+          "quote_count": 5
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238048418,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 184,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044336454206431450",
+      "text": "Tesla Semi",
+      "created_at": "Wed Apr 15 08:46:07 +0000 2026",
+      "lang": "tr",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044167421905568218",
+        "text": "This is the sound of the all-electric Tesla Semi.\n\nDeliveries of the new Production Version begin this year:\n\n• Long Range model has 500 miles of range with a full payload.\n• 1.7 kWh per mile efficiency (average diesel semis are roughly 5–7 kWh per mile equivalent energy use).\n• Tri-motor powertrain with 800 kW of power (~1,073 hp), 3x the power of the average diesel semi.\n• The battery in the Semi is designed to last 1M miles.\n• Standard Range model (325 mi) has a similar turning radius as a Tesla Model 3/Y.\n• 0.4 drag coefficient.\n• Independent truckers are able to buy a Semi for use, not just fleet owners.\n• Semi fleet uptime is at 95% due to extremely low maintenance and reliability.\n• Integrated safety features in the Semi protect not just the driver but others on the road as well.\n• Future wireless charging.\n• Semi uses the same 4680 battery cells found in the Cybertruck.\n• Semi can power a whole refrigeration trailer or any powered unit. The technology is shared with Cybertruck Powershare.",
+        "created_at": "Tue Apr 14 21:34:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044166906957975552",
+            "url": "https://video.twimg.com/amplify_video/2044166906957975552/vid/avc1/3840x2160/4dIbhfhPbbL4xIh1.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1494873435863977985",
+          "name": "Nic Cruz Patane",
+          "screen_name": "niccruzpatane",
+          "description": "Deep dive into everything Tesla",
+          "followers_count": 98964,
+          "friends_count": 166,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 230,
+          "favorite_count": 1995,
+          "reply_count": 184,
+          "quote_count": 68
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238048418,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1604,
+        "favorite_count": 14888,
+        "reply_count": 1417,
+        "quote_count": 78
+      }
+    },
+    {
+      "id": "2044335473758540071",
+      "text": "RT @EricLDaugh: 🚨 BOOM: Some American drivers are ECSTATIC for Elon Musk's Tesla semitruck \n\n\"Massive windows,  the seat is right in the ce…",
+      "created_at": "Wed Apr 15 08:42:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044125628480532568",
+        "text": "🚨 BOOM: Some American drivers are ECSTATIC for Elon Musk's Tesla semitruck \n\n\"Massive windows,  the seat is right in the center. It's usually off to the side and they can't reach the buttons they need to.\"\n\n\"10 exterior cameras, obviously these massive screens. They're not inhaling the fumes of a diesel truck. The seat is no longer shaking. All things that are important for a good office or workplace.\"\n\n\"There are a lot of benefits and the drivers tell me they love it.\" @elonmusk 🔥",
+        "created_at": "Tue Apr 14 18:48:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044125350699917312",
+            "url": "https://video.twimg.com/amplify_video/2044125350699917312/vid/avc1/960x720/aGm6p2hPO7rl6PFO.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "763094579491008512",
+          "name": "Eric Daugherty",
+          "screen_name": "EricLDaugh",
+          "description": "Chief Content Officer @RightLineNews @FLVoiceNews | Marylander-turned-Floridian | Politics & breaking news alerts | “Men must vote” - Charlie Kirk",
+          "followers_count": 1036992,
+          "friends_count": 2545,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1069,
+          "favorite_count": 7681,
+          "reply_count": 346,
+          "quote_count": 51
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238048418,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1069,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044335286231224500",
+      "text": "RT @BLKMDL3: Wow. FSD v14.3.1 drove me to 5 destinations that Grok inputted and navigated to with zero interventions. \n\nTesla Self Driving…",
+      "created_at": "Wed Apr 15 08:41:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044291055185736065",
+        "text": "Wow. FSD v14.3.1 drove me to 5 destinations that Grok inputted and navigated to with zero interventions. \n\nTesla Self Driving parked and unparked at each of the 5 destinations. @Tesla_AI https://t.co/CMU8ldeZF7",
+        "created_at": "Wed Apr 15 05:45:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044290104806780929",
+            "url": "https://video.twimg.com/amplify_video/2044290104806780929/vid/avc1/1920x1080/J17qVAwGxZL19KY_.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "988975103785365504",
+          "name": "Zack",
+          "screen_name": "BLKMDL3",
+          "description": "",
+          "followers_count": 88320,
+          "friends_count": 2345,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 179,
+          "favorite_count": 897,
+          "reply_count": 73,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238048418,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 179,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044335145248047279",
+      "text": "RT @TheAliceSmith: Slavery is human history.\n\nThe abolition of slavery is white history.\n\nYou’re welcome, world!",
+      "created_at": "Wed Apr 15 08:40:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044087988720705807",
+        "text": "Slavery is human history.\n\nThe abolition of slavery is white history.\n\nYou’re welcome, world!",
+        "created_at": "Tue Apr 14 16:18:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "4296903437",
+          "name": "Alice Smith",
+          "screen_name": "TheAliceSmith",
+          "description": "Who is Alice Smith? The great-great-great-granddaughter of Adam Smith. Follow me on my adventures down the capitalist rabbit hole! 2+2=4",
+          "followers_count": 100061,
+          "friends_count": 2829,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 559,
+          "favorite_count": 4089,
+          "reply_count": 140,
+          "quote_count": 27
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238048418,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 559,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2044331885548220642",
       "text": "RT @SawyerMerritt: Here's my first drive on Tesla FSD V14.3.1. It feels polished vs 14.3 and it my opinion is ready for wide release.\n\n• Wi…",
