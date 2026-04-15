@@ -1,12 +1,122 @@
 {
   "date": "20260415",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-15T16:24:54.662599",
-  "tweet_count": 251,
-  "unique_tweet_count": 251,
-  "total_crawled": 441,
-  "duplicates_removed": 190,
+  "last_crawl_time": "2026-04-15T18:27:13.979815",
+  "tweet_count": 253,
+  "unique_tweet_count": 253,
+  "total_crawled": 451,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2044474625510318235",
+      "text": "OpenAI 的 Agents SDK 最近做了一次重要升级，增加了两个关键功能：内置沙箱执行环境和模型原生执行框架（Harness）。这次更新的目标，是帮助开发者更容易地创建安全可靠、能长时间稳定运行的 Agent。\n\n以前开发者使用 OpenAI 的模型来搭建 Agent 时，模型本身的能力虽然够强，但实际运行环境却需要自己搭建。比如文件读写、代码执行、依赖安装、状态保存等基础功能都需要开发者手动处理，费时费力。\n\n现在，SDK 自带沙箱执行环境，Agent 可以在这个统一受控的环境里读写文件、运行代码命令、自动安装依赖，还能保存状态。开发者再也不用从头开始搭建底层环境。\n\n这个沙箱环境支持很多常见的云厂商，包括 Cloudflare、Vercel、Modal、E2B、Daytona 等，也允许开发者接入自己的解决方案。\n\n此外，SDK 还提供了一个名叫 Manifest 的统一配置层，可以挂载本地文件或云存储空间，比如 S3、Google Cloud Storage 和 Azure Blob。从本地开发调试到正式生产上线，开发者只需一套配置就能搞定。\n\n另一个亮点是 SDK 采用了模型原生的 Harness 架构，这种设计将 Agent 的状态保存和计算执行分离开来。这样一来，即便运行 Agent 的容器意外崩溃，也能快速恢复状态，继续执行任务，无需从头开始。此外，这种状态外置的做法也能有效保护敏感数据和凭证，避免因提示注入等安全漏洞导致数据泄露。\n\n除了以上这些功能，SDK 还内置了 MCP 工具调用、Skills 渐进式能力暴露、AGENTS.md 自定义指令、Shell 工具命令执行、Apply Patch 文件编辑工具和灵活的记忆系统。这些以前需要开发者自己用 LangChain 等通用框架组合或手写的功能，现在全部内置在 SDK 中，由 OpenAI 针对自家模型专门优化。Oscar Health 的工程师反馈称，使用新的 SDK 才真正实现了临床记录处理工作流在生产环境中的稳定运行，远超此前尝试过的方案。\n\n放眼行业，类似的生态竞争越来越激烈：Anthropic 推出了 Claude Code，Google 提供了 Agent Development Kit（ADK），现在 OpenAI 也将自家的 SDK 从轻量级框架升级为带沙箱、带状态管理的完整开发平台。对于开发者来说，选择哪个平台生态可能会比单纯选模型本身更关键。\n\n当前 SDK 支持 Python，TypeScript 支持也正在开发中。所有 OpenAI API 用户均可直接使用，计费方式维持不变，仍然按照 Token 和工具调用标准收费。",
+      "created_at": "Wed Apr 15 17:55:09 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044466699785920937",
+        "text": "Build long-running agents with more control over agent execution.\n\nNew capabilities in the Agents SDK:\n• Run agents in controlled sandboxes\n• Inspect and customize the open-source harness\n• Control when memories are created and where they’re stored https://t.co/zPyuLup6b6",
+        "created_at": "Wed Apr 15 17:23:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044466695507746816",
+            "url": "https://pbs.twimg.com/media/HF9noKTbIAAjUnh.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1633874951508721686",
+          "name": "OpenAI Developers",
+          "screen_name": "OpenAIDevs",
+          "description": "Official updates for developers building with Codex & the OpenAI Platform • Service status: https://t.co/kZwnwdYYEq",
+          "followers_count": 305456,
+          "friends_count": 1,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 65,
+          "favorite_count": 669,
+          "reply_count": 33,
+          "quote_count": 21
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207949,
+        "friends_count": 1602,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044462907023368269",
+      "text": "Gemini 也出 Mac 版了，用了一下，不怎么好用，连 Gem 都不支持，不如网页版本，虽然网页版槽点也很多。\n\n感觉 Google 这迭代速度真慢！",
+      "created_at": "Wed Apr 15 17:08:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044452464724967550",
+        "text": "Introducing Gemini on Mac.\n\nIt’s the first time we’re bringing the @Geminiapp to desktop. The team built this initial release with @Antigravity, and it went from an idea to a native Swift app prototype in a few days.\n\nMore features on the way! https://t.co/YRy0Pqq6zo",
+        "created_at": "Wed Apr 15 16:27:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044452291357667328",
+            "url": "https://pbs.twimg.com/media/HF9ahuqbcAAOsRn.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14130366",
+          "name": "Sundar Pichai",
+          "screen_name": "sundarpichai",
+          "description": "CEO,  Google and Alphabet",
+          "followers_count": 6339977,
+          "friends_count": 190,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 341,
+          "favorite_count": 4692,
+          "reply_count": 242,
+          "quote_count": 105
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207949,
+        "friends_count": 1602,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 15,
+        "reply_count": 16,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2044443400318091314",
       "text": "Iron Dome for cats 😂 https://t.co/gLXq7zuIld",
