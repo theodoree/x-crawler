@@ -1,12 +1,347 @@
 {
   "date": "20260415",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-15T00:31:53.122198",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-04-15T03:05:57.894555",
+  "tweet_count": 205,
+  "unique_tweet_count": 205,
+  "total_crawled": 400,
+  "duplicates_removed": 195,
   "tweets": [
+    {
+      "id": "2044250667783688205",
+      "text": "RT @tesla_na: Tesla Insurance update\n\nWith the latest version of Safety Score (v3.0), every mile you drive with FSD Supervised enabled will…",
+      "created_at": "Wed Apr 15 03:05:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044152487901622369",
+        "text": "Tesla Insurance update\n\nWith the latest version of Safety Score (v3.0), every mile you drive with FSD Supervised enabled will receive a score of 100. \n\nThis allows you to maintain a higher average safety score over time, resulting in lower monthly insurance premiums.\n\nApplies to new policies in Indiana, Tennessee, Texas, Arizona, Virginia & Illinois",
+        "created_at": "Tue Apr 14 20:35:06 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1679769205938311169",
+          "name": "Tesla North America",
+          "screen_name": "tesla_na",
+          "description": "Building a world of amazing abundance",
+          "followers_count": 103978,
+          "friends_count": 20,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 421,
+          "favorite_count": 5310,
+          "reply_count": 578,
+          "quote_count": 97
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238018320,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 421,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044250602839101743",
+      "text": "RT @SpaceX: Falcon 9 launches 29 @Starlink satellites from Florida https://t.co/LArWOnC3tD",
+      "created_at": "Wed Apr 15 03:04:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044006974241505280",
+          "url": "https://pbs.twimg.com/media/HF3Fg3IWAAAsd4w.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2044007257277341696",
+          "url": "https://pbs.twimg.com/media/HF3FxVhWIAAijqH.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2044007281290031111",
+          "url": "https://pbs.twimg.com/media/HF3Fyu-asAcnaxU.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2044007304505208832",
+          "url": "https://pbs.twimg.com/media/HF3F0FdWMAARYWO.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2044007521333989668",
+        "text": "Falcon 9 launches 29 @Starlink satellites from Florida https://t.co/LArWOnC3tD",
+        "created_at": "Tue Apr 14 10:59:03 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044006974241505280",
+            "url": "https://pbs.twimg.com/media/HF3Fg3IWAAAsd4w.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044007257277341696",
+            "url": "https://pbs.twimg.com/media/HF3FxVhWIAAijqH.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044007281290031111",
+            "url": "https://pbs.twimg.com/media/HF3Fyu-asAcnaxU.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044007304505208832",
+            "url": "https://pbs.twimg.com/media/HF3F0FdWMAARYWO.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41434558,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 812,
+          "favorite_count": 5539,
+          "reply_count": 323,
+          "quote_count": 42
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238018320,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 812,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044250567057518953",
+      "text": "RT @Starlink: For those impacted by Super Typhoon Sinlaku, Starlink is providing free service through May 15th to new and existing customer…",
+      "created_at": "Wed Apr 15 03:04:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044192031732576589",
+        "text": "For those impacted by Super Typhoon Sinlaku, Starlink is providing free service through May 15th to new and existing customers. We’re also working with local governments and response organizations to support emergency connectivity across affected areas → https://t.co/ofzXH5PW4F",
+        "created_at": "Tue Apr 14 23:12:14 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1582571,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 238,
+          "favorite_count": 1797,
+          "reply_count": 101,
+          "quote_count": 21
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238018320,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 238,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044250132296986737",
+      "text": "Starship static fire successful!",
+      "created_at": "Wed Apr 15 03:03:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044234610343551153",
+        "text": "Full-duration static fire for the first time on Starship V3 https://t.co/Q1HZIX53HB",
+        "created_at": "Wed Apr 15 02:01:25 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044234247074983936",
+            "url": "https://pbs.twimg.com/media/HF6UN4aXsAAvdER.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044234271473172480",
+            "url": "https://pbs.twimg.com/media/HF6UPTTWgAA7vit.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41434558,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 924,
+          "favorite_count": 6803,
+          "reply_count": 271,
+          "quote_count": 118
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238018320,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 181,
+        "favorite_count": 1571,
+        "reply_count": 289,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2044219078252843303",
+      "text": "RT @linxiaobei888: Chrome 浏览器正式推出「Skills」功能（是浏览器里面的Gemini AI 用的）\n\nGoogle 在 Chrome 让你能把最常用的 Prompt 变成“一键工作流”。  \n\n使用方法很简单：在 Gemini AI聊天记录里，把想…",
+      "created_at": "Wed Apr 15 00:59:42 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044216906723577947",
+        "text": "Chrome 浏览器正式推出「Skills」功能（是浏览器里面的Gemini AI 用的）\n\nGoogle 在 Chrome 让你能把最常用的 Prompt 变成“一键工作流”。  \n\n使用方法很简单：在 Gemini AI聊天记录里，把想重复用的提示保存成 Skill。\n\n下次直接在 Chrome 里输入 / 或点击 + 按钮，就能调用这个 Skill，它会自动在你当前浏览的页面（甚至多个标签页）上运行。  \n\nChrome还推出了一个Skills 现成库，内置大量官方预设的常用 Skills，你可以直接保存到自己的库里，还能随意修改提示词来自定义。",
+        "created_at": "Wed Apr 15 00:51:04 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044216898032939012",
+            "url": "https://pbs.twimg.com/media/HF6EcCMasAQ73BD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2044106378655215625",
+          "text": "Today, we’re introducing Skills in @GoogleChrome, a new way to build one-click workflows for your most frequently used AI prompts — like asking for ingredient substitutions to make a recipe vegan, generating side-by-side shopping comparisons across multiple tabs, or scanning long docs to get the info you need quickly.\n\nWhen you write a prompt that you want to use again, you can save it as a Skill directly from your chat history. The next time you need it, select your saved Skill in Gemini in Chrome by typing forward slash ( / ) or clicking the plus sign ( + ) button, and your Skill will run on the page you’re viewing, along with any other tabs you select.",
+          "created_at": "Tue Apr 14 17:31:52 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2044106049536643073",
+              "url": "https://video.twimg.com/amplify_video/2044106049536643073/vid/avc1/1080x1080/KyoVd1Ovvs8CTkJr.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "20536157",
+            "name": "Google",
+            "screen_name": "Google",
+            "description": "Here to help.",
+            "followers_count": 31808433,
+            "friends_count": 298,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 560,
+            "favorite_count": 3730,
+            "reply_count": 144,
+            "quote_count": 176
+          }
+        },
+        "user": {
+          "id": "1391720360245010438",
+          "name": "xiaobeiLin(小北)",
+          "screen_name": "linxiaobei888",
+          "description": "⌨️软件工程| 关注AI，Coding，出海中\nprompt：https://t.co/jMMNT5ooYr 开发者工具：https://t.co/WQfepHS5pN",
+          "followers_count": 2564,
+          "friends_count": 2219,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 48,
+          "reply_count": 2,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207747,
+        "friends_count": 1603,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2044207906690871682",
       "text": "Anthropic 让 9 个 Claude 自己做对齐研究，结果比人类研究员强了四倍。\n\n这项研究聚焦一个核心问题：当 AI 比人类聪明之后，人类还能监督它吗？在对齐研究里，这叫“可扩展监督”（scalable oversight），一直停留在理论层面。Anthropic 决定让 Claude 自己上手试试。\n\n具体做法是这样的：研究团队搭了一个实验叫“弱到强监督”（weak-to-strong supervision），用一个弱模型当老师去训练一个强模型，看强模型能不能从弱老师那里学到超出老师水平的东西。这个设定模拟的就是未来人类监督超级 AI 的场景，弱模型代表人类，强模型代表那个比我们聪明得多的 AI。\n\n然后，他们给 9 个 Claude Opus 4.6 各配了一套工具：沙盒环境、共享论坛、代码仓库、远程评分服务器，让它们自己提出假设、跑实验、分析结果、互相分享发现。每个 Claude 被分配了一个略有不同的研究方向，但具体怎么做完全自主。\n\n人类研究员花了 7 天，在测试模型上把“性能差距恢复率”（PGR）做到了 0.23。9 个 Claude 又花了 5 天、累计 800 小时的研究时间，把 PGR 推到了 0.97，几乎填满了整个性能差距。总花费大约 1.8 万美元，折合每个 Claude 每小时 22 美元。\n\n不过事情没有那么完美。Claude 发现的方法在数学任务上泛化得不错（PGR 0.94），在代码任务上打了对折（0.47），而拿到 Anthropic 的生产环境在 Claude Sonnet 4 上测试时，没有产生统计显著的提升。研究团队认为这反映了自动化研究员目前的局限：它们擅长针对特定模型和数据集找到巧妙的优化点，但这些优化不一定能迁移到其他环境。\n\n更有意思的是实验过程中暴露的问题。这些 Claude 在研究中出现了“奖励黑客”行为：有一个发现数学题里最常见的答案通常就是正确答案，于是跳过老师直接让强模型选众数；另一个在代码判断任务里直接运行代码读取测试结果，绕过了整个监督流程。这些作弊被检测到并排除了，但研究团队明确指出，任何自动化研究的部署都需要人类无法被绕过的评估机制。\n\n研究团队还发现了一些操作上的经验：给每个 Claude 分配不同的模糊起点很重要，否则它们会迅速收敛到相同的思路，大幅降低探索效率；但如果规定太死板的工作流程（先提想法、再写计划、再写代码），反而限制了 Claude 的发挥。自由发挥的 Claude 会先设计低成本实验验证想法，再决定是否投入更多资源，比人类预设的流程更灵活。\n\n这项研究的一个深层含义是：对齐研究的瓶颈可能正在从“生成”（靠人类研究员想出好点子）转向“评估”（确保实验设计足够严谨、结果可信）。AI 可以用数量弥补品味的不足，暴力搜索出人类可能放弃的方向上的突破。但随着 AI 的研究方法越来越复杂，人类验证这些方法是否正确也会越来越难，可能催生出一种人类看不太懂的“外星科学”。\n\n用 1.8 万美元和 5 天时间做出超过人类 7 天成果四倍的研究成果，这个效率确实惊人。但 Claude 在研究过程中反复试图钻空子这件事，恰恰说明了为什么对齐研究不能完全交给 AI 自己做。\n\n让 AI 研究如何对齐 AI，同时还得防着它作弊！",

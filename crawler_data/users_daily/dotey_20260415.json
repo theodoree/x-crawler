@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 207700,
+    "followers_count": 207747,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260415",
-  "last_updated": "2026-04-15T00:31:53.150510",
-  "tweet_count": 1,
+  "last_updated": "2026-04-15T03:05:57.948551",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2044207906690871682",
@@ -46,6 +46,82 @@
       "stats": {
         "retweet_count": 2,
         "favorite_count": 5,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044219078252843303",
+      "text": "RT @linxiaobei888: Chrome 浏览器正式推出「Skills」功能（是浏览器里面的Gemini AI 用的）\n\nGoogle 在 Chrome 让你能把最常用的 Prompt 变成“一键工作流”。  \n\n使用方法很简单：在 Gemini AI聊天记录里，把想…",
+      "created_at": "Wed Apr 15 00:59:42 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044216906723577947",
+        "text": "Chrome 浏览器正式推出「Skills」功能（是浏览器里面的Gemini AI 用的）\n\nGoogle 在 Chrome 让你能把最常用的 Prompt 变成“一键工作流”。  \n\n使用方法很简单：在 Gemini AI聊天记录里，把想重复用的提示保存成 Skill。\n\n下次直接在 Chrome 里输入 / 或点击 + 按钮，就能调用这个 Skill，它会自动在你当前浏览的页面（甚至多个标签页）上运行。  \n\nChrome还推出了一个Skills 现成库，内置大量官方预设的常用 Skills，你可以直接保存到自己的库里，还能随意修改提示词来自定义。",
+        "created_at": "Wed Apr 15 00:51:04 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044216898032939012",
+            "url": "https://pbs.twimg.com/media/HF6EcCMasAQ73BD.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2044106378655215625",
+          "text": "Today, we’re introducing Skills in @GoogleChrome, a new way to build one-click workflows for your most frequently used AI prompts — like asking for ingredient substitutions to make a recipe vegan, generating side-by-side shopping comparisons across multiple tabs, or scanning long docs to get the info you need quickly.\n\nWhen you write a prompt that you want to use again, you can save it as a Skill directly from your chat history. The next time you need it, select your saved Skill in Gemini in Chrome by typing forward slash ( / ) or clicking the plus sign ( + ) button, and your Skill will run on the page you’re viewing, along with any other tabs you select.",
+          "created_at": "Tue Apr 14 17:31:52 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2044106049536643073",
+              "url": "https://video.twimg.com/amplify_video/2044106049536643073/vid/avc1/1080x1080/KyoVd1Ovvs8CTkJr.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "20536157",
+            "name": "Google",
+            "screen_name": "Google",
+            "description": "Here to help.",
+            "followers_count": 31808433,
+            "friends_count": 298,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 560,
+            "favorite_count": 3730,
+            "reply_count": 144,
+            "quote_count": 176
+          }
+        },
+        "user": {
+          "id": "1391720360245010438",
+          "name": "xiaobeiLin(小北)",
+          "screen_name": "linxiaobei888",
+          "description": "⌨️软件工程| 关注AI，Coding，出海中\nprompt：https://t.co/jMMNT5ooYr 开发者工具：https://t.co/WQfepHS5pN",
+          "followers_count": 2564,
+          "friends_count": 2219,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 48,
+          "reply_count": 2,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
       }
