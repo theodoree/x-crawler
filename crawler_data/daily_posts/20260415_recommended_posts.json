@@ -1,12 +1,141 @@
 {
   "date": "20260415",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-15T03:05:57.894555",
-  "tweet_count": 205,
-  "unique_tweet_count": 205,
-  "total_crawled": 400,
-  "duplicates_removed": 195,
+  "last_crawl_time": "2026-04-15T04:59:09.724152",
+  "tweet_count": 208,
+  "unique_tweet_count": 208,
+  "total_crawled": 405,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2044277514223374390",
+      "text": "RT @SpaceX: Watch Falcon 9 launch 25 @Starlink satellites to orbit from California https://t.co/j86tO4yG2I",
+      "created_at": "Wed Apr 15 04:51:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044269332578869321",
+        "text": "Watch Falcon 9 launch 25 @Starlink satellites to orbit from California https://t.co/j86tO4yG2I",
+        "created_at": "Wed Apr 15 04:19:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41435632,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 261,
+          "favorite_count": 1810,
+          "reply_count": 252,
+          "quote_count": 33
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238025909,
+        "friends_count": 1311,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 261,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044274537903100401",
+      "text": "开源项目推荐：BlockNote\n\nBlockNote 是一个开源的 React 富文本编辑器，基于 ProseMirror 和 Tiptap 构建，走的是 Notion 风格的 Block 编辑体验，拖拽、嵌套、斜杠菜单、格式工具栏这些开箱即用。\n\n对于需要在自己的应用里嵌入编辑器的开发者来说，它最大的吸引力在两个地方。\n\n第一是上手门槛低。几行代码就能跑起来一个带完整 UI 的编辑器，不用像直接用 ProseMirror 或 Tiptap 那样先啃一堆底层概念。Block 类型、键盘快捷键、自定义样式都可以配置，但不配也能直接用。\n\n第二是原生支持 AI 集成。通过 @blocknote/xl-ai 这个扩展包，可以在编辑器里直接接入 AI 能力，用户选中文字点 AI 按钮、或者在斜杠菜单里输入 /ai，就能让 AI 帮忙写、改、续写内容。后端支持接 OpenAI、Anthropic 或者自己的模型端点，也能接 RAG 管道给 AI 补充知识库。AI 的操作过程对用户完全透明，改了哪里、加了什么，用户可以逐条接受或拒绝。\n\n这意味着如果你在做一个内容管理系统、知识库、或者任何需要\"编辑器 + AI 辅助写作\"的产品，BlockNote 省掉了你同时造两个轮子的功夫。\n\n实时协作也内置支持（需要借助第三方服务），基于 Yjs 实现多人同时编辑。另外还有导出 PDF、Word、ODT 的扩展包，适合需要生成正式文档的场景。\n\n许可方面需要注意：核心编辑器功能用的是 MPL-2.0 协议，商业项目可以自由使用。但 AI 集成、多列布局、文档导出这些 xl- 开头的高级包用的是 GPL-3.0，闭源商业项目需要购买商业许可。\n\n如果你现在的选型在 Tiptap 和 BlockNote 之间纠结：Tiptap 更适合需要深度定制编辑器行为的场景，但学习曲线陡，需要理解 ProseMirror 的 Schema 和插件体系。BlockNote 封装层级更高，适合想快速出活、不想在编辑器底层花太多时间的团队。\n\n项目地址：https://t.co/gp9R6ntfmU，文档在 https://t.co/1JWP0odZvO。",
+      "created_at": "Wed Apr 15 04:40:05 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044274525819539456",
+          "url": "https://pbs.twimg.com/media/HF642abakAAmFKw.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207782,
+        "friends_count": 1603,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044268943209083378",
+      "text": "RT @Khazix0918: https://t.co/HYoStio00F",
+      "created_at": "Wed Apr 15 04:17:51 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2044258725536690270",
+        "text": "https://t.co/HYoStio00F",
+        "created_at": "Wed Apr 15 03:37:15 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1492195583699951620",
+          "name": "数字生命卡兹克",
+          "screen_name": "Khazix0918",
+          "description": "愿我们永远对世界保持好奇。\n公众号：数字生命卡兹克",
+          "followers_count": 40491,
+          "friends_count": 144,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 44,
+          "reply_count": 5,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 207782,
+        "friends_count": 1603,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2044250667783688205",
       "text": "RT @tesla_na: Tesla Insurance update\n\nWith the latest version of Safety Score (v3.0), every mile you drive with FSD Supervised enabled will…",
