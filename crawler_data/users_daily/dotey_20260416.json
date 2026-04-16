@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 208136,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260416",
+  "last_updated": "2026-04-16T05:03:17.647663",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2044627564665131013",
+      "text": "RT @repoog: @dotey 我儿子说，他们班真的有同学用豆包和DeepSeek做作业，他自己之前也会用豆包写语文作业。\n\n后来，我和他这么说的。\n\n学习的过程最重要的是独立思考和独立探索，结果不是最重要的。…",
+      "created_at": "Thu Apr 16 04:02:53 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044208511547306046",
+        "text": "我儿子说，他们班真的有同学用豆包和DeepSeek做作业，他自己之前也会用豆包写语文作业。\n\n后来，我和他这么说的。\n\n学习的过程最重要的是独立思考和独立探索，结果不是最重要的。\n\n就像打游戏，如果老是用AI，就像每次遇到小怪或Boss就找爸爸帮你，最后或许可以快速通关，但你自己却失去了玩游戏的乐趣，自己玩游戏，打得过和打不过都是乐趣的一种。\n\n又或者像做你学习做饭，如果用AI，就像直接找妈妈帮你，虽然可以很快得到你想要的，但却没有学习和体验到任何做饭的技能和乐趣。\n\n学生阶段最痛苦和最快乐的就是自己解决问题的过程，如果你本身很厉害了，未来才能真正知道需要AI做什么和怎么做，比如找爸爸买新游戏、找妈妈找做饭的食谱。",
+        "created_at": "Wed Apr 15 00:17:43 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1205616822",
+          "name": "做个好人",
+          "screen_name": "repoog",
+          "description": "商业&产品经理｜企业&团队管理｜网络安全&研究｜软件开发&架构",
+          "followers_count": 2673,
+          "friends_count": 499,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 48,
+          "reply_count": 5,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
