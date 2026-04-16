@@ -1,12 +1,61 @@
 {
   "date": "20260416",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-16T12:26:36.731819",
-  "tweet_count": 223,
-  "unique_tweet_count": 223,
+  "last_crawl_time": "2026-04-16T14:37:37.156111",
+  "tweet_count": 224,
+  "unique_tweet_count": 224,
   "total_crawled": 423,
-  "duplicates_removed": 200,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2044781045103378859",
+      "text": "RT @vista8: 张小珺最新一期《商业访谈录》中，李广密对海外AI模型公司的点评概要：\n\n1. Anthropic：战略极专注的领跑者\n\n果断放弃C端市场、多模态发展以及跟风推理模型。\n\n集中全部资源“All in”在 Coding和 Agent等高价值任务上。\n\n采用自…",
+      "created_at": "Thu Apr 16 14:12:46 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2044689919340384560",
+        "text": "张小珺最新一期《商业访谈录》中，李广密对海外AI模型公司的点评概要：\n\n1. Anthropic：战略极专注的领跑者\n\n果断放弃C端市场、多模态发展以及跟风推理模型。\n\n集中全部资源“All in”在 Coding和 Agent等高价值任务上。\n\n采用自上而下战略，极度重视数据，甚至创始人亲自带队清理数据。\n\n内部员工以AGI信仰驱动，信息高度保密，有像物理学家一样踏实寻找工程规律的务实文化。\n\n2. OpenAI：暂时被低估的“范式创造者”\n\n处于阶段性被低估状态，但依然有不可估量的上限与爆发力。\n\n曾一度陷入与 Google 争夺流量的泥潭，导致对 Coding 赛道出现严重误判，晚几个月才将其提至最高优先级。\n\nOpenAI 拥有极高的人才密度，实行类似 VC的“自下而上”探索文化。\n\n推崇从 0 到 1 突破，导致团队摊子铺得太大、少有人愿意做枯燥的数据清理脏活。\n\n正在迅速补齐 Coding 和 Agent 的短板，大概率能追平甚至交替领先。\n\n3. Google (Gemini)：最稳的“领先追随者”\n\nGemini 3.0 曾经过度追求跑分，忽视了产品的实际体验。\n\n同样因醉心多模态和C端竞争，严重误判了 Coding 的重要性。\n\n工程师驱动但产品文化较弱，存在一定人事和组织冗余。\n\n尽管反应慢半拍，但依靠强大的 TPU 算力基础、充沛现金流及 Android/Workspace 等天然生态优势。\n\n长期看掉队可能性低。\n\n4. Meta：极具威胁的四号种子选手\n\n已取代 xAI 成为硅谷大模型竞赛的最强挑战者。\n\n团队聚集各家实验室人才，具有极高的人才密度。\n\n能在极短时间（9-10个月）内复刻并融合 Google 和 OpenAI 在多模态与预训练上的优势。\n\n但产品战略似乎并不清晰，且“重金挖人”带来的团队文化，可能缺乏真正冒险和创新的意愿。\n\n5. xAI：陷入摇摆的重资产玩家\n\n核心团队流失和战略摇摆，短期显得有些掉队。\n\n马斯克缺乏耐心，习惯于特斯拉 FSD 那种短平快反馈机制，而大模型数据清洗和迭代需要长期的沉淀。\n\nxAI 在扩大参数规模、多模态、AI 搜索和 Coding 之间反复横跳，导致团队疲于奔命、牺牲长期的模型质量。\n\n不过依靠充足的 GPU 储备和马斯克的个人魄力，仍有一定悬念。",
+        "created_at": "Thu Apr 16 08:10:39 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "6690032",
+          "name": "向阳乔木",
+          "screen_name": "vista8",
+          "description": "喜欢摇滚乐、爱钓鱼的PM\n网站：https://t.co/vnUpLt752o",
+          "followers_count": 103408,
+          "friends_count": 1533,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 14,
+          "favorite_count": 84,
+          "reply_count": 10,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 208532,
+        "friends_count": 1604,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2044684468599112002",
       "text": "RT @AhmedSharif: This is what a black politician in South Africa said…\n\n“We will kill white women, we will kill white children, and we will…",
