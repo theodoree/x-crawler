@@ -1,12 +1,100 @@
 {
   "date": "20260416",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-16T20:17:39.768836",
-  "tweet_count": 252,
-  "unique_tweet_count": 252,
-  "total_crawled": 444,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-04-16T22:16:03.422123",
+  "tweet_count": 254,
+  "unique_tweet_count": 254,
+  "total_crawled": 452,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2044886304597344672",
+      "text": "Codex 现在能做类似 Cowork 的事，还不像 Cowork 那样被沙盒限制，能做的事很多，能力挺强\nhttps://t.co/E39rwyU2vj",
+      "created_at": "Thu Apr 16 21:11:01 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2044848708655915008",
+          "url": "https://video.twimg.com/amplify_video/2044848708655915008/vid/avc1/3840x2160/GvwjsnCyVIiDdX0X.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 208670,
+        "friends_count": 1607,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044879703698526617",
+      "text": "Codex 刚刚上线了一个重磅新功能——自带“评论模式”的应用内浏览器\n\n现在，你可以直接在代码编辑器里浏览任何网页。只需简单点点鼠标，就能快速和你的 AI Agent 进行迭代。\n\nCodex 会自动帮你搞定所有繁琐的步骤：它能瞬间截取网页屏幕，精准抓取 DOM 元素（DOM element），然后把这些信息作为最精准的上下文，直接无缝投喂到你接下来的对话窗口中。\n\n这功能我印象中最早是 v0 上有的，没想到 codex 现在也支持了。",
+      "created_at": "Thu Apr 16 20:44:48 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044855812586365212",
+        "text": "We are super excited to launch the in-app browser inside Codex with comment mode!   \n\nView any web pages & iterate with your agent quickly with just point and click.  \n\nCodex will automatically capture a screenshot, the DOM element, and feed it as precise context to your next chat.  \n\nNo more switching between browsers, dragging screenshots, and wrangling with underspecified prompts.   \n\nIt's great for front-end development of apps/pages, but also very useful if you have documentation pulled up on the side and just want to ask a question!",
+        "created_at": "Thu Apr 16 19:09:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044855751492145152",
+            "url": "https://video.twimg.com/amplify_video/2044855751492145152/vid/avc1/1744x1080/RGsKKZUyGrLxrJzt.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "375512760",
+          "name": "James Sun",
+          "screen_name": "JamesZmSun",
+          "description": "product @openai \n\nprev: vp @thirdweb, founder @papercheckout, product @Twitch, YC S16",
+          "followers_count": 2562,
+          "friends_count": 584,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 25,
+          "favorite_count": 410,
+          "reply_count": 23,
+          "quote_count": 11
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 208670,
+        "friends_count": 1607,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2044869569303441451",
       "text": "额度果然重置了 https://t.co/yk053zcqXW",
