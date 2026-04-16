@@ -1,12 +1,418 @@
 {
   "date": "20260416",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-16T18:27:07.640690",
-  "tweet_count": 244,
-  "unique_tweet_count": 244,
-  "total_crawled": 432,
-  "duplicates_removed": 188,
+  "last_crawl_time": "2026-04-16T20:17:39.768836",
+  "tweet_count": 252,
+  "unique_tweet_count": 252,
+  "total_crawled": 444,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2044869569303441451",
+      "text": "额度果然重置了 https://t.co/yk053zcqXW",
+      "created_at": "Thu Apr 16 20:04:31 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044869541541621760",
+          "url": "https://pbs.twimg.com/media/HGDWA4uasAAsnaO.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 208672,
+        "friends_count": 1606,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044869059808727427",
+      "text": "要想编程效果好，就得学会“黑话”😂",
+      "created_at": "Thu Apr 16 20:02:30 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044821847108435979",
+        "text": "Claude 也开始不说人话了\n\n像什么「一句话锁死版本」、「最硬的那一刀」之类的表达，以前根本不会在 Claude 里出现\n\n但现在 Opus 4.7 里到处都在拉这种屎\n\n我真的想知道这种语料、这种训练结果都是怎么来的，到底为什么会和 Codex 趋于相同",
+        "created_at": "Thu Apr 16 16:54:53 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1732443020153221120",
+          "name": "二一的笔记",
+          "screen_name": "eryidebiji",
+          "description": "我的 Notion 模板\n专为知识工作者设计\n已帮助 1477+ 用户搭建 AI 知识库\nhttps://t.co/2sN8nWjRo3",
+          "followers_count": 5382,
+          "friends_count": 147,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 106,
+          "reply_count": 26,
+          "quote_count": 5
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 208672,
+        "friends_count": 1606,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044868344256381254",
+      "text": "Boris Cherny 根据自己最近几周深度使用 Claude Opus 4.7 的经验，分享了几个实用技巧，让你也能高效发挥这款新模型的威力。\n\n首先是新上线的“自动模式”(Auto mode)。\n\nOpus 4.7 很适合复杂且长期运行的任务，比如深度调研、代码重构或功能迭代。\n\n以前，你要么得不断地确认权限请求，要么不得已使用危险的“跳过权限”模式。\n\n现在，新推出的自动模式让 Claude 自己判断命令的安全性，自动批准执行。这意味着你不用再频繁确认，也能同时运行更多任务，效率大幅提升。\n\n如果你不喜欢用自动模式，官方还推出了一个叫做 /fewer-permission-prompts (减少权限提示) 的技能。它会自动检查历史操作，找到那些安全但经常触发权限提示的命令，并建议你加入权限白名单。这样，你就能更专注工作，不用老被权限提示打断。\n\n另一个贴心功能叫做“回顾”(Recaps)。\n\n它会为你自动总结 Claude 已经完成了哪些任务，以及下一步要做什么。这对处理长期、复杂的任务特别有帮助，哪怕你中间中断几个小时再回来，也能迅速回到节奏里。\n\nCLI 用户还能试试“专注模式”(Focus mode)。\n\n这个模式会隐藏所有中间步骤，只呈现最终结果。如果你对 Claude 已经足够信任，不想再浪费时间看中间细节，专注模式能让你一眼看清重点，快速推进任务。\n\nClaude 4.7 还改变了以往固定的“思考预算”机制，现在用的是一种叫“努力程度”(Configure your effort level)的设定。\n\n你可以灵活调整 Claude 花费的计算资源和时间，“低努力”意味着响应快、更省 token；“高努力”则能输出最聪明、最强大的结果。一般建议普通任务用 xhigh，特别难的用 max。这种模式能自由切换，更贴合实际需求。\n\n最后，别忘了让 Claude 验证自己的工作成果。这其实一直是提升 Claude 效果的关键，现在更重要了。\n\n比如：\n- 对于后端工作，确保 Claude 知道如何启动你的服务器/服务，从而进行端到端测试；\n- 对于前端工作，使用 Claude Chromium 浏览器扩展程序，赋予 Claude 控制你浏览器的能力；\n- 对于桌面应用，使用计算机使用 (computer use) 功能。\n\n就 Boris 自己而言，最近最常使用的提示词通常是这样的：“Claude 去做某某事，然后 /go”。 \n\n/go 是一个自定义技能，它会让 Claude 自动执行以下三步：\n1. 使用 bash、浏览器或计算机使用功能进行端到端的自我测试。\n2. 运行 /simplify (精简代码) 技能。\n3. 提交一个 PR 。\n\n对于耗时较长的工作，自我验证非常重要。因为这样一来，当你回来检查任务时，你就确切地知道这些代码是真实可用的。\n\n总体来说，Opus 4.7 本身的提升已经很明显了，但如果你愿意稍微调整一下工作流程，更好地适应 Claude 的“主动性”和“智能程度”，一定会有更加明显的效率提升。希望这些技巧能帮你真正玩转 Opus 4.7！",
+      "created_at": "Thu Apr 16 19:59:39 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044868290829586432",
+          "url": "https://pbs.twimg.com/media/HGDU4FdbkAAAJU2.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2044847848035156457",
+        "text": "Dogfooding Opus 4.7 the last few weeks, I've been feeling incredibly productive. Sharing a few tips to get more out of 4.7 🧵",
+        "created_at": "Thu Apr 16 18:38:13 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "159337660",
+          "name": "Boris Cherny",
+          "screen_name": "bcherny",
+          "description": "Claude Code @anthropicai",
+          "followers_count": 403837,
+          "friends_count": 131,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 197,
+          "favorite_count": 3044,
+          "reply_count": 116,
+          "quote_count": 38
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 208672,
+        "friends_count": 1606,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044856258230886601",
+      "text": "这封面不错😂",
+      "created_at": "Thu Apr 16 19:11:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044766954460778609",
+        "text": "Five geeks so famous that they can be identified by their first names exercise almost godlike command over the AI models that will shape the future.\n\nShould they be entrusted with the world’s most potent new technology? https://t.co/hXDc9bJkBq https://t.co/H3p2vJYmWm",
+        "created_at": "Thu Apr 16 13:16:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044766949385605120",
+            "url": "https://pbs.twimg.com/media/HGB4tPKWkAATeDi.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "5988062",
+          "name": "The Economist",
+          "screen_name": "TheEconomist",
+          "description": "News and analysis with a global perspective, since 1843. We’re here to help you understand the world around you. Subscribe here: https://t.co/RpUQAAnhog",
+          "followers_count": 25994525,
+          "friends_count": 149,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 66,
+          "favorite_count": 178,
+          "reply_count": 20,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 208672,
+        "friends_count": 1606,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044850217946591598",
+      "text": "Claude Opus 4.7 比前代消耗更多思考 token，为此 Anthropic 已经给所有付费订阅用户永久上调了速率限制（rate limits），以抵消新模型更费额度带来的影响。\n\n没看到额度上调的用户需要确认自己用的是 Opus 4.7，并且 Claude Code 已经升级到最新版本。",
+      "created_at": "Thu Apr 16 18:47:38 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044839936235553167",
+        "text": "Opus 4.7 uses more thinking tokens, so we've increased rate limits for all subscribers to make up for it. Enjoy!",
+        "created_at": "Thu Apr 16 18:06:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "159337660",
+          "name": "Boris Cherny",
+          "screen_name": "bcherny",
+          "description": "Claude Code @anthropicai",
+          "followers_count": 403837,
+          "friends_count": 131,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 403,
+          "favorite_count": 9138,
+          "reply_count": 702,
+          "quote_count": 215
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 208672,
+        "friends_count": 1606,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044846998751412602",
+      "text": "The “Justice System” needs major reform",
+      "created_at": "Thu Apr 16 18:34:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044823635442254254",
+        "text": "🇺🇸 This absolute monster named Tesfaye Cooper, the same thug who tortured a disabled teenager on Facebook Live, is back on the streets.\n\nThe twist?? He just got arrested again... okay, who am I kidding? Of course he was.\n\nHe chased down a cyclist who simply waved at him, beat him, spat on him, screamed “Gangster Disciples,” and stole his bike.\n\nReleased after only 7 years for the first savage attack.\n\nIn a saner penal system, this predator would never see daylight again.\n\nDisgusting. Lock him up for good.\n\nSource: @CollinRugg",
+        "created_at": "Thu Apr 16 17:02:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044822914256744448",
+            "url": "https://video.twimg.com/amplify_video/2044822914256744448/vid/avc1/1080x1080/cJKV5ZonSIRbLfm_.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KgAW",
+          "followers_count": 3338235,
+          "friends_count": 51023,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1748,
+          "favorite_count": 9074,
+          "reply_count": 779,
+          "quote_count": 119
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238158593,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7891,
+        "favorite_count": 52554,
+        "reply_count": 2105,
+        "quote_count": 206
+      }
+    },
+    {
+      "id": "2044845530363428927",
+      "text": "There are now more anti-White and anti-Asian laws in South Africa than anti-Black laws under Apartheid.\n\nRacism is wrong no matter who it is against.",
+      "created_at": "Thu Apr 16 18:29:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044826798706590061",
+        "text": "@elonmusk South Africa has a lot of race laws to cut https://t.co/hvTyheI8c8",
+        "created_at": "Thu Apr 16 17:14:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044826790280269825",
+            "url": "https://pbs.twimg.com/media/HGCvIb3bkAExfCH.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1096064,
+          "friends_count": 1836,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 62,
+          "favorite_count": 413,
+          "reply_count": 47,
+          "quote_count": 9
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238158593,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4383,
+        "favorite_count": 27827,
+        "reply_count": 2152,
+        "quote_count": 188
+      }
+    },
+    {
+      "id": "2044845028984721601",
+      "text": "RT @cb_doge: 81% of Grade 4 children in South Africa (that’s 914,000 kids out of 1.1 million) cannot read for MEANING in ANY of South Afric…",
+      "created_at": "Thu Apr 16 18:27:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044829768194158668",
+        "text": "81% of Grade 4 children in South Africa (that’s 914,000 kids out of 1.1 million) cannot read for MEANING in ANY of South Africa’s 11 languages!\n\nIt got WORSE — up from 78% in 2016.\n\nSouth Africa ranked DEAD LAST out of 43 countries, as per PIRLS 2021 numbers.\n\nBiggest drop of ANY nation.\n\nAverage score? Just 288… while the world average is 500.\n\nPoor kids in townships and rural areas — are the ones suffering the most. They can’t read, can’t learn, and their futures are being stolen.\n\nSouth Africa’s racist laws like BEE (Black Economic Empowerment) put skin colour first and skills last.\n\nElon Musk is 100% right.\n\nThese race-based rules decide who gets hired as teachers, principals, and education bosses. Competence doesn’t matter, race quotas do.\n\nResult? Broken schools.\n\nSouth Africa deserves better. The kids deserve better.\n\nStop the racism.",
+        "created_at": "Thu Apr 16 17:26:22 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044828620791898112",
+            "url": "https://video.twimg.com/amplify_video/2044828620791898112/vid/avc1/1920x1080/4KrbipRWFssJ9je4.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1842812,
+          "friends_count": 934,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 516,
+          "favorite_count": 2050,
+          "reply_count": 361,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238158593,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 516,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2044844799115825350",
       "text": "Support Marty, he’s a cool dude",
