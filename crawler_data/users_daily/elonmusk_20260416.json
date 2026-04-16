@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238142859,
+    "followers_count": 238150583,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260416",
-  "last_updated": "2026-04-16T16:45:33.118366",
-  "tweet_count": 25,
+  "last_updated": "2026-04-16T18:27:07.674654",
+  "tweet_count": 29,
   "tweets": [
     {
       "id": "2044664503598760073",
@@ -1167,6 +1167,185 @@
         "retweet_count": 507,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044826150904738077",
+      "text": "RT @OverlyTrev: NHTSA autonomous vehicle crash data has been updated through March 15, 2026, for AVs including Tesla Robotaxi.\n\nThis includ…",
+      "created_at": "Thu Apr 16 17:12:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044761954804281389",
+        "text": "NHTSA autonomous vehicle crash data has been updated through March 15, 2026, for AVs including Tesla Robotaxi.\n\nThis includes unsupervised Tesla-driven robotaxis.\n\n• Waymo: 58 incidents\n• Zoox: 3 incidents\n• Tesla: 0 incidents\n\nTesla has had 15 incidents in 10 months with an estimated 1,000,000+ miles driven on FSD. These miles include fully unsupervised driving as well.\n\nMany people claimed that Tesla had so many incidents with safety monitors and that it would therefore be worse when unsupervised.\n\nIt turns out that wasn’t the case at all, as incidents are dropping as Tesla does more testing and trains better models.",
+        "created_at": "Thu Apr 16 12:56:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044761934973599744",
+            "url": "https://pbs.twimg.com/media/HGB0JXBXgAAZzp3.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044761934981963776",
+            "url": "https://pbs.twimg.com/media/HGB0JXDXIAAcN2e.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "437259264",
+          "name": "Overly Trev",
+          "screen_name": "OverlyTrev",
+          "description": "I make Content and give opinions on Tesla, FSD, SpaceX, and more. Just a guy who loves Tech and wants to learn how it could shape our future!",
+          "followers_count": 4427,
+          "friends_count": 744,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 261,
+          "favorite_count": 1351,
+          "reply_count": 142,
+          "quote_count": 21
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 261,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044826400792912021",
+      "text": "If South Africa doesn’t change its super racist Apartheid 2.0 laws, the country must be sanctioned",
+      "created_at": "Thu Apr 16 17:12:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044825154954371158",
+        "text": "@elonmusk @drk_2_lite South Africa should be sanctioned and shunned by the world.",
+        "created_at": "Thu Apr 16 17:08:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1355721251180961792",
+          "name": "Gunther Eagleman™",
+          "screen_name": "GuntherEagleman",
+          "description": "David J. Freeman - Political Commentator - America First - MAGA - Christian",
+          "followers_count": 1718610,
+          "friends_count": 102848,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 101,
+          "favorite_count": 1077,
+          "reply_count": 222,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 4540,
+        "favorite_count": 39230,
+        "reply_count": 4094,
+        "quote_count": 455
+      }
+    },
+    {
+      "id": "2044841722556063843",
+      "text": "Starship V3 booster &amp; ship will be ready for their first test flight in a few weeks",
+      "created_at": "Thu Apr 16 18:13:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044687125136765365",
+        "text": "Both Starship and the Super Heavy Booster have successfully completed the static fire tests and are ready to take to the skies\n\nEvery test brings us one step closer to making humanity multi-planetary\n\n\"Engineering is the closest thing to magic that exists in the real world\" — Elon Musk",
+        "created_at": "Thu Apr 16 07:59:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044685130518745088",
+            "url": "https://pbs.twimg.com/media/HGAuSwIX0AAEWGT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 190408,
+          "friends_count": 1732,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 96,
+          "favorite_count": 502,
+          "reply_count": 78,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 688,
+        "favorite_count": 5865,
+        "reply_count": 848,
+        "quote_count": 43
+      }
+    },
+    {
+      "id": "2044844799115825350",
+      "text": "Support Marty, he’s a cool dude",
+      "created_at": "Thu Apr 16 18:26:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044139201432592802",
+        "text": "🚨 I am truly honored to have the support of President Donald J. Trump!\n\nThe stakes this midterm could not be higher. That's why when I started running, I promised I would drop out unless President Trump supported me so that Republicans could avoid wasting resources on a needless primary.\n\nMuch like President Trump, I didn’t come from the world of politics. I spent my entire career in the business world. I had the honor of working with some incredible people and composing music for some of the greatest video games of all time. \n\nI'm not going to DC for fame or money. I'm going because I'm a grandfather who deeply cares about what type of country his grandchildren will grow up in.\n\nI appreciate the trust that the President has put in me and look forward to working with him in Congress to continue delivering for working families and keeping our nation safe.\n\nNow, it's time to ramp this thing into high gear and RETIRE Susie Lee in November.",
+        "created_at": "Tue Apr 14 19:42:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044133041740673024",
+            "url": "https://pbs.twimg.com/media/HF44K9KXcAABYq5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "41317178",
+          "name": "Marty O'Donnell",
+          "screen_name": "MartyTheElder",
+          "description": "Composer. I’m a part of many childhoods. Now going to toss the Ring of Power into the fires of Mount Doom. Trump-endorsed candidate for Congress (NV-03).",
+          "followers_count": 93734,
+          "friends_count": 169,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 991,
+          "favorite_count": 8972,
+          "reply_count": 684,
+          "quote_count": 310
+        }
+      },
+      "stats": {
+        "retweet_count": 37,
+        "favorite_count": 176,
+        "reply_count": 92,
         "quote_count": 0
       }
     }
