@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 208809,
+    "followers_count": 208892,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260417",
-  "last_updated": "2026-04-17T03:06:00.406455",
-  "tweet_count": 2,
+  "last_updated": "2026-04-17T05:01:50.501844",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2044942094389702818",
@@ -67,6 +67,112 @@
       "stats": {
         "retweet_count": 1,
         "favorite_count": 3,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044976319054672214",
+      "text": "🎬 破次元相聚\n\n《大闹天宫》《哪吒闹海》《黑猫警长》《葫芦兄弟》经典动画主角同框 https://t.co/HjoVSzJJ8t",
+      "created_at": "Fri Apr 17 03:08:42 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2044976076313526272",
+          "url": "https://video.twimg.com/amplify_video/2044976076313526272/vid/avc1/1024x576/oqjygHhVNy_em_8d.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 6,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044986392862662957",
+      "text": "RT @zats: Asked computer use to reverse engineer itself and vibecode this lil guy 🙈 https://t.co/eugXYn2czb https://t.co/BP8tpygvgK",
+      "created_at": "Fri Apr 17 03:48:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2044971894676283392",
+          "url": "https://video.twimg.com/amplify_video/2044971894676283392/vid/avc1/2866x1786/gFmhHb_c6qU9IjRl.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2044972844216381802",
+        "text": "Asked computer use to reverse engineer itself and vibecode this lil guy 🙈 https://t.co/eugXYn2czb https://t.co/BP8tpygvgK",
+        "created_at": "Fri Apr 17 02:54:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044971894676283392",
+            "url": "https://video.twimg.com/amplify_video/2044971894676283392/vid/avc1/2866x1786/gFmhHb_c6qU9IjRl.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2044929029334245819",
+          "text": "We need an open-source project for this awesome permissions flow https://t.co/myv3bzN1pv",
+          "created_at": "Fri Apr 17 00:00:48 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2044928647157669888",
+              "url": "https://video.twimg.com/amplify_video/2044928647157669888/vid/avc1/2700x1996/oehQoXcK-0E2kfPS.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "8504312",
+            "name": "Lex Tang",
+            "screen_name": "lexrus",
+            "description": "🍎 iOS/macOS developer\n\n👨🏻‍🦲 https://t.co/0IHFZ92Fy0\n💬 https://t.co/twEXEcpKsD\n🎬 https://t.co/gNhF2lyDse\n\n📱 My apps:\nhttps://t.co/HyHriyoCa3",
+            "followers_count": 25886,
+            "friends_count": 1927,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 39,
+            "favorite_count": 703,
+            "reply_count": 18,
+            "quote_count": 11
+          }
+        },
+        "user": {
+          "id": "17973325",
+          "name": "Sash Zats",
+          "screen_name": "zats",
+          "description": "Working on something new\n\npreviously decade at @meta Meta AI, Threads, CTRL Labs, Reality Labs, Instagram, Facebook and more",
+          "followers_count": 3723,
+          "friends_count": 625,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 15,
+          "favorite_count": 233,
+          "reply_count": 9,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
       }

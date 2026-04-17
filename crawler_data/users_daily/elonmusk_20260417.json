@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238175733,
+    "followers_count": 238182888,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260417",
-  "last_updated": "2026-04-17T03:06:00.415923",
-  "tweet_count": 12,
+  "last_updated": "2026-04-17T05:01:50.479446",
+  "tweet_count": 21,
   "tweets": [
     {
       "id": "2044955236176200066",
@@ -683,6 +683,422 @@
       "quoted": null,
       "stats": {
         "retweet_count": 153,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044977273905021370",
+      "text": "https://t.co/dUurWrIBdY",
+      "created_at": "Fri Apr 17 03:12:30 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2044848601122406400",
+          "url": "https://video.twimg.com/amplify_video/2044848601122406400/vid/avc1/3840x1920/UiYEtrTNjEdZz4-Y.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1395,
+        "favorite_count": 12852,
+        "reply_count": 1203,
+        "quote_count": 93
+      }
+    },
+    {
+      "id": "2044977447918281009",
+      "text": "RT @TeslaAUNZ: Model 3 &amp; Y are the most cost-effective vehicles you can own",
+      "created_at": "Fri Apr 17 03:13:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044584758370570705",
+        "text": "Model 3 &amp; Y are the most cost-effective vehicles you can own",
+        "created_at": "Thu Apr 16 01:12:47 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2044256943460757566",
+          "text": "This is a great graphic that compares cost per kilometer in Australia between the top 10 ICE vehicles & top 10 EVs. The difference is huge.\n\nTop EVs:\n1) Tesla Model Y: 1.7¢\n2) BYD Sealion 7: 1.8¢\n3) Tesla Model 3: 1.5¢\n\nTop ICE vehicles:\n1) Ford Range: 16¢\n2) Toyota HiLux: 16¢\n3) Isuzu D-Max: 18¢\n\nThe Hyundai Tuscan (9th bestselling ICE car) costs 8X more per kilometer than the @Tesla Model Y. I converted all amounts above to USD.\n\nWhile the graphic is for new car sales, the Model 3 and Model Y were the top two bestselling used EVs in Australia in March 2026, as used EV sales went up 138% from February, likely as Australians try to ditch petrol and diesel in favor of cheaper alternatives.\n\nMore great graphics here: https://t.co/DeIdl6HRXa",
+          "created_at": "Wed Apr 15 03:30:10 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2044256919058083840",
+              "url": "https://pbs.twimg.com/media/HF6o1kIXcAARX0l.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "243013409",
+            "name": "Sawyer Merritt",
+            "screen_name": "SawyerMerritt",
+            "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+            "followers_count": 1057048,
+            "friends_count": 449,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 303,
+            "favorite_count": 1676,
+            "reply_count": 139,
+            "quote_count": 51
+          }
+        },
+        "user": {
+          "id": "1676905146482315264",
+          "name": "Tesla Australia & New Zealand",
+          "screen_name": "TeslaAUNZ",
+          "description": "Building a world of amazing abundance 🦘🇦🇺🇳🇿🌏",
+          "followers_count": 20800,
+          "friends_count": 23,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 342,
+          "favorite_count": 2305,
+          "reply_count": 124,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 342,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044980093320417735",
+      "text": "RT @BLKMDL3: FSD v14.3.1 drives me 45 minutes through LA rush hour with zero interventions. https://t.co/qFGH1TBT8h",
+      "created_at": "Fri Apr 17 03:23:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2044932574850727936",
+          "url": "https://video.twimg.com/amplify_video/2044932574850727936/vid/avc1/1920x1080/8QvJxMkr0adP8hl2.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2044933326176424147",
+        "text": "FSD v14.3.1 drives me 45 minutes through LA rush hour with zero interventions. https://t.co/qFGH1TBT8h",
+        "created_at": "Fri Apr 17 00:17:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044932574850727936",
+            "url": "https://video.twimg.com/amplify_video/2044932574850727936/vid/avc1/1920x1080/8QvJxMkr0adP8hl2.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "988975103785365504",
+          "name": "Zack",
+          "screen_name": "BLKMDL3",
+          "description": "",
+          "followers_count": 88453,
+          "friends_count": 2347,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 218,
+          "favorite_count": 1352,
+          "reply_count": 114,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 218,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044983265451470878",
+      "text": "RT @XFreeze: South Africa has an amazing opportunity to increase its GDP 10x 🇿🇦\n\nIf they just simply remove all the racist laws and allow S…",
+      "created_at": "Fri Apr 17 03:36:19 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044978003751338134",
+        "text": "South Africa has an amazing opportunity to increase its GDP 10x 🇿🇦\n\nIf they just simply remove all the racist laws and allow Starlink to operate, the growth potential is massive\n\nSpaceX has already committed $28M for Rural Development across 5,000 rural schools in South Africa to accelerate this progress\n\nStarlink will literally lift the country’s GDP because high-speed connectivity is the single most important tool for people to participate in the global economy and sell goods and services 🛰️",
+        "created_at": "Fri Apr 17 03:15:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2044557682351476913",
+          "text": "The South African laws are literally super racist, plain and simple. \n\nIt’s not complicated: imagine if the law was called “White Empowerment”, instead of “Black Empowerment”! People would have a seizure 😂\n\nSouth Africa now has more anti-White laws than Apartheid had anti-Black laws. Think about that for a second …\n\nThe current South African government has objectively implemented Apartheid 2.0. Shame on them.",
+          "created_at": "Wed Apr 15 23:25:12 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 238182888,
+            "friends_count": 1312,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 35202,
+            "favorite_count": 173817,
+            "reply_count": 12314,
+            "quote_count": 1580
+          }
+        },
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 190667,
+          "friends_count": 1735,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 224,
+          "favorite_count": 1248,
+          "reply_count": 305,
+          "quote_count": 18
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 224,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044990537145753894",
+      "text": "Universal HIGH INCOME via checks issued by the Federal government is the best way to deal with unemployment caused by AI. \n\nAI/robotics will produce goods &amp; services far in excess of the increase in the money supply, so there will not be inflation.",
+      "created_at": "Fri Apr 17 04:05:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2660,
+        "favorite_count": 24174,
+        "reply_count": 6499,
+        "quote_count": 1169
+      }
+    },
+    {
+      "id": "2044997444572946492",
+      "text": "Yes, and enable quadriplegics to walk again and use their hands",
+      "created_at": "Fri Apr 17 04:32:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044894135442628853",
+        "text": "Neuralink is just so incredible 🥹\n\nNeuralink will help millions restore speech, blindness, and so much more! \nThese videos make me emotional every single time.",
+        "created_at": "Thu Apr 16 21:42:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "926714904874188800",
+          "name": "Robin",
+          "screen_name": "xdNiBoR",
+          "description": "Software @Socialdatabase\n\n@starlink_stats",
+          "followers_count": 17900,
+          "friends_count": 3328,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 53,
+          "favorite_count": 337,
+          "reply_count": 34,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 832,
+        "favorite_count": 7188,
+        "reply_count": 1007,
+        "quote_count": 69
+      }
+    },
+    {
+      "id": "2044998694622331073",
+      "text": "RT @teslaownersSV: Raptor 3: The Most Advanced Rocket Engine Ever\nRaptor 3 is SpaceX’s latest evolution — the best rocket engine ever made.…",
+      "created_at": "Fri Apr 17 04:37:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044668016361881751",
+        "text": "Raptor 3: The Most Advanced Rocket Engine Ever\nRaptor 3 is SpaceX’s latest evolution — the best rocket engine ever made.\nKey upgrades:\n•  No external heat shield (full regenerative cooling)\n•  Record thrust-to-weight ratio\n•  Simplified design with fewer parts for faster production & higher reliability\nElon Musk:\n“Raptor 3 engine is a very advanced engine, by far the best rocket engine ever made.”\nIt powers Starship V3/V4 toward 10,000+ tons thrust and rapid reusability — the key to Mars.",
+        "created_at": "Thu Apr 16 06:43:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044667921390354433",
+            "url": "https://video.twimg.com/amplify_video/2044667921390354433/vid/avc1/1080x1920/YMh5EgXw5fHw9sHO.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2044664503598760073",
+          "text": "Starship Super Heavy Booster, the most powerful moving object ever made by far",
+          "created_at": "Thu Apr 16 06:29:40 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 238182888,
+            "friends_count": 1312,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 12364,
+            "favorite_count": 110319,
+            "reply_count": 4347,
+            "quote_count": 290
+          }
+        },
+        "user": {
+          "id": "1016059981907386368",
+          "name": "Tesla Owners Silicon Valley",
+          "screen_name": "teslaownersSV",
+          "description": "The most notorious Tesla Club in the world. Creator of @thextakeover and taking the Takeover global. We amplify sustainability and philanthropy.\n2.8M followers",
+          "followers_count": 1399324,
+          "friends_count": 871,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 457,
+          "favorite_count": 2832,
+          "reply_count": 128,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 457,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044998811035267573",
+      "text": "RT @RestoreBritain_: Restore Britain has just hit a record 9% in a national poll.\n\nThis is history in the making.",
+      "created_at": "Fri Apr 17 04:38:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044787480419865027",
+        "text": "Restore Britain has just hit a record 9% in a national poll.\n\nThis is history in the making.",
+        "created_at": "Thu Apr 16 14:38:20 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1930183861176090624",
+          "name": "Restore Britain",
+          "screen_name": "RestoreBritain_",
+          "description": "Let’s Restore Britain. Join our party here:",
+          "followers_count": 340214,
+          "friends_count": 68,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 646,
+          "favorite_count": 8958,
+          "reply_count": 172,
+          "quote_count": 34
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 646,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045001977550057655",
+      "text": "RT @cb_doge: “We'll have universal high income. We're basically just issuing money to people, and just because the output of Business Servi…",
+      "created_at": "Fri Apr 17 04:50:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045000631082197220",
+        "text": "“We'll have universal high income. We're basically just issuing money to people, and just because the output of Business Services will so far exceed the money supply, that effectively you have deflation, because deflation is just the ratio of the outputs of goods and services to the money supply.\n\nIf the rate of growth of goods and services exceeds the rate of growth of the money supply, which I predict will happen, then you will have deflation.”\n\n- Elon Musk",
+        "created_at": "Fri Apr 17 04:45:19 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045000550996180992",
+            "url": "https://video.twimg.com/amplify_video/2045000550996180992/vid/avc1/1404x1080/8gpIumxX5F83g2ww.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1842805,
+          "friends_count": 934,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 122,
+          "favorite_count": 611,
+          "reply_count": 194,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 122,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
