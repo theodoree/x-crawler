@@ -1,12 +1,183 @@
 {
   "date": "20260417",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-17T14:29:33.767354",
-  "tweet_count": 225,
-  "unique_tweet_count": 225,
+  "last_crawl_time": "2026-04-17T16:22:42.483546",
+  "tweet_count": 228,
+  "unique_tweet_count": 228,
   "total_crawled": 425,
-  "duplicates_removed": 200,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2045157266932822308",
+      "text": "帮转 Kimi 招人信息",
+      "created_at": "Fri Apr 17 15:07:44 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045041823551516874",
+        "text": "🙇‍♂️🙇‍♂️🙇‍♂️\n月之暗面招人，感谢大家转发\nkk 真的很急急急急急急急急 https://t.co/r38LPqvn3q",
+        "created_at": "Fri Apr 17 07:29:00 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045041605883949056",
+            "url": "https://pbs.twimg.com/media/HGFygWWbcAAeL5W.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1102444843140182016",
+          "name": "Kai",
+          "screen_name": "real_kai42",
+          "description": "独立开发者，20k stars 开源项目 Qwerty Learner 作者，《Web Worker 播客》主播\n\n仅聊技术和生活，仅代表个人观点，不太擅长文字，但话痨∠(｀ω´*) \n\n主页/咨询服务/内推 : https://t.co/ZCsVg4rTbV\nex @Microsoft @BytedanceTalk @hulu",
+          "followers_count": 30533,
+          "friends_count": 1171,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 35,
+          "favorite_count": 283,
+          "reply_count": 36,
+          "quote_count": 16
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 209161,
+        "friends_count": 1607,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045155642491458009",
+      "text": "GPT Image 2 效果也不错👍\nhttps://t.co/5w1yCkRZcH",
+      "created_at": "Fri Apr 17 15:01:16 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045082256939925998",
+        "text": "这套手绘风信息图提示词太好用了，晦涩难懂的逻辑秒变通俗易懂的图解！\nPage 1 ：ChatGPT  （更喜欢一点）\nPage 2 ：Gemini https://t.co/1HgeoZaegJ",
+        "created_at": "Fri Apr 17 10:09:40 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045081425536602112",
+            "url": "https://pbs.twimg.com/media/HGGWuKHb0AAy35Y.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2045081476488892416",
+            "url": "https://pbs.twimg.com/media/HGGWxH7aEAA8ndA.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2033723538663002112",
+          "name": "YaoKai",
+          "screen_name": "meet_yk",
+          "description": "",
+          "followers_count": 0,
+          "friends_count": 8,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 209161,
+        "friends_count": 1607,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045151482169745627",
+      "text": "Free for next two days",
+      "created_at": "Fri Apr 17 14:44:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045131269562876008",
+        "text": "For the next 48 hours, @CallSignCourage is free.\n\nWatch it. Share it. Pass it on. https://t.co/11ZyP3nwIK",
+        "created_at": "Fri Apr 17 13:24:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045125878942756864",
+            "url": "https://video.twimg.com/amplify_video/2045125878942756864/vid/avc1/1920x1080/vF-UXm8j7ood0DyG.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "10168082",
+          "name": "Heritage Foundation",
+          "screen_name": "Heritage",
+          "description": "Heritage was built as a battleship for the conservative movement. 50 years and 10 million supporters later, we’re still fighting for the everyday American 🇺🇸",
+          "followers_count": 760514,
+          "friends_count": 400,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 776,
+          "favorite_count": 3051,
+          "reply_count": 164,
+          "quote_count": 73
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238232758,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 2633,
+        "favorite_count": 12821,
+        "reply_count": 1666,
+        "quote_count": 93
+      }
+    },
     {
       "id": "2045001977550057655",
       "text": "RT @cb_doge: “We'll have universal high income. We're basically just issuing money to people, and just because the output of Business Servi…",

@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238224603,
+    "followers_count": 238232758,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260417",
-  "last_updated": "2026-04-17T14:29:33.799408",
-  "tweet_count": 21,
+  "last_updated": "2026-04-17T16:22:42.514802",
+  "tweet_count": 22,
   "tweets": [
     {
       "id": "2044955236176200066",
@@ -1102,6 +1102,52 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2045151482169745627",
+      "text": "Free for next two days",
+      "created_at": "Fri Apr 17 14:44:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045131269562876008",
+        "text": "For the next 48 hours, @CallSignCourage is free.\n\nWatch it. Share it. Pass it on. https://t.co/11ZyP3nwIK",
+        "created_at": "Fri Apr 17 13:24:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045125878942756864",
+            "url": "https://video.twimg.com/amplify_video/2045125878942756864/vid/avc1/1920x1080/vF-UXm8j7ood0DyG.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "10168082",
+          "name": "Heritage Foundation",
+          "screen_name": "Heritage",
+          "description": "Heritage was built as a battleship for the conservative movement. 50 years and 10 million supporters later, we’re still fighting for the everyday American 🇺🇸",
+          "followers_count": 760514,
+          "friends_count": 400,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 776,
+          "favorite_count": 3051,
+          "reply_count": 164,
+          "quote_count": 73
+        }
+      },
+      "stats": {
+        "retweet_count": 2633,
+        "favorite_count": 12821,
+        "reply_count": 1666,
+        "quote_count": 93
       }
     }
   ]
