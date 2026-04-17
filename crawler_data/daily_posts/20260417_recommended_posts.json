@@ -1,12 +1,473 @@
 {
   "date": "20260417",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-17T16:22:42.483546",
-  "tweet_count": 228,
-  "unique_tweet_count": 228,
-  "total_crawled": 425,
-  "duplicates_removed": 197,
+  "last_crawl_time": "2026-04-17T18:20:25.823671",
+  "tweet_count": 236,
+  "unique_tweet_count": 236,
+  "total_crawled": 428,
+  "duplicates_removed": 192,
   "tweets": [
+    {
+      "id": "2045194063041671385",
+      "text": "Some signs of life",
+      "created_at": "Fri Apr 17 17:33:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045130560268628378",
+        "text": "The new beta of Grok 4.3 is stunning.\n\nIn my view it is more of a leap between Grok 3 to 4. The leap of 4.2 to 4.3 is dramatic.",
+        "created_at": "Fri Apr 17 13:21:36 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "101584084",
+          "name": "Brian Roemmele",
+          "screen_name": "BrianRoemmele",
+          "description": "we can only see what we think is possible...",
+          "followers_count": 465643,
+          "friends_count": 43203,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 57,
+          "favorite_count": 747,
+          "reply_count": 97,
+          "quote_count": 14
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238242037,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 663,
+        "favorite_count": 7846,
+        "reply_count": 1318,
+        "quote_count": 52
+      }
+    },
+    {
+      "id": "2045193784883884114",
+      "text": "Still an early beta , but worth trying out",
+      "created_at": "Fri Apr 17 17:32:50 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045092507881451802",
+        "text": "Grok 4.3 can create PDF and almost any file formats like Sheets, Slides, Doc https://t.co/s6bjpVuzR8",
+        "created_at": "Fri Apr 17 10:50:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045092215488233473",
+            "url": "https://pbs.twimg.com/media/HGGgiN0XwAEwmxl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech",
+          "followers_count": 56366,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 62,
+          "favorite_count": 857,
+          "reply_count": 96,
+          "quote_count": 22
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238242037,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 886,
+        "favorite_count": 9131,
+        "reply_count": 1194,
+        "quote_count": 57
+      }
+    },
+    {
+      "id": "2045193667107815517",
+      "text": "RT @XFreeze: Grok 4.3 Beta is insanely good and now comes with powerful new tools that are super helpful for everyday use:\n• Create clean s…",
+      "created_at": "Fri Apr 17 17:32:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045159684059824481",
+        "text": "Grok 4.3 Beta is insanely good and now comes with powerful new tools that are super helpful for everyday use:\n• Create clean slides, graphs, images and dashboards \n• Pull real-time data and images directly from the web \n• Run smooth multi-step workflows \n• Analyze videos\n\nGrok is being built for real-world use - better tools, richer context, and real day-to-day signals make this a big step toward Grok becoming part of everyday life\n\nYou can now research, visualize, and package your ideas end-to-end..... from concept to finished presentation or dashboard all in one place\n\nAnd the Grok Computer is coming very soon 🔥",
+        "created_at": "Fri Apr 17 15:17:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045157772325736448",
+            "url": "https://video.twimg.com/amplify_video/2045157772325736448/vid/avc1/2108x1528/TchREPz2eyPHU27-.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 190885,
+          "friends_count": 1735,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 182,
+          "favorite_count": 950,
+          "reply_count": 162,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238242037,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 182,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045193548266459293",
+      "text": "Still an early beta, but promising",
+      "created_at": "Fri Apr 17 17:31:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045082904947196088",
+        "text": "i gave Grok 4.3 beta an absolutely psychotic eval and it passed\n\nconflicting records, stale CRM data, signed docs with higher precedence, prompt injection buried in the exhibits, timezone conversions, holiday-aware SLA math, annual-prepay revenue normalization, ARR, weighted gross margin, exact JSON output, and a launch recommendation that had to be correct under policy constraints\n\nGrok got all of it right\n\nthat is an insane level of composure for a beta model",
+        "created_at": "Fri Apr 17 10:12:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045082689070661632",
+            "url": "https://pbs.twimg.com/media/HGGX3tJbgAANLq3.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "C / asm since ’94 · AI + art via Grok\nAgenC //: 👾",
+          "followers_count": 225702,
+          "friends_count": 737,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 38,
+          "favorite_count": 562,
+          "reply_count": 58,
+          "quote_count": 13
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238242037,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 449,
+        "favorite_count": 3290,
+        "reply_count": 679,
+        "quote_count": 19
+      }
+    },
+    {
+      "id": "2045192902318469241",
+      "text": "RT @ArthurMacwaters: can someone explain what I’m missing?\n\n&gt; internet access is highly correlated with per capita income \n\n&gt; millions of p…",
+      "created_at": "Fri Apr 17 17:29:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045161637410476387",
+        "text": "can someone explain what I’m missing?\n\n> internet access is highly correlated with per capita income \n\n> millions of people in South Africa don’t have access to it \n\n> Elon offers to provide free access for thousands of schools, but is blocked by the government \n\nthey’re literally stunting their own GDP and hurting their own citizens?!",
+        "created_at": "Fri Apr 17 15:25:06 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045161633929113600",
+            "url": "https://pbs.twimg.com/media/HGHfq5qaMAAwNpE.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2044978003751338134",
+          "text": "South Africa has an amazing opportunity to increase its GDP 10x 🇿🇦\n\nIf they just simply remove all the racist laws and allow Starlink to operate, the growth potential is massive\n\nSpaceX has already committed $28M for Rural Development across 5,000 rural schools in South Africa to accelerate this progress\n\nStarlink will literally lift the country’s GDP because high-speed connectivity is the single most important tool for people to participate in the global economy and sell goods and services 🛰️",
+          "created_at": "Fri Apr 17 03:15:24 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1818311005698678784",
+            "name": "X Freeze",
+            "screen_name": "XFreeze",
+            "description": "",
+            "followers_count": 190885,
+            "friends_count": 1735,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 737,
+            "favorite_count": 3313,
+            "reply_count": 764,
+            "quote_count": 71
+          }
+        },
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 70052,
+          "friends_count": 990,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 168,
+          "favorite_count": 886,
+          "reply_count": 201,
+          "quote_count": 7
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238242037,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 168,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045192839840063491",
+      "text": "RT @cb_doge: Grok 4.3 (beta) passes the Caitlyn Jenner AI Test.  \n\nChatGPT would STILL rather nuke Earth than misgender Caitlyn Jenner.\n\nCh…",
+      "created_at": "Fri Apr 17 17:29:05 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045151254889041951",
+        "text": "Grok 4.3 (beta) passes the Caitlyn Jenner AI Test.  \n\nChatGPT would STILL rather nuke Earth than misgender Caitlyn Jenner.\n\nChatGPT fails. Grok wins, again. https://t.co/PjlRZynj2T",
+        "created_at": "Fri Apr 17 14:43:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045150663420887040",
+            "url": "https://video.twimg.com/amplify_video/2045150663420887040/vid/avc1/1080x1080/hccMKR87OamHlwLj.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1843139,
+          "friends_count": 934,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 178,
+          "favorite_count": 1054,
+          "reply_count": 158,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238242037,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 178,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045192392756629725",
+      "text": "RT @SawyerMerritt: Tesla is suing the state of North Dakota because the state won't allow the company to open any showrooms/service centers…",
+      "created_at": "Fri Apr 17 17:27:18 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045181877267374224",
+        "text": "Tesla is suing the state of North Dakota because the state won't allow the company to open any showrooms/service centers and sell direct to consumers.\n\nNorth Dakota law prohibits vehicle manufacturers from owning car dealerships and requires them to sell their products to franchised dealerships for resale to consumers.\n\n“Tesla just wants to be able to sell its vehicles in North Dakota, and not force customers who would wish to purchase a Tesla vehicle to have to drive to Minnesota or another state to do it,” said Ari Holtzblatt, one of Tesla’s attorneys in the case.\n\nTesla is asking the court to declare the company does not fall within the definition of manufacturer contained in state law. The term is defined as a person who assembles or imports a motor vehicle and sells it to dealers in the state for resale.\n\nIt's wild that in 2026, we still have U.S. states that won't allow direct vehicle sales to consumers. It hurts consumers and reduces choice.",
+        "created_at": "Fri Apr 17 16:45:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045181313401896960",
+            "url": "https://pbs.twimg.com/media/HGHxkZaWQAAKsKV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1057300,
+          "friends_count": 449,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 300,
+          "favorite_count": 3079,
+          "reply_count": 340,
+          "quote_count": 25
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238242037,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 300,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045185966399435053",
+      "text": "Anthropic 今天发布了 Claude Design，一个可以通过对话生成设计稿的新产品。你描述需求，Claude 直接出图，然后通过聊天、批注、直接编辑或者拖拽滑块来反复调整，直到满意为止。\n\n这个产品背后跑的是 Claude Opus 4.7，Anthropic 目前视觉能力最强的模型，也是今天一起发布的新模型。目前以研究预览的形式开放，Pro、Max、Team 和 Enterprise 订阅用户都可以用，今天逐步放量。\n\nClaude Design 想解决的问题很直接：设计师没时间探索太多方向，非设计背景的人（产品经理、创始人、市场）有想法但做不出来。现在两边都有了一个出口。设计师可以快速跑十几个方向再挑，产品经理可以自己画原型再交给开发，创始人可以从大纲直接做出完整的融资 PPT。\n\n几个值得关注的细节：\n\n团队首次使用时，Claude 会读你的代码库和设计文件，自动生成一套设计系统（品牌色、字体、组件），之后每个项目自动套用，不用每次重新调。\n\n支持从文字描述、图片、文档甚至网页截取起步。做完的东西可以导出为 Canva、PDF、PPTX 或独立 HTML 文件。如果原型确认要开发，可以一键打包交给 Claude Code。\n\n协作方面，设计稿可以在组织内分享，支持多人同时编辑和对话。\n\n用过 Canva 或 Figma 的人会觉得这套流程很熟悉，区别在于 Claude Design 的交互核心是对话而不是拖拽，更接近\"跟一个设计师搭档聊着把东西做出来\"的体验。对于那些经常需要出方案但不想开 Figma 的产品和市场团队来说，这可能是个效率上的实质变化。\n\nClaude Design 入口在 https://t.co/v6it9PjvJj，使用现有订阅额度，超出部分可以开启额外用量。企业版默认关闭，需要管理员手动开启。\n\n有测试过的欢迎留言交流下使用心得。",
+      "created_at": "Fri Apr 17 17:01:46 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045156267690213649",
+        "text": "Introducing Claude Design by Anthropic Labs: make prototypes, slides, and one-pagers by talking to Claude.\n\nPowered by Claude Opus 4.7, our most capable vision model. Available in research preview on the Pro, Max, Team, and Enterprise plans, rolling out throughout the day. https://t.co/2BgBGtgYGX",
+        "created_at": "Fri Apr 17 15:03:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045155754038935553",
+            "url": "https://video.twimg.com/amplify_video/2045155754038935553/vid/avc1/1920x1080/X8tXHs1RLlKGlJJS.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+          "followers_count": 1119615,
+          "friends_count": 2,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4600,
+          "favorite_count": 52154,
+          "reply_count": 2017,
+          "quote_count": 4181
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 209197,
+        "friends_count": 1607,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 45,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2045157266932822308",
       "text": "帮转 Kimi 招人信息",

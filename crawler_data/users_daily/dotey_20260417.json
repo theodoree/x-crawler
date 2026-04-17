@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 209161,
+    "followers_count": 209197,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260417",
-  "last_updated": "2026-04-17T16:22:42.504556",
-  "tweet_count": 6,
+  "last_updated": "2026-04-17T18:20:25.876199",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2044942094389702818",
@@ -269,6 +269,52 @@
         "retweet_count": 1,
         "favorite_count": 7,
         "reply_count": 2,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045185966399435053",
+      "text": "Anthropic 今天发布了 Claude Design，一个可以通过对话生成设计稿的新产品。你描述需求，Claude 直接出图，然后通过聊天、批注、直接编辑或者拖拽滑块来反复调整，直到满意为止。\n\n这个产品背后跑的是 Claude Opus 4.7，Anthropic 目前视觉能力最强的模型，也是今天一起发布的新模型。目前以研究预览的形式开放，Pro、Max、Team 和 Enterprise 订阅用户都可以用，今天逐步放量。\n\nClaude Design 想解决的问题很直接：设计师没时间探索太多方向，非设计背景的人（产品经理、创始人、市场）有想法但做不出来。现在两边都有了一个出口。设计师可以快速跑十几个方向再挑，产品经理可以自己画原型再交给开发，创始人可以从大纲直接做出完整的融资 PPT。\n\n几个值得关注的细节：\n\n团队首次使用时，Claude 会读你的代码库和设计文件，自动生成一套设计系统（品牌色、字体、组件），之后每个项目自动套用，不用每次重新调。\n\n支持从文字描述、图片、文档甚至网页截取起步。做完的东西可以导出为 Canva、PDF、PPTX 或独立 HTML 文件。如果原型确认要开发，可以一键打包交给 Claude Code。\n\n协作方面，设计稿可以在组织内分享，支持多人同时编辑和对话。\n\n用过 Canva 或 Figma 的人会觉得这套流程很熟悉，区别在于 Claude Design 的交互核心是对话而不是拖拽，更接近\"跟一个设计师搭档聊着把东西做出来\"的体验。对于那些经常需要出方案但不想开 Figma 的产品和市场团队来说，这可能是个效率上的实质变化。\n\nClaude Design 入口在 https://t.co/v6it9PjvJj，使用现有订阅额度，超出部分可以开启额外用量。企业版默认关闭，需要管理员手动开启。\n\n有测试过的欢迎留言交流下使用心得。",
+      "created_at": "Fri Apr 17 17:01:46 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045156267690213649",
+        "text": "Introducing Claude Design by Anthropic Labs: make prototypes, slides, and one-pagers by talking to Claude.\n\nPowered by Claude Opus 4.7, our most capable vision model. Available in research preview on the Pro, Max, Team, and Enterprise plans, rolling out throughout the day. https://t.co/2BgBGtgYGX",
+        "created_at": "Fri Apr 17 15:03:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045155754038935553",
+            "url": "https://video.twimg.com/amplify_video/2045155754038935553/vid/avc1/1920x1080/X8tXHs1RLlKGlJJS.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1943306828697550848",
+          "name": "Claude",
+          "screen_name": "claudeai",
+          "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8d1e5 or download the app.",
+          "followers_count": 1119615,
+          "friends_count": 2,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4600,
+          "favorite_count": 52154,
+          "reply_count": 2017,
+          "quote_count": 4181
+        }
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 45,
+        "reply_count": 5,
         "quote_count": 0
       }
     }
