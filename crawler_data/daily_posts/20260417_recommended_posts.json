@@ -1,12 +1,334 @@
 {
   "date": "20260417",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-17T18:20:25.823671",
-  "tweet_count": 236,
-  "unique_tweet_count": 236,
-  "total_crawled": 428,
-  "duplicates_removed": 192,
+  "last_crawl_time": "2026-04-17T20:16:26.655678",
+  "tweet_count": 242,
+  "unique_tweet_count": 242,
+  "total_crawled": 436,
+  "duplicates_removed": 194,
   "tweets": [
+    {
+      "id": "2045228381260730597",
+      "text": "它是独立的额度，用不了几次一周的额度就没了💔 https://t.co/I8KEIb6252",
+      "created_at": "Fri Apr 17 19:50:19 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2045228192571486208",
+          "url": "https://pbs.twimg.com/media/HGIcNH7WcAAySfP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 209213,
+        "friends_count": 1607,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045223484578783382",
+      "text": "经过试用，Claude Design 将会是跟 Claude Code 一样重要的产品，千万别低估它的潜力。\n\n个人和小团队用它可以让产品设计和交互水平高出一大截，Opus 4.7 它真的懂设计，设计外包和设计工具要大幅缩水了。\n\n如果有条件，一定要去试试！附件是我简单交互后设计的一个结果，交付的是可以交互的高保真原型",
+      "created_at": "Fri Apr 17 19:30:51 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2045222073836961792",
+          "url": "https://pbs.twimg.com/media/HGIWo93XAAAKffq.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2045222102681214976",
+          "url": "https://pbs.twimg.com/media/HGIWqpUXYAApOgr.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2045222185141256192",
+          "url": "https://pbs.twimg.com/media/HGIWvcgXwAA-Kvd.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2045223429914103808",
+          "url": "https://pbs.twimg.com/media/HGIX35pWEAAijld.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2045185966399435053",
+        "text": "Anthropic 今天发布了 Claude Design，一个可以通过对话生成设计稿的新产品。你描述需求，Claude 直接出图，然后通过聊天、批注、直接编辑或者拖拽滑块来反复调整，直到满意为止。\n\n这个产品背后跑的是 Claude Opus 4.7，Anthropic 目前视觉能力最强的模型，也是今天一起发布的新模型。目前以研究预览的形式开放，Pro、Max、Team 和 Enterprise 订阅用户都可以用，今天逐步放量。\n\nClaude Design 想解决的问题很直接：设计师没时间探索太多方向，非设计背景的人（产品经理、创始人、市场）有想法但做不出来。现在两边都有了一个出口。设计师可以快速跑十几个方向再挑，产品经理可以自己画原型再交给开发，创始人可以从大纲直接做出完整的融资 PPT。\n\n几个值得关注的细节：\n\n团队首次使用时，Claude 会读你的代码库和设计文件，自动生成一套设计系统（品牌色、字体、组件），之后每个项目自动套用，不用每次重新调。\n\n支持从文字描述、图片、文档甚至网页截取起步。做完的东西可以导出为 Canva、PDF、PPTX 或独立 HTML 文件。如果原型确认要开发，可以一键打包交给 Claude Code。\n\n协作方面，设计稿可以在组织内分享，支持多人同时编辑和对话。\n\n用过 Canva 或 Figma 的人会觉得这套流程很熟悉，区别在于 Claude Design 的交互核心是对话而不是拖拽，更接近\"跟一个设计师搭档聊着把东西做出来\"的体验。对于那些经常需要出方案但不想开 Figma 的产品和市场团队来说，这可能是个效率上的实质变化。\n\nClaude Design 入口在 https://t.co/v6it9PjvJj，使用现有订阅额度，超出部分可以开启额外用量。企业版默认关闭，需要管理员手动开启。\n\n有测试过的欢迎留言交流下使用心得。",
+        "created_at": "Fri Apr 17 17:01:46 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 209213,
+          "friends_count": 1607,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 61,
+          "reply_count": 6,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 209213,
+        "friends_count": 1607,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 12,
+        "reply_count": 6,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2045211162732593525",
+      "text": "RT @elonmusk: @ImKingGinger Your statement is true if goods &amp; services output doesn’t rise dramatically due to AI/robots, but false if it d…",
+      "created_at": "Fri Apr 17 18:41:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045211062836891804",
+        "text": "Your statement is true if goods & services output doesn’t rise dramatically due to AI/robots, but false if it does. \n\nIn a normal economy, issuing more money simply increases the dollar price of the existing output of goods & services, meaning people do NOT get more stuff. \n\nIf AI/robots massively increase goods & services output, then you actually MUST issue dollars to people or there will be massive disinflation. Prices are simply the ratio of goods & services output to number of dollars.",
+        "created_at": "Fri Apr 17 18:41:30 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "https://t.co/dDtDyVssfm",
+          "followers_count": 238249485,
+          "friends_count": 1312,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 640,
+          "favorite_count": 4655,
+          "reply_count": 1281,
+          "quote_count": 141
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238249485,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 640,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045207777325232201",
+      "text": "Hmm",
+      "created_at": "Fri Apr 17 18:28:26 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045141662297718804",
+        "text": "NEWS: Dubai Police just admitted spying on a PRIVATE WhatsApp chat using electronic monitoring operations. \n\nThey arrested an airline crew member over a photo shared ONLY in a closed group (never posted publicly).\n\nMeta & WhatsApp have been LYING to billions with their “fully end-to-end encrypted” ads.\n\nYour private messages aren’t private on WhatsApp.\n\n(Source: Detained in Dubai)",
+        "created_at": "Fri Apr 17 14:05:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045141043453276160",
+            "url": "https://pbs.twimg.com/media/HGHM8YKasAAQbxi.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1843605,
+          "friends_count": 934,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2188,
+          "favorite_count": 7894,
+          "reply_count": 820,
+          "quote_count": 307
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238249485,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 4821,
+        "favorite_count": 27878,
+        "reply_count": 2180,
+        "quote_count": 191
+      }
+    },
+    {
+      "id": "2045207210045706410",
+      "text": "RT @techdevnotes: Grok 4.3 can Take in Video and Extract Audio files https://t.co/5uprx2dM85",
+      "created_at": "Fri Apr 17 18:26:11 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2045101028039704576",
+          "url": "https://pbs.twimg.com/media/HGGojLIXwAAsJeT.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2045101177117790610",
+        "text": "Grok 4.3 can Take in Video and Extract Audio files https://t.co/5uprx2dM85",
+        "created_at": "Fri Apr 17 11:24:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045101028039704576",
+            "url": "https://pbs.twimg.com/media/HGGojLIXwAAsJeT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech",
+          "followers_count": 56557,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 203,
+          "favorite_count": 1552,
+          "reply_count": 149,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238249485,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 203,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045207072195625338",
+      "text": "Some signs of life",
+      "created_at": "Fri Apr 17 18:25:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045180268605260148",
+        "text": "grok 4.3 beta can use an ubuntu shell and a persistent file layer to generate artifacts\n\ngrok wrote python to encode the xai / grok logo into audio, i gave it the script back and had it render a spectrogram video from that signal, and use the grok_files tool to save the mp4 into the product's files layer\n\ni opened the file from the files panel and played it myself\n\nthis is getting crazy",
+        "created_at": "Fri Apr 17 16:39:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045175487601991680",
+            "url": "https://video.twimg.com/amplify_video/2045175487601991680/vid/avc1/1280x720/o6YXXeHkmQh002qQ.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "C / asm since ’94 · AI + art via Grok\nAgenC //: 👾",
+          "followers_count": 225869,
+          "friends_count": 735,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 79,
+          "favorite_count": 1032,
+          "reply_count": 109,
+          "quote_count": 23
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238249485,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 926,
+        "favorite_count": 7295,
+        "reply_count": 984,
+        "quote_count": 57
+      }
+    },
     {
       "id": "2045194063041671385",
       "text": "Some signs of life",

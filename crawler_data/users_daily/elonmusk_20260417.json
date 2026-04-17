@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238242037,
+    "followers_count": 238249485,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260417",
-  "last_updated": "2026-04-17T18:20:25.854651",
-  "tweet_count": 29,
+  "last_updated": "2026-04-17T20:16:26.699065",
+  "tweet_count": 33,
   "tweets": [
     {
       "id": "2044955236176200066",
@@ -1483,6 +1483,187 @@
         "favorite_count": 7846,
         "reply_count": 1318,
         "quote_count": 52
+      }
+    },
+    {
+      "id": "2045207072195625338",
+      "text": "Some signs of life",
+      "created_at": "Fri Apr 17 18:25:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045180268605260148",
+        "text": "grok 4.3 beta can use an ubuntu shell and a persistent file layer to generate artifacts\n\ngrok wrote python to encode the xai / grok logo into audio, i gave it the script back and had it render a spectrogram video from that signal, and use the grok_files tool to save the mp4 into the product's files layer\n\ni opened the file from the files panel and played it myself\n\nthis is getting crazy",
+        "created_at": "Fri Apr 17 16:39:08 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045175487601991680",
+            "url": "https://video.twimg.com/amplify_video/2045175487601991680/vid/avc1/1280x720/o6YXXeHkmQh002qQ.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "C / asm since ’94 · AI + art via Grok\nAgenC //: 👾",
+          "followers_count": 225869,
+          "friends_count": 735,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 79,
+          "favorite_count": 1032,
+          "reply_count": 109,
+          "quote_count": 23
+        }
+      },
+      "stats": {
+        "retweet_count": 926,
+        "favorite_count": 7295,
+        "reply_count": 984,
+        "quote_count": 57
+      }
+    },
+    {
+      "id": "2045207210045706410",
+      "text": "RT @techdevnotes: Grok 4.3 can Take in Video and Extract Audio files https://t.co/5uprx2dM85",
+      "created_at": "Fri Apr 17 18:26:11 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2045101028039704576",
+          "url": "https://pbs.twimg.com/media/HGGojLIXwAAsJeT.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2045101177117790610",
+        "text": "Grok 4.3 can Take in Video and Extract Audio files https://t.co/5uprx2dM85",
+        "created_at": "Fri Apr 17 11:24:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045101028039704576",
+            "url": "https://pbs.twimg.com/media/HGGojLIXwAAsJeT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech",
+          "followers_count": 56557,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 203,
+          "favorite_count": 1552,
+          "reply_count": 149,
+          "quote_count": 16
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 203,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045207777325232201",
+      "text": "Hmm",
+      "created_at": "Fri Apr 17 18:28:26 +0000 2026",
+      "lang": "qst",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045141662297718804",
+        "text": "NEWS: Dubai Police just admitted spying on a PRIVATE WhatsApp chat using electronic monitoring operations. \n\nThey arrested an airline crew member over a photo shared ONLY in a closed group (never posted publicly).\n\nMeta & WhatsApp have been LYING to billions with their “fully end-to-end encrypted” ads.\n\nYour private messages aren’t private on WhatsApp.\n\n(Source: Detained in Dubai)",
+        "created_at": "Fri Apr 17 14:05:43 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045141043453276160",
+            "url": "https://pbs.twimg.com/media/HGHM8YKasAAQbxi.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1843605,
+          "friends_count": 934,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2188,
+          "favorite_count": 7894,
+          "reply_count": 820,
+          "quote_count": 307
+        }
+      },
+      "stats": {
+        "retweet_count": 4821,
+        "favorite_count": 27878,
+        "reply_count": 2180,
+        "quote_count": 191
+      }
+    },
+    {
+      "id": "2045211162732593525",
+      "text": "RT @elonmusk: @ImKingGinger Your statement is true if goods &amp; services output doesn’t rise dramatically due to AI/robots, but false if it d…",
+      "created_at": "Fri Apr 17 18:41:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045211062836891804",
+        "text": "Your statement is true if goods & services output doesn’t rise dramatically due to AI/robots, but false if it does. \n\nIn a normal economy, issuing more money simply increases the dollar price of the existing output of goods & services, meaning people do NOT get more stuff. \n\nIf AI/robots massively increase goods & services output, then you actually MUST issue dollars to people or there will be massive disinflation. Prices are simply the ratio of goods & services output to number of dollars.",
+        "created_at": "Fri Apr 17 18:41:30 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "https://t.co/dDtDyVssfm",
+          "followers_count": 238249485,
+          "friends_count": 1312,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 640,
+          "favorite_count": 4655,
+          "reply_count": 1281,
+          "quote_count": 141
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 640,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
       }
     }
   ]
