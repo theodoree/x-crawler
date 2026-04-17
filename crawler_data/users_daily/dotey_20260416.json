@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 208670,
+    "followers_count": 208710,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260416",
-  "last_updated": "2026-04-16T22:16:03.453533",
-  "tweet_count": 22,
+  "last_updated": "2026-04-17T00:30:36.740759",
+  "tweet_count": 24,
   "tweets": [
     {
       "id": "2044627564665131013",
@@ -873,6 +873,49 @@
         "favorite_count": 7,
         "reply_count": 4,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2044917716893467109",
+      "text": "Codex Computer Use Mac 版本这交互确实很赞👍\nhttps://t.co/gvGh6duDX2",
+      "created_at": "Thu Apr 16 23:15:51 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "video",
+          "id": "2044881872849965056",
+          "url": "https://video.twimg.com/amplify_video/2044881872849965056/vid/avc1/2114x1466/IRRL7n1LHYnr8jP6.mp4?tag=21",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 38,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044923892087587309",
+      "text": "GitHub Copilot 里面 Opus 4.7 居然是 7.5x，Opus 4.6 是 3x https://t.co/Tl97fQjfcf",
+      "created_at": "Thu Apr 16 23:40:23 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044923773304889344",
+          "url": "https://pbs.twimg.com/media/HGEHVlyW4AADIUf.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 24,
+        "reply_count": 15,
+        "quote_count": 3
       }
     }
   ]
