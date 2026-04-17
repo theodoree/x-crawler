@@ -1,12 +1,105 @@
 {
   "date": "20260417",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-17T20:16:26.655678",
-  "tweet_count": 242,
-  "unique_tweet_count": 242,
-  "total_crawled": 436,
-  "duplicates_removed": 194,
+  "last_crawl_time": "2026-04-17T22:14:45.028228",
+  "tweet_count": 243,
+  "unique_tweet_count": 243,
+  "total_crawled": 442,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2045263825339846884",
+      "text": "RT @doganuraldesign: Just built this in 5 min with Grok 4.3 (beta)\n\nNot bad, huh? https://t.co/tebfZAiLt3",
+      "created_at": "Fri Apr 17 22:11:09 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2045216481151971328",
+          "url": "https://video.twimg.com/amplify_video/2045216481151971328/vid/avc1/1080x1080/xBaKZUOuhALzKviW.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2045216766964478436",
+        "text": "Just built this in 5 min with Grok 4.3 (beta)\n\nNot bad, huh? https://t.co/tebfZAiLt3",
+        "created_at": "Fri Apr 17 19:04:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045216481151971328",
+            "url": "https://video.twimg.com/amplify_video/2045216481151971328/vid/avc1/1080x1080/xBaKZUOuhALzKviW.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2045065394902519986",
+          "text": "Opus 4.7 vs Gemini 3.1 Pro vs GPT 5.4\n\nSame prompt.\n\nWhich one do you prefer? https://t.co/KJmhbtg0Ui",
+          "created_at": "Fri Apr 17 09:02:40 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2045064687705096193",
+              "url": "https://pbs.twimg.com/media/HGGHf41bgAELBPp.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1099717499057328128",
+            "name": "Mattia",
+            "screen_name": "mattiapomelli",
+            "description": "Building startups with friends @sleekdotdesign",
+            "followers_count": 15798,
+            "friends_count": 1254,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 171,
+            "favorite_count": 4270,
+            "reply_count": 429,
+            "quote_count": 59
+          }
+        },
+        "user": {
+          "id": "1553043003496960000",
+          "name": "Dogan Ural",
+          "screen_name": "doganuraldesign",
+          "description": "Official Creative Ambassador @xAI / Designer / Creative Director / Latent Space Explorer / Dad",
+          "followers_count": 126995,
+          "friends_count": 635,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 43,
+          "favorite_count": 381,
+          "reply_count": 74,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238256380,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 43,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2045228381260730597",
       "text": "它是独立的额度，用不了几次一周的额度就没了💔 https://t.co/I8KEIb6252",
