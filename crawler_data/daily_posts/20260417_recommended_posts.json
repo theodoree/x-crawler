@@ -1,12 +1,889 @@
 {
   "date": "20260417",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-17T00:30:36.695494",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-04-17T03:06:00.386456",
+  "tweet_count": 214,
+  "unique_tweet_count": 214,
+  "total_crawled": 400,
+  "duplicates_removed": 186,
   "tweets": [
+    {
+      "id": "2044972594948882449",
+      "text": "Seedance 2.0 API 正式发布了，企业和个人用户现在都能从火山引擎调用。海外市场 BytePlus 同步上线，海外用户终于也可以使用了。\n\n定价 46 元每百万 token，纯视频生成大概 1 元 1 秒，按量付费，注册账号就能调用。海外 BytePlus 的具体定价以官网公布为准。\n\nAPI 真正的价值在于能融入自己的工作流，大幅提升创作效率。\n\n过去做一支 AI 视频得串起好几个模型：图生图、图生动画、对口型，每个环节都要抽卡。Seedance 2.0 支持文字、图片、音频、视频四种模态输入，配合火山方舟上一键完成的人脸验证、肖像授权和 1 万多个预置虚拟人像，整条流程可以用代码或者 Agent Skills 自动化串起来，大幅提升创作效率。\n\n官方公告中提到了一些实际数据。技术服务商巨日禄接入后，精品 AI 剧综合制作效率提升近 10 倍；九州文化、麦芽传媒这批内容制作方从剧本到剪辑全流程提效 80%-90%，对比传统工艺降本 70%-90%。在广告营销侧，筷子科技用它给头部品牌做多版本营销素材，与光同尘给 OPPO K15 Pro 做的宣发视频 60 小时内播放量破 2000 万。\n\n有一点让我意外的是视频生成现在开始应用在具身智能和自动驾驶的数据生成。\n\n数十家机器人企业正在用 Seedance 2.0 生成符合物理规律的交互数据，用于机器人作业、室内行走等场景的跨环境泛化训练。自动驾驶公司则用它生成暴雨、大雾、降雪这类极限工况，以及复杂碰撞风险的 corner case 数据，补充实拍难以采集的训练集。\n\n宇树科技王兴兴此前在亚布力论坛上表达过类似思路：如果视频生成质量足够好，让模型生成一段机器人在家干活的视频，某种意义上把这个视频对齐到真实机器人上，机器人就能照着干。视频生成模型正在被当作“世界模型”的雏形来用。\n\nSeedance 2.0 API 全面开放，对个人开发者和创业团队来说也是机会，可以借助 API 高效创作 AI 视频，也可以基于 API 开发配套工具，这块未来市场很大，机会还蛮多。\n\nAPI 调用官方文档可以在火山引擎方舟平台上获取。\n\n完整可以看：《Seedance 2.0全面开放API服务》https://t.co/CC5O2a6zCi \n\nBytePlus：https://t.co/BYFxwpwjud\n火山引擎方舟平台：https://t.co/00LvBoKIvv",
+      "created_at": "Fri Apr 17 02:53:55 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044972454964047872",
+          "url": "https://pbs.twimg.com/media/HGEznPGXMAAzXYd.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 208809,
+        "friends_count": 1607,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044964720936206636",
+      "text": "RT @MarioNawfal: Ever imagined you’d create something this beautiful? This real? This easy?\n\nGrok Imagine did. https://t.co/gdYFSQGR8e",
+      "created_at": "Fri Apr 17 02:22:37 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2044651380128768000",
+          "url": "https://video.twimg.com/amplify_video/2044651380128768000/vid/avc1/960x960/x7YYn7-I0__vvKCH.mp4?tag=21",
+          "bitrate": 8768000
+        }
+      ],
+      "retweet": {
+        "id": "2044702345427312824",
+        "text": "Ever imagined you’d create something this beautiful? This real? This easy?\n\nGrok Imagine did. https://t.co/gdYFSQGR8e",
+        "created_at": "Thu Apr 16 09:00:02 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2044651380128768000",
+            "url": "https://video.twimg.com/amplify_video/2044651380128768000/vid/avc1/960x960/x7YYn7-I0__vvKCH.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2043773334983455121",
+          "text": "Grok",
+          "created_at": "Mon Apr 13 19:28:29 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 238175733,
+            "friends_count": 1312,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 4402,
+            "favorite_count": 26068,
+            "reply_count": 2908,
+            "quote_count": 144
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KgAW",
+          "followers_count": 3339793,
+          "friends_count": 51018,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 153,
+          "favorite_count": 1050,
+          "reply_count": 222,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 153,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044964041005879643",
+      "text": "RT @MarioNawfal: 🇺🇸 xAI just dropped a real-time speech-to-text model built for voice apps: high limits, multi-language support, the works.…",
+      "created_at": "Fri Apr 17 02:19:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044940152724771061",
+        "text": "🇺🇸 xAI just dropped a real-time speech-to-text model built for voice apps: high limits, multi-language support, the works.\n\nPriced at just $0.10–$0.20/hour, crushing most competitors.\n\nQuiet release, loud warning to the rest.\"\n\nSource: @XFreeze, @xAI, @elonmusk https://t.co/OAvpLK4Tuv",
+        "created_at": "Fri Apr 17 00:45:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044925907903942656",
+            "url": "https://pbs.twimg.com/media/HGEJR1ybkAA5cI7.png"
+          },
+          {
+            "type": "photo",
+            "id": "2044925933283422208",
+            "url": "https://pbs.twimg.com/media/HGEJTUVXsAACeyC.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2044815450283061667",
+          "text": "Grok took #1 in healthcare. Not by a little.\n\n300K+ votes. 308 models. Real people comparing real answers.\n\nBeating Claude. Beating Gemini. By the numbers.\n\nPeople getting actual answers that help.\n\nThat’s the whole point.\n\n@xAI @Grok https://t.co/BeAZDA3J6r",
+          "created_at": "Thu Apr 16 16:29:28 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2044815313372594176",
+              "url": "https://video.twimg.com/amplify_video/2044815313372594176/vid/avc1/1080x1080/TBUIX4WVusHQKPjB.mp4?tag=21",
+              "bitrate": 8768000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KgAW",
+            "followers_count": 3339793,
+            "friends_count": 51018,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 14,
+            "favorite_count": 66,
+            "reply_count": 21,
+            "quote_count": 6
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KgAW",
+          "followers_count": 3339793,
+          "friends_count": 51018,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 130,
+          "favorite_count": 720,
+          "reply_count": 89,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 130,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044960807134642322",
+      "text": "RT @BasedMikeLee: Paging South Africa:\n\nClean up your racist crap https://t.co/lordeSnIbH",
+      "created_at": "Fri Apr 17 02:07:04 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044959475602530304",
+          "url": "https://pbs.twimg.com/media/HGEnzvNboAAd2Qh.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2044959489498218919",
+        "text": "Paging South Africa:\n\nClean up your racist crap https://t.co/lordeSnIbH",
+        "created_at": "Fri Apr 17 02:01:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044959475602530304",
+            "url": "https://pbs.twimg.com/media/HGEnzvNboAAd2Qh.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1551266822460162051",
+          "name": "Mike Lee",
+          "screen_name": "BasedMikeLee",
+          "description": "Restore federalism and separation of powers by passing the REINS Act now!",
+          "followers_count": 682426,
+          "friends_count": 3883,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 298,
+          "favorite_count": 1717,
+          "reply_count": 145,
+          "quote_count": 14
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 298,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044958992888443006",
+      "text": "RT @Starlink: Reliable high-speed internet to stay connected in even the most rural and remote areas 🛰️❤️",
+      "created_at": "Fri Apr 17 01:59:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044882906032837068",
+        "text": "Reliable high-speed internet to stay connected in even the most rural and remote areas 🛰️❤️",
+        "created_at": "Thu Apr 16 20:57:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2040024405665886546",
+          "text": "Bringing a mounting block in to the 21st century. No longer needed to get on a horse but very useful for Starlink in the lambing sheds. @elonmusk @Starlink helping save lives of baby lambs in the lambing shed 🫡 https://t.co/4PjobppWIS",
+          "created_at": "Fri Apr 03 11:11:34 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2040024354470174720",
+              "url": "https://pbs.twimg.com/media/HE-fV4VXIAAi633.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "4327354275",
+            "name": "Matthew Blair",
+            "screen_name": "ThrimbyFarms",
+            "description": "First generation tenant farmers. Farming at Thrimby, Cumbria. Beef and Sheep, keen to teach people about our lives. You will catch us on “This Farming Life”",
+            "followers_count": 19602,
+            "friends_count": 444,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 16,
+            "favorite_count": 163,
+            "reply_count": 12,
+            "quote_count": 2
+          }
+        },
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1583876,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 203,
+          "favorite_count": 1515,
+          "reply_count": 135,
+          "quote_count": 13
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 203,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044958909069435258",
+      "text": "RT @tesla_singapore: 10,000th Tesla customer in Singapore 🇸🇬 https://t.co/Da5wmtYFUQ",
+      "created_at": "Fri Apr 17 01:59:32 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044592152836243456",
+          "url": "https://pbs.twimg.com/media/HF_ZuvRbAAArvMr.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2044592247174529024",
+          "url": "https://pbs.twimg.com/media/HF_Z0OtbAAAN8qz.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2044592247631650816",
+          "url": "https://pbs.twimg.com/media/HF_Z0QaaIAAN0Wi.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2044592428305518688",
+        "text": "10,000th Tesla customer in Singapore 🇸🇬 https://t.co/Da5wmtYFUQ",
+        "created_at": "Thu Apr 16 01:43:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044592152836243456",
+            "url": "https://pbs.twimg.com/media/HF_ZuvRbAAArvMr.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044592247174529024",
+            "url": "https://pbs.twimg.com/media/HF_Z0OtbAAAN8qz.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2044592247631650816",
+            "url": "https://pbs.twimg.com/media/HF_Z0QaaIAAN0Wi.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1698912816483500032",
+          "name": "Tesla Singapore",
+          "screen_name": "tesla_singapore",
+          "description": "Building a World of Amazing Abundance",
+          "followers_count": 9258,
+          "friends_count": 6,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 351,
+          "favorite_count": 3765,
+          "reply_count": 161,
+          "quote_count": 39
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 351,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044958784255299966",
+      "text": "People oddly assumed that I didn’t understand LiDAR, even though I oversaw the custom LiDAR development that Dragon uses to dock with the Space Station",
+      "created_at": "Fri Apr 17 01:59:02 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044782315621024004",
+        "text": "Aujourd'hui grosse discussion avec mes ingés (chez Argil) sur pourquoi Elon a viré le LIDAR de ses voitures autonomes. Choix radical, moqué pendant des années, et comme d'hab il avait raison depuis le début.\n\nLe LIDAR c'est un laser qui balaye l'environnement et crache un nuage de points 3D. Sur le papier tu obtiens la géométrie exacte du monde. Dans la vraie vie c'est une verrue technologique collée sur le toit parce qu'on sait pas faire mieux avec la vision seule.\n\nProblème numéro un : ça rajoute une modalité dans le training du modèle. Ton réseau doit apprendre à fusionner vision + lidar + radar + ultrasons. Chaque capteur en plus c'est une source de désaccord à arbitrer, pas une source d'info supplémentaire. Sensor fusion artisanale = dette technique permanente.\n\nProblème numéro deux, la bitter lesson de Rich Sutton : scaler le compute sur une seule modalité bat systématiquement les architectures bricolées à la main. Tesla a dropé le radar, puis les ultrasons, est passé full end-to-end vision. Leur courbe sur les edge cases s'est accélérée APRÈS, pas avant. Waymo fait l'inverse et reste stuck en ops géofencée.\n\nProblème numéro trois, le plus fondamental : le LIDAR voit la géométrie, pas la sémantique. Il sait qu'il y a un truc, pas ce que c'est ni ce que ça va faire. Les derniers 9 de fiabilité sont des problèmes de cognition, pas de perception brute. Un capteur de plus résout rien, il ajoute du bruit.\n\nSébastien Loeb balance une 208 T16 à 180 dans un chemin boueux corse sous la pluie avec zéro LIDAR. Deux yeux, un cerveau. L'évolution a donné des yeux aux prédateurs pendant 500 millions d'années, pas des lasers. Il y a une raison.\n\nLe LIDAR c'est l'équivalent du marxisme appliqué à l'économie. Une solution planifiée, centralisée, qui prétend modéliser explicitement ce qui doit émerger d'un système distribué et adaptatif. Tu remplaces l'intelligence par de la mesure, la compréhension par de la donnée, l'émergence par le contrôle. Ça rassure les ingénieurs qui veulent tout spécifier en amont, exactement comme la planif rassurait les économistes soviétiques. Et ça échoue pour les mêmes raisons : la réalité est trop riche pour être capturée par un capteur, comme elle est trop riche pour être capturée par un plan quinquennal.\n\nLa vraie intelligence, celle de Hayek comme celle de Tesla, c'est de faire confiance à un système qui apprend de l'expérience plutôt que de tout pré-encoder. L'élégance d'une solution c'est son rapport signal sur complexité. Le LIDAR explose le dénominateur.\n\nDéfendre le LIDAR en 2026 c'est préférer empiler des hacks plutôt que résoudre le vrai problème. C'est de la feignasserie intellectuelle maquillée en rigueur d'ingénieur. Les mêmes gens qui défendaient les systèmes experts en 2012 contre le deep learning. Ils finiront pareil.\n\nNever bet against end-to-end. Never bet against la simplicité. Never bet against Elon.",
+        "created_at": "Thu Apr 16 14:17:48 +0000 2026",
+        "lang": "fr",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044782257114681344",
+            "url": "https://pbs.twimg.com/media/HGCGoQ5XkAAPN0N.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1874492187070615552",
+          "name": "Brivael - FR",
+          "screen_name": "brivael",
+          "description": "Je construis Argil, l’outil qui donne un pouvoir maximum à ceux qui ont des choses à dire. Techno humaniste optimiste.",
+          "followers_count": 28251,
+          "friends_count": 329,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 288,
+          "favorite_count": 2720,
+          "reply_count": 184,
+          "quote_count": 62
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1198,
+        "favorite_count": 13920,
+        "reply_count": 1072,
+        "quote_count": 65
+      }
+    },
+    {
+      "id": "2044957734769234389",
+      "text": "RT @PeterDiamandis: 50% of US data centers are being delayed or canceled. 17% are uncertain. Only 33% are actually being built. This what's…",
+      "created_at": "Fri Apr 17 01:54:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044929301334700362",
+        "text": "50% of US data centers are being delayed or canceled. 17% are uncertain. Only 33% are actually being built. This what's driving AI compute into orbit.",
+        "created_at": "Fri Apr 17 00:01:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14710129",
+          "name": "Peter H. Diamandis, MD",
+          "screen_name": "PeterDiamandis",
+          "description": "Exec. Chairman @XPRIZE @fountainlife_hq (and others) Working to extend human healthspan. Curator @Abundance360",
+          "followers_count": 367012,
+          "friends_count": 829,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 238,
+          "favorite_count": 1809,
+          "reply_count": 257,
+          "quote_count": 35
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 238,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044957433861423324",
+      "text": "RT @GuntherEagleman: Sanction South Africa.",
+      "created_at": "Fri Apr 17 01:53:40 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044941340560007657",
+        "text": "Sanction South Africa.",
+        "created_at": "Fri Apr 17 00:49:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1355721251180961792",
+          "name": "Gunther Eagleman™",
+          "screen_name": "GuntherEagleman",
+          "description": "David J. Freeman - Political Commentator - America First - MAGA - Christian",
+          "followers_count": 1718889,
+          "friends_count": 102850,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 211,
+          "favorite_count": 1673,
+          "reply_count": 177,
+          "quote_count": 23
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 211,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044957368287666659",
+      "text": "RT @doganuraldesign: How big are your dreams? https://t.co/VbVp0S47I3",
+      "created_at": "Fri Apr 17 01:53:24 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044904379656916992",
+          "url": "https://pbs.twimg.com/media/HGD1su0XUAALOcG.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2044904462146220042",
+        "text": "How big are your dreams? https://t.co/VbVp0S47I3",
+        "created_at": "Thu Apr 16 22:23:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044904379656916992",
+            "url": "https://pbs.twimg.com/media/HGD1su0XUAALOcG.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1553043003496960000",
+          "name": "Dogan Ural",
+          "screen_name": "doganuraldesign",
+          "description": "Official Creative Ambassador @xAI / Designer / Creative Director / Latent Space Explorer / Dad",
+          "followers_count": 126625,
+          "friends_count": 636,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 302,
+          "favorite_count": 2724,
+          "reply_count": 245,
+          "quote_count": 26
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 302,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044956965105971662",
+      "text": "RT @SawyerMerritt: Not sure why some people say Tesla's AI4 won't be able to achieve Unsupervised. It's literally already doing it lol",
+      "created_at": "Fri Apr 17 01:51:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2044878729793446182",
+        "text": "Not sure why some people say Tesla's AI4 won't be able to achieve Unsupervised. It's literally already doing it lol",
+        "created_at": "Thu Apr 16 20:40:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2044863828748386475",
+          "text": "Here is 30 minutes (sped up) of Tesla’s unsupervised @robotaxi driving in Austin. It is real\n\n@elonmusk https://t.co/kzR23RSbGL",
+          "created_at": "Thu Apr 16 19:41:43 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2044863492596137985",
+              "url": "https://video.twimg.com/amplify_video/2044863492596137985/vid/avc1/3840x2160/r1ElRdSUaKwxL-ni.mp4?tag=21",
+              "bitrate": 25128000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1074875671036551168",
+            "name": "Abhimanyu Yadav",
+            "screen_name": "WorldlyReviewer",
+            "description": "Pretty much made this account for anime and tesla news. MAL: https://t.co/dcmOK1Zbtt Tesla Referral Link: https://t.co/N9n3cKVXvZ",
+            "followers_count": 427,
+            "friends_count": 740,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 36,
+            "favorite_count": 248,
+            "reply_count": 22,
+            "quote_count": 10
+          }
+        },
+        "user": {
+          "id": "243013409",
+          "name": "Sawyer Merritt",
+          "screen_name": "SawyerMerritt",
+          "description": "EV/space/tech news. Bringing you the latest news in a single, easy-to-read feed. $TSLA investor & Model Y owner.",
+          "followers_count": 1056944,
+          "friends_count": 449,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 277,
+          "favorite_count": 2816,
+          "reply_count": 235,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 277,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044956865734557964",
+      "text": "RT @nymbusjp: https://t.co/JjgQuu0EWt",
+      "created_at": "Fri Apr 17 01:51:24 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": {
+        "id": "2010807825866637326",
+        "text": "https://t.co/JjgQuu0EWt",
+        "created_at": "Mon Jan 12 20:15:19 +0000 2026",
+        "lang": "zxx",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1932871281998696448",
+          "name": "Genma_Jp",
+          "screen_name": "nymbusjp",
+          "description": "15+ Years Leading ADAS Innovation\n$TSLA Visionary\nPeace Advocate, Anti-Nonsense, Anti-Woke\nPro-Mankind, Anti-Nato, The Duran Member\nNew account, @Genma82 stolen",
+          "followers_count": 3954,
+          "friends_count": 646,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 193,
+          "favorite_count": 1040,
+          "reply_count": 110,
+          "quote_count": 28
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 193,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2044955236176200066",
+      "text": "Mars is a planet purely of robots (for now)",
+      "created_at": "Fri Apr 17 01:44:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044942515854352491",
+        "text": "Falcon Heavy will launch the Rosalind Franklin rover to Mars in late 2028 https://t.co/ekR2r8uAJr",
+        "created_at": "Fri Apr 17 00:54:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044942228288675840",
+            "url": "https://pbs.twimg.com/media/HGEYHz9XoAAntsZ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41453629,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 592,
+          "favorite_count": 5482,
+          "reply_count": 266,
+          "quote_count": 72
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238175733,
+        "friends_count": 1312,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 1856,
+        "favorite_count": 20166,
+        "reply_count": 2048,
+        "quote_count": 152
+      }
+    },
+    {
+      "id": "2044942094389702818",
+      "text": "原来是按次的，但这样也消耗挺快\nhttps://t.co/MeojQQJEOg",
+      "created_at": "Fri Apr 17 00:52:43 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044937428000227611",
+        "text": "@dotey github copilot 用積分比較好理解。大部分用一次扣一分。Opus 4.7這邊一次就是扣7.5分。\n不過有個大家可能不知道的地方，不論思考強度設定高低，目前不影響積分。一分就是一分，三分就是三分...",
+        "created_at": "Fri Apr 17 00:34:10 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1018695303459819522",
+          "name": "VVCC",
+          "screen_name": "CgUI7e3nv1Xs5U9",
+          "description": "All made by AI",
+          "followers_count": 3,
+          "friends_count": 62,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 0,
+          "quote_count": 1
+        }
+      },
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 208809,
+        "friends_count": 1607,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2044927129775935584",
       "text": "RT @shivon: “I am not able to do things that other dads can, now he thinks it’s so cool that I can do things other dads can’t” 🥹❤️",
