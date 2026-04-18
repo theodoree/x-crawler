@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238263141,
+    "followers_count": 238270551,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260418",
-  "last_updated": "2026-04-18T00:27:35.500639",
-  "tweet_count": 4,
+  "last_updated": "2026-04-18T03:05:25.517484",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2045292691248840918",
@@ -169,6 +169,351 @@
       "quoted": null,
       "stats": {
         "retweet_count": 61,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045309037848272993",
+      "text": "Tesla engineering redesigned lithium refining from physics first principles",
+      "created_at": "Sat Apr 18 01:10:49 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045303851482546505",
+        "text": "Our Lithium Refinery is designed to have a much lower carbon footprint than traditional hard rock refineries\n\n– Acid-free refining helps produce a safe coproduct\n– Water is recycled throughout production, with every drop treated & cleaned on site\n– Designed to close the loop for lithium in our battery supply chain",
+        "created_at": "Sat Apr 18 00:50:12 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045302933437526016",
+            "url": "https://video.twimg.com/amplify_video/2045302933437526016/vid/avc1/3840x2026/IEblQjFEFbwcuwQv.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1679769205938311169",
+          "name": "Tesla North America",
+          "screen_name": "tesla_na",
+          "description": "Building a world of amazing abundance",
+          "followers_count": 107072,
+          "friends_count": 20,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 580,
+          "favorite_count": 4479,
+          "reply_count": 184,
+          "quote_count": 48
+        }
+      },
+      "stats": {
+        "retweet_count": 2507,
+        "favorite_count": 20543,
+        "reply_count": 1229,
+        "quote_count": 92
+      }
+    },
+    {
+      "id": "2045317075783020756",
+      "text": "Lmaooo https://t.co/pPVoCcN8tm",
+      "created_at": "Sat Apr 18 01:42:45 +0000 2026",
+      "lang": "ht",
+      "media": [
+        {
+          "type": "video",
+          "id": "2045316969776443392",
+          "url": "https://video.twimg.com/amplify_video/2045316969776443392/vid/avc1/576x1024/yIaRtmPnlKfvctjI.mp4?tag=21",
+          "bitrate": 2176000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1375,
+        "favorite_count": 13322,
+        "reply_count": 1415,
+        "quote_count": 118
+      }
+    },
+    {
+      "id": "2045329507284844939",
+      "text": "RT @benjitaylor: We launched our new Grok Voice APIs and they’re extremely good. Strongly suggest giving them a try.",
+      "created_at": "Sat Apr 18 02:32:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045320795233390899",
+        "text": "We launched our new Grok Voice APIs and they’re extremely good. Strongly suggest giving them a try.",
+        "created_at": "Sat Apr 18 01:57:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2045297699352924504",
+          "text": "Grok's Speech to Text API is now available.\n\nInstant, multi-speaker transcription across 25 languages - at the best price in the market.\n\nhttps://t.co/eGbB2bDtZf",
+          "created_at": "Sat Apr 18 00:25:45 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1661523610111193088",
+            "name": "xAI",
+            "screen_name": "xai",
+            "description": "",
+            "followers_count": 1952051,
+            "friends_count": 5,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 107,
+            "favorite_count": 743,
+            "reply_count": 78,
+            "quote_count": 31
+          }
+        },
+        "user": {
+          "id": "2606432720",
+          "name": "Benji Taylor",
+          "screen_name": "benjitaylor",
+          "description": "leading design @x. prev. head of design @base. founder @family (acq by @aave). tools @dip.",
+          "followers_count": 114583,
+          "friends_count": 434,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 108,
+          "favorite_count": 775,
+          "reply_count": 140,
+          "quote_count": 3
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 108,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045332210727666118",
+      "text": "RT @EthanHe_42: grok speech-to-text and tts apis are out. multilingual multi-speaker is huge for me personally. https://t.co/7ABBCUCTO6",
+      "created_at": "Sat Apr 18 02:42:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045331348169380298",
+        "text": "grok speech-to-text and tts apis are out. multilingual multi-speaker is huge for me personally. https://t.co/7ABBCUCTO6",
+        "created_at": "Sat Apr 18 02:39:28 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3086182267",
+          "name": "Ethan He",
+          "screen_name": "EthanHe_42",
+          "description": "Engineer @xAI world model, @Grok @Imagine | ex @Nvidia @Meta | 30+ papers, 9k citations | talk about AI, LLM, video generation, multimodal, AGI",
+          "followers_count": 35803,
+          "friends_count": 682,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 71,
+          "favorite_count": 480,
+          "reply_count": 116,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 71,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045335397215899688",
+      "text": "RT @tetsuoai: xAI just made Speech to Text generally available.\n\n25 languages.\nbatch uploads + live streaming.\nword-level timestamps.\nmulti…",
+      "created_at": "Sat Apr 18 02:55:33 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045014973336969476",
+        "text": "xAI just made Speech to Text generally available.\n\n25 languages.\nbatch uploads + live streaming.\nword-level timestamps.\nmultichannel audio.\nspeaker diarization.\n\ncheck out the Speech to Text docs. 👇 https://t.co/8EUZocYKTI",
+        "created_at": "Fri Apr 17 05:42:18 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045014535342628864",
+            "url": "https://video.twimg.com/amplify_video/2045014535342628864/vid/avc1/928x976/DrWA1HKD0CghzCgi.mp4?tag=25",
+            "bitrate": 12128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "C / asm since ’94 · AI + art via Grok\nAgenC //: 👾",
+          "followers_count": 226101,
+          "friends_count": 736,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 57,
+          "favorite_count": 287,
+          "reply_count": 42,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 57,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045335456930205785",
+      "text": "RT @cb_doge: \"People get confused sometimes they think an economy is money. Money is a database for exchange of goods &amp; services. Money doe…",
+      "created_at": "Sat Apr 18 02:55:48 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045211835792855085",
+        "text": "\"People get confused sometimes they think an economy is money. Money is a database for exchange of goods &amp; services. Money doesn't have power in &amp; of itself. The actual economy is goods &amp; services\"\n\n 一 Elon Musk https://t.co/8GniMXaocJ",
+        "created_at": "Fri Apr 17 18:44:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045211775805599744",
+            "url": "https://video.twimg.com/amplify_video/2045211775805599744/vid/avc1/1280x720/e2D8XEjYtWyqEKKZ.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1844361,
+          "friends_count": 934,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 573,
+          "favorite_count": 2585,
+          "reply_count": 339,
+          "quote_count": 48
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 573,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045335671724810315",
+      "text": "RT @wmorrill3: also\nhttps://t.co/kiK19J80rF",
+      "created_at": "Sat Apr 18 02:56:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "1730402403701202944",
+          "url": "https://video.twimg.com/ext_tw_video/1730402403701202944/pu/vid/avc1/1920x1080/vdUCItRJEPFm4i5F.mp4?tag=14",
+          "bitrate": 10368000
+        }
+      ],
+      "retweet": {
+        "id": "2045281868061302818",
+        "text": "also\nhttps://t.co/kiK19J80rF",
+        "created_at": "Fri Apr 17 23:22:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "1730402403701202944",
+            "url": "https://video.twimg.com/ext_tw_video/1730402403701202944/pu/vid/avc1/1920x1080/vdUCItRJEPFm4i5F.mp4?tag=14",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2045279087003119924",
+          "text": "Cybertruck patrol vehicle = ~$24k to operate over 5 years\nFord Police Interceptor Utility = almost $84k https://t.co/m8QjozK2fj",
+          "created_at": "Fri Apr 17 23:11:48 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2045276168761577472",
+              "url": "https://pbs.twimg.com/media/HGJH1tKbEAARFR3.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1686044379910131718",
+            "name": "Cybertruck",
+            "screen_name": "cybertruck",
+            "description": "📐",
+            "followers_count": 244023,
+            "friends_count": 12,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 108,
+            "favorite_count": 917,
+            "reply_count": 49,
+            "quote_count": 12
+          }
+        },
+        "user": {
+          "id": "619309584",
+          "name": "Wes",
+          "screen_name": "wmorrill3",
+          "description": "Biking, Running, Hiking, Climbing - Always adventuring. \n\nCybertruck Lead Engineer +\nReliability, Test, and Analysis for all Tesla vehicles.",
+          "followers_count": 33088,
+          "friends_count": 237,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 91,
+          "favorite_count": 877,
+          "reply_count": 75,
+          "quote_count": 4
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 91,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

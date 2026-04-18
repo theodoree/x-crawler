@@ -1,0 +1,129 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 209265,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260418",
+  "last_updated": "2026-04-18T03:05:25.504477",
+  "tweet_count": 4,
+  "tweets": [
+    {
+      "id": "2045301415828938984",
+      "text": "1080p 已经支持了\nhttps://t.co/phvuut5aV2",
+      "created_at": "Sat Apr 18 00:40:32 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044818909245927792",
+        "text": "1080p downloads are now available with Dreamina Seedance 2.0.\n\nRolling out in phases for paid users across Africa, South America, the Middle East, and Southeast Asia, with more regions coming soon.\n\nReady to experience the upgrade? Go check it out now!\nhttps://t.co/YGfOdOjFiW\n\n#DreaminaSeedance2 #DreaminaAI #Seedance2",
+        "created_at": "Thu Apr 16 16:43:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044722125492330496",
+            "url": "https://pbs.twimg.com/media/HGBP8JJaIAALAaj.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1763302572767711232",
+          "name": "Dreamina AI",
+          "screen_name": "dreamina_ai",
+          "description": "Try now: https://t.co/8OmcRZ8qxm\nAI image & video generation tool\nSign up for CPP: https://t.co/kR3amUVlS4\nDiscord: https://t.co/2q0ekE0aCF",
+          "followers_count": 17066,
+          "friends_count": 88,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 49,
+          "favorite_count": 309,
+          "reply_count": 70,
+          "quote_count": 28
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045323919570182384",
+      "text": "https://t.co/vPEtJ7N1XZ",
+      "created_at": "Sat Apr 18 02:09:57 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 61,
+        "reply_count": 8,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2045327385763913731",
+      "text": "Anthropic 自家设计师 Ryan Mather，一人负责公司 7 个产品线。他发的几条自己用 Claude Design 的心得，结合官方教程：\n\n1. 别急着干活，先花一小时搭你的设计系统。\n\n把代码库、设计稿、品牌素材全塞给 Claude，让它抽出一套 UI Kit 并直接发布。这一小时的投入，以后你每次生成设计稿，风格都会自动套用，性价比爆表。公司要全面推开，可以投入一到两周做系统沉淀，道理不变：先沉下去规范，后面才有复利。\n\n2. 别再玩接力，跟工程师一起边聊边改。\n\n过去那种“设计师出稿→甩给工程师实现→回来再修改”的模式，已经过时了。开个会，你们一起看着画布，边讨论边敲定方案，一场会定下来直接开发，效率拉满。\n3. 结构级大改用聊天，细节调整点评论。\n\n你想换个深色模式、布局大洗牌、新增设置面板，或者一次出多个方向，这种级别的任务用聊天界面效率最高；按钮 padding 调一下、颜色换一换、输入框改下拉菜单，这种小修小补直接在元素上评论就行，精准又快速。\n\n4. 反馈要具体，别给模糊情绪。\n\n官方举过一个特别好的例子：「看着不对劲」就是最差反馈，而「表单字段间距改成 8px」才是智能体最爱听的明确指令。Claude 最擅长处理具象具体的要求，不善于揣摩你抽象的审美情绪。\n\n5. 接上 Connector，让 Claude 读懂上下文。\n\nRyan Mather 提到他最爱的用法：把产品吐槽会议的纪要喂给 Claude，然后出去溜达一圈，回来一份完整的解决方案 Deck 已经自动生成了。\n\n让 Claude 干复杂又综合的脑力活儿，你腾出手做更重要、更有创造力的事。\n\n6. 关键时刻，别怕手工慢下来。\n\n新图标、核心插画、产品名字、品牌形象，这类活儿别指望模型给你完美答案。这不是 Claude 不够牛，而是这事儿本质上考验的是你的个人品味和判断。Ryan 把这叫作“Agentic Designing 的艺术部分”。\n\n7. 挂代码要精准，别塞整个 monorepo。\n\n把整个 repo 拖进去会直接卡爆浏览器，模型的上下文也被无用信息污染了。你只要挂目标组件的文件夹或 package 就够了，记得排除 .git 和 node_modules，干净利索。\n\n再补两条官方没说的小窍门：\n\n1) 多开几个 Chat 平行探索。\n\n同一个想法开 3 个对话，各自往不同方向跑一段，然后再挑精华合并，比在一个对话里反复折腾要高效太多。\n\n2) 团队 Leader 得改改你的审查流程。\n\n以前是“人做、人审”，现在是“Claude 做、人审”，这个差别巨大。如果你不调整节奏和人力配置，工具的价值会浪费一半，审查这一步一定要重构。",
+      "created_at": "Sat Apr 18 02:23:43 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045162321589252458",
+        "text": "🧵 My tips for getting the best results out of Claude Design! I’m on the verticals team at Anthropic which means I serve 7 different products. Claude Design makes it possible!\n1. Set up your design system and your core screens. An hour of setup and refinement here is worth it",
+        "created_at": "Fri Apr 17 15:27:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "475129543",
+          "name": "Ryan Mather",
+          "screen_name": "Flomerboy",
+          "description": "design @ anthropic, poetry camera, sudowrite, google ATAP, littleBits, RISD",
+          "followers_count": 7066,
+          "friends_count": 1145,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 333,
+          "favorite_count": 5303,
+          "reply_count": 113,
+          "quote_count": 35
+        }
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 110,
+        "reply_count": 6,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045337105014968598",
+      "text": "https://t.co/coJnHvLASI",
+      "created_at": "Sat Apr 18 03:02:21 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    }
+  ]
+}
