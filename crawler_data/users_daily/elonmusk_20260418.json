@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238270551,
+    "followers_count": 238276495,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260418",
-  "last_updated": "2026-04-18T03:05:25.517484",
-  "tweet_count": 11,
+  "last_updated": "2026-04-18T04:48:56.954142",
+  "tweet_count": 14,
   "tweets": [
     {
       "id": "2045292691248840918",
@@ -517,6 +517,126 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2045338535113142532",
+      "text": "RT @Ominousind: Grok 4.3 Beta browser os test result, gta clone and voice control apps https://t.co/GqvWIkT5x2",
+      "created_at": "Sat Apr 18 03:08:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2045297453495128066",
+          "url": "https://video.twimg.com/amplify_video/2045297453495128066/vid/avc1/3840x2160/MOjDHfqbQxv8h-_n.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2045298095466914092",
+        "text": "Grok 4.3 Beta browser os test result, gta clone and voice control apps https://t.co/GqvWIkT5x2",
+        "created_at": "Sat Apr 18 00:27:20 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045297453495128066",
+            "url": "https://video.twimg.com/amplify_video/2045297453495128066/vid/avc1/3840x2160/MOjDHfqbQxv8h-_n.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1651174271203328000",
+          "name": "BijanBowen",
+          "screen_name": "Ominousind",
+          "description": "https://t.co/L6qn85VA3v",
+          "followers_count": 2891,
+          "friends_count": 92,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 143,
+          "favorite_count": 894,
+          "reply_count": 101,
+          "quote_count": 6
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 143,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045362208691855389",
+      "text": "RT @andy1and: FSD is shockingly good, I am completely gobsmacked. @Tesla team, bravo, truly. My god. \n\nFirst drive in Amsterdam after 5 yea…",
+      "created_at": "Sat Apr 18 04:42:06 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045148293915664873",
+        "text": "FSD is shockingly good, I am completely gobsmacked. @Tesla team, bravo, truly. My god. \n\nFirst drive in Amsterdam after 5 years on autopilot. https://t.co/3vVDWCi5VV",
+        "created_at": "Fri Apr 17 14:32:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045148286760194048",
+            "url": "https://pbs.twimg.com/media/HGHTh_lXEAAap8u.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "752939966813077505",
+          "name": "Andyland",
+          "screen_name": "andy1and",
+          "description": "Aussie space engineer in Amsterdam. Coffee & gaming enthusiast. Father. Nostalgic for 90s hobbies. Investor in Tesla, SpaceX, Xai, Neura. Street art collector.",
+          "followers_count": 1203,
+          "friends_count": 423,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 97,
+          "favorite_count": 1021,
+          "reply_count": 54,
+          "quote_count": 9
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 97,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045362463260971461",
+      "text": "https://t.co/eJ3Dvsx8FV",
+      "created_at": "Sat Apr 18 04:43:06 +0000 2026",
+      "lang": "zxx",
+      "media": [
+        {
+          "type": "video",
+          "id": "2045244344022499328",
+          "url": "https://video.twimg.com/amplify_video/2045244344022499328/vid/avc1/720x720/d1IqqSoVKPThN81M.mp4?tag=21",
+          "bitrate": 1280000
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 132,
+        "favorite_count": 796,
+        "reply_count": 249,
+        "quote_count": 10
       }
     }
   ]
