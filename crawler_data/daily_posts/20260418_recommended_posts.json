@@ -1,12 +1,91 @@
 {
   "date": "20260418",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-18T12:14:26.230071",
-  "tweet_count": 219,
-  "unique_tweet_count": 219,
+  "last_crawl_time": "2026-04-18T14:17:03.411010",
+  "tweet_count": 220,
+  "unique_tweet_count": 220,
   "total_crawled": 419,
-  "duplicates_removed": 200,
+  "duplicates_removed": 199,
   "tweets": [
+    {
+      "id": "2045501002611060837",
+      "text": "RT @yetone: 用 jieba 分词就好了，Alma 就是用的 jieba，thread search 效果好到哭",
+      "created_at": "Sat Apr 18 13:53:37 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2045427433080496429",
+        "text": "用 jieba 分词就好了，Alma 就是用的 jieba，thread search 效果好到哭",
+        "created_at": "Sat Apr 18 09:01:16 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2045082042162139547",
+          "text": "在用 Hermes Agent 的时候，一直感觉跨 session 的中文搜索不太好用。Agent明明说过的话，session_search 就是搜不到，像完全失忆了一样....\n\n比如昨天搞了一天的A2A通信，但今天再搜\"和其他Agent的聊天记录\"的时候，返回 0 条结果。但数据确实在数据库里——用 LIKE子串匹配能搜出 20 多条\n\n然后我让 Claude Code 帮忙查了一下，原因是 SQLite FTS5的默认分词器。英文有空格，天然能按词分\n\n中文没有空格，FTS5把每个汉字当成独立 token。搜\"记忆断裂\"实际执行的是 记 & 忆 & 断 & 裂——四个独立的字分别匹配，丢失了词的连续性，搜不到原本存在的内容\n\n日文、韩文也一样，都没有空格分隔，都会中招，但英文用户完全不受影响。\n\n目前的解决方案是 FTS5 搜不到结果时，检测到查询包含 CJK 字符就自动降级到 LIKE子串匹配。比 FTS5 慢一点（全表扫描），但对 agent 的数据量完全够用。\n\n已提 PR：\nhttps://t.co/QgT9roKg6P\n\n@NousResearch @Teknium",
+          "created_at": "Fri Apr 17 10:08:49 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2045081960310300672",
+              "url": "https://pbs.twimg.com/media/HGGXNSTa4AAYh36.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1888243896368644096",
+            "name": "Viviennn",
+            "screen_name": "0xViviennn",
+            "description": "✷ 𝚜𝚌𝚑𝚒𝚣𝚘𝚙𝚘𝚜𝚝𝚎𝚛 ✷",
+            "followers_count": 735,
+            "friends_count": 2007,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 7,
+            "favorite_count": 156,
+            "reply_count": 35,
+            "quote_count": 4
+          }
+        },
+        "user": {
+          "id": "147786784",
+          "name": "yetone",
+          "screen_name": "yetone",
+          "description": "Work at @isoformai\n\nBuilt a Coding Agent for Vim: avante.nvim\n\nBuilding: https://t.co/pfq9srNgsd\n\nBuilding: https://t.co/fpGnPR5t9C\n\nBuilding: https://t.co/cBN1yzJPIG",
+          "followers_count": 81614,
+          "friends_count": 4503,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 11,
+          "favorite_count": 220,
+          "reply_count": 11,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 209478,
+        "friends_count": 1609,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2045392926335770776",
       "text": "RT @wil_da_beast630: Always worth a re-share.",
