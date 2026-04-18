@@ -1,12 +1,197 @@
 {
   "date": "20260418",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-18T04:48:56.924580",
-  "tweet_count": 214,
-  "unique_tweet_count": 214,
-  "total_crawled": 411,
+  "last_crawl_time": "2026-04-18T06:28:01.126856",
+  "tweet_count": 217,
+  "unique_tweet_count": 217,
+  "total_crawled": 414,
   "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2045375917426376793",
+      "text": "RT @PeterSweden7: För många år sedan så var jag en av de få journalister som rapporterade om våldtäkt krisen i Sverige. \n\nMedia kallade mig…",
+      "created_at": "Sat Apr 18 05:36:34 +0000 2026",
+      "lang": "sv",
+      "media": [],
+      "retweet": {
+        "id": "2045189916875706574",
+        "text": "För många år sedan så var jag en av de få journalister som rapporterade om våldtäkt krisen i Sverige. \n\nMedia kallade mig för \"höger extrem\" som belysade detta problem.\n\nNu har det blivit så illa i vårt land att det har varit 58 053 rapporterade våldtäkter från 2020 till 2025.",
+        "created_at": "Fri Apr 17 17:17:28 +0000 2026",
+        "lang": "sv",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "707231479047315456",
+          "name": "PeterSweden",
+          "screen_name": "PeterSweden7",
+          "description": "I'm Peter Imanuelsen | Swedish journalist | Political commentator | Supporter of freedom, kindness and liberty | Contact inquiries: See my website",
+          "followers_count": 915888,
+          "friends_count": 177,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 898,
+          "favorite_count": 4121,
+          "reply_count": 184,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238281267,
+        "friends_count": 1313,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 898,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045375145900998760",
+      "text": "RT @MarioNawfal: A 93 year old lady filmed her Tesla FSD taking her to church and her joy is the most wholesome content on the internet.\n\nH…",
+      "created_at": "Sat Apr 18 05:33:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045271785336160609",
+        "text": "A 93 year old lady filmed her Tesla FSD taking her to church and her joy is the most wholesome content on the internet.\n\nHer take on Grok: \"I love that lady.\" https://t.co/NYIUXLwFUZ",
+        "created_at": "Fri Apr 17 22:42:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045271719405854720",
+            "url": "https://video.twimg.com/amplify_video/2045271719405854720/vid/avc1/720x1280/PTgPjqfMB5GgO9gV.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2041208184392798550",
+          "text": "Did you know Tesla FSD was this good?",
+          "created_at": "Mon Apr 06 17:35:29 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 238281267,
+            "friends_count": 1313,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 3713,
+            "favorite_count": 30612,
+            "reply_count": 2722,
+            "quote_count": 201
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KgAW",
+          "followers_count": 3344978,
+          "friends_count": 51041,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 331,
+          "favorite_count": 2301,
+          "reply_count": 210,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238281267,
+        "friends_count": 1313,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 331,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045366805997166653",
+      "text": "RT @GuntherEagleman: 🚨 TRUMP CALLS OUT GENOCIDE IN SOUTH AFRICA \n\n“In South Africa there’s a very horrible thing going on… it’s a genocide,…",
+      "created_at": "Sat Apr 18 05:00:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045269093108830658",
+        "text": "🚨 TRUMP CALLS OUT GENOCIDE IN SOUTH AFRICA \n\n“In South Africa there’s a very horrible thing going on… it’s a genocide, it’s a horrible thing… they kill people if they’re white.”\n\nTime for sanctions!   https://t.co/WKi9zbyZ49",
+        "created_at": "Fri Apr 17 22:32:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045268579377909760",
+            "url": "https://video.twimg.com/amplify_video/2045268579377909760/vid/avc1/1280x720/JksgAi9KHwgJpXBh.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1355721251180961792",
+          "name": "Gunther Eagleman™",
+          "screen_name": "GuntherEagleman",
+          "description": "David J. Freeman - Political Commentator - America First - MAGA - Christian",
+          "followers_count": 1719516,
+          "friends_count": 102863,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 894,
+          "favorite_count": 3979,
+          "reply_count": 387,
+          "quote_count": 43
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238281267,
+        "friends_count": 1313,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 894,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2045362463260971461",
       "text": "https://t.co/eJ3Dvsx8FV",
