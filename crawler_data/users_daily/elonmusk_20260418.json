@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238312111,
+    "followers_count": 238316929,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260418",
-  "last_updated": "2026-04-18T14:17:03.449616",
-  "tweet_count": 19,
+  "last_updated": "2026-04-18T16:13:12.715500",
+  "tweet_count": 21,
   "tweets": [
     {
       "id": "2045292691248840918",
@@ -906,6 +906,122 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2045514253784752320",
+      "text": "RT @SERobinsonJr: STARLINK: SpaceX Starlink Government &amp; Enterprise for Latin America and the Caribbean, Juan David Vélez (@JuanDaVelez); a…",
+      "created_at": "Sat Apr 18 14:46:16 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045297495022952539",
+        "text": "STARLINK: SpaceX Starlink Government & Enterprise for Latin America and the Caribbean, Juan David Vélez (@JuanDaVelez); and Starlink Sr. Director of Market Development, Jonathan Kleinman (@jonathankleinma), presented a comprehensive connectivity proposal to Honduras President Nasry Asfura. \n\nThe Honduran government is promoting an alliance with SpaceX to connect 8,000 schools before the end of the 2026 school year!\n\nMore Starlink news in the ELON CHRON below!",
+        "created_at": "Sat Apr 18 00:24:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045297368732704769",
+            "url": "https://video.twimg.com/amplify_video/2045297368732704769/vid/avc1/864x1080/1zeSb5tXeix1UJie.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2045293775413485942",
+          "text": "https://t.co/IA3oaPSkT5",
+          "created_at": "Sat Apr 18 00:10:10 +0000 2026",
+          "lang": "zxx",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1234183597583740929",
+            "name": "S.E. Robinson, Jr.",
+            "screen_name": "SERobinsonJr",
+            "description": "Geeking on Space, EVs, Tunnels, BCIs & AI. Writer/Owner of @ELONCHRON — daily easy-to-read chronicle on Musk companies. Tier Subscriptions on Patreon.",
+            "followers_count": 49637,
+            "friends_count": 610,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 14,
+            "favorite_count": 40,
+            "reply_count": 5,
+            "quote_count": 1
+          }
+        },
+        "user": {
+          "id": "1234183597583740929",
+          "name": "S.E. Robinson, Jr.",
+          "screen_name": "SERobinsonJr",
+          "description": "Geeking on Space, EVs, Tunnels, BCIs & AI. Writer/Owner of @ELONCHRON — daily easy-to-read chronicle on Musk companies. Tier Subscriptions on Patreon.",
+          "followers_count": 49637,
+          "friends_count": 610,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 248,
+          "favorite_count": 1291,
+          "reply_count": 179,
+          "quote_count": 11
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 248,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045528708773969978",
+      "text": "😑",
+      "created_at": "Sat Apr 18 15:43:42 +0000 2026",
+      "lang": "art",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045404086606934068",
+        "text": "MALEMA: “Go after a white man.”\n\nAlso MALEMA: “We are cutting the throat of whiteness.”\n\nLiberals: “ummm actually this is not genocidal language, he meant that metaphorically.” https://t.co/zkSXkwJ37H",
+        "created_at": "Sat Apr 18 07:28:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045404022686003200",
+            "url": "https://video.twimg.com/amplify_video/2045404022686003200/vid/avc1/720x730/jaRCwhaA-B5E-_Lx.mp4?tag=21",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "294293982",
+          "name": "Rothmus 🏴",
+          "screen_name": "Rothmus",
+          "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+          "followers_count": 656823,
+          "friends_count": 2808,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 543,
+          "favorite_count": 2416,
+          "reply_count": 205,
+          "quote_count": 72
+        }
+      },
+      "stats": {
+        "retweet_count": 2279,
+        "favorite_count": 13265,
+        "reply_count": 1630,
+        "quote_count": 89
       }
     }
   ]

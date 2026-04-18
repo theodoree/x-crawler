@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 209478,
+    "followers_count": 209526,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260418",
-  "last_updated": "2026-04-18T14:17:03.437075",
-  "tweet_count": 5,
+  "last_updated": "2026-04-18T16:13:12.735221",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2045301415828938984",
@@ -189,6 +189,75 @@
       "quoted": null,
       "stats": {
         "retweet_count": 11,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045528541568143701",
+      "text": "RT @hylarucoder: 第一眼看过去平平无奇：Prefill/Decode 解耦，多了个跨数据中心…",
+      "created_at": "Sat Apr 18 15:43:03 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2045488974932881906",
+        "text": "第一眼看过去平平无奇：Prefill/Decode 解耦，多了个跨数据中心\n                                                                                                                                              \n和 AI 聊了会，发现老中真的是在压满 GPU 这件事上，工程创新又一轮                                           \n                                                                                                                                              \n你一句话发到服务端，服务器开始推理。Prefill 是思考——把你的输入读完、想明白，算力密集。Decode                                               是说话——一字一字往外蹦，不吃很高算力。中间递一份\"思考笔记\"，叫 KV cache                        \n                                                                                                                                              \n既然两阶段的资源需求完全不同，为什么非得挤在同一台机器上甚至一个机房里？Prefill 集中到高算力卡上批量跑，Decode 散到其他卡上慢慢蹦，中间把 KV cache 传过去就行。\n\n其他人肯定也这么想过，但是由于算法受限，KV cache 太大，跨机房传输就使命不达。\n                                                                                                                                              Kimi Linear 的 hybrid attention 压缩了 KV cache，这使得传输不再变得那么不可行。而即便是可能可行，也需要足够多的线上流量才能证明真的可行。\n\n盲猜这种工程感觉 openai 之类的公司也肯定想过（也可能没想过，毕竟没那么缺卡），但不见得会分享出来。\n\n而更有想象空间的是，这说话 decode 这一步的硬件，国产卡、二手卡都能做，这个想象空间可就更大了。",
+        "created_at": "Sat Apr 18 13:05:49 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2045461663898599472",
+          "text": "We push Prefill/Decode disaggregation beyond a single cluster: cross-datacenter + heterogeneous hardware, unlocking the potential for significantly lower cost per token.\n\nThis was previously blocked by KV cache transfer overhead. The key enabler is our hybrid model (Kimi Linear), which reduces KV cache size and makes cross-DC PD practical.\n\nValidated on a 20x scaled-up Kimi Linear model:\n✅ 1.54× throughput \n✅ 64% ↓ P90 TTFT \n→ Directly translating into lower token cost.\n\nMore in Prefill-as-a-Service: https://t.co/If8fA3t9Og",
+          "created_at": "Sat Apr 18 11:17:18 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2045461640276295680",
+              "url": "https://pbs.twimg.com/media/HGLwhkZbQAA3Qch.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1863959670169501696",
+            "name": "Kimi.ai",
+            "screen_name": "Kimi_Moonshot",
+            "description": "Built by Moonshot AI to empower everyone to be superhuman. ⚡️API: https://t.co/mzWxjgGO1h\n@KimiProduct where we share cool use cases and prompts.",
+            "followers_count": 146068,
+            "friends_count": 133,
+            "verified": false,
+            "is_blue_verified": false
+          },
+          "stats": {
+            "retweet_count": 152,
+            "favorite_count": 1279,
+            "reply_count": 21,
+            "quote_count": 40
+          }
+        },
+        "user": {
+          "id": "451425069",
+          "name": "海拉鲁编程客",
+          "screen_name": "hylarucoder",
+          "description": "🖥️ Indie Maker\n📌 油管「海拉鲁编程客」\n 🌸 沦为程序员的段子手/猫咪",
+          "followers_count": 22170,
+          "friends_count": 1061,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 12,
+          "favorite_count": 98,
+          "reply_count": 8,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
