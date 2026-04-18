@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 209627,
+    "followers_count": 209729,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260418",
-  "last_updated": "2026-04-18T20:11:22.500674",
-  "tweet_count": 6,
+  "last_updated": "2026-04-18T22:10:03.734359",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2045301415828938984",
@@ -258,6 +258,101 @@
       "quoted": null,
       "stats": {
         "retweet_count": 12,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045618939334389871",
+      "text": "很荣幸我的Skills开始集成到 Hermes 中，欢迎试用👏",
+      "created_at": "Sat Apr 18 21:42:15 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045613907004535011",
+        "text": "Honored to announce we are partnering with Jim Liu to port over his wildly popular skills for infographics and design to work best in Hermes Agent using our native tooling!\n\nThe first skill ported today, the Infographic Skill, is available after updating hermes.\n\nJust start a new chat and type `/baoyu-infographic <topic>` to get started! Recommended image generation model is Nano Banana.",
+        "created_at": "Sat Apr 18 21:22:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045613352983150592",
+            "url": "https://pbs.twimg.com/media/HGN6gaRbQAAiRws.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1318419526132862976",
+          "name": "Nous Research",
+          "screen_name": "NousResearch",
+          "description": "World-class open source models\nhttps://t.co/vrD0aDIGDQ",
+          "followers_count": 138183,
+          "friends_count": 25,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 25,
+          "favorite_count": 280,
+          "reply_count": 22,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 18,
+        "reply_count": 4,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045625573083316462",
+      "text": "RT @qi9098: 新版的Codex Desktop APP已经原生支持通过 SSH 连接到远程开发环境了\n\n特别适合你的工作依赖于不在你的笔记本电脑上的环境的情况。\n\n以防你不知道，以下是开启方法：\n把这一串\n[features] \nremote_connections…",
+      "created_at": "Sat Apr 18 22:08:37 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": {
+        "id": "2045008163435323793",
+        "text": "新版的Codex Desktop APP已经原生支持通过 SSH 连接到远程开发环境了\n\n特别适合你的工作依赖于不在你的笔记本电脑上的环境的情况。\n\n以防你不知道，以下是开启方法：\n把这一串\n[features] \nremote_connections = true\n放到这个里面\n~/.codex/config.toml\n然后在Codex APP里面点击设置，点击连接就有这个功能了",
+        "created_at": "Fri Apr 17 05:15:15 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045008052491857921",
+            "url": "https://pbs.twimg.com/media/HGFT_SOXMAEV8cu.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2045008109265965056",
+            "url": "https://pbs.twimg.com/media/HGFUCluXUAAXloz.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1853671353523781632",
+          "name": "Wousp",
+          "screen_name": "qi9098",
+          "description": "",
+          "followers_count": 502,
+          "friends_count": 102,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 63,
+          "favorite_count": 580,
+          "reply_count": 23,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 63,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0

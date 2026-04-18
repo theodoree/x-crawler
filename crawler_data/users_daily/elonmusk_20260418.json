@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238338380,
+    "followers_count": 238355213,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260418",
-  "last_updated": "2026-04-18T20:11:22.480051",
-  "tweet_count": 29,
+  "last_updated": "2026-04-18T22:10:03.744152",
+  "tweet_count": 32,
   "tweets": [
     {
       "id": "2045292691248840918",
@@ -1418,6 +1418,180 @@
       "quoted": null,
       "stats": {
         "retweet_count": 45,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045601671502598170",
+      "text": "RT @ArthurMacwaters: &gt; grok4.20-beta1 is a much smaller model than opus but is #1 ranked in medicine and healthcare\n\n&gt; 4.3 and 4.4 will be…",
+      "created_at": "Sat Apr 18 20:33:38 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045593755047399449",
+        "text": "> grok4.20-beta1 is a much smaller model than opus but is #1 ranked in medicine and healthcare\n\n> 4.3 and 4.4 will be much larger models, and likely will have a significant boost in performance on complex medical cases\n\n> this is massively important in providing accurate diagnostic guidance and advice to both providers and patients",
+        "created_at": "Sat Apr 18 20:02:11 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045593293938126848",
+            "url": "https://pbs.twimg.com/media/HGNoQ0gacAAxWu9.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2045590599206875216",
+          "text": "@techdevnotes Supplemental training has been added to 4.3. \n\nGrok 4.4 will be twice the size (1T) with training data through early April. Probably ready for release in early May. \n\nGrok 4.5 will be 1.5T and hopefully out by late May.",
+          "created_at": "Sat Apr 18 19:49:38 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 238355213,
+            "friends_count": 1313,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 224,
+            "favorite_count": 2233,
+            "reply_count": 304,
+            "quote_count": 37
+          }
+        },
+        "user": {
+          "id": "1317327383628705793",
+          "name": "Arthur MacWaters",
+          "screen_name": "ArthurMacwaters",
+          "description": "I'm an unapologetic believer in American exceptionalism 🇺🇸\n\nPosts on startups & policy | founder @legionhealth (yc s21) | prev @princeton @mckinsey",
+          "followers_count": 70189,
+          "friends_count": 990,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 230,
+          "favorite_count": 1006,
+          "reply_count": 127,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 230,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045603644159283436",
+      "text": "Children are the future",
+      "created_at": "Sat Apr 18 20:41:28 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045598201890390208",
+        "text": "NEWS: Europe is running out of people.\n\nEU’s population is projected to collapse by 50+ million this century as birth rates hit record lows.\n\n• Fertility is ~1.4–1.6 children per woman, far below replacement\n\n• Deaths outnumber births in many countries\n\nThis is exactly the civilizational demographic collapse @elonmusk has warned about for years.\n\nLow Birth Rate = Decline of Civilization\n\nHumanity is dying.",
+        "created_at": "Sat Apr 18 20:19:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045597248831295488",
+            "url": "https://pbs.twimg.com/media/HGNr3BobEAA2sky.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1846113,
+          "friends_count": 934,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 362,
+          "favorite_count": 1599,
+          "reply_count": 734,
+          "quote_count": 114
+        }
+      },
+      "stats": {
+        "retweet_count": 2755,
+        "favorite_count": 20074,
+        "reply_count": 4047,
+        "quote_count": 277
+      }
+    },
+    {
+      "id": "2045606042210533600",
+      "text": "RT @BLKMDL3: Tesla officially fully opened their new Montebello location today.\n\nThe largest @Tesla sales/service/delivery location in Cali…",
+      "created_at": "Sat Apr 18 20:51:00 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045605051281072182",
+        "text": "Tesla officially fully opened their new Montebello location today.\n\nThe largest @Tesla sales/service/delivery location in California. \n\n- 140,000 square feet\n- 50 service bays \n- Massive delivery space with dedicated detail area \n- 100+ Service Loaners\n- Beautiful showroom https://t.co/DminqJGrh7",
+        "created_at": "Sat Apr 18 20:47:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045605040287817728",
+            "url": "https://pbs.twimg.com/media/HGNy8jEaoAAdC-5.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2045605040027766784",
+            "url": "https://pbs.twimg.com/media/HGNy8iGakAA8zK0.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2045605040250118144",
+            "url": "https://pbs.twimg.com/media/HGNy8i7bYAAcsFh.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2045605040187166721",
+            "url": "https://pbs.twimg.com/media/HGNy8isa0AEbojc.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "988975103785365504",
+          "name": "Zack",
+          "screen_name": "BLKMDL3",
+          "description": "",
+          "followers_count": 88583,
+          "friends_count": 2348,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 339,
+          "favorite_count": 1879,
+          "reply_count": 263,
+          "quote_count": 8
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 339,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
