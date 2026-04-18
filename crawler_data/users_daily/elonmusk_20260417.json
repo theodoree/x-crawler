@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238256380,
+    "followers_count": 238263141,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260417",
-  "last_updated": "2026-04-17T22:14:45.057698",
-  "tweet_count": 34,
+  "last_updated": "2026-04-18T00:27:35.504063",
+  "tweet_count": 40,
   "tweets": [
     {
       "id": "2044955236176200066",
@@ -1747,6 +1747,294 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2045265095895208089",
+      "text": "RT @Tesla: Over 5 years, Tesla police vehicles cost 4x less to run vs gas counterparts",
+      "created_at": "Fri Apr 17 22:16:12 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045253672851140822",
+        "text": "Over 5 years, Tesla police vehicles cost 4x less to run vs gas counterparts",
+        "created_at": "Fri Apr 17 21:30:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2045249971721548072",
+          "text": "Police Vehicle Operating Cost\n\nTesla 5yr of $19k, Explorer 5yr of $84k\n\nhttps://t.co/zVa2O3ZjHn https://t.co/NkGdiIHUf3",
+          "created_at": "Fri Apr 17 21:16:06 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2045249411228291072",
+              "url": "https://pbs.twimg.com/media/HGIvgNlW0AAl39b.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "231437494",
+            "name": "LaoZhu",
+            "screen_name": "tomzhu_nz",
+            "description": "",
+            "followers_count": 29336,
+            "friends_count": 100,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 170,
+            "favorite_count": 1501,
+            "reply_count": 69,
+            "quote_count": 20
+          }
+        },
+        "user": {
+          "id": "13298072",
+          "name": "Tesla",
+          "screen_name": "Tesla",
+          "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+          "followers_count": 24725225,
+          "friends_count": 56,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 544,
+          "favorite_count": 3544,
+          "reply_count": 237,
+          "quote_count": 30
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 544,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045266277472649630",
+      "text": "RT @tetsuoai: SpaceX completed two Starlink launches about 19 hours apart, pushing the number of Starlink satellites launched in 2026 past…",
+      "created_at": "Fri Apr 17 22:20:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045241351814693001",
+        "text": "SpaceX completed two Starlink launches about 19 hours apart, pushing the number of Starlink satellites launched in 2026 past 1,000.\n\nStarlink 10-24 from Florida put 29 V2 Mini satellites into orbit with B1080 on its 26th flight.\n\nStarlink 17-27 from California added 25 more with B1082 on its 21st flight.\n\nBoth boosters landed successfully. Both payloads were deployed about an hour after liftoff.\n\n54 satellites added in a single day.\nStarlink now has more than 10,200 satellites in orbit.",
+        "created_at": "Fri Apr 17 20:41:51 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045237391124992000",
+            "url": "https://pbs.twimg.com/media/HGIkkjNaEAAGOAs.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2045241083920359424",
+            "url": "https://pbs.twimg.com/media/HGIn7f8boAA_2O_.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1587601034339561472",
+          "name": "tetsuo",
+          "screen_name": "tetsuoai",
+          "description": "C / asm since ’94 · AI + art via Grok\nAgenC //: 👾",
+          "followers_count": 226061,
+          "friends_count": 736,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 336,
+          "favorite_count": 1786,
+          "reply_count": 223,
+          "quote_count": 10
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 336,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045271340588884212",
+      "text": "Correct",
+      "created_at": "Fri Apr 17 22:41:01 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045255958444822809",
+        "text": "99% of people really do not understand abundance as Elon describes it.\n\nThe fundamental reason is that they don’t understand compound growth.\n\nSame people who would probably pick 1 million dollars today over a penny that doubles in value every day for 30 days.\n\nIt’s a bad choice by the way. You lose out on millions.\n\nImagine if that doubling object was a labor producing robot instead of a penny.\n\nCompounding labor. It’s actually crazy if you try and wrap your mind around it.\n\nSo Elon mentions Universl High Income and the midwits flip a lid.\n\n“The elites won’t share”\n\nYou don’t get it. They won’t need to share. They will make everything so cheap, it is effectively free.\n\nCharities will have immense resources to distribute.\n\nUnfathomable intelligence will exist to help optimize production and distribution.\n\nAn unfathomably large labor pool will exist that operates on solar power exclusively.\n\nThe public work projects that are erected will be unseen before levels of breathtaking.\n\nI think we are incredibly blessed to steward this new age of abundance.\n\nCan you see it now?\n\nCan you see the future?",
+        "created_at": "Fri Apr 17 21:39:54 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1522405142888255488",
+          "name": "Penny2x",
+          "screen_name": "imPenny2x",
+          "description": "American as f🇺🇸ck. Never lie. Tech, culture, family, and the Elon ecosystem. $TSLA.",
+          "followers_count": 132411,
+          "friends_count": 5311,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 569,
+          "favorite_count": 4447,
+          "reply_count": 1648,
+          "quote_count": 170
+        }
+      },
+      "stats": {
+        "retweet_count": 1535,
+        "favorite_count": 14050,
+        "reply_count": 1775,
+        "quote_count": 103
+      }
+    },
+    {
+      "id": "2045271616146334038",
+      "text": "Lot of catching up to do. \n\nxAI is half the age or less of competitors.",
+      "created_at": "Fri Apr 17 22:42:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045076941519081921",
+        "text": "Grok 4.3 can create Slides https://t.co/8aJ3VeHB2b",
+        "created_at": "Fri Apr 17 09:48:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045076839169658880",
+            "url": "https://pbs.twimg.com/media/HGGSjMkWEAA-qZQ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1604863807574212611",
+          "name": "Tech Dev Notes",
+          "screen_name": "techdevnotes",
+          "description": "Notes on tech",
+          "followers_count": 56804,
+          "friends_count": 0,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 59,
+          "favorite_count": 712,
+          "reply_count": 39,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 919,
+        "favorite_count": 9464,
+        "reply_count": 997,
+        "quote_count": 47
+      }
+    },
+    {
+      "id": "2045271774925918337",
+      "text": "Starlink works 5 mins after you receive it",
+      "created_at": "Fri Apr 17 22:42:45 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045267086856142979",
+        "text": "Plug it in. Point at sky.\n\nStarlink connects to reliable high-speed internet in minutes, wherever you roam 🛰️❤️",
+        "created_at": "Fri Apr 17 22:24:07 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1330170106501079041",
+          "name": "Starlink",
+          "screen_name": "Starlink",
+          "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+          "followers_count": 1584683,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 139,
+          "favorite_count": 1050,
+          "reply_count": 164,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 2465,
+        "favorite_count": 28853,
+        "reply_count": 2882,
+        "quote_count": 182
+      }
+    },
+    {
+      "id": "2045285099680252417",
+      "text": "Grok 4.3 is still an early beta that will improve almost every day, but try it out!\n\nWe will publish release notes as we fix bugs and add functionality.",
+      "created_at": "Fri Apr 17 23:35:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045265210429108578",
+        "text": "Grok 4.3 beta is natively multimodal, and the front-end capabilities are insane\n\nYou can literally just upload a screenshot of any website you like, and Grok will instantly write the code to clone it for you with an cool UI\n\nYou don't even need to write a complex prompt...just upload an image or describe what you want and let it build",
+        "created_at": "Fri Apr 17 22:16:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045264417672331264",
+            "url": "https://video.twimg.com/amplify_video/2045264417672331264/vid/avc1/1900x1080/5TsngyPhWG9fxvBf.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1818311005698678784",
+          "name": "X Freeze",
+          "screen_name": "XFreeze",
+          "description": "",
+          "followers_count": 191073,
+          "friends_count": 1736,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 59,
+          "favorite_count": 549,
+          "reply_count": 103,
+          "quote_count": 12
+        }
+      },
+      "stats": {
+        "retweet_count": 654,
+        "favorite_count": 4434,
+        "reply_count": 1002,
+        "quote_count": 39
       }
     }
   ]
