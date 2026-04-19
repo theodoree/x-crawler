@@ -1,12 +1,173 @@
 {
   "date": "20260419",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-19T14:16:58.265557",
-  "tweet_count": 209,
-  "unique_tweet_count": 209,
-  "total_crawled": 407,
-  "duplicates_removed": 198,
+  "last_crawl_time": "2026-04-19T16:12:44.576357",
+  "tweet_count": 212,
+  "unique_tweet_count": 212,
+  "total_crawled": 409,
+  "duplicates_removed": 197,
   "tweets": [
+    {
+      "id": "2045892441551835502",
+      "text": "RT @andst7: Alex Soros alla conferenza dei progressisti a Barcellona, insieme a Elly Schlein, che attacca Elon Musk. Non solo presenza: Sor…",
+      "created_at": "Sun Apr 19 15:49:03 +0000 2026",
+      "lang": "it",
+      "media": [],
+      "retweet": {
+        "id": "2045877817611599956",
+        "text": "Alex Soros alla conferenza dei progressisti a Barcellona, insieme a Elly Schlein, che attacca Elon Musk. Non solo presenza: Soros contribuisce anche all’organizzazione.\n\nMorale della favola: se un multimiliardario americano finanzia e sostiene la sinistra europea con soldi fatti tramite speculazione finanziaria, è tutto legittimo. Se un altro imprenditore americano si limita a esprimere opinioni a favore di idee condivise da partiti di destra, diventa un pericolo per la democrazia.\n\nOk",
+        "created_at": "Sun Apr 19 14:50:56 +0000 2026",
+        "lang": "it",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "541882699",
+          "name": "Andrea Stroppa 🐺 Claudius Nero's Legion 🐺",
+          "screen_name": "andst7",
+          "description": "investor in Tesla, xAI, Neuralink, SpaceX and whatever Elon does.",
+          "followers_count": 133675,
+          "friends_count": 751,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 397,
+          "favorite_count": 2058,
+          "reply_count": 188,
+          "quote_count": 15
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238508065,
+        "friends_count": 1315,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 397,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045891479378542927",
+      "text": "Try it out!",
+      "created_at": "Sun Apr 19 15:45:14 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045615255544545729",
+        "text": "Did xAI just mass-murder the entire voice AI industry? 🤯\n\nGrok just launched two voice APIs. Speech-to-Text and Text-to-Speech.\n\nBuilt on the same stack powering Tesla cars and Starlink support.\n\nAnd priced at 10x cheaper than ElevenLabs.\n\nSpeech-to-Text: $0.10/hr batch. $0.20/hr streaming.\n\nText-to-Speech: $4.20 per million characters.\n\n25+ languages. Real-time streaming. Speaker diarization.\n\nAlready outperforming ElevenLabs, Deepgram, and AssemblyAI on word error rate.\n\nTTS ships with expressive tags like [laugh], [sigh], <whisper>, <emphasis>.\n\nVoices that don't sound like robots reading a script.\n\nElevenLabs spent years building a voice AI company.\n\nxAI built voice AI for cars and satellites.",
+        "created_at": "Sat Apr 18 21:27:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045615204483129344",
+            "url": "https://video.twimg.com/amplify_video/2045615204483129344/vid/avc1/1280x720/o7bSnEak5hOgKcjS.mp4?tag=14",
+            "bitrate": 2176000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "95042637",
+          "name": "Vaibhav Sisinty",
+          "screen_name": "VaibhavSisinty",
+          "description": "🔥Building @GrowthSchoolio | Ex - Uber\n\n📩 Collabs : ContactVaibhav@protonmail.com",
+          "followers_count": 143749,
+          "friends_count": 501,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 120,
+          "favorite_count": 967,
+          "reply_count": 108,
+          "quote_count": 18
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238508065,
+        "friends_count": 1315,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 572,
+        "favorite_count": 4362,
+        "reply_count": 1072,
+        "quote_count": 35
+      }
+    },
+    {
+      "id": "2045869711695786221",
+      "text": "RT @cb_doge: \"Things will just be free in the future. Sounds nuts, but if you've got an AI or robotics economy that is anywhere close to mi…",
+      "created_at": "Sun Apr 19 14:18:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045867502375424295",
+        "text": "\"Things will just be free in the future. Sounds nuts, but if you've got an AI or robotics economy that is anywhere close to million times the size of the current Earth economy, literally any need you possibly want can be met. If you can think of it, you can have it\"\n\n一 Elon Musk https://t.co/wocaKUWBuh",
+        "created_at": "Sun Apr 19 14:09:57 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045867173789442048",
+            "url": "https://video.twimg.com/amplify_video/2045867173789442048/vid/avc1/1528x1080/nQatI6YAfd3NIg0N.mp4?tag=21",
+            "bitrate": 10368000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1852810,
+          "friends_count": 934,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 619,
+          "favorite_count": 3073,
+          "reply_count": 1027,
+          "quote_count": 109
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238508065,
+        "friends_count": 1315,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 619,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2045866291832205587",
       "text": "RT @ns123abc: Just got access to Grok 4.3 and the first thing I did was throw the hardest task I usually run on claude to test it\n\ngave it…",
