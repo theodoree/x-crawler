@@ -1,0 +1,255 @@
+{
+  "user": {
+    "screen_name": "dotey",
+    "name": "宝玉",
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "followers_count": 209912,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260419",
+  "last_updated": "2026-04-19T00:29:21.245256",
+  "tweet_count": 6,
+  "tweets": [
+    {
+      "id": "2045653928319008827",
+      "text": "A quick update for everyone following this: \n\nI've been asking for help since March 9th about my ClawHub skill slugs being maliciously hijacked. To be clear, this isn't just name-squatting—someone is forking my open-source code and publishing it directly. \n\nDespite repeated promises that it will be resolved, there has been absolutely zero progress. \n\nI am now seriously considering no longer publishing my skills to ClawHub.",
+      "created_at": "Sun Apr 19 00:01:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2043508278798233911",
+        "text": "Hi @steipete and @4shadowed, following up on my previous message, just wanted to check if there's been any update on the  skill slug ownership process?\n\nTo add more context: I published a new skill named baoyu-diagram on GitHub yesterday, and by today someone had already published it to  ClawHub under a different account. I literally went from \"just pushed to GitHub\" to \"can't publish my own skill\" in under 24 hours.\n\nSame issue affects a few more other skills of mine. Would love any guidance on how to resolve this.\n\nThanks!\n\nhttps://t.co/9KBQYIqyHj\n\nhttps://t.co/7RoDl9J0Av",
+        "created_at": "Mon Apr 13 01:55:14 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 209912,
+          "friends_count": 1609,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 71,
+          "reply_count": 15,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 10,
+        "reply_count": 4,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2045654136402620916",
+      "text": "First post\nhttps://t.co/9oPN5jFz5U",
+      "created_at": "Sun Apr 19 00:02:07 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2031124561182257210",
+        "text": "Hi @steipete and @4shadowed, is there a formal process to appeal ClawHub skill ownership or request a transfer? I’m running into a case where someone forked my repo and published some of my skill slugs first, and now I can’t publish/update them under my own account. \n\nThese skills are already used by many people on other platforms, so I’d strongly prefer not to rename them. Any guidance would be appreciated.",
+        "created_at": "Mon Mar 09 21:46:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 209912,
+          "friends_count": 1609,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 54,
+          "reply_count": 14,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 1,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045654201666060387",
+      "text": "Second post\nhttps://t.co/CHPsfFl5gH",
+      "created_at": "Sun Apr 19 00:02:22 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2032672760271433931",
+        "text": "Hi @steipete @4shadowed, any updates on the ClawHub skill ownership transfer request?\n\nMany users rely on these skills, hoping for a smooth resolution soon, thanks for your help 🙏",
+        "created_at": "Sat Mar 14 04:18:45 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 209912,
+          "friends_count": 1609,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 26,
+          "reply_count": 4,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045656699575427202",
+      "text": "鸭哥这条对 AI 分析的在理，很多 Codex 的黑话就是英文直译成中文带来的翻译腔👍",
+      "created_at": "Sun Apr 19 00:12:18 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045652856766955855",
+        "text": "AI 写的中文，读两行就能认出来。\n\n\"三条反馈都很关键，我都接住。\"\n\"迁移到我们现在的问题，就得到一个更锋利的重构：\"\n\"你的直觉被数据验证了，比我预期的更干净：\"\n\n语法没错，意思也通，就是别扭。换模型、换 prompt 都去不掉。\n\n我最近注意到这股味儿的真实身份：翻译腔。上面每一句都能翻回英文——\"I caught all of them\"、\"a sharper refactoring\"、\"verified cleaner than I expected\"。字是中文，骨架是英文的。\n\n鲁迅和王小波骂了一百年的老问题，现在被 AI 批量生产出来了。但套路有限，最常见的四种：\n\n一是物理动作描述思考。\"接住\"来自 catch，\"锋利\"来自 sharp，\"不崩\"来自 doesn't break。英文里有棒球和物理生活的支撑，搬到中文里就悬空了。日常说\"收到\"、\"记下\"，不说\"接住\"。\n\n二是形容词替读者先下判断。\"逻辑很清晰：\"\"问题很直接：\"——后面的事实自己能让读者感受到清晰，形容词是多余的。\n\n三是抽象名词做主语、形容词收尾。\"工程上的现实比这些数字难看\"——读完不知道哪儿难看。\n\n四是有中文译法的英文词直接混用。context、state、cache 都有稳定对译，留着英文只让读者反复切换。\n\n本质是同一个问题：AI 写中文时先用英文句法想清楚，再逐字换成中文。怎么改？别修修补补，重写。用中文里本来会怎么说，重新说一遍。\n\nhttps://t.co/kd02Ax1Cwg",
+        "created_at": "Sat Apr 18 23:57:02 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "25820199",
+          "name": "鸭哥",
+          "screen_name": "grapeot",
+          "description": "AI builder。关注 agent 基础设施、AI-native 开发和模型能力边界。Superlinear Academy 联合创始人。",
+          "followers_count": 2479,
+          "friends_count": 118,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 14,
+          "reply_count": 3,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 11,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045657139952173209",
+      "text": "https://t.co/YGS2qpkqoh",
+      "created_at": "Sun Apr 19 00:14:03 +0000 2026",
+      "lang": "zxx",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045653928319008827",
+        "text": "A quick update for everyone following this: \n\nI've been asking for help since March 9th about my ClawHub skill slugs being maliciously hijacked. To be clear, this isn't just name-squatting—someone is forking my open-source code and publishing it directly. \n\nDespite repeated promises that it will be resolved, there has been absolutely zero progress. \n\nI am now seriously considering no longer publishing my skills to ClawHub.",
+        "created_at": "Sun Apr 19 00:01:17 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3178231",
+          "name": "宝玉",
+          "screen_name": "dotey",
+          "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+          "followers_count": 209912,
+          "friends_count": 1609,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 10,
+          "reply_count": 4,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045657732250820620",
+      "text": "在 Hermes 里面用 baoyu-infographic skill 生成的信息图👍\n&gt; /baoyu-infographic + &lt;URL&gt;\n\n直接生成一张高质量信息图",
+      "created_at": "Sun Apr 19 00:16:24 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045631081810886776",
+        "text": "Just tried the new infographic skill from @dotey in my Hermes Agent from @NousResearch.\n\nI gave it the URL of my new article.\n\nThis is so much better than Excalidraw and https://t.co/GUWMqCKLBs skills.\n\nAmazing job! 👏 https://t.co/YnR9nEYSpw",
+        "created_at": "Sat Apr 18 22:30:30 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045630751149060096",
+            "url": "https://pbs.twimg.com/media/HGOKVHfa8AAwsUY.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2767679609",
+          "name": "Marco Rodrigues",
+          "screen_name": "dadhalfdev",
+          "description": "50% parenting 👨‍🍼\n50% building with Python & AI 💻\n\nhttps://t.co/005ZU2Cdvw",
+          "followers_count": 444,
+          "friends_count": 455,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 39,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "reply_count": 3,
+        "quote_count": 0
+      }
+    }
+  ]
+}

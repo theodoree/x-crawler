@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 209729,
+    "followers_count": 209912,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260418",
-  "last_updated": "2026-04-18T22:10:03.734359",
-  "tweet_count": 8,
+  "last_updated": "2026-04-19T00:29:21.246568",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2045301415828938984",
@@ -355,6 +355,45 @@
         "retweet_count": 63,
         "favorite_count": 0,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045639278231728182",
+      "text": "只有程序员才关心是不是原生的开发，是不是用rust语言开发的\n没有铁饭碗",
+      "created_at": "Sat Apr 18 23:03:04 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045486647094161629",
+        "text": "如果说程序员有个领域是铁饭碗不怕被AI替代，那就是原生桌面客户端开发。\n\nClaude/OpenAI/OpenCode/Cursor这几个公司技术能力够强吧？token管够吧？但他们的桌面客户端都是电子垃圾。",
+        "created_at": "Sat Apr 18 12:56:34 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "188330055",
+          "name": "夏雨婷",
+          "screen_name": "cherylnatsu",
+          "description": "苹果产品相关话题优秀X友（前身为推友）",
+          "followers_count": 17438,
+          "friends_count": 4225,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 84,
+          "reply_count": 18,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 15,
+        "reply_count": 6,
         "quote_count": 0
       }
     }

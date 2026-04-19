@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238355213,
+    "followers_count": 238375282,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260418",
-  "last_updated": "2026-04-18T22:10:03.744152",
-  "tweet_count": 32,
+  "last_updated": "2026-04-19T00:29:21.257988",
+  "tweet_count": 37,
   "tweets": [
     {
       "id": "2045292691248840918",
@@ -1592,6 +1592,295 @@
       "quoted": null,
       "stats": {
         "retweet_count": 339,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045631109808173552",
+      "text": "RT @cb_doge: NEWS: World Bank research shows every 10% increase in broadband penetration can raise GDP growth by 1.21% in countries like So…",
+      "created_at": "Sat Apr 18 22:30:37 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045606943834976365",
+        "text": "NEWS: World Bank research shows every 10% increase in broadband penetration can raise GDP growth by 1.21% in countries like South Africa.\n\nYet South Africa is blocking Starlink with race-based ownership rules.\n\nSouth African farmers and rural communities are asking the government to approve Starlink. In many remote areas, there is no internet at all.\n\nSpaceX committed about $30 million to deliver FREE high-speed internet to 5,000 rural schools in South Africa. That would help over 2.4 MILLION kids learn better, access opportunities, and build a stronger future. But race-based ownership laws are blocking it.\n\nStarlink is already live in 20+ African countries. Villages there now have internet for education, healthcare, and business. South Africa’s villages are missing out because of these racist rules.\n\nThis is an injustice to the people of South Africa.",
+        "created_at": "Sat Apr 18 20:54:35 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045606870589865984",
+            "url": "https://video.twimg.com/amplify_video/2045606870589865984/vid/avc1/1080x1080/vPWswK75WYGrn0Lw.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1846903,
+          "friends_count": 934,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 391,
+          "favorite_count": 1584,
+          "reply_count": 359,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 391,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045633214992286086",
+      "text": "RT @mark_k: Both Gemini and Grok are underrated. I used to champion Gemini for a while, but lately I've been very happy with Grok, especial…",
+      "created_at": "Sat Apr 18 22:38:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045413115966165330",
+        "text": "Both Gemini and Grok are underrated. I used to champion Gemini for a while, but lately I've been very happy with Grok, especially since the Grok 4.20 release with multi-agent.\n\nAnd now we have Grok 4.3!",
+        "created_at": "Sat Apr 18 08:04:23 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2045362938525913277",
+          "text": "Which one is the most underrated here? https://t.co/zJzBMnfopY",
+          "created_at": "Sat Apr 18 04:45:00 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2045220722830884864",
+              "url": "https://pbs.twimg.com/media/HGIVaU-aQAAgavu.png"
+            },
+            {
+              "type": "photo",
+              "id": "2045220834223239168",
+              "url": "https://pbs.twimg.com/media/HGIVgz8asAALZih.png"
+            },
+            {
+              "type": "photo",
+              "id": "2045220951164674048",
+              "url": "https://pbs.twimg.com/media/HGIVnnlbYAAj-f9.png"
+            },
+            {
+              "type": "photo",
+              "id": "2045220975302897664",
+              "url": "https://pbs.twimg.com/media/HGIVpBgbcAAeN5I.png"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1935015267693985792",
+            "name": "DROID",
+            "screen_name": "droidbuilds",
+            "description": "Tech | DM for collabs",
+            "followers_count": 2143,
+            "friends_count": 653,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 19,
+            "favorite_count": 254,
+            "reply_count": 190,
+            "quote_count": 16
+          }
+        },
+        "user": {
+          "id": "8721292",
+          "name": "Mark Kretschmann",
+          "screen_name": "mark_k",
+          "description": "AI & Software Engineering | Practical insights on AI, code, fitness & e/acc • Accelerating the future",
+          "followers_count": 35818,
+          "friends_count": 634,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 268,
+          "favorite_count": 1683,
+          "reply_count": 270,
+          "quote_count": 2
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 268,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045646847897960670",
+      "text": "RT @daviddorg: Stanford paid 35,000 people to quit Facebook and Instagram for 6 weeks\n\nDepression dropped. Anxiety dropped. Happiness went…",
+      "created_at": "Sat Apr 18 23:33:09 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045314524962545861",
+        "text": "Stanford paid 35,000 people to quit Facebook and Instagram for 6 weeks\n\nDepression dropped. Anxiety dropped. Happiness went up. Women under 25 on Instagram saw the biggest gains\n\nThat was 6 weeks. I'm going a full year. https://t.co/CJvCeuSx9m",
+        "created_at": "Sat Apr 18 01:32:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045314259991908352",
+            "url": "https://pbs.twimg.com/media/HGJqe6Db0AATxAl.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "961388327596208128",
+          "name": "David Daines",
+          "screen_name": "daviddorg",
+          "description": "Year Unplugged: 1 year, 0 screens, 100s of biomarkers | Baseline almost complete",
+          "followers_count": 17506,
+          "friends_count": 409,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5301,
+          "favorite_count": 27370,
+          "reply_count": 664,
+          "quote_count": 494
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5301,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045647384831799510",
+      "text": "For good reason",
+      "created_at": "Sat Apr 18 23:35:17 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045606362521219348",
+        "text": "Trust in Legacy Media has tanked https://t.co/ukvHEl1guh",
+        "created_at": "Sat Apr 18 20:52:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045606359576809472",
+            "url": "https://pbs.twimg.com/media/HGN0JVzbEAAmkgB.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1485689970593468416",
+          "name": "The Rabbit Hole",
+          "screen_name": "TheRabbitHole",
+          "description": "Navigating the discourse",
+          "followers_count": 1097469,
+          "friends_count": 1834,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 196,
+          "favorite_count": 1035,
+          "reply_count": 113,
+          "quote_count": 52
+        }
+      },
+      "stats": {
+        "retweet_count": 2928,
+        "favorite_count": 26879,
+        "reply_count": 1766,
+        "quote_count": 109
+      }
+    },
+    {
+      "id": "2045650695890899140",
+      "text": "RT @GadSaad: Dr. Sowell got it a long time ago.",
+      "created_at": "Sat Apr 18 23:48:26 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045623747038605635",
+        "text": "Dr. Sowell got it a long time ago.",
+        "created_at": "Sat Apr 18 22:01:21 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2045561513700655566",
+          "text": "The enemies of civilization. https://t.co/zgaqTRWNjO",
+          "created_at": "Sat Apr 18 17:54:04 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2045561503193964544",
+              "url": "https://pbs.twimg.com/media/HGNLWWwXIAAGgLo.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "294293982",
+            "name": "Rothmus 🏴",
+            "screen_name": "Rothmus",
+            "description": "Memes. Rugged Individualism. Voluntaryism. Laissez-faire. Propertarianism.",
+            "followers_count": 657865,
+            "friends_count": 2808,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 1045,
+            "favorite_count": 2822,
+            "reply_count": 47,
+            "quote_count": 41
+          }
+        },
+        "user": {
+          "id": "116579971",
+          "name": "Gad Saad",
+          "screen_name": "GadSaad",
+          "description": "Professor, Evolutionary Behavioral Scientist, Author. Opinions are mine alone. Retweets do not necessarily imply an endorsement.",
+          "followers_count": 1287487,
+          "friends_count": 464,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1271,
+          "favorite_count": 4654,
+          "reply_count": 240,
+          "quote_count": 19
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1271,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
