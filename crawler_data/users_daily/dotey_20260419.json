@@ -3,13 +3,13 @@
     "screen_name": "dotey",
     "name": "宝玉",
     "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
-    "followers_count": 210272,
+    "followers_count": 210337,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260419",
-  "last_updated": "2026-04-19T06:36:41.462100",
-  "tweet_count": 9,
+  "last_updated": "2026-04-19T08:22:21.709326",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2045653928319008827",
@@ -451,6 +451,32 @@
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2045756332112838710",
+      "text": "小技巧，如何在 GitHub Copilot 的 Agent 中避免老是确认权限，类似于 claude --dangerously-skip-permissions\n\n在 Settings -> Claude Agent: Allow Dangerously Skip Permissions 中勾选 Allow bypass permissions mode. Recommended only for sandboxes with no internet access.\n\n然后在对话框下面的 Permission 中选择 Bypass Approvals\n\nhttps://t.co/JBaLqrI76E",
+      "created_at": "Sun Apr 19 06:48:12 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2045754910562480128",
+          "url": "https://pbs.twimg.com/media/HGP7QJWWcAAc6ax.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2045755074547187712",
+          "url": "https://pbs.twimg.com/media/HGP7ZsPWgAAp_YK.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 36,
+        "reply_count": 4,
+        "quote_count": 1
       }
     }
   ]

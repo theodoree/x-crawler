@@ -1,12 +1,213 @@
 {
   "date": "20260419",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-19T06:36:41.433451",
-  "tweet_count": 203,
-  "unique_tweet_count": 203,
+  "last_crawl_time": "2026-04-19T08:22:21.656122",
+  "tweet_count": 207,
+  "unique_tweet_count": 207,
   "total_crawled": 403,
-  "duplicates_removed": 200,
+  "duplicates_removed": 196,
   "tweets": [
+    {
+      "id": "2045766510426415161",
+      "text": "RT @elonmusk: @NoticerNews True \nhttps://t.co/reGkERn4Sn",
+      "created_at": "Sun Apr 19 07:28:39 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045765381902815694",
+        "text": "@NoticerNews True \nhttps://t.co/reGkERn4Sn",
+        "created_at": "Sun Apr 19 07:24:10 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "https://t.co/dDtDyVssfm",
+          "followers_count": 238436882,
+          "friends_count": 1315,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 192,
+          "favorite_count": 918,
+          "reply_count": 331,
+          "quote_count": 24
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238436882,
+        "friends_count": 1315,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 192,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045764832373449112",
+      "text": "True",
+      "created_at": "Sun Apr 19 07:21:59 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045758205448347673",
+        "text": "A lot of misinformation from legacy media about Starlink’s entry into South Africa. Here’s the truth 👇\n\n• ❌ “Starlink wants to bypass B-BBEE”\n✅ False — it supports transformation via EEIP, a legal framework already used by companies like Microsoft, IBM, and Amazon Web Services.\n\n• ❌ “Starlink is asking for special treatment”\n✅ No — it’s asking for equal rules so ALL satellite operators can compete fairly.\n\n• ❌ “EEIP is less beneficial than equity deals”\n✅ Reality — Starlink’s plan would connect 5,000 rural schools with FREE high-speed internet, impacting millions of students every year.\n\n• ❌ “It won’t create local impact”\n✅ It will partner with local businesses, create jobs, and boost the economy (broadband growth = GDP growth).\n\n• ❌ “It will become a monopoly”\n✅ Impossible — Starlink operates globally in a competitive market across 150+ countries.\n\n• ❌ “Security & privacy risks”\n✅ It will fully comply with South African laws like every other country it operates in.\n\n• ❌ “Starlink is already operating illegally”\n✅ Wrong — it is NOT operating because it is still waiting for a license.",
+        "created_at": "Sun Apr 19 06:55:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045757449953771520",
+            "url": "https://video.twimg.com/amplify_video/2045757449953771520/vid/avc1/1080x1080/1ceQhYZBqnjqiCkS.mp4?tag=21",
+            "bitrate": 8768000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1389913567671975937",
+          "name": "DogeDesigner",
+          "screen_name": "cb_doge",
+          "description": "",
+          "followers_count": 1850206,
+          "friends_count": 934,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 178,
+          "favorite_count": 895,
+          "reply_count": 407,
+          "quote_count": 51
+        }
+      },
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238436882,
+        "friends_count": 1315,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 826,
+        "favorite_count": 5788,
+        "reply_count": 1527,
+        "quote_count": 82
+      }
+    },
+    {
+      "id": "2045756657834377654",
+      "text": "RT @battleangelviv: These redwoods are older than many civilizations \n\nMany were already growing while the Roman Empire was still around ht…",
+      "created_at": "Sun Apr 19 06:49:30 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045647162361643183",
+        "text": "These redwoods are older than many civilizations \n\nMany were already growing while the Roman Empire was still around https://t.co/wLzbjsBQgb",
+        "created_at": "Sat Apr 18 23:34:24 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045647141352394752",
+            "url": "https://pbs.twimg.com/media/HGOZPJwaUAAOiL1.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2045647141331509248",
+            "url": "https://pbs.twimg.com/media/HGOZPJrboAA-t9T.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1518265999367286787",
+          "name": "Viv 🪩",
+          "screen_name": "battleangelviv",
+          "description": "social @Tesla @X",
+          "followers_count": 32406,
+          "friends_count": 1081,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 305,
+          "favorite_count": 2555,
+          "reply_count": 253,
+          "quote_count": 21
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238436882,
+        "friends_count": 1315,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 305,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045756332112838710",
+      "text": "小技巧，如何在 GitHub Copilot 的 Agent 中避免老是确认权限，类似于 claude --dangerously-skip-permissions\n\n在 Settings -> Claude Agent: Allow Dangerously Skip Permissions 中勾选 Allow bypass permissions mode. Recommended only for sandboxes with no internet access.\n\n然后在对话框下面的 Permission 中选择 Bypass Approvals\n\nhttps://t.co/JBaLqrI76E",
+      "created_at": "Sun Apr 19 06:48:12 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2045754910562480128",
+          "url": "https://pbs.twimg.com/media/HGP7QJWWcAAc6ax.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2045755074547187712",
+          "url": "https://pbs.twimg.com/media/HGP7ZsPWgAAp_YK.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 210337,
+        "friends_count": 1609,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 36,
+        "reply_count": 4,
+        "quote_count": 1
+      }
+    },
     {
       "id": "2045711586501767564",
       "text": "RT @liyue_ai: gpt image 2生成城市宣传海报。\n提示词：\n一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光，构图延续了S型的流动感；… https://t.co/LNl3UncdpQ",
