@@ -1,12 +1,184 @@
 {
   "date": "20260419",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-19T03:06:04.810241",
-  "tweet_count": 201,
-  "unique_tweet_count": 201,
-  "total_crawled": 400,
-  "duplicates_removed": 199,
+  "last_crawl_time": "2026-04-19T05:02:28.964594",
+  "tweet_count": 203,
+  "unique_tweet_count": 203,
+  "total_crawled": 401,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2045711586501767564",
+      "text": "RT @liyue_ai: gpt image 2生成城市宣传海报。\n提示词：\n一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光，构图延续了S型的流动感；… https://t.co/LNl3UncdpQ",
+      "created_at": "Sun Apr 19 03:50:24 +0000 2026",
+      "lang": "zh",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2045331982201331712",
+          "url": "https://pbs.twimg.com/media/HGJ6mebbIAAUAkX.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2045332620352119274",
+        "text": "gpt image 2生成城市宣传海报。\n提示词：\n一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光，构图延续了S型的流动感；\n在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。\n广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。\n云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。\n文字排版优美，大方，字迹清晰完整，尺寸9:16。",
+        "created_at": "Sat Apr 18 02:44:31 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045331982201331712",
+            "url": "https://pbs.twimg.com/media/HGJ6mebbIAAUAkX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1988475714501570561",
+          "name": "李岳",
+          "screen_name": "liyue_ai",
+          "description": "✍🏻分享AI资讯  | 🛠️评测AI工具 \n📖发布AI教程  |💰拆解AI变现案例 \n公众号：李岳AI | 商务合作+V：liyue071714118 | Tg：https://t.co/A4Joosvl7z",
+          "followers_count": 18562,
+          "friends_count": 407,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 96,
+          "favorite_count": 839,
+          "reply_count": 61,
+          "quote_count": 12
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 210170,
+        "friends_count": 1609,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 96,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045710605110190126",
+      "text": "RT @hx831126: 不得了，不得了 https://t.co/eSMLKbtLRV",
+      "created_at": "Sun Apr 19 03:46:30 +0000 2026",
+      "lang": "ja",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2045705378134904832",
+          "url": "https://pbs.twimg.com/media/HGPOM-rWUAAYv73.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2045705378143334400",
+          "url": "https://pbs.twimg.com/media/HGPOM-tW8AArKK4.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2045705378134884352",
+          "url": "https://pbs.twimg.com/media/HGPOM-rWAAAYrr3.jpg"
+        }
+      ],
+      "retweet": {
+        "id": "2045705394786357469",
+        "text": "不得了，不得了 https://t.co/eSMLKbtLRV",
+        "created_at": "Sun Apr 19 03:25:48 +0000 2026",
+        "lang": "ja",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045705378134904832",
+            "url": "https://pbs.twimg.com/media/HGPOM-rWUAAYv73.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2045705378143334400",
+            "url": "https://pbs.twimg.com/media/HGPOM-tW8AArKK4.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2045705378134884352",
+            "url": "https://pbs.twimg.com/media/HGPOM-rWAAAYrr3.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2045332620352119274",
+          "text": "gpt image 2生成城市宣传海报。\n提示词：\n一张充满新春喜庆氛围但不失高雅格调的 2026 城市宣传海报。\n双重曝光，构图延续了S型的流动感；\n在纯白的纹理背景右下角，一个身穿中国传统服饰的微缩人物正在挥舞着一条长长的红色丝绸舞带，这条红绸在空中舞动，不仅展现出丝绸的柔顺质感，更在向左上方飘动的过程中，奇幻地变形成了一条壮丽的山脉河流。\n在这条“河流”中，叠加了一个有山有海河的广州城市手绘图，国潮，景色尽在眼底，壮阔雄伟，令人震撼。\n广州的地标建筑(广州塔，珠江新城建筑群，珠江, 广州城里古建筑，游轮，白云山）。\n云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。\n文字排版优美，大方，字迹清晰完整，尺寸9:16。",
+          "created_at": "Sat Apr 18 02:44:31 +0000 2026",
+          "lang": "zh",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2045331982201331712",
+              "url": "https://pbs.twimg.com/media/HGJ6mebbIAAUAkX.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1988475714501570561",
+            "name": "李岳",
+            "screen_name": "liyue_ai",
+            "description": "✍🏻分享AI资讯  | 🛠️评测AI工具 \n📖发布AI教程  |💰拆解AI变现案例 \n公众号：李岳AI | 商务合作+V：liyue071714118 | Tg：https://t.co/A4Joosvl7z",
+            "followers_count": 18562,
+            "friends_count": 407,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 96,
+            "favorite_count": 839,
+            "reply_count": 61,
+            "quote_count": 12
+          }
+        },
+        "user": {
+          "id": "1660062196603277314",
+          "name": "虎小象",
+          "screen_name": "hx831126",
+          "description": "不过是 Prompt Kiddide 罢了",
+          "followers_count": 3603,
+          "friends_count": 90,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 61,
+          "reply_count": 2,
+          "quote_count": 1
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "3178231",
+        "name": "宝玉",
+        "screen_name": "dotey",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "followers_count": 210170,
+        "friends_count": 1609,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2045694317205807587",
       "text": "有论文支持\nhttps://t.co/qqY5DiG5Lw",
