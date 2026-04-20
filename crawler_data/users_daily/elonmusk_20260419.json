@@ -3,13 +3,13 @@
     "screen_name": "elonmusk",
     "name": "Elon Musk",
     "description": "https://t.co/dDtDyVssfm",
-    "followers_count": 238546809,
+    "followers_count": 238554641,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260419",
-  "last_updated": "2026-04-19T22:10:54.328290",
-  "tweet_count": 8,
+  "last_updated": "2026-04-20T00:29:55.358581",
+  "tweet_count": 13,
   "tweets": [
     {
       "id": "2045756657834377654",
@@ -361,6 +361,243 @@
       "quoted": null,
       "stats": {
         "retweet_count": 397,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2045995291623702883",
+      "text": "Lot of rocket landings!",
+      "created_at": "Sun Apr 19 22:37:44 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2045908097982489061",
+        "text": "600 landings!!! That’s 496 landings on our droneships and 104 on our landing zones. Congrats team on making the impossible, possible!",
+        "created_at": "Sun Apr 19 16:51:16 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "954371342115094528",
+          "name": "Kiko Dontchev",
+          "screen_name": "TurkeyBeaver",
+          "description": "VP of Launch @ SpaceX and father of Finn and Otie",
+          "followers_count": 27135,
+          "friends_count": 485,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 229,
+          "favorite_count": 2770,
+          "reply_count": 102,
+          "quote_count": 21
+        }
+      },
+      "stats": {
+        "retweet_count": 2157,
+        "favorite_count": 22944,
+        "reply_count": 1702,
+        "quote_count": 63
+      }
+    },
+    {
+      "id": "2046002375174111265",
+      "text": "RT @SpaceX: Falcon lands for the 600th time! https://t.co/Zu42NkBnxN",
+      "created_at": "Sun Apr 19 23:05:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "video",
+          "id": "2045898200750710784",
+          "url": "https://video.twimg.com/amplify_video/2045898200750710784/vid/avc1/3840x2160/QgthrMBn78k5RAN7.mp4?tag=21",
+          "bitrate": 25128000
+        }
+      ],
+      "retweet": {
+        "id": "2045898424638492752",
+        "text": "Falcon lands for the 600th time! https://t.co/Zu42NkBnxN",
+        "created_at": "Sun Apr 19 16:12:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "video",
+            "id": "2045898200750710784",
+            "url": "https://video.twimg.com/amplify_video/2045898200750710784/vid/avc1/3840x2160/QgthrMBn78k5RAN7.mp4?tag=21",
+            "bitrate": 25128000
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41508020,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2253,
+          "favorite_count": 19624,
+          "reply_count": 809,
+          "quote_count": 272
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 2253,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2046005465994453252",
+      "text": "RT @SpaceX: Falcon 9 launches 25 @Starlink satellites from California ahead of completing the 600th overall landing of an orbital class roc…",
+      "created_at": "Sun Apr 19 23:18:10 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045921820810080731",
+        "text": "Falcon 9 launches 25 @Starlink satellites from California ahead of completing the 600th overall landing of an orbital class rocket https://t.co/z86lzWrQRa",
+        "created_at": "Sun Apr 19 17:45:48 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2045919880617320448",
+            "url": "https://pbs.twimg.com/media/HGSRSqsa4AAmJXn.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2045919961831579648",
+            "url": "https://pbs.twimg.com/media/HGSRXZPaIAAXn1a.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2045920002067595264",
+            "url": "https://pbs.twimg.com/media/HGSRZvIbAAAVa_n.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "34743251",
+          "name": "SpaceX",
+          "screen_name": "SpaceX",
+          "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+          "followers_count": 41508020,
+          "friends_count": 127,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 945,
+          "favorite_count": 6496,
+          "reply_count": 377,
+          "quote_count": 55
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 945,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2046006033890566491",
+      "text": "Ascension https://t.co/BX9eEiDxKf",
+      "created_at": "Sun Apr 19 23:20:26 +0000 2026",
+      "lang": "it",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2046006028853198848",
+          "url": "https://pbs.twimg.com/media/HGTfpJ4aQAAYW8u.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3617,
+        "favorite_count": 48249,
+        "reply_count": 3602,
+        "quote_count": 414
+      }
+    },
+    {
+      "id": "2046015847081373880",
+      "text": "RT @benjitaylor: Cleaning up 𝕏 one screen at a time!",
+      "created_at": "Sun Apr 19 23:59:25 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2045935281745088807",
+        "text": "Cleaning up 𝕏 one screen at a time!",
+        "created_at": "Sun Apr 19 18:39:17 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2045926386020319679",
+          "text": "The new Premium hub UI redesign that came first to the web app is now live on the iOS app with the latest X update.\n\nLoving how the team is bringing more consistency to the overall UI. https://t.co/yoOXh6TNvD",
+          "created_at": "Sun Apr 19 18:03:56 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "photo",
+              "id": "2045926380357943297",
+              "url": "https://pbs.twimg.com/media/HGSXNAHWAAEENc5.jpg"
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "764483782762172416",
+            "name": "Iorel",
+            "screen_name": "Iorel_X",
+            "description": "🔎 X App Researcher | 🎬 Video Editor | ⚽️ R. Madrid | 🛠️ Mod in X Communities Feedback",
+            "followers_count": 2665,
+            "friends_count": 455,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 6,
+            "favorite_count": 92,
+            "reply_count": 12,
+            "quote_count": 0
+          }
+        },
+        "user": {
+          "id": "2606432720",
+          "name": "Benji Taylor",
+          "screen_name": "benjitaylor",
+          "description": "leading design @x. prev. head of design @base. founder @family (acq by @aave). tools @dip.",
+          "followers_count": 115737,
+          "friends_count": 434,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 124,
+          "favorite_count": 1013,
+          "reply_count": 128,
+          "quote_count": 0
+        }
+      },
+      "quoted": null,
+      "stats": {
+        "retweet_count": 124,
         "favorite_count": 0,
         "reply_count": 0,
         "quote_count": 0
