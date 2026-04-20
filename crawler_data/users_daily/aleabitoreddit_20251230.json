@@ -1,0 +1,87 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251230",
+  "last_updated": "2026-04-20T16:21:33.658372",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2005918544924664315",
+      "text": "When I made my WSB post, I'm half joking about $AXTI.\n\nBut not about the extreme bottleneck and InP supply shock.  \n\nThis is a call on critical materials game theory. \n\nIf we see many historically at bottlenecks:\n\n1. Dysprosium: ~2,300% increase (~$100/kg -> $2400/kg 2010-11)\n2. Neon Gas: ~1000%-2,000% increase (2022)\n3. Rhodium: ~$3,000/oz -> ~$29,000/oz (~860%)\n\nThe current Indium spike compared to others?\n\n89% : (~$440 / kg -> ~$832 / kg).\n\nCritical materials used for semiconductors like Neon Gas (semi-grade lithography lasers), spiked over 2000% because chipmakers like Intel and Samsung had stockpiled during Ukraine conflicts. They absorbed the cost because neon is a small fraction of the chip's value.\n\nLike Neon, InP is a critical \"enabler\" material. The cost of the wafer is small relative to the cost of the AI cluster ($100 wafer vs $30,000 GPU). Hyperscalers would happily absorb huge price increases rather than delay deployment. We haven't seen that yet with InP, but we likely will. \n\nTraditional analysts and many AI Models do not understand how to model critical bottlenecks because there's not many examples in history where an extremely cheap commodity like InP with few hundred million TAM suddenly became the most critical material for the multi-trillion+ AI buildout. \n\nCurrently, hyperscalers likely placed backlogs on downstream providers Coherent / $LITE, but likely didn't realize that laser production and capacity are backlogged because of materials shortage upstream. \n\nThere is a supply storage both for InP substrates ( $AXTI + Sumitomo + JX production) as well as the Indium Phosphide feedstock ( $AXTI, Vital, $DOWA) where demand exceeds supply by multiple factors. \n\n$NVDA originally contributed to the supply shortage by locking in a large percent of capacity of EML. But shortage is already pre-hyperscaler ramp, where majority of the demand will come in late 2026 into 2027 when Trainium or Maia show up. \n\nBut how do you get around original chokepoint and securing your AI deployment? \n\nBuying out substrate capacity directly from ( $AXTI, Sumitomo) or going one step lower and buying InP feedstock and passing them to substrate producers so Google's TPU program doesn't stall.   \n\nAnd similar to how other critical materials were needed for lithography lasers. Indium Phopshide and InP substates are even more critical to the entire AI buildout:\n\n1. Nvidia: InfiniBand / NVLink (optical - 800G/1.6T EML Transceivers) - Extreme dependency on InP\n2. Google: Jupiter / Apollo (optical - OCS), Extreme dependency\n3. Microsoft: Azure Maia: High (800G DR4/FR4)\n4. Meta: F16 / Artemis (800G) High\n\nand this is not considering other Mag7 companies like $AMZN or other companies scaling out ASICs with photonics. \n\nCurrently, analysts are modeling InP companies based on TAM. For example, the total InP Wafer Market from 2024 is $183M – $205M Straits Research, Mordor Intelligence (2024)\n\n- 6-inch (150mm) Segment TAM: $65m \n- Projected Total InP TAM (2032): $580M – $700M\n\nNow looking at TAM for Laser-Grade Indium Phosphide Feedstock:\n\n- Polycrystalline InP Feedstock TAM: ~$300 Million \n- High-Purity Indium (6N/7N) Only: ~$400 Million\n\nSubstrate Data: Mordor Intelligence (InP Wafer Market 2025-2030) and Straits Research.\nFeedstock Data: Market Report Analytics (Indium Phosphide Polycrystalline Industry Analysis 2025).\n\nThis was an extremely cheap telecom product and now it's one of the most precious materials in the entire supply chain. \n\nIncreasing prices 3000% would only be low single digits of BOM value to $GOOGL TPU deployments or $MSFT MAIA deployments. And the project Microsoft ramp in 2027 alone would take up double digits of all InP capacity.  \n\nLike Intel or semis back in 2022, hyperscalers will likely  buy insurance directly with InP substrates + InP, similar to how semis stockpiled Neon Gas. \n\nIf the \"TAM\" really was a few hundred million, but every single hyperscaler would face deployment delays if they don't secure this material. Then this becomes a game theory bidding war.\n\nIn a $20B TPU deployment is stalled because of a $100 substrate, a hyperscaler would easily pay $10,000 (100 times current prices) for it without hesitation.\n\nThat's why when you look at InP substrate companies and see $50m backlog (from 2024), that same $50m worth of capacity for future ones could be valued at $500m, $5B or more in an extreme scenario. \n\nThis is a \"tail-risk\" investment, extremely reward if hyperscalers get bottlenecked by this material, but not without significant geopolitical risk and dilution. \n\nI don't know what's going to happen, but I do expect there to be an immense bottleneck in 2026 both in InP substrates and InP feedstock. \n\nSo, if companies like $AXTI owns 40% of the entire InP supply chain (source: AXT CEO) and is valued at $700m, what value would you place on it?",
+      "created_at": "Tue Dec 30 08:27:03 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2005916725259427843",
+          "url": "https://pbs.twimg.com/media/G9ZyokIaYAMMbly.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2005843348981203181",
+        "text": "InP substrate shortages emerge as new bottleneck for optical chips\n\nA tightening supply of indium phosphide substrates is emerging as a bottleneck for artificial intelligence data centers and high-speed optical interconnects, prompting compound semiconductor supplier IntelliEPI to change how it operates as demand outpaces capacity.\n\nIntelliEPI said limited availability of InP substrates is already constraining output across parts of the AI transmission supply chain. IntelliEPI chairman Yung Chung Kao said the imbalance reflects rapid growth in data center upgrades alongside structural limits in upstream materials.\n\nIndium phosphide is a key material for high-speed optical components used in AI data centers, where bandwidth and power efficiency are critical. Kao said AI infrastructure has driven multifold growth in the InP market, but even capacity increases of 20% to 30% by substrate suppliers have failed to keep pace. He said the gap between supply and demand is likely to widen and may not return to balance in 2026.\n\nGeopolitics and supply concentration\nSupply constraints have been compounded by geopolitics and concentration among suppliers. China imposed export controls on gallium and germanium in response to US trade measures and later extended restrictions to raw materials used for InP substrates. Global production is dominated by Japan's Sumitomo and US-based AXT, with AXT's main manufacturing base located in China. That concentration has left the market vulnerable to export controls and trade disruptions.\n\nEpi-only model and recycled substrates\nTo keep production moving, IntelliEPI has shifted to an Epi-only operating model. Under the approach, customers provide their own substrates while the company focuses on epitaxial growth and charges only for that service. Kao said customer-supplied substrates may not undergo the same internal validation, which can affect yields, but added that limited output with some yield loss is preferable to halting production during a shortage.\n\nThe company is also developing recycled substrate technology to stretch scarce resources. Leveraging in-house capabilities in crystal growth, slicing, and polishing, IntelliEPI has accumulated about 6,000 to 7,000 discarded InP wafers over more than 20 years. Kao said those wafers are being repurposed for inspection and testing, reducing consumption of prime wafers. Some customers are also evaluating recycled substrates for epitaxial growth as a temporary alternative.\n\nKao said substrate availability has become the most urgent operational issue, even as orders and internal capacity remain solid. He added that higher data center specifications tied to AI workloads are intensifying pressure by lifting demand as supply tightens.\n\nUS production base and CHIPS Act benefits\nIntelliEPI manufactures primarily in the US and said its long-standing base in Texas has helped insulate it from tariff volatility. The company has kept production in the US for nearly 30 years rather than shifting capacity to China or other parts of Asia to cut costs, a strategy Kao said reduced exposure to swings in US-China trade policy.\n\nThe company also qualifies for incentives under the US CHIPS and Science Act, allowing it to seek subsidies or tax credits covering up to 25% of certain equipment investments. Kao said automation and a lean workforce help offset higher US labor and land costs. IntelliEPI employs about 85 people and generates roughly US$34 million in annual revenue.\n\nExpansion plans through 2027\nIntelliEPI plans to operate 15 to 16 InP production tools in 2025 and add two more platforms in 2026. It is also expanding its facilities, with a new building slated for completion in 2027 that would increase capacity by about 50% and improve manufacturing flexibility.\n\nKao said the company is targeting high-barrier markets such as AI data centers and aerospace and defense, where technical and regulatory hurdles favor specialized suppliers. Despite growing competition from Chinese manufacturers with scale advantages, he said IntelliEPI's focus on advanced products and deep ties to the US market position it to benefit as demand for compound semiconductors continues to rise.",
+        "created_at": "Tue Dec 30 03:28:15 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2005843330849202178",
+            "url": "https://pbs.twimg.com/media/G9Yv4cpaYAIvq14.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1836240683268759552",
+          "name": "Jukan",
+          "screen_name": "jukan05",
+          "description": "Tech otakus save the world",
+          "followers_count": 88829,
+          "friends_count": 274,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 12,
+          "favorite_count": 104,
+          "reply_count": 10,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 276,
+        "reply_count": 16,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2006013108817678779",
+      "text": "Neoclouds are in the \"Prove It\" phase. \n\nYou have absurd 700%+ ARR growth rates to $7-9B from $NBIS and $3.4B+ figures from $IREN. \n\nMany have multiple year revenue visibility and backstop from Mag7 Hyperscalers.\n\nHowever, markets have said: \n\n\"This is not an infinite money glitch\". \n\nWhere a stock goes up -> convertible note/dilution -> ARR increases -> repeat. \n\nThey all have funding now, $NBIS sitting on a $4.8B+ cash stack, $IREN sitting on billions from $MSFT prepayment/notes to finish their buildout and turn that into FCF. \n\nDespite tailwinds from the initial SPEED act passing, OpenAI fundraising (for less counterpaty risk), and rate cuts, the recent downtrend seems to combine EoY tax harvesting with short selling, active ATMs, and mainly:\n\nWaiting for proof that these companies can deliver margins at scale from levered IRR projections on $MSFT's IREN deal to Nebius. It seems to comes down to execution and waiting for their next earnings report. \n\nMany retail investors seem to have capitulated during this time but institutional ownership has only gone up (30's from $NBIS to 50's+ now) \n\nBut here's where the asymmetry comes in:\n\nIf Nebius management scales to 20-30% EBIT margins with their $7-9B ARR target, this seems incredibly, incredibly off at $85 when conservative analysts are throwing out $200+ PTs. Especially considering possible Clickhouse ramp/IPO and Avride robotaxi scaling with Uber. \n\nI'm especially bullish thematically too with $IREN levered IRR projections on the Microsoft deal and Neocloud colo players from $CIFR / $WULF $GOOGL deals. \n\nTLDR: If Neoclouds can execute with their projected margins, scale, and create their own moats during this 2-3 year window, then the whole sector selloff seems like a golden opportunity.",
+      "created_at": "Tue Dec 30 14:42:49 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2006008866157297664",
+          "url": "https://pbs.twimg.com/media/G9bGb3uXAAA7QNi.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 338,
+        "reply_count": 26,
+        "quote_count": 5
+      }
+    }
+  ]
+}

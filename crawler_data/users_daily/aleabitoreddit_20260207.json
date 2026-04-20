@@ -1,0 +1,180 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208945,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260207",
+  "last_updated": "2026-04-20T16:21:33.646164",
+  "tweet_count": 5,
+  "tweets": [
+    {
+      "id": "2019946788233617526",
+      "text": "It’s been 6 weeks since I made the initial $AXTI post.\n\nIt’s now up another 60%.\n\nAlmost nobody talked about this tiny $700M stock on X.\n\nEspecially not from angles of InP supply chains with photonics.\n\nAnd now it’s a $1.4B company on institution and gov radars.\n\nSince then:\n\n- China export control banned precursors to their competitors\n\n- 7n InP prices hit all time highs week after week\n\n- They raised $100M from Northland to double their capacity\n\n- $LITE blows out earnings with expectations of optical demand outstripping supply\n\n- Every hyperscaler blew out expectations of capex\n\n- Trump signed executive orders to seize InP supply chains from foreign owned companies in the US.\n\nIt’s been 6 weeks. And I expect photonics to ramp up the most over the next two years onwards.\n\nEvery stock has volatility (this one moves 20%+ up and down daily) so it’s important to develop conviction by yourself before entering a trade. \n\nBut $AXTI is of my most interesting bottleneck longs starting from a tiny $700M MC.",
+      "created_at": "Sat Feb 07 01:30:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2019946780180508673",
+          "url": "https://pbs.twimg.com/media/HAhK5PnacAED98l.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2004569946492453003",
+        "text": "Warning: The entire AI industry will likely be bottlenecked by two companies:\n\n1. $AXTI ($700M) \n2. $SMTOY ($31.7B)\n\nWhich both control 60–70%+ of the world's InP substrates.\n\nFuture $NVDA, $GOOGL TPU v7 pods, $META, $MSFT, $AMZN hyperscaler clusters require InP-based lasers and receivers.\n\n$AVGO, $LITE, $COHR use for EMLs for 800G/1.6T transceivers, DFB lasers, and other optical infra.\n\nWithout InP substrates, the supply chain falters. \n\nAfter looking at TPU BOM to Maia BOM, it looks like future ASICs + GPUs + hyperscaler deployments are heavily reliant on photonics. \n\nAnd two vendors could freeze the global InP substrate market covering nearly all of:\n\n- Hyperscaler optics (TPU pods, etc)\n- Optical transceivers (5g, data)\n- LiDAR (robotaxis, drones, military)\n-Optical Modules (interconnect clusters)\n- Silicon photonics laser dies (Nvidia’s future co-packaged optics and Intel/Broadcom SiPh engines use  InP CW laser arrays.)\n\nSince these companies make up majority of the market supply:\n\n-AXTI (est. ~30–35%)\n-Sumitomo (est.~30%)\n- JX Nippon (est. 10-15%)\n\nThat’s it. (eg. 2021 industry note from Yole states that \"Sumitomo Electric + AXT together had “more than 75%” of the InP substrate market\")\n\nHyperscalers/AI are moving toward photonics but the entire AI industry is fragile. \n\nIf either $AXTI or $SMTOY stop supplying materials, the entire future AI buidlout gets crippled. It's even crazier that a $700m company could become the the center of it all. \n\nInP substrate will likely one of the biggest bottlenecks alongside HMB as the AI industry shifts to photonics.",
+        "created_at": "Fri Dec 26 15:08:13 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2004567172190769152",
+            "url": "https://pbs.twimg.com/media/G9GnOPLXEAAdWJW.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208945,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 340,
+          "favorite_count": 3322,
+          "reply_count": 113,
+          "quote_count": 33
+        }
+      },
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 499,
+        "reply_count": 42,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2020033017880698920",
+      "text": "A new release shows Japan is investing:\n\n$550B USD (86 Trillion Yen) into several sectors. \n\nThe first round of investments go into these three:\n\n1. Synthetic Diamonds for Semis (heat sink for AI chips)\n\n- J-TEC Corporation (3446.T)\n- $COHR - diamond substrates into optical (likely partner). They launched bondable diamonds in Jan 2026. Likely Element Six grows Diamondond Wafer -> $COHR bonds it to AI processors.   \n- EDP (7794.T)\n- Element Six\n\nAre the likely winners for this sector. The text mentions a \"synthetic diamond production plant,\" but it does not name these companies. They are the logical technical winners.\n\n2. Gas Power for Data Centers \n\n- SoftBank (Explicitly named)\n- GE Vernova $GEV \n- Quanta Services $PWR\n- Hitachi (6501.T)\n\n3. Deepwater Oil Terminals\n\n- EPD $EDP\n- ENEOS (5020.T)\n- Idemitsu Kosan (5019.T)\n\nSorry couldn't find English version of the article yet (and translation tools were off).  \n\nPhase 1 is $40–45 Billion (approx. 6–7 Trillion Yen).",
+      "created_at": "Sat Feb 07 07:12:56 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2020031392156184576",
+          "url": "https://pbs.twimg.com/media/HAiX2TybcAALBuu.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 385,
+        "reply_count": 11,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2020088575203721520",
+      "text": "Here's my TLDR + mapped into investment framework from Semivision bottleneck summary:\n\nHBM:\nHBM4 (16Hi) - Samsung, Sk Hynix, $MU\nHBF - $SNDK, Kioxia\nBase Die - $TSM, Samsung (internal)\n\nCPO/photonics;\nGlass Substrate: $GLW, $INTC, Ibiden\nOptical: $LITE, $AVGO, $COHR, $MRVL\n\nPower Delivery:\nVolatage: $MPWR, $VICR\nThermal: $VRT, $NVT, $MOD\nGrid: $ETN, $SBGSY\nSiC/GaN: $ON, $IFNNY\nRack: $APH\n\nN2 Volume:\n$TSM , $AMD (First mover dc), $QLCM, Mediatek, $NVDA\n\nAdvanced Packaging:\nYield: $CAMT, $ONTO, $KLAC\nOSATs: $AMKR\n$BESIY, Disco\n\nSemivision's summary:\n1. \"advanced packaging capacity and yield control\"\n2. \"HBM ecosystem coordination\"\n3. \"power delivery innovation (SiC, GaN PMICs, rack-level power architectures)\"\n4. \"CPO/photonics integration capability\"\n5.  \"data center infrastructure as a “hidden limiter” to semiconductor revenue realization\"\n\nAs you probably know, I'm probably most bullish on memory/photonics like Sk Hynix/Samsung, $SNDK, $MU, $LITE above. And $TSM. \n\nI probably go a bit more upstream like $AXTI for InP precursors, but midstream players are the chokepoint + control most of the pricing. \n\nBut just added commentary of related companies to topics to make things simpler for the regular retail investor.",
+      "created_at": "Sat Feb 07 10:53:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2020087823572013056",
+          "url": "https://pbs.twimg.com/media/HAjLLDMaEAAkjXM.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 95,
+        "favorite_count": 900,
+        "reply_count": 41,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2020131529389928947",
+      "text": "$TSLA Optimus Bottleneck TLDR - Elon Musk Interview:\n\n\"There's only three hard things for humanoid robots\":\n\n1. Real World Intelligence (eg. Dojo, $NVDA, Samsung Electro-Mechanics)\n\n2. The Hand (~ possibly $VPG)\n\n3. Scale Manufacturing ( ~ Zhejiang Huazheng, Ningbo TuoFu, Everwin)\n\nFor the hand:\n\nElon claimed that $TSLA Optimus has the more degrees of freedom with a human hand than other robotic humanoid.\n\nTesla \"designed custom actuators, gears power electronics, controls, sensors. There is no supply chain for this.\"\n\nElon basically focused on the hand is the most IP-sensitive and complex part of the robot during the interview.  Elon reiterated that Tesla solved issues with the hand that no other humanoids in China have today.\n\nThis makes things slightly more probable that Western manufacturers are involved (compared to Chinese supply chains from earlier reports), with this part of this specific BOM.\n\nFor the Real World Intelligence Aspect:\n\nElon focused on: \"Inertial measurements, GPS signals, other data, combining that  with video, primarily video, and then outputting the control commands\"\n\n- Training ~ Cortex / Dojo suppliers, $NVDA.\n- Video & Vision: Samsung Electro-Mechanics? \n- IMUs + GPS: $STM or Bosch?\n\nScale Manufacturing:\n\nLikely Chinese supply chains as reported, by Chosun for the body. \n\nFrom inference looks like:\n\nBrain + high-end components = US/Korean\nBody is Chinese (Sanhua, Tupou, etc).\n\nBut again, this is not confirmed, just possible supply chain mapping. \n\nRegardless, Elon gave investors three bottlenecks to invest in for the humanoid ramp.",
+      "created_at": "Sat Feb 07 13:44:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2020129760307998721",
+          "url": "https://pbs.twimg.com/media/HAjxUFtacAEEf7A.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2020088575203721520",
+        "text": "Here's my TLDR + mapped into investment framework from Semivision bottleneck summary:\n\nHBM:\nHBM4 (16Hi) - Samsung, Sk Hynix, $MU\nHBF - $SNDK, Kioxia\nBase Die - $TSM, Samsung (internal)\n\nCPO/photonics;\nGlass Substrate: $GLW, $INTC, Ibiden\nOptical: $LITE, $AVGO, $COHR, $MRVL\n\nPower Delivery:\nVolatage: $MPWR, $VICR\nThermal: $VRT, $NVT, $MOD\nGrid: $ETN, $SBGSY\nSiC/GaN: $ON, $IFNNY\nRack: $APH\n\nN2 Volume:\n$TSM , $AMD (First mover dc), $QLCM, Mediatek, $NVDA\n\nAdvanced Packaging:\nYield: $CAMT, $ONTO, $KLAC\nOSATs: $AMKR\n$BESIY, Disco\n\nSemivision's summary:\n1. \"advanced packaging capacity and yield control\"\n2. \"HBM ecosystem coordination\"\n3. \"power delivery innovation (SiC, GaN PMICs, rack-level power architectures)\"\n4. \"CPO/photonics integration capability\"\n5.  \"data center infrastructure as a “hidden limiter” to semiconductor revenue realization\"\n\nAs you probably know, I'm probably most bullish on memory/photonics like Sk Hynix/Samsung, $SNDK, $MU, $LITE above. And $TSM. \n\nI probably go a bit more upstream like $AXTI for InP precursors, but midstream players are the chokepoint + control most of the pricing. \n\nBut just added commentary of related companies to topics to make things simpler for the regular retail investor.",
+        "created_at": "Sat Feb 07 10:53:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2020087823572013056",
+            "url": "https://pbs.twimg.com/media/HAjLLDMaEAAkjXM.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208945,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 95,
+          "favorite_count": 900,
+          "reply_count": 41,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 162,
+        "reply_count": 12,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2020258804953411966",
+      "text": "Portfolio weightings is my most common question.\n\nHere’s what my portfolio looks like:\n\n35% Memory Supercycle\n_\n10% Samsung Electronics\n10% Sk Hynix\n10% $MU \n5% $SNDK\n\n25% Digital Asset exposure\n_\n10% $IBIT \n5% $COIN\n5% $HOOD \n2.5% $CRCL\n2.5% $SOL\n\n15% Fintech/Advertising\n5% $RDDT\n5% $ETOR\n5% $TTD\n\n15% Datacenter\n-\n10% $NBIS\n5% $CRDO\n\n10% Semi\n_\n5% $INTC \n5% $TSM\n\n10% Photonics\n5% $LITE \n2.5% $AXTI \n2.5% $COHR \n\n5% Hedge/Cash\n5% Hedge (Eg. $VIX or $QQQ Puts, especially around now)\n\n10% Small Cap Moonshots\n2.5% $VPG \n2.5% $LPTH\n1.5% $VLN \n1.5% $AIRO\n1% $OSS \n.5% $DPRO \n.5% $CPSH \n\nThis is using slight margin, eg 1.25x. \n\nAdditional Margin (up to 1.5x):\n- Swing Trades (eg. $GLXY) \n\nMy portfolio looks vaguely similar to this, but with more random names like $AEHR or Unimicron and different weightings.\n\nThis is long semi + AI supercycle, with a recovery trade in Crypto. If (Google, Meta, MSFT) cut spending this would hurt, but they just increased capex spend. \n\nBut this is just showing how I do risk management, it’s very risky to full send it into micro caps like $POET.",
+      "created_at": "Sat Feb 07 22:10:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2020258799135916032",
+          "url": "https://pbs.twimg.com/media/HAlmrIzagAAOZ7i.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 119,
+        "favorite_count": 1240,
+        "reply_count": 93,
+        "quote_count": 8
+      }
+    }
+  ]
+}

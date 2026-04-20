@@ -1,0 +1,66 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251122",
+  "last_updated": "2026-04-20T16:21:33.664538",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "1992181846134968633",
+      "text": "The Neocloud Sector Tierlist.\n\nPost Q3 earnings + Market Sector Drop:\n\n[S] Tier: $NBIS\n[A] Tier:  $CIFR, $WULF, $IREN\n[B] Tier: $GLXY, $CORZ\n[C] Tier:  $APLD, $CLSK\n[D] Tier: $WLAC, $DGDX, $WYFI\n[F] Tier, $CRWV*, $SLNH\n[U] Tier: $GRRR, $MARA, $DGDX, $CLSK, $BITF,  $HIVE, $RIOT **\n\nRanked in order from left to right.\n\n* : Short-term pricing drops created compelling entries (e.g., $CRWV), but med-term (12m) attractiveness remains limited. \n\n**: Uncertain, decided not to rate them (but put them in tierlist photo as F). Some pure miners haven't fully pivot into HPC yet + too much contract uncertainty. \n\nLot of people asked about updates post earnings, these are just personal thoughts based on weighted assessments of:\n\na. Contract visibility and revenue certainty \nb. Resilience to macro tightening and credit conditions c. Balance sheet strength and margin profile \nd. HPC buildout risk (capacity execution and orchestration) \ne. Revenue growth trajectory (1–2 year horizon)\nf. Current market capitalization relative to revenue ramp and infrastructure value\n\nThe whole Neocloud sector is compelling but some have clearly higher asymmetrical return over others as of Q3.",
+      "created_at": "Sat Nov 22 10:42:19 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1992179789596348416",
+          "url": "https://pbs.twimg.com/media/G6Wk9q-aUAA5Zx_.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1991452423186182524",
+        "text": "Based on the equity ranking table:\n\nHere's a deeper analysis of each stock, alongside how I reposition my portfolio to capitalize on the market reset:\n\n· $NBIS at $92, PT $400 / 1Y\n· $RKLB at $43, PT $500 / 5Y\n· $CRCL at $72, PT $150 / 8M\n· $ALAB at $143.4, PT $250 / 6M\n· $SNAP at $8.1, PT $22 / 1Y\n· $CIFR at $14.8, PT $28 / 6M\n· $RDDT at $185, PT $275 / 8M\n· $SMCI at $34, PT $55 / 6M\n· $HIMS at $35, PT $60 / 6M\n\nThis is in order of concentration weighting from when posted and internal PT speculation based on existing information for mid-cap ($5B+) sections.\n\nHere’s a deeper breakdown on each one and PT timeframe, and a “qualitative”why:\n\n1. Nebius ( $NBIS ): $23B marketcap. Incredibly undervalued and detached from fundamentals.\n\n$7-9B forward ARR, 20-30% EBIT, enterprise contracts from Shopify, Accenture, Cursor, foreign governments and hyperscaler contracts from Meta and Microsoft give Nebius revenue visibility. With $4.8B+ in cash, it's isolated from credit tightening affecting data centers. With 2.5 GW expected capacity contracted 2026, it rivals many others eg. $IREN at 2.8 GW, and defeats many of the capacity/power arguments. With many portfolio companies powering companies like Tesla and Anthropic, it also has higher growth potential (think $MSFT with its portfolio companies for longer defensibility).\n\nWe also had stellar $NVDA earnings going into Q4 with their blowout, Jensen clarifying arguments against GPU depreciation, which helps with DC sector sentiment. \n\n$400 1 year price target, $100B+ valuation given forward revenue/margins.\n\n2. Rocketlab ( $RKLB ): $22B marketcap. Overvalued current term, undervalued long term potential. \n\nRocketlab is my highest conviction 5Y long alongside Bitcoin. With Space, it's not winner takes all, and I've maintained $350-500B long term PT to match SpaceX’s most recent valuation/capabilities.\n\nAs of now, it's overvalued. But it's an incredible + defensible moat from purely a technological standpoint building reusable rockets and we're early in terms of commercialization of their end-to-end space products at scale (likely ~2028).\n\nHowever, we're pricing in forward growth with Flatlite commericalization (eg. Starlink), and medium-lift payloads (SpaceX Falcon 9). The market prices in forward growth as well but it’s more about how long in the future with Rocketlab. It's always a solid buy, depending on how patient you are with company execution. \n\n3. Circle ( $CRCL ) - $16B marketcap, undervalued.\n\nWith Circle, I've been bear posting it since it was a $50B marketcap, saying short Circle, long Coinbase, given $COIN has 50% revenue sharing with Circle.\n\nIt was overvalued due to float numbers and massive insider lockups 2-3 days after earnings/Dec 2nd led to a sell-off (like $BULL). Float dynamics matter a lot that ETF managers like Cathie Wood seem to not understand (hence my warnings). \n\nBut now we're reaching respectable valuation numbers. I expect USDC commercialization to continue and given a regulatory focus in the digital asset market, I see $CRCL taking over a lot of Tether's marketcap. \n\nThat being said, it's well deserving of a $30B+ marketcap pricing in stablecoin volume growth once we start seeing insider shares redistributed to institutions and long term holders. \n\n4. Astera Labs ( $ALAB ) - $22B marketcap, reasonable valuation\n\nALAB was one of my mid-term high conviction picks, due to Mag7 adoption of connectivity for datacenter buildout. \n\nIncredibly high growth and $NVDA-like margins sitting at ~74%, latest er: $230m/q (101% Y/Y growth). My thesis was that if Mag7 is dependent on a company ($NVDA for GPUs) ( NBIS, IREN, CIFR for DC AI cloud buildout), the company will blow away expections quarter after quarter, and we're seeing this.\n\nThere's been a recent sell-off on Astera from $250 back to $140 marks, depsite beating earning expectations across the board and this presents a good buying opportunity.\n\nI maintain a medium term PT $250 for recovery after NVDA earnings and record-high DC buildout from Antrophic's $40B DC to $GOOGL's $50B DC in Texas + connectivity demand.\n\n5. Snapchat ( $SNAP ) $13B marketcap, undervalued. \n\n$SNAP is one of my least favorite stocks and CEO's (sorry Evan). \n\nHowever, I can't argue with fundamental changes. A TLDR of my most recent thesis post was that they're cutting their massive opex bloat from memories/videos stored 10 years ago and if you look into their GCP hosting fees, it's cutting in margins.\n\nNow they're both reducing that OPex cost and increasing revenue from that.  We also have AI deals with perplexity adding $400m+ additional revenue streams like RDDT. \n\nHowever, short term it's suffering from tax-harvesting due to underperformance this year relative to AI companies. In 2026 Q1, I expect the market to start pricing in the new fundamentals Hard. and for this company to beat expectation soundly. \n\nThat being said I expect over a 200%+ upside 1Y from here with the market pricing in the new dynamics. \n\n5. CIFR ( $CIFR ) - Undervalued at $5B marketcap\n\n$CIFR is my second favorite stock in the Neocloud sector. From memory, it holds a lot of Bitcoin on its balance sheet and is materially affected by the selloff in BTC prices from $120k to $90k. \n\nHowever I expect crypto asset prices to recover in a few months once cascading margin liqudations finish and instituions buy-in Bitcoin at low prices. \n\nNebius is top because it owns the full AI-cloud value chain for higher revenue potential and stronger returns, even though it forces them to handle orchestration, software, and GPU lifecycle risk instead of sticking to colocation.  \n\nHowever,  $CIFR because it avoids that entire risk surface and has backing from AMZN and GOOGL for long term revenue anchors. It also stays insulated from GPU procurement, management, and depreciation.  \n\nFor CIFR's economics we get a a high-margin, annuity structure built on space, power, and cooling for hyperscalers. Risk-adjusted, it’s one of the safest names in the group. But the trade-off is capped upside  Long leases like 10Y, 15Y slow the revenue ramp and mute the payoff relative to full-stack Neocloud operators like NBIS that go from $145m quarterly revenue to $2.1B in a year.\n\nThat being said I maintain a $28 PT in 1 month once market prices in $AMZN, $GOOGL Fluidstack revenue and Bitcoin prices recover. \n\n6. Reddit ( $RDDT ) - Moderate valuation\n\nComing from the Wendy's dumpsters on WSB subreddit, I am naturally biased toward this platform.\n\nHowever, the initial sell-off of Reddit at $270 was due to fears over ChatGPT citations, which was immaterial. Now, recent data shows that citations are back, but Reddit's price still sits at $185 (way below that number) + partly due to macro.\n\nReddit is one of the least bloated, highly profitable social media companies. And it's here to stay due to long term defensibility of the network effect of both younger + older audiences (compared to Snap 900m+ MAU of mostly younger generation).\n\nI expect RDDT to scale up monetization avenues through acquisitions like $HOOD (exchanges) due to their massive FCF and profitability or how Facebook originally acquired WhatsApp, Instagram, built out messenger. It's a low-risk, high growth stock, which is why I maintain a $275 PT in 8 months. \n\n7. SMCI ( $SMCI ) - Undervalued, $20B marketcap.\n\n$20B marketcap is a joke. Nothing else to say. They're doing $5B quarterly revenue (off lower-margins for sure). However, market is pricing in the company revenue dropping. \n\nSMCI quoted majority of the backlog delay to Q2 2026, which aligns with a lot of the DC buildout from Neoclouds to Mag7 customers. \n\nThey expect revenue to grow 50%+ Y/Y next year, with at least $36 billion revenue, but judging from DC buildout from blowout NVDA earnings, I expect server rack companies like $DELL and SMCI to outperform Q2  2026. \n\nThis is why I'm taking advantage of revenue lag delays from the current quarter and assigning a $55 PT in 6 months time. \n\n8. Hims and Her Health ( $HIMS) - Undervalued ( $8B marketcap)\n\nPersonally, I've used HIMS just for short term trading breakouts. And I've been one to not long-term hold the stock above $50.  \n\nHowever, back at $35, it's reset most of the year's growth but grew revenue 49% Y/Y to $500m and is producing a good amount of FCF.\n\nThe most under-priced narrative is the Zava acquisition. This adds 1.3M+ users to the HIMS platform and allows the company to expand to the EU market.\n\nSimilar to how META acquires companies like Instagram, grows its base + monetizes, I expect HIMS to do the same with Zava + market is pricing in current est. Zava numbers. \n\nIt's probably my least confident stock out of the bunch, especially leaving me with a bad taste with the CEO selling shares after leaving 👀 on SS posts back at $70. \n\nBut that being said it's a great rebound opportunity to $60 in a 6 month timeframe. \n\nHope you enjoyed my perspective. There's a lot of x at price posts, but I try to leave a more qualitative breakdown (+ part quantitative but leave out a lot of technical for easier reading) to help retail develop their own conviction and understanding.\n\nBuilding understanding is important to create internal valuation models yourself rather than blindly following along FinX posters + capitulating when stock prices temporarily drop. \n\nHappy to discuss more if you drop your own portfolio + concentrations.",
+        "created_at": "Thu Nov 20 10:23:51 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1991451711421181955",
+            "url": "https://pbs.twimg.com/media/G6MOx8aacAMgcTV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 52,
+          "favorite_count": 413,
+          "reply_count": 29,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 80,
+        "favorite_count": 496,
+        "reply_count": 29,
+        "quote_count": 11
+      }
+    }
+  ]
+}

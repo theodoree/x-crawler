@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251226",
+  "last_updated": "2026-04-20T16:21:33.658961",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2004569946492453003",
+      "text": "Warning: The entire AI industry will likely be bottlenecked by two companies:\n\n1. $AXTI ($700M) \n2. $SMTOY ($31.7B)\n\nWhich both control 60–70%+ of the world's InP substrates.\n\nFuture $NVDA, $GOOGL TPU v7 pods, $META, $MSFT, $AMZN hyperscaler clusters require InP-based lasers and receivers.\n\n$AVGO, $LITE, $COHR use for EMLs for 800G/1.6T transceivers, DFB lasers, and other optical infra.\n\nWithout InP substrates, the supply chain falters. \n\nAfter looking at TPU BOM to Maia BOM, it looks like future ASICs + GPUs + hyperscaler deployments are heavily reliant on photonics. \n\nAnd two vendors could freeze the global InP substrate market covering nearly all of:\n\n- Hyperscaler optics (TPU pods, etc)\n- Optical transceivers (5g, data)\n- LiDAR (robotaxis, drones, military)\n-Optical Modules (interconnect clusters)\n- Silicon photonics laser dies (Nvidia’s future co-packaged optics and Intel/Broadcom SiPh engines use  InP CW laser arrays.)\n\nSince these companies make up majority of the market supply:\n\n-AXTI (est. ~30–35%)\n-Sumitomo (est.~30%)\n- JX Nippon (est. 10-15%)\n\nThat’s it. (eg. 2021 industry note from Yole states that \"Sumitomo Electric + AXT together had “more than 75%” of the InP substrate market\")\n\nHyperscalers/AI are moving toward photonics but the entire AI industry is fragile. \n\nIf either $AXTI or $SMTOY stop supplying materials, the entire future AI buidlout gets crippled. It's even crazier that a $700m company could become the the center of it all. \n\nInP substrate will likely one of the biggest bottlenecks alongside HMB as the AI industry shifts to photonics.",
+      "created_at": "Fri Dec 26 15:08:13 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2004567172190769152",
+          "url": "https://pbs.twimg.com/media/G9GnOPLXEAAdWJW.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 340,
+        "favorite_count": 3322,
+        "reply_count": 113,
+        "quote_count": 33
+      }
+    }
+  ]
+}

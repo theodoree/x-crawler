@@ -262,6 +262,7 @@ class XCrawler:
             return None
     
     def save_raw_response(self, response, url: str, params: dict, timeline_type: str):
+        return ## 省略 - 该函数已在分析结果中实现
         """保存原始API响应用于分析"""
         try:
             timestamp = datetime.now().strftime('%Y%m%d_%H%M%S_%f')[:-3]
@@ -557,6 +558,7 @@ class XCrawler:
         return all_tweets
     
     def save_daily_data(self, tweets: List[Dict], timeline_type: str):
+        return ## 省略 - 该函数已在分析结果中实现
         """保存日数据 - 支持多次抓取合并去重"""
         today = datetime.now().strftime('%Y%m%d')
         filename = f"{today}_{timeline_type}_posts.json"
@@ -677,6 +679,81 @@ class XCrawler:
         
         print(f"✅ 用户分组保存完成")
     
+    def _send_new_tweets_to_feishu(self, screen_name: str, tweets: List[Dict]):
+        """将新增推文发送到飞书 webhook。"""
+        webhook_url = os.getenv('FEISHU_WEBHOOK', '').strip()
+        if not webhook_url:
+            print("⚠️ 未配置 FEISHU_WEBHOOK，跳过飞书通知")
+            return
+
+        if not tweets:
+            return
+
+        for tweet in tweets:
+            tweet_id = tweet.get('id')
+            created_at = tweet.get('created_at', '')
+            text = tweet.get('text', '').replace('\n', ' ').strip()
+            if tweet_id:
+                url = f"https://x.com/i/web/status/{tweet_id}"
+            else:
+                url = ''
+
+            card = {
+                "config": {
+                    "wide_screen_mode": True
+                },
+                "header": {
+                    "title": {
+                        "tag": "plain_text",
+                        "content": f"@{screen_name} 新推文"
+                    },
+                    "template": "blue"
+                },
+                "elements": [
+                    {
+                        "tag": "div",
+                        "text": {
+                            "tag": "lark_md",
+                            "content": f"**时间**: {created_at}\n\n**内容**: {text}"
+                        }
+                    }
+                ]
+            }
+
+            if url:
+                card["elements"].append({
+                    "tag": "action",
+                    "actions": [
+                        {
+                            "tag": "button",
+                            "text": {
+                                "tag": "plain_text",
+                                "content": "查看详情"
+                            },
+                            "type": "primary",
+                            "url": url
+                        }
+                    ]
+                })
+
+            payload = {
+                "msg_type": "interactive",
+                "card": card
+            }
+
+            try:
+                response = requests.post(webhook_url, json=payload, timeout=10)
+                response.raise_for_status()
+                print(f"✅ 飞书卡片推送成功: @{screen_name} tweet_id={tweet_id}")
+            except Exception as e:
+                print(f"❌ 飞书卡片推送失败: {e}")
+                if hasattr(e, 'response') and e.response is not None:
+                    try:
+                        print(f"   响应内容: {e.response.text}")
+                    except Exception:
+                        pass
+                break
+
     def _save_user_tweets(self, screen_name: str, new_tweets: List[Dict], users_dir: Path):
         """保存或合并用户的推文数据"""
         import os
@@ -701,6 +778,15 @@ class XCrawler:
 
         # 合并推文
         all_tweets = existing_tweets + new_tweets
+
+        # 过滤出文件中不存在的新增推文，并发送到飞书
+        existing_tweet_ids = {t.get('id') for t in existing_tweets if t.get('id')}
+        new_tweets_not_in_file = [
+            tweet for tweet in new_tweets
+            if tweet.get('id') and tweet.get('id') not in existing_tweet_ids
+        ]
+        if new_tweets_not_in_file:
+            self._send_new_tweets_to_feishu(screen_name, new_tweets_not_in_file)
 
         # 第一步：从所有推文中收集最新的用户信息（包括重复的）
         # 使用现有的用户信息作为默认值
@@ -772,6 +858,15 @@ class XCrawler:
 
         # 合并推文
         all_tweets = existing_tweets + new_tweets
+
+        # 过滤出文件中不存在的新增推文，并发送到飞书
+        existing_tweet_ids = {t.get('id') for t in existing_tweets if t.get('id')}
+        new_tweets_not_in_file = [
+            tweet for tweet in new_tweets
+            if tweet.get('id') and tweet.get('id') not in existing_tweet_ids
+        ]
+        if new_tweets_not_in_file:
+            self._send_new_tweets_to_feishu(screen_name, new_tweets_not_in_file)
 
         # 第一步：从所有推文中收集最新的用户信息（包括重复的）
         # 使用现有的用户信息作为默认值

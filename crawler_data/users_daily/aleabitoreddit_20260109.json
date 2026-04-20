@@ -1,0 +1,153 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260109",
+  "last_updated": "2026-04-20T16:21:33.655220",
+  "tweet_count": 3,
+  "tweets": [
+    {
+      "id": "2009567495796265302",
+      "text": "We’re seeing third order effects in markets with $LITE, $AAOI, and photonics having a bloodbath, dropping 10%+.\n\nIt’s multifaceted, with sector drop from Sandisk -10%+ and others selling off as well.\n\nBut my nuance take is that the entire Japanese supply chain will likely run out of InP inventory/capacity from Japanese export controls, required for the western optical buildout at scale.\n\nI wouldn’t quite lump $COHR in with the other photonics players but while they’re already capacity strained, it’s likely going to get worse with Sumitomo, JX affected. \n\nThis would capacity strain $LITE and others who would lack the inp to produce opticals for $GOOGL TPU Ironwood and others.\n\nHowever this would be offset and we might see a continued rally if \n\n-> pricing premium downstream like HBM would offset any product supply shortage.\n\n-> Japan manages to remove the export control InP ban in some way (unlikely)\n\n-> if $AXTI delivers the substrates at scale to western suppliers (after their $100m funding to double capacity), things will proceed.\n\nThat being said just wanted to offer another perspective on the drop since I haven’t really seen anyone comment on this from the supply chain angle.\n\nI personally removed some optical exposure risk after seeing the supply chain vulnerability this week from export controls and the new monopolistic bottleneck by $AXTI. But I’m not a short seller so I wouldn’t take advantage of it.\n\nI’m extremely bullish on the overall segment, but no clue what’s going to happen (whether risk-off selloff continues or rebound) for photonics players.",
+      "created_at": "Fri Jan 09 10:06:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2009567489773215744",
+          "url": "https://pbs.twimg.com/media/G-Nq_BwbIAA8ufE.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 194,
+        "reply_count": 18,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2009637599661510665",
+      "text": "I've initiated a position in $VLN ($155M MC).\n\nThis one is wild.\n\nValens is a AI semi for self-driving cars and robotics. \n\nI've found that markets messed up on VLS from a ticker collision data error. \n\nAnd missed new CES 2026 info this week. \n\nVLN has:  \n\n1. $93.5M in Cash, 0 Debt. \n2. ~$11M inventory\n3. High gross margins ~69.1% (CIB/ProAV) margins, 43.2% automotive. \n\nand projected to do $70M+ revenue with blended 63-65% gross margins, jumping from 43% from their automotive pivot from CES.  \n\nAt $155M MC. What? \n\nThis just looked way too off at first glance, so I had to do more research, whether it was revenue collapse, dilution, cashflow problems, or regulatory risk. \n\nWhat happened?\n\nThe mispricing was from an analyst/scanner typo regarding a $82M \"inventory burn\": \n\nVLN is effectively a company with $93.5M Cash and Zero Debt for an EV of ~$65M, while the market has punished it for an \"inventory crisis\" that literally does not exist. \n\nStreetwise's analysis + other scanners around Nov 13, 2025 typo'ed their report when they erroneously stated: \"Inventory of US$82 million remained in line with the end of the second quarter\".\n\nThe market and algorithms that scan for the reports thinks $VLN is sitting on >1 year of dead inventory ($82M) and burnt through their $93.5M cashpile on unsold chips.\n\nWe can mathematically prove this is a typo using the company's official Q3 2025 balance sheet:\n\nTotal Assets: $136.7M\nCash: ~$93.5M\nRemaining Room for Assets: $136.7M - $93.5M = $43.2M.\n\nIf inventory were actually $82M, Total Assets would have to be at least $175M ($93M cash + $82M inv). This inventory figure is mathematically impossible.\n\nAfter looking at their financial reports, they are sitting on just ~2 months of inventory ($11M), only selling what they make.\n\nThe analyst + algorithms wrote spread the report confused Valens Semiconductor (VLN) with Velan Inc. (https://t.co/oJVlzuwtoL), a Canadian industrial valve manufacturer (with that inventory amount). \n\nEven LLMs that read this, completely messed up and required manual review. \n\n $VLN actually only has ~$11M in inventory as a fabless chip company and did not burn through $82M. \n\nThis looks like a genuine market inefficiency because you are looking at a clean balance sheet ($93M cash, $11M inventory, $0 debt) that has been artificially suppressed because of $82M cash burn fears on dead inventory due to the type. \n\n_\n\nNow, the secondary aspect is new CES information that came out. \n\n$VLN spent years and millions on R&D for DSP engines for Mercedes, which presented single customer concentration risk for the automotive segment. \n\nBut from the CES release this week, they've effectively took the same that exact same engine, and managed to sell it to many hot verticals that have the exact same physics problem. They've also managed to scale their previous automotive segment with new T1 automotive OEMs. \n\nBut regarding their (VS6320 vs. VA7000) chipset, they are using the same Core IP (DSP).\n\nMedical Chip: They took the same engine from the auto chip and stripped out the car-specific features to create a Extender for the medical segment . \n\nAnd my favorite is the Machine Vision/Robotics vertical:\n\nThe new information is that with the RGo Robotics partnership they announced, RGo integrated Valens chips which allowed RGo to design robots where the cameras are far away from the brain without signal loss. And at CES they also announced one with CIS Corporation (a Japanese camera maker) for another specific robotics win. \n\nThey've effectively diversified their automotive segment into multiple other high growing + higher margin verticals for robotics computer vision to others. \n\nAgain, the alpha is that their new robotics segments announced at CES, operate on a 6-month sales cycle, not the 5-year automotive cycle. So revenue actually hits this year too. \n\nAlso, analysts were using blended automotive revenue (Mercedes, etc.) has lower gross margins (~42-45%). \n\nThe new growth coming in now (Robotics/Medical via VS6320) has significantly higher margins (VS6320 Gross Margin: ~69-70%), so the the blended gross margins will likely come in significantly higher than street consensus.\n\n_\n\nNow the downside?\n\nExtremely heavy dilution at $11.5 Strike from warrants (which is 10X+ from here). \n\nThis will cap upside if it ever increases 1000% from $1.5 to $11.5 \n_\n\nTLDR: \n\nThe market expected 2026 with high cash burn from inventory risk from a ticker collision typo. Instead, they are likely to get:\n\nRevenue and earnings beat (driven by new verticals and much higher blended margins ~69%+ from new chip).  As well as an $70M+ cashflow beat from the typo. \n\nWe could see $85-$92M revenue off 63-65% blended gross margins and that $82M+ in cash modeled back into this $155m company. \n\nThe algorithms are pricing $VLN as if it has <1 year of runway due to a phantom $82M inventory pile (off of a poison pill data point). So this is my own personal thesis from public information synthesis on why I entered this trade, NFI. \n\nSo while I don't expect this to be a $2B+ company, the current MC is just completely irrational pricing for a \n\n$155M MC semi:\n\n- with $93.5m in cash\n- $11m in inventory,\n- est. $80m+ revenue (growing 20%-30%+ Y/Y)\n- with 60%+ gross blended margins. \n\nFabless semi companies with 60%+ gross margins typically trade at 4x–8x EV/Revenue and sector average valuations would be $493.5M, from $155m as a conservative base case.\n\nJust slight \"AI/Robotics\" Premium, could value it at $653.5M with 7 E/V (~320%+)\n\nTLDR: Found that this company likely got artificially suppressed because of a typo + ticker collision from false $82M inventory burn and is about to enter a newer higher margin + growth cycle from new verticals. \n\nI am taking advantage of a database collision error.",
+      "created_at": "Fri Jan 09 14:45:15 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2009637584008515584",
+          "url": "https://pbs.twimg.com/media/G-OqvDIaEAAxdTl.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2009637584415424513",
+          "url": "https://pbs.twimg.com/media/G-OqvEpbAAE66rV.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2008910857003221451",
+        "text": "I've initiated a position in $OSS.\n\nI usually never say this but, this one is exciting.\n\nMarkets completely missed this 155M MC Drone Swarm, Ghost Fleet, USVs, Edge AI deploying US DoD contractor. \n\nAnd they especially missed OSS’s involvement in the Venezuela's invasion, that gave premiums to $AVAV and others. \n\nThis looks like an unholy long to me:\n\n1.  $41M cash (pro forma ets.) / $155M MC (low downside risk).\n2. Pure play Kinetic Defense\n3. 1 : 2.4x supply/demand. (backlogged from high demand)\n4. 45% gross margins. \n\nThe main interest was Venezuela as proof they're actively being used in the US military:\n\n$OSS P-8 Poseidon in Venezuela:\n\n- Flight tracking data confirmed that P-8A Poseidon aircraft from Patrol Squadron 40 (VP-40) were off the coast of Venezuela during the raid to monitor Venezuelan naval movements.\n\nOSS Link: On July 1 2025, OSS announced a $5M urgent order specifically to deliver \"61 Rugged Data Units\" for the P-8A Poseidon.\n\nSOCOM \"Capture Team\":\n\n- The raid to capture leadership was executed by US Special Operations Command (USSOCOM), specifically using maritime insertion teams (likely SEALs/SWCC) and the 160th SOAR (helicopters).\n\nOSS Link: On May 29, 2025, OSS signed a (CRADA) directly with USSOCOM to build edge computers for Maritime Environments. OSS built the battle-tracking servers for the stealth boats used to slip into the Venezuelan coast. \n\n\"Ghost Fleet\" Blockade:\n\n- \"Operation Southern Spear\" is currently using unmanned surface vessels (drone boats) to block oil tankers.\n\nOSS Link: The Navy's \"Task Force 59\" (and the newer 4th Fleet equivalent) uses the $OSS Rigel Edge Supercomputer for these drones because it is one of the few AI servers small enough to fit on a 40-foot robot boat.\n\nThis is literally combat validation in Venezuela. Of a small $155M stock. \n\nBefore everyone treated this company as a commodity like $SMCI (myself included), but I completely missed that their defense vertical (which is pure-play now after the Bressner sale) has 45.6% gross margins. \n\nOnly after I looked into it again after did I realize their other division was completely messing up margin calculations because of blended margins (from just re-selling defense gear).\n\nSo now we have a:\n\n~45% margins, AI military contractor valued at $155M business with $41m cash, with demand outstripping supply 2.4 to 1. \n\nI did an analysis later last year, which looked like $OSS was a supplier for Andruil or $PLTR, and was beginning their ramp up. \n\nLooking at it again post-sale, the 45% margin puts them into extremely stellar territory (compared to eg. Lockheed Martin, 12-14%) or commodity sellers (eg. $SMCI, $DELL 8-14%)\n\nThis is a specialized war-validated defense AI pure-play for drone swarms, ghost fleets, USVs, and others, with extremely high margins, at $155M MC.  \n\nI've found this to be an exciting re-discovery, so I've taken a position.",
+        "created_at": "Wed Jan 07 14:37:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2008910845913513984",
+            "url": "https://pbs.twimg.com/media/G-EVxUwawAAoD4i.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 84,
+          "favorite_count": 997,
+          "reply_count": 60,
+          "quote_count": 19
+        }
+      },
+      "stats": {
+        "retweet_count": 55,
+        "favorite_count": 769,
+        "reply_count": 83,
+        "quote_count": 42
+      }
+    },
+    {
+      "id": "2009702902420652084",
+      "text": "$VLN looks like an algorithmic short trade about to go terribly wrong.\n\nNot all algorithms read X, and are still modeling the company off -$82 million cash off the balance sheet from ticker collision typos.\n\nEven napkin math would be ~$7.30 (from $2.28 currently) share price.\n\nFrom forward 2027, $130M 5x EV/Sales + $93.5M net cash. On top of that VLN has $NVDA like margins for their robotics and non-automotive vertical. \n\nThis is a lightweight, high-margin fabless semi in premium verticles with a $93m+ cash pile and $11m+ in inventory. \n\nYet algorithms are pricing in <1Y runway with massive cash burns. \n\nThis is starting to look like one of the few instances where ticker collision goes terribly wrong for algorithms and amazingly right for retail who spotted this early on X.",
+      "created_at": "Fri Jan 09 19:04:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2009699180823097346",
+          "url": "https://pbs.twimg.com/media/G-PiwdJasAIZaHS.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2009699180827275264",
+          "url": "https://pbs.twimg.com/media/G-PiwdKacAAX6KI.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2009637599661510665",
+        "text": "I've initiated a position in $VLN ($155M MC).\n\nThis one is wild.\n\nValens is a AI semi for self-driving cars and robotics. \n\nI've found that markets messed up on VLS from a ticker collision data error. \n\nAnd missed new CES 2026 info this week. \n\nVLN has:  \n\n1. $93.5M in Cash, 0 Debt. \n2. ~$11M inventory\n3. High gross margins ~69.1% (CIB/ProAV) margins, 43.2% automotive. \n\nand projected to do $70M+ revenue with blended 63-65% gross margins, jumping from 43% from their automotive pivot from CES.  \n\nAt $155M MC. What? \n\nThis just looked way too off at first glance, so I had to do more research, whether it was revenue collapse, dilution, cashflow problems, or regulatory risk. \n\nWhat happened?\n\nThe mispricing was from an analyst/scanner typo regarding a $82M \"inventory burn\": \n\nVLN is effectively a company with $93.5M Cash and Zero Debt for an EV of ~$65M, while the market has punished it for an \"inventory crisis\" that literally does not exist. \n\nStreetwise's analysis + other scanners around Nov 13, 2025 typo'ed their report when they erroneously stated: \"Inventory of US$82 million remained in line with the end of the second quarter\".\n\nThe market and algorithms that scan for the reports thinks $VLN is sitting on >1 year of dead inventory ($82M) and burnt through their $93.5M cashpile on unsold chips.\n\nWe can mathematically prove this is a typo using the company's official Q3 2025 balance sheet:\n\nTotal Assets: $136.7M\nCash: ~$93.5M\nRemaining Room for Assets: $136.7M - $93.5M = $43.2M.\n\nIf inventory were actually $82M, Total Assets would have to be at least $175M ($93M cash + $82M inv). This inventory figure is mathematically impossible.\n\nAfter looking at their financial reports, they are sitting on just ~2 months of inventory ($11M), only selling what they make.\n\nThe analyst + algorithms wrote spread the report confused Valens Semiconductor (VLN) with Velan Inc. (https://t.co/oJVlzuwtoL), a Canadian industrial valve manufacturer (with that inventory amount). \n\nEven LLMs that read this, completely messed up and required manual review. \n\n $VLN actually only has ~$11M in inventory as a fabless chip company and did not burn through $82M. \n\nThis looks like a genuine market inefficiency because you are looking at a clean balance sheet ($93M cash, $11M inventory, $0 debt) that has been artificially suppressed because of $82M cash burn fears on dead inventory due to the type. \n\n_\n\nNow, the secondary aspect is new CES information that came out. \n\n$VLN spent years and millions on R&D for DSP engines for Mercedes, which presented single customer concentration risk for the automotive segment. \n\nBut from the CES release this week, they've effectively took the same that exact same engine, and managed to sell it to many hot verticals that have the exact same physics problem. They've also managed to scale their previous automotive segment with new T1 automotive OEMs. \n\nBut regarding their (VS6320 vs. VA7000) chipset, they are using the same Core IP (DSP).\n\nMedical Chip: They took the same engine from the auto chip and stripped out the car-specific features to create a Extender for the medical segment . \n\nAnd my favorite is the Machine Vision/Robotics vertical:\n\nThe new information is that with the RGo Robotics partnership they announced, RGo integrated Valens chips which allowed RGo to design robots where the cameras are far away from the brain without signal loss. And at CES they also announced one with CIS Corporation (a Japanese camera maker) for another specific robotics win. \n\nThey've effectively diversified their automotive segment into multiple other high growing + higher margin verticals for robotics computer vision to others. \n\nAgain, the alpha is that their new robotics segments announced at CES, operate on a 6-month sales cycle, not the 5-year automotive cycle. So revenue actually hits this year too. \n\nAlso, analysts were using blended automotive revenue (Mercedes, etc.) has lower gross margins (~42-45%). \n\nThe new growth coming in now (Robotics/Medical via VS6320) has significantly higher margins (VS6320 Gross Margin: ~69-70%), so the the blended gross margins will likely come in significantly higher than street consensus.\n\n_\n\nNow the downside?\n\nExtremely heavy dilution at $11.5 Strike from warrants (which is 10X+ from here). \n\nThis will cap upside if it ever increases 1000% from $1.5 to $11.5 \n_\n\nTLDR: \n\nThe market expected 2026 with high cash burn from inventory risk from a ticker collision typo. Instead, they are likely to get:\n\nRevenue and earnings beat (driven by new verticals and much higher blended margins ~69%+ from new chip).  As well as an $70M+ cashflow beat from the typo. \n\nWe could see $85-$92M revenue off 63-65% blended gross margins and that $82M+ in cash modeled back into this $155m company. \n\nThe algorithms are pricing $VLN as if it has <1 year of runway due to a phantom $82M inventory pile (off of a poison pill data point). So this is my own personal thesis from public information synthesis on why I entered this trade, NFI. \n\nSo while I don't expect this to be a $2B+ company, the current MC is just completely irrational pricing for a \n\n$155M MC semi:\n\n- with $93.5m in cash\n- $11m in inventory,\n- est. $80m+ revenue (growing 20%-30%+ Y/Y)\n- with 60%+ gross blended margins. \n\nFabless semi companies with 60%+ gross margins typically trade at 4x–8x EV/Revenue and sector average valuations would be $493.5M, from $155m as a conservative base case.\n\nJust slight \"AI/Robotics\" Premium, could value it at $653.5M with 7 E/V (~320%+)\n\nTLDR: Found that this company likely got artificially suppressed because of a typo + ticker collision from false $82M inventory burn and is about to enter a newer higher margin + growth cycle from new verticals. \n\nI am taking advantage of a database collision error.",
+        "created_at": "Fri Jan 09 14:45:15 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2009637584008515584",
+            "url": "https://pbs.twimg.com/media/G-OqvDIaEAAxdTl.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2009637584415424513",
+            "url": "https://pbs.twimg.com/media/G-OqvEpbAAE66rV.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 55,
+          "favorite_count": 769,
+          "reply_count": 83,
+          "quote_count": 42
+        }
+      },
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 272,
+        "reply_count": 29,
+        "quote_count": 6
+      }
+    }
+  ]
+}

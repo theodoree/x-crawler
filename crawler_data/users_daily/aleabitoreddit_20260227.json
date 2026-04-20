@@ -1,0 +1,330 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208947,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260227",
+  "last_updated": "2026-04-20T16:21:33.638986",
+  "tweet_count": 10,
+  "tweets": [
+    {
+      "id": "2027184821173416261",
+      "text": "$KOSPI and $EWY, South Korea’s index is something people shouldn’t try to TA or compare to stuff like Silver.\n\nSK index is in price discovery mode as it’s carried by two stocks: \n\nWhose operating profit projections from Morgan Stanley and Macquarie are:\n\nSamsung\n2026: ~$182.0B - ~$210.8B USD\n2027: ~$235.1B -  ~$333.7B USD\n\nSK Hynix:\n2026: ~$132.9B - ~$190.5B USD\n2027: ~$167.0B - ~$312.8B USD\n\nIf SK Hynix is valued at $500B and their projected operating income for FY 2026 and 2027 is $510B. \n\nIt just looks silly. (From Macquarie's bull case projections on the right)\n\nI’d probably go off Morgan Stanley projections instead (which is a lot more grounded) but the point still stands that these companies are just so profitable. \n\nWouldn’t be surprised if Samsung were trading at $2.5T in the future (from $1T now).\n\nIt does have that same feeling as $TSM 2 years ago, where it looks like a no-brainer long.",
+      "created_at": "Fri Feb 27 00:51:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027184738688192512",
+          "url": "https://pbs.twimg.com/media/HCIBx4OaUAASsCA.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2027184738688282624",
+          "url": "https://pbs.twimg.com/media/HCIBx4ObsAApD_J.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 52,
+        "favorite_count": 630,
+        "reply_count": 41,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2027275242628948103",
+      "text": "$AAOI is another photonics name that has just doubled in the last two months!\n\nFeels like every photonics company from $AXTI and $AAOI has been doubling or tripling recently?\n\nI’ve dubbed this the “Elite Four” for photonics exposure:\n\n1. $LITE (High BOM of the TPU)\n2. $AXTI (Materials for Eveything) \n3. $COHR (huge part of supply chain)\n4. $AAOI (made in America)\n\nOthers like $IQE I’ve personally added recently slightly more for risk-on portfolios (epiwafer foundry for $LITE and others), but don’t have a great financial profile.\n\nThat being said glad 2 months later, a lot of these names are taking off",
+      "created_at": "Fri Feb 27 06:50:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027275235784081408",
+          "url": "https://pbs.twimg.com/media/HCJUFgLbQAAd3_Q.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2003259964526330053",
+        "text": "$AAOI is up 24% and $LITE is 5% since my thesis today.\n\nFrom BOM analysis, LITE ($27B) is levered toward TPU Ironwood due to OCS but benefits from NVDA + all ASICs.\n\nAAOI ($2.5B), is levered toward MSFT MAIA ramp and Amazon Trainium.\n\nInP like HBM, will be a bottleneck for 2026 as they’re the foundational materials used for lasers in these deployments. \n\nSimilar to memory bottlenecks with Micron and SK Hynix, we’ll likely see attention drawn to InP fabs, such as $AAOI, which happens to be one of the sole ones in America (COHR,Macom)\n\nBut compared to $LITE that is up 362% YTD due to the success of Google’s TPU (from Meta and Anthropic purchase orders), $AAOI is only up 7% YTD.\n\nWe’re largely seeing this because there’s a lack of retail or media attention on the $AMZN Trainium or $MSFT Maia deployments, which are largely expected to ramp up in 2026-2027. \n\nHowever they’re all likely to succeed due to each hyperscaler wanting to lower costs of inference for their own cloud platform.\n\nIf we see other hyperscalers adopt OCS for optimized performance that the TPU achieved, expect $LITE to re-rate more than they have now given their monopoly in that specific segment.\n\nHowever, if we see $MSFT Maia ramp up (given $AAOI is likely developing a new architecture for them), and $AMZN Trainium ramp up ($4B warrant + purchase orders), expect $AAOI to rerate.\n\nPhotonics and InP will be the new bottleneck like memory. \n\nWe’ll likely see investments pour down stream to players like $COHR, Innolight, $LITE, and hidden levered plays on specific hyperscaler ASICs like $AAOI as a theme in 2026.\n\nThe market is currently rewarding the Google TPU supply chain but might be missing other hyperscaler ASIC ramps.",
+        "created_at": "Tue Dec 23 00:22:48 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2003259957140246528",
+            "url": "https://pbs.twimg.com/media/G80CUTob0AAS05x.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208947,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 27,
+          "favorite_count": 323,
+          "reply_count": 20,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 73,
+        "favorite_count": 657,
+        "reply_count": 45,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2027318568728273305",
+      "text": "Here's a deeper look into $IQE ($179M):\n\nIQE's hidden InP optionality versus LandMark's $3.5B valuation. And the $IREN / $CRWV \"miner\" pivot to photonics: \n\nBefore I did a high-level shower thought overview eg. $AXTI -> $IQE -> $LITE -> $GOOGL TPUs, but this is slightly more DD. \n\nBasically: IQE is the largest independent merchant compound semi epitaxial foundry in the world by reactor count and physical capacity. \n\nHowever, it's trading at distressed valuations because it's burdened by a low-margin legacy wireless business, and near-term liquidity constraints. \n\nLandMark Optoelectronics (TPEX: 3081) is the closest comparison. As a pure-play proxy for AI InP demand in the 800G and 1.6T optical interconnect market, LandMark commands a ~$3.8B billion market cap with large premiums in comparison to $IQE which is trading at a $175M MC. \n\nBut if you look deeper at the physical hardware, the disconnect is pretty fascinating:\n\nLandMark's operational scale is physically limited. They only operate around 27 to 30 Metal-Organic Chemical Vapor Deposition (MOCVD) reactors out of a single campus in Taiwan per some estimates. \n\nIQE, by stark contrast, possesses well over 100+ MOCVD and MBE systems globally. \n\nThe underlying replacement value and structural capacity of IQE’s photonics asset base looks to vastly exceeds its current public market valuation.\n\nKind of like if a Bitcoin miner has 3GW capacity, vs 750 MW, there's large optionality to monetize it if they convert it.  \n\nAnd we're seeing an transceiver bottleneck too: \n\n-> The downstream demand for optical transceivers is experiencing unprecedented acceleration.\n\n-> Extreme demand, from $GOOGL, $MSFT, $AMZN and others flow directly up the hardware supply chain.\n\nThis puts immense pressure on transceiver integrators like Innolight, optical component manufacturers like $COHR, $LITE, and $AVGO, and ultimately, the merchant epitaxial foundries that grow the raw epiwafers required for the foundational laser chips. \n\nAnd since other players are hitting a physical capacity ceiling, vertically integrated players like $COHR are capped out, hyperscalers and module makers are desperate for alternative capacity in players like $IQE\n\nAnd..\n\nHidden entirely beneath IQE's consolidated corporate lines is a massive fleet of Aixtron AIX 2800G4-TM reactors. \n\nThese are natively dual-capable (GaAs/InP) and can be repurposed for InP production at a relatively modest cost ($500K-$1.5M per reactor) but take few months or year to refactor. And obviously qualification and yield risk added to execution (similar to Bitcoin miners doing software orchestration to GPUs like $CRWV). \n\nBut still,  IQE has the capacity kinda like $IREN or Bitcoin miners that pivoted to HPC. And LandMark is proof of the valuation pure play exposure brings. \n\nThe Major Question..  Unlocking Trapped Value:\n\nWhile IQE generates significantly higher top-line revenue than LandMark, it's priced ($175M MC) for bankruptcy because of its gross debt of 45M. \n\nBut the debt looks like pennies to hyperscalers:\n\nThe explicit, stated goal of their ongoing Lazard-advised strategic review is to definitively conclude the sale of IQE Taiwan (their legacy GaAs wireless business) and utilize the proceeds to completely and permanently extinguish the parent company's restrictive debt profile.\n\nOnce again their convertible loan notes is a norminal face value of £21.2 million, for proceeds of £18 million for the company. Then they're net debt, £23.5 million. \n\n-> The immediate debt burden requiring clearance: £23.5M HSBC facility + £21.2M CLN = ~£45M.\n\nAssuming a highly sale price for the IQE Taiwan unit of between £100 million and £150 millio (not guaranteed), IQE would net £50 million to £100 million in surplus cash after becoming completely debt-free. \n\nHowever, RF GaAs is not currently \"hot\", so in a distressed asset sale it might only be £50M to £60M, which gives it enough room to clear debt alone and little cushion room. \n\nThe Geopolitical Pivot:\n\nOnce debt-free, IQE can shift its massive, currently underutilized manufacturing capacity in places like North Carolina and Wales toward the InP epiwafer market for datacenters.\n\nIt creates a fully capitalized, purely Western-based supply chain for the most critical bottleneck in photonics, eliminating more dependency on Asia at a time when the US and UK are heavily prioritizing domestic semiconductor infrastructure.\n\nBasically, just given the amount of raw assets $IQE has:\n\n -> Successfully selling off their Taiwan business wipes out the going-concern risks, clears all debt, and leaves them to monetize their 6-inch inp epiwafer tech directly for the Tier 1 optical transceiver players.\n\nIt's a deep asset value trade on a successful restructuring to unlock trapped value. And a currently well-known supplier for optical networking for hyperscalers (so not a science project). \n\nDownside risks are excessive dilution and failure to restructure. But given it's geopolitical importance to Western supply chains and hyperscaler supply chains, it seems to have more cushion. \n\nI personally decided to enter this long as a massive potential turnaround. But again, it's not for everyone and it's extremely high risk. \n\nTLDR:\n\n-> IQE is priced like a distressed RF supplier.\n-> It owns real photonics-capable infrastructure. \n-> If gross 41M debt is removed and management reallocates capex toward InP, the equity could rerate materially.\n-> Restructuring + capacity optionality trade with extreme risk but extreme upside. \n\nClosest comparison is Bitcoin miners like $IREN or $CIFR that pivot their GW capacity to AI HPC. They have a ton of physical hardware (GW capacity), and need funds to pivot (either through sale of Taiwan business or dilution). \n\nIt's an optimistic trade I took they can do it (with wiggle room like $INTC given their geopolitical importance to the West). \n\nThe downside is extreme dilution, which is always a possibility (meaning your equity gets wiped out to 0 to clear their debts or to help them refactor). \n\nI just found that 45M gross debt (14.4% of float + debt) wasn't the most and management was looking to clear that through asset sales rather than dilution to shareholders. \n\nJust wanted to publish deeper breakdown and more risks of this very binary **high risk**, but potentially high upside trade.",
+      "created_at": "Fri Feb 27 09:43:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027318171091582976",
+          "url": "https://pbs.twimg.com/media/HCJ7IqqbwAA6YKN.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 57,
+        "favorite_count": 707,
+        "reply_count": 65,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2027367183924211791",
+      "text": "Bunch of false posts regarding $KOSPI volume.\n\nJust an FYI: this week is MSCI index rebalancing for $EWY and other passive funds. \n\nThere’s a lot of forced rebalancing, mainly mechanical (to trim weights) and retail “Ants” are net buyers via ETFs. \n\nDon’t know why media is trying to spin a mechanical rebalancing and passive fund trimming as “retail vs institution” because they don’t know how things work.\n\nJust more volatility is expected around rebalancing times with possible arbitrage opportunities.",
+      "created_at": "Fri Feb 27 12:56:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027367159983382528",
+          "url": "https://pbs.twimg.com/media/HCKnsMgaIAALEiL.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 211,
+        "reply_count": 16,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2027393372953174177",
+      "text": "The \"AI is Disrupting Software but Not Really\" Bucket. \n\nHere's my personal list of favorites:\n\n$RDDT ($149, -37.47% YTD): 10/10 \n$NFLX ($84.61, -30.85% 6M): 9/10\n$NET ($169.5, -13.55% YTD): 10/10\n$SPOT ($488, -15.2% YTD): 9/10\n$SNAP ($5.13, -38.1% YTD): 10/10\n$DUOL ($85.3, -60.92% YTD): 6/10\n$PINS ($17.5, -34% YTD): 8/10\n$U ($18.83, -59.3% YTD): 8/10\n$FIG ($28.93, -23.65% YTD): 7/10\n\nReddit - 10/10: You can vibe code Reddit in a day with Opus. But the main thing is \"Network Effect\" that you can't replicate.\n\nYou can ask ChatGPT or Gemini a question, but main thing is the type league of legends post-match discussions or human discourse that people use reddit for. \n\nNetflix - 9/10: You go to Netflix for squid games and others. I'm sure AI will help with generation of new  viral movies or TV shows, but you will still use Netflix or Youtube to watch it. \n\nPeople are still going to watch licensed Anime like Solo Leveling or the newest Alice in Borderlands show over AI generated contnet.\n\nCloudflare 10/10: I don't see how AI would disrupt Cloudflare. \n\nSpotify - 9/10: Biggest disruption is Apple Music just not charging for services (which likely won't happen). There's AI generating music but like Youtube, you use Spotify to listen to it. You can try and vibe code Spotify sure, but a large part of it is licenses. \n\nAI generated music will not go out and replace Martin Garrix EDM soundtracks (where a large part of it is knowing the song -> going to music festivals in person) or Taylor Swift Love Story type songs (where you also go in person to see concerts). \n\nSnapchat - 10/10: Same with network effect only reason it works is because everyone agrees to use it. Their issue is with monetization and excessive stock based compensation, not AI disruption. \n\nDuolingo - 6/10: I made fun of Duolingo for the longest time, but it's decent valuation again after the selloff to $86. Yes you can learn languages through Gemini, which I do myself. But most people are still going use Duolingo as more of a motivational tool. \n\nThere's name recognition too + convenience, which is the biggest factor. People can vibe code their own Duolingo but that doesn't mean people will use it on the app store or go out and code it themselves. \n\nPinterest - 8/10 - It's human related taste. People are fearing agentic commerce and generative AI (Midjourney, DALL-E) will disrupt this type of search, which people don't really use Pinterest for. \n\nUnity - 8/10: Everyone uses Unity for 4D AI and World Models. People fear stuff regarding generative gaming, but it's still widely used. Their main issue is monetization from AI usage, not disruption. \n\nFigma - 7/10: AI is right now is mainly for porting your figma files over to html/css/js. Not exactly for disrupting the need for the software. \n\nMaybe it's just me but there's a certain human element to design and creativity that AI can't emulate yet for wireframing (it's good at copying and doing something relatively new). I highly doubt AI can one-shot Tempo or $XYZ websites. \n\nFor others like $V and Mastercard, I do genuinely believe  interchange and % based fees maybe end as AI handles direct payment routing through $CRCL stablecoins. And for others like $CHGG, they have legitimately been disrupted out of existence already. \n\nFor the rest like $RDDT and $NFLX, everyone will still go there for discussions or to watch Squid Games, and AI has no material disruptive effect.  \n\nGoing to be hard to time the bottom as fear has overtaken the market with software, but many, such as Reddit present a great opportunity.",
+      "created_at": "Fri Feb 27 14:40:21 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027387902175666176",
+          "url": "https://pbs.twimg.com/media/HCK6jjMa4AAWnBG.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2027387908576145408",
+          "url": "https://pbs.twimg.com/media/HCK6j7CacAAOc6M.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 51,
+        "favorite_count": 770,
+        "reply_count": 74,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2027423754134126900",
+      "text": "It can’t just be me right?\n\nMy timeline is basically:\n\nAsian investors and analysts cheering on their companies like Nittobo or Seikoh Giken going up 5-10% a day.\n\nThen every US investors posting loss screenshots from $CRWV, $EOSE, and $DUOL crashing 5-10% a day.\n\nCompletely binary… \n\nYou all know that you can have both US equities and Asian equities right?",
+      "created_at": "Fri Feb 27 16:41:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027423746831859712",
+          "url": "https://pbs.twimg.com/media/HCLbJ-8awAA8pP3.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2027423746924093440",
+          "url": "https://pbs.twimg.com/media/HCLbJ_SaIAADL97.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 635,
+        "reply_count": 41,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2027435474793730240",
+      "text": "Holy $AAOI …\n\nJust putting it out there they’re projecting $378 million in monthly revenue for transceivers. \n\nAt a $5.5B MC.\n\nThis is the definition of extreme scale up. \n\nAlthough margins are different, $AAOI projections would actually surpass $LITE next quarter guidance by 40%:\n\n\"Given the recent surge in customer inquiries and apparent rising demand, we believe that by mid-2027, 100G and 400G revenue will be approximately $90 million. 800G revenue will be approximately $217 million and 1.6 terabit revenue will be approximately $71 million monthly. Altogether, this represents $378 million in monthly revenue for transceiver products.\"\n\nAbsolutely unholy projections unseen since $SNDK earnings.",
+      "created_at": "Fri Feb 27 17:27:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027435467910877187",
+          "url": "https://pbs.twimg.com/media/HCLl0PXbEAMoa8A.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 55,
+        "favorite_count": 659,
+        "reply_count": 56,
+        "quote_count": 12
+      }
+    },
+    {
+      "id": "2027447224188473736",
+      "text": "After earnings, $AAOI could easily be a $25B-$30B company next year from $5B if they hit their projections. \n\nAnd they're one of the only \"Made in America\"  (Sugarland, Texas) companies out of\n\n- $LITE (global)\n- $COHR (global)\n- $FN (Thai)\n- $AVGO (global)\n- Innolight (China), and Eoptolink (China). \n\nSo they likely get that \"America\" premium like $INTC compared to $TSM and $MU compared to Sk Hynix. \n\nBut from revenue: \nFY Revenue: $456 million\n2027 ARR by : $4.536B (~900%+ growth). \n\nOff high 30's - low 40% projected margins + hyperscaler qualifications. \n\nThis is wild. But there was a $250M ATM, but that's typically pennies compared to the projection. \n\nThis part is extremely interesting: \n\n-> Management stated that demand and capacity for 800G, 1.6T modules could surge nearly 10x by mid-2027. \n\nThis is also a large tailwind for epiwafer companies too like $IQE and Landmark and more upstream like $AXTI. \n\n$AAOI is a core hold over 2026-2027, but there's always execution risks if they can deliver. \n\n$25-30B MC projections sound surreal but that's how wild the earnings was if they hit $4.35B ARR, off 900%+ growth (and photonics scale up is likely to continue even further into 2028-2029)",
+      "created_at": "Fri Feb 27 18:14:21 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027446825511489538",
+          "url": "https://pbs.twimg.com/media/HCLwJVubEAIz3v1.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2027435474793730240",
+        "text": "Holy $AAOI …\n\nJust putting it out there they’re projecting $378 million in monthly revenue for transceivers. \n\nAt a $5.5B MC.\n\nThis is the definition of extreme scale up. \n\nAlthough margins are different, $AAOI projections would actually surpass $LITE next quarter guidance by 40%:\n\n\"Given the recent surge in customer inquiries and apparent rising demand, we believe that by mid-2027, 100G and 400G revenue will be approximately $90 million. 800G revenue will be approximately $217 million and 1.6 terabit revenue will be approximately $71 million monthly. Altogether, this represents $378 million in monthly revenue for transceiver products.\"\n\nAbsolutely unholy projections unseen since $SNDK earnings.",
+        "created_at": "Fri Feb 27 17:27:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027435467910877187",
+            "url": "https://pbs.twimg.com/media/HCLl0PXbEAMoa8A.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208947,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 55,
+          "favorite_count": 659,
+          "reply_count": 56,
+          "quote_count": 12
+        }
+      },
+      "stats": {
+        "retweet_count": 93,
+        "favorite_count": 817,
+        "reply_count": 40,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2027480850397573567",
+      "text": "$AAOI's 10x projected rev surge in optical transceiver demand by 2027 for $4.3B ARR off a $5.5B MC... \n\nIs enormous.\n\n$LITE and $COHR might be crowded, but.\n\nWe'll likely see rotation upstream like:\n\n$ASML-type suppliers:\n\n- Aixtron (ETR: AIXA): ~75% share for inp MOCVD\n- $VECO - MOCVD and MBE (Molecular Beam Epitaxy) systems, probably second.\n- Oxford Instruments: Supplier to $AAOI and $COHR for plasma etch and deposition systems\n\nMerchant Epiwafer Fabs (Foundaries for photonics):\n\n- $IQE: largest outsourced compound semiconductor epiwafer manufacturer. Basically $TSM of photonics world but lot of legacy drag.\n- LandMark Optoelectronics: Most direct, pure-play for optical transceiver unit growth\n- IntelliEPI (TPE: 2462): MBE rather than MOCVD to create high-performance InP epiwafers\n\nRaw Substrate Suppliers (base materials):\n- $AXTI/ Sumitomo : everyone knows by now\n\nTransceiver ramp projections is staggering, and this is only 2027.\n\nIt's likely exponentially increasing into 2028.\n\n$AAOI's record-breaking earnings signals the start of a new paradigm for photonics, it's a great idea to get exposure.",
+      "created_at": "Fri Feb 27 20:27:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027480373916221440",
+          "url": "https://pbs.twimg.com/media/HCMOqHRaQAAGVz-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 103,
+        "favorite_count": 968,
+        "reply_count": 48,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2027488567971443170",
+      "text": "$AAOI looks like an early $SNDK. And is likely going much higher than a $5.5B MC over the next year. \n\nOn their earnings call:\n\n- 3 hyperscale customers (probably $GOOGL, $AMZN, $MSFT)\n\n- \"they would like to buy all the transceiver we can make for 800G and 1.6\". - completely sold out, like memory.\n\n- 900%+ revenue growth forecast to $4.3B off $5.5B MC.\n\nThere is unprecedented demand for photonics, and $AAOI just confirmed it. \n\nAnd they can always begin price hikes to increase gross margins from 40%. Of course there are execution risks... \n\nBut this is one example where you look at fundamentals over chart.",
+      "created_at": "Fri Feb 27 20:58:38 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2027488317336592384",
+          "url": "https://pbs.twimg.com/media/HCMV4e0aIAAiAol.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2027447224188473736",
+        "text": "After earnings, $AAOI could easily be a $25B-$30B company next year from $5B if they hit their projections. \n\nAnd they're one of the only \"Made in America\"  (Sugarland, Texas) companies out of\n\n- $LITE (global)\n- $COHR (global)\n- $FN (Thai)\n- $AVGO (global)\n- Innolight (China), and Eoptolink (China). \n\nSo they likely get that \"America\" premium like $INTC compared to $TSM and $MU compared to Sk Hynix. \n\nBut from revenue: \nFY Revenue: $456 million\n2027 ARR by : $4.536B (~900%+ growth). \n\nOff high 30's - low 40% projected margins + hyperscaler qualifications. \n\nThis is wild. But there was a $250M ATM, but that's typically pennies compared to the projection. \n\nThis part is extremely interesting: \n\n-> Management stated that demand and capacity for 800G, 1.6T modules could surge nearly 10x by mid-2027. \n\nThis is also a large tailwind for epiwafer companies too like $IQE and Landmark and more upstream like $AXTI. \n\n$AAOI is a core hold over 2026-2027, but there's always execution risks if they can deliver. \n\n$25-30B MC projections sound surreal but that's how wild the earnings was if they hit $4.35B ARR, off 900%+ growth (and photonics scale up is likely to continue even further into 2028-2029)",
+        "created_at": "Fri Feb 27 18:14:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2027446825511489538",
+            "url": "https://pbs.twimg.com/media/HCLwJVubEAIz3v1.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208947,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 93,
+          "favorite_count": 817,
+          "reply_count": 40,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 97,
+        "favorite_count": 1310,
+        "reply_count": 42,
+        "quote_count": 16
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251231",
+  "last_updated": "2026-04-20T16:21:33.658186",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2006301094394335399",
+      "text": "Finally took a deeper look at $MRVL. \n\nMy first reaction: What are the markets and analysts/news smoking? \n\nRevenue derived from Maia ramp is literally double $MRVL's FY 2025 revenue. \n\nIf we look at the numbers, it's staggering: \n\nMarvell is modeled to take in $10-$12B in revenue (Fubon) in Microsoft Maia ramp in 2027. Alone.\n\nTo put that in perspective, Marvell's FY 2025 revenue was $5.77B. \n\nNo matter how I look at it, Marvell looks like a strong Broadcom competitor (after Celestial acqusition) and a terrific long.\n\nBut... The Information / Benchmark released news that:\n\n- Microsoft is negotiating with Broadcom to displace Marvell in future generations.\n- Amazon Trainium 3 and 4 designs went to Taiwanese competitor Alchip Technologies.\n\ncausing a massive selloff. \n\nAfter looking into it more, how is this even possible?\n\n\"Marvell Technology declines after Benchmark Equity Research downgrades the stock, citing a loss of Amazon’s AI chip business.\"\n\n\"Benchmark believes Marvell lost Amazon’s Trainium 3 and 4 designs to Alchip, despite Marvell’s recent forecast of strong data-center growth.\"\n\n- Trainium 3 production are locked to Marvell's design. You can't \"swap\" to Alchip without designing an entirely new chip from scratch.  If you want to share scope, sure but the wording is absolutely atrocious. \n\n$MRVL already secured Trainium 3 orders from $AMZN throughout 2026, why in the world would Amazon cancel them all and then go with a new vendor? \n\nThere can be different scope, additional design services, etc. but the framing from all the news sounds like $MRVL is being displaced. \n\nBenchmark itself later walked it back materially after causing damage (via more \"industry discussions\") and said Marvell did not lose Trainium 3/4 outright, but that Amazon added Alchip for additional design support while Marvell retains a position. \n\nBut the damage has already been done to stock price. \n\nAs for The Information report on $MSFT Maia loss to Broadcom this is sensational journalism. \n\nJP Morgan later literally came out and basically said it's all false, \"there has been no ASIC program share loss\".\n\nOn the Microsoft deal, markets completely missed the nuance between \"immediate displacement\" and \"future generation\" discussions. \n\nThe physics of this make an immediate swap impossible from Maia to Broadcom without incredible multiple-year delays.\n\nTo replace Marvell with Broadcom for the Maia 300 now would require scrapping the entire 2nm mask set, redesigning the I/O ring, and restarting a 3-year validation cycle. Marvell’s specific SerDes Is is also embedded in the chip’s I/O ring (retimers and switches comms). If Microsoft targets a 2027 ramp for Maia 300, the chip must be in validation phase by mid-to-late 2026. This implies the physical design is already frozen or nearing freeze today.\n\nA new ASIC design with $AVGO today (Dec 2025) would face this minimum timeline:\n\n- Architecture & RTL (12 months): Logic definition and IP selection.\n- Physical Design to tape ot (9-12 months)\n- Mask prod & Fab (3-5 months): TSMC 2nm cycle.\n- Post-Silicon validation (6-9 months)\nTotal Time: ~30–38 months.\n\nEven if this is sped up by many months, these \"Discussions with $AVGO \" not be ready for volume deployment until 2028 at the very earliest. To hit the 2027 ramp timelines, Microsoft must ship the Marvell design.\n\nThen there's Microsoft’s rack infrastructure uses Marvell’s \"Alaska\" retimers and DSPs in the cables.\n\nMicrosoft would have to:\n\n- Re-qualify the signal integrity of every cable and backplane in the rack.\n- Rip out Marvell retimers from the motherboard and replace them with Broadcom versions\n\nAs well as change their custom liquid-cooling rack  \"sidekick\", which was specified toward specific distribution of the $MRVL Maia chip’s floorplan. A $AVGO chip would have a completely different physical floorplan and thermal density and they'd need to regineer the rack.\n\nSo market are completely trolling if when they price in immediate displacement risk and trade on TMZ-style discussion gossip rumors that Microsoft wanted to explore options.  \n\n$MRVL CEO even went out and said they have \"purchase orders in hand\" for the entirety of the next year's forecast. 2026 forecasts are probably light because $AMZN and $MSFT both faced delays on their ramp. \n\nBut if you look at longer term Q4 2026 into 2027, we  just from their orders and Maia 300 alone: even just estimating $7.72 EPS from ~$20.0B revenue, 30x P/E (they've traded 35-40 before), would be $231.60/share from $85 if you want to wait 2 years. \n\nSo TLDR: The whole “replacement” theory is extremely completely misinterpreted and is just noise. Normally, I wouldn't write a whole post on it, but seeing The Information and other news pop up again, and again, spreading misinformation through sensational wording is just crazy.  \n\nThere's a physical impossibility of a mid-cycle swap and market misunderstanding of displacement. So the recent sell-off looks like a solid buying opportunity.\n\nAs for future discussions, of course any company would want vendor diversification. $MRVL can go do the same with $META MTAI future generations too if Meta wants to multi-source away from Broadcom. \n\nIf you model just by single project Maia 300 alone and ignore media noise, $MRVL looks incredibly promising.",
+      "created_at": "Wed Dec 31 09:47:10 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2006296396106997760",
+          "url": "https://pbs.twimg.com/media/G9fL8UQaoAAPL_g.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 37,
+        "favorite_count": 345,
+        "reply_count": 29,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2006434445205930103",
+      "text": "Happy New Year! \n\nThe strangest “seasonal anomaly\" is the January Effect for mean reversion rallies.\n\nLook for beaten down names like \n\n$MSTR -53.9%, $HIMS -41.9%, or $SMCI -38.63% on 3M charts or companies like $SNAP -25% YTD, $MRVL -23% YTD\n\nThe primary candidates have strong forward earnings, but are down like Snapchat (perplexity, memory monetization), SMCI (50%+ forward y/y growth but dropped on q1->q2  backlog delay), or Marvell with triple digit revenue growth from Maia down the road. \n\nThe EoY tax harvesting is in full effect for the markets and this causes artificial downward pressure.\n\nSo, while you’re shopping for new year discounts, make sure to check there isn’t something fundamentally too broken. (Eg. MSTR is more risky because of MSCI delisting)\n\nBut, historically, these tend to rise first month of the year if they had accelerated sell offs due to end of year tax losses. This trend presents one of the most rewarding opportunities for traders.",
+      "created_at": "Wed Dec 31 18:37:04 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2006434438159429632",
+          "url": "https://pbs.twimg.com/media/G9hJfa-acAAFyNw.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2006434438163607555",
+          "url": "https://pbs.twimg.com/media/G9hJfa_aMAMwa6N.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 168,
+        "reply_count": 17,
+        "quote_count": 1
+      }
+    }
+  ]
+}

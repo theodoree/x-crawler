@@ -1,0 +1,104 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208947,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260219",
+  "last_updated": "2026-04-20T16:21:33.642518",
+  "tweet_count": 4,
+  "tweets": [
+    {
+      "id": "2024322169376035019",
+      "text": "The funniest beneficary if US invades Iran was:\n\nPistachios.\n\nNot even joking. \n\nDid you know US (California) and Iran operate a virtual duopoly in pistachio production? \n\nThis is the $AXTI InP situation as the two control ~70-80% of the world’s supply.\n\nCompanies like $JBSS might benefit from Pistachio prices going up (if California becomes a monopoly)\n\nUnfortunately there’s no Pistachio Futures, so I’m not taking any positions but I just found this fun fact amusing, so wanted to share.\n\nI’ll do another writeup on more nuanced second order effects and potential longs soon.\n\nUS strikes seem likely so standard oil  like $CVX or $XLS and Defence like $AVAV or $ITA might be good longs/hedges here.",
+      "created_at": "Thu Feb 19 03:16:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024322162149187584",
+          "url": "https://pbs.twimg.com/media/HBfWR_naYAAzskZ.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2024322162145046528",
+          "url": "https://pbs.twimg.com/media/HBfWR_mbMAAP6oT.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 33,
+        "favorite_count": 653,
+        "reply_count": 44,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2024357272085012595",
+      "text": "A new benchmark shows Chinese AI models (Kimi, Minimax, DeepSeek) are much further behind Western frontier AI models than markets expect.\n\nLLMs from Opus, Gemini, GPT and are shown to be leading. \n\nA new benchmark called SWE-rebench uses new GitHub tasks:\n\n-> Minimax claimed 80.2% on the original SWE-bench. \n\n-> On the uncontaminated SWE-rebench, it crashed to 39.6%.\n\nThe takeaway: \n\nChinese labs have effectively solved single-prompt reasoning and discrete coding tasks at a fraction of the cost. \n\nHowever, the architecture and high-quality data required for long-horizon behavior remain a severe bottleneck that distillation and optimizing for benchmarks cannot fake.\n\nChinese models are shown to be lagging to the deep, adaptable reasoning that US hyperscalers have.",
+      "created_at": "Thu Feb 19 05:35:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024357264942125059",
+          "url": "https://pbs.twimg.com/media/HBf2NPtbUAMq9Gw.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 51,
+        "favorite_count": 418,
+        "reply_count": 44,
+        "quote_count": 21
+      }
+    },
+    {
+      "id": "2024408036203516182",
+      "text": "The Financial Times piece on $RPI seems disingenuous.\n\nEspecially the framing of \"Raspberry Pi\" as a Meme stock.   \n\n1. There's been 0 mentions about shorts\n\n2. It's completely unrelated to $GME's short squeeze + hold \"meme-stock\" narratives. \n\nThis is informed flow from material revenue changes.\n\nEspecially when Raspberry Pi is an already profitable company.  \n\nMy exact quote verbatim: \n\n \" \n- ~$280M- $300M revenue  \n- ~$75M+ Gross Profit  \n- ~25% Gross Margin  \n- Net income: ~$10M - $15M  \n- Net Cash: $28M\"\n\nAnalysts currently project revenue growth closer to 14–17%.    \n\nBut if the demand influx continues, we might see revenue numbers might hit increase from 14% growth to a modest 48-55% if hoarding continues.\n \"  \n\n$AAPL mac minis has been known to be hoarded for OpenClaw deployments. But Apple devices purchases have little material impact on a $3.7T company.  \n\n$RPI is the other leading hardware of choice for OpenClaw agentic orchestration, causing a surge of demand. \n\nBut due to the market cap, a surge in demand increase does have a material impact.   \n\nThis is purely fundamental revenue increases and a new addressable market.\n\nFraming it as $GME-type rally around squeezing opposition shorts, when there's been 0 mentions of shorts whatsoever is disingenuous.",
+      "created_at": "Thu Feb 19 08:57:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024407426884390914",
+          "url": "https://pbs.twimg.com/media/HBgj1DgbUAIHUcu.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 145,
+        "reply_count": 26,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2024556607762550943",
+      "text": "Trade Idea: Long OTM $XLU leaps (2 years, Dec 2027/Jan 2028).\n\nThis feels like once-a-generation long due to AI. \n\nXLU has concentration in $VST / $CEG power companies. \n\nTwo reasons:\n\n1. Paradigm shift due to AI DC electricity usage.\n\n2. Low option IV (~14%) based on historical averages (flat since 2000s).\n\nAI power usage is astronomical. \n\nThis cannot be understated.\n\nNever before in history have DCs use up this much GWs in power, especially when they require outputs of nuclear reactors for training LLMs.\n\nThis forces $META, $AMZN, $GOOGL, and others to sign multi-year agreements to consume as much power as possible. And yet they still don't have enough.\n\n-> So, trillions would likely be poured into grid upgrades. \n\nUsually interest rates hurt the sector but we're going into more rate cuts, so it makes the sector a much better long. \n\nOpenAI's letter to congress pleaded the US to invest in energy as well to compete vs. China.\n\nSo, this feels like a once-a-decade type long due to:\n\n- paradigm shift eating up any available power from AI\n- trillions in grid upgrades to compete vs. China\n- rate cuts. \n\nAnd low IV pricing from historical averages.",
+      "created_at": "Thu Feb 19 18:48:04 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2024554627677769733",
+          "url": "https://pbs.twimg.com/media/HBiptRMbUAUVVGZ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 66,
+        "favorite_count": 656,
+        "reply_count": 57,
+        "quote_count": 6
+      }
+    }
+  ]
+}

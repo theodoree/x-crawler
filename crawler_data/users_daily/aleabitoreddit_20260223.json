@@ -1,0 +1,266 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208947,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260223",
+  "last_updated": "2026-04-20T16:21:33.640798",
+  "tweet_count": 7,
+  "tweets": [
+    {
+      "id": "2025827917221994770",
+      "text": "The most popular post on Reddit this week: \n\nA DoorDash driver has recently lost their life savings of $140K+ on Robinhood. \n\nDoing weekly options, claiming:\n\nTheir “predictions have never been wrong”.\n\nTheir latest play with their remaining $160?\n\n$RDDT $160 weekly calls. \n\nReddit is down 1.5% overnight and requires over a 10% gain this week, just to break even. \n\nIf it doesn’t gain 10%+ by Friday, the options go to $0. \n\nBasically, Reddit is the greatest place to learn:\n\n-> What not to do with markets.\n\nMoral of the story: \n\nPlease stop full sending it into short dated options.",
+      "created_at": "Mon Feb 23 06:59:48 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025827906552057856",
+          "url": "https://pbs.twimg.com/media/HB0vv2ob0AA2tIn.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 552,
+        "reply_count": 45,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2025863154362884493",
+      "text": "TIL: South Korea’s President was a day trader?\n\nNow I understand why KOSPI, $EWY, Samsung, and SK Hynix are getting sent to the moon. https://t.co/9YqBHkxdjI",
+      "created_at": "Mon Feb 23 09:19:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025863148033691648",
+          "url": "https://pbs.twimg.com/media/HB1PzLYaUAAjWMs.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 408,
+        "reply_count": 23,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2025918790782120232",
+      "text": "Feels like a lot of people misunderstood the DD in this post: \n\nMain point: $EWY IV will likely stay elevated. \n\nCurrently realized is probably in the high 60’s, low 70’s. \n\nLong term likely settles ~55% because:\n\nPass through concentration in SK Hynix and Samsung is enormous despite any re-weighting. \n\nAs SK Hynix increases, other top weightings like SK Square (90% of its MC comes from SK Hynix equity since it’s a 20% shareholder) will increase.\n\nSame with Samsung.\n\nIt looks like 50% max for them both, but pass through structures balloons that value a lot. \n\nDespite new weights, $EWY will increasingly become a call option on SK Hynix / Samsung as their MCs go up from pass-through structure. \n\n2028 OTM leaps are mispriced at low 40’s IV as a call on volatile memory names.\n\nAnd will likely benefit from Vega expansion at current levels.",
+      "created_at": "Mon Feb 23 13:00:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025918782846427136",
+          "url": "https://pbs.twimg.com/media/HB2CZjNaYAAjAkq.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2025548194634256782",
+        "text": "2028 IV for $EWY will likely go much higher (~44% right now).\n\nRealized should be priced around ~65-68%+. \n\nSo, 2028 OTM leap call value may double again from volatility Vega Expansion alone. \n\nMost people don’t this but top holdings include: \n\n1. SK Square (#5 concentration).  90% of their NAV is SK Hynix.\n\n2. Samsung Life Insurance, NAV as one of the largest shareholders of Samsung Electronics. \n\n3. Samsung C&T (large part of $EWY) owns ~5% of Samsung as its NAV. \n\n4. Samsung Fire & Marine Insurance: 1.49% stake in Samsung Electronics (given how big Samsung Electronics is, it makes up a large part of NAV)\n\n5. Samsung C&T -> owns Samsung Life (which indirectly owns Samsung Electronics)\n\n6. Samsung Electro-Mechanics / Samsung SDS -> Largely tethered to Samsung Electronics Capex cycles.\n\n7. Samsung Electronics Preferred Shares - Non-voting preferred shares are treated as separate entities, but increases in weighting.  \n\nPass through concentration of SK Hynix and Samsung weightings is significantly higher than algorithms and markets think. \n\nAnd you see that realized, as Indexes with broad diversification don’t go up and down 6% a day depending on Samsung/Sk Hynix performance. Or 42% in 2 months... or 145% in 12 months...\n\nIf the ETF rebalances quarterly, you get more weighting into more volatile names like SK Hynix  and the weighting of smaller owners that own Samsung and SK Hynix as NAV go up more than others. \n\nThis is compounded with unrealized volatility that MMs have not priced in yet from:\n\n- 10x Leverage Samsung / Sk Hynix perps now. \n- 2x leveraged Samsung / Sk Hynix ETFs approvals and release soon. \n\nDynamically hedging both of these will increase volatility on Samsung + SK Hynix and by second order effect -> $EWY. \n\nSo, it's not a joke when you say its SK Index is basically Samsung and Sk Hynix. \n\nAnd that 44% IV pricing comes from the flat 10 year Korean index. \n\nWhen the new volatility from the memory supercycle is structural. \n\nTLDR: \n\n- Long OTM calls is effectively calls on Sk Hynix/Samsung at 44% IV. \n\n- Individually they likely sit around 73-88%. \n\n- When you account for other names, realized IV may sit in the mid 60's. \n\n- Vega expansion on 2028 OTM calls if they go from 44% to 65%+ would increase option values from volatility expansion alone.\n\n- There are genuine inefficiencies with the markets sometimes and this looks like one of them. \n\nThis is a volatility expansion trade coupled with the added benefit of long SK Hynix/Samsung during the memory, robotics, foundry supercycles for the next two years.",
+        "created_at": "Sun Feb 22 12:28:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025548160651968512",
+            "url": "https://pbs.twimg.com/media/HBwxUf8bQAAHtCK.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2025548165437648896",
+            "url": "https://pbs.twimg.com/media/HBwxUxxa8AAYTyz.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208947,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 66,
+          "favorite_count": 799,
+          "reply_count": 54,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 244,
+        "reply_count": 23,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2025949083383599607",
+      "text": "This is Vega expansion in action from volatility mispricing. \n\n$EWY SK index down. \n\nEntire long term option chain up. https://t.co/EEuYTCyxYH",
+      "created_at": "Mon Feb 23 15:01:16 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025949075821195264",
+          "url": "https://pbs.twimg.com/media/HB2d81VacAAql9X.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2025949075804475393",
+          "url": "https://pbs.twimg.com/media/HB2d81RbUAEMuXl.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2025918790782120232",
+        "text": "Feels like a lot of people misunderstood the DD in this post: \n\nMain point: $EWY IV will likely stay elevated. \n\nCurrently realized is probably in the high 60’s, low 70’s. \n\nLong term likely settles ~55% because:\n\nPass through concentration in SK Hynix and Samsung is enormous despite any re-weighting. \n\nAs SK Hynix increases, other top weightings like SK Square (90% of its MC comes from SK Hynix equity since it’s a 20% shareholder) will increase.\n\nSame with Samsung.\n\nIt looks like 50% max for them both, but pass through structures balloons that value a lot. \n\nDespite new weights, $EWY will increasingly become a call option on SK Hynix / Samsung as their MCs go up from pass-through structure. \n\n2028 OTM leaps are mispriced at low 40’s IV as a call on volatile memory names.\n\nAnd will likely benefit from Vega expansion at current levels.",
+        "created_at": "Mon Feb 23 13:00:54 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025918782846427136",
+            "url": "https://pbs.twimg.com/media/HB2CZjNaYAAjAkq.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208947,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 20,
+          "favorite_count": 244,
+          "reply_count": 23,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 327,
+        "reply_count": 18,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2025956208138649924",
+      "text": "This is S tier research I put out for free! \n\nAppreciate the shoutout from technical folks like @TheValueist who saw how awesome this trade idea was:\n\n-> mapped pass through structures of $EWY and SK Hynix/Samsung despite ETF rebalances\n\n-> found 2028 volatility pricing issues on option chains in specific by comparing it to realized IV. \n\n-> summarized that into an easy-to-understand thesis.\n\non top of directional long memory supercycle after breakdowns of Samsung/Sk Hynix projections. \n\nNot everyone can profit off of Jane Street algorithms and foresee South Korea citing increasing volatility across the board!",
+      "created_at": "Mon Feb 23 15:29:35 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2025951553543115239",
+        "text": "This $EWY trade was stupid good. If you are an investor or trader on X, you simply must be following @aleabitoreddit . He understands macro, micro/company-level, and derivatives technicals, then puts it all together for you in one easily understandable package. A tremendous amount to learn from him.",
+        "created_at": "Mon Feb 23 15:11:05 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2025950577964834816",
+            "url": "https://pbs.twimg.com/media/HB2fURQXYAAEHCO.png"
+          },
+          {
+            "type": "photo",
+            "id": "2025950897482698752",
+            "url": "https://pbs.twimg.com/media/HB2fm3jXEAAeahZ.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1838186195508969472",
+          "name": "TheValueist",
+          "screen_name": "TheValueist",
+          "description": "Disc L/S | TMT+Energy. ISO convexity. Factor aware. Path independence matters. Results never lie. NFA. Student of mkts and cos. Creator: CRAVE Thesis of GAI.",
+          "followers_count": 25131,
+          "friends_count": 8556,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 7,
+          "favorite_count": 161,
+          "reply_count": 6,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 78,
+        "favorite_count": 1059,
+        "reply_count": 99,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2025986935047729194",
+      "text": "$SNDK does not concern itself with the rest of the market. https://t.co/vUk3NUnQ0P",
+      "created_at": "Mon Feb 23 17:31:40 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2025986926847893504",
+          "url": "https://pbs.twimg.com/media/HB3AYDZaoAAWpQR.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2025986926814302208",
+          "url": "https://pbs.twimg.com/media/HB3AYDRaEAAZ7AD.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 629,
+        "reply_count": 40,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2026012416841334975",
+      "text": "Today, Anthropic called out DeepSeek, Moonshot, and Minimax for distillation.  \n\nOpenAI has also faced the same issues with Chinese labs. \n\nThe most braindead fix nobody is doing: \n\nKYC verification. \n\nEvery financial institution from $HOOD to $IBKR does this to track flow of funds (eg. Persona selfie / ID)\n\nSame should apply to token flows. \n\nAmerican Frontier Labs should start doing this soon for their latest models. \n\nI'm sure they care about frictionless growth, but this is national security at risk and people/enterprises only need to go through this process once. \n\nThis is by far the easiest fix that can be done in a day. \n\nChinese labs will continue to find bypasses if this is not done.",
+      "created_at": "Mon Feb 23 19:12:56 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2026011364251361280",
+          "url": "https://pbs.twimg.com/media/HB3Wmf0bYAAK-o-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 325,
+        "reply_count": 31,
+        "quote_count": 6
+      }
+    }
+  ]
+}

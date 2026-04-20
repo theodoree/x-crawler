@@ -1,0 +1,66 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251227",
+  "last_updated": "2026-04-20T16:21:33.658774",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2004936335702753729",
+      "text": "The \"InP Chokepoint\": The Bottleneck of the AI Buildout explanation:\n\nThe future of $NVDA Blackwell, $META MTAI, $GOOGL TPU, and $MSFT Maia ramp is tied to:\n\nA $700M small cap $AXTI and $SMTOY. \n\nThe AI \"Growth\" story ends in 2026 if there's no solution to InP. \n\nHere's why:\n\nThe AI industry started its migrating to photonics for future ASIC/GPU deployments, because copper is hitting a physical limit. \n\nHowever, in doing so, hyperscalers traded the common material for InP (Indium Phosphide), when there's only a few factories capable of producing 6-inch InP wafers at the purity levels required for lasers.\n\nLet's take for example Google and their TPU v7 Ironwood program:\n\nGoogle uses Optical Circuit Switching (OCS), in simpler terms, switchboards made of light. For every one of those TPUs in the pod to talk, they require InP-based lasers. $LITE, which works with Google on this, largely depends on InP substrate (eg. AXT/Sumitomo) to make them.  \n\nIf they don't have it Google's entire Ironwood program doesn't just \"slow down\", it hits the wall.\n\nModern ASICs/GPUs from  $NVDA GB series, $AMZN Trainium, $MSFT Maia, $META MTAI have all made the same bet: Light is the way forward.\n\nNow, here's the issue. \n\nThe entire Western AI roadmap is currently tethered to a $700M small-cap and a single Japanese company that produce majority of the world's InP substrates required for photonics. \n\nIt's currently a duopoly (rough estimates majority supply ~60% between AXT + Sumitomo), with recent estimates of ~70%+ coming from Sumitomo Electric, AXT, Freiberger, JX, and Visual Photonics Epitaxy (filling in the gaps). \n\nRegardless, the entire future AI supply chain is thinner than a needle:\n\n- Moomoo Research: InP market is in a state of \"global scramble\" and \"serious supply shortage\" NVIDIA GB200 rollout (scale-out still requires tons of InP, not NVL72 within-the-rack comm). \n\n- Demand for high-speed transceivers today probably exceeds the supply by almost a factor of two (LightCounting)\n\n- Seeing record booking, but explicitly \"supply-constrained by InP lasers\" ( $COHR CEO Q3 ER)\n\n- McKinsey: 40% to 60% shortfall for 800G modules and a 30% to 40% shortfall for 1.6T modules.\n\nAnd these reports are likely understanding + very conserative given the demand ramp. Even going off Microsoft's projections on Maia ramp, ( est. 1M+ Maia by 2027 on UBS $MRVL note), with 2 million+ units of 1.6T transceivers over the next year, this volume is so large it represents a double-digit percentage of global substrate output.\n\nThe projected \"exponential growth\" of AI is about to collide with the reality of critical material production. So, the \"Ironwood\", \"MTIA\" and \"Maia\" ramps aren't just ambitious, they may be impossible under current material constraints. \n\nEven if $COHR, JX Nippon, Sumitomo, $AXTI, and others, ramp up at maximum capacity (eg. $COHR / JX -> 6-inch InP wafers for 4x capacity), they still might not be able to meet the increasing demand from hyperscalers. Especailly with demand spikes occurring, eg. just for $NVDA alone (GB200/GB300 revisions). \n\nThere are technical solutions like silicon photonics is one solution to bridge the gap, but this still largely requires an external InP laser as the light source. TFLN or quantum dot lasers are many many years away. \n\nThere's probably no escaping the InP requirements for the next few years. \n\nSo, the mismatch between chip design and material availability has created a strategic chokepoint, where if you go to the very bottom of the supply chain, very few companies control a majority of allocations, pricing, and supply. This is especially dangerous when compounded with geopolitical risks on US/China relations + export controls. \n\nThat being said, here's what's probably what's going to happen:\n\n- Price Spikes: Prices from $AXTI, JX, Sumitomo will spike significantly -> $LITE, $COHR, Innolight (also increases prices from pass down)\n\n- Hyperscalers will directly stockpile materials, bypassing traditional component procurement and buying InP substrate inventory from $AXTI, JX Nippon, Sumitomo, and directly to consign to transceiver manufacturers like $LITE.  \n\n(eg. Meta would bypass transceiver companies and go directly to AXT or Sumitomo)\n\n- Hyperscalers will buy out production allocation ( like $NVDA that has already aggressively \"locked in\" EML capacity (manufactured on InP substrates). \n\nBuying a substrate manufacturer or production allocation would become a necessity to so others like $NVDA or $GOOGL doesn't starve them out.\n\nAs TPU v7 and and as other hyperscalers ramp up in 2026-2027, we will likely enter a \"hunger games\" phase for substrates where only each hyperscaler will be cannibalizing each other's growth for resource allocation. \n\nCompanies like $NVDA (with record amounts of pre-allocation), might ramp be okay for the time being, but others programs would likely face major delays. \n\nThoughts:\n\n1. Some hyperscalers might be fine ( $NVDA). Others like $GOOGL and $MSFT will need to buy out materials + allocation before others do. \n\n2. Industry needs to double down on engineering shifts like copper life extension and more material efficient ways like SiPh.\n\n3. Move to 6-inch wafers for yields (eases things, but still not enough to meet demand)\n\nSo the way things are now, the multi-trillion dollar AI scaling are tethered to some obscure $700m company $AXTI and $SMTOY. It seems inevitable that AI will hit the physical ceiling because of InP substrate capacity unless architectures change. \n\nIn 2024, the bottleneck was GPUs. In 2025, it was HBM. In 2026, the primary constraint will likely be the optical interconnect, and specifically, the InP substrates that power them. \n\nThis has now become the hidden bottleneck of the AI buildout.",
+      "created_at": "Sat Dec 27 15:24:07 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2004911633433251840",
+          "url": "https://pbs.twimg.com/media/G9LgghTWUAAJa_Y.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2004569946492453003",
+        "text": "Warning: The entire AI industry will likely be bottlenecked by two companies:\n\n1. $AXTI ($700M) \n2. $SMTOY ($31.7B)\n\nWhich both control 60–70%+ of the world's InP substrates.\n\nFuture $NVDA, $GOOGL TPU v7 pods, $META, $MSFT, $AMZN hyperscaler clusters require InP-based lasers and receivers.\n\n$AVGO, $LITE, $COHR use for EMLs for 800G/1.6T transceivers, DFB lasers, and other optical infra.\n\nWithout InP substrates, the supply chain falters. \n\nAfter looking at TPU BOM to Maia BOM, it looks like future ASICs + GPUs + hyperscaler deployments are heavily reliant on photonics. \n\nAnd two vendors could freeze the global InP substrate market covering nearly all of:\n\n- Hyperscaler optics (TPU pods, etc)\n- Optical transceivers (5g, data)\n- LiDAR (robotaxis, drones, military)\n-Optical Modules (interconnect clusters)\n- Silicon photonics laser dies (Nvidia’s future co-packaged optics and Intel/Broadcom SiPh engines use  InP CW laser arrays.)\n\nSince these companies make up majority of the market supply:\n\n-AXTI (est. ~30–35%)\n-Sumitomo (est.~30%)\n- JX Nippon (est. 10-15%)\n\nThat’s it. (eg. 2021 industry note from Yole states that \"Sumitomo Electric + AXT together had “more than 75%” of the InP substrate market\")\n\nHyperscalers/AI are moving toward photonics but the entire AI industry is fragile. \n\nIf either $AXTI or $SMTOY stop supplying materials, the entire future AI buidlout gets crippled. It's even crazier that a $700m company could become the the center of it all. \n\nInP substrate will likely one of the biggest bottlenecks alongside HMB as the AI industry shifts to photonics.",
+        "created_at": "Fri Dec 26 15:08:13 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2004567172190769152",
+            "url": "https://pbs.twimg.com/media/G9GnOPLXEAAdWJW.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 340,
+          "favorite_count": 3322,
+          "reply_count": 113,
+          "quote_count": 33
+        }
+      },
+      "stats": {
+        "retweet_count": 63,
+        "favorite_count": 649,
+        "reply_count": 26,
+        "quote_count": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251223",
+  "last_updated": "2026-04-20T16:21:33.659224",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2003259964526330053",
+      "text": "$AAOI is up 24% and $LITE is 5% since my thesis today.\n\nFrom BOM analysis, LITE ($27B) is levered toward TPU Ironwood due to OCS but benefits from NVDA + all ASICs.\n\nAAOI ($2.5B), is levered toward MSFT MAIA ramp and Amazon Trainium.\n\nInP like HBM, will be a bottleneck for 2026 as they’re the foundational materials used for lasers in these deployments. \n\nSimilar to memory bottlenecks with Micron and SK Hynix, we’ll likely see attention drawn to InP fabs, such as $AAOI, which happens to be one of the sole ones in America (COHR,Macom)\n\nBut compared to $LITE that is up 362% YTD due to the success of Google’s TPU (from Meta and Anthropic purchase orders), $AAOI is only up 7% YTD.\n\nWe’re largely seeing this because there’s a lack of retail or media attention on the $AMZN Trainium or $MSFT Maia deployments, which are largely expected to ramp up in 2026-2027. \n\nHowever they’re all likely to succeed due to each hyperscaler wanting to lower costs of inference for their own cloud platform.\n\nIf we see other hyperscalers adopt OCS for optimized performance that the TPU achieved, expect $LITE to re-rate more than they have now given their monopoly in that specific segment.\n\nHowever, if we see $MSFT Maia ramp up (given $AAOI is likely developing a new architecture for them), and $AMZN Trainium ramp up ($4B warrant + purchase orders), expect $AAOI to rerate.\n\nPhotonics and InP will be the new bottleneck like memory. \n\nWe’ll likely see investments pour down stream to players like $COHR, Innolight, $LITE, and hidden levered plays on specific hyperscaler ASICs like $AAOI as a theme in 2026.\n\nThe market is currently rewarding the Google TPU supply chain but might be missing other hyperscaler ASIC ramps.",
+      "created_at": "Tue Dec 23 00:22:48 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2003259957140246528",
+          "url": "https://pbs.twimg.com/media/G80CUTob0AAS05x.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2003019490871869644",
+        "text": "The $LITE thesis: The hidden monopoly in the AI. \n\nLumentum is up 316% YTD, but might be 1000%+ by 2027. \n\nMicron ($300B) or TSM ($1.5T) sit in the center of every TPU/GPU deployed. \n\nBut same with $LITE, but it's a $26B MC. \n\nIn Every, Single, TPU from Google, $LITE makes unbelievable amounts of profit for their marketcap. \n\nThat's because it's the standard for Optical Circuit Switching (OCS) + optical networking. \n\nIt's also in\n\n-  $NVDA Blackwell\n-$AMZN Trainium\n- and other hyperscaler ASICs.  \n\nLumentum sits in the holy trinity of every single chip deployment for photonics.\n\nAnd for every TPU capex spent, $LITE takes 8-12%. For every Nvidia GPU, $LITE takes ~2-3% (split between Innolight and some others, so the math gets a bit complex).\n\nBut some napkin math on NVDA GPU deployments alone for BOM:\n\nNVIDIA Blackwell (GB200):\n\nHBM memory: ~50–55% (SK Hynix (Lead), Micron, Samsung)\nLogic (GPU Die): ~25-30% ( $TSM 4NP)\nCoWoS Packaging: ~13-18% $TSM\nOptics/Network: ~3–5% (Innolight, Lumentum, Coherent)\nPCB/Power: 5%\n\nFor Google TPIU \"Ironwood\" TPU v7:\n\nHBM Memory: 38-42% Samsung / SK Hynix\nLogic Die: TSM ~28-33%\nDesign/I.O: 8-10% MediaTek \nOptical Network: 10-14% ( $LITE (primary), $COHR secondary)\nOptical Switch: 2-4% $LITE\n\n$LITE est. total cluster share: ~8–12%\n\nJust an FYI, Google's \"Optical\" BOM share (8–12%) is an anomaly due to their unique Optical Circuit Switch (OCS) monopoly.\n\nJust for some napkin math:\n\n$40B Google TPU spend by 2027. $LITE captures 10% (30-40% margins), $1.5B+ FCF from Google alone, 17x earnings from just their primary customer. (analysts are probably extremely off with projecting TPU spend scaling). \n\nNot even including their split from $AMZN Trainium, $NVDA Blackwell, $MSFT Maia, and other chip deployments. \n\n$LITE is in the center of every single TPU/GPU future chip deployment for now and takes a cut. \n\nThe only downside is they're the clear market leader now, but $AVGO and $COHR are likely set up to compete by 2027-2028. However...\n\nPeople say \"$26B, ATH, why are you buying now\". \n\nThis is the reason. They're involved in every future single TPU/GPU/ASIC deployed. \n\n$LITE could end up easily over $60B+ if Google TPUs, and other chip spend ramps up and LITE takes a 2-3% (from $NVDA, $AMZN, $MSFT) or 8-12% cut (from $GOOGL) for every single dollar spent.",
+        "created_at": "Mon Dec 22 08:27:15 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2003014018265661440",
+            "url": "https://pbs.twimg.com/media/G8wiox7aQAAJLI3.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 59,
+          "favorite_count": 522,
+          "reply_count": 31,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 27,
+        "favorite_count": 323,
+        "reply_count": 20,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2003476197028852074",
+      "text": "Personal Research: $MSFT Maia 300 supply chain.\n\nOn a $MRVL report, UBS est. 1M+ Maia by 2027. \n\nAn est. of $18B+ is estimated to flow down to suppliers from Maia ASIC ramp. \n\nHere's where it goes:\n\n1.  $MRVL - $8-12B revenue (~30-40% margin) as the prime beneficary. They design the digital plumbing (SerDes, interconnects), buy the HBM4 memory from SK Hynix, pay TSMC for the 2nm wafers and CoWoS packaging, and sell the finished module to Microsoft.\n\nWe'll likely see a large re-rating in Marvell when it comes time for Maia ramp late 2026, early 2027, especially given how much revenue this brings in.  \n\n2. The Optical Fabric: ~$3 Billion to $4 Billion\n\nPrimary Beneficiaries: Applied Optoelectronics ( $AAOI ), Coherent ( $COHR ), Innolight\n\nMaia clusters require a 1:1 or higher ratio of transceivers to GPUs. For 1.6T speeds (required for Maia 300), the optical content per node is estimated at $3,000+ (approx. 6x 800G/1.6T modules per accelerator).\n\nHere AAOI Wins Big: Unlike $MRVL (which is $70B), $AAOI is a $2.5B company. Capturing even 20-30% of this $3B pie ($600M-$900M) would triple + their current ARR, but the amount captured is dependent on their InP Texas Fab scaling (could be a lot more or less). \n\nSo Applied Optoelectronics (AAOI) and Marvell's optical DSP business are the silent winners, riding the 1.6T upgrade cycle required to interconnect these massive chips.\n\nCompanies like $TSM gain another $3-4B revenue, but that's medium volume compared to their $100B+ revenue. (just speaking to how much of a giant TSM is)\n\nFor the silicon BOM breakdown:\n\n1. Compute Logic (ASIC) - TSM + Intel Foundry/18A\n\nMarvell (Design), TSMC, Intel, ARM/Synopsys? ($2,800 - $3,500)\n\n2. Memory (est. HBM4? (6-8 stacks), estimate). \n\nSK Hynix, Samsung ($3,360 - $4,500)\n\n3. I/O & Cache Die - TSMC N5/N4\n\nMarvell, TSMC ($400 - $600)\n\n4. Advanced Packaging - CoWoS-L / Foveros Direct\n\nTSMC, Intel ($900-$1300)\n\n5. Thermal Solution - Microfluidic Cold Plate / TIM ($200-400)\n\n6. Misc (High-Current Inductors, Caps)  ($150-$200)\n\nTotal Silicon BOM: $7,860 - $10,550\n\nThis is really high level doesn't go into Passive/Substrate/Lid (Ibiden, Unimicron), Test & Assembly (Advantest, Teradyne), etc. \n\nNow if we look deeper at optical BOM and what $MSFT is doing with hollow core fiber and OCS:\n\nDSP / SerDes IP: $MRVL ($800 - $1,200)\nSiPh Engine (CPO): Marvell / Intel  ($600 - $900)\nLaser Source (ELS): $AAOI, $LITE ($300 - $600)\nTransceiver Assembly: $AAOI, Innolight ($400 - $600)\nFiber Cabling: Hollow Core Fiber / MPO ( $MSFT) ($200 - $300)\n\nTotal Optical BOM~$2,300 - $3,600~25% of Total System Cost\n\nWe've established $LITE and Innolight as the two major players in photonics already (within $NVDA and every single hyperscaler ASIC) \n\nHowever, $AAOI MC is a fraction of $MRVL and $LITE as a microcap, making the Maia opportunity far more transformative for its stock.\n\nSometing also to note is Fubon Research est Maia300 chip is set to start prod in late 2026 with about  300,000 to 400,000 units, increasing to 1.2 to 1.5 million units in 2027, but we're just going with the ~1M figure from UBS. (so might ramp up more)\n\nBut the shift to 1.6T and the specific requirement for high-power lasers for hollow-core/OCS networks is a big tailwind. If AAOI captures a portion Maia optical BOM, they triple or quadruple their ARR from one client alone by 2027 (not including $AMZN). \n\nRisk: The primary risk is qualification failure. If their lasers fail Microsoft’s rigorous reliability testing, they could be replaced by $LITE overnight.\n\nHowever, Maia 300 ramp signals the start of the hyperscaler ASIC trade and key suppliers are there. \n\nThe companies that benefit the most from this specific ASIC late 2026-2027? \n\nLooks like $AAOI, $MRVL, $TSM, and SK Hynix. \n\nWarning: This is speculative research + modeling given public materials + deep research + mapping. There is no public breakdown and news of this information, do not treat it as a fact.",
+      "created_at": "Tue Dec 23 14:42:02 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2003469681613746176",
+          "url": "https://pbs.twimg.com/media/G83BD4LaMAA2ica.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2003259964526330053",
+        "text": "$AAOI is up 24% and $LITE is 5% since my thesis today.\n\nFrom BOM analysis, LITE ($27B) is levered toward TPU Ironwood due to OCS but benefits from NVDA + all ASICs.\n\nAAOI ($2.5B), is levered toward MSFT MAIA ramp and Amazon Trainium.\n\nInP like HBM, will be a bottleneck for 2026 as they’re the foundational materials used for lasers in these deployments. \n\nSimilar to memory bottlenecks with Micron and SK Hynix, we’ll likely see attention drawn to InP fabs, such as $AAOI, which happens to be one of the sole ones in America (COHR,Macom)\n\nBut compared to $LITE that is up 362% YTD due to the success of Google’s TPU (from Meta and Anthropic purchase orders), $AAOI is only up 7% YTD.\n\nWe’re largely seeing this because there’s a lack of retail or media attention on the $AMZN Trainium or $MSFT Maia deployments, which are largely expected to ramp up in 2026-2027. \n\nHowever they’re all likely to succeed due to each hyperscaler wanting to lower costs of inference for their own cloud platform.\n\nIf we see other hyperscalers adopt OCS for optimized performance that the TPU achieved, expect $LITE to re-rate more than they have now given their monopoly in that specific segment.\n\nHowever, if we see $MSFT Maia ramp up (given $AAOI is likely developing a new architecture for them), and $AMZN Trainium ramp up ($4B warrant + purchase orders), expect $AAOI to rerate.\n\nPhotonics and InP will be the new bottleneck like memory. \n\nWe’ll likely see investments pour down stream to players like $COHR, Innolight, $LITE, and hidden levered plays on specific hyperscaler ASICs like $AAOI as a theme in 2026.\n\nThe market is currently rewarding the Google TPU supply chain but might be missing other hyperscaler ASIC ramps.",
+        "created_at": "Tue Dec 23 00:22:48 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2003259957140246528",
+            "url": "https://pbs.twimg.com/media/G80CUTob0AAS05x.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 27,
+          "favorite_count": 323,
+          "reply_count": 20,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 137,
+        "reply_count": 10,
+        "quote_count": 2
+      }
+    }
+  ]
+}

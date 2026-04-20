@@ -1,0 +1,479 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 209105,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260330",
+  "last_updated": "2026-04-20T17:34:50.184010",
+  "tweet_count": 11,
+  "tweets": [
+    {
+      "id": "2038436546412769560",
+      "text": "CPO Landscape Mirae Analyst Note: \n\nScale-Across:\nCPO ASIC: $AVGO, $MRVL\nOptical Transceiver: $COHR, $LITE, Innolight\nDSP/PAM4: $AVGO, $MRVL\nCoherent DCI: $CIEN, $NOK\nOCS Equipment: iPronics, Polatis\nOptical Cable / Fiber: $GLW, Prysmian, Furukawa\nHCF: $LITE, OFS\nDCI Coherent: Ciena, Nokia, Huawei\nOptical Amplifier: $LITE, $COHR\nOCS Gateway: KDDI\n\nScale-Up:\nSiPh Foundry: imec, $GFS, $TSM\nSiPh Modulator: $NVDA (in-house MRM), $INTC\nELS: NTT, Furukawa, $LITE, $COHR\nTHz Interconnect: R&D Stage?\nCPO Test: \"Expanding entry of new players\"\nMicro Lens / Optical Systems: \"Expanding entry of new players\"\n\nTLDR: Scale Up CPO is coming next. Think the analyst note missed a bunch of upstream names and conflated ELS with light source. \n\nBut it's helpful to see who they think the leading players are as a very high-level view.",
+      "created_at": "Mon Mar 30 02:01:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038436021415845888",
+          "url": "https://pbs.twimg.com/media/HEn6wunaIAAFIZw.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038436078131335168",
+          "url": "https://pbs.twimg.com/media/HEn60B5b0AApBES.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 33,
+        "favorite_count": 299,
+        "reply_count": 13,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2038440978777034988",
+      "text": "I think I nailed the institutional bottleneck rotation.\n\n-> Caught the tail end of memory name rise with $SNDK, Samsung, SK Hynix, $MU\n\n-> Frontran institutions with photonics with names like $AAOI, $AXTI $LITE, $COHR. \n\n-> Doing it again now by adding heavily toward SiPh, ELS, and CPO: $SIVE, $TSEM, $SOI, $AEHR, Win Semi, and others. \n\nOf course if you want to play it safe: \n$MRVL (captive), $AVGO (captive), $TSM, and $NOK all do it as well, but they're larger players. And getting direct exposure to the next supercycle is ideal.  \n\nI still think there's tons of room to grow for memory to EML optical transceivers, but the largest boom is at the start/inflection point of a new architectural cycle. \n\nMacro messing up some trades aside, expecting capital rotation soon toward CPO / ELS supply chains. \n\nTLDR from analyst note: The AI infrastructure investment supercycle follows a strict \"bottleneck resolution\" sequence: \n\nCompute/GPUs (2023) -> Memory/HBM (2024) ->  Interconnect/Networking (2025+).\n\nTranslation:\n\n \"We judge that the third investment cycle of the AI value chain has officially begun. Following GPUs (2023) and HBM (2024), post-2025, optical interconnects will become the fastest-growing core segment. \n\n2027–2028 will be a critical inflection point where CPO commercialization. 1.6T standardization, and Scale-Up optical transitions align, structurally expanding the TAM of related industries\"\n\nSome takeaways:\n1. CPO (Co-Packaged Optics) is moving from the lab to commercial mass production\n2. 2027-2028 is the major structural inflection point (good idea to frontrun this now in 2026 from testing with $AEHR to ELS with $SIVE or packaging with $POET). \n3. The Total Addressable Market (TAM) for optical components, materials, and testing equipment is expected to structurally expand 3x to 5x (I think this is sandbagging a bit).",
+      "created_at": "Mon Mar 30 02:19:36 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038439912887013376",
+          "url": "https://pbs.twimg.com/media/HEn-TPeb0AArx2Q.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2038436546412769560",
+        "text": "CPO Landscape Mirae Analyst Note: \n\nScale-Across:\nCPO ASIC: $AVGO, $MRVL\nOptical Transceiver: $COHR, $LITE, Innolight\nDSP/PAM4: $AVGO, $MRVL\nCoherent DCI: $CIEN, $NOK\nOCS Equipment: iPronics, Polatis\nOptical Cable / Fiber: $GLW, Prysmian, Furukawa\nHCF: $LITE, OFS\nDCI Coherent: Ciena, Nokia, Huawei\nOptical Amplifier: $LITE, $COHR\nOCS Gateway: KDDI\n\nScale-Up:\nSiPh Foundry: imec, $GFS, $TSM\nSiPh Modulator: $NVDA (in-house MRM), $INTC\nELS: NTT, Furukawa, $LITE, $COHR\nTHz Interconnect: R&D Stage?\nCPO Test: \"Expanding entry of new players\"\nMicro Lens / Optical Systems: \"Expanding entry of new players\"\n\nTLDR: Scale Up CPO is coming next. Think the analyst note missed a bunch of upstream names and conflated ELS with light source. \n\nBut it's helpful to see who they think the leading players are as a very high-level view.",
+        "created_at": "Mon Mar 30 02:01:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038436021415845888",
+            "url": "https://pbs.twimg.com/media/HEn6wunaIAAFIZw.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038436078131335168",
+            "url": "https://pbs.twimg.com/media/HEn60B5b0AApBES.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 33,
+          "favorite_count": 299,
+          "reply_count": 13,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 107,
+        "favorite_count": 1032,
+        "reply_count": 36,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2038454646902272155",
+      "text": "I'm still long on markets (now 85% long, now 15% cash/hedges).\n\nEven during wartime, I expect many names from $AAOI to $LITE to outperform. \n\nHowever... \n\nThe World is largely interconnected now.\n\nThe current administration might not realize the severity/fragility of upstream supply chains. \n\nThey might look at $AAPL \"Made in America\".\n\nor  $TSLA \"Made in America\" but if you look at the source for Tesla Humanoids:\n\n-> It's in China. Actuator materials stem from Russia feedstock. Materials come from partners in Canada. \n\n-> For Starlink, massive amount of supply chains stem from Win Semi Taiwan to companies in Korea. \n\nFor where the funding from OpenAI, private equities, megacap, and others come from:\n\n-> Large part of it comes from UAE, Middle East, and others (that might need to pull out liquidity) as their oil fields get blown up. \n\nExtended disruptions (US ground invasion) for spanning multiple months, is very bearish. \n\nI was initially expecting the \"Shock and Awe\" and US to claim victory and for short term War shock to be bought back. \n\nBut I would not encourage US to head toward a drawn out War. \n\nThis especially is not good for Asian partners (SK, Japan) or our allies in Europe either.\n\nThe main beneficiaries of War are:\n#1: Israel\n#2: Russia\n\nThe rest of the World, including the US, are getting dragged down from War. \n\nIt looks like \"Oil/Energy prices going up is good for US\": \n\nBut it takes down a lot of supply chains that the hyperscalers from $NVDA to even $AAPL relies on.",
+      "created_at": "Mon Mar 30 03:13:55 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038446435084235095",
+        "text": "This is vastly underestimating second, third, fourth order effects of supply chains and the energy crisis.\n\nIf Iran blows up a lot of oil fields in UAE and the Middle East and causes disruptions.\n\nLot of institutions over there largely funding US private equities, megacap, and others may have to pull out funding, causing widescale disruptions from capex spend to liquidity. \n\nThis is also ignoring Asian partners from Japan, KR, that is not as self-sustaining as the US is in regards to oil, LNG, energy, and others. \n\nThe global economy is extremely interconnected now. Even if the US is fine, the supply chains won't be. \n\nAnd you'll see this showing up in both liquidity, earnings, and stock price.",
+        "created_at": "Mon Mar 30 02:41:17 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 685,
+          "reply_count": 19,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 490,
+        "reply_count": 37,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2038480499425923375",
+      "text": "There’s clearly some market outperformers despite index’s and mega caps from $META / $MSFT crashing.\n\nThis probably signals institutions rotation or an extremely strong up and coming sector.\n\nThe obvious one is into CPO/ELS supply chains. \n\nMy personal picks were: \n\n$TSEM / Win Semi- TSM of photonics \n$AAOI / $SIVE / $COHR / $LITE- Light Sources\n$SOI / $AXTI - Substrates \n$IQE - Epiwafers\n\nBut of course there are larger names out there like $MRVL, Sumitomo, $AVGO.",
+      "created_at": "Mon Mar 30 04:56:38 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038480493390524416",
+          "url": "https://pbs.twimg.com/media/HEojNVoa8AATfPQ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2037387801285841118",
+        "text": "I am long Win Semi (3105.TWO) at $4.1B MC.\n\nI believe markets are sleeping on of the most important foundries in the world (aside from $TSM).\n\nIMO their strategic positioning exceeds far beyond $4B MC. \n\nThey sit in almost every major chokepoints:\n\n-> In the SpaceX Starlink LEO supply chain.\n-> As $AVGO, $LITE, $MTSI, $SIVE InP foundries for optical transceivers\n-> then as the body/eyes of humanoids as the GaAs foundry for TOF lasers possibly mapping to Boston Dynamic Atlas\n-> With legacy from MediaTek / Qualcomm / $AAPL from their previous business. \n\nBut Win appears to be bottom of the legacy drag (like with $SOI), with optical as one of their largest growth vectors. \n\nThen... Win has the largest TAM expansion/revenue acceleration out of almost any foundry: \n\nWith: LEO, humanoids / CW laser, 800g, 1.6t, 3.2t optical transceiver massive ramp up over the next few years. \n\nEspecially with Broadcom as their anchor client ( $AVGO owns ~5% of Win). \n\n$NVDA doesn't care who makes the lasers, whether it's $LITE or $COHR. \n\nThey just care if there's enough.\n\nThere's not enough. \n\n-> Demand for CW lasers will likely go parabolic. (they make the lasers that companies like $SIVE designs)\n\n-> Demand for LEO satellites (SpaceX Starlink) will likely go parabolic.\n\n-> Demand for humanoids will likely go parabolic.\n\nAs, Win Semi sits as a semi-monopoly chokepoint in the three most frontier and fastest growing industries for photonics/AI, robotics/humanoids, and space. \n\nEspecially with Optical TAM explosion:\n\nWin fwd earnings for 2027 roughly in ~35x range, I do think this is sandbagging it and forward multiples will end up dirt cheap. \n\nWin will largely benefit from TAM expansion and accelerated revenue growth.\n\nOf course: Win will win. So I am long Win.",
+        "created_at": "Fri Mar 27 04:34:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037387795271204864",
+            "url": "https://pbs.twimg.com/media/HEZBZ77bQAActCt.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 55,
+          "favorite_count": 540,
+          "reply_count": 33,
+          "quote_count": 8
+        }
+      },
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 384,
+        "reply_count": 20,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2038502143154331677",
+      "text": "The reason I personally see less downside risk with $SIVE:\n\nA competitor to $MRVL like $AVGO can just buy Sivers outright and their near-medium term photonics roadmap…\n\nAt ~$290m… if it gets any cheaper. \n\nGemini responses were interesting:\n\n“\nA competitor like Broadcom buying Sivers Photonics for ~$290M to choke Marvell’s newly acquired Celestial AI roadmap isn't just strategic; \n\nIt is supply chain warfare with an absurdly high ROI.\n“\n\n“\nFor pocket change, a competitor could buy the upstream light source, control the immediate IP roadmap, and inflict billions of dollars worth of opportunity cost on Marvell right as they try to integrate Celestial AI\n“\n\nIt’s likely better for hyperscalers like $MSFT, AlChip, $MRVL, $AMZN to invest in Sivers to secure their CPO supply chain then have it being bought out by one of their competitors.\n\nLike what happened already with $QLCM and Alphawave for OpenLight.\n\nMy opinion: $SIVE chokepoint as one of the few projects remaining independent cw laser suppliers in the world…\n\nIs inherently way more valuable than their marketcap.\n\nHedge funds not being able to invest due to “MC” and Sweden listing to keep valuations depressed… is a blessing in disguise for both acquisitions or retail investors.",
+      "created_at": "Mon Mar 30 06:22:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038502107654103040",
+          "url": "https://pbs.twimg.com/media/HEo23dCboAAOXW8.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038502109126291456",
+          "url": "https://pbs.twimg.com/media/HEo23ihbcAAP5F5.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2038221422808760744",
+        "text": "Just a shower thought: \n\nWould be smart for a competitor like $AVGO to buy $MRVL upstream light source for $280M with $SIVE. \n\nThen you control their short-mid term photonics roadmap with Celestial.\n\nKind of like $QLCM did with Alphawave and OpenLight ecosystem.\n\nQuite a few hedge funds already talked about potential M&A opportunities. \n\nAsked Gemini, response was funny",
+        "created_at": "Sun Mar 29 11:47:10 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038221414910906368",
+            "url": "https://pbs.twimg.com/media/HEk3k_Fb0AAj9Y5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 11,
+          "favorite_count": 266,
+          "reply_count": 35,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 286,
+        "reply_count": 26,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2038543801174896719",
+      "text": "It’s funny a shower thought…\n\nProbably put $SIVE on the radar for $QCOM, $MRVL, $AVGO, AlChip, Mediatek, $AMZN, $META, $MSFT venture arms now?\n\nSince everyone publicly knows now Broadcom can just go and buy Marvell’s photonics chokepoint vulnerability (Amazon/Microsoft ASIC programs) for a rounding error of $350m…\n\nOr Qualcomm can do the same buying $SIVE then vertically integrate laser IP after Alphawave aquisition. \n\nOr maybe… hyperscalers figure out a way $SIVE remains independent by owning enough shares?",
+      "created_at": "Mon Mar 30 09:08:11 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038543795428708352",
+          "url": "https://pbs.twimg.com/media/HEpcyAGa0AARY9o.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2038502143154331677",
+        "text": "The reason I personally see less downside risk with $SIVE:\n\nA competitor to $MRVL like $AVGO can just buy Sivers outright and their near-medium term photonics roadmap…\n\nAt ~$290m… if it gets any cheaper. \n\nGemini responses were interesting:\n\n“\nA competitor like Broadcom buying Sivers Photonics for ~$290M to choke Marvell’s newly acquired Celestial AI roadmap isn't just strategic; \n\nIt is supply chain warfare with an absurdly high ROI.\n“\n\n“\nFor pocket change, a competitor could buy the upstream light source, control the immediate IP roadmap, and inflict billions of dollars worth of opportunity cost on Marvell right as they try to integrate Celestial AI\n“\n\nIt’s likely better for hyperscalers like $MSFT, AlChip, $MRVL, $AMZN to invest in Sivers to secure their CPO supply chain then have it being bought out by one of their competitors.\n\nLike what happened already with $QLCM and Alphawave for OpenLight.\n\nMy opinion: $SIVE chokepoint as one of the few projects remaining independent cw laser suppliers in the world…\n\nIs inherently way more valuable than their marketcap.\n\nHedge funds not being able to invest due to “MC” and Sweden listing to keep valuations depressed… is a blessing in disguise for both acquisitions or retail investors.",
+        "created_at": "Mon Mar 30 06:22:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038502107654103040",
+            "url": "https://pbs.twimg.com/media/HEo23dCboAAOXW8.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038502109126291456",
+            "url": "https://pbs.twimg.com/media/HEo23ihbcAAP5F5.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 20,
+          "favorite_count": 286,
+          "reply_count": 26,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 30,
+        "favorite_count": 364,
+        "reply_count": 31,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2038556249592119671",
+      "text": "This is the most egregious headline I’ve read from FT.\n\n“US BETS BILLIONS OF DOLLARS ON UNPROVEN GROUPS IN RARE EARTHS DEALS”\n\nNo sht. \n\nMaybe they’re “unproven” since we have nothing??\n\n$USAR to $MP are incredibly important. \n\nSince US rare earths supply is the #1 national security priority right now. \n\nThe United States owns almost none of the upstream capacity/refineries for AI, Robotics, to Space, as we rely on other countries from Canada to China. \n\nThis is probably the best domestic policy move from the Trump administration to fund these unprofitable efforts.\n\nIn order to secure US supply chain sovereignty instead of relying on Russia and China?\n\nIt’s almost like FT is trying to make the US public mad…\n\nAt genuinely great efforts to secure American’s independence by how they word these articles.",
+      "created_at": "Mon Mar 30 09:57:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038556243191791616",
+          "url": "https://pbs.twimg.com/media/HEpoGjoaAAAC3st.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 439,
+        "reply_count": 52,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2038617810738520159",
+      "text": "And... this is why I don't like Jane Street owning the same stocks I do like $AAOI. \n\nThey trade volatility, especially with retail favorite names and trigger stop losses/panic.\n\nIf you know what you own though: \n\n$6.69B for a US company that makes the entire transceiver supply chain:\n\nFrom Laser -> Design -> Assembly.\n\nWith likely $MSFT, $AMZN, $ORCL buying anything they can make, is a steal for me personally. \n\nWith high beta stocks, it's really important to build conviction and manage sizing correctly before entering a trade. \n\nOtherwise you'll end up capitulating the bottom and buying the top over and over.",
+      "created_at": "Mon Mar 30 14:02:16 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038616742147330048",
+          "url": "https://pbs.twimg.com/media/HEqfIDzbEAAgaRP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 52,
+        "favorite_count": 842,
+        "reply_count": 95,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2038630062665482339",
+      "text": "Well this is aging well with $VCX.\n\nFrom $425 -&gt; $110 in 4 days. \n\nThink majority of people expected it… but not sure why retail investors thought SpaceX should be valued at $34 trillion at the top. https://t.co/JHURpLJmmq",
+      "created_at": "Mon Mar 30 14:50:57 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038630056277442560",
+          "url": "https://pbs.twimg.com/media/HEqrPCzaAAAVpy6.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2037137351638704487",
+        "text": "Warning about $VCX.\n\nA very popular ETF with weighting toward (Anthropic, Databricks, OpenAI, Anduril, and SpaceX).\n\nAsk yourself this: \n\nIs SpaceX is worth 23 times $META valuation?\n\nWith the stock going up 1288% this month: VCX is trading at roughly ~20x its NAV. So 1500-2000% premium?\n\nThis is like buying SpaceX at 34 Trillion USD. Or OpenAI at 16 Trillion USD. \n\nWould you short it?\n\nNo: It's extremely low float and lack of options for hedging. \n\nBut should you buy into it? \n\n$VCX looks like greater fools theory right now and you’re playing hot potato.",
+        "created_at": "Thu Mar 26 11:59:27 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2037137345531740160",
+            "url": "https://pbs.twimg.com/media/HEVdn18aAAAvg3_.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 27,
+          "favorite_count": 518,
+          "reply_count": 71,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 256,
+        "reply_count": 33,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2038635697603826096",
+      "text": "This market is brutal. \n\nIf your stock doesn’t have Win in its name like a certain foundry…\n\nMore likely than not macro > individual stock fundamentals from $MU and $META.\n\nJust a good reminder not to margin or irresponsibly overleverage during this time.\n\nEspecially as a limited ground invasion might begin anytime… this might foreshadow extended conflicts and potential supply chain disruption.",
+      "created_at": "Mon Mar 30 15:13:20 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038635626501910528",
+          "url": "https://pbs.twimg.com/media/HEqwTRgaMAARB8_.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038635626510405632",
+          "url": "https://pbs.twimg.com/media/HEqwTRib0AAwBhi.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 477,
+        "reply_count": 52,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2038672101717274941",
+      "text": "Do you guys think there’s only $5,650,000,000 dilution to go with $IREN?\n\nVery surprising that people haven’t switched to $NBIS or other names if you’re long Neoclouds.\n\nOne already has confirmed funding with $NVDA + convertibles from institutions.\n\nThe other is likely actively selling new shares on the open market to get funding off retail shareholders.\n\nThe sad reality is:\n\n$IREN simply cannot monetize the rest of their capacity without using that. It’s not “optionality”.\n\nFinancial structure nuance matters when you’re choosing winners for equity appreciation.\n\nNebius is clearly has the better financing structure and this is already showing up in YTD returns.",
+      "created_at": "Mon Mar 30 17:38:00 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038672094129778688",
+          "url": "https://pbs.twimg.com/media/HErRd-AbcAAbVmL.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038672094100439040",
+          "url": "https://pbs.twimg.com/media/HErRd95bwAAS49i.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2038163974437659019",
+        "text": "$IREN filed to dilute $6,000,000,000 at a $11.7B MC.\n\nThat is not noise.\n\nThis is Iren's way to monetize their 4.5GW capacity by selling all those new shares onto the open market. \n\nIf you want some history on how this turns out:\n\nLook at $BKKT that crashed 99% with Mike and $IREN board of directors history with excessive ATMs. Or his recent company $ASST.\n\nIt’s accretive to the company and executives: Because it wipes out all retail shareholders and they can always issue SBC. \n\nSo they don’t actually care what stock price it needs to be at to sell.\n\nAfter they’re finished, they have $6B in new cash to use for scaling without paying interest.\n\nBut the reason why convertible notes with interest, and $NVDA funding balance sheets is much better for retail capital:\n\nIs because it doesn’t wipe out retail equity to achieve this. Because at this point $IREN looks like the $AMC of datacenters with a dwindling moat, and looming $6B in shares sold into the open market.\n\nReason I post about $IREN is because\n\n- people dismiss a $6B ATM as “Noise”\n- it’s one of the most popular retail “buy the dip” companies that they’re buying into a $6B dilution machine\n- people still don’t understand the risk at all.\n- the amount they have now is not enough to finance GPUs/GW capacity monetization.\n- they likely will have to use the ATM, it’s not “optionality”\n\nAgain: I have zero positions in the company.\n\nI’m just warning retail investors that this ATM structurally wipes out your equity appreciation by how structural mechanics of $6B+ ATMs work. \n\nBecause $IREN likely needs to sell new shares at any price to monetize their GW, otherwise there would be zero need to file it.\n\nExecutives actually don't need to care because they can make up for stock price dropping by issuing SBC like $SNAP.\n\nIf you have to wonder if your equity gets wiped out from an excessive ATM:\n\nThere are better longs out there than $IREN.",
+        "created_at": "Sun Mar 29 07:58:53 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038163967189897216",
+            "url": "https://pbs.twimg.com/media/HEkDVFpa0AAxFk4.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038163967198334976",
+            "url": "https://pbs.twimg.com/media/HEkDVFrbkAAWJ0D.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 61,
+          "favorite_count": 1029,
+          "reply_count": 132,
+          "quote_count": 24
+        }
+      },
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 460,
+        "reply_count": 80,
+        "quote_count": 8
+      }
+    }
+  ]
+}

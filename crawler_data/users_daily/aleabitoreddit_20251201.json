@@ -1,0 +1,66 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251201",
+  "last_updated": "2026-04-20T16:21:33.663108",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "1995543748353347989",
+      "text": "Analysis of the $GOOGL TPU v7 Ironwood Suppliers. \n\nHere's the list of what comapnies are the most materially impacted by the Google's TPU buildout.  \n\n+ the TPU stock I'm taking a position on. \n\n[Critical] Design/IP:\n- Broadcom [ $AVGO ]: co-designs and implements Google’s TPU ASICs\n\n[Critical/High] Semiconductor Fab:\n- #1 Taiwan Semi [ $TSM ]: TPUv7 is fabbed at TSMC 3nm\n-  #2 Samsung Electronics: Secondary memory & foundry partner\n\n[Critical/High] Memory:\n- #1 SK Hynix: HBM3E for TPUv7 Ironwood \n- #2 Samsung Electronics: ~TPUv7-specific reporting emphasizes SK hynix + Samsung.\n\n[High] Optical Networking:\n- Lumentum [ $LITE ]: Google uses extensively uses Optical Circuit Switching (OCS)\n-  Coherent [ $COHR ]: OCS player but weaker\n\n[High] Power Management ICs:\n- Monolithic [ $MPWR ]: This is speculative that Vicor will be replaced by $MPWR, from earnings mentioning TPU \n\n[Medium] Thermal Management:\n- Vertiv [ $VRT ]: Vertiv supplies the CDUs that act as the heart of the liquid cooling system, pumping coolant to the cold plates on the TPU chips\n\n- Modine [ $MOD ]: More speculative that they provide provides the massive chillers and air handling units (AHUs) \n\n[Medium] Interconnects:\n- TTM Technologies [ $TTMI ], $ANET, Unimicron, Ibiden\n\n______\n\nThe buildout of the Google TPU v7 \"Ironwood\" represents the construction of a parallel silicon ecosystem designed to break the monopoly of $NVDA GPU.\n\nThe material impact is most concentrated in Broadcom (as the silicon architect and commercial vehicle), the Memory Complex (SK Hynix/Samsung), and the Optical/Power sectors (Lumentum/Vertiv) and was created from public evidence but is largely dependent on adoption, vendor shares, and competitive responses actually play out. \n\nFrom this supply chain research, I'm initiating a new position in $LITE, in the event the TPU becomes the dominant ASIC for inference. \n\nLumentum is primary beneficiary of Google’s commitment to OCS and form the core of the \"Apollo\" OCS switches used in TPU pods. \n\nThe ramping of TPU v7 clusters translates directly to unit volume for Lumentum’s optical switch modules. And because OCS is a bespoke architecture unique to Google’s hyperscale approach, Lumentum faces less commoditization pressure here than in the standard transceiver market.\n\nHowever all companies in this supply chain are set to benefit if the TPU v7 scales up from Anthropic, Meta, Apple, and others buying the $GOOGL ASIC.",
+      "created_at": "Mon Dec 01 17:21:19 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1995543729990762500",
+          "url": "https://pbs.twimg.com/media/G7GYcxfbgAQrqWu.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1994555219607523362",
+        "text": "Nvidia ( $NVDA ) reported a blowout Q3 FY2026 revenue of $57.01 billion (+62.5% YoY). \n\nAnd guided $65B+ Q4 ($3B+ beat), and $500B+ USD in Blackwell/Rubin rev through CY 2026.\n\nDespite that, the stock dropped 12%. \n\nIs $NVDA a strong buy now? Here's the answer:\n\n$GOOGL TPU's program emerged as the first competitive alternative to $NVDA GPUs, with Anthropic committing to over 1 million TPU chips and Meta reportedly in advanced negotiations for billions in TPU purchases. Warren Buffet also recently invested $4B+ into $GOOGL, which is extraordinarily rare given Berkshire's conservative stance to tech investments.  \n\nDespite a record earnings beat, Nvidia's stock has declined in six of the last ten trading sessions and sits roughly 12-15% below its October 29 all-time high of $207.04, when it briefly touched a $5.03 trillion market cap. \n\nAnalyst reaction was overwhelmingly bullish, with price targets raised across the board:\n\n- Evercore ISI raised to $352 from $261\n- Bank of America raised to $275 from $235\n- Citigroup raised to $270 from $220\n- Goldman Sachs raised to $250 from $240\n- Morgan Stanley raised to $235 from $220\n\nBut here's the trillion dollar question: will the emerging custom silicon threat from hyperscalers reduce NVIDIA dominance in AI?\n\nUnlike $AMD, which primarily captures overflow demand when NVIDIA GPUs are unavailable, Google's TPU program represents a fundamentally different competitive dynamic.\n\nTPU v7 Ironwood is the first non-NVIDIA accelerator that achieves performance parity with Blackwell, delivering 4.6 petaflops of FP8 performance (versus B200's 4.5 petaflops) with 192GB HBM3e memory.\n\nIronwood's architectural differentiation is substantial. While NVIDIA's largest cluster configuration is 72 GPUs (NVL72), TPU Ironwood scleaes to 9,216 chip pods.\n\nThe customer wins are significant and growing:\n\n- Anthropic committed to over 1 million TPU chips worth \"tens of billions of dollars,\" with 1 gw of compute capacity coming online.\n\n- Meta is in advanced negotiations to rent TPU capacity from Google Cloud in 2026, with direct hardware purchases for its own data centers planned for 2027.\n\n- Apple revealed that Apple Intelligence foundation models were trained entirely on TPUs using 8,192 TPUv4 chips for server models\n\n- Midjourney switched from GPUs to TPUs and reduced inference costs by 65% (from $2M to $700K monthly)\n\nThe positioning is nuanced. TPUs excel at hyperscale inference with up to 4x better cost-performance for production serving at scale (for now). For training, NVIDIA is the clear advantage. \n\nFor highly optimized inference tasks, TPU architecture might remain more efficient than $NVDA's general-purpose GPU. \n\nHowever, I'm expecting next-gen Nvidia GPUs to leapfrog TPUs for inference in many scenarios. (similar to how LLMs leapfrog each other GPT 5 -> Gemini 3 -> Opus 4.5)\n\nWe're seeing:\n\nGoogle TPU, AWS Trainium, Meta MTIA, Microsoft Maia, and custom hyperscaler chips scale up to reliance on $NVDA. But will the cumulative effect on hyperscalers collectively reducing Nvidia's dominance?\n\nThe answer: No. Not yet. \n\nDominance is secured at least for the next two years. What happens after is only speculation.\n\nJust looking at the numbers: Q3 results confirm the company remains the essential infrastructure provider for AI, with a $500 billion order backlog providing exceptional visibility through 2026.\n\nBut the market appears to be pricing in this nuanced reality 3 years+ from now: long-term competitive uncertainty with custom hyperscaler chips.\n\nNvidia is completely sold out of capacity, and are likely to leapfrog TPU performance in their next generation chips (higher performance for inference while being general purpose). But the custom silicon threat and valuation concerns at 44x earnings remains a headwind.\n\nRegardless, $NVDA seems to be a strong mid term dip-buy now on fears, given the exceptional blowout earnings and backlog for the next 2 years.  \n\nThis is the only thing you need to remember:\n\nNVIDIA is a strong buy as long as it remains the industry’s first choice for AI workloads, with TPUs and AMD GPUs filling gaps when demand exceeds NVIDIA’s supply. \n\nNvidia is maxed out on backlog, and AI demand is not slowing down.",
+        "created_at": "Fri Nov 28 23:53:16 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1994552983384981504",
+            "url": "https://pbs.twimg.com/media/G64TXuxbgAA4oPC.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 38,
+          "favorite_count": 326,
+          "reply_count": 35,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 83,
+        "reply_count": 16,
+        "quote_count": 1
+      }
+    }
+  ]
+}

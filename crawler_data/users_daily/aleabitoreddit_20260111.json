@@ -1,0 +1,87 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260111",
+  "last_updated": "2026-04-20T16:21:33.654816",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2010255341196628117",
+      "text": "$CRDO is now back up 15.47%+.\n\nIt's funny billions were wiped from Credo just because $AMZN doesn't like Purple.\n\nCredo: \"We grew 272% Y/Y and beat earnings by 35%.\"\n\nMarket: \"Yeah, but are the cables Purple?\"\n\nSometimes markets are stupid and trade off Kindergarten logic. https://t.co/L2RjbB04GM",
+      "created_at": "Sun Jan 11 07:39:56 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2010253886330945536",
+          "url": "https://pbs.twimg.com/media/G-XbQkMawAA1KVA.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2008854319806787681",
+        "text": "I've added $CRDO on the 25.7% drop, taking advantage of CES misinformation.\n\n1. Large drop initially was because investors spotted orange and blue cables in $AMZN DCs (implying $CRDO customer loss). \n\nAll that happened was Amazon requested a color change for internal logistics. - confirmed by Vijay Rakesh from Mizuho. \n\n2. CES 2026 keynote - Second drop was Jensen Huang said \"Cableless\" design of Rubin NVL72 rack. \n\nThe \"cableless\" claim refers specifically to the internal copper backplane (blind-mate midplane) that connects the GPUs to the NVLink switches within a single rack. \n\n$CRDO's main product is AEC, for outside of the racks that connect the entire server rack to the network switch. Nvidia's \"Cableless\" Tech only replaces internal parts Credo didn't make. \n\nJensen did mention Spectrum-X Ethernet Photonics, but $CRDO is operating in the photonics space too with \"BlueBird\" (Optical DSPs) and \"ZeroFlap\" optics. And then there's Top of the Rack Connectivity, which is Credo's main business (which is the most power efficient solution for the next 2-3y).  \n\nThere are larger concerns over the shift to photonics (as I've pointed out with $AXTI multiple times), but industry is moving toward a hybrid model (copper + photonics) given the supply shortage. \n\nAgain as an overview, investors just did not know the nuances, not intentional disinformation.\n\nSo I ended up personally adding $CRDO since a large percent of its market cap got wiped from immaterial  + incorrect news.",
+        "created_at": "Wed Jan 07 10:52:47 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2008850929840447488",
+            "url": "https://pbs.twimg.com/media/G-DfRv_aYAAZAHU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 55,
+          "favorite_count": 685,
+          "reply_count": 30,
+          "quote_count": 17
+        }
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 275,
+        "reply_count": 13,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2010421989148852402",
+      "text": "Can anyone tell me why Walmart has a P/E of 40? \n\nIs this Pokemon Card and Towel reseller supposed to be growing faster than $TSM (33) and $MU (32)? https://t.co/kR3v3PQP13",
+      "created_at": "Sun Jan 11 18:42:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2010421070487273473",
+          "url": "https://pbs.twimg.com/media/G-ZzT9tawAEyqx3.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 614,
+        "reply_count": 121,
+        "quote_count": 4
+      }
+    }
+  ]
+}

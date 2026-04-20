@@ -1,0 +1,66 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251128",
+  "last_updated": "2026-04-20T16:21:33.663513",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "1994555219607523362",
+      "text": "Nvidia ( $NVDA ) reported a blowout Q3 FY2026 revenue of $57.01 billion (+62.5% YoY). \n\nAnd guided $65B+ Q4 ($3B+ beat), and $500B+ USD in Blackwell/Rubin rev through CY 2026.\n\nDespite that, the stock dropped 12%. \n\nIs $NVDA a strong buy now? Here's the answer:\n\n$GOOGL TPU's program emerged as the first competitive alternative to $NVDA GPUs, with Anthropic committing to over 1 million TPU chips and Meta reportedly in advanced negotiations for billions in TPU purchases. Warren Buffet also recently invested $4B+ into $GOOGL, which is extraordinarily rare given Berkshire's conservative stance to tech investments.  \n\nDespite a record earnings beat, Nvidia's stock has declined in six of the last ten trading sessions and sits roughly 12-15% below its October 29 all-time high of $207.04, when it briefly touched a $5.03 trillion market cap. \n\nAnalyst reaction was overwhelmingly bullish, with price targets raised across the board:\n\n- Evercore ISI raised to $352 from $261\n- Bank of America raised to $275 from $235\n- Citigroup raised to $270 from $220\n- Goldman Sachs raised to $250 from $240\n- Morgan Stanley raised to $235 from $220\n\nBut here's the trillion dollar question: will the emerging custom silicon threat from hyperscalers reduce NVIDIA dominance in AI?\n\nUnlike $AMD, which primarily captures overflow demand when NVIDIA GPUs are unavailable, Google's TPU program represents a fundamentally different competitive dynamic.\n\nTPU v7 Ironwood is the first non-NVIDIA accelerator that achieves performance parity with Blackwell, delivering 4.6 petaflops of FP8 performance (versus B200's 4.5 petaflops) with 192GB HBM3e memory.\n\nIronwood's architectural differentiation is substantial. While NVIDIA's largest cluster configuration is 72 GPUs (NVL72), TPU Ironwood scleaes to 9,216 chip pods.\n\nThe customer wins are significant and growing:\n\n- Anthropic committed to over 1 million TPU chips worth \"tens of billions of dollars,\" with 1 gw of compute capacity coming online.\n\n- Meta is in advanced negotiations to rent TPU capacity from Google Cloud in 2026, with direct hardware purchases for its own data centers planned for 2027.\n\n- Apple revealed that Apple Intelligence foundation models were trained entirely on TPUs using 8,192 TPUv4 chips for server models\n\n- Midjourney switched from GPUs to TPUs and reduced inference costs by 65% (from $2M to $700K monthly)\n\nThe positioning is nuanced. TPUs excel at hyperscale inference with up to 4x better cost-performance for production serving at scale (for now). For training, NVIDIA is the clear advantage. \n\nFor highly optimized inference tasks, TPU architecture might remain more efficient than $NVDA's general-purpose GPU. \n\nHowever, I'm expecting next-gen Nvidia GPUs to leapfrog TPUs for inference in many scenarios. (similar to how LLMs leapfrog each other GPT 5 -> Gemini 3 -> Opus 4.5)\n\nWe're seeing:\n\nGoogle TPU, AWS Trainium, Meta MTIA, Microsoft Maia, and custom hyperscaler chips scale up to reliance on $NVDA. But will the cumulative effect on hyperscalers collectively reducing Nvidia's dominance?\n\nThe answer: No. Not yet. \n\nDominance is secured at least for the next two years. What happens after is only speculation.\n\nJust looking at the numbers: Q3 results confirm the company remains the essential infrastructure provider for AI, with a $500 billion order backlog providing exceptional visibility through 2026.\n\nBut the market appears to be pricing in this nuanced reality 3 years+ from now: long-term competitive uncertainty with custom hyperscaler chips.\n\nNvidia is completely sold out of capacity, and are likely to leapfrog TPU performance in their next generation chips (higher performance for inference while being general purpose). But the custom silicon threat and valuation concerns at 44x earnings remains a headwind.\n\nRegardless, $NVDA seems to be a strong mid term dip-buy now on fears, given the exceptional blowout earnings and backlog for the next 2 years.  \n\nThis is the only thing you need to remember:\n\nNVIDIA is a strong buy as long as it remains the industry’s first choice for AI workloads, with TPUs and AMD GPUs filling gaps when demand exceeds NVIDIA’s supply. \n\nNvidia is maxed out on backlog, and AI demand is not slowing down.",
+      "created_at": "Fri Nov 28 23:53:16 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1994552983384981504",
+          "url": "https://pbs.twimg.com/media/G64TXuxbgAA4oPC.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1993283099162189962",
+        "text": "It’s hard for anyone in the AI space not to be bullish. \n\nCapex is ramping up. Exponentially. \n\nAnd flowing directly down to: \n\nNeoclouds: $CIFR, $NBIS, $WULF, $IREN, \n\nConnectivity: $ALAB, $CRDO, $CLS.\n\nEnergy: $VST, $FLNC, $TE, $EOSe\n\nSemi/foundries: $NVDA, $AMD, $GOOGL, $TSM\n\nMemory: $SNDK, $MU,  and $STX \n\nIn the past few weeks alone, we got:\n\n1. Manhattan Project for AI - US government is giving top models access to propriety labs data for accelerating research\n\n2. $GOOGL spending $40 on DC buildout in Texas\n\n3. Anthropic spending $50 on EC buildout to support their Opus 4.5+ models\n\n4. $TSM confining record forward revenue numbers (AI spend)\n\n5. $NVDA confirming record forward revenue numbers (AI spend, 2Y production locked in)\n\n6. $META upping 2025 DC/AI capex spend to $40-$45B for llama5-6\n\n7. 3x rate cut this year to accelerate growth and make funding cheaper.\n\n8. Dominion Energy warning of massive AI power load surge from AI datacenters \n\n9. $AVGO signaling AI networking orders at unprecedented scale\n\n10. UAE and sovereign countries pushing into AI \n\nWe’re not seeing any slowdown. Only record growth.\n\nIn fact, with the recent model developments from Claude Opus 4.5, Gemini 3, and now new commitment from the US government, it feels like we're just seeing the tip of the new frontier for Artificial Intelligence.",
+        "created_at": "Tue Nov 25 11:38:18 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1993282724581588994",
+            "url": "https://pbs.twimg.com/media/G6mQE7-bwAIYrZR.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 40,
+          "favorite_count": 274,
+          "reply_count": 21,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 38,
+        "favorite_count": 326,
+        "reply_count": 35,
+        "quote_count": 7
+      }
+    }
+  ]
+}

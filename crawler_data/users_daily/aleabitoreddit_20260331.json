@@ -1,0 +1,532 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 209105,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260331",
+  "last_updated": "2026-04-20T17:34:50.183269",
+  "tweet_count": 16,
+  "tweets": [
+    {
+      "id": "2038777289115345200",
+      "text": "CPO Value Chain Summary from Mirae Asset:\n\nLaser Source:\nCoherent < $COHR >\nLumentum < $LITE >\nFurukawa Electric (TYO: 5801)\nYuanjie Semiconductor (SHA: 688498)\nInnolight Technology / Zhongji Innolight (SZSE: 300308)\n\nPIC Foundry:\nTSMC < $TSM >\nGlobalFoundries $GFS\nSamsung Electronics (KRX: 005930)\nTower Semiconductor < $TSEM>\n\nEIC, Driver IC:\nBroadcom < $AVGO > \nMarvell < $MRVL >\nNVIDIA < $NVDA >\n\nELS, Optical Engine\nInnolight / Zhongji Innolight (SZSE: 300308)\nTFC / Suzhou TFC Optical Communication (SZSE: 300394)\nO-Net Technologies \nEoptolink Technology (SZSE: 300502)\n\nFAU (Fiber Array Unit):\nSenko Advanced Components (Private)\nSumitomo Electric (TYO: 5802)\nTFC (SZSE: 300394)\nFOCI Fiber Optic Communications (TWO: 3363)\n\nFAU, Align Tools:\nficonTEC (Private)\nAll Ring Tech (TWO: 6187)\nADST (Private)\n\nFAU, Engine Assembly:\nFabrinet < $FN >\nHon Hai / Foxconn (TWSE: 2317)\nASE Technology < $ASX > \nFOCI (TWO: 3363)\n\nOSAT, Advanced Packaging:\nASE Technology < $ASX >\nAmkor < $AMKR > \nKyocera (TYO: 6971)\nPowertech / PTI (TWSE: 6239)\nShinko Electric (TYO: 6967)\nFabrinet < $FN >\n\nConnector, Ferrule:\nSenko Advanced Components (Private)\nSumitomo Electric (TYO: 5802)\nUS Conec (Private)\nT&S Communications (SZSE: 300570)\nMolex (Private)\nBrowave (TWO: 3163)\n\nFiber: \nCorning < $GLW >\nSumitomo Electric (TYO: 5802)\nNittobo / Nitto Boseki (TYO: 3110)\n\nE/O Testing: \n\nKeysight < $KEYS > \nTeradyne < $TER >\nFormFactor < $FORM > \nChroma ATE (TWSE: 2360)\nMultilane (Private)\n\nSwitch, System: \nNVIDIA < $NVDA > \nBroadcom < $AVGO > \nMarvell < $MRVL > \nGoogle < $GOOGL> \n\nEDA: \nSynopsys < $SNPS > \nCadence < $CDNS > \nAnsys < $ANSS > \n\nConfused by some of names of the list, they might have conflated a few names like Innolight with laser source like $MTSI, Sumitomo, $SIVE, Luxnet, with the actual end module (unless there's something that's not public material or I missed)? \n\nBut just for people interested in the landscape, this is a good high-level overview.",
+      "created_at": "Tue Mar 31 00:35:59 +0000 2026",
+      "lang": "ro",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038774939898277888",
+          "url": "https://pbs.twimg.com/media/HEsvAYWa8AAEIdk.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2038436546412769560",
+        "text": "CPO Landscape Mirae Analyst Note: \n\nScale-Across:\nCPO ASIC: $AVGO, $MRVL\nOptical Transceiver: $COHR, $LITE, Innolight\nDSP/PAM4: $AVGO, $MRVL\nCoherent DCI: $CIEN, $NOK\nOCS Equipment: iPronics, Polatis\nOptical Cable / Fiber: $GLW, Prysmian, Furukawa\nHCF: $LITE, OFS\nDCI Coherent: Ciena, Nokia, Huawei\nOptical Amplifier: $LITE, $COHR\nOCS Gateway: KDDI\n\nScale-Up:\nSiPh Foundry: imec, $GFS, $TSM\nSiPh Modulator: $NVDA (in-house MRM), $INTC\nELS: NTT, Furukawa, $LITE, $COHR\nTHz Interconnect: R&D Stage?\nCPO Test: \"Expanding entry of new players\"\nMicro Lens / Optical Systems: \"Expanding entry of new players\"\n\nTLDR: Scale Up CPO is coming next. Think the analyst note missed a bunch of upstream names and conflated ELS with light source. \n\nBut it's helpful to see who they think the leading players are as a very high-level view.",
+        "created_at": "Mon Mar 30 02:01:59 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038436021415845888",
+            "url": "https://pbs.twimg.com/media/HEn6wunaIAAFIZw.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2038436078131335168",
+            "url": "https://pbs.twimg.com/media/HEn60B5b0AApBES.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 33,
+          "favorite_count": 299,
+          "reply_count": 13,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 322,
+        "reply_count": 20,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2038785650632397005",
+      "text": "Or... instead of spending billions on \"cheaper missiles\". \n\nSince blowing $3-4M Patriots to down cheap drones isn't working.\n\nWe start to do more research and deploy Energy Directed Weapons like $LASR and HPM?\n\nWith HEL (High Energy Lasers):\n\n It's a beam of light... pew pew. $3.50 per shot. \n\nWith HPM (High Powered Microwaves) - It's a cone of energy for drone swarms. \n\nMaybe ~$0.05 per burst? Ammo is basically free and infinite. \n\nEven though $LMT and $RTX are developing these too... it's like we just keep buying expensive missiles to line their pockets at this point. \n\nMore funding around this infinite ammo new tech, instead used for all those missiles...\n\nProbably could have made energy weapons better by now (eg. fixing problems with dwell time, weather changes, range, power). \n\nFiring billions of dollars of missiles at cheap drones clearly is not sustainable for extended conflicts in Iran.",
+      "created_at": "Tue Mar 31 01:09:12 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038784075847393280",
+          "url": "https://pbs.twimg.com/media/HEs3UKabYAAGbQ9.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 266,
+        "reply_count": 20,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2038792069079339162",
+      "text": "“Trump Tells Aides He's Willing to End War Without Reopening Hormuz\"\n\nUS indexes have shot up ON, but KOSPI (-3.55%) and Nikkei (-.85%) trading live are still down.\n\nIt goes from:\n\n\"Global Energy Crisis\" -> 🌮 -> \"Global Energy Crisis\" -> 🌮. \n\nI don't think anyone trading with public knowledge knows what's going on anymore...",
+      "created_at": "Tue Mar 31 01:34:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038792061345026048",
+          "url": "https://pbs.twimg.com/media/HEs-k-tbUAAuRgp.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038792061344944128",
+          "url": "https://pbs.twimg.com/media/HEs-k-taEAAtPdk.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 358,
+        "reply_count": 46,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2038817828275642424",
+      "text": "Can we please… just secure our rare earths supply chains first before we do this?\n\nHow are we able to spend billions on glass towers in Miami?\n\nBut not subsidize all our most important AI, Robotics, and Space rare earth upstream supply chains… \n\nThat are entirely dependent on China/Russia? \n\nWe literally have no domestic processing at scale for some of the most vital chokepoints from Humanoids bodies to indium/germanium/gallium for AI applications.\n\nPicking a few like $MP to $USAR and saying “we did something” is not enough.\n\nThe Rare Earths chokepoint is a ticking time bomb that China set over the US.\n\nAmerica has its prioritizes completely wrong",
+      "created_at": "Tue Mar 31 03:17:04 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038817742325956608",
+          "url": "https://pbs.twimg.com/media/HEtV7z0aQAA24F1.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038817742338613248",
+          "url": "https://pbs.twimg.com/media/HEtV7z3bYAARCqX.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 396,
+        "reply_count": 49,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2038876668765610085",
+      "text": "Introducing the Strait of $AXTI: \n\n20% of the world's total global oil supply passes through the Strait of Hormuz.\n\nIt is the single most critical chokepoint in the global energy trade.\n\nNow... Double That with $LITE and $GOOGL instead of South Korea/Japan as recipients? \n\nWelcome to $AXTI. \n\nThey control 40% of the InP supply chain. \n\nBoth in the raw materials and processing. Two separate different bottlenecks (think of Iran producing oil, then shipping it through the Strait). \n\nSo, if you 2x the chokepoint with the Hormuz oil bottleneck (but on AI industry level for photonics, instead of Country economies):\n\nYou suddenly realize AXT's chokepoint (and China) on the photonics market.\n\nThe current valuation is derived from strategic control. Then the main value comes when AXT exerts its control with price hikes:\n\nSince the AI buildout with photonics has no other choice at scale.",
+      "created_at": "Tue Mar 31 07:10:52 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038875371312152576",
+          "url": "https://pbs.twimg.com/media/HEuKWQhagAA8RB2.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 62,
+        "favorite_count": 833,
+        "reply_count": 42,
+        "quote_count": 10
+      }
+    },
+    {
+      "id": "2038913900582998087",
+      "text": "My original post on $RPI and OpenClaw vertaim:\n\n\"But if the demand influx continues, we might see revenue numbers might hit increase from 14% growth to a modest 48-55% if hoarding continues.\"\n\n$RPI New Analyst Projections:\n\nThe broker raised its 2026 $RPI forecast to $511 million from $360 million, implying 58% year-on-year growth.\n\n....\n\nThe media labeled \"Meme Stock\" $RPI from my thesis is up 27% on the projections beat.",
+      "created_at": "Tue Mar 31 09:38:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038913894555725824",
+          "url": "https://pbs.twimg.com/media/HEutYmyaMAAN4WX.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2023415224372756782",
+        "text": "Fun Trade Idea: Long $RPI (Raspberry Pi) \n\nReason: 🦞 Openclaw / Picoclaw / Nanobot + Hoarding.\n\nEveryone has been openly hoarding Apple Mac Minis and were long Apple. \n\nBut $APPL is already a $3.7T+ company. Product mass-buying won't make a dent.\n\nRaspberry Pi, however, is a 542.68M company. \n\nThe revenue is material. \n\nFeels like markets haven't priced this in since I've seen almost 0 mentions about the ticker on X (but many product mentions). \n\nAnd it's only recently that have the hoarding started Raspberry Pis, as they're much cheaper than $500+ Apple products. They also have their mini $NVDA CUDA-light utility ecosystem that people use. \n\nSo it turns out these extremely cheap $20 or $200 devices are perfect for deploying mass deploying isolated instances.\n\nThe reason is for OpenClaw orchestration (so they don’t mess up your device) -> interfacing with a central LLM via API.\n\nBefore people were just buying 1 or 2 for hobby/education purposes, so revenue has slowing. \n\nBut now Silicon Valley startups and individuals anecdotally appear to be buying tens or hundreds of these things to run concurrent OpenClaw agentic swarms or do stuff like agentic marketing on Reddit and other places.\n\nAnd no, there are many applications that can't be done by spinning up AWS VPS, so people do it locally (there's TOS around automation/AI bots, so companies setup their own servers).\n\nThat being said main downside risk is that its\n\n- partially foundation owned, and they might not hike rates like $SNDK or $MU does, even if there's extreme demand\n\n- Subject to memory price hikes like LPDDR4 component\n\nso this is not a major position. \n\nHowever, going forward, revenue should increase due to people buying tens or hundreds of these things for running AI agents. \n\nBalance sheet also looks clean with low downside risk:\n\n- ~$280M - $300M revenue\n- ~$75M+ Gross Profit\n- ~25% Gross Margin\n- Net income: ~$10M - $15M\n- Net Cash: $28M\n\nAnalysts currently project revenue growth closer to 14–17%. \n\nBut if the demand influx continues, we might see revenue numbers might hit increase from 14% growth to a modest 48-55% if hoarding continues. \n\nConsumer segments are roughly 1/3rd of revenue but the newfound buying from Openclaw + variants is a new cataylst nevertheless for re-rating.\n\nEspecially now that Picoclaw and compressed OpenClaw variants are now able to be run on $20 Raspberry Pis instead of just the Raspberry Pi 5’s.\n\nBut seems like people just forgot Raspberry PI was a publicly stock as well. \n\nThe stock price is down 56% 1Y to 542.68M euro MC to an all time low. \n\nSo this might be that tailwind for a reversal. \n\nThere's also a non-zero chance OpenClaw is a long term catalyst for Raspberry Pi based, agentic deployments. \n\nTLDR: People are openly buying Raspberry Pis and Apple Mac Minis for Openclaw/Picoclaw, so revenue should benefit from increased demand.",
+        "created_at": "Mon Feb 16 15:12:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023415213773729792",
+            "url": "https://pbs.twimg.com/media/HBSdapoasAAeOk3.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2023415213735944192",
+            "url": "https://pbs.twimg.com/media/HBSdapfaIAA8bK6.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 56,
+          "favorite_count": 925,
+          "reply_count": 50,
+          "quote_count": 27
+        }
+      },
+      "stats": {
+        "retweet_count": 25,
+        "favorite_count": 184,
+        "reply_count": 15,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2038919845623017874",
+      "text": "Bruh wtf... Everyone was doubting me on $RPI, calling it a \"Meme Stock\"???\n\nI literally projected 48-55% forward revenue growth and backed it up with fundamentals. \n\nWhile all the analysts were saying 14-17% and news outlets were saying \"Meme Stock\"??\n\nAnd they updated $RPI to 58% projected Y/Y growth after earnings.  \n\nSpot on and vindicated like $AXTI. \n\nEspecially when I projected 3-4X industry growth estimates.\n\nNow $RPI is at ~19x-23.8x fwd p/e, with revenue acceleration due to OpenClaw.",
+      "created_at": "Tue Mar 31 10:02:27 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038919557507960832",
+          "url": "https://pbs.twimg.com/media/HEuyiO7b0AAwl_T.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2038913900582998087",
+        "text": "My original post on $RPI and OpenClaw vertaim:\n\n\"But if the demand influx continues, we might see revenue numbers might hit increase from 14% growth to a modest 48-55% if hoarding continues.\"\n\n$RPI New Analyst Projections:\n\nThe broker raised its 2026 $RPI forecast to $511 million from $360 million, implying 58% year-on-year growth.\n\n....\n\nThe media labeled \"Meme Stock\" $RPI from my thesis is up 27% on the projections beat.",
+        "created_at": "Tue Mar 31 09:38:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038913894555725824",
+            "url": "https://pbs.twimg.com/media/HEutYmyaMAAN4WX.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 25,
+          "favorite_count": 184,
+          "reply_count": 15,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 177,
+        "reply_count": 18,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2038934006734135572",
+      "text": "Pls stop tagging me in stuff where random retail investors or journalists tries doing an analysis on $AXTI or $SIVE.\n\nFor $AXTI:\n\nMajority of folks have 0 clue what they’re talking about. \n\nSamsung Foundry or $LITE InP fab are completely different parts of the supply chain and this is like conflating NAND and DRAM as memory.\n\nEven talking about Sumitomo displacing AXT means they don’t understand the upstream extraction/processing/crucible bottlenecks that InP substrate level players like $COHR or Sumitomo don’t do.\n\nFor $SIVE:\n\nThis is mass inflection point of CPO scale up 2027 onwards. \n\nI have idiots out there with no understanding of photonics looking at gross margin, burn rate, and former revenue numbers for previous years or even the current year.\n\nFor the biggest architectural inflection 2027 onwards. \n\nIf you look at $MRVL Celestial point its starting volume ramp 2027 and exponentially increasing 2028, 2029.\n\nThat’s why I said $SIVE can be a $10B+ company one day since it’s looking at forward growth and this is the earliest out on.\n\nWhat I do is find alpha:\n\nThis is what markets might have mispriced like all the analysts saying 14-17% fwd growth with $RPI.\n\nThen I modeled 55% and it turned out to be 58%.\n\nOne is a photonics bottleneck for a reason.\n\nThe other is designed into Jabil and Celestial for a reason.",
+      "created_at": "Tue Mar 31 10:58:43 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 22,
+        "favorite_count": 452,
+        "reply_count": 31,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2038943956697059637",
+      "text": "Just look at $MRVL Celestial ( $SIVE is the light source at ~$290m ) as an example.\n\nMarvell bought it for $5.5B. ($3.25B + 2.25B milestones).\n\n2026/2027 expectations: 0 revenue, -$50m loss\n\n2028 expectations: $500m revenue\n2029 expectations: $1B revenue.\n\nThis is massive TAM expansion and revenue acceleration.\n\nThis is just one of Sivers customer on top of O-Net, Ayar, other undisclosed CPO players, with Jabil bridging volume ramp and Win with yields.\n\nRandom retail users with no understanding of photonics… are doing the equivalent of modeling Celestial at $50m because of no CPO revenue in 2025 2026. \n\nAnd because it’s operating at a net loss instead of looking at the massive ramp 2027 onward.\n\n$SIVE is my #1 pick for frontrunning the next architectural supercycles at the very beginning for ELS TAM expansion + CPO + CW laser chokepoints. \n\nIf you want a later stage pick, you can look at $LITE that already ran 3800%.",
+      "created_at": "Tue Mar 31 11:38:15 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2038934006734135572",
+        "text": "Pls stop tagging me in stuff where random retail investors or journalists tries doing an analysis on $AXTI or $SIVE.\n\nFor $AXTI:\n\nMajority of folks have 0 clue what they’re talking about. \n\nSamsung Foundry or $LITE InP fab are completely different parts of the supply chain and this is like conflating NAND and DRAM as memory.\n\nEven talking about Sumitomo displacing AXT means they don’t understand the upstream extraction/processing/crucible bottlenecks that InP substrate level players like $COHR or Sumitomo don’t do.\n\nFor $SIVE:\n\nThis is mass inflection point of CPO scale up 2027 onwards. \n\nI have idiots out there with no understanding of photonics looking at gross margin, burn rate, and former revenue numbers for previous years or even the current year.\n\nFor the biggest architectural inflection 2027 onwards. \n\nIf you look at $MRVL Celestial point its starting volume ramp 2027 and exponentially increasing 2028, 2029.\n\nThat’s why I said $SIVE can be a $10B+ company one day since it’s looking at forward growth and this is the earliest out on.\n\nWhat I do is find alpha:\n\nThis is what markets might have mispriced like all the analysts saying 14-17% fwd growth with $RPI.\n\nThen I modeled 55% and it turned out to be 58%.\n\nOne is a photonics bottleneck for a reason.\n\nThe other is designed into Jabil and Celestial for a reason.",
+        "created_at": "Tue Mar 31 10:58:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208943,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 22,
+          "favorite_count": 452,
+          "reply_count": 31,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 25,
+        "favorite_count": 255,
+        "reply_count": 24,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2038954532944875733",
+      "text": "Just in: $NVDA invests $2B in $MRVL.\n\nThis deal is largely for “joint silicon photonics work” and validates Marvell and Celestial AI's optical fabric CPO roadmap.\n\nBut… guess who powers the light source for $MRVL that markets might have missed? (Hint: $SIVE) https://t.co/9lqJLIx7nG",
+      "created_at": "Tue Mar 31 12:20:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038954526326288384",
+          "url": "https://pbs.twimg.com/media/HEvSVr7acAApt8H.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 51,
+        "favorite_count": 449,
+        "reply_count": 38,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2038959008514801969",
+      "text": "It would be a shame if $AVGO bought $SIVE for $300m…\n\nThen controlled the near term roadmap for $NVDA and $MRVL from the upstream light source level.\n\nI’m sure Broadcom isn’t thinking about this… right? https://t.co/wrS431DG8n",
+      "created_at": "Tue Mar 31 12:38:04 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038958998846840832",
+          "url": "https://pbs.twimg.com/media/HEvWaBXaIAAVXIs.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2038954532944875733",
+        "text": "Just in: $NVDA invests $2B in $MRVL.\n\nThis deal is largely for “joint silicon photonics work” and validates Marvell and Celestial AI's optical fabric CPO roadmap.\n\nBut… guess who powers the light source for $MRVL that markets might have missed? (Hint: $SIVE) https://t.co/9lqJLIx7nG",
+        "created_at": "Tue Mar 31 12:20:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2038954526326288384",
+            "url": "https://pbs.twimg.com/media/HEvSVr7acAApt8H.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208943,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 51,
+          "favorite_count": 449,
+          "reply_count": 38,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 248,
+        "reply_count": 30,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2038965788724560093",
+      "text": "Thesis validation in effect. \n\n$RPI up 44.76% after earnings.\n\nRaspberry Pi likely has a long way to go with some ~11-13x p/e projections for 2027. \n\nAnd ~19-22x for 2026.\n\nWith a massive surge in demand to 58% fwd growth from 14% expected…\n\nRaspberry Pi has become the rapidly accelerating AI orchestration hardware of choice for OpenClaw.",
+      "created_at": "Tue Mar 31 13:05:00 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038965782240165888",
+          "url": "https://pbs.twimg.com/media/HEvck3eaAAAiSx3.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 242,
+        "reply_count": 21,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2038971821635326368",
+      "text": "$AEHR new qualification orders from a leading optical transicever company.\n\nIt’s in the early $AAOI stage where it’s getting tested by major hyperscaler supply chains for optical transceivers/silicon photonics.\n\nBefore the mass volume inflection point that may be at any time.\n\n$AEHR up 12.73% premarket.",
+      "created_at": "Tue Mar 31 13:28:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038971731013173248",
+          "url": "https://pbs.twimg.com/media/HEvh_IYagAA2t1d.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 22,
+        "favorite_count": 339,
+        "reply_count": 25,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2038980162214347005",
+      "text": "****. Sorry $MRVL holders. https://t.co/JMZ16QJRsL",
+      "created_at": "Tue Mar 31 14:02:07 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038980153745997824",
+          "url": "https://pbs.twimg.com/media/HEvppZgaAAAxO3e.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2038973768031219833",
+        "text": "I am all in Marvell..",
+        "created_at": "Tue Mar 31 13:36:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "14216123",
+          "name": "Jim Cramer",
+          "screen_name": "jimcramer",
+          "description": "Host of @madmoneyoncnbc and I run the CNBC Investing Club. \n\nMy new book is out now: https://t.co/autOFQ2NP0",
+          "followers_count": 2386933,
+          "friends_count": 702,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 92,
+          "favorite_count": 1264,
+          "reply_count": 488,
+          "quote_count": 152
+        }
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 420,
+        "reply_count": 33,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2038998103177728246",
+      "text": "$RPI does look sort of cheap for GAAP forward projections.\n\n- 2026 Forward P/E: $5.29 / $0.256 = \n\n20.6x\n\n- 2027 Forward P/E: $5.29 / $0.400 = \n\n13.2x\n\n- 2028 Forward P/E: $5.29 / $0.553 = \n\n9.5x\n\nOff personal projections. Especially when you’re growing 58% Y/Y (expect this to beat again due to OpenClaw buying):\n\nThere’s not really much of a premium when it trades at 2x fwd/sales. Especially when theres new TAM expansion opportunities in the AI agentic hardware space. \n\nThe downside risk is, OpenClaw is just a short term trend. But Jensen did validate it as the next major trend at GTC.\n\nIf it is structural demand and Raspberry Pi is the $NVDA for consumer agentic hardware… could be a great opportunity at ~$1B MC.",
+      "created_at": "Tue Mar 31 15:13:25 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2038998090905264128",
+          "url": "https://pbs.twimg.com/media/HEv59eoboAAsA_s.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2038998090896863232",
+          "url": "https://pbs.twimg.com/media/HEv59embcAAnxKZ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 117,
+        "reply_count": 20,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2039011647264903382",
+      "text": "The market are missing the implications from $NVDA investing:\n\n$2B into $COHR for optical.\n$2B into $LITE for optical.\nand $2B into $MRVL for optical today. \n\nNvidia did this exact same playbook last year.\n\nThey realized the push to 800G/1.6T pluggables would exhaust the global supply of EML.\n\nSo they approached $LITE, $COHR, Sumitomo, and preallocated majority of production. \n\nAnd we've seen this reflected in their share price with $LITE rising 955% since the major supply squeeze. \n\nWe're seeing the beginning of the same playbook happen now over the last month. \n\nJust for a new architecture, this time. \n\nAs these deals included multibillion-dollar purchase commitments and future capacity rights.\n\nSo... what's next? CW/EML and CPO bottlenecks. \n\nNvidia just prefers to invest in downstream players. But the supply crunch happens upstream. \n\nLaser suppliers from $MTSI, $SIVE, $LITE, $COHR, Furukawa, and Sumitomo are on overdrive. \n\nFoundries from Win Semi, $TSEM, $GFS are likely on overdrive.\n\nThe entire supply chain benefits (eg. testing from $AEHR, substrates with $SOI).\n\nBut these two segments from foundries to ELS/CW laser chokepoints are likely to be the biggest beneficiaries.\n\nNvidia is the biggest signal of what's coming next; it's just a waiting period for the inflection point to hit.",
+      "created_at": "Tue Mar 31 16:07:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2039010301635665920",
+          "url": "https://pbs.twimg.com/media/HEwFEPJbIAAKCVJ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 75,
+        "favorite_count": 707,
+        "reply_count": 31,
+        "quote_count": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251202",
+  "last_updated": "2026-04-20T16:21:33.662879",
+  "tweet_count": 4,
+  "tweets": [
+    {
+      "id": "1995644085563261034",
+      "text": "Upgrading $SMCI to EXTREMELY STRONG BUY at ~$33 (≈$19B MC).\n\n• FY’26 raised to $36B+ revenue (≈60%+ YoY from $22B).\n\n• AI DC build-out (e.g. $NBIS, $IREN, $DGXX) keeps GPU server demand maxed.\n\nThis isn't a $CRDO 272% Y/Y ER story but it's mispriced value. \n\nHere's why:\n\nSMCI dropped on earnings due to two things, fears over margin compression and revenue miss.\n\n_\n\n1. The Q1 2026 “miss” was delayed orders:\n\n• Revenue came in at $5B vs prior $6–7B guide. \n\n• However, all this was, is $1.5B getting pushed into Q2 from customers waiting for Nvidia’s Blackwell Ultra config. And they even **raised FY guidance** from $33B to FY $36B. \n\n2. Margins compression fears:\n\n•  FY 2025 Net Margin: ~5.9% ($1.3B Net Income on $22B Revenue).\n\n• The current margin compression is temporary. As DLC manufacturing moves down the learning curve, unit costs drop and margins climb. Management is targeting ~11% gross margin in the back half of the year, with net margins snapping back toward ~5.5%.\n\nIf margin merely mean-reverts toward ~11% and net margins toward ~5–6% on a $36–38B revenue base, you're looking at $2B+ in earnings. \n\nRevenue: $38.0 Billion\nNet Margin: 5.5% (Recovery Case)\nImplied Net Income: $2.09 Billion\nShare Count: 680 Million (Diluted)\nStock Price: ~$33.85\nP/E Calculation: $33.85 / $3.07 = 11.0x\n\nForward P/E: Approximately 10x-13x, for a stock with 60%+ forward growth. Dirt cheap. \n\n_ \n\n$SMCI doesn’t depend on GPU useful-life accounting games, it sells the racks either way. \n\nAlso post $NVDA, $NBIS, $CRDO, and other AI DC stocks-post ER confirmed the AI boom is not slowing down. \n\n$SMCI is the epicenter of the AI/DC boom, growing 60%+ Y/Y but the market is treating it like it's a $MSTR-like distressed asset.\n\nThus I'm taking long positions since $SMCI looks to be one of the most compelling risk-adjusted 6 month (medium term) trades for 50-100% upside I've seen in the hardware sector.",
+      "created_at": "Tue Dec 02 00:00:01 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1995631452214755333",
+          "url": "https://pbs.twimg.com/media/G7HoO4PbgAUEJKp.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1995543748353347989",
+        "text": "Analysis of the $GOOGL TPU v7 Ironwood Suppliers. \n\nHere's the list of what comapnies are the most materially impacted by the Google's TPU buildout.  \n\n+ the TPU stock I'm taking a position on. \n\n[Critical] Design/IP:\n- Broadcom [ $AVGO ]: co-designs and implements Google’s TPU ASICs\n\n[Critical/High] Semiconductor Fab:\n- #1 Taiwan Semi [ $TSM ]: TPUv7 is fabbed at TSMC 3nm\n-  #2 Samsung Electronics: Secondary memory & foundry partner\n\n[Critical/High] Memory:\n- #1 SK Hynix: HBM3E for TPUv7 Ironwood \n- #2 Samsung Electronics: ~TPUv7-specific reporting emphasizes SK hynix + Samsung.\n\n[High] Optical Networking:\n- Lumentum [ $LITE ]: Google uses extensively uses Optical Circuit Switching (OCS)\n-  Coherent [ $COHR ]: OCS player but weaker\n\n[High] Power Management ICs:\n- Monolithic [ $MPWR ]: This is speculative that Vicor will be replaced by $MPWR, from earnings mentioning TPU \n\n[Medium] Thermal Management:\n- Vertiv [ $VRT ]: Vertiv supplies the CDUs that act as the heart of the liquid cooling system, pumping coolant to the cold plates on the TPU chips\n\n- Modine [ $MOD ]: More speculative that they provide provides the massive chillers and air handling units (AHUs) \n\n[Medium] Interconnects:\n- TTM Technologies [ $TTMI ], $ANET, Unimicron, Ibiden\n\n______\n\nThe buildout of the Google TPU v7 \"Ironwood\" represents the construction of a parallel silicon ecosystem designed to break the monopoly of $NVDA GPU.\n\nThe material impact is most concentrated in Broadcom (as the silicon architect and commercial vehicle), the Memory Complex (SK Hynix/Samsung), and the Optical/Power sectors (Lumentum/Vertiv) and was created from public evidence but is largely dependent on adoption, vendor shares, and competitive responses actually play out. \n\nFrom this supply chain research, I'm initiating a new position in $LITE, in the event the TPU becomes the dominant ASIC for inference. \n\nLumentum is primary beneficiary of Google’s commitment to OCS and form the core of the \"Apollo\" OCS switches used in TPU pods. \n\nThe ramping of TPU v7 clusters translates directly to unit volume for Lumentum’s optical switch modules. And because OCS is a bespoke architecture unique to Google’s hyperscale approach, Lumentum faces less commoditization pressure here than in the standard transceiver market.\n\nHowever all companies in this supply chain are set to benefit if the TPU v7 scales up from Anthropic, Meta, Apple, and others buying the $GOOGL ASIC.",
+        "created_at": "Mon Dec 01 17:21:19 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1995543729990762500",
+            "url": "https://pbs.twimg.com/media/G7GYcxfbgAQrqWu.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 83,
+          "reply_count": 16,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 160,
+        "reply_count": 18,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "1995748664917327966",
+      "text": "Due to declining impression count across the FinX sector from Grok algo changes favoring viral content over stocks.\n\nI have no choice but to change my $RDDT fictional profile picture to a girl. \n\nCurrently at 13.2k followers. Lets see where I’m at the EOY\n\nOnly the OGs will know https://t.co/PtWjlBz1FL",
+      "created_at": "Tue Dec 02 06:55:35 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1995748652892258307",
+          "url": "https://pbs.twimg.com/media/G7JS02ybgAMrL9d.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "1995748652892258306",
+          "url": "https://pbs.twimg.com/media/G7JS02ybgAIDFYx.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1995252208615731411",
+        "text": "I’m changing my profile pic to a girl\n\nCurrently at 4833 followers. Let’s see where i’m sitting at the end of the year.\n\nOnly the OGs will know. https://t.co/IFI0Ygcuwk",
+        "created_at": "Sun Nov 30 22:02:51 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1995252204392120320",
+            "url": "https://pbs.twimg.com/media/G7CPTwAbgAAtEi_.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "1995252204379439104",
+            "url": "https://pbs.twimg.com/media/G7CPTv9aAAAShDL.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1811324225648816128",
+          "name": "Connor",
+          "screen_name": "BusDownBonnor",
+          "description": "23 | Mobile App Bootstrapper | $2M+ ARR | AI Agents | “Lebron of Vibecoding” | Helping app devs make $$",
+          "followers_count": 13717,
+          "friends_count": 220,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 313,
+          "favorite_count": 43120,
+          "reply_count": 1545,
+          "quote_count": 1370
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 86,
+        "reply_count": 20,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "1995865990341496999",
+      "text": "Google ( $GOOGL ) CEO recently unveiled: Project Suncatcher, a project to create datacenters in space in 2027. \n\nNext generation TPUs will run on solar-powered satellite constellations to scale ML flows. \n\nThe biggest beneficiary?\n\nPlanet Labs ( $PL ) and by derivative $RKLB and SpaceX. \n\nPlanet Labs, a lesser known, small cap $3.5B space company, has huge upside with this deal. \n\nPlanet labs will deploy two prototype satellites for Google, targeting a launch by early 2027. The launch providers that $PL uses are $RKLB (January 2018 and October 2020) and SpaceX. One of which (Rocketlab) reminds one of my highest conviction longs. \n\nFor $PL revenue is likely in the small $10-$40M range. But a full constellation would bring in $250 million to $1 billion+ (and more at scale) if the prototype goes well. \n\nAre you riding the $GOOGL supplier train?",
+      "created_at": "Tue Dec 02 14:41:48 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1995864754083299338",
+          "url": "https://pbs.twimg.com/media/G7K8a1bbgAoRIDK.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 116,
+        "reply_count": 9,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "1995969036203819444",
+      "text": "Maybe investing in Sydney Sweeney was the right choice over $IREN https://t.co/ILS59toTm7",
+      "created_at": "Tue Dec 02 21:31:16 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1995969024669483012",
+          "url": "https://pbs.twimg.com/media/G7MbQLobgAQds4_.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "1995969024669483014",
+          "url": "https://pbs.twimg.com/media/G7MbQLobgAYIWDA.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 105,
+        "reply_count": 20,
+        "quote_count": 0
+      }
+    }
+  ]
+}

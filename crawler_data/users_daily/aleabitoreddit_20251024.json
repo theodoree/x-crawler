@@ -1,0 +1,60 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251024",
+  "last_updated": "2026-04-20T16:21:33.671016",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "1981759104831115698",
+      "text": "This week retail panic sent $NBIS tumbling to $94.\n\nUnfortunately, many retail are outside this community and sold shares in fear (mixed with MM mechanical hedging) based on stock price dropping alone.\n\nIn the past two days, Nebius is back up over 17%.\n\nThis is why why Conviction + Fundamentals/Knowledge > stock price.\n\nDuring the drop, institutions quietly stepped in and acquired more from darkpools + other methods.\n\n_\n\nFundamentally, Nebius was very undervalued. My base-case valuation of $NBIS sits near $39B today, with room to reach $100B within a year with another hyperscaler partnership. \n\nNebius powers parts of Microsoft Azure and other future hyperscale infrastructure. Institutions know this, and they'll do whatever it takes to grow their ownership in a company at the core of global compute.\n\nIf retail doesn't develop conviction in the stock from fundamentals and understand how institutions play the  game, using dark pools, options flow, and to accumulate shares without moving prices, they'll capitulate purely off of fear instead of material changes.\n\nAs noted in today’s Seeking Alpha piece \"Nebius Pullback, The Smart Money Entry Point\":\n\n\"WhaleStream reports that approximately $100 million of net inflows were concentrated within the $103.90 area, indicating fresh institutional interest.\n\nThis was confirmed by Fintel data (extracted from Nasdaq, FINRA, and Capital IQ),  which records the off-exchange short-volume ratio near 19% and reinforces the thesis of significant Nebius buying through dark  pools by the institutions.\n\nIn practice, this supports the view that much  of the Nebius buying is happening quietly through dark pools, as aligned with the observed build-up of call options.\"\n\nAccumulation is strategic but hidden in plain sight. Don't be shaken off.",
+      "created_at": "Fri Oct 24 16:26:04 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1981753666747904000",
+          "url": "https://pbs.twimg.com/media/G4CadcrWMAAglfO.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1981351114655346809",
+        "text": "Why I think $NBIS can easily hit ~$400/share or $100B+ market cap in 1 year:\n\nRight now, Nebius trades at a $24B valuation (316%+ increase to $100B).\n\nIf we pretend that there's 0 growth in 2026-2027:\n\nCore Business: $31B–$36.5B\nSum of Parts: $7.1B (40% slashed)\nMidpoint Valuation = $39B valuation (+62.5%)\n\nThis is before factoring in any growth, which could scale it up to $100B.\n\nToday, investors are effectively paying $13B for the core business today, which is on track to grow 1,000% YoY-from $100M in quarterly revenue to $1.3B , with 60-70% gross margins.\n\nMarkets are usually forward looking, but for Nebius, it only looks at the ground.  These are just informal thoughts and a small writeup.\n\nBusiness Valuation:\n__________________\n\nCurrent cash equivalents (post $4.2B) ~ $5.88B\n\nPortfolio Companies: ~$2.68B\n\nClickhouse (28%, $6.35B valuation), Avride (17%, ~$3.1B valuation), Toloka (51%, ~720M valuation) - speculative estimates on Avride/Toloka. Also did not consider Clickhouse updated valuation, which likely grew).\n\nPhysical Assets: ~$2B midpoint\n\nGPUs (~750m-1B), Servers, networking ($400-600m), Land/buildings ($300m-$500m), power/cooling ($200-$300m). Total phyiscal assets sitting between $1.65B-$2.4B\n\nConservative Sum of parts: ~$10.58B (As of today, not considering portfolio companies going up). Nebius has eliminated most debt from the note conversion.  \n\nTypically companies with portfolios never trade 1:1 with NAV, so I just slashed 40% off 10.58B or so when doing calculations which is conservative considering it's mostly cash. \n\n_\n\nBASE CASE WITH NO GROWTH\n\nNow going into the core business:\n\nFY 2026-2027 EST: $1.1B projected FY 2025, + $3.8B from $MSFT (contract / 5) (obviously maybe revenue lag, which is why it's on avg 2026-2027 anyway). \n\nIf Nebius stopped growing completely off their 2025 projections, they would do $4.98B minimum ARR in 2026/2027.\n\nGross margins are sitting at ~71.2% (from last quarter), but likely between 60-70% + management aiming 30% EBITDA.\n\nThese calculations from the core business are if growth stopped completely:\n\nEV/Revenue 6–8×: $31.2B | 41.6B\nEV/EBITDA 15–25×: $23.4B | $39B\n\nForward-looking EV on the base/bear case = $31–42B (revenue) or $23–39B (EBITDA)\n\n(Core Business) + Sum of Parts = $33.58B midpoint no growth case + ~$10.58 * .6 = ~$39B.\n\nAnd now we'll consider that next if Nebius grows.\n__________________\n\nCASE WITH GROWTH:\n\nNow here's how we get to $100B just based on core business.\n\n$NBIS has ~$5B ARR confirmed.\n\nOnly thing Nebius needs is ARR growth to $8–12B: \n\n1 more hyperscaler deal + SMB expansion.\n\nAll it takes is a GCP or Meta deal and we hit that target. (This is just high-level, not going into GPU depreciation arguments, increasing power, execution risk, etc). And I'm bullish on the chances of another hyperscaler deal happening in 1 year time when more Mag7 signed deals recently (eg Meta $14B with CRWV).\n\nAlso everything else would need to stay the same gross margin: ≥60–70% and EBITDA target: ~30%. On the bright side, with the whitepaper, we've also likely seen expanding margins with Nebius.\n\nNBIS is claiming near-100% realized GPU utilization through their whitepaper yesterday, which would justify higher margins and higher revenue per GPU compared to $CRWV or any miner pivot (+ NBIS has no no-toxic interest debt, and a more diversified client base).\n\nTheir software orchestration is a moat in and of itself and not all neoclouds or bitcoin miner pivots can sustain the same high-gross margins. \n\nHappy to argue why full stack, margins, customer diversification with SMBs are important (if you want to compare $IREN GW capacity, or others) -> just look at $ORCL losing $100m+ on buildout. \n\nRegardless, I'm bullish on $NBIS over every other possible Neocloud because of opex costs + margins + fullstack + client base. (Feel free to let me know if I missed anything or calculated wrong, also open to debate)\n\nBut that aside, current $23B marketcap is a firesale that does not price in growth when it should be valued at $39B today. Then there's the upside on 1 more hyperscaler deal though for 4x return in 1 year at a $100B MC .",
+        "created_at": "Thu Oct 23 13:24:52 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 399,
+          "reply_count": 26,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 219,
+        "reply_count": 30,
+        "quote_count": 5
+      }
+    }
+  ]
+}

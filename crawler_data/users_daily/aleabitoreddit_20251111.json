@@ -1,0 +1,213 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251111",
+  "last_updated": "2026-04-20T16:21:33.667775",
+  "tweet_count": 4,
+  "tweets": [
+    {
+      "id": "1988048592754589970",
+      "text": "Neocloud Earnings Today + Why Michael Burry is Wrong:\n\n$WULF - ER was positive, $17B TCV from 520 MW HPC capacity. \n\n240 MW JV in Texas for DC expansion + $5B financing. \n\nNothing special like $CIFR ER with AWS, just conf (eg. deal finances) and site dev.\n\n$CRWV - ER was bearish near term due to lower forward revenue Q4.  \n\n$55.6B backlog ($22.4B from OpenAI). Slight earnings beat 1.36B vs. 1.29B (129% Y/Y), EBITDA margins (61%). \n\nStock dropped on datacenter delay, this hurts FY 2025 (505-5.15B vs. 5.29B consensus). Operating margins was lowered, which I predicted due to debt financing with interest (~1B+ interest/year) that cuts into margins, while other Neoclouds don't have that same issue. \n\nThat being said this was a one-off issue, and we'll likely see any sell-off bought back after next quarter since markets are forward looking. \n\n_\n\nAs for Michael Burry arguing on GPU deprecation: he's completely wrong, but partially right about understating it. \n\nHis general claim: capex of chips on a 2-3 yr product cycle should not result in the extension of useful lives\n\n-> in Google's case, their TPUs from 7 years ago are being run at 100% utilization lol. Repeat 7 years ago.\n\nAmin Vahdat, said that Google currently has seven generations of its TPU hardware in production, and that the “seven- and eight-year-old TPUs have 100 % utilization.”  \n\n\"Google says TPU demand is outstripping supply, claims 8yr old hardware iterations have “100% utilization” -Data Center Dynamics\n\n-> in Nvidia's case A100 (PCIe and SXM4 variants), are still in operation. They were launched in 2020. It's 2025 now. Older models keep their value and still deliver equity. They don't just get nuked since it's an add-on to compliment newer models. \n\nNvidia’s A100 can be partitioned into isolated instances to maximize utilization, and older-gen accelerators are still monetized for inference or lower-prio tasks rather than getting nuked as what he claims. They actually have residual value and still re-sale for a lot 5 years later. \n\nHe's completely wrong here on shelf-life, but might be correct in how some hyperscalers stretch the idea of utilization to justify aggressive capex.\n\nIt's a nuanced argument but Neocloud thesis remains in tact and stronger than ever.",
+      "created_at": "Tue Nov 11 00:58:15 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1988044019545563136",
+          "url": "https://pbs.twimg.com/media/G5bzgK7aYAAkZ5D.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1985334909108433014",
+        "text": "The Neocloud List got updated:\n\n$IREN - IREN secured a $9.7B GPU cloud contract with Microsoft, including 20% upfront prepayment, to deploy NVIDIA GB300s over five years.\n\n$CIFR - CIFR secured a $5.5 billion, 15-year lease agreement with Amazon Web Services (AWS).\n\nThe Neocloud sector just got insanely bullish with new contracts coming in from hyperscalers and this just shows insatiable demand for compute. \n\nI expected $ORCL, $META, and $AMZN to make deals in the original thesis and looks like AWS entered the fray with $CIFR, with likely more deals incoming with other Neoclouds. $META also signed a $14B deal with $CRWV recently and from their ER scaling AI Capex, we'll likely see other deals with Neoclouds. \n\nThis is insanely bullish across the whole sector. \n\nI attached my personal tierlist for fun, but we'll likely see a re-ratings in data centers/miners across the board when there's more time to analyze deals and margins.",
+        "created_at": "Mon Nov 03 13:15:02 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1985333948722065408",
+            "url": "https://pbs.twimg.com/media/G41StSYaMAAcXGP.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 123,
+          "favorite_count": 799,
+          "reply_count": 54,
+          "quote_count": 8
+        }
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 126,
+        "reply_count": 19,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "1988221135759290725",
+      "text": "Wow, $NBIS just blew away ARR expectations on growth and just signed a surprisising $3B hyperscaler deal with $META from their ER.\n\nThey now expect $7-9B ARR 2026, which is ~2.1B+ revenue/quarter. \n\nThis is exactly how Nebius grows grow to a $100B MC and $NBIS is a generational company in the making. \n\nIn terms of general earnings: \n\nEPS: -.52 vs -.4 (Beat by 23%)\nRevenue 155.73m vs. 141.1M (Miss by 6%)\n\nMarkets are forward looking and any short term ER will be overshadowed by its immense forward growth projection.\n\nWill do a deeper rundown when there's more time to process information but so far, this is incredibly huge with a surprise hyperscaler deal.\n\nStock should be up way above these levels when markets price this in.",
+      "created_at": "Tue Nov 11 12:23:52 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1988220928380272640",
+          "url": "https://pbs.twimg.com/media/G5eUZnsagAAcYqZ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1981351114655346809",
+        "text": "Why I think $NBIS can easily hit ~$400/share or $100B+ market cap in 1 year:\n\nRight now, Nebius trades at a $24B valuation (316%+ increase to $100B).\n\nIf we pretend that there's 0 growth in 2026-2027:\n\nCore Business: $31B–$36.5B\nSum of Parts: $7.1B (40% slashed)\nMidpoint Valuation = $39B valuation (+62.5%)\n\nThis is before factoring in any growth, which could scale it up to $100B.\n\nToday, investors are effectively paying $13B for the core business today, which is on track to grow 1,000% YoY-from $100M in quarterly revenue to $1.3B , with 60-70% gross margins.\n\nMarkets are usually forward looking, but for Nebius, it only looks at the ground.  These are just informal thoughts and a small writeup.\n\nBusiness Valuation:\n__________________\n\nCurrent cash equivalents (post $4.2B) ~ $5.88B\n\nPortfolio Companies: ~$2.68B\n\nClickhouse (28%, $6.35B valuation), Avride (17%, ~$3.1B valuation), Toloka (51%, ~720M valuation) - speculative estimates on Avride/Toloka. Also did not consider Clickhouse updated valuation, which likely grew).\n\nPhysical Assets: ~$2B midpoint\n\nGPUs (~750m-1B), Servers, networking ($400-600m), Land/buildings ($300m-$500m), power/cooling ($200-$300m). Total phyiscal assets sitting between $1.65B-$2.4B\n\nConservative Sum of parts: ~$10.58B (As of today, not considering portfolio companies going up). Nebius has eliminated most debt from the note conversion.  \n\nTypically companies with portfolios never trade 1:1 with NAV, so I just slashed 40% off 10.58B or so when doing calculations which is conservative considering it's mostly cash. \n\n_\n\nBASE CASE WITH NO GROWTH\n\nNow going into the core business:\n\nFY 2026-2027 EST: $1.1B projected FY 2025, + $3.8B from $MSFT (contract / 5) (obviously maybe revenue lag, which is why it's on avg 2026-2027 anyway). \n\nIf Nebius stopped growing completely off their 2025 projections, they would do $4.98B minimum ARR in 2026/2027.\n\nGross margins are sitting at ~71.2% (from last quarter), but likely between 60-70% + management aiming 30% EBITDA.\n\nThese calculations from the core business are if growth stopped completely:\n\nEV/Revenue 6–8×: $31.2B | 41.6B\nEV/EBITDA 15–25×: $23.4B | $39B\n\nForward-looking EV on the base/bear case = $31–42B (revenue) or $23–39B (EBITDA)\n\n(Core Business) + Sum of Parts = $33.58B midpoint no growth case + ~$10.58 * .6 = ~$39B.\n\nAnd now we'll consider that next if Nebius grows.\n__________________\n\nCASE WITH GROWTH:\n\nNow here's how we get to $100B just based on core business.\n\n$NBIS has ~$5B ARR confirmed.\n\nOnly thing Nebius needs is ARR growth to $8–12B: \n\n1 more hyperscaler deal + SMB expansion.\n\nAll it takes is a GCP or Meta deal and we hit that target. (This is just high-level, not going into GPU depreciation arguments, increasing power, execution risk, etc). And I'm bullish on the chances of another hyperscaler deal happening in 1 year time when more Mag7 signed deals recently (eg Meta $14B with CRWV).\n\nAlso everything else would need to stay the same gross margin: ≥60–70% and EBITDA target: ~30%. On the bright side, with the whitepaper, we've also likely seen expanding margins with Nebius.\n\nNBIS is claiming near-100% realized GPU utilization through their whitepaper yesterday, which would justify higher margins and higher revenue per GPU compared to $CRWV or any miner pivot (+ NBIS has no no-toxic interest debt, and a more diversified client base).\n\nTheir software orchestration is a moat in and of itself and not all neoclouds or bitcoin miner pivots can sustain the same high-gross margins. \n\nHappy to argue why full stack, margins, customer diversification with SMBs are important (if you want to compare $IREN GW capacity, or others) -> just look at $ORCL losing $100m+ on buildout. \n\nRegardless, I'm bullish on $NBIS over every other possible Neocloud because of opex costs + margins + fullstack + client base. (Feel free to let me know if I missed anything or calculated wrong, also open to debate)\n\nBut that aside, current $23B marketcap is a firesale that does not price in growth when it should be valued at $39B today. Then there's the upside on 1 more hyperscaler deal though for 4x return in 1 year at a $100B MC .",
+        "created_at": "Thu Oct 23 13:24:52 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 399,
+          "reply_count": 26,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 16,
+        "favorite_count": 187,
+        "reply_count": 13,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "1988227411054653710",
+      "text": "$NBIS earnings report blew away expectations with $7-9B ARR and a $3B hyperscaler deal with Meta. \n\nThey also added to their enterprise client list with Cursor. \n\nDespite that, stock is down -1.77% currently before their earnings call.  Why?\n\nDilution~$2.7B 25M share dilution ATM offering that will be filed Nov 12th. \n\nMeaning 2.7B worth of shares (at current prices) can be sold in the open market at current prices vs. convertible notes (preferred structure), which is the most likely reason it's not up 20% by now. \n\nIt affect share price short term, but the company fundamentals after this offering is incredible with amazing forward revenue growth. Eg. look at Rocketlab or others that did this to supplement growth. \n\nWill also delve into financial data given more time. But the $7-9 billion ARR for 2026 alone (which many analysts expected in 2028+), is insanely bullish.",
+      "created_at": "Tue Nov 11 12:48:48 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1988226193318117377",
+          "url": "https://pbs.twimg.com/media/G5eZMFHagAERD7n.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1988221135759290725",
+        "text": "Wow, $NBIS just blew away ARR expectations on growth and just signed a surprisising $3B hyperscaler deal with $META from their ER.\n\nThey now expect $7-9B ARR 2026, which is ~2.1B+ revenue/quarter. \n\nThis is exactly how Nebius grows grow to a $100B MC and $NBIS is a generational company in the making. \n\nIn terms of general earnings: \n\nEPS: -.52 vs -.4 (Beat by 23%)\nRevenue 155.73m vs. 141.1M (Miss by 6%)\n\nMarkets are forward looking and any short term ER will be overshadowed by its immense forward growth projection.\n\nWill do a deeper rundown when there's more time to process information but so far, this is incredibly huge with a surprise hyperscaler deal.\n\nStock should be up way above these levels when markets price this in.",
+        "created_at": "Tue Nov 11 12:23:52 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1988220928380272640",
+            "url": "https://pbs.twimg.com/media/G5eUZnsagAAcYqZ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 16,
+          "favorite_count": 187,
+          "reply_count": 13,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 183,
+        "reply_count": 21,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "1988237492596994341",
+      "text": "Takeaway from $NBIS earnings so far: \n\nAbsolute. Blowout. Earnings. \n\n$3B $META deal + Cursor new Enterprise clients on top of $17B with $MSFT just 2 months ago. \n\n$7-9B ARR projection is enormous and blew away any expectation.\n\n Insanely Strong Buy $116 (including the ATM). https://t.co/AxWshJhAgJ",
+      "created_at": "Tue Nov 11 13:28:52 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1988237319409987588",
+          "url": "https://pbs.twimg.com/media/G5ejTtCbcAQNkR4.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1988227411054653710",
+        "text": "$NBIS earnings report blew away expectations with $7-9B ARR and a $3B hyperscaler deal with Meta. \n\nThey also added to their enterprise client list with Cursor. \n\nDespite that, stock is down -1.77% currently before their earnings call.  Why?\n\nDilution~$2.7B 25M share dilution ATM offering that will be filed Nov 12th. \n\nMeaning 2.7B worth of shares (at current prices) can be sold in the open market at current prices vs. convertible notes (preferred structure), which is the most likely reason it's not up 20% by now. \n\nIt affect share price short term, but the company fundamentals after this offering is incredible with amazing forward revenue growth. Eg. look at Rocketlab or others that did this to supplement growth. \n\nWill also delve into financial data given more time. But the $7-9 billion ARR for 2026 alone (which many analysts expected in 2028+), is insanely bullish.",
+        "created_at": "Tue Nov 11 12:48:48 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1988226193318117377",
+            "url": "https://pbs.twimg.com/media/G5eZMFHagAERD7n.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 183,
+          "reply_count": 21,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 179,
+        "reply_count": 25,
+        "quote_count": 2
+      }
+    }
+  ]
+}

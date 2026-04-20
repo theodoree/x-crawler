@@ -1,0 +1,86 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251130",
+  "last_updated": "2026-04-20T16:21:33.663316",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "1995084174223651180",
+      "text": "Economics of Neocloud GPU Pricing\n\nWhat happens when you normalize margins across the three major GPU neoclouds, accounting for depreciation and cost structure?\n\n· Nebius ( $NBIS )\n\n· CoreWeave ( $CRWV )\n\n· IREN ( $IREN )\n\nBelow is what the research shows for margins using the same H100s:\n\n35.8% $IREN - Bare-Metal H100\n\n· Revenue: ~$2.50–2.75/GPU-hr -> $7.80M/MW-year\n· COGS: $5.01M/MW  · GPU D&A: $3.50M  · Power: $0.22M  · DC depreciation: $0.47M    · Networking: $0.25M  · Third-party middleware (poolside, WEKA): $0.20M\n\nGross Profit: $2.79M/MW → 35.8% margin\n_\n\n38.1% $NBIS - Full-Stack H100\n\n· Revenue: ~$3.00–3.50/GPU-hr → $9.75M/MW-year\n· COGS: $6.04M/MW    · GPU D&A: $3.50M    · Power (Finland): $0.37M    · Colo (60%): $0.72M    · Ops/platform: $0.40M    · Other: $0.86M\n\nGross Profit: $3.71M/MW → 38.1% margin\n\n-\n\n30.6% $CRWV - Full-Stack H100\n\n· Revenue: ~$2.80–3.25/GPU-hr → $8.90M/MW-year\n· COGS: $6.18M/MW    · GPU D&A: $3.50M    · Power (mixed): $0.42M    · Colo (80%): $0.96M    · Ops: $0.38M    · Other: $0.83M\nGross Profit: $2.72M/MW → 30.6% margin\n\nWe're not modeling based on spot or single-GPU rentals only (it's $2.00/hour on $NBIS website for example).\n\nIt's full-stacked datacenter-scale infrastructure (400 GPUs per MW, full networking, cooling, power, data center costs, maintenance, infini-band/Infiband-class interconnect, etc.), assuming 85% utilization, annualized revenue/MW, using historical pricing, and deriving revenue-per-GPU-hour from that to see the effects of full-stack vs. bare metal. \n_\n\nInterpretation (Standalone Cloud):\n\n· Nebius’s ~25% revenue premium outweighs its higher power + colo costs -> +2.3 pts vs IREN.\n\n· CoreWeave’s ~14% revenue premium doesn’t offset colo exposure ->  ~5 pts below IREN.\n\n_\n\nColocation vs Owned DC Costs:\n\n$IREN (Owned DC):\n\n- $0.47M/MW in DC depreciation\n· No colocation rent\n\n$NBIS / $CRWV (Colo-heavy)\n- Nebius colo: ~$0.72M/MW (60% of racks)\n- CoreWeave colo: ~$0.96M/MW (80%)\nCost delta: IREN saves ~$0.4–0.6M/MW.\n\n_\n\nFull-Stack Pricing as a Moat\n\nRevenue Premiums\n· Nebius: +20–25%\n· CoreWeave: +14%\n· IREN: 0%\n\nCost Structure\n\n· IREN middleware cost: ~$0.20M/MW\n· Nebius/CoreWeave internal stack amortization: ~$0.38–0.40M/MW\n· IREN power + owned DC advantage: ~$0.60M/MW (but not monetized via pricing)\n\n_\n\n$IREN vs $NBIS MSFT deal comparison:\n\nAdded it for fun, for the $MSFT deal alone:\n\n$IREN: 9.3% gross margin\n$NBIS: 40.2% gross margin. \n\n - IREN's MSFT margin (9.3%) is a GPU cost problem (GB300) + contract pricing\n\nHowever, $IREN is likely 15-20% levered IRR, which is the better financial modeling to use (which is still profitable), after financing, like the 20% pre-payment from $MSFT. \n\nLevered IRR is much modelling structure to use lol. \n\nDifferentiators \n\n$IREN  (Bare Metal)\n_\n\n- Cost Advantage via Owned Infrastructure + Low Cost Power\n- Hyperscaler contracts with secured financing and customer prepayments increases levered IRR \n\n$NBIS (Full Stack)\n_\n\n· Revenue premium over bare metal pricing\n· Highest Normalized Margin\n\n$CRWV\n_\n\n· Revenue premium over bare metal pricing\n· Debt load not included here (would further pressure margins)\n\nNotes:\n\n-With Coreweave that typically use different hardware mixes, the normalization math changes. \n\n- Depreciation is normalized to 4 years which may hurt or benefit some in live accounting (eg. $CRWV 6 year schedules $IREN 3 year leases).  \n\n- Debt not included in margin calculation, in that event $CRWV would look a lot worse -$1.3B/year. \n\n- Utilization is normalized to 85%, which hurts $NBIS in normalization calculations given their whitepaper (eg. 100% benchmark performance vs. GPU cloud providers deliver 95–97%.), in live environments it would likely be the highest compared to $CRWV. \n\nTakeaway for HPC segment only:\n\n- $NBIS (38.1%) > $IREN (35.8%) > $CRWV (30.6%) for margins. Nebius is the favorite due to premium pricing from full-stack. \n\n- However, if $IREN can build the software layer right on top of owning the DC costs + doing full-stack iaas, they become the structural leader with a whopping 48.6% Gross Margin over the others, so this is purely execution. \n\n- Utilization is one of the biggest factors in determining gross margins. $NBIS is sold out + diversified (Cursor, Shopify, etc. keep capacity full) and customer base is a moat. \n\n- Debates over \"full-stack vs. bare metal\" converge to slight edge over full-stack . \n\n- Full stack is a moat. Owning the infrastructure is also a moat. Both are converging with $NBIS building out greenfield facilities and $IREN climbing up the full-stack layers (eg. GPU deals instead of doing colo like $CIFR).\n\n_\n\nTLDR: \n\nMargins: $NBIS (38.1%) | $IREN (35.8%) | $CRWV (30.6%)\n\n$NBIS has the highest normalized gross margins and revenue capacity in the market.  \n\n(38.1% $NBIS vs. 35.8% $IREN)\n\n$IREN has the highest margin potential at 48% from owning all parts of the layers if they successfully build $NBIS's software layer on top of their established, low-cost infrastructure moat\n\n(48% $IREN vs. 38.1% $NBIS).\n\n$CRWV....  $1.3B debt interest not included in calculations, stay away medium long term. Margins aren't a problem but unsustainable capital structure is. \n\nAmong all the neocloud players, $NBIS and $IREN are the two clear leaders in the full-stack space. \n\n$NBIS maintains highest asymmetrical upside while $IREN has the highest upside potential.",
+      "created_at": "Sun Nov 30 10:55:08 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1995072411486830592",
+          "url": "https://pbs.twimg.com/media/G6_rybPawAAA2wF.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "1995072469296893953",
+          "url": "https://pbs.twimg.com/media/G6_r1ymaUAE9xOU.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 92,
+        "favorite_count": 623,
+        "reply_count": 46,
+        "quote_count": 12
+      }
+    },
+    {
+      "id": "1995239607672414333",
+      "text": "Finally, @VitalikButerin perfectly pointed out why I’m bearish on ETH, and @fundstrat’s $BMNR.\n\n$ETH as a token is a terrible investment, especially above $4K.\n\nThis is what Tom Lee, Cathie Wood’s ARK innovation, Vitalik and others didn’t understand: \n\nThere is a disconnect between Ethereum as a network and ETH as a utility token.\n\nEthereum network (that’s growing) does not translate to the token price appreciating. \n\nIf you bought $ETH near the end of 2021, you would have lost money. Meanwhile $BTC price has appreciated close to 300% since then. Why?\n\nLayer 2s.\n\n1. Vitalik encouraged users to move to L2s (like Base) over the past few years. As a result now these networks move billions in volume but all fees go to companies like Coinbase (sequencer) not validators on Ethereum.\n\n2. L2s pay fees to store their data but this is just incredibly minimal compared to the economic value they siphoned off of Ethereum mainnet.\n\nThat’s it. Layer 2s siphoned off profit, activity, while the Ethereum’s network receives barely anything for data storage. Value accrual went to companies like Coinbase, not ETH token holders.\n\nEthereum’s Network usage is at an all-time high, but Mainnet revenue has collapsed and there’s little economic incentive to hold the token as an investment. \n\nUnless there’s protocol changes that generate reasonable value accrual to the ETH token from L2 activity, don’t bother with ETH as an investment.",
+      "created_at": "Sun Nov 30 21:12:46 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1995239600126910464",
+          "url": "https://pbs.twimg.com/media/G7CD2FdbYAAIUHy.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1995209899182375024",
+        "text": "You can just build on L1.",
+        "created_at": "Sun Nov 30 19:14:43 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "295218901",
+          "name": "vitalik.eth",
+          "screen_name": "VitalikButerin",
+          "description": "I choose balance. First-level balance.\n\nmi pinxe lo crino tcati\n\nhttps://t.co/gCQrmCby7P",
+          "followers_count": 6092834,
+          "friends_count": 542,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 592,
+          "favorite_count": 5511,
+          "reply_count": 958,
+          "quote_count": 287
+        }
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 130,
+        "reply_count": 24,
+        "quote_count": 5
+      }
+    }
+  ]
+}

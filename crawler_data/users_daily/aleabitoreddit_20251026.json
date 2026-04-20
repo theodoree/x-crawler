@@ -1,0 +1,54 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251026",
+  "last_updated": "2026-04-20T16:21:33.670626",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "1982428584431251483",
+      "text": "To settle the Neocloud debate:\n\n$NBIS  > $IREN + others. \n\nBased on the $ORCL report, NBIS whitepaper,  $CRWV acquisitions, and other factors, \n\nI decided to consolidate millions into Nebius and sell off miners like $CIFR.\n\n📏 Gross Margins > GW capacity \n\nHere's the math + why:\n\nWe've had a huge speculative run across the board on Neoclouds backed by forward revenue (eg. 19B $MSFT deal with $NBIS).\n\nHowever, crypto miners have recently gone up 500%+ due to raw GW capacity like $IREN and cheap energy.\n\nHowever, what people miss out on is capacity leads to much higher revenue but that revenue means nothing if it's not profitable (eg. $ORCL 14% gross margins). \n\nNow that more information has come out regarding $ORCL's buildout failure, $NBIS's whitepaper, and others, we know power and capacity mean little if the economics don’t translate. \n\nAnd $NBIS has everything. \n\n1. The Margin Gap: Full Stack vs. Middleware\n\nMiners like $IREN and $CIFR must rely on orchestration partners (Fluidstack, Poolside, etc.) to monetize their GPUs. That means giving up 20–30% of revenue (~private estimates from deep research), plus absorbing GPU depreciation, power, and O&M. The result?\n\nAt $3–4/hr GPU pricing and ~80% utilization, IREN/CIFR margin = ~44–52%\n\nAt $5–6/hr and 90% utilization, margin could reach ~55–60%, but that’s the ceiling\n\nMeanwhile, Nebius earns 70–75% today by owning the orchestration layer and amortizing over 4 years (71.2% from previous Q, likely 60-70%, possibly higher from recent whitepaper claiming higher GPU utilizations).  \n\nThis gap compounds as scale and utilization rise. \n\nMiners give away a piece of every dollar they earn while Nebius INCREASES gross margins over time.\n\n2. Software Is the Moat and Oracle Proved It\n\nEven $ORCL, an $800B hyperscaler, failed at building GPU orchestration profitably, reporting ~14% gross margins on their AI rental platform and losing ~$100M in the process.\n\nIf Oracle can’t execute, expecting $100M marketcap small miners like $SLNH to build hyperscaler-grade orchestration from scratch is wishful thinking.\n\nPlatforms like Fluidstack are essential bridges, but they come at a cost: margin compression, revenue leakage, and platform dependency.\n\nNebius? It already did the hard part. Its in-house orchestration software, GPU utilization, with no middlemen taking a cut.\n\n3. Power vs. Margin Calculations\n\nA single H100 uses ~0.7–0.84 kW. Even at $0.10/kWh, power is just $0.07–0.08 per GPU-hour. When GPUs rent at $4–6/hr, that’s 1–2% of revenue.\n\nWhat actually moves the needle? Utilization:\n\n50% -> 85% uptime = +70% revenue per GPU\n\nThat’s a multi-hundred bps margin swing, far outweighing any \"cheap power\" comparison with miners.\n\nSoftware utilization/orchestration is a moat and matters ~30–70 TIMES more than cheap power. And it's not like $NBIS doesn't have cheap power either lol.\n\n4. The CRWV Exception to Miners\n\nEveryone points to $CRWV as miners pivot but Coreweave literally spent YEARS to do this, along with billions in software acquisitions.\n\nAnd even now, reports suggest their utilization trails Nebius. If miners think they’ll replicate CRWV, good luck.\n\nI'd expect in NBIS to strong outperform in next year's earnings reports when it comes time for execution vs. speculation.\n\n🧩 The Asymmetry\n\nNebius GM: 70–75% (full-stack, 4yr depreciation)\n\nIREN/CIFR realistic GM: 40–60% (middleware, 2–3yr depreciation)\n\nGross margin delta: 15–30 points\n\nExecution risk: Nebius = 0 (already doing it); IREN/CIFR = high\n\nNebius isn’t a power play. It’s a software margins play,  with hardware upside. With $IREN and others, you're guessing if it can pull off a $CRWV.\n\nPeople keep saying \"software it not a moat, and look at $CRWV for $IREN future HPC margins\", but if $ORCL one of the largest hyperscalers is stuck at 14% gross margins. Then how do we expect these small crypto miners to pull off a Coreweave.\n\nIn terms of ASYMMETRICAL UPDATE, $NBIS is the clear favorite out of anything. In terms of raw potential upside if $IREN manages to pull a $CRWV out a hat and beats out $ORCL in this, sure I'd concede. \n\nSoftware full stack is a HUGE moat that people vastly, vastly underestimate. With $NBIS, they can just let it plug and play scale up over time with the highest gross margins in industry. \n\n$NBIS is what true asymmetric return looks like.",
+      "created_at": "Sun Oct 26 12:46:20 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1981981029029298374",
+        "text": "Neocloud Position Update Friday Oct 24.\n\nThis post is to send a message to $IREN and other Neoclouds holders that: \n\n👑 $NBIS is superior.\n\nI sold out of other Neoclouds: $CIFR 250%+ gain, $IREN, $BITF, $WYFI, 50-100%+ gain, $WULF 5-10% loss.\n\nNow with $2M+ exposure in $NBIS shares/leaps + small $WLAC positions. Will add more Nebius positions next week if it stays at $115.\n\nI don't normally post sales, but there's a lot of annoying Neocloud posts recently claiming that theirs is the best. So I'm posting this to send a message that $NBIS is clearly superior in terms of asymmetrical upside and already has Mag7 deals locked in. And because of this, there's no point of diversifying into other Neoclouds.\n\nNBIS will likely have the highest margin moat from how they do full stack/GPU utilization with their diversified users. And their subsidiaries + portfolio companies (AI DBs, robotics/delivery, etc). are scaling alongside their operational business. There's also no exposure to bad interest debt that eats into margins. \n\nThere's an easy path to 300% gain and a $100B+ marketcap just by waiting 1 year for another hyperscaler contract and there's no point in speculating gross margins from Bitcoin mining pivots (see how $ORCL lost $100M+ just bc of GPU utilization + buildout -> rev lag) even if some might have larger capacity.\n\nSo just wanted to say: Nebius is THE Neocloud. 🫳🎙️",
+        "created_at": "Sat Oct 25 07:07:55 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 39,
+          "favorite_count": 392,
+          "reply_count": 50,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 63,
+        "favorite_count": 529,
+        "reply_count": 80,
+        "quote_count": 11
+      }
+    }
+  ]
+}

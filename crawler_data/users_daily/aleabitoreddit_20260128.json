@@ -1,0 +1,357 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260128",
+  "last_updated": "2026-04-20T16:21:33.649844",
+  "tweet_count": 8,
+  "tweets": [
+    {
+      "id": "2016302997039612112",
+      "text": "Thermal is a likely issue for 2027-2028 GPUs:  \n\nAs thermal targets escalate toward the 2000-3000W+ range, copper and aluminum becomes insufficient.\n\nBut, AlSiC, a metal matrix composite, may become important.\n\nHere's why: \n\nRubin VR200 GPU pointed toward 1800W TDP, AMD Instinct MI450X, reportedly reaches up to 2500W, and $NVDA Rubin Ultra's power reportedtly goes to 2300W.\n \nThe move toward 2300W creates a heat flux problem of massive scale.\n\nAluminum Silicon Carbide (AlSiC) is a metal matrix composite, used as for defense, space, and high-power industrial applications (eg. high-speed rail). \n\nSimilar to how random toilet companies like Toto became critical for HBM, this material composite used for thermal management for aerospace and industrial might be used for AI as it can survive tens of thousands of thermal cycles without delamination.\n\nSo, as AI accelerators like Rubin reach power levels comparable to industrial power modules or space, the adoption of AlSiC in semiconductors may become important. \n\nFor AlSiC in 2300W systems there's:\n\n- (Junction-to-Case): Includes the silicon die, the underfill, and the first layer of TIM\n\n- (Case-to-Sink): Includes the heat spreader (lid) and the second layer of TIM (TIM2)\n\n- (Sink-to-Ambient): The thermal resistance of the cold plate or liquid heat exchanger.\n\nCase-to-Sink is likely the application for AlSiC. \n\nAnd as power densities will likely continue to climb toward the 3000W mark there becomes a mechanical and thermal crisis that likely causes a material change from traditional copper packaging. \n\nSo there's four different parts to this:\n\n1. Internal/External Thermal\n\nIt does look like SiC interposers (internal) are probably used for $NVDA Rubin gen GPUs. Then AlSiC (external) may be used for the Microchannel Lid (MLCP) or heat spreader that sits on top of the die interposer assembly.\n\n2. 3D vertical stacking (SoIC)\n\nThese complex packages are highly vulnerable to warping during thermal cycling. A SiC interposer is a brittle crystal and it cannot provide structural rigidity. AlSiC acts as a \"stiffener\" that prevents the substrate from bowing under the high clamping pressures\n\n3. Rubin Ultra NVL576 rack likely reaches high KW of power density\n\nThis density creates a weight-loading bottleneck that SiC interposers cannot solve. Rubin Ultra NVL576 rack cumulative weight of the thermal stack plus liquid manifolds can exceed the floor limits (and AlSiC may become necessary to reduce the \"dead weight\" of the thermal management by 60%+ without compromising heat transfer).\n\n4. Net-Shape Manufacturing of Microchannels\n\nTraditional copper lids must be etched or CNC-machined, a process that has reportedly encountered high mass-production difficulty for Rubin volumes.\n\nAlSiC is manufactured using \"Quickset Injection Molding\" to create a ceramic preform that is then infiltrated with aluminum. This allows for the creation of complex internal geometries. AlSiC Microchannel Lids and Silicon Integrated IHS looks like the alternatives for copper for thermal management. \n\nWe might be seeing this addressed earlier in 2026 as SemiAnalysis in 2025 reported that Nvidia’s Blackwell (B100/B200) faced yield issues specifically due to warpage in the CoWoS-L packaging. \n\nTLDR thermal is a likely a bottleneck in 2027-2028:\n\nSome beneficiaries are potentially SiC interposers (high-purity SiC powder) and AlSiC composite for thermal management in 2027-2028. \n\nThis is all ongoing research, but maybe we'll see some extremely niche and random small railway or space AlSiC supplier be used up for AI in 1-2 years time like toilet makers for HBM.",
+      "created_at": "Wed Jan 28 00:11:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2016301875851886593",
+          "url": "https://pbs.twimg.com/media/G_tX344bAAEEcYg.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2016249140855156962",
+        "text": "There's an interesting company on here that happens to own ~25-30% of this semi-grade material supply chain in the world.\n\nThermal is probably an issue, so might be a potential material composite chokepoint with $NVDA architectures in 2027.\n\nThere was no issue with H200s (<1000W) but as you get higher to 2000w with Rubin deployments, might be a hidden beneficiary of material transitions.",
+        "created_at": "Tue Jan 27 20:37:09 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 11,
+          "favorite_count": 195,
+          "reply_count": 19,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 24,
+        "favorite_count": 255,
+        "reply_count": 30,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2016361080117961170",
+      "text": "Thinking about buying $CRWV on the $NVDA deal?\n\nHere's the way to think about it:\n\nA casino gives you more money, so you could take on more debt with collateral to gamble.\n\nThen all the extra money goes back to the Casino (aka. $NVDA). \n\nThat doesn't make Coreweave a good long.\n\nBut it does make Nvidia one. \n\nBet on the house, not the one with $14.7B+ in debt with $1.2B+ in yearly interest payments.",
+      "created_at": "Wed Jan 28 04:01:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2016360550830055424",
+          "url": "https://pbs.twimg.com/media/G_uNPONWIAAU9BV.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 328,
+        "reply_count": 36,
+        "quote_count": 8
+      }
+    },
+    {
+      "id": "2016487104000446545",
+      "text": "Nanyna (TPE: 2408) is one of my longs alongside $MU, SK Hynix, and Samsung for memory.\n\nBut for a different reason.  \n\nYou might be thinking if this parabolic trend (+972% 1Y). is going to stop? Probably not. \n\nAnd it just keeps going up 7% a day.\n\nHere's a simple TLDR why: \n\nThe forward P/E is only ~13.62 (likely lower now with price hikes).\n\nWith +357.7% Revenue Growth/+804.27% Net Income Growth Y/Y, their profits are astronomical. \n\nSimilar to Micron and their 57.56%+ last month, and more than doubling since I first mentioned it: \n\nThe stock price literally can't keep up. \n\nWhile the giants (Samsung, SK Hynix, and $MU) are fighting over the high-end AI market, Nanya specialized in the legacy and specialty DRAM products from PCs, computer electronics, and  industrial. (They are doing advanced chips though with 1b Nodes though).\n\nAnd the memory companies left a massive void Nanya filled: \n\nMicron - Total Exit from Consumer Lines\nSK Hynix - Focusing almost entirely on HBM4 and server-grade DRAM.\nSamsung - Reallocating 30–40% of legacy lines to advanced AI memory.\nNanya - Last man standing\n\nDemand stayed steady but legacy DRAM supply suddenly fell off a cliff. And it's still widely used from:\n\n- Consumer PCs and Laptops: Millions of computers built between 2015 and 2023 use DDR4\n- Smartphones: Most mid-range and budget smartphones use LPDDR4\n- Home Electronics: Smart TVs, gaming consoles (like the older Nintendo Switch or PS4) use these.\n\nBasically, they still need to make these, but Nayna has all the cards. \n\nBuyers are paying a \"scarcity premium\" for older memory because they can't find it anywhere else and seeing a supply shock in a boring market. \n\nNanya essentially became the guy selling water in a desert. And they can keep jacking up the price of water.\n\nI'm long on the cat sounding company selling water in the desert.",
+      "created_at": "Wed Jan 28 12:22:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2016483687404277760",
+          "url": "https://pbs.twimg.com/media/G_v9OtsaEAAjvf-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2015549311732658520",
+        "text": "TLDR of my top foreign stocks:  \n\n1. Nitto Boseki - T-Glass (Japan) \n\n2. Unimicron - Substrates/Glass Core (Taiwan) \n\n3. Samsung/SK Hynix - HBM (Korea) \n\n4. Kioxia - NAND w/ $SNDK (Japan)\n\n 5. Nanya Technologies - Memory (Taiwan) \n\nUS supply chains like $INTC (foundry), $MU (memory),  or $LPTH (germanium) are typically my longs of preference \"Made in America\" bottleneck + supply chains. But some of these foreign companies are either critical to the entire AI buildout or capture a lot of the overflow.\n\nIf you're wondering how you get access to foreign markets?   \n\n- $IBKR    \n\nThere are US OTC equivalents for companies like Nitto Boseki like $NBCLF.   If you're on Robinhood, $EWY / $FLKR provides access to large KR memory exposure.\n \nSome like Nitto Boseki are near monopolies so these are the very rare foreign companies I go out of my way to invest in.",
+        "created_at": "Sun Jan 25 22:16:17 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2015548624131010560",
+            "url": "https://pbs.twimg.com/media/G_iqy3jbMAA1iYa.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 71,
+          "favorite_count": 727,
+          "reply_count": 37,
+          "quote_count": 10
+        }
+      },
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 337,
+        "reply_count": 15,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2016511571137327207",
+      "text": "I'm surprised majority of the X detectives in the comments guessed this right.\n\nI'll do a write-up on this mystery company soon. \n\nFrom my research, it was unique to have US company own a large % of the AlSiC supply chain, as this material could be used for $NVDA Rubin gen for thermal. \n\nBetter yet, Space + Defense vertical usage of AlSiC gives this company low downside risk bc of DoD/Raytheon/Northrop/NASA reliance of the material  composite.\n\nBut, who knew the same thermal material used for hypersonic missiles, f-35 fighter jets, and Mars space exploration could also be used to handle warpage for 2000W+ AI deployments?\n\nDoesn’t seem like markets have yet.",
+      "created_at": "Wed Jan 28 13:59:58 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2016249140855156962",
+        "text": "There's an interesting company on here that happens to own ~25-30% of this semi-grade material supply chain in the world.\n\nThermal is probably an issue, so might be a potential material composite chokepoint with $NVDA architectures in 2027.\n\nThere was no issue with H200s (<1000W) but as you get higher to 2000w with Rubin deployments, might be a hidden beneficiary of material transitions.",
+        "created_at": "Tue Jan 27 20:37:09 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 11,
+          "favorite_count": 195,
+          "reply_count": 19,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 144,
+        "reply_count": 20,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2016584615679643966",
+      "text": "♻️ $LEU is a $5.83B MC company.\n\nAnd Centrus was the another company on the original bottleneck list. \n\nThey’re the only company in the US that can currently enrich uranium into HALEU (High-Assay Low-Enriched Uranium) for SMR nuclear power plants.\n\nDOE said one campus would attract “50 Billion in investments” from enrichment to recycling.\n\nIt’s only up 2% on the news, which was surprising.\n\n“The Trump administration has made nuclear power a cornerstone of its national energy policy”",
+      "created_at": "Wed Jan 28 18:50:13 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2016583395447357440",
+          "url": "https://pbs.twimg.com/media/G_xX6fGXQAA4eKs.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2016511571137327207",
+        "text": "I'm surprised majority of the X detectives in the comments guessed this right.\n\nI'll do a write-up on this mystery company soon. \n\nFrom my research, it was unique to have US company own a large % of the AlSiC supply chain, as this material could be used for $NVDA Rubin gen for thermal. \n\nBetter yet, Space + Defense vertical usage of AlSiC gives this company low downside risk bc of DoD/Raytheon/Northrop/NASA reliance of the material  composite.\n\nBut, who knew the same thermal material used for hypersonic missiles, f-35 fighter jets, and Mars space exploration could also be used to handle warpage for 2000W+ AI deployments?\n\nDoesn’t seem like markets have yet.",
+        "created_at": "Wed Jan 28 13:59:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 6,
+          "favorite_count": 144,
+          "reply_count": 20,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 236,
+        "reply_count": 21,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2016617421508137175",
+      "text": "Whoops https://t.co/fMHZt9xncY",
+      "created_at": "Wed Jan 28 21:00:34 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2016617415342510081",
+          "url": "https://pbs.twimg.com/media/G_x22tFbUAEp1eX.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2016584615679643966",
+        "text": "♻️ $LEU is a $5.83B MC company.\n\nAnd Centrus was the another company on the original bottleneck list. \n\nThey’re the only company in the US that can currently enrich uranium into HALEU (High-Assay Low-Enriched Uranium) for SMR nuclear power plants.\n\nDOE said one campus would attract “50 Billion in investments” from enrichment to recycling.\n\nIt’s only up 2% on the news, which was surprising.\n\n“The Trump administration has made nuclear power a cornerstone of its national energy policy”",
+        "created_at": "Wed Jan 28 18:50:13 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2016583395447357440",
+            "url": "https://pbs.twimg.com/media/G_xX6fGXQAA4eKs.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 18,
+          "favorite_count": 236,
+          "reply_count": 21,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 152,
+        "reply_count": 15,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2016621132632510939",
+      "text": "Btw this $META call at $625 was only 2 weeks ago. 🎯\n\nHope it goes up even more over the next few weeks, capex spend was overblown since they’re printing money and growing at astounding rates. https://t.co/ElqIsW49al",
+      "created_at": "Wed Jan 28 21:15:19 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2016621126408196096",
+          "url": "https://pbs.twimg.com/media/G_x6Ot4b0AApjD1.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2011114186265513999",
+        "text": "I added positions in $META at $625\n\nMy theory:\n\nBig beautiful bill wrecked their last earnings despite record beat. \n\nThis caused an speculated algorithmic selloff from artificially low looking EPS (-80% drop)\n\nThis works in reverse for next earnings.\n\nQ4 earnings -> EPS looks artificially high (eg. 700%+ q/q growth)-> HFT algorithms buy stock.\n\nMeta grew 26% Y/Y and is stupidly profitable despite any capex spend. \n\nSeasonality from Q4 (eg. Ad revenue from holidays) should also be a booster.\n\nHard to bottom time given large open interest on 16th and potential Iran US conflicts, but looks like a great long here. Especially if I want to trade the accounting alpha in how algorithms react. \n\nSounds really stupid but markets work that way sometime with optics. We’ll see if it’s right or not.",
+        "created_at": "Tue Jan 13 16:32:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2011114180125085696",
+            "url": "https://pbs.twimg.com/media/G-jpsQUbUAA6hgp.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 27,
+          "favorite_count": 437,
+          "reply_count": 46,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 132,
+        "reply_count": 16,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2016651304027009278",
+      "text": "FYI: Markets often miss statements in earnings calls like $TSLA and their second order effects (price them in much later)\n\nThis is probably one of the biggest news for robotic supply chains of Optimus like $VPG.\n\nEspecially that Optimus will ramping up now and that Elon has dedicated factories from Model S and X.",
+      "created_at": "Wed Jan 28 23:15:13 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2016641794042191923",
+        "text": "$TSLA\n\nELON: WE WILL BE STOPPING MODEL S &amp; X PRODUCTION AND CONVERT THOSE FACTORIES FOR OPTIMUS PRODUCTION\n\nwoah",
+        "created_at": "Wed Jan 28 22:37:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1468103131737247748",
+          "name": "amit",
+          "screen_name": "amitisinvesting",
+          "description": "breaking down tech, business, & stocks $PLTR",
+          "followers_count": 359282,
+          "friends_count": 851,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 320,
+          "favorite_count": 6414,
+          "reply_count": 342,
+          "quote_count": 94
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 391,
+        "reply_count": 20,
+        "quote_count": 5
+      }
+    }
+  ]
+}

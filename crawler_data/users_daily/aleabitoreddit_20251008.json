@@ -1,0 +1,291 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 208948,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20251008",
+  "last_updated": "2026-04-20T16:21:33.675318",
+  "tweet_count": 8,
+  "tweets": [
+    {
+      "id": "1975823367258394863",
+      "text": "Got DMs about tax structuring for high net worth users due to large market returns from $IREN or $AMD.  \n\nThis is not advice, just things I've overheard to save you a LOT of money (like millions over time). \n\nThese are 7 LEGAL ways to go about it:  \n\n1. C-Corp trading (21% federal tax + 0%-> ? state tax). This compounds a lot easier if you do short term options, covered calls, etc.  \n\n -> Lot of hassle with paperwork, CPA, but if you have $7-8+ figure net worth it might be worth the time.  \n\n-> Take out personal loans against your company's equity 4.5% when need be.   \n\n-> Can buy stuff with it like property, etc.   \n\nFranchise tax, accountants, etc. low thousands a year in maintenance but you save a lot if you make a lot.  You will get doubled taxed if you try and take out money so the money should stay in there at all times.  \n\nThe compound of 21% vs 40%+ every year, then one long term capital gain from equity sale is a lot higher over a few years if you get taxed at the highest end of the tax bracket.   \n\nHow you liquidate it personally is extremely challenging, there's many ways but talk to a tax advisor (eg. selling company without liquidating assets, etc..)  This is probably the most complicated one for ultra high net worth individuals.   \n\n2. Long term capital gains tax 0-20% + 3.8% + state. (this is what most people do), and is the most recommended.   \n\n-> Just hold for a year and you get taxed less when you sell.   \n\n3. Active trader status without Mark-to-Market election. (you want to tax harvest so keep MTM most of the time unless you're doing some equity transfer then MTM, which is complicated)    \n\n-> If you trade a lot, you can deduct from trading expenses from income. I mean almost every day type trade.  eg. subtracting margin interest from now taxable income or if you trade a lot on a $1000 iphone you can deduct that from income.  \n\nSo for example $500k profit. Instead of getting taxed on $500k, maybe you used margin, you can subtract -40K off that and then your taxable income is now $460k  but you're still in the same tax bracket. It saves a lot of money. (eg. all the little execution fees, or maybe a laptop you use for trading, subscriptions) \n\n4. Create LLC/S-Corp pass through,  you can deduct business expenses from taxable income, even if you don't trade every single day and qualify from active trader status. It's saves you the hassle of tens of thousands of trades.   \n\nBut you need to do something company related on top but have investments on the side and it's low hundred-thousands to maintain, but subtracting business expenses is worth it.   You kinda want an LLC anyway to limit personal liabilities if you own houses, etc.   \n\n5. Move states  -> California is BS. \n\nAs some people on X are complaining about, capital gains tax goes ~54%. The extra 14% or so compounds a lot over time.   \n\n6. Never sell and borrow against equity (on your personal account), this is what Elon Musk and others do to never realize gains.   \n\nJust take out loans and the loan rate is probably less than what the equity or SPY compounds.  \n\n7. Just pay taxes on personal and have a peace of mind but obviously lower compound. Some people pay a lot but don't mind much because they think it's going to a good cause.   \n\nObviously I've seen more sketchy ways to do it like creating non-profit foundations but stay legal!    \n\nOn top of these 7 strategies are many other ways to lower or defer capital gains/income within each one, but this is probably the overview. \n\nTalk to a tax advisor (especially for C-Corp trading)!  If anyone else has any other strategies feel free to share.",
+      "created_at": "Wed Oct 08 07:19:34 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1975823221527339008",
+          "url": "https://pbs.twimg.com/media/G2uIwGoa4AAbVOm.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 80,
+        "reply_count": 6,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "1975929128114377050",
+      "text": "Some days there’s not much activity.\n\nNew 1Y+ long positions;\n\n- $AMD shares at $215\n- $WYFi shares at $33\n- UNH 1Y leaps Jan 2027\n\nDCA $FLNC &amp; SEI on drop for high risk energy plays. \n\nDCA RDDT $198 on 4% drop. \n\nTrimmed misc positions for EOY tax harvesting.",
+      "created_at": "Wed Oct 08 14:19:49 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1975612208286736451",
+        "text": "Why $ORCL facing challenges with GPU-as-a-Service (from leaks) is actually bullish for neoclouds like Nebius.\n\nHyperscalers struggling with GPU economics strengthens the case for specalized neoclouds.\n\nThis is an insane opportunity on $NBIS, $WYFI, $IREN, $CIFR, $CRWV and others:\n\nTLDR: (from rumors)\n\nOracle faced a loss from:\n\n- Low utilization (idle capacity) before customer ramp\n\n- Massive upfront CapEx (Blackwell GPUs)\n\n- Heavy overhead  \n\n- Discount pricing  \n\nResult: Negative gross margins on GPU compute for Oracle.\n\nThis is negative for Oracle, positive for Neoclouds:  This is just goes to show\n\n1. Proof of Complexity = Validation of Moat.   \n\nNeoclouds like $NBIS do it better and this is an actual competitive moat and margin opportunity (This is why $MSFT went to Nebius to sign a deal instead of building it out themselves).\n\n2. Capital Efficiency Advantage.   \n\nNeoclouds use Leasing / colocation for flexibility (e.g. NBIS in Patmos & Verne), workload allocations to maintain high utilization (while Oracle struggled with utilization).\n\n3. Outsourcing Demand Increases  \n\nOracle and Hyperscalers might shift workloads to Neoclouds and sign more contracts if they have trouble with buildout (eg. MSFT with CRWV)\n\n4. Oracle used discount prices here.  Neoclouds can just price rationally on top of optimizing their margins.\n\n5. Custom Infra Increases Margins  \n\nNeoclouds like Nebius have custom orchestration stacks for GPU scheduling, lot of internal software and automation to maximize utilization and yield to sustain 50-70% gross margins compared to ORCL.\n\nThis is news negative for Oracle and Hyperscaler buildout but actually bullish for specialized neocloud providers like $CRWV, $NBIS, and others.",
+        "created_at": "Tue Oct 07 17:20:30 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "1975612202351808512",
+            "url": "https://pbs.twimg.com/media/G2rI1K8bUAAwzMT.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 10,
+          "favorite_count": 116,
+          "reply_count": 10,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 36,
+        "reply_count": 9,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "1975952087143039039",
+      "text": "Speaking of random stocks:\n\n1. Bought into $FLY -\n\nIt’s a $RKLB / SpaceX competitor. 4B MC. Space + Rockets = me buy \n\n2. $DFLI - energy, lithium batteries. 83M\nMC just raised $28.7M convertible good price\n\nRisk return looks good cause energy + healthy balance sheet + buzzwords",
+      "created_at": "Wed Oct 08 15:51:03 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1975929128114377050",
+        "text": "Some days there’s not much activity.\n\nNew 1Y+ long positions;\n\n- $AMD shares at $215\n- $WYFi shares at $33\n- UNH 1Y leaps Jan 2027\n\nDCA $FLNC &amp; SEI on drop for high risk energy plays. \n\nDCA RDDT $198 on 4% drop. \n\nTrimmed misc positions for EOY tax harvesting.",
+        "created_at": "Wed Oct 08 14:19:49 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 36,
+          "reply_count": 9,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 55,
+        "reply_count": 8,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "1975972170439569701",
+      "text": "Sorry ended up deleting my $BULL post about dip buying.\n\nI trusted the news + other posts about institutions selling. Did more research and it turns out to be a 445m share unlock, which was 30% of the float.\n\nOne insider likely sold 3m anticipating the share unlock causing further price pressure. \n\nCould rebound buy but given how many shares are unlocked + $BULL fundamentals it’s a seriously material in event. You’re free to take your own risk given this info.",
+      "created_at": "Wed Oct 08 17:10:51 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1975972167117570049",
+          "url": "https://pbs.twimg.com/media/G2wQN4MaAAEUoq0.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 43,
+        "reply_count": 11,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "1975987940473045058",
+      "text": "$AMD is actually insane wtf.\n\nMarkets are repricing it as the next $NVDA I guess. https://t.co/cuH0dEjd0n",
+      "created_at": "Wed Oct 08 18:13:31 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1975987936991776768",
+          "url": "https://pbs.twimg.com/media/G2wejzjaEAAQRVv.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1975929128114377050",
+        "text": "Some days there’s not much activity.\n\nNew 1Y+ long positions;\n\n- $AMD shares at $215\n- $WYFi shares at $33\n- UNH 1Y leaps Jan 2027\n\nDCA $FLNC &amp; SEI on drop for high risk energy plays. \n\nDCA RDDT $198 on 4% drop. \n\nTrimmed misc positions for EOY tax harvesting.",
+        "created_at": "Wed Oct 08 14:19:49 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 36,
+          "reply_count": 9,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 0,
+        "favorite_count": 38,
+        "reply_count": 5,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "1976001305866080372",
+      "text": "IMO opportunity front running the Boost SPAC Neocloud IPO through $WLAC (OKLO, DJT, etc) if u hv 3 months patience.\n\nBoost works with Fluidstack, likely backstopped by $GOOGL in the future.\n\n75%+ EBITDA gross margin + 250% rev from last year.\n\nEST MC ~$600m, maybe next $CIFR. https://t.co/apzAdfLvMY",
+      "created_at": "Wed Oct 08 19:06:38 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1976001302674145282",
+          "url": "https://pbs.twimg.com/media/G2wqtymaAAIN-lh.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 75,
+        "reply_count": 11,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "1976033094932234314",
+      "text": "Wow I cooked insanely hard with this ETF, everything is up a **** ton.\n\nAnyway, some company changes I'd make + explanations:\n\n$AMD - +10% (rerate)\n$FLY - +3% (new)\n$WLAC - +1% (new)\n$MU - +1% (new)\n$FLNC - .5% (new)\n$SEI - .5% (new)\n$DFLI - - .25% (new)\n\n_\n\nTrim (Tax harvesting)\n\n$ORCL\n$LULU\n$META\n$UPWK\n$ETOR\n$SNAP\nMisc small caps\n\n_\n\nHere's an explanation\n\n$AMD - Just got $100B+ in forward revenue lol, they almost doubled their quarterly revenue overnight and hasn't even been priced in yet. Extremely strong buy\n\n$FLY - $4.4B valuation doing small-medium lift launches like $RKLB. Reminds me of RocketLab when they first started, risk-reward is good.\n\n$WLAC - Neocloud IPO at $600m valuation (low) for something doing 75%+ EBITDA gross margin + 250% rev from last year + likely backstopped by Mag7\n\n$MU - Memory in demand given the amount of infra required by Stargate + OpenAI\n\n$FLNC + $SEI - Energy Play (high risk high reward)\n\n$DLFI - Battery Play (high risk high reward)\n\nTrim\n\n$ORCL - Having trouble with GPU buildout, just goes to show the moat between hyperscalers and Neoclouds like $NBIS. Higher upside just buying Neoclouds.\n\n$LULU, $META, $UPWK, $ETOR, $SNAP. - Hasn't gone up much, we're playing as aggressive as possible with winners and will buy back once tax harvesting is done, eg. swap for $AMD, and higher return triple rate cut returns. \n\nWill buy back near EOY once tax harvesting is done.",
+      "created_at": "Wed Oct 08 21:12:57 +0000 2025",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "1970995733659779574",
+        "text": "I've been getting a lot of stock weighting questions. A portfolio I'd build would be: \n\n30% $NBIS\n6% AMZN\n5.5% TSM\n5% BTC\n5% LULU\n4% UNH\n4% $RKLB\n4% LTC\n3% ORCL\n3% TGT\n3% GRAB\n2% $IREN\n2% META\n2% HOOD\n2% HIMS\n2% AMD\n2% NVO\n1.5% CRDO\n1% BITF\n1% ASTS\n1% SG\n1% UPWK\n1% MP\n1% FOUR\n1% ETOR\n1% INTC\n1% COIN\n1% SMCI\n1% MRVL\n1% DAVE\n.5% DLO\n.5% MELI\n.5% SNAP\n.5% CRWV\n.2% ONDS\n.2% NFE\n.2% TSSI\n.2% BKKT\n.2% GRRR",
+        "created_at": "Wed Sep 24 23:36:16 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 29,
+          "favorite_count": 248,
+          "reply_count": 32,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 68,
+        "reply_count": 13,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "1976057641999925300",
+      "text": "Okay last post of the night I promise:\n\n$FLY ECLIPSE REUSABLE MEDIUM-LIFT ROCKET LAUNCHES AIMING 2026.\n\n $4.5B MARKET CAP. MEGA MOAT, backstopped by government + critical for national security. \n\nI DON'T NEED TO SAY MORE. \n\nLove,\nEarly $RKLB investor and Rocketlab Megabull. https://t.co/yAQpQGz1B5",
+      "created_at": "Wed Oct 08 22:50:29 +0000 2025",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "1976056531549552645",
+          "url": "https://pbs.twimg.com/media/G2xc8iMaAAUQiPr.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "1976033094932234314",
+        "text": "Wow I cooked insanely hard with this ETF, everything is up a **** ton.\n\nAnyway, some company changes I'd make + explanations:\n\n$AMD - +10% (rerate)\n$FLY - +3% (new)\n$WLAC - +1% (new)\n$MU - +1% (new)\n$FLNC - .5% (new)\n$SEI - .5% (new)\n$DFLI - - .25% (new)\n\n_\n\nTrim (Tax harvesting)\n\n$ORCL\n$LULU\n$META\n$UPWK\n$ETOR\n$SNAP\nMisc small caps\n\n_\n\nHere's an explanation\n\n$AMD - Just got $100B+ in forward revenue lol, they almost doubled their quarterly revenue overnight and hasn't even been priced in yet. Extremely strong buy\n\n$FLY - $4.4B valuation doing small-medium lift launches like $RKLB. Reminds me of RocketLab when they first started, risk-reward is good.\n\n$WLAC - Neocloud IPO at $600m valuation (low) for something doing 75%+ EBITDA gross margin + 250% rev from last year + likely backstopped by Mag7\n\n$MU - Memory in demand given the amount of infra required by Stargate + OpenAI\n\n$FLNC + $SEI - Energy Play (high risk high reward)\n\n$DLFI - Battery Play (high risk high reward)\n\nTrim\n\n$ORCL - Having trouble with GPU buildout, just goes to show the moat between hyperscalers and Neoclouds like $NBIS. Higher upside just buying Neoclouds.\n\n$LULU, $META, $UPWK, $ETOR, $SNAP. - Hasn't gone up much, we're playing as aggressive as possible with winners and will buy back once tax harvesting is done, eg. swap for $AMD, and higher return triple rate cut returns. \n\nWill buy back near EOY once tax harvesting is done.",
+        "created_at": "Wed Oct 08 21:12:57 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208948,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 68,
+          "reply_count": 13,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 7,
+        "favorite_count": 82,
+        "reply_count": 9,
+        "quote_count": 1
+      }
+    }
+  ]
+}

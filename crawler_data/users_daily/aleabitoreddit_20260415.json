@@ -1,0 +1,461 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 209102,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260415",
+  "last_updated": "2026-04-20T17:34:50.175115",
+  "tweet_count": 12,
+  "tweets": [
+    {
+      "id": "2044279346945503600",
+      "text": "Enplas (6961) at ~$985M seems kinda interesting. \n They hold two chokepoints:\n\n1. Dominant supplier for MLAs (micro lens arrays). Eg. SiPH switches, 1.6T, 3.2T for photonics.  \n2. Oligopoly supplier for IC Test sockets (AI Chip Testing) \n\nCash on hand: ~$155M, no debt.  Equity-to-Asset Ratio: ~89% (50%+ usually is solid), so low downside risk imo. \n And their speculated customers: \n\n1, Photonics (MLAs): Highly probable: Innolight, Eoptolink, Furukawa, Intel (SiPh). And prob $COHR, $LITE.\n\n2. GPU/ASICs (Test Sockets): prob $TSM, ASE, types use these to likely test $NVDA GPUs, $GOOGL TPUs (Google Ironwood is highly probable).\n\n\"expanding mass production orders for major GPU manufacturers, and for ASIC-related projects for hyperscalers.\" \nThen at OFC:\n\nOFC: “We will be showcasing our new products for 800Gbps and 1.6Tbps transceivers and CPO (Co-Packaged Optics) that support today’s rapid technological advancements in AI.” \n\nBasically you have a company that supplies T1 semis, foundries, hyperscalers, that benefits from 1.6T from MLA photonics segment + CPO TAM expansion later from OFC products.  \n\nWas one my positions wanted to share my thoughts about since it seemed p cool at sub <$1B MC.",
+      "created_at": "Wed Apr 15 04:59:11 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044279343090954240",
+          "url": "https://pbs.twimg.com/media/HF69O0Ka8AA5T0b.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 36,
+        "favorite_count": 509,
+        "reply_count": 39,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2044287196300226960",
+      "text": "IT'S OFFICIAL: $JBL to use $SIVE Lasers for their optical transceivers. \n\nToday:  \"Jabil plans to develop a 1.6T linear receive optical (LRO)  transceiver module using Sivers’ high-performance Distributed Feedback (DFB) lasers\"\n\nJabil Photonics: :Working with Sivers will allow us to deliver a 1.6T LRO solution  that meets both data center performance and power targets at scale\"\n\nWhere have you seen the LIGHT SOURCE for hyperscaler supply chains...\n\nAt a $500m MC? We had this hinted from physical sources at OFC, but many institutions needed actual confirmation like this.",
+      "created_at": "Wed Apr 15 05:30:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044287178679955459",
+          "url": "https://pbs.twimg.com/media/HF7EW6AasAMascZ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 86,
+        "favorite_count": 1129,
+        "reply_count": 76,
+        "quote_count": 14
+      }
+    },
+    {
+      "id": "2044312072780165440",
+      "text": "$SIVE is the next $LITE at $560m MC.\n\nInstitutions just got full confirmation today:\n\nSivers is now the light source in hyperscaler supply chains and the direct supplier of $JBL optical transceivers.\n\nIt’s only a matter of time. https://t.co/Eh9GherJTV",
+      "created_at": "Wed Apr 15 07:09:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044312069147877376",
+          "url": "https://pbs.twimg.com/media/HF7a_uOaYAAb9nu.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2044287196300226960",
+        "text": "IT'S OFFICIAL: $JBL to use $SIVE Lasers for their optical transceivers. \n\nToday:  \"Jabil plans to develop a 1.6T linear receive optical (LRO)  transceiver module using Sivers’ high-performance Distributed Feedback (DFB) lasers\"\n\nJabil Photonics: :Working with Sivers will allow us to deliver a 1.6T LRO solution  that meets both data center performance and power targets at scale\"\n\nWhere have you seen the LIGHT SOURCE for hyperscaler supply chains...\n\nAt a $500m MC? We had this hinted from physical sources at OFC, but many institutions needed actual confirmation like this.",
+        "created_at": "Wed Apr 15 05:30:23 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044287178679955459",
+            "url": "https://pbs.twimg.com/media/HF7EW6AasAMascZ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 86,
+          "favorite_count": 1129,
+          "reply_count": 76,
+          "quote_count": 14
+        }
+      },
+      "stats": {
+        "retweet_count": 96,
+        "favorite_count": 1200,
+        "reply_count": 98,
+        "quote_count": 16
+      }
+    },
+    {
+      "id": "2044331395561206116",
+      "text": "I really meant it when I thought $SIVE could be valued at $2B today.\n\nWhen do you ever find a critical laser supplier to $MRVL, $JBL, and Hyperscaler supply chains... \n\nAt $620m MC?\n\nYou can't... Since there's only a few in the world.\n\nAnd the rest in hyperscaler supply chains from $LITE to $MTSI are in the tens of billions...",
+      "created_at": "Wed Apr 15 08:26:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044331392172199936",
+          "url": "https://pbs.twimg.com/media/HF7skeGakAAWns3.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2044312072780165440",
+        "text": "$SIVE is the next $LITE at $560m MC.\n\nInstitutions just got full confirmation today:\n\nSivers is now the light source in hyperscaler supply chains and the direct supplier of $JBL optical transceivers.\n\nIt’s only a matter of time. https://t.co/Eh9GherJTV",
+        "created_at": "Wed Apr 15 07:09:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2044312069147877376",
+            "url": "https://pbs.twimg.com/media/HF7a_uOaYAAb9nu.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 96,
+          "favorite_count": 1200,
+          "reply_count": 98,
+          "quote_count": 16
+        }
+      },
+      "stats": {
+        "retweet_count": 75,
+        "favorite_count": 921,
+        "reply_count": 98,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2044449732672847928",
+      "text": "I’m at a loss for words. wtf is this \n\n$BIRD is up 572% after:\n\n“Allbirds executed a $50M convertible financing facility… to fund a pivot into GPU-as-a-Service and AI cloud infrastructure”\n\nThis is a shoe brand? https://t.co/QViPJDXj1E",
+      "created_at": "Wed Apr 15 16:16:14 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044449728251973632",
+          "url": "https://pbs.twimg.com/media/HF9YMiWaUAACr_v.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2044449728247869440",
+          "url": "https://pbs.twimg.com/media/HF9YMiVbsAAVF-o.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 47,
+        "favorite_count": 1398,
+        "reply_count": 233,
+        "quote_count": 22
+      }
+    },
+    {
+      "id": "2044460526017941554",
+      "text": "Yep… How did I call out and long.\n\nFIFTEEN DIFFERENT STOCKS.\n\n8+7. 9+6. 10+5.\n\nAfter $ALRIB, the $MSFT Quantum supplier went up 113%, that hit 15 different longs.\n\nThat returned Triple Digits year to date??? \n\nNo paywall, and I've posted everything before it moved.\n\nHard carrying retail out of the permanent underclass.",
+      "created_at": "Wed Apr 15 16:59:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044460521962016769",
+          "url": "https://pbs.twimg.com/media/HF9iA0DbEAE7S0t.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2044305915592294537",
+        "text": "@aleabitoreddit Was it you that mentioned Riber SA as well? $Alrib?  It’s been flying as well.",
+        "created_at": "Wed Apr 15 06:44:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1875075922170130432",
+          "name": "Afishyanadoh",
+          "screen_name": "afishyanadoh",
+          "description": "",
+          "followers_count": 64,
+          "friends_count": 411,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 4,
+          "reply_count": 9,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 789,
+        "reply_count": 77,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2044477539402580438",
+      "text": "Thank you $MSFT and $META. \n\nThe selloff overreaction presented a buying opportunity when:\n\n-&gt; Microsoft hit $360 and Meta hit $525.\n\nYou didn’t need to time the exact bottom. \n\nBut the recovery probably minted generational wealth to many. \n\nDid you end up taking positions? https://t.co/gII17cJo19",
+      "created_at": "Wed Apr 15 18:06:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044477534402973698",
+          "url": "https://pbs.twimg.com/media/HF9xfEVbEAIEpTd.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2044477534390390786",
+          "url": "https://pbs.twimg.com/media/HF9xfESbEAIfQtE.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2036448156280561850",
+        "text": "Feel like Mag7 selloff from $META at $593 to $MSFT at $373…\n\nHas gone a bit too far? \n\nAt this point, risk/reward feels on hyperscaler spend vs. ROI vs. macro climates, feels compelling.\n\nAnd we should see capital rotations back into the American tech sector soon. https://t.co/KBCi7gMfGT",
+        "created_at": "Tue Mar 24 14:20:50 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036448143370493953",
+            "url": "https://pbs.twimg.com/media/HELqy_0aIAEo1KR.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2036448143362142208",
+            "url": "https://pbs.twimg.com/media/HELqy_yasAAA5Xf.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 208946,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 65,
+          "favorite_count": 1118,
+          "reply_count": 101,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 750,
+        "reply_count": 87,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2044483730027503987",
+      "text": "Out of curiosity. Why do Europeans hate their own markets?\n\nIf you look at all my core longs:\n\n$IQE up 837% YTD\n$SIVE up 385% YTD\n$ALRIB up 258% YTD\n$SOI up 208% YTD\n$RPI up 107% YTD\n\nIt’s just endless salt coming from local analysts and reporters.\n\nBut they’re the national security gems in each country (aside from Raspberry Pi).\n\nLocals end up selling all their shares at the bottom, then it just transferred to American investors and institutions. \n\nThen they don’t get any of the upside.\n\nIf a company like Riber is used by $MSFT quantum and traded at a 26 p/e, it would be $1.6B+ in the US like $LWLG. But people are salty if it has a valuation premium at all.  \n\nThe only appreciative community for foreign capital I’ve seen are Japanese, and most have been incredibly welcoming. \n\nI feel like Europeans should be proud their leading frontier companies, are benefiting from Western capital.\n\nSo they can scale up production needed for American hyperscalers?\n\nIt’s a positive sum effect on the company, and the local economies as well. \n\nThis backward mindset phenomenon needs to change.",
+      "created_at": "Wed Apr 15 18:31:20 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 56,
+        "favorite_count": 1100,
+        "reply_count": 126,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2044491122161160517",
+      "text": "No. This type of BS mindset needs to stop. \n\nWhat I do is point them out to retail first before the 100-500%+ returns. \n\nUS institutions like Point72 or Apollo would have bought them out eventually. \n\n1. $IQE went up because they're sitting on the most latent merchant capacity in the world for InP reactors back at a 100M euro marketcap. While companies like Landmark were trading at $3.8B.\n\nThey were also the supplier to $LITE, and photonics/epiwafer demand took off this year.\n\n2. $SIVE went up because they had new deals with $JBL and O-Net. \n\nBut they were already unknown as the laser supplier to $MRVL's CPO program when I first went long.\n\nAmerican institutions like $AVGO would have likely just bought the company directly like what Qualcomm did with Alphawave over in the openlight side of things if I didn't bring attention to it. \n\nThen Swedish retail investors wouldn't get any of the upside. \n\n3. $ALRIB went up because their earnings sent their P/E down to fwd 26, despite holding a duopoly in the MBE category with $VECO.\n\nThis combined with new SiPH equipment, as well as $IQE + QD Laser (for quantum dot) being their customers. \n\nThis was combined from raw information discovery of the decade that $MSFT Quantum was their buyer. \n\nYou don't see direct hyperscaler frontier programs in quantum computing dependant on some <$1B MC company. \n\n4. $SOI is up 208% because it has an unknown monopoly over SOI substrates for silicon photonics and CPO.  \n\nThis was more information synthesis combined with timing the bottom of their legacy cycle. \n\n5. $RPI went up because of earnings and AI hardware usage.\n\nI was just the very first person to point it out.  \n\nI projected 55% revenue growth compared to 14% from analysts. They did 58%.\n\nI just gave retail the chance to buy it before institutions.\n\nThe stock would have gone up off of pure fundamentals without me posting my thesis because you don't do $511m in revenue off a $500m MC as a fabless company. \n\nI'm just giving retail the all the information discovery before institutions have a chance to find it and price it in. \n\nThis is a completely different model than the same institutions telling you to buy index funds or stocks that already went up 1500% so you're exit liquidity.",
+      "created_at": "Wed Apr 15 19:00:42 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2044484538902983023",
+        "text": "@aleabitoreddit They only went up those percentages because of your and other X accounts attention to those stocks combined with them being undervalued",
+        "created_at": "Wed Apr 15 18:34:33 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "3377254083",
+          "name": "Deo Non Fortuna",
+          "screen_name": "filiusveritatis",
+          "description": "I will either find a way or make one. Christian Orthodox, Stock market investor, Philosopher. #RKLB #ASTS $NBIS #TE",
+          "followers_count": 68,
+          "friends_count": 106,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 16,
+          "reply_count": 10,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 43,
+        "favorite_count": 1131,
+        "reply_count": 101,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2044507444962070817",
+      "text": "I'm just sharing my journey and thoughts.  \n\nPeople give me too much credit, everyone takes their own trades. \n\nAs for me... I finished the day up +1,337.81% YTD. \n\n$MSFT, $META and $RDDT beginning their recoveries today helped a bit. \n\nThis is exactly why I believe if your ideas were genuinely good enough:\n\nYou can make all your money going long on them in the markets. \n\nInstead of paywalling them for $2000+ a year then getting salty off others helping retail for free.",
+      "created_at": "Wed Apr 15 20:05:34 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044507441321414660",
+          "url": "https://pbs.twimg.com/media/HF-Mr4SbEAQWbtA.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2044496510499402128",
+        "text": "@aleabitoreddit You made me 3x my money. Thank you 🙏",
+        "created_at": "Wed Apr 15 19:22:07 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1919885842794881024",
+          "name": "drflange",
+          "screen_name": "drflange196811",
+          "description": "",
+          "followers_count": 16,
+          "friends_count": 192,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 22,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 32,
+        "favorite_count": 1950,
+        "reply_count": 123,
+        "quote_count": 9
+      }
+    },
+    {
+      "id": "2044544090549981244",
+      "text": "This announcement is the most bullish catalyst for $HIMS revenue re-acceleration to date.\n\nThis is amid:\n- 30%+ of the float sold short\n- new $NVO partnership/lawsuit dropped\n- new global acquisitions\n- recovering macro climate. \n\nThe share price is still $25, down from $70 last year. \n\nShort sellers are likely in trouble: \n\n$HIMS can capture market share at the ~70%-80% gross margins typical of their compounded products for the holy grail of the \"Grey Market\" TAM for peptides. \n\n- EG. Healing: BPC-157 and Thymosin beta-4\n- Hair & Skin: GHK-Cu\n- Weight Loss & Muscle: MOTS-c and Ibutamoren\n\nAnd now they're probably the world's largest independent DTC distribution network to date from their new acquisitions... \n\nSo just running a peptide protocol subscription between $150 to $300, for 200k subscribers is $360M+ in high-margin ARR. \n\nAs just one example, but now they have a worldwide net of customers. \n\nThey burned through capex last year to acquire peptide manufacturing facilities too... so now that's turned into a massive cash-cow business. \n\nI said $HIMS would need fundamental changes in order to force shorts to cover, and this is probably that signal as seen with market data. \n\nAnd $HIMS is turning into a fundamentally sound company after regulatory de-risking.",
+      "created_at": "Wed Apr 15 22:31:11 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044544085772668928",
+          "url": "https://pbs.twimg.com/media/HF-uA3gbEAAkzkM.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2044544085776859136",
+          "url": "https://pbs.twimg.com/media/HF-uA3hbAAApSWv.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2044478939897221219",
+        "text": "Today, we took long-overdue action to restore science, accountability, and the rule of law.\n\nIn September 2023, the Biden FDA pushed a number of peptides into Category 2 — “Bulk Drug Substances that Raise Significant Safety Risks” — driving a dangerous black market that puts Americans at risk.\n\nNow, after nominators withdrew 12 peptides, the FDA will remove them from Category 2 and will bring them to PCAC at its next two meetings, beginning in July—where independent experts will rigorously evaluate each substance on its scientific merits using full clinical, pharmacological, and safety evidence.\n\n• BPC-157\n• Thymosin beta-4 fragment (LKKTETQ)\n• Epitalon\n• GHK-Cu (injectable)\n• MOTS-c\n• DSIP (Emideltide)\n• Dihexa Acetate\n• Ibutamoren Mesylate\n• Melanotan II\n• KPV\n• Semax (heptapeptide)\n• Cathelicidin LL-37\n\nThis action begins to restore regulated access and will immediately begin shifting demand away from the black market.\n\nWe will follow the science, enforce the law, and deliver the clarity patients, providers, and pharmacies deserve.",
+        "created_at": "Wed Apr 15 18:12:18 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1886875846473879552",
+          "name": "Secretary Kennedy",
+          "screen_name": "SecKennedy",
+          "description": "Official page of @HHSGov Secretary Robert F. Kennedy, Jr.",
+          "followers_count": 1212119,
+          "friends_count": 2,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 2898,
+          "favorite_count": 22862,
+          "reply_count": 1085,
+          "quote_count": 563
+        }
+      },
+      "stats": {
+        "retweet_count": 176,
+        "favorite_count": 2014,
+        "reply_count": 94,
+        "quote_count": 38
+      }
+    },
+    {
+      "id": "2044553960431014359",
+      "text": "$SIVE executing US NASDAQ listing from Reuters.\n\nWelcome to America Sivers.\n\nI said Sivers looks like it should be valued at $2B+ soon based on today's fundamentals. \n\nAnd US institutions will likely be piling into the laser supplier for $MRVL and $JBL once it's on NASDAQ. \n\nThis comes after a highly bullish 2.5% raise today from new \"international institutional investors\" to likely fund regulatory/audit requirements for the listing.\n\n\"The investors in the Directed Share Issue comprise of a limited number of  Swedish and international institutional and other qualified investors\"\n\nWe’ll likely going to see a parabolic ride up from the news. \n\nIn just the last three days:\n\n-> $JBL 1.6T to use $SIVE\n-> $SIVE new US/international institutional investors\n-> $SIVE looks to be listed on NASDAQ. \n\nWe're witnessing the birth of the next $LITE.",
+      "created_at": "Wed Apr 15 23:10:24 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2044553955888533506",
+          "url": "https://pbs.twimg.com/media/HF-2_YjbEAIOjwf.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 124,
+        "favorite_count": 1580,
+        "reply_count": 170,
+        "quote_count": 30
+      }
+    }
+  ]
+}
