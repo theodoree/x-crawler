@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 210901,
+    "followers_count": 211031,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260420",
-  "last_updated": "2026-04-20T22:24:35.371903",
-  "tweet_count": 14,
+  "last_updated": "2026-04-20T23:23:47.785184",
+  "tweet_count": 15,
   "tweets": [
     {
       "id": "2046043070538633618",
@@ -494,6 +494,62 @@
         "retweet_count": 13,
         "favorite_count": 361,
         "reply_count": 48,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2046363533471035793",
+      "text": "What a crazy timeline?\n\nToday, $AMD announced it's pushing into CPO and collaborating with $GFS. \n\nThis is highly bullish for $SIVE since for CPO/SiPH, it requires external laser light source. \n\nAnd... guess who are the two public laser suppliers in the GlobalFoundries CPO ecosystem?\n\n$SIVE (~$935m) and $LITE (~$64 billion)\n\nSivers lasers feel like they could be everywhere now in upcoming hyperscaler CPO/1.6T deployments.\n\nSo... if Sivers secures the spot to provide the laser arrays for the $AMD Instinct MI500's CPO solution in 2027.\n\n(Which seems highly possible given there’s only three laser names listed + hyperscalers like to multi-source)\n\nThis might represent massive, high volume production for Sivers that markets haven't pricing in.",
+      "created_at": "Mon Apr 20 23:01:00 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2046363529473859584",
+          "url": "https://pbs.twimg.com/media/HGYkybeaoAA9bom.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2046187732800782587",
+        "text": "Did $GFS give the first direct confirmation about $SIVE...\n\nAs the laser supplier for their CPO / photonics ecosystem? \n\nThis is explicit laser architectural inclusion vs. previous supply chain mapping with Ayar/Celestial. \n\nYou get a hint of the other major players here:\n- $FN / $ASX for assembly\n- $LITE / $SIVE for lasers\n- $ATEYY / $KEYS for testing. \n\nThere's no text-based news yet, since this was the $GFS March 2026 webinar image-based presentation.\n\nBut having a <$1B company on the tiny list of laser providers next to $LITE... \n\nQuite special right?",
+        "created_at": "Mon Apr 20 11:22:26 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2046184437155774464",
+            "url": "https://pbs.twimg.com/media/HGWB54maQAA6rDd.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2046184461679960064",
+            "url": "https://pbs.twimg.com/media/HGWB7T9boAAuN6R.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 211031,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 62,
+          "favorite_count": 749,
+          "reply_count": 70,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 283,
+        "reply_count": 29,
         "quote_count": 2
       }
     }
