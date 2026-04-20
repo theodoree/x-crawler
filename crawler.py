@@ -254,6 +254,7 @@ class XCrawler:
                 time.sleep(60)
                 return None
             else:
+                self._send_feishu_log(log_text=f"❌ 请求失败: {response.status_code} - {response.text[:200]}",is_error=True)
                 print(f"❌ 请求失败: {response.status_code} - {response.text[:200]}")
                 return None
                 
@@ -753,6 +754,36 @@ class XCrawler:
                     except Exception:
                         pass
                 break
+
+    def _send_feishu_log(self, log_text: str, title: str = "X 爬虫日志", is_error: bool = False):
+        """发送简单飞书文本消息，用于日志和错误上报。"""
+        webhook_url = os.getenv('FEISHU_WEBHOOK', '').strip()
+        if not webhook_url:
+            print("⚠️ 未配置 FEISHU_WEBHOOK，跳过飞书日志")
+            return
+
+        if not log_text:
+            return
+
+        prefix = "❌ 错误" if is_error else "ℹ️ 日志"
+        payload = {
+            "msg_type": "text",
+            "content": {
+                "text": f"{prefix}：{title}\n\n{log_text}"
+            }
+        }
+
+        try:
+            response = requests.post(webhook_url, json=payload, timeout=10)
+            response.raise_for_status()
+            print(f"✅ 飞书日志推送成功: {title}")
+        except Exception as e:
+            print(f"❌ 飞书日志推送失败: {e}")
+            if hasattr(e, 'response') and e.response is not None:
+                try:
+                    print(f"   响应内容: {e.response.text}")
+                except Exception:
+                    pass
 
     def _save_user_tweets(self, screen_name: str, new_tweets: List[Dict], users_dir: Path):
         """保存或合并用户的推文数据"""

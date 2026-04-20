@@ -11,7 +11,7 @@ on:
       tweet_count:
         description: '要爬取的推文数量'
         required: false
-        default: '200'
+        default: '100'
 
 jobs:
   crawl-only:
@@ -74,7 +74,7 @@ jobs:
       # 6. 运行爬虫 (只抓取，不生成总结)
       - name: 🕷️ Crawl tweets (no summary)
         run: |
-          TWEET_COUNT="${{ github.event.inputs.tweet_count || '200' }}"
+          TWEET_COUNT="${{ github.event.inputs.tweet_count || '100' }}"
           echo "抓取 $TWEET_COUNT 条推文 (不生成总结)"
           python run_crawler.py --count $TWEET_COUNT
         continue-on-error: true
@@ -86,7 +86,7 @@ jobs:
           echo "## 🤖 抓取运行报告" > report.md
           echo "" >> report.md
           echo "- 🕐 运行时间: $(date +'%Y-%m-%d %H:%M:%S')" >> report.md
-          echo "- 🎯 目标数量: ${{ github.event.inputs.tweet_count || '200' }} 条" >> report.md
+          echo "- 🎯 目标数量: ${{ github.event.inputs.tweet_count || '100' }} 条" >> report.md
           echo "- ⚡ 任务类型: 数据抓取 (不生成总结)" >> report.md
           echo "" >> report.md
 
