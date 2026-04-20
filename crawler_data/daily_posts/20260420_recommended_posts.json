@@ -1,12 +1,171 @@
 {
   "date": "20260420",
   "timeline_type": "recommended",
-  "last_crawl_time": "2026-04-20T00:29:55.328300",
-  "tweet_count": 200,
-  "unique_tweet_count": 200,
-  "total_crawled": 200,
-  "duplicates_removed": 0,
+  "last_crawl_time": "2026-04-20T03:06:43.412638",
+  "tweet_count": 202,
+  "unique_tweet_count": 202,
+  "total_crawled": 400,
+  "duplicates_removed": 198,
   "tweets": [
+    {
+      "id": "2046030944990380310",
+      "text": "RT @siliconcarnesf: Tesla vient d'allumer à Corpus Christi (çà ne s'invente pas...) la première raffinerie majeure de lithium des États-Uni…",
+      "created_at": "Mon Apr 20 00:59:25 +0000 2026",
+      "lang": "fr",
+      "media": [],
+      "retweet": {
+        "id": "2045829765077021136",
+        "text": "Tesla vient d'allumer à Corpus Christi (çà ne s'invente pas...) la première raffinerie majeure de lithium des États-Unis, et ce qui me frappe n'est pas le made in USA. C'est que Musk a balancé l'approche standard à la poubelle pour repenser entièrement le procédé from scratch.\n\nLa raffinerie tourne sans acide sulfurique. Six étapes au lieu de huit à douze, un million de véhicules électriques par an en capacité nominale, 50 GWh à terme. Pas de sulfate de sodium toxique à gérer derrière, juste un résidu minéral quasi inerte qu'ils appellent analcime. Sur le papier ça sent le storytelling, sauf que l'usine tourne vraiment depuis janvier et que l'investissement a dépassé le milliard de dollars.\n\nC'est la réponse industrielle à quinze ans de dépendance chinoise sur le raffinage. La Chine contrôle la majorité du lithium raffiné mondial, pas parce qu'elle a les gisements, mais parce qu'elle a absorbé les externalités environnementales qu'aucune boîte occidentale ne voulait assumer. Tesla prouve qu'on peut contourner le problème au lieu de le subventionner.",
+        "created_at": "Sun Apr 19 11:40:00 +0000 2026",
+        "lang": "fr",
+        "media": [],
+        "retweet": null,
+        "quoted": {
+          "id": "2045309037848272993",
+          "text": "Tesla engineering redesigned lithium refining from physics first principles",
+          "created_at": "Sat Apr 18 01:10:49 +0000 2026",
+          "lang": "en",
+          "media": [],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "44196397",
+            "name": "Elon Musk",
+            "screen_name": "elonmusk",
+            "description": "https://t.co/dDtDyVssfm",
+            "followers_count": 238563514,
+            "friends_count": 1315,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 14186,
+            "favorite_count": 106868,
+            "reply_count": 3514,
+            "quote_count": 329
+          }
+        },
+        "user": {
+          "id": "1392126800206172163",
+          "name": "Silicon Carne",
+          "screen_name": "siliconcarnesf",
+          "description": "Silicon Carne 🌶️ L'insider francophone de la Silicon Valley. Ici, on ne commente pas la tech, on la confronte.",
+          "followers_count": 7774,
+          "friends_count": 166,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 709,
+          "favorite_count": 3912,
+          "reply_count": 210,
+          "quote_count": 37
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238563514,
+        "friends_count": 1315,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 709,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2046030060436734405",
+      "text": "RT @MarioNawfal: Wait? What did I just read? Grok 4.3 just broke the game?\n\n@xAI dropped the nuke: @Grok can now spit out full Microsoft Wo…",
+      "created_at": "Mon Apr 20 00:55:54 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": {
+        "id": "2046027819516309668",
+        "text": "Wait? What did I just read? Grok 4.3 just broke the game?\n\n@xAI dropped the nuke: @Grok can now spit out full Microsoft Word docs, PDFs, PowerPoints, and Excel spreadsheets on command.  \n\nNo more \"sorry I can’t generate files\" excuses, this AI is actually useful AF\n\n@elonmusk https://t.co/vdpiHL44Nc",
+        "created_at": "Mon Apr 20 00:47:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2046024623834439680",
+            "url": "https://pbs.twimg.com/media/HGTwjhlaoAA2wqh.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": {
+          "id": "2045193069801394564",
+          "text": "Forget about any other AI, the signs are clear: Grok 4.3 Beta is already #1\n\n- Creates clean slides, graphs, images & dashboards\n- Pulls real-time web data + images\n- Runs smooth multi-step workflows\n- Analyzes videos like a beast\n\nFrom idea → full presentation or dashboard in one chat.\n\nGrok is finally becoming that everyday superpower.\n\nAnd the Grok Computer drops soon\n\nThis is the one.\n\nSource: @grok, @elonmusk",
+          "created_at": "Fri Apr 17 17:30:00 +0000 2026",
+          "lang": "en",
+          "media": [
+            {
+              "type": "video",
+              "id": "2045186985128824832",
+              "url": "https://video.twimg.com/amplify_video/2045186985128824832/vid/avc1/1920x1080/XQLuyRKFbH-SoGDC.mp4?tag=21",
+              "bitrate": 10368000
+            }
+          ],
+          "retweet": null,
+          "quoted": null,
+          "user": {
+            "id": "1319287761048723458",
+            "name": "Mario Nawfal",
+            "screen_name": "MarioNawfal",
+            "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KgAW",
+            "followers_count": 3365340,
+            "friends_count": 51069,
+            "verified": false,
+            "is_blue_verified": true
+          },
+          "stats": {
+            "retweet_count": 45,
+            "favorite_count": 398,
+            "reply_count": 51,
+            "quote_count": 5
+          }
+        },
+        "user": {
+          "id": "1319287761048723458",
+          "name": "Mario Nawfal",
+          "screen_name": "MarioNawfal",
+          "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KgAW",
+          "followers_count": 3365340,
+          "friends_count": 51069,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 420,
+          "favorite_count": 2472,
+          "reply_count": 310,
+          "quote_count": 31
+        }
+      },
+      "quoted": null,
+      "user": {
+        "id": "44196397",
+        "name": "Elon Musk",
+        "screen_name": "elonmusk",
+        "description": "https://t.co/dDtDyVssfm",
+        "followers_count": 238563514,
+        "friends_count": 1315,
+        "verified": false,
+        "is_blue_verified": true
+      },
+      "stats": {
+        "retweet_count": 420,
+        "favorite_count": 0,
+        "reply_count": 0,
+        "quote_count": 0
+      }
+    },
     {
       "id": "2046020931462856998",
       "text": "RT @gtagmemes: @miniarchillect Grok Imagine https://t.co/KXP1M9LhDk",
