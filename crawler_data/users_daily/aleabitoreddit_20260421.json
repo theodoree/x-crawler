@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 213545,
+    "followers_count": 213756,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260421",
-  "last_updated": "2026-04-21T19:36:03.096667",
-  "tweet_count": 9,
+  "last_updated": "2026-04-21T21:23:28.928615",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2046396643009040624",
@@ -429,6 +429,61 @@
         "favorite_count": 219,
         "reply_count": 37,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2046696582696083634",
+      "text": "Woah... Sivers looks like the primary laser supplier to $AMD's CPO program if AMD goes the Ayar route at $GFS.\n\nThe interesting thing is: $LITE and $MTSI were silently removed from Ayar's website sequentially over time. \n\n(Special thanks to one of my followers Setian for the DM.)\n\nSo $SIVE likely became the primary laser supplier for Ayar first-gen... and by extension for all of Ayar's customers routing through Alchip or other ASIC design firms.\n\nAyar also raised $500M last month for VOLUME PRODUCTION, where $SIVE is designed in.\n\nThis find looks structurally massive for $SIVE as it undercuts narratives about $LITE and others being primary suppliers.\n\nAnd especially about $SIVE having only a small % laser share for CPO if they're likely to be the primary laser supplier.",
+      "created_at": "Tue Apr 21 21:04:25 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2046694007364050944",
+          "url": "https://pbs.twimg.com/media/HGdRWxja4AAH0yk.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2046694017883320320",
+          "url": "https://pbs.twimg.com/media/HGdRXYvaMAADVB0.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2046694032416641024",
+          "url": "https://pbs.twimg.com/media/HGdRYO4bEAAcDuJ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2046494023297429645",
+        "text": "The $AMD and $GFS CPO announcement is probably bigger than markets expect for $SIVE.\n\nWith the news, it's likely $SIVE lasers power $AMD's CPO program.\n\nEither through two potential paths: \n\n1. Enosemi (AMD's in-house PIC design post-acquisition). Enosemi's chiplets are fabbed at GF but for the ELS, $AMD could source it from multiple players with $SIVE as the underlying multi-source laser source. \n\n2. Ayar ( $AMD invested in March 2026, Series E). Ayar's SuperNova light source already uses $SIVE DFB laser arrays alongside $LITE.\n\nAyar's SuperNova is the most likely first-gen CPO path for MI500 in 2027 given timelines and the enormous fundraise last month. That path already has $SIVE designed in alongside $LITE and they both appear with $GFS's slide.\n\nEnosemi becomes more relevant for 2028+ generations?\n\nRegardless, $AMD through Enosemi/Ayar needs lasers for their 2027 MI500 rollout...\n\nIt seems likely Sivers ends up powering $AMD's CPO program as the light source since they're designed into Ayar. \n\nThe $AMD / $GFS materiality looks large for Sivers.",
+        "created_at": "Tue Apr 21 07:39:31 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 213756,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 53,
+          "favorite_count": 597,
+          "reply_count": 41,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 20,
+        "favorite_count": 318,
+        "reply_count": 47,
+        "quote_count": 2
       }
     }
   ]
