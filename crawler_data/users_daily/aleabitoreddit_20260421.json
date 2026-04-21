@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 211328,
+    "followers_count": 211540,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260421",
-  "last_updated": "2026-04-21T01:44:54.583223",
-  "tweet_count": 1,
+  "last_updated": "2026-04-21T03:16:45.945091",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2046396643009040624",
@@ -29,6 +29,108 @@
         "retweet_count": 8,
         "favorite_count": 229,
         "reply_count": 41,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2046408704573292659",
+      "text": "This is what happens when you find a true monopoly. \n\nDid you listen anon?\n\n$SOI up +140% since my thesis 1M ago and +302% YTD.\n\nJust a friendly reminder: \n\n“Soitec’s Photonics-SOI products are deployed in 100% of next-generation AI data centers.” - EVP Soitec https://t.co/7MWx5vrkHo",
+      "created_at": "Tue Apr 21 02:00:30 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2046408700441899008",
+          "url": "https://pbs.twimg.com/media/HGZN3ucbsAAC6D9.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2031648475310616604",
+        "text": "Changed my mind about Soitec ( $SLOIF ) and took a sizable position ~43 for CPO exposure.\n\n$NVDA GTC next week biggest catalyst pushing photonics and this architecture. \n\n~1.5B euros MC. Trading at 1x book value and ~2x P/S (very depressed valuations)\n\nGenuine monopoly over substrates side for CPO (typically very premium valuations for photonics + even extra premium for monopoly status)\n\nAlgos and analysts might get confused over market share but it’s an actual monopoly over SOI substrates since they give licenses to other players like Shin Etsu for diversification sake eg. $TSM doesn’t like just 1. \n\nI don’t think institutions will wait until next year to frontrun these names like Soitec or $TSEM (and most probably haven’t even heard of these names like $AXTI yet)\n\nThis timing would be buying the likely bottom of the depressed smartphone cycle, while getting full upside of CPO mid-late 2027 + $NVDA GTC catalyst next week.\n\nI personally think it’s a 3x from here so I went long.",
+        "created_at": "Wed Mar 11 08:28:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031648467521855488",
+            "url": "https://pbs.twimg.com/media/HDHdhF8bYAAd8ho.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 211540,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 63,
+          "favorite_count": 796,
+          "reply_count": 81,
+          "quote_count": 15
+        }
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 258,
+        "reply_count": 42,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2046419572203683922",
+      "text": "Bullish on $ARM, given the new bottleneck shifting back to CPUs. MS shows stuff like Orchestration/RAG requiring CPUs. \n\nBut I'm predicting parts of localized inference to be handled by CPUs more and more... as models like Gemma get  lightweight in the future. \n\nNot every robot needs to be able to solve the mysteries of the universe. \n\nData centers will need an astronomical amount of traditional CPU compute (AWS Graviton, $GOOGL Axion, and $MSFT Cobalt), which are all ARM based.\n\n$META + OpenAI are also buyers of the AGI CPU.\n\nAnd AI will flow down to edge. \n\n$15B annual revenue target.. Starting to look reasonable?",
+      "created_at": "Tue Apr 21 02:43:41 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2046417822004498432",
+          "url": "https://pbs.twimg.com/media/HGZWKq6bUAAzmam.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2036746039588434165",
+        "text": "FYI: I went long on $ARM at $139. \n\nGenuinely a compelling long at $143B MC as markets shift more from training -> inference. \n\nThen $ARM AI CPUs cannibalize the market for inference and $NVDA market share. \n\nEspecially as LLMs get more lightweight. \n\nThe projections to $25B/revenue (5x revenue) are already insane to justify risk-reward.",
+        "created_at": "Wed Mar 25 10:04:31 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2036745070872088576",
+            "url": "https://pbs.twimg.com/media/HEP42c9b0AANvnU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 211540,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 30,
+          "favorite_count": 585,
+          "reply_count": 62,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 17,
+        "favorite_count": 219,
+        "reply_count": 37,
         "quote_count": 3
       }
     }
