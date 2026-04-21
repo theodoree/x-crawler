@@ -923,6 +923,11 @@ class XCrawler:
             key=lambda t: parse_date(t.get('created_at', '1970-01-01'))
         )
         
+        # 如果推文未变化，则不更新文件，保留原始 last_updated
+        if filepath.exists() and existing_tweets == sorted_tweets:
+            print(f"  ⏭️ @{screen_name}[{date_str}] 推文未变化，跳过更新 {filename}")
+            return
+
         # 构建保存数据
         save_data = {
             "user": {
