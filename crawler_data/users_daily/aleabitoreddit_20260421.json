@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 211540,
+    "followers_count": 211777,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260421",
-  "last_updated": "2026-04-21T03:16:45.945091",
-  "tweet_count": 3,
+  "last_updated": "2026-04-21T05:08:41.013816",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2046396643009040624",
@@ -132,6 +132,106 @@
         "favorite_count": 219,
         "reply_count": 37,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2046434201428492317",
+      "text": "LOL what did i say about transformer bottlenecks and upstream supply chains like $HPS.A ???\n\nNew Presidential Action Today: \n\n\"The Nation’s capacity to design, produce, and deploy large-scale grid infrastructure, including TRANSFORMERS ... is dangerously limited\"\n\n\"National emergency under Executive Order 14156 to expand the domestic capability to develop, manufacture, and deploy grid infrastructure\"\n\nIt's now a US National Emergency to develop supply chains and pour money into the sector for expansion.",
+      "created_at": "Tue Apr 21 03:41:49 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2046434196504363008",
+          "url": "https://pbs.twimg.com/media/HGZlDyrawAA6RLx.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2046434196512710656",
+          "url": "https://pbs.twimg.com/media/HGZlDytaIAAYn59.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2041168871168545115",
+        "text": "The current bottleneck: Transformers/Switchgear.   Trade Idea: Long Hammond  (~2.2B CAD / ~$1.5B USD) at 184 CAD.\n\nThey dominate the market for:\n\n-Transformers (dry, multi year bottleneck ~23% of market), \n\n-serve to switchgear (2-3Y bottleneck) \n\n-and manufacture liquid too (5Y, larger bottleneck)\n I personally anticipate components price hikes like NAND, as $AMZN, $MSFT and others compete for allocation.   You might have seen: “Half of US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure”…\n\nThen you go further:  “To address shortages… Canada, Mexico… became the biggest suppliers of high-power transformers for AI data centers to AI data centers”  Guess who is in Canada (Guelph).. Mexico (Monterrey 3 and 4)… and the US?  Hammond  Then here’s the reason the articles cite why hyperscaler DB buildouts are falling apart:  \n“Major reason behind these setbacks is the availability of key electrical components — such as transformers, switchgear”. \n\nInstitutions are probably looking at Powell, Eaton, and others… but little do they know?\n\nCompanies like these actually buy Hammond’s transformers to put inside their own switchgear (“strong sales into data centres, switchgear manufacturers\")  Their market share over the transformers market is actually pretty large (eg. ~23% dry). \n The most compelling signal:  -> 122% Y/Y 2025 backlog increase. And we can infer this to be 1B+ CAD. \n\nEg. company achieved 898m CAD in sales in 2025, capacity ceiling. Management said close of Q3 2025 orders were valued at 53% of the entire closing third-quarter backlog. \n\nGiven that Q4 2025 revenue was 254 million and the backlog is \"more than doubled,\" we can infer a total backlog value exceeding 1 billion CAD.\n\nAlso:\n “Gross margin compression last year was due to the buildout of their Mexico facility, but both gross margins are expected to increase and the facility expansions are expectied to turn into accelerated revenue Q2 2026)” which is now.  Downside is if raw material costs (copper, electrical steel) spike again, but given this bottleneck, they can price hike.   Personal FWD P/E estimates would be ~18-21 for 2026, <15 for 2027 from volume ramp. \n\nBut I think it’s possible to hit single digit fwd P/E if they do price hikes mixed with hyperscaler emergency orders. But that might get a little mixed with the new acquisition. \n\nRegardless still looks cheap.  \nJust a TLDR: \n $AMZN, $MSFT, $META, $GOOGL, $ORCL datacenter are being bottlenecked because of a lack of transformers/switchgear.  Seems like markets missed this little player with large market share, despite backlog visibility and increasing revenue from capacity expansion coming online.\n\nI personally found it pretty compelling, so I went long. \n\nJust sharing my personal thoughts, of course DYOR before making any decisions yourself.",
+        "created_at": "Mon Apr 06 14:59:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041168680953016320",
+            "url": "https://pbs.twimg.com/media/HFOwGcrbcAAGFVi.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2041168681011699712",
+            "url": "https://pbs.twimg.com/media/HFOwGc5a4AAsv5m.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 211777,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 64,
+          "favorite_count": 745,
+          "reply_count": 97,
+          "quote_count": 10
+        }
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 270,
+        "reply_count": 36,
+        "quote_count": 3
+      }
+    },
+    {
+      "id": "2046449839626670369",
+      "text": "People nonstop ask me about $LPKK / $LPK for my opinion\n\nYes, I mentioned they're like a chokepoint for glass core substrates for LIDE (laser induced deep etching) way back when. \n\nBiggest known partner is $ONTO (LIDE with Onto metrology for glass core mass production).\n\nThen as for market share: \"more than 80% of customers among major global players have selected LPKF equipment\" for process validation.\n\nSo that probably includes:\n- Samsung Electronics/Electro-Mechanics\n- $INTC (Receives a Major Order from a Leading Chip Manufacturer... installed a first LIDE system at the beginning of 2020... now ordered further LIDE systems to start volume production)\n- SKC (Absolics)\n- $GLW, AGC, Schott. \n- Nippon electric glass. \n\nOf course this is evaluation, so that 80% could be lower in actual ramp. \n\nAs for some personal FWD P/E calculations:\n\n- 2027: ~11-12.5x and ~7.8x for 2028, which looks very compelling. \n- Total Cash: ~€10.0M, debt was around ~€3.0M. debt to equity: ~3.8%\n\nSo very clean-asset light balance sheet, no dilution overhang like $SHMD. \n\n~$362m MC, conclusion: great upside long imo, hard to see institutions not buying this name down the road. \n\nEven if the 80% of players managed to design another way, even a fraction would probably be very material to the MC. \n\nIt was probably a bit early few months ago, but glass core roadmaps have been speeding up like CPO. \n\nDisclosure: I do have positions. This are just my thoughts. \n\nPeople on X did their homework.",
+      "created_at": "Tue Apr 21 04:43:57 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2012961292966117410",
+        "text": "$WOLF was probably the most interesting one up there after restructuring. \n\n$LPKFF also for glass substrates and they own the laser induced deep etching at a $169m MC, so possibly most explosive 10x upside. \n\n$MTRN is probably the most stable one up there with decently high upside given it owns the mountain for ~65% of the world's Beryllium.   \n\nThere were a few others but just the fundamentals were either really bad or their bottleneck was too niche.  \n\n$LPTH's bottleneck for example spreads across both defense, AI, drones, etc.  \n\n$AXTI's bottleneck was so big and AI is such a big sector so it doesn't need to be spread across (but InP is used in a lot of other sectors too).",
+        "created_at": "Sun Jan 18 18:52:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 211777,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 53,
+          "reply_count": 2,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 137,
+        "reply_count": 12,
+        "quote_count": 4
       }
     }
   ]
