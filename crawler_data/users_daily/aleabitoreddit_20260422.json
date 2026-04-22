@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 216880,
+    "followers_count": 217024,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260422",
-  "last_updated": "2026-04-22T19:36:53.358212",
-  "tweet_count": 8,
+  "last_updated": "2026-04-22T21:25:54.254840",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2046749502326071427",
@@ -325,6 +325,57 @@
         "favorite_count": 252,
         "reply_count": 27,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2047054864040308895",
+      "text": "Bruh it’s only been one day with $ARM.\n\nHow does a $200B+ company go up 12% https://t.co/4BNSjjk88c",
+      "created_at": "Wed Apr 22 20:48:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2047054857073463296",
+          "url": "https://pbs.twimg.com/media/HGiZi_eaEAAOvmt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2046419572203683922",
+        "text": "Bullish on $ARM, given the new bottleneck shifting back to CPUs. MS shows stuff like Orchestration/RAG requiring CPUs. \n\nBut I'm predicting parts of localized inference to be handled by CPUs more and more... as models like Gemma get  lightweight in the future. \n\nNot every robot needs to be able to solve the mysteries of the universe. \n\nData centers will need an astronomical amount of traditional CPU compute (AWS Graviton, $GOOGL Axion, and $MSFT Cobalt), which are all ARM based.\n\n$META + OpenAI are also buyers of the AGI CPU.\n\nAnd AI will flow down to edge. \n\n$15B annual revenue target.. Starting to look reasonable?",
+        "created_at": "Tue Apr 21 02:43:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2046417822004498432",
+            "url": "https://pbs.twimg.com/media/HGZWKq6bUAAzmam.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 217024,
+          "friends_count": 107,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 86,
+          "favorite_count": 992,
+          "reply_count": 75,
+          "quote_count": 14
+        }
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 379,
+        "reply_count": 61,
+        "quote_count": 2
       }
     }
   ]
