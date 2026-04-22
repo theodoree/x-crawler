@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 216750,
+    "followers_count": 216880,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260422",
-  "last_updated": "2026-04-22T18:34:49.441397",
-  "tweet_count": 7,
+  "last_updated": "2026-04-22T19:36:53.358212",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2046749502326071427",
@@ -280,6 +280,51 @@
         "favorite_count": 111,
         "reply_count": 28,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2047030798554132901",
+      "text": "Yes. The President invoked the \"Defense Production Act\" 2 days ago.\n\nTo expand on domestic infra.\n \nImplicit beneficiaries were:\n\nTransmission & Advanced Conductors:\n$AMSC - HTS Wires (advanced conductors), power electronics\n$PLPC - advanced conductors \n$ATKR - transmission components\n$VMI - grid components\n\nPower Electronics\n$AEIS - power control electronics\n$VICR - power delivery\n\nCapacitor Banks\n$VSH - power capacitors and capacitor banks\n\nSubstations & High-Voltage Circuit Breakers\n$POWL - substations/switchgear\n$AZZ - substations\n\nTransformers\n$HPS.A - My favorite for transformers\n$SPXC - power transformers\n\nElectrical Core Steel\n$CLF - Only producer of electrical steel in America?\n\nThis included: \n-Transformers\n- transmission components\n- advanced conductors\n- power electronics\n- substations\n- high-voltage circuit breakers\n-  protective relays, capacitor banks\n- electrical core steel\n\nTLDR: The executive action declared a national energy emergency regarding the domestic supply chain for grid infrastructure. Authorized federal funding, purchase commitments, and expedited actions to rapidly expand the manufacturing. \n\nLot of beneficiaries, I made a mini ETF of with $AMSC, $CLF, $PLPC, and then $HPS.A; dont have any of the others. \n\nThere's probably going to be a bunch of DOE contracts in the next 3-6 months like \" DoE Awards ___ to $POWL \" off this act is my guess.",
+      "created_at": "Wed Apr 22 19:12:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2047029861961846784",
+          "url": "https://pbs.twimg.com/media/HGiC0FbaUAAdqsT.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2047020033797243182",
+        "text": "@aleabitoreddit Did you look into superconductor companies like $asmc yet?",
+        "created_at": "Wed Apr 22 18:29:42 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1362793464040153088",
+          "name": "Rumo",
+          "screen_name": "rumoriginal",
+          "description": "Thinking web3, stocks and law | stock market arc",
+          "followers_count": 237,
+          "friends_count": 89,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 252,
+        "reply_count": 27,
+        "quote_count": 3
       }
     }
   ]
