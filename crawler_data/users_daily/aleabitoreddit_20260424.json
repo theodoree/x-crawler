@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 227028,
+    "followers_count": 227652,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260424",
-  "last_updated": "2026-04-24T16:30:46.694374",
-  "tweet_count": 6,
+  "last_updated": "2026-04-24T18:25:50.538410",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2047472057890513357",
@@ -231,6 +231,62 @@
         "favorite_count": 457,
         "reply_count": 84,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2047729405309640899",
+      "text": "If you listened to Optimus Prime…\n\nYou’d be up 47% in just 3 weeks with $HPS.A.\n\nDid you listen to Optimus anon? https://t.co/dUWQBpPu0y",
+      "created_at": "Fri Apr 24 17:28:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2047729368852811776",
+          "url": "https://pbs.twimg.com/media/HGr_AvqbUAAOFYQ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2041168871168545115",
+        "text": "The current bottleneck: Transformers/Switchgear.   Trade Idea: Long Hammond  (~2.2B CAD / ~$1.5B USD) at 184 CAD.\n\nThey dominate the market for:\n\n-Transformers (dry, multi year bottleneck ~23% of market), \n\n-serve to switchgear (2-3Y bottleneck) \n\n-and manufacture liquid too (5Y, larger bottleneck)\n I personally anticipate components price hikes like NAND, as $AMZN, $MSFT and others compete for allocation.   You might have seen: “Half of US data center builds have been delayed or canceled, growth limited by shortages of power infrastructure”…\n\nThen you go further:  “To address shortages… Canada, Mexico… became the biggest suppliers of high-power transformers for AI data centers to AI data centers”  Guess who is in Canada (Guelph).. Mexico (Monterrey 3 and 4)… and the US?  Hammond  Then here’s the reason the articles cite why hyperscaler DB buildouts are falling apart:  \n“Major reason behind these setbacks is the availability of key electrical components — such as transformers, switchgear”. \n\nInstitutions are probably looking at Powell, Eaton, and others… but little do they know?\n\nCompanies like these actually buy Hammond’s transformers to put inside their own switchgear (“strong sales into data centres, switchgear manufacturers\")  Their market share over the transformers market is actually pretty large (eg. ~23% dry). \n The most compelling signal:  -> 122% Y/Y 2025 backlog increase. And we can infer this to be 1B+ CAD. \n\nEg. company achieved 898m CAD in sales in 2025, capacity ceiling. Management said close of Q3 2025 orders were valued at 53% of the entire closing third-quarter backlog. \n\nGiven that Q4 2025 revenue was 254 million and the backlog is \"more than doubled,\" we can infer a total backlog value exceeding 1 billion CAD.\n\nAlso:\n “Gross margin compression last year was due to the buildout of their Mexico facility, but both gross margins are expected to increase and the facility expansions are expectied to turn into accelerated revenue Q2 2026)” which is now.  Downside is if raw material costs (copper, electrical steel) spike again, but given this bottleneck, they can price hike.   Personal FWD P/E estimates would be ~18-21 for 2026, <15 for 2027 from volume ramp. \n\nBut I think it’s possible to hit single digit fwd P/E if they do price hikes mixed with hyperscaler emergency orders. But that might get a little mixed with the new acquisition. \n\nRegardless still looks cheap.  \nJust a TLDR: \n $AMZN, $MSFT, $META, $GOOGL, $ORCL datacenter are being bottlenecked because of a lack of transformers/switchgear.  Seems like markets missed this little player with large market share, despite backlog visibility and increasing revenue from capacity expansion coming online.\n\nI personally found it pretty compelling, so I went long. \n\nJust sharing my personal thoughts, of course DYOR before making any decisions yourself.",
+        "created_at": "Mon Apr 06 14:59:16 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2041168680953016320",
+            "url": "https://pbs.twimg.com/media/HFOwGcrbcAAGFVi.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2041168681011699712",
+            "url": "https://pbs.twimg.com/media/HFOwGc5a4AAsv5m.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 227652,
+          "friends_count": 112,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 69,
+          "favorite_count": 779,
+          "reply_count": 99,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 334,
+        "reply_count": 56,
+        "quote_count": 0
       }
     }
   ]
