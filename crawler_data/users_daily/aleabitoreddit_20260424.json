@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 220439,
+    "followers_count": 220518,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260424",
-  "last_updated": "2026-04-24T01:00:47.940004",
-  "tweet_count": 1,
+  "last_updated": "2026-04-24T01:45:05.204220",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2047472057890513357",
@@ -23,6 +23,51 @@
         "retweet_count": 3,
         "favorite_count": 308,
         "reply_count": 58,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2047485717341987232",
+      "text": "Also thank you everyone for 18,500 subscribers!\n\nI’m trying to get #1 on the entire X platform as a short term goal.\n\nIt’s nice validation of my mission to democratize information discovery/synthesis for regular retail investors… \n\nespecially since stocks are positive sum and everyone (aside from short sellers) benefit from names going up. \n\nClose to halfway there to Elon?",
+      "created_at": "Fri Apr 24 01:20:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2047485708655587328",
+          "url": "https://pbs.twimg.com/media/HGohZ2sa8AAgMSU.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2047472057890513357",
+        "text": "Everyone’s out there sharing new YTDs after $MRVL, $INTC to $ARM went up…\n\nI think I’ll stop sharing mine just to let others feel better?",
+        "created_at": "Fri Apr 24 00:25:53 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 220518,
+          "friends_count": 110,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 3,
+          "favorite_count": 455,
+          "reply_count": 63,
+          "quote_count": 2
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 296,
+        "reply_count": 51,
         "quote_count": 1
       }
     }
