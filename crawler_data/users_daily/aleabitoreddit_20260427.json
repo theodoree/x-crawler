@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 235867,
+    "followers_count": 235899,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260427",
-  "last_updated": "2026-04-27T18:40:05.651060",
-  "tweet_count": 9,
+  "last_updated": "2026-04-27T19:39:18.141038",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2048623230416761019",
@@ -310,6 +310,62 @@
         "retweet_count": 3,
         "favorite_count": 91,
         "reply_count": 28,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2048846462164045991",
+      "text": "Memory names from $MU to $EWY (SK Hynix, Samsung) and $SNDK are going brrrr lately.\n\nAside from the big three, then your NAND\nor TW names like Nanya.\n\nMight be a good time to look at names like Towa (6315) to capture upstream monopoly capex cycles for hbm4? https://t.co/VZPwzB0SFK",
+      "created_at": "Mon Apr 27 19:27:16 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2048846458934431744",
+          "url": "https://pbs.twimg.com/media/HG72_8gakAAhY-6.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2048846458926043136",
+          "url": "https://pbs.twimg.com/media/HG72_8eakAAhaoF.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2048623230416761019",
+        "text": "Markets are looking at CPUs right now and kinda forgot about memory. \n\nBut... there's increased capex spend with Sk Hynix, $MU, Samsung around now, with Samsung starting HMB4 production recently. \n\n$TSM also signaled record capex across the board. \n\nBut just like $LPK in glass core substrates... \n \nThere's a decent amount of structural monopolies over in the HBM camp markets that I'm thinking about in places like Japan. \n\nThat markets may have forgotten? They would largely benefit from current HBM4 capex cycles. \n\nOver in Korea, things like Hanmi Semi (KRX: 042700) have been taking off, up 27.6%+ today, so I'd guess the other companies around the world might play catchup soon.",
+        "created_at": "Mon Apr 27 04:40:14 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2048621658601402368",
+            "url": "https://pbs.twimg.com/media/HG4qi2AbsAAAvQj.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 235899,
+          "friends_count": 111,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 44,
+          "favorite_count": 1011,
+          "reply_count": 70,
+          "quote_count": 9
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 111,
+        "reply_count": 43,
         "quote_count": 0
       }
     }
