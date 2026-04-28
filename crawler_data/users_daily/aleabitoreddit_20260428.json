@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 237043,
+    "followers_count": 237231,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260428",
-  "last_updated": "2026-04-28T07:09:28.819148",
-  "tweet_count": 3,
+  "last_updated": "2026-04-28T09:02:00.723427",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2048929438679896317",
@@ -96,6 +96,51 @@
         "favorite_count": 199,
         "reply_count": 33,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2049032343974007088",
+      "text": "I'm happy Japanese communities started positions in $SIVE after doing research!\n\nA stronger international shareholder base is always positive.\n\nAs for some thoughts, my read on the market looks like:\n\n1. $NVDA bought out allocation from $LITE / $COHR\n2. $AMD CPO went with $GFS + $SIVE / Win for remaining laser supply maybe $LITE if there’s still allocation.\n3. And… $MRVL CPO will need lasers regardless.\n\n$SIVE looks like one of the last remaining pure play merchant laser suppliers. \n\nSo Marvell will go with $SIVE (fits Celestial specs already) directly with multi-source down the road (maybe $MTSI). After they vertically integrate away interposer packaging process IP that feeds into Celestial. \n\nJust some interesting things to back that up: \n\n-> Ayar removed $MTSI and $LITE from their website and went with $SIVE as primary. Ayar’s connected to AlChip/GUC and others. \n\n-> If look at the $GFS slide there's only two public players with $SIVE and $LITE after $AMD went with Globalfoundries for their CPO program. \n\n-> $SIVE likely has agreements with Win since last year for laser capacity scaling. \n\n$NVDA likely hasn't fully allocated that laser supply, so the remaining companies like $JBL, $AMD, and others go to Sivers for overflow. \n\nSince $LITE signaled they were already fully allocated for 2028.\n\nI could be wrong, but just based on public information that’s what it looks like.\n\nAs for why I think it's a good long: \n\n-> Sivers also basically had no exposure to 800G or previous generations.\n-> European markets price in previous 12 months revenue... hence previous depressed valuations\n-> they get all the hyperscaler overflow created by market panic from $NVDA\n\nBut they also happen to be in the bleeding edge of CPO and even for gen-2 1.6T ( $JBL LRO) scaling next year in 2027.\n\nThen for H2 2027 or 2028, they scale in adjacent areas like Silicon Photonics for likely $AAPL consumer devices. \n\nOr FMCW 4D AI companies like $AEVA.\n\nMany many years of development, finally coming to fruition next year.\n\nI personally think markets are missing something big here, that the public uncovers over time with mapping hyperscaler relationships, website digging, or presentation slides. \n\nHyperscalers suppliers don't randomly choose a $1B Swedish laser company for no reason. \n\nThe direct contract with $JBL was the biggest signal of that. \n\nAnd it’s my high conviction long moving forward.",
+      "created_at": "Tue Apr 28 07:45:54 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2049032339611848704",
+          "url": "https://pbs.twimg.com/media/HG-gDn_aEAAP7PC.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2049024715680076215",
+        "text": "インタラクティブブローカーズで、\n\n$SIVE\n\n遂に買えたァァ‼️😭\n10日くらいかかった😂😂✨\n\nさすがに調整あるだろうから、半額買って調整待つーっ‼️",
+        "created_at": "Tue Apr 28 07:15:35 +0000 2026",
+        "lang": "ja",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1350097978652991488",
+          "name": "みみりん@投資系女子",
+          "screen_name": "beauty_oe",
+          "description": "Architect & Electrical Engineer. Sharing insights on NBIS from hands-on experience. 工学諸島🏝️の島民の株好きです。私に秘書は居ません🖐️ 世界のニュース、米国株、NBISに集中してポストしています。",
+          "followers_count": 15253,
+          "friends_count": 1337,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 79,
+          "reply_count": 7,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 21,
+        "favorite_count": 354,
+        "reply_count": 33,
+        "quote_count": 3
       }
     }
   ]
