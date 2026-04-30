@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 243959,
+    "followers_count": 244111,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260430",
-  "last_updated": "2026-04-30T18:42:45.595171",
-  "tweet_count": 9,
+  "last_updated": "2026-04-30T20:34:48.068845",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2049646205039522009",
@@ -418,6 +418,66 @@
         "favorite_count": 260,
         "reply_count": 44,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2049941088165892196",
+      "text": "Fun fact: don’t think any large US institution had positions in $SIVE / $SIVEF since it was a majority owned local Swedish retail stock.\n\nThere’s also fund mandates preventing US funds from entering (eg. Nasdaq listing / $1B MC)\n\nThat’s definitely changed now thanks to European media shaking out the local holders, Sivers upcoming NASDAQ listing, and hitting $1B+ MC.\n\nAgain $1.3B is literal spare change for hyperscalers and US institutions. \n\nAnd I have high confidence many would want exposure to CPO, silicon photonics and lasers, since there’s only a few in the entire world like $LITE, $COHR, and $MTSI.\n\nEspecially… a CHIPS Act laser supplier likely in $AMD, $MRVL, $AAPL, Lightmatter, Ayar, AlChip, GUC, O-Net and other supply chains like the Golden Dome.\n\nPart of it is game theory for share accumulation. \n\nSince US/Western retail now owns a large part of the float (off of the Swedish sellers).\n\nAnd US institutions now want exposure.",
+      "created_at": "Thu Apr 30 19:56:56 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2049763215983387115",
+        "text": "Also feels like there’s an infinite TWAP on $SIVE\n\nPrice goes up, long time holders sell, price goes up even more. \n\nFeel like large institutional bids averaging their buys.",
+        "created_at": "Thu Apr 30 08:10:08 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1941976123505528832",
+          "name": "OrangeGroveCapital",
+          "screen_name": "OGCapital25",
+          "description": "To God be the glory | Big Law | Early PLTR, TSLA, LMND, GLXY, AMD, HOOD, HIMS, ASTS and SIVE investor | Searching for outsized returns",
+          "followers_count": 1646,
+          "friends_count": 246,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 5,
+          "favorite_count": 37,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 303,
+        "reply_count": 48,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2049949682022203738",
+      "text": "Wow, $RDDT just posted an absolute blowout quarter.\n\n-> $663M revenue (69% growth Y/Y) vs. ~$608M consensus.\n-> $1.01 EPS reported vs. $0.6 consensus (68.3% beat). \n-> 91.5% gross margins.\n-> Q1 GAAP net income was $204M. This is probably the most important figure for true profitability since it includes SBC. \n\nNext quarter they projected, $715M to $725M revenue growth with $285 million to $295 million adjusted EBITDA. \n\nReddit looks like a literal, high growth money printer. (Disclosure: I do have Reddit positions.)\n\nExpect a lot of chart volatility from short term option flows. \n\nBut fundamentally, if you look at Reddit earnings without the noise, Reddit money printer go brrr.",
+      "created_at": "Thu Apr 30 20:31:05 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2049949678163435520",
+          "url": "https://pbs.twimg.com/media/HHLiXwZboAAlnx3.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 103,
+        "reply_count": 16,
+        "quote_count": 0
       }
     }
   ]
