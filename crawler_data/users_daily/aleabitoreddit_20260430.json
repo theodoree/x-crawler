@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 240868,
+    "followers_count": 243580,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260430",
-  "last_updated": "2026-04-30T08:58:28.316745",
-  "tweet_count": 6,
+  "last_updated": "2026-04-30T15:43:26.436467",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2049646205039522009",
@@ -264,6 +264,72 @@
         "retweet_count": 1,
         "favorite_count": 23,
         "reply_count": 0,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2049876593674440706",
+      "text": "Thoughts on LPKF Laser < $LPK / $LPKFF> earnings:\n\nVery nuanced, here's what markets might have missed:\n\nIf you look at the financials in isolation and don't understand qualification cycles, it's bad. \n\nThe earnings call for volume ramp indicators are what's actually important. \n\n1. \"Potential volume orders in Advanced Packaging are not included in this baseline guidance\"\n\nAny volume production equipment order that lands H2 will act as an immediate upside surprise to their projections. (positive)\n\n2. \"LIDE is currently in use by numerous semiconductor customers in test and R&D environments; the expected follow-up orders...\"\n\nConfirmation of what we expected, with many semiconductor companies qualifying $LPK. (positive)\n\n3. \"First production orders expected this year\"\n\nInflection point of volume ramp confirmation H2 2026, this is probably the biggest signal markets missed + no projections included around that.  (very positive)\n\nFrom previous interviews we can stitch together:\n\nQ: 2027 as the start of mass production for glass substrates. Does this timeline still hold?\n\n\"Yes. Market players are preparing orders for production equipment, and initial orders have already been recorded in the first quarter. While challenges remain, I still expect 2027 to mark the beginning of mass  production.\"\n\n2027 is mass production of glass core substrates, but H2 2026 is start of mass production orders for $LPK, **which is not included in any forecasts**. \n\nWe got confirmation of timelines from earnings. \n\nBasically:\n\n-> You won't see any projections/financials around glass core substrate related VOLUME RAMP which is the only thing American investors care about with this company.\n\n-> Earnings in isolation were objectively terrible, but you only care about this as a European if you model based on previous 12 months only (instead of future growth). \n\n-> Confirmation of volume ramp starting H2. Glass Core substrate mass production 2027.  \n\nIf anything, this was extremely positive for the core thesis about volume ramp for glass core substrates. \n\nWe'll see how much the orders are though.",
+      "created_at": "Thu Apr 30 15:40:39 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2049874854611165184",
+          "url": "https://pbs.twimg.com/media/HHKeUc8aoAAJuGB.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2049874928774918144",
+          "url": "https://pbs.twimg.com/media/HHKeYxObsAA9nSW.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2049875018197438464",
+          "url": "https://pbs.twimg.com/media/HHKed-WbEAAmaki.png"
+        },
+        {
+          "type": "photo",
+          "id": "2049875317452636160",
+          "url": "https://pbs.twimg.com/media/HHKevZKbAAA2V87.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2049737227677421908",
+        "text": "$LPK / $LPKFF earnings are out. \n\nSeeing a lot of very dumb commentary on X. If you're wondering how to analyze qualification-cycle players, it's the same as $AEHR. \n\nNobody cares about current earnings unless there's something extremely bad. If your revenue declines -8M euros before any volume ramp, it doesn't mean anything. \n\nThe only reason why LPKF is a long anyway is 2027 LIDE glass core substrate mass production. \n\nMain thing to look at is earnings call in 2 hours not current financials and indication of high volume production + customers. \n\nPeople made this same mistake with $AEHR selling off on previous financials instead of listening to the call.",
+        "created_at": "Thu Apr 30 06:26:52 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2049736446999982080",
+            "url": "https://pbs.twimg.com/media/HHIgcEaa8AAJzmT.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 243580,
+          "friends_count": 112,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 28,
+          "favorite_count": 575,
+          "reply_count": 55,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 51,
+        "reply_count": 19,
         "quote_count": 0
       }
     }
