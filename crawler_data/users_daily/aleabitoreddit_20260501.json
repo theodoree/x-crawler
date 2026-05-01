@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 246248,
+    "followers_count": 246661,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260501",
-  "last_updated": "2026-05-01T16:29:38.037234",
-  "tweet_count": 6,
+  "last_updated": "2026-05-01T17:30:10.390850",
+  "tweet_count": 7,
   "tweets": [
     {
       "id": "2050031111103984072",
@@ -247,6 +247,62 @@
         "retweet_count": 4,
         "favorite_count": 91,
         "reply_count": 25,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2050265078965182518",
+      "text": "Everyone was doomposting $EWY 2 months ago.\n\nCalling it “Silver Crash” or “KOSPI crash bubble”\n\nNow they’re all flip flopping opinions, saying they were bullish memory all along.\n\nEven despite fear posting from $RPI to $SIVE, my thesis ends up right.\n\nMain reason I got 245K+ followers is because I’m consistently right about my opinions while taking a firm directional stance.\n\nMy $EWY longs are now up ~3x.",
+      "created_at": "Fri May 01 17:24:21 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2050265075433472000",
+          "url": "https://pbs.twimg.com/media/HHQBOSyaAAATSn2.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2029088341258584454",
+        "text": "Feels like everyone is doom-posting KOSPI saying:\n\n> “Look at the chart, it can’t keep going up like this!”\n\n> Memory is a black hole for demand ( $SNDK taking 3Y preorders )\n\n> $EWY is basically just two stocks, Samsung and SK Hynix, not a representation of the Korean economy\n\n> Like saying Taiwan Index is a bubble because the index that tracks $TSM and Mediatek goes up.\n\n> Memory demand/AI doesn’t just disappear because of a War in Iran, but it does get more expensive. \n\n> Increased energy from crude/LNG get  passed down to hyperscalers, not eaten up in opex. \n\nIt’s looks to be fear selling and deleveraging (3x ETFs and 10x likely got wiped out today) rather than materially operational (slight bearish headwind, but not enough for -30%).\n\nSK Hynix futures is now trading in the high $300B MC-low $400B range. \n\nIf MS and updated analyst projections are even slightly right, SK Hynix’s operating profits for example would be ~$300B. \n\nThey’ll be sitting on too much money by 2028 as a cushion if memory prices  drops. (and not even considering demand becomes structural).\n\nLooks to be another DeepSeek-Nvidia type fear selling situation, especially as nand/dram prices get hiked again recently. More of a question of timing the bottom. \n\nIt’s times like these logic matter more than irrational headline selling.",
+        "created_at": "Wed Mar 04 06:55:33 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2029088333377486849",
+            "url": "https://pbs.twimg.com/media/HCjFFrDawAEpIlj.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2029088333343887360",
+            "url": "https://pbs.twimg.com/media/HCjFFq7aEAAgzp-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 246661,
+          "friends_count": 113,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 48,
+          "favorite_count": 698,
+          "reply_count": 45,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 3,
+        "favorite_count": 107,
+        "reply_count": 16,
         "quote_count": 0
       }
     }
