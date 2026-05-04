@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 264127,
+    "followers_count": 264870,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260504",
-  "last_updated": "2026-05-04T18:45:55.055983",
-  "tweet_count": 9,
+  "last_updated": "2026-05-04T23:27:21.045340",
+  "tweet_count": 10,
   "tweets": [
     {
       "id": "2051099481693954525",
@@ -366,6 +366,51 @@
         "retweet_count": 26,
         "favorite_count": 532,
         "reply_count": 59,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2051432439432740931",
+      "text": "Yes, markets might have missed this with $SIVE + $GFS SCALE. \n\nThe inclusion of $SIVE as 1 of 2 public laser suppliers in $GFS ecosystem image presentation is a highly bullish indicator for Sivers. \n\nWhenever semis like $AMD (using $GFS for CPO), builds their optical solutions with GlobalFoundries. \n\nSivers is the likely light source for their buildout and powers companies like $AMD -> Hyperscalers. \n\nThe hyperscaler buildout with CPO flows down to this tiny $1.7B MC laser light source in $SIVE.",
+      "created_at": "Mon May 04 22:43:01 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2051432164965978112",
+          "url": "https://pbs.twimg.com/media/HHgmr2GbkAAzZfk.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2051425152424980652",
+        "text": "@aleabitoreddit Today GFS announced its SCALE™ solution, and went up 4.3%. This is bullish for $SIVE.",
+        "created_at": "Mon May 04 22:14:04 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "15566681",
+          "name": "siflower",
+          "screen_name": "siflower",
+          "description": "economics/finance enthusiast, tennis player, piano student, francophone",
+          "followers_count": 56,
+          "friends_count": 122,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 10,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 22,
+        "favorite_count": 385,
+        "reply_count": 37,
         "quote_count": 4
       }
     }
