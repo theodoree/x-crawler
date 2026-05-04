@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 263815,
+    "followers_count": 264127,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260504",
-  "last_updated": "2026-05-04T17:40:44.487526",
-  "tweet_count": 8,
+  "last_updated": "2026-05-04T18:45:55.055983",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2051099481693954525",
@@ -311,6 +311,62 @@
         "favorite_count": 519,
         "reply_count": 83,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2051357868126044577",
+      "text": "Fun thing to note: $SIVE / $SIVEF is the likely undisclosed laser supplier for Lightelligence as well.\n\nCredit to: Plaskpojen for the OSINT find. https://t.co/sj2J0b9ycN",
+      "created_at": "Mon May 04 17:46:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2051357863965265921",
+          "url": "https://pbs.twimg.com/media/HHfjG9TakAEd_re.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2051357863956860928",
+          "url": "https://pbs.twimg.com/media/HHfjG9RaUAAX8Oj.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2051348971285885230",
+        "text": "Lightelligence is developing a CPO solution for Biren \nAnd if u believe in optical computing, then it's the best pure play available on the public markets anywhere https://t.co/J1rBdi1JT0",
+        "created_at": "Mon May 04 17:11:21 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2051348699687878656",
+            "url": "https://pbs.twimg.com/media/HHfaxhtbAAAg79a.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1695126229446479872",
+          "name": "Zephyr",
+          "screen_name": "zephyr_z9",
+          "description": "AI & Chips | Not Investment Advice | DYOD",
+          "followers_count": 139136,
+          "friends_count": 718,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 4,
+          "favorite_count": 115,
+          "reply_count": 13,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 532,
+        "reply_count": 59,
+        "quote_count": 4
       }
     }
   ]
