@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 260574,
+    "followers_count": 261127,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260504",
-  "last_updated": "2026-05-04T07:18:51.005687",
-  "tweet_count": 4,
+  "last_updated": "2026-05-04T09:01:48.977541",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2051099481693954525",
@@ -138,6 +138,56 @@
         "favorite_count": 105,
         "reply_count": 16,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2051202378058346567",
+      "text": "Honestly not too bad?\n\nCool to see markets validate my thesis posts…\n\nWith $SOI (silicon photonic substrates) to $LPK (glass core substrates) going in a straight line up . https://t.co/yQbidG44we",
+      "created_at": "Mon May 04 07:28:51 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2051202373884989440",
+          "url": "https://pbs.twimg.com/media/HHdVsPnaUAA_-tG.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2051202373885083648",
+          "url": "https://pbs.twimg.com/media/HHdVsPnbwAAaqgt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2051198699242488012",
+        "text": "@aleabitoreddit Bro, how does it feel to be you, to always be right?",
+        "created_at": "Mon May 04 07:14:13 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1963168432423370752",
+          "name": "Sigurd Drivenes",
+          "screen_name": "Sigurd_Drivenes",
+          "description": "Pluralist!",
+          "followers_count": 182,
+          "friends_count": 410,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 15,
+          "reply_count": 5,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 427,
+        "reply_count": 56,
+        "quote_count": 3
       }
     }
   ]
