@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 266827,
+    "followers_count": 267233,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260505",
-  "last_updated": "2026-05-05T09:49:12.332874",
-  "tweet_count": 4,
+  "last_updated": "2026-05-05T12:40:24.749307",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2051472715165704657",
@@ -129,6 +129,62 @@
         "favorite_count": 392,
         "reply_count": 55,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2051628401354785026",
+      "text": "The \"Meme Stock\" with no fundamentals $RPI is now approaching all time highs from record revenue projections. \n\nFun to see this idea age well. https://t.co/wx9hQYzJGT",
+      "created_at": "Tue May 05 11:41:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2051628397437349888",
+          "url": "https://pbs.twimg.com/media/HHjZKFBbcAAUsXX.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2023415224372756782",
+        "text": "Fun Trade Idea: Long $RPI (Raspberry Pi) \n\nReason: 🦞 Openclaw / Picoclaw / Nanobot + Hoarding.\n\nEveryone has been openly hoarding Apple Mac Minis and were long Apple. \n\nBut $APPL is already a $3.7T+ company. Product mass-buying won't make a dent.\n\nRaspberry Pi, however, is a 542.68M company. \n\nThe revenue is material. \n\nFeels like markets haven't priced this in since I've seen almost 0 mentions about the ticker on X (but many product mentions). \n\nAnd it's only recently that have the hoarding started Raspberry Pis, as they're much cheaper than $500+ Apple products. They also have their mini $NVDA CUDA-light utility ecosystem that people use. \n\nSo it turns out these extremely cheap $20 or $200 devices are perfect for deploying mass deploying isolated instances.\n\nThe reason is for OpenClaw orchestration (so they don’t mess up your device) -> interfacing with a central LLM via API.\n\nBefore people were just buying 1 or 2 for hobby/education purposes, so revenue has slowing. \n\nBut now Silicon Valley startups and individuals anecdotally appear to be buying tens or hundreds of these things to run concurrent OpenClaw agentic swarms or do stuff like agentic marketing on Reddit and other places.\n\nAnd no, there are many applications that can't be done by spinning up AWS VPS, so people do it locally (there's TOS around automation/AI bots, so companies setup their own servers).\n\nThat being said main downside risk is that its\n\n- partially foundation owned, and they might not hike rates like $SNDK or $MU does, even if there's extreme demand\n\n- Subject to memory price hikes like LPDDR4 component\n\nso this is not a major position. \n\nHowever, going forward, revenue should increase due to people buying tens or hundreds of these things for running AI agents. \n\nBalance sheet also looks clean with low downside risk:\n\n- ~$280M - $300M revenue\n- ~$75M+ Gross Profit\n- ~25% Gross Margin\n- Net income: ~$10M - $15M\n- Net Cash: $28M\n\nAnalysts currently project revenue growth closer to 14–17%. \n\nBut if the demand influx continues, we might see revenue numbers might hit increase from 14% growth to a modest 48-55% if hoarding continues. \n\nConsumer segments are roughly 1/3rd of revenue but the newfound buying from Openclaw + variants is a new cataylst nevertheless for re-rating.\n\nEspecially now that Picoclaw and compressed OpenClaw variants are now able to be run on $20 Raspberry Pis instead of just the Raspberry Pi 5’s.\n\nBut seems like people just forgot Raspberry PI was a publicly stock as well. \n\nThe stock price is down 56% 1Y to 542.68M euro MC to an all time low. \n\nSo this might be that tailwind for a reversal. \n\nThere's also a non-zero chance OpenClaw is a long term catalyst for Raspberry Pi based, agentic deployments. \n\nTLDR: People are openly buying Raspberry Pis and Apple Mac Minis for Openclaw/Picoclaw, so revenue should benefit from increased demand.",
+        "created_at": "Mon Feb 16 15:12:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2023415213773729792",
+            "url": "https://pbs.twimg.com/media/HBSdapoasAAeOk3.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2023415213735944192",
+            "url": "https://pbs.twimg.com/media/HBSdapfaIAA8bK6.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 267233,
+          "friends_count": 117,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 56,
+          "favorite_count": 941,
+          "reply_count": 51,
+          "quote_count": 27
+        }
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 309,
+        "reply_count": 54,
+        "quote_count": 1
       }
     }
   ]
