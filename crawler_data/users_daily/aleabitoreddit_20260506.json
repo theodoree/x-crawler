@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 271165,
+    "followers_count": 271430,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260506",
-  "last_updated": "2026-05-06T16:41:00.215990",
-  "tweet_count": 6,
+  "last_updated": "2026-05-06T18:47:05.173767",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2051820971510866428",
@@ -211,6 +211,102 @@
         "favorite_count": 599,
         "reply_count": 110,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2052084166960001150",
+      "text": "MicroLED still feels far away before any CPO related volume ramp per Goldman Sachs note. \n\nQuantum Dot like $ALMU / QD isn't even mentioned since it's way way out by years.\n\nIn a correction, \"premiums\" disappear, but valuation floors are backed by revenue. \n\n$SIVEF or $AAOI on the other hand are volume ramping soon <8M and directly in the CW space. \n\nWould prefer immediate upside after years of R&D/expansion... \n\nThan waiting years at the beginning for R&D into sampling into qualification... Then inflection point of volume ramp. \n\n\"Technology readiness\" is low for MicroLED.",
+      "created_at": "Wed May 06 17:52:45 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2052080807678988288",
+          "url": "https://pbs.twimg.com/media/HHp0n0gaUAAJ4RZ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2052072899008151885",
+        "text": "@aleabitoreddit Its because MicroLED is far superior",
+        "created_at": "Wed May 06 17:07:59 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1044152396493074432",
+          "name": "CM X",
+          "screen_name": "CM_X_CM",
+          "description": "",
+          "followers_count": 11523,
+          "friends_count": 3135,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 345,
+        "reply_count": 60,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2052095835903852564",
+      "text": "$ARM seems to be having a fun time.\n\nAlmost triple digit return in 1 1/2 months since I went long on their CPU projections.\n\nMarkets really like AI CPUs huh? https://t.co/hgWPOB6tIN",
+      "created_at": "Wed May 06 18:39:08 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2052095832367976448",
+          "url": "https://pbs.twimg.com/media/HHqCSX1aUAARm7M.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2046419572203683922",
+        "text": "Bullish on $ARM, given the new bottleneck shifting back to CPUs. MS shows stuff like Orchestration/RAG requiring CPUs. \n\nBut I'm predicting parts of localized inference to be handled by CPUs more and more... as models like Gemma get  lightweight in the future. \n\nNot every robot needs to be able to solve the mysteries of the universe. \n\nData centers will need an astronomical amount of traditional CPU compute (AWS Graviton, $GOOGL Axion, and $MSFT Cobalt), which are all ARM based.\n\n$META + OpenAI are also buyers of the AGI CPU.\n\nAnd AI will flow down to edge. \n\n$15B annual revenue target.. Starting to look reasonable?",
+        "created_at": "Tue Apr 21 02:43:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2046417822004498432",
+            "url": "https://pbs.twimg.com/media/HGZWKq6bUAAzmam.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 271430,
+          "friends_count": 119,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 89,
+          "favorite_count": 1067,
+          "reply_count": 80,
+          "quote_count": 18
+        }
+      },
+      "stats": {
+        "retweet_count": 2,
+        "favorite_count": 160,
+        "reply_count": 44,
+        "quote_count": 0
       }
     }
   ]
