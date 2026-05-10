@@ -1,0 +1,60 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 284539,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260510",
+  "last_updated": "2026-05-10T01:10:02.717649",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2053270948414099915",
+      "text": "Did you remember my $AXTI InP substrate bottleneck call last year anon?\n\nIntelliEPI CEO (Q1 2026 ER): \n\n\"The InP substrate shortage is a bottleneck for the entire AI infrastructure\"\n\nDigitimes: \"Taiwan's IntelliEPI warns of severe indium phosphide supply shortage\"\n\nI said as photonics ramps: There was going to be a major InP bottleneck as all the next-gen AI architectures go optical.\n\nThis was most goated call with AXT as the upstream chokepoint.\n\nI'm usually a few months ahead of time, but they play out directionally. \n\nWhile I'm sitting in existing bottlenecks up 1800%+, I'm long CPO as the next major supercycle.",
+      "created_at": "Sun May 10 00:28:36 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2053270545949700096",
+          "url": "https://pbs.twimg.com/media/HH6urs8asAANGtF.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2004577553714163817",
+        "text": "Thanks, we might not see a InP substrate bottleneck yet, but we’ll likely see it when hyperscaler ASICs (TPU, Trainium, Maia, etc.) ramp up -> supply strains like memory mid-2026.\n\nThat doesn’t quite mean material providers should be valued like $LITE, but the fact that the entire future AI buildout has a single point of failure that comes from a small $600m company like $AXTI is amusing.",
+        "created_at": "Fri Dec 26 15:38:26 +0000 2025",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 284539,
+          "friends_count": 121,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 39,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 297,
+        "reply_count": 54,
+        "quote_count": 3
+      }
+    }
+  ]
+}
