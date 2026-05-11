@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 286627,
+    "followers_count": 286939,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260511",
-  "last_updated": "2026-05-11T15:13:39.783167",
-  "tweet_count": 10,
+  "last_updated": "2026-05-11T17:05:08.353634",
+  "tweet_count": 11,
   "tweets": [
     {
       "id": "2053634088259690727",
@@ -453,6 +453,57 @@
         "retweet_count": 35,
         "favorite_count": 516,
         "reply_count": 60,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2053857864637436221",
+      "text": "$LITE is now over $1000. Did you listen anon?\n\nI do tend to get optical players directionally right... \n\nSo it's hilarious when I see short sellers on names like $AAOI or $SIVE. https://t.co/agPpMQv8Xw",
+      "created_at": "Mon May 11 15:20:48 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2053857587364564992",
+          "url": "https://pbs.twimg.com/media/HIDEmAobEAA3EuZ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2003019490871869644",
+        "text": "The $LITE thesis: The hidden monopoly in the AI. \n\nLumentum is up 316% YTD, but might be 1000%+ by 2027. \n\nMicron ($300B) or TSM ($1.5T) sit in the center of every TPU/GPU deployed. \n\nBut same with $LITE, but it's a $26B MC. \n\nIn Every, Single, TPU from Google, $LITE makes unbelievable amounts of profit for their marketcap. \n\nThat's because it's the standard for Optical Circuit Switching (OCS) + optical networking. \n\nIt's also in\n\n-  $NVDA Blackwell\n-$AMZN Trainium\n- and other hyperscaler ASICs.  \n\nLumentum sits in the holy trinity of every single chip deployment for photonics.\n\nAnd for every TPU capex spent, $LITE takes 8-12%. For every Nvidia GPU, $LITE takes ~2-3% (split between Innolight and some others, so the math gets a bit complex).\n\nBut some napkin math on NVDA GPU deployments alone for BOM:\n\nNVIDIA Blackwell (GB200):\n\nHBM memory: ~50–55% (SK Hynix (Lead), Micron, Samsung)\nLogic (GPU Die): ~25-30% ( $TSM 4NP)\nCoWoS Packaging: ~13-18% $TSM\nOptics/Network: ~3–5% (Innolight, Lumentum, Coherent)\nPCB/Power: 5%\n\nFor Google TPIU \"Ironwood\" TPU v7:\n\nHBM Memory: 38-42% Samsung / SK Hynix\nLogic Die: TSM ~28-33%\nDesign/I.O: 8-10% MediaTek \nOptical Network: 10-14% ( $LITE (primary), $COHR secondary)\nOptical Switch: 2-4% $LITE\n\n$LITE est. total cluster share: ~8–12%\n\nJust an FYI, Google's \"Optical\" BOM share (8–12%) is an anomaly due to their unique Optical Circuit Switch (OCS) monopoly.\n\nJust for some napkin math:\n\n$40B Google TPU spend by 2027. $LITE captures 10% (30-40% margins), $1.5B+ FCF from Google alone, 17x earnings from just their primary customer. (analysts are probably extremely off with projecting TPU spend scaling). \n\nNot even including their split from $AMZN Trainium, $NVDA Blackwell, $MSFT Maia, and other chip deployments. \n\n$LITE is in the center of every single TPU/GPU future chip deployment for now and takes a cut. \n\nThe only downside is they're the clear market leader now, but $AVGO and $COHR are likely set up to compete by 2027-2028. However...\n\nPeople say \"$26B, ATH, why are you buying now\". \n\nThis is the reason. They're involved in every future single TPU/GPU/ASIC deployed. \n\n$LITE could end up easily over $60B+ if Google TPUs, and other chip spend ramps up and LITE takes a 2-3% (from $NVDA, $AMZN, $MSFT) or 8-12% cut (from $GOOGL) for every single dollar spent.",
+        "created_at": "Mon Dec 22 08:27:15 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2003014018265661440",
+            "url": "https://pbs.twimg.com/media/G8wiox7aQAAJLI3.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 286939,
+          "friends_count": 120,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 61,
+          "favorite_count": 536,
+          "reply_count": 31,
+          "quote_count": 11
+        }
+      },
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 733,
+        "reply_count": 91,
         "quote_count": 5
       }
     }
