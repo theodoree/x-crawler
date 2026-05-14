@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 291334,
+    "followers_count": 292139,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260514",
-  "last_updated": "2026-05-14T01:09:23.668778",
-  "tweet_count": 1,
+  "last_updated": "2026-05-14T03:19:38.294266",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2054728301806256484",
@@ -54,6 +54,102 @@
         "favorite_count": 112,
         "reply_count": 23,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2054737349075218567",
+      "text": "Honestly I’m expecting FOCI (3363) to blow away projections over next two years.\n\nIt’s a pretty high conviction position for me medium term at this level. \n\nSince they’re expected to be the leading supplier to $NVDA and $TSM and get frequently cited as a bottleneck for that $91B+ 2028 CPO TAM (GS).\n\nInsane how it’s $3B MC as a critical CPO bottleneck required for scale, while LightWave Logic literally has around the same valuation at $2.7B in development stage.",
+      "created_at": "Thu May 14 01:35:33 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2054737343291260928",
+          "url": "https://pbs.twimg.com/media/HIPkui2bAAAt-LP.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2054421637244825969",
+        "text": "@aleabitoreddit This is actually very interesting, their forecast EPS for 2028 is 47 TWD, which give them a PE OF 18, this is insane! Good find!",
+        "created_at": "Wed May 13 04:41:02 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1902750727631769600",
+          "name": "Soyunce",
+          "screen_name": "soyunce_",
+          "description": "I speak about things that actually matter.",
+          "followers_count": 26,
+          "friends_count": 61,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "reply_count": 5,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 262,
+        "reply_count": 48,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2054740298182603024",
+      "text": "Interesting report that I missed that Shunsin (6451) landed $AVGO CPO/SiPH orders…\n\nAnd their EPS growth rate could reach over 1240%.\n\nOf course this is confidential and is media speculation. \n\nBut makes sense that all your top players use Foxconn for optical packaging/test. https://t.co/aqnUQEQdYS",
+      "created_at": "Thu May 14 01:47:16 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2054740281229201408",
+          "url": "https://pbs.twimg.com/media/HIPnZjhaUAAFVLO.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2051472715165704657",
+        "text": "Pretty sure institutions like GS missed Shunsin (6451) at $1.65B for CPO packaging/test/assembly.\n\nWhich is why I'm very bullish on it as a completely backdoored, hidden + major beneficiary of $NVDA CPO ramp. \n\nFoxconn is a major supply chain partner among $TSM and $ASX.\n\nBut… Shunsin is Foxconn's optical arm, and captures their captive optical and advanced packaging volume.\n\nSo they're not explicitly listed anywhere or have direct contracts with Nvidia (but Foxconn does)\n\nBut likely soaks up Nvidia CPO + other volumes through Foxconn vertical integration.",
+        "created_at": "Tue May 05 01:23:04 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2051472712019927040",
+            "url": "https://pbs.twimg.com/media/HHhLj_pa4AAaE4f.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 292139,
+          "friends_count": 121,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 53,
+          "favorite_count": 823,
+          "reply_count": 70,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 204,
+        "reply_count": 44,
+        "quote_count": 1
       }
     }
   ]
