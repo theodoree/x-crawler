@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 292139,
+    "followers_count": 296627,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260514",
-  "last_updated": "2026-05-14T03:19:38.294266",
-  "tweet_count": 3,
+  "last_updated": "2026-05-14T10:56:50.998253",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2054728301806256484",
@@ -150,6 +150,66 @@
         "favorite_count": 204,
         "reply_count": 44,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2054858304107745356",
+      "text": "IMO anything MicroLED is a waste of capital for CPO/photonics exposure over the next year.\n\nNames like ams-OSRAM/AUO/Ennostar/Tyntek/PlayNitride, etc. \n\nAny volume shipments would probably be H2 2028 or H1 2029 if it even takes off from development stage. \n\nYou're better looking at them for their other business segments.",
+      "created_at": "Thu May 14 09:36:11 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2054191407829512321",
+        "text": "@aleabitoreddit any thoughts on ams OSRAM? They have some interesting application areas in photonics. Is it just hype or they might actually deliver?",
+        "created_at": "Tue May 12 13:26:11 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1988658988150575106",
+          "name": "DJ",
+          "screen_name": "jshdpk",
+          "description": "#GGMU",
+          "followers_count": 9,
+          "friends_count": 47,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 1,
+        "favorite_count": 165,
+        "reply_count": 35,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2054868760629272850",
+      "text": "$SIVE 2025 annual report analysis. \n\nTLDR: Extremely Bullish. \n\nSivers main growth vector is CPO, but they've TAM expansioned to pluggable transcivers + multiple new qualifications/development. \n\n1. \"We are currently seeing great interest...  testing our DFB lasers across multiple manufacturers in pluggable transceivers\"\n\nFor pluggable angle, we've seen this with $JBL 1.6T LRO already, but annual report hinted they're developing/qualifying with more hyperscaler suppliers.\n\n\"Our serviceable markets have now been expanded to include pluggable optical interconnects as well as scale-up and scale-out architectures for co-packaged\" (TAM expansion)\n\n2. \"Discussions with hyperscalers and pluggable transceiver suppliers indicate a shortage of CW lasers in the coming years\" \n\n$LITE already signaled CW laser bottlenecks, and they had to buy externally from competitors. So we kinda guessed CW Laser was a bottleneck. \n\nAnd this confirmed it, so was wondering about Win semi. \n\n\"The partnership announced with high-volume supplier Win Semiconductor in March 2025 now gives us a strong position to meet growing demand\"\n\n$SIVE likely has capacity locked in with Win from this nuance, which is exactly what I wanted to know. \n\nThis positions Sivers in the CW laser as both a bottleneck and CPO laser architectural leader. \n\nVOLUME PRODUCTION H2 INDICATIONS (BULLISH): \n\n3. \"The collaboration positions both companies to address the rapidly growing market for optical AI connectivity, with prototypes to be demonstrated to customers during the first half of 2026 and with the goal of scaling up production by the end of 2026\"\n\nH1 is more preproduction, H2 production signaled starting with names like $POET. \n\n4. \"We are pleased that our largest LIDAR customer will increase production starting in the fourth quarter of 2026\" \n\n$AEVA start of volume production Q4 with $SIVE = bullish for both. \n\nRevenue floor from LIDAR as their CPO scales. \n\n5. Sivers announced a partnership with LIGHTIUM AG to integrate their CW lasers directly onto TFLN wafers. 3.2T+ cycle. (future proofing)\n \nFYI no decent investor cares about last year's 2025 financials from development contracts aside from Swedish Media/Locals. \n\nEspecially when you're forward looking for the 2027-2028 CPO supercycle. \n\nBut the hint from you can take away from financials + geography that is $NOK is now the high confidence customer of $SIVE. \n\nTLDR:\n\n-> Win Semi implied capacity lock in during CW laser bottleneck \n-> Hints of new group of hyperscaler suppliers testing/qualification for pluggable transcivers, which is massive TAM expansion. \n-> New customers for CW lasers \n-> Volume production scaling starting H2 for both photonics and lidar.",
+      "created_at": "Thu May 14 10:17:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2054867452400689152",
+          "url": "https://pbs.twimg.com/media/HIRbD5Da4AAxOmE.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 62,
+        "favorite_count": 577,
+        "reply_count": 59,
+        "quote_count": 7
       }
     }
   ]
