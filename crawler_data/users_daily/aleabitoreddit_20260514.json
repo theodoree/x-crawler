@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 291508,
+    "followers_count": 291719,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260514",
-  "last_updated": "2026-05-14T23:27:49.887774",
-  "tweet_count": 7,
+  "last_updated": "2026-05-15T01:07:16.224702",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2054728301806256484",
@@ -291,6 +291,51 @@
         "favorite_count": 292,
         "reply_count": 63,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2055068788975157672",
+      "text": "Not a fan of $CBRS, especially at ~$90B-100B MC valuations.\n\nBut I do like the company.\n\nThere’s a lot of short term valuation disconnects with float dynamics after IPO as seen with $CRCL or $BULL though. \n\nSo would not be surprised if it ends up trading at absurd valuations for a short time until things correct.",
+      "created_at": "Thu May 14 23:32:35 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2055068782205538304",
+          "url": "https://pbs.twimg.com/media/HIUSK1BbEAAa2gT.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2055061193279287643",
+        "text": "@aleabitoreddit Are you buying crbs here?",
+        "created_at": "Thu May 14 23:02:24 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1363529422393909249",
+          "name": "TheMarathon",
+          "screen_name": "TheMarathon8320",
+          "description": "",
+          "followers_count": 173,
+          "friends_count": 49,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 4,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 365,
+        "reply_count": 75,
+        "quote_count": 1
       }
     }
   ]
