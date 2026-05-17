@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 301695,
+    "followers_count": 302103,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260517",
-  "last_updated": "2026-05-17T11:33:04.624550",
-  "tweet_count": 5,
+  "last_updated": "2026-05-17T14:38:54.848791",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2055822766600016238",
@@ -166,6 +166,45 @@
         "favorite_count": 175,
         "reply_count": 34,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2056011024982282674",
+      "text": "I'm 100% sure if I met all you \"photonic memory\" experts in real life.\n\n498 out of 500 of you couldn't explain CXL memory pooling or KV cache infrastructure and what $PENG actually does to derive revenue off that.\n\nThis is why I'm seeing all these random $RKLB, $HIMS, or non technical AI experts on my timeline now.\n\nBackseat commenting completely wrong things about M7U MOCVD capex and $TSEM that aren't related. \n\nOr conflating every single term like an $SMCI integrator with photonics IP. \n\nThen just pitching buzzwords every under every one of my posts.",
+      "created_at": "Sun May 17 13:56:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2056006929642623213",
+        "text": "@aleabitoreddit I bought some PENG for:\n\n* KV-cache infrastructure,\n* memory expansion,\n* inference bottlenecks,\n* CXL memory pooling,\n* or external memory appliances,",
+        "created_at": "Sun May 17 13:40:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "818903853496205313",
+          "name": "#silentlystacking",
+          "screen_name": "kingcoinmatt",
+          "description": ". AI enthusiast. MAGA all day everyday. I follow everyone back. I am a lifelong New Yorker who spends winters in Mexico to escape the cold.",
+          "followers_count": 11133,
+          "friends_count": 5431,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 7,
+          "reply_count": 3,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 5,
+        "favorite_count": 374,
+        "reply_count": 76,
+        "quote_count": 1
       }
     }
   ]
