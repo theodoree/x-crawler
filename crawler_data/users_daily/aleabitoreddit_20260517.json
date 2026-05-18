@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 302390,
+    "followers_count": 303084,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260517",
-  "last_updated": "2026-05-17T16:29:42.425925",
-  "tweet_count": 8,
+  "last_updated": "2026-05-18T01:12:22.921932",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2055822766600016238",
@@ -257,6 +257,62 @@
         "favorite_count": 315,
         "reply_count": 58,
         "quote_count": 11
+      }
+    },
+    {
+      "id": "2056157639760126294",
+      "text": "I literally called out a national vulnerability in the AI supply chain.\n\nThen went long on the quasi-monopoly in $AXTI. \n\nWhile everyone was doubting me.\n\nGuess what anon: it’s on the White House shortage list and one of the major talking points of US-China trade talks 6M later. https://t.co/mVX0vJ5EuD",
+      "created_at": "Sun May 17 23:39:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2056157631556071424",
+          "url": "https://pbs.twimg.com/media/HIjweM8bsAAvHPV.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2056157631564439553",
+          "url": "https://pbs.twimg.com/media/HIjweM-bYAEq_rn.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2004569946492453003",
+        "text": "Warning: The entire AI industry will likely be bottlenecked by two companies:\n\n1. $AXTI ($700M) \n2. $SMTOY ($31.7B)\n\nWhich both control 60–70%+ of the world's InP substrates.\n\nFuture $NVDA, $GOOGL TPU v7 pods, $META, $MSFT, $AMZN hyperscaler clusters require InP-based lasers and receivers.\n\n$AVGO, $LITE, $COHR use for EMLs for 800G/1.6T transceivers, DFB lasers, and other optical infra.\n\nWithout InP substrates, the supply chain falters. \n\nAfter looking at TPU BOM to Maia BOM, it looks like future ASICs + GPUs + hyperscaler deployments are heavily reliant on photonics. \n\nAnd two vendors could freeze the global InP substrate market covering nearly all of:\n\n- Hyperscaler optics (TPU pods, etc)\n- Optical transceivers (5g, data)\n- LiDAR (robotaxis, drones, military)\n-Optical Modules (interconnect clusters)\n- Silicon photonics laser dies (Nvidia’s future co-packaged optics and Intel/Broadcom SiPh engines use  InP CW laser arrays.)\n\nSince these companies make up majority of the market supply:\n\n-AXTI (est. ~30–35%)\n-Sumitomo (est.~30%)\n- JX Nippon (est. 10-15%)\n\nThat’s it. (eg. 2021 industry note from Yole states that \"Sumitomo Electric + AXT together had “more than 75%” of the InP substrate market\")\n\nHyperscalers/AI are moving toward photonics but the entire AI industry is fragile. \n\nIf either $AXTI or $SMTOY stop supplying materials, the entire future AI buidlout gets crippled. It's even crazier that a $700m company could become the the center of it all. \n\nInP substrate will likely one of the biggest bottlenecks alongside HMB as the AI industry shifts to photonics.",
+        "created_at": "Fri Dec 26 15:08:13 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2004567172190769152",
+            "url": "https://pbs.twimg.com/media/G9GnOPLXEAAdWJW.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 303084,
+          "friends_count": 126,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 382,
+          "favorite_count": 3750,
+          "reply_count": 119,
+          "quote_count": 39
+        }
+      },
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 683,
+        "reply_count": 116,
+        "quote_count": 4
       }
     }
   ]
