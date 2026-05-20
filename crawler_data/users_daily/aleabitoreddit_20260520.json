@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 304603,
+    "followers_count": 304729,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260520",
-  "last_updated": "2026-05-20T13:11:14.852104",
-  "tweet_count": 7,
+  "last_updated": "2026-05-20T15:16:55.746387",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2056891308934148253",
@@ -305,6 +305,78 @@
         "retweet_count": 9,
         "favorite_count": 194,
         "reply_count": 69,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2057090237621584260",
+      "text": "“Jeff Bezos says low earners in the US should pay zero tax”\n\nI actually agree this this with some nuance on implementation: \n\nLow earners should be allowed to deduct all their living expenses before paying tax. \n\nJust like how the wealthy are able to write off a lot of things as business expenses or tax sheltered structures:\n\nMajority of “living costs” for low income citizens come from rent, healthcare, food, gas, car loans/college tuition, kids, etc.\n\nEven after all that they’re paying tax on their original income.\n\nFeels a little stupid to have low income earners owe money after just trying to live.",
+      "created_at": "Wed May 20 13:25:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2057090223037923329",
+          "url": "https://pbs.twimg.com/media/HIxAqK8awAEqOL2.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 40,
+        "favorite_count": 839,
+        "reply_count": 146,
+        "quote_count": 6
+      }
+    },
+    {
+      "id": "2057117978014126372",
+      "text": "Did you listen Sweden? \n\n&gt; $SIVE MSCI Listing + structural inflow \n&gt; $6.6M CHIPS act funding\n&gt; Jabil 1.6T extreme demand, volume ramp\n&gt; Apple next-gen Watch refresh likely using Sivers\n&gt; 2 new board members related to M&amp;A\n&gt; Nasdaq listing inc\n\nThe story keeps getting better. https://t.co/mlKM9WcIOf",
+      "created_at": "Wed May 20 15:15:20 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2057117968660934656",
+          "url": "https://pbs.twimg.com/media/HIxZ5LcbsAAjXO2.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2056993753882345818",
+        "text": "$SIVE mass production for 1.6T optical transceivers with $JBL:\n\nIs now earlier than expected per JP Morgan Fireside chat. \n\nHere's what they announced: \n\n> \"Relatively dramatic moat\" implied with $SIVE laser architectures\n\n> Extreme demand for their 1.6T, which was previously unknown in terms of volume. \n\n> Faster than expected timelines, pulling revenue realization window forward. \n\nThe statement:\n\n1. Jabil’s 1.6T LRO: \"Goes into different qualifications across the next 1 to 4 months\" \n\n“The quals can take anywhere between 2 to 6 months\"\n\nGiven its May H1 2026, mass production and revenue realization could begin in anywhere between 3 months to 10 months. \n\nSo late 2026 with 6.5 month midpoint. \n\nLot of former estimates were H2 2027. \n\n3. Architecturally it's \"which is about 11 kilowatts dramatically lower than current 1.6T power profiles\" \n\nHyperscalers would like to hear this, and this is the competitive differentiation + relatively dramatic moat proven with $SIVE as the critical photonics chokepoint.\n\n4. \"At this point, it's not about share. It's really about keeping up with the organic growth of the entire market.\"\n\nAgain this shows that the enormous demand has outstripped supply.\n\nThe implications are that it’s more of a matter of how much Sivers + Jabil can build together, as anything they make would be bought. \n\nThis type of statement is just incredibly material for Sivers revenue relative to their current marketcap.\n\nThe market was previously uncertain about the exact volume demand and commercial timeline from Sivers X Jabil. \n\nJabil just publicly confirmed that the demand for their 1.6T LRO with $SIVE lasers is essentially uncapped.",
+        "created_at": "Wed May 20 07:01:42 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2056977201510400000",
+            "url": "https://pbs.twimg.com/media/HIvZ3c8awAAoFIS.png"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 304729,
+          "friends_count": 126,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 85,
+          "favorite_count": 1049,
+          "reply_count": 100,
+          "quote_count": 14
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 102,
+        "reply_count": 15,
         "quote_count": 0
       }
     }
