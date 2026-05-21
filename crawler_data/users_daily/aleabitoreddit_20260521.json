@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 305802,
+    "followers_count": 305798,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260521",
-  "last_updated": "2026-05-21T17:05:13.845185",
-  "tweet_count": 5,
+  "last_updated": "2026-05-21T18:49:51.229772",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2057310252199301212",
@@ -248,6 +248,210 @@
         "favorite_count": 367,
         "reply_count": 123,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2057510441778315730",
+      "text": "And now $ARM, a $300B+ company, hit triple digit returns in a short timeframe since $135… \n\nCool name CPUs go brrrr? https://t.co/67Zz6EWfnL",
+      "created_at": "Thu May 21 17:14:50 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2057510436418072576",
+          "url": "https://pbs.twimg.com/media/HI2-1zxbsAAWUZS.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2046419572203683922",
+        "text": "Bullish on $ARM, given the new bottleneck shifting back to CPUs. MS shows stuff like Orchestration/RAG requiring CPUs. \n\nBut I'm predicting parts of localized inference to be handled by CPUs more and more... as models like Gemma get  lightweight in the future. \n\nNot every robot needs to be able to solve the mysteries of the universe. \n\nData centers will need an astronomical amount of traditional CPU compute (AWS Graviton, $GOOGL Axion, and $MSFT Cobalt), which are all ARM based.\n\n$META + OpenAI are also buyers of the AGI CPU.\n\nAnd AI will flow down to edge. \n\n$15B annual revenue target.. Starting to look reasonable?",
+        "created_at": "Tue Apr 21 02:43:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2046417822004498432",
+            "url": "https://pbs.twimg.com/media/HGZWKq6bUAAzmam.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 305798,
+          "friends_count": 126,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 94,
+          "favorite_count": 1081,
+          "reply_count": 82,
+          "quote_count": 19
+        }
+      },
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 382,
+        "reply_count": 144,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2057516027479814380",
+      "text": "Not everyone on X can do a did you listen anon.\n\nWith triple digit returns on everything like $TSEM they went long on. https://t.co/7jGCpZWRcd",
+      "created_at": "Thu May 21 17:37:02 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2057516022182318080",
+          "url": "https://pbs.twimg.com/media/HI3D68XaEAAsVmt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2031820871170736570",
+        "text": "I'm long $TSEM, the $TSM of photonics. \n\nMy top two picks for CPO are $SOI and Tower Semi. \n\nGiven the $NVDA GTC catalyst on new photonic related architecture next week:\n\nI expect Tower Semi to get a huge catalyst. \n\nNvidia laready directly collaborated with Tower to scale 1.6T silicon photonics last month (hint hint for GTC), likely pushing the downstream players to use it. \n\nAnd now, Tower is the leading supplier of 1.6T SiPh PICs and the primary foundry for scale-up CPO architectures. (the other being global foundries)\n\nFrom my forward est:\n2028 Forward P/E: ~16.8x to ~18.1x\n\n(Tower set a target $2.84B revenue by 2028, with ~31.7% operating margin, ~$750M in net profit) \n\nThe thing to note is over 70% of their planned SiPh capacity is already reserved through 2028. And photonics haven't even ramped up yet. \n\nSo, I expect them to strongly beat earning projections due to extreme photonics scaling + allocations price hikes that's not modeled into projections. \n\nAlso, $TSEM is heavily de-risked by 70% of capacity already being reserved. MC is likely due to $TSEM being a very obscure upstream player in the photonics supply chain. \n\nBut I expect the $NVDA GTC conference to be that catalyst that brings it to premium valuations.\n\nI'm long $TSEM as an asymmetrical upside for upstream photonics foundry layer.",
+        "created_at": "Wed Mar 11 19:53:39 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2031818458179256323",
+            "url": "https://pbs.twimg.com/media/HDJ4H2fbQAMlfCj.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 305798,
+          "friends_count": 126,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 86,
+          "favorite_count": 1141,
+          "reply_count": 71,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 339,
+        "reply_count": 46,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2057518759968190581",
+      "text": "People are really out there saying, don’t doubt me off 10% returns.\n\nI present to you: $AXTI https://t.co/1i5iXfWhz2",
+      "created_at": "Thu May 21 17:47:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2057518753638957056",
+          "url": "https://pbs.twimg.com/media/HI3GZ71awAA-UrV.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2004569946492453003",
+        "text": "Warning: The entire AI industry will likely be bottlenecked by two companies:\n\n1. $AXTI ($700M) \n2. $SMTOY ($31.7B)\n\nWhich both control 60–70%+ of the world's InP substrates.\n\nFuture $NVDA, $GOOGL TPU v7 pods, $META, $MSFT, $AMZN hyperscaler clusters require InP-based lasers and receivers.\n\n$AVGO, $LITE, $COHR use for EMLs for 800G/1.6T transceivers, DFB lasers, and other optical infra.\n\nWithout InP substrates, the supply chain falters. \n\nAfter looking at TPU BOM to Maia BOM, it looks like future ASICs + GPUs + hyperscaler deployments are heavily reliant on photonics. \n\nAnd two vendors could freeze the global InP substrate market covering nearly all of:\n\n- Hyperscaler optics (TPU pods, etc)\n- Optical transceivers (5g, data)\n- LiDAR (robotaxis, drones, military)\n-Optical Modules (interconnect clusters)\n- Silicon photonics laser dies (Nvidia’s future co-packaged optics and Intel/Broadcom SiPh engines use  InP CW laser arrays.)\n\nSince these companies make up majority of the market supply:\n\n-AXTI (est. ~30–35%)\n-Sumitomo (est.~30%)\n- JX Nippon (est. 10-15%)\n\nThat’s it. (eg. 2021 industry note from Yole states that \"Sumitomo Electric + AXT together had “more than 75%” of the InP substrate market\")\n\nHyperscalers/AI are moving toward photonics but the entire AI industry is fragile. \n\nIf either $AXTI or $SMTOY stop supplying materials, the entire future AI buidlout gets crippled. It's even crazier that a $700m company could become the the center of it all. \n\nInP substrate will likely one of the biggest bottlenecks alongside HMB as the AI industry shifts to photonics.",
+        "created_at": "Fri Dec 26 15:08:13 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2004567172190769152",
+            "url": "https://pbs.twimg.com/media/G9GnOPLXEAAdWJW.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 305798,
+          "friends_count": 126,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 390,
+          "favorite_count": 3796,
+          "reply_count": 121,
+          "quote_count": 39
+        }
+      },
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 457,
+        "reply_count": 75,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2057524112944468149",
+      "text": "Did you listen anon? https://t.co/ycoc4oSDDG",
+      "created_at": "Thu May 21 18:09:10 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2057524107168952321",
+          "url": "https://pbs.twimg.com/media/HI3LRjSbsAEt_2R.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2034127800840688097",
+        "text": "The more I look into Sivers \n< $SIVE /  $SIVEF >\n\nthe more I wonder:\n\nHow is the laser company for the hyperscaler photonic supply chains…\n\nValued at ~$200M USD MC?\n\nAll the companies that buy and repackage their lasers are now worth $1-4B+?\n\nPre-product SV AI companies are worth billions? \n\nPre revenue Photonic companies in development phase line $LWLG are worth $1B+? \n\nYet the company that makes the silicon photonics/CPO scale up & scale out work. \n\nAnd has actual revenue. \n\n~$200M… \n\nReminds me of early $AXTI when I had zero clue how a company worth $500M MC controlled the InP substrate/feedstock supply chain for photonics. \n\nEither I’m completely wrong… or this is the most undervalued and unknown photonics company on the market.",
+        "created_at": "Wed Mar 18 04:40:34 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2034127794922536960",
+            "url": "https://pbs.twimg.com/media/HDqsc8QbQAAH3ax.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 305798,
+          "friends_count": 126,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 63,
+          "favorite_count": 599,
+          "reply_count": 51,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 610,
+        "reply_count": 201,
+        "quote_count": 2
       }
     }
   ]
