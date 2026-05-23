@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 314849,
+    "followers_count": 315334,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260523",
-  "last_updated": "2026-05-23T10:38:35.030719",
-  "tweet_count": 4,
+  "last_updated": "2026-05-23T11:33:28.951310",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2058002991886844357",
@@ -146,6 +146,51 @@
         "favorite_count": 243,
         "reply_count": 38,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2058145137214329150",
+      "text": "Wow, NASDAQ just added $SIVE to its Stockholm index.\n\nThis is est. to be around ~$15-20M worth of passive inflow, with strict ETF-only being around ~$.5M.\n\nWe’re able to see a lot of institutional inflow into Sivers, as this is on top of the MSCI index inclusion EOM. https://t.co/qHYeT8b3Ja",
+      "created_at": "Sat May 23 11:16:53 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2058145122861338624",
+          "url": "https://pbs.twimg.com/media/HJAAFbBaUAA58RS.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2058140228880146537",
+        "text": "@aleabitoreddit Sweden finally brining in some Sive acceptance. \n https://t.co/Go6l4YaTe1",
+        "created_at": "Sat May 23 10:57:23 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1259891751499816960",
+          "name": "GGMU FC 🇱🇧",
+          "screen_name": "GGMUFUT",
+          "description": "LOVE FOOTBALL, GGMU ❤ No player is bigger than the club. Follow me and i follow you back. \nFanBase: @ManUtd.",
+          "followers_count": 574,
+          "friends_count": 912,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 2,
+          "favorite_count": 11,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 328,
+        "reply_count": 43,
+        "quote_count": 7
       }
     }
   ]
