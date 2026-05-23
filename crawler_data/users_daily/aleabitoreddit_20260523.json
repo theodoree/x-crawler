@@ -1,0 +1,71 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 309203,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260523",
+  "last_updated": "2026-05-23T03:18:56.841609",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2058002991886844357",
+      "text": "5 months ago. I gave a PT of $150 with $AXTI.\n\nOver 10x that current values from a $500M MC.\n\nIt’s now a $9.2B MC and $140. $10 away. \n\nNew $SIVE longs are starting to realize what’s it’s like to be in AXT.\n\nAnd that I’m pretty good at guessing intrinsic valuations of companies. https://t.co/HXAoKmXmaV",
+      "created_at": "Sat May 23 01:52:03 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2058002985733836800",
+          "url": "https://pbs.twimg.com/media/HI9-z89b0AARd6w.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2058002985717006336",
+          "url": "https://pbs.twimg.com/media/HI9-z85bAAAzG4C.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2004569946492453003",
+        "text": "Warning: The entire AI industry will likely be bottlenecked by two companies:\n\n1. $AXTI ($700M) \n2. $SMTOY ($31.7B)\n\nWhich both control 60–70%+ of the world's InP substrates.\n\nFuture $NVDA, $GOOGL TPU v7 pods, $META, $MSFT, $AMZN hyperscaler clusters require InP-based lasers and receivers.\n\n$AVGO, $LITE, $COHR use for EMLs for 800G/1.6T transceivers, DFB lasers, and other optical infra.\n\nWithout InP substrates, the supply chain falters. \n\nAfter looking at TPU BOM to Maia BOM, it looks like future ASICs + GPUs + hyperscaler deployments are heavily reliant on photonics. \n\nAnd two vendors could freeze the global InP substrate market covering nearly all of:\n\n- Hyperscaler optics (TPU pods, etc)\n- Optical transceivers (5g, data)\n- LiDAR (robotaxis, drones, military)\n-Optical Modules (interconnect clusters)\n- Silicon photonics laser dies (Nvidia’s future co-packaged optics and Intel/Broadcom SiPh engines use  InP CW laser arrays.)\n\nSince these companies make up majority of the market supply:\n\n-AXTI (est. ~30–35%)\n-Sumitomo (est.~30%)\n- JX Nippon (est. 10-15%)\n\nThat’s it. (eg. 2021 industry note from Yole states that \"Sumitomo Electric + AXT together had “more than 75%” of the InP substrate market\")\n\nHyperscalers/AI are moving toward photonics but the entire AI industry is fragile. \n\nIf either $AXTI or $SMTOY stop supplying materials, the entire future AI buidlout gets crippled. It's even crazier that a $700m company could become the the center of it all. \n\nInP substrate will likely one of the biggest bottlenecks alongside HMB as the AI industry shifts to photonics.",
+        "created_at": "Fri Dec 26 15:08:13 +0000 2025",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2004567172190769152",
+            "url": "https://pbs.twimg.com/media/G9GnOPLXEAAdWJW.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 309203,
+          "friends_count": 126,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 394,
+          "favorite_count": 3872,
+          "reply_count": 124,
+          "quote_count": 40
+        }
+      },
+      "stats": {
+        "retweet_count": 14,
+        "favorite_count": 626,
+        "reply_count": 102,
+        "quote_count": 6
+      }
+    }
+  ]
+}
