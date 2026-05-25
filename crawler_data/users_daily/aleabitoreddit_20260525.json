@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 360388,
+    "followers_count": 362668,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260525",
-  "last_updated": "2026-05-25T11:32:16.660631",
-  "tweet_count": 8,
+  "last_updated": "2026-05-25T13:25:06.608519",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2058756539448713504",
@@ -343,6 +343,51 @@
         "favorite_count": 247,
         "reply_count": 46,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2058879435726836152",
+      "text": "$LPK turned out pretty well. https://t.co/mZlTyd4oUO",
+      "created_at": "Mon May 25 11:54:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2058879430479724544",
+          "url": "https://pbs.twimg.com/media/HJKb7wEaQAAfUGI.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2012961292966117410",
+        "text": "$WOLF was probably the most interesting one up there after restructuring. \n\n$LPKFF also for glass substrates and they own the laser induced deep etching at a $169m MC, so possibly most explosive 10x upside. \n\n$MTRN is probably the most stable one up there with decently high upside given it owns the mountain for ~65% of the world's Beryllium.   \n\nThere were a few others but just the fundamentals were either really bad or their bottleneck was too niche.  \n\n$LPTH's bottleneck for example spreads across both defense, AI, drones, etc.  \n\n$AXTI's bottleneck was so big and AI is such a big sector so it doesn't need to be spread across (but InP is used in a lot of other sectors too).",
+        "created_at": "Sun Jan 18 18:52:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 362668,
+          "friends_count": 136,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 22,
+          "favorite_count": 144,
+          "reply_count": 5,
+          "quote_count": 3
+        }
+      },
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 471,
+        "reply_count": 69,
+        "quote_count": 0
       }
     }
   ]
