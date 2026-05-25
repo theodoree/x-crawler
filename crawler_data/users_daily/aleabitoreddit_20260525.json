@@ -1,0 +1,80 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+    "followers_count": 354711,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260525",
+  "last_updated": "2026-05-25T05:44:05.554828",
+  "tweet_count": 2,
+  "tweets": [
+    {
+      "id": "2058756539448713504",
+      "text": "Oh look, a new UDN article about $TSM COUPE + AI optical markets. \n\nInstitutional investors are optimistic that Taiwanese companies: \n\nFOCI (3363), and MSScorps (6830) are expected to benefit\n\nBut... that \"Institutional\" should be changed to retail investors on X?\n\nFor FOCI: \"Its FAU products have been developed in cooperation with TSMC for at least three years, and the specifications have been promoted to 1.6T,  3.2T, and the subsequent mass production schedule has become the focus  of market observation.\"\n\nFor MSS: \"cut into the silicon photonics and CPO detection analysis, the main  \"light loss detection\" technology ... and launch of the silicon photonics test  platform, lock in research and development, engineering verification,  failure analysis and a small number of diverse test applications.\"\n\nThese are still two extremely small companies... and things like MSS weren't even mentioned by GS, despite the news claims about relations. \n\nSo feels like X found this early, mainstream institutions are likely about to enter after seeing this sort of confirmation.",
+      "created_at": "Mon May 25 03:46:23 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2058755427337449473",
+          "url": "https://pbs.twimg.com/media/HJIrJ0XbMAEXVWE.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2058755775158480896",
+          "url": "https://pbs.twimg.com/media/HJIreEGa8AAsZIJ.png"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 11,
+        "favorite_count": 253,
+        "reply_count": 44,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2058764325326856414",
+      "text": "几个值得重点关注的“实质性垄断”标的:\n\n- MSSCORP (6830)：在检测和 CPO 良率把控上构筑了极深的专利护城河。 \n- $SOI：主导绝缘体上硅 (SOI) 衬底市场。  \n- NGK (5333)：稳拿薄膜铌酸锂 (TFLN) 晶圆核心技术。 \n- $AXTI：把控磷化铟 (InP) 衬底等上游关键材料。\n\n像讯芯 (Shunsin) 这类公司其实很难被轻易颠覆，毕竟背靠富士康，而富士康本身就深深扎根于众多核心供应链的腹地 🏭\n\n$SIVE 的逻辑也极其相似。他们已经成功打入 (design in) 了众多顶尖 CPO 架构的设计体系，抱紧了 Ayar、Lightelligence (壁仞的供应商)、Lightmatter 以及 Celestial 等 众行业领军者的大腿 \n\n相比之下，个人认为 $HIMX (奇景光电) 或 Foci (上诠) 未来面临被踢出局 (design out) 的风险最大，很有可能会被台积电的光学部门采钰 (Visera 6789) 这类巨头直接垂直整合。不过话说回来，在未来两三年内，借助 CPO 相关的光纤阵列 (FAU) 和无源器件，他们眼前依然有 波巨大的赚钱机遇",
+      "created_at": "Mon May 25 04:17:19 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2058759422667796927",
+        "text": "博主看得很透，直接穿透到了物理AI的底层供应链。\n\n不过想请教一下  @aleabitoreddit  ，随着各大厂资本支出（CapEx）的狂飙，这几个起步较小的光子和材料公司，目前谁的产能弹性和技术壁垒最不容易被后发者颠覆？尤其是在西方供应链本土化这个点上，谁的确定性最高？\n\nPS:我也在学习美股🙃",
+        "created_at": "Mon May 25 03:57:50 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1654536386098364418",
+          "name": "泥伏雷闯关记",
+          "screen_name": "Nicole_yang88",
+          "description": "📊 跨境金融实战派｜港美股开户｜全球银行卡｜加密支付路径\n🌐 泥伏雷网站：https://t.co/O0RJVTKLe2\n🔍 拆解信息差，打通资金流\n🧭 从0到1搭建你的海外资产体系\n💹 资金永不眠\n🚀 一起成长，一起闯关",
+          "followers_count": 28160,
+          "friends_count": 2193,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 1,
+          "favorite_count": 6,
+          "reply_count": 5,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 73,
+        "favorite_count": 557,
+        "reply_count": 100,
+        "quote_count": 4
+      }
+    }
+  ]
+}
