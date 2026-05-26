@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 379705,
+    "followers_count": 386136,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260526",
-  "last_updated": "2026-05-26T07:29:17.478286",
-  "tweet_count": 3,
+  "last_updated": "2026-05-26T13:18:01.818097",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2059073941734662551",
@@ -136,6 +136,106 @@
         "favorite_count": 351,
         "reply_count": 56,
         "quote_count": 2
+      }
+    },
+    {
+      "id": "2059213869101588527",
+      "text": "リサーチの90%はお風呂の中でやってるから、「シャワーソート（シャワー中のひらめき）」って言ってるんだよね。\n\n日本でのハーモニック・ドライブ（6324）のリサーチは順調に進んでるよ。\n\n結論として、温泉と大トロは10点満点中10点だね。 https://t.co/eSce82erlP",
+      "created_at": "Tue May 26 10:03:39 +0000 2026",
+      "lang": "ja",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2059213833315766273",
+          "url": "https://pbs.twimg.com/media/HJPMEjtbUAEdJPJ.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2059213833303109632",
+          "url": "https://pbs.twimg.com/media/HJPMEjqaMAAOSp5.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2059213833303207936",
+          "url": "https://pbs.twimg.com/media/HJPMEjqbsAAH781.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2059161353064169622",
+        "text": "@aleabitoreddit Do more shower bro 🫡🫡🫡",
+        "created_at": "Tue May 26 06:34:58 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1614496714030993414",
+          "name": "ByungJun Ahn",
+          "screen_name": "dubidubabap",
+          "description": "Using AI to find alpha in small-cap stocks.\nPersonal notes only. \nNot financial advice. \nNo advice/signals. \nTrade at your own risk.",
+          "followers_count": 2661,
+          "friends_count": 129,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 18,
+          "reply_count": 9,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 29,
+        "favorite_count": 1477,
+        "reply_count": 161,
+        "quote_count": 16
+      }
+    },
+    {
+      "id": "2059242587354169403",
+      "text": "$SIVE is the most compelling CPO exposure stock to me. \n\nDespite the volatility.\n\nYou probably won’t find something like this again until the next architectural shift in photonics years later.\n\nOut of the core laser suppliers, they’re all tens of billions?\n\n$AAOI = $15B\nFurukawa = $26B\n$MTSI = $29B\nSumitomo = $59B\n$COHR = $73B\n$LITE = $74B\n\nThen there’s $SIVE as one of the core CPO laser chokepoints at $2.3B MC.\n\nEarnings are usually confirmation of all the little volume ramp hints like Jabil fireside transcripts for 1.6T LRO.\n\nAnd most returns are typically made before, not after official confirmation is just a rule of thumb.",
+      "created_at": "Tue May 26 11:57:46 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2059242578307133441",
+          "url": "https://pbs.twimg.com/media/HJPmNvJbMAE1Ci1.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2059160943506883010",
+        "text": "@aleabitoreddit I wanna add to my $SIVE position, is it worth waiting till after earnings?",
+        "created_at": "Tue May 26 06:33:20 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1868770076460986368",
+          "name": "O",
+          "screen_name": "Ecom_Venture2",
+          "description": "",
+          "followers_count": 16,
+          "friends_count": 20,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 10,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 58,
+        "favorite_count": 924,
+        "reply_count": 214,
+        "quote_count": 11
       }
     }
   ]
