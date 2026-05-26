@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 375379,
+    "followers_count": 379705,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260526",
-  "last_updated": "2026-05-26T03:21:56.645185",
-  "tweet_count": 2,
+  "last_updated": "2026-05-26T07:29:17.478286",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2059073941734662551",
@@ -80,6 +80,62 @@
         "favorite_count": 513,
         "reply_count": 68,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2059160035117216106",
+      "text": "$EWY calls are now up 300%+, over 4x return if you listened anon?\n\nNot only did IV increase and hold their implied volatility of the South Korean market.\n\nUnderlying memory longs in SK Hynix and Samsung keep printing. \n\nDuring that time, all your influencers kept bear posting “Oil + LNG” fears as well as “Kospi bubble” chants.",
+      "created_at": "Tue May 26 06:29:44 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2059160025411805184",
+          "url": "https://pbs.twimg.com/media/HJObIhpa4AA5uIJ.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2059160025403424768",
+          "url": "https://pbs.twimg.com/media/HJObIhnbAAARdSW.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2022283819374854167",
+        "text": "Trade idea that I published to my shower thoughts channel: \n\nKorean Index volatility arbitrage and taking advantage of Black-Scholes models. \n\n$EWY long options seem mispriced.\n\nThis is Blackrock's Korea Index, which is majority memory (Samsung Electronics, Sk Hynix).\n\nThe stock swings 2-5+% a day, and is up 136.25% 1Y, despite priced like a normal index IV.\n\nSamsung is volatile. SK Hynix is volatile (eg. 65% - 80% est). \n\nBut the combination of the two through the index is priced way less than both low beta $GOOGL (37.33%) and $AMZN (39.12%) at ~32% IV. \n\nI've been watching $EWY for a bit and it does look volatile. \n\nAs for pricing my guess is MMs priced in IV based on historical averages (5-10 years), where the Korean index was completely flat. And were expecting calls 2 years out to revert to the mean. \n\nBut this volatility should be the new norm as markets price in the new memory supercycle (eg. $TSM went from 30% IV to 46.2% IV). \n\nLong calls should benefit from both Samsung + Sk Hynix carrying the index. \n\nAnd the main benefit is vega expansion that you won't get from $KORU. \n\nYou also can't get this option MM pinning like individual US stocks since this is Korea's national index and long term. \n\nTLDR: Individual components SK Hynix + Samsung are highly volatile.\n\nThey're basically half of the index, but options in index are priced with low volatility, perhaps due to historical 5-10 year data.  \n\nLong calls benefit from vega expansion that weren't priced in correctly as MM forward vol estimates are anchored too heavily on historical realized vol, which was low for $EWY over the past 5-10 years",
+        "created_at": "Fri Feb 13 12:16:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022278295639969792",
+            "url": "https://pbs.twimg.com/media/HBCTZTiaUAAbbxr.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 379705,
+          "friends_count": 138,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 42,
+          "favorite_count": 700,
+          "reply_count": 38,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 10,
+        "favorite_count": 351,
+        "reply_count": 56,
+        "quote_count": 2
       }
     }
   ]
