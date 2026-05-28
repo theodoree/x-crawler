@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 433389,
+    "followers_count": 437309,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260528",
-  "last_updated": "2026-05-28T03:24:20.849751",
-  "tweet_count": 3,
+  "last_updated": "2026-05-28T05:35:48.562155",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2059787211537821717",
@@ -105,6 +105,82 @@
         "retweet_count": 32,
         "favorite_count": 441,
         "reply_count": 101,
+        "quote_count": 4
+      }
+    },
+    {
+      "id": "2059848338028241193",
+      "text": "Appreciate the more neutral coverage by Reuters and Bloomberg on $XFAB today.\n\nAlthough it would be nicer to focus more on the structural thesis presented…\n\nAround 800 vdc power semis $NVDA exposure + with ongoing $NVDA / $NOK evaluations for photonics.\n\nAnd around CHIPS Act semiconductor sovereignty as the near term catalyst.\n\nRather than around volatility from novel information synthesis. \n\nI spend a lot of time looking at regulatory filings to find compelling things market missed you know…",
+      "created_at": "Thu May 28 04:04:48 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2059848326250668032",
+          "url": "https://pbs.twimg.com/media/HJYNI6FaoAAygs9.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2059848326233911296",
+          "url": "https://pbs.twimg.com/media/HJYNI6Ba8AAjCYx.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2059848326238101504",
+          "url": "https://pbs.twimg.com/media/HJYNI6Ca4AAdnLf.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2059537337324085541",
+        "text": "$XFAB (photonics + power semis) is an interesting long idea at $1.28B MC, that I took positions in.\n\nGiven EU CHIPS act 2 is today as the catalyst for European photonics players.\n\n> 800 VDC power semi exposure to $NVDA push through $NVTS + $POWI\n\n> Silicon Photonics / CPO exposure with $NVDA as evaluation stage for high volume manufacturing (optical transceivers/switches)\n\n> The only high-volume SiC foundry in the US.\n\n> One of the critical MEMS foundries \n\n> ~1.29 P/B, which was around what $SOI was sitting at when I went long. Depressed valuations due to legacy drag\n\n> ~6.5-8.5 fwd p/e 2028 personal est.\n\n> backstopped by Government:\n\n- EU CHIPS act, $128M Euros \n- US CHIPS act $50M PMT (department of commerce).\n\nWith likely more coming (just signals critical importance to Western supply chains).\n\nSo at a certain point with all the grants, they’re just getting the capex funded by the Governments. \n\nEU CHIPS act 2 is coming out this week, and I’m gonna go ahead and guess $XFAB might get included given they were before, and this package is specifically targeting photonics.\n\n~$1.3B MC seems compelling to me if it can pull a Soitec reversal (low p/b, very high growth segments, auto legacy drag).\n\nAs for the $NVDA silicon photonics relationships it’s under “photonixFAB”.\n\nMarkets probably missed this silicon photonics relationship (like $TSEM when I went long) with Nvidia since XFab leads this…  Just under a different name. \n\nFor power semis, XFAB is named for SiC + $NVTS. In PCN-22181, $POWI explicitly names XFAB as its foundry. \n\nGiven its exposure to power semis and photonics as growth, low P/B, gov backstop (of course dyor, just sharing my personal thoughts) \n\nThought it personally seemed compelling.",
+        "created_at": "Wed May 27 07:29:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2059537329711357952",
+            "url": "https://pbs.twimg.com/media/HJTyShsaIAAVY0x.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2059537329757519872",
+            "url": "https://pbs.twimg.com/media/HJTySh3agAAPSfC.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2059537329719750656",
+            "url": "https://pbs.twimg.com/media/HJTyShuaMAA8BPw.jpg"
+          },
+          {
+            "type": "photo",
+            "id": "2059537329719848961",
+            "url": "https://pbs.twimg.com/media/HJTyShubsAEiKB1.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 437309,
+          "friends_count": 143,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 198,
+          "favorite_count": 2151,
+          "reply_count": 291,
+          "quote_count": 95
+        }
+      },
+      "stats": {
+        "retweet_count": 27,
+        "favorite_count": 446,
+        "reply_count": 110,
         "quote_count": 4
       }
     }
