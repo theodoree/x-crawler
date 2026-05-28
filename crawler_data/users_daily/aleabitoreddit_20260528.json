@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 437309,
+    "followers_count": 446920,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260528",
-  "last_updated": "2026-05-28T05:35:48.562155",
-  "tweet_count": 4,
+  "last_updated": "2026-05-28T11:23:55.226585",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2059787211537821717",
@@ -182,6 +182,77 @@
         "favorite_count": 446,
         "reply_count": 110,
         "quote_count": 4
+      }
+    },
+    {
+      "id": "2059939664082186246",
+      "text": "Ayar’s announcement today with Wiwynn is potentially very material for $SIVE regarding CPO -> rack scale deployments.\n\nAs Wiwynn cloud clients include $AMZN, $META, $MSFT. \n\nAnd they’ve been in talks for $GOOGL TPU deployments. \n\nI think just for some reference architectures it’s around 512+ supernova light sourc a rack.\n\nSo if $SIVE is the primary laser array supplier (which we expect, given Macom + Lumentum was removed from Ayar’s site).\n\nEven modest rack deployments would be very meaningful for revenue.\n\nThis is just rack scale commercialization potential right now from $SIVE / Ayar / Wiwynn, which won’t show up in revenue financials yet.",
+      "created_at": "Thu May 28 10:07:42 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2059939655286710272",
+          "url": "https://pbs.twimg.com/media/HJZgM9Qa4AAxphr.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2059939655282462720",
+          "url": "https://pbs.twimg.com/media/HJZgM9PaEAAXjPk.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 53,
+        "favorite_count": 633,
+        "reply_count": 83,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2059956246539874485",
+      "text": "超赞的文章!\n\n看看大家怎么看待我的过往经历真的挺好玩的\n\n最近我一直在努力多跟对供应链和AI感兴趣的小伙伴们互动\n\n所以只要是想了解我思考逻辑的朋友，我都会尽量去关注",
+      "created_at": "Thu May 28 11:13:35 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2059886422249680924",
+        "text": "白毛股神 Serenity 火遍全网，到处是她的传说，但是没人讲清楚她是谁\n\n这个人非常神秘，被称为半导体的供应链之神，年内回报率 4502%\n\n我梳理了她所有推文和留言，整理了目前最全面的介绍\n\n最重要的是 @aleabitoreddit  选股思路和供应链方法论全解析👇🧵",
+        "created_at": "Thu May 28 06:36:08 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2059884357222019072",
+            "url": "https://pbs.twimg.com/media/HJYt6L6aMAA9IBC.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1328666264449867777",
+          "name": "0xkevin (🖤 , 💙)",
+          "screen_name": "0xKevin00",
+          "description": "𝐊𝐞𝐯𝐢𝐧 の撸毛日记｜Airdrop thread｜TG: Kevin00btc｜#OKX WEB3钱包减免手续费链接：https://t.co/yFYN0GOofW 邀请码：0xkvein00",
+          "followers_count": 62863,
+          "friends_count": 5568,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 17,
+          "favorite_count": 94,
+          "reply_count": 10,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 172,
+        "reply_count": 42,
+        "quote_count": 0
       }
     }
   ]
