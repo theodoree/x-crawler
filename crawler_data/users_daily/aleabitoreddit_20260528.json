@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 457392,
+    "followers_count": 459016,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260528",
-  "last_updated": "2026-05-28T17:26:57.401982",
-  "tweet_count": 14,
+  "last_updated": "2026-05-28T19:05:17.712665",
+  "tweet_count": 16,
   "tweets": [
     {
       "id": "2059787211537821717",
@@ -554,6 +554,107 @@
         "retweet_count": 8,
         "favorite_count": 256,
         "reply_count": 187,
+        "quote_count": 0
+      }
+    },
+    {
+      "id": "2060060904713261186",
+      "text": "Holy crap… My $EWY 2028 leaps are now up 428%+.\n\nSo 5.2x ROI trade, in 3 months. \n\nThats what happens when IV increases and underlying memory assets in SK Hynix / Samsung also appreciate. https://t.co/XdE21DOyoz",
+      "created_at": "Thu May 28 18:09:28 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2060060897884966912",
+          "url": "https://pbs.twimg.com/media/HJbOeNIbEAAQddB.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2022283819374854167",
+        "text": "Trade idea that I published to my shower thoughts channel: \n\nKorean Index volatility arbitrage and taking advantage of Black-Scholes models. \n\n$EWY long options seem mispriced.\n\nThis is Blackrock's Korea Index, which is majority memory (Samsung Electronics, Sk Hynix).\n\nThe stock swings 2-5+% a day, and is up 136.25% 1Y, despite priced like a normal index IV.\n\nSamsung is volatile. SK Hynix is volatile (eg. 65% - 80% est). \n\nBut the combination of the two through the index is priced way less than both low beta $GOOGL (37.33%) and $AMZN (39.12%) at ~32% IV. \n\nI've been watching $EWY for a bit and it does look volatile. \n\nAs for pricing my guess is MMs priced in IV based on historical averages (5-10 years), where the Korean index was completely flat. And were expecting calls 2 years out to revert to the mean. \n\nBut this volatility should be the new norm as markets price in the new memory supercycle (eg. $TSM went from 30% IV to 46.2% IV). \n\nLong calls should benefit from both Samsung + Sk Hynix carrying the index. \n\nAnd the main benefit is vega expansion that you won't get from $KORU. \n\nYou also can't get this option MM pinning like individual US stocks since this is Korea's national index and long term. \n\nTLDR: Individual components SK Hynix + Samsung are highly volatile.\n\nThey're basically half of the index, but options in index are priced with low volatility, perhaps due to historical 5-10 year data.  \n\nLong calls benefit from vega expansion that weren't priced in correctly as MM forward vol estimates are anchored too heavily on historical realized vol, which was low for $EWY over the past 5-10 years",
+        "created_at": "Fri Feb 13 12:16:49 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2022278295639969792",
+            "url": "https://pbs.twimg.com/media/HBCTZTiaUAAbbxr.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 459016,
+          "friends_count": 150,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 44,
+          "favorite_count": 735,
+          "reply_count": 44,
+          "quote_count": 13
+        }
+      },
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 384,
+        "reply_count": 172,
+        "quote_count": 1
+      }
+    },
+    {
+      "id": "2060068635159478351",
+      "text": "I’m actually even more bullish on $AAOI at $13B MC given all the recent laser bottlenecks…\n\nThan I was back at $2B or $6B.\n\nI also think markets missed the analyst note around potential long term supply agreements with $NVDA or $AMD. \n\nIf they’re projecting $471M in H1 2027… that’s absurd ramp. \n\nBut of course the $600M ATM is a short term overhang.\n\nJust a matter of waiting time? Given it’s more about keeping up with demand… \n\nSo more of a matter of how much they can make. \n\nProbably my favorite US-based photonics long stock now that I own.",
+      "created_at": "Thu May 28 18:40:11 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2060068547112706048",
+          "url": "https://pbs.twimg.com/media/HJbVbcuboAA_99W.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2060068547133624320",
+          "url": "https://pbs.twimg.com/media/HJbVbcza0AAOnEt.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2034623100847816807",
+        "text": "@aleabitoreddit You’re delusional if you think it’s undervalued at 6b mcap",
+        "created_at": "Thu Mar 19 13:28:43 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1981063246363676672",
+          "name": "Mi204839",
+          "screen_name": "mi20483980476",
+          "description": "",
+          "followers_count": 327,
+          "friends_count": 45,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "reply_count": 1,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 25,
+        "favorite_count": 295,
+        "reply_count": 154,
         "quote_count": 0
       }
     }
