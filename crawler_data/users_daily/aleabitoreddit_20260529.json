@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 477952,
+    "followers_count": 484240,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260529",
-  "last_updated": "2026-05-29T09:25:31.933481",
-  "tweet_count": 4,
+  "last_updated": "2026-05-29T13:24:28.146178",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2060211441890934831",
@@ -171,6 +171,51 @@
         "favorite_count": 928,
         "reply_count": 125,
         "quote_count": 17
+      }
+    },
+    {
+      "id": "2060320848196800931",
+      "text": "关于我当初对 $RPI 的投资想法是如何一步步演变的，这篇文章写得太精彩了！\n\n中文圈的朋友真的很擅长讲故事我非常乐意让更多人看到这类好文\n\n尤其是，通过这些复盘故事大家可以更好地了解我在构思原创做多逻辑时的思考过程。",
+      "created_at": "Fri May 29 11:22:23 +0000 2026",
+      "lang": "zh",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2060276116615729374",
+        "text": "Serenity @aleabitoreddit 股神树莓派真的是教科书级别的打脸了\n\n今天刚好好好捋了一下树莓派这波行情。不仅是从宏观，而是从Serenity的视角去理解——他到底看到了什么，为什么他能在所有人都不看好的时候精准抓住这个机会。\n\n先说一下当时的处境\n\n2026年2月的树莓派，说实话就是一个被市场遗忘的票。股价趴在发行价下面整整半年，一年跌了56%，市值缩到5.4亿欧元，历史新低。\n\n分析师？没一个看好的。\n\n华尔街给的营收增长预期是14-17%，基本就是“这公司还活着但也就这样了”的态度。\n\n然后2月16号，Serenity 发了条推文。\n标题很随意——“Fun Trade Idea: Long $RPI”。\n\n就这么一条推文，两天之内树莓派涨了将近90%。\n\n他的逻辑到底是什么？\n\n反复看了他从2月到5月所有关于 $RPI 的推文，把他的思路拆开来看，核心其实就一句话：同样的需求冲击，打在不同体量的公司身上，财务影响是天差地别的。\n\n展开说说，当时硅谷圈OpenClaw特别火，大家都在囤硬件来跑它的各种变体——PicoClaw、NanoClaw 什么的。最开始大家囤的是 Apple Mac Mini，这事儿很多人都知道。\n\n但 Serenity 想到了一层别人没想到的：苹果是3.7万亿美元的公司，你囤一万台 Mac Mini 对它的营收来说连个零头都算不上。\n\n树莓派呢？5.4亿市值。\n\n同样是被囤货，同样是需求暴增，放在苹果身上是噪音，放在树莓派身上就是实打实的营收变化。\n\n这个不对称性，是整个观点的灵魂。\n\n他还注意到一个很有意思的现象：以前买树莓派的人，都是学生或者爱好者，一次买一两块玩玩。但 OpenClaw 出来之后，硅谷的创业公司和个人开始一次买几十块甚至上百块，用来跑并发的 AI agent swarms。树莓派的可寻址市场一夜之间扩大了一个量级——从“教育硬件”变成了“AI 编排硬件”。\n\n有人质疑说为什么不直接用 AWS 开虚拟机？\n\nSerenity 的回答也很实在：很多 AI bot 的应用场景涉及平台 TOS 限制，比如在 Reddit 上跑自动化营销这种，你用公有云人家一查 IP 就封你，所以必须本地部署。树莓派便宜、隔离、可以大批量买，完美适配这个需求。\n\n定量预测——这才是真正牛的地方\n\n光说逻辑谁都会，但 Serenity 给了具体数字。他说如果囤货趋势持续，树莓派的营收增长可能从华尔街预期的14%飙到48-55%。\n\n当时看到这个数字我其实觉得挺激进的。华尔街共识14%，你说能到55%？差了快四倍。\n\n结果呢？3月31号财报出来，营收增长58%。\n\n58%。比他自己预测的55%还高。比华尔街预期的14%高了四倍多。\n\n说实话看到这个数字的时候我是有点震撼的，不是说他运气好蒙对了——他的预测框架是有逻辑支撑的：消费者业务占营收三分之一，OpenClaw 带来的新增购买量是可以估算的，树莓派在廉价开发板领域几乎是垄断地位（因为以前没人有动力去竞争教育市场）。这些加在一起，48-55%的预测其实是有根据的。\n\n说回媒体的反应\n\n推文发出后两天，Reuters、Bloomberg、The Guardian 都报道了。但紧接着，Financial Times 和 The Telegraph 的反应是什么？\n\n给树莓派贴了个“Meme Stock”的标签。\n\nThe Telegraph 直接说这是“mass stupidity”。\n一个欧洲媒体说 RPI 的股价会“crash back to reality”。\n\nSerenity 当时就很火大。他反复强调的是：这跟 GME 那种轧空完全不是一回事。他的论点从头到尾都是基本面驱动的——营收增长、TAM 扩张、估值便宜。\n\n他原文里甚至列了资产负债表的数字：280-300M 营收，75M+毛利，25%毛利率，净现金28M。\n\n这哪里像 meme stock 了？\n\n但媒体不管这些。一个小众标的突然暴涨，他们的第一反应就是贴标签。这其实恰恰说明了为什么这个机会存在——因为没人认真研究过这家公司。\n\n树莓派在大众认知里就是个“教育小玩具”，怎么可能是正经投资标的呢？\n\n到了5月份财报验证之后，那些写过“mass stupidity”的媒体全都装没事发生。Serenity 在5月28号的推文里专门截了当时那些文章的图，问了一句：媒体写了这些诽谤性的东西，结果被打脸了，怎么就能假装什么都没发生？\n\n讲真，这个问题我也想问题哈哈哈\n\n回过头来看这整件事，我觉得 Serenity 真正厉害的地方不是他发现了 OpenClaw 这个趋势。说实话当时推特上到处都在讨论 OpenClaw，这不是什么秘密信息。\n\n他厉害的地方在于转译能力——把“产品层面的需求变化”翻译成“具体公司的财务影响”，然后精准定位到一个市值足够小、能被这个需求实质性撬动的标的。\n\n这种能力其实很稀缺。大部分人看到 OpenClaw 火了，想到的是“AI 好牛”或者“苹果受益”。\n\n不过能想到“等等，树莓派也是个上市公司，而且市值只有5亿”的人，真的不多。\n\n还有一点我很欣赏的是他的风险认知：他自己说了，主要风险是 OpenClaw 可能只是短期潮流，不是结构性需求。另外上游 LPDDR4内存涨价也会压缩利润。\n\n所以他只是小仓位参与，没有 all-in。\n\n这种态度反而让我更信任他的判断。一个人如果对自己的论点过于自信、重仓押注，我反而会怀疑他是不是在给自己的持仓喊单。但 Serenity 从头到尾都很坦诚：这是个有意思的机会，逻辑说得通，但不确定性也在，所以仓位控制好。\n\n从估值角度算一笔账来看：财报前树莓派大概2x forward sales。一个年增长58%、有实际利润的硬件公司，2倍远期市销率。放在美股，同等增速的公司随便给你10-15倍。\n\n就算打个折考虑到欧洲市场的折价和小盘股流动性问题，2倍也太便宜了。\n\n他在3月31号财报后算的估值更有意思：2026年 forward P/E 大概20倍，2027年13倍，2028年不到10倍。\n\n对于一个还在加速增长的公司来说，这个估值真的不贵。\n\n这个案例让我想到一个更大的问题：市场上有多少这样的机会——一个真实的需求变化已经在发生，但因为标的太小众、太边缘，没有分析师覆盖，没有机构关注，所以定价完全没有反映现实？\n\nSerenity 说了一句话我印象很深：“people just forgot Raspberry Pi was a publicly traded stock”\n\n人们只是忘了树莓派还是个上市公司。\n\n就是这么简单。有时候最大的 alpha 不是来自什么高深的模型或者内幕消息，而是来自一个所有人都看得到、但没人费心去想的连接。\n\n共勉",
+        "created_at": "Fri May 29 08:24:38 +0000 2026",
+        "lang": "zh",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2060276098211192832",
+            "url": "https://pbs.twimg.com/media/HJeSMg0bIAA1CY7.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1890601565649821696",
+          "name": "Musolsol.𝟎𝐱𝐔",
+          "screen_name": "MMMusol",
+          "description": "06 |  21年入web3 |\n长期主义 | 不定时投机\n侠客交易员 | 宏观 | AI | 文学\nFounder of @SWUFEBA\n投名状于@0xUClub @bamboozcrypto 门下\nStart From the Bottom.",
+          "followers_count": 4320,
+          "friends_count": 833,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 8,
+          "favorite_count": 115,
+          "reply_count": 20,
+          "quote_count": 5
+        }
+      },
+      "stats": {
+        "retweet_count": 28,
+        "favorite_count": 425,
+        "reply_count": 90,
+        "quote_count": 2
       }
     }
   ]
