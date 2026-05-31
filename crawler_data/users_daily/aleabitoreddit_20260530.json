@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 514502,
+    "followers_count": 515624,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260530",
-  "last_updated": "2026-05-30T23:30:18.184255",
-  "tweet_count": 12,
+  "last_updated": "2026-05-31T01:18:17.736653",
+  "tweet_count": 13,
   "tweets": [
     {
       "id": "2060536520952754374",
@@ -323,6 +323,56 @@
         "retweet_count": 29,
         "favorite_count": 487,
         "reply_count": 81,
+        "quote_count": 2
+      }
+    },
+    {
+      "id": "2060872630111228150",
+      "text": "Just to add some actual pressure in terms of repercussions…\n\nIf you see folks spreading disinformation:\n\n-&gt; Report Account for Spam\n-&gt; Block Account.\n\nReplying has the opposite effect and just gives disinformation campaigns engagement. https://t.co/KA4k6KkFMb",
+      "created_at": "Sat May 30 23:54:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2060872624444669952",
+          "url": "https://pbs.twimg.com/media/HJmwu6NaAAAMpxn.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2060872624444682240",
+          "url": "https://pbs.twimg.com/media/HJmwu6NaMAARtiY.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2060855976513941567",
+        "text": "I think $SIVE should just become a full American company, and use NASDAQ listing as the first step. \n\n> US cap table / large ownership + US CHIPS act support already\n\n> larger valuation premiums + M&A opportunities.\n\n> local Swedish media blatant disinformation from underwater short sellers, isn’t helpful for AI photonics growth\n\n> lot of more funding opportunities + support from US institutions / funds / indexes\n\nBy preserving EU efforts under a subsidiary and having a US parent company.\n\nThis helps Sivers become a major US optical player, not just a Swedish semi trying to explain itself to local markets that doesn’t understand. \n\nI do think management sees a path forward for $SIVE to become the next dominant US photonics giant like $LITE.",
+        "created_at": "Sat May 30 22:48:48 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 515624,
+          "friends_count": 159,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 53,
+          "favorite_count": 805,
+          "reply_count": 105,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 278,
+        "reply_count": 25,
         "quote_count": 2
       }
     }
