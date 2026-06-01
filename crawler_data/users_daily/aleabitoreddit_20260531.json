@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 526471,
+    "followers_count": 532148,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260531",
-  "last_updated": "2026-05-31T14:41:16.358620",
-  "tweet_count": 3,
+  "last_updated": "2026-06-01T01:21:39.467254",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2060896847695384736",
@@ -90,6 +90,62 @@
         "favorite_count": 227,
         "reply_count": 230,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2061233888454988260",
+      "text": "Can’t believe $ARM went straight from $134 to $354 when I took positions.\n\nThe ~$15B annual revenue coming from these cool name AI CPUs seemed a bit insane at the time.\n\nAt Computex, looks like $NVDA is unveiling new ARM based processors too.\n\nCounterpoint them shows them dominating AI ASIC servers by 2029, projections which is crazy…\n\nGPU:CPU ratios are requiring more and more CPUs.\n\nSeems like they have everything going for them?",
+      "created_at": "Sun May 31 23:50:29 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2061233878766120960",
+          "url": "https://pbs.twimg.com/media/HJr5Srba8AAYAzE.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2061233878757724160",
+          "url": "https://pbs.twimg.com/media/HJr5SrZa0AAIx94.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2046419572203683922",
+        "text": "Bullish on $ARM, given the new bottleneck shifting back to CPUs. MS shows stuff like Orchestration/RAG requiring CPUs. \n\nBut I'm predicting parts of localized inference to be handled by CPUs more and more... as models like Gemma get  lightweight in the future. \n\nNot every robot needs to be able to solve the mysteries of the universe. \n\nData centers will need an astronomical amount of traditional CPU compute (AWS Graviton, $GOOGL Axion, and $MSFT Cobalt), which are all ARM based.\n\n$META + OpenAI are also buyers of the AGI CPU.\n\nAnd AI will flow down to edge. \n\n$15B annual revenue target.. Starting to look reasonable?",
+        "created_at": "Tue Apr 21 02:43:41 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2046417822004498432",
+            "url": "https://pbs.twimg.com/media/HGZWKq6bUAAzmam.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 532148,
+          "friends_count": 160,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 96,
+          "favorite_count": 1109,
+          "reply_count": 84,
+          "quote_count": 21
+        }
+      },
+      "stats": {
+        "retweet_count": 30,
+        "favorite_count": 410,
+        "reply_count": 90,
+        "quote_count": 2
       }
     }
   ]
