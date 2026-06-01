@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "That famous @Reddit WSB Trader now on X. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 541979,
+    "followers_count": 542969,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260601",
-  "last_updated": "2026-06-01T18:13:08.330682",
-  "tweet_count": 17,
+  "last_updated": "2026-06-01T20:34:12.182508",
+  "tweet_count": 18,
   "tweets": [
     {
       "id": "2061245108427935752",
@@ -729,6 +729,51 @@
         "favorite_count": 754,
         "reply_count": 236,
         "quote_count": 8
+      }
+    },
+    {
+      "id": "2061545299055882675",
+      "text": "Macron announces that $NBIS invests €8B to build out AI Cloud Infrastructure in France. \n\nThis was my favorite comment: \n\n“What about the Water” https://t.co/nlTb37BgE3",
+      "created_at": "Mon Jun 01 20:27:55 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2061545291359404032",
+          "url": "https://pbs.twimg.com/media/HJwUhRvbQAA5Lyw.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2061518139280810192",
+        "text": "Nebius choisit la France.\n\nL’acteur du Cloud IA dévoile un projet de plus de 8 milliards d’euros d’investissement pour déployer des infrastructures et des services de cloud, avec une capacité cible de 240 MW, positionnant le site parmi les plus puissants du continent.\n\nBedankt!",
+        "created_at": "Mon Jun 01 18:40:00 +0000 2026",
+        "lang": "fr",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1976143068",
+          "name": "Emmanuel Macron",
+          "screen_name": "EmmanuelMacron",
+          "description": "Président de la République française.",
+          "followers_count": 10626208,
+          "friends_count": 712,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 252,
+          "favorite_count": 2080,
+          "reply_count": 154,
+          "quote_count": 120
+        }
+      },
+      "stats": {
+        "retweet_count": 6,
+        "favorite_count": 168,
+        "reply_count": 38,
+        "quote_count": 1
       }
     }
   ]
