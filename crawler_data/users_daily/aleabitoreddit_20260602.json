@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of impersonators. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 547936,
+    "followers_count": 549581,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260602",
-  "last_updated": "2026-06-02T05:46:16.570996",
-  "tweet_count": 2,
+  "last_updated": "2026-06-02T07:56:06.293709",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2061624122560692587",
@@ -66,6 +66,66 @@
         "favorite_count": 747,
         "reply_count": 99,
         "quote_count": 18
+      }
+    },
+    {
+      "id": "2061704502076747781",
+      "text": "The most consequential event of an entire company’s history.\n\nGot released today with a photonics player.\n\nMaking them the functional standard laser for CPO, Pluggables, and SiPH.\n\nFor companies like $NVDA, $AVGO, $AMD, to $MRVL using the foundry.\n\nDoes anyone know the name?",
+      "created_at": "Tue Jun 02 07:00:32 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 44,
+        "favorite_count": 731,
+        "reply_count": 175,
+        "quote_count": 7
+      }
+    },
+    {
+      "id": "2061718299139100931",
+      "text": "DID YOU LISTEN ANON?\n\nReuters: New Sivers x GFS strategic collaboration.\n\n$SIVE has now announced its lasers will be integrated into reference designs built on Globalfoundries Silicon Photonics Platform.\n\nFor pluggable optical transcivers, CPO, and SiPH.\n\nThis is fundamentally the most groundbreaking news for Sivers in history.\n\nAs Broadcom, Nvidia, Marvell, AMD, and anyone who goes through GFS silicon photonics has Sivers embedded as a default laser route.\n\nI personally think this news alone should easily 2x or 3x Sivers market cap over the medium term, given how fundamental this is to their revenue.\n\nTo have Sivers be the standard laser route for the many hyperscalers that use the world's leading photonics foundry.",
+      "created_at": "Tue Jun 02 07:55:22 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2061716924372025344",
+          "url": "https://pbs.twimg.com/media/HJywnoibAAAw3Z-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2061704502076747781",
+        "text": "The most consequential event of an entire company’s history.\n\nGot released today with a photonics player.\n\nMaking them the functional standard laser for CPO, Pluggables, and SiPH.\n\nFor companies like $NVDA, $AVGO, $AMD, to $MRVL using the foundry.\n\nDoes anyone know the name?",
+        "created_at": "Tue Jun 02 07:00:32 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "I only use X, beware of impersonators. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 549581,
+          "friends_count": 163,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 44,
+          "favorite_count": 731,
+          "reply_count": 175,
+          "quote_count": 7
+        }
+      },
+      "stats": {
+        "retweet_count": 8,
+        "favorite_count": 41,
+        "reply_count": 1,
+        "quote_count": 0
       }
     }
   ]
