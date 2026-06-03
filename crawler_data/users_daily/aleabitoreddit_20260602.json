@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of impersonators. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 560462,
+    "followers_count": 563063,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260602",
-  "last_updated": "2026-06-02T21:15:41.503360",
-  "tweet_count": 7,
+  "last_updated": "2026-06-03T01:25:46.987103",
+  "tweet_count": 8,
   "tweets": [
     {
       "id": "2061624122560692587",
@@ -218,6 +218,57 @@
         "favorite_count": 422,
         "reply_count": 141,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2061958857132585076",
+      "text": "Good times with $AEHR, it’s now ~$3.5B MC.\n\nHaven’t mentioned it as much since there’s nothing too new. \n\nJust waiting on volume orders for these types of players like $LPK, and others. https://t.co/W8k0ce3RSE",
+      "created_at": "Tue Jun 02 23:51:15 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2061958848999829504",
+          "url": "https://pbs.twimg.com/media/HJ2MpgAbsAAEoGN.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2039388766083944750",
+        "text": "$AEHR looks extremely promising at ~$1.1B MC. \n\nAehr is starting to remind me of an early $TER, mixed with pre-earnings $AAOI.  \n\nIf we look at the timeline and speculated customers:\n\nFeb 11th: Sonoma production win for Hyperscaler's AI ASIC processors. (likely $GOOGL, $AMZN, $META).\n\n- Probably Google? Aehr bought Incal, who was speculated to be used by Google for their TPUs. \n\nFeb 26th: $14 million from AI lead customer (likely $AMD, $NVDA)\n\n- Probably $AMD here for Instinct MI300/MI400. \n\nMarch 3rd: Lead silicon photonics customer for one FOX-XP system (likely $INTC siph)\n\n- Very likely $INTC has been their lead customer. \n\nMarch 31st: Initial order from major new silicon photonics customer (likely $AVGO, $MRVL, $CSCO )\n\n- New customer (rules out Intel), prob one of these transitioning to 800G/1.6T silicon photonics transceivers\n\n(All speculative, very confidential BOM)\n\nRegardless. This timeline is just bottling up for $AEHR.  \n\nCould be next earnings. Or two quarters from now. \n\nBut feels like a matter of time before we see mass orders.",
+        "created_at": "Wed Apr 01 17:05:46 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2039388754545385472",
+            "url": "https://pbs.twimg.com/media/HE1dRGGaoAAB7pZ.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "I only use X, beware of impersonators. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 563063,
+          "friends_count": 168,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 71,
+          "favorite_count": 717,
+          "reply_count": 55,
+          "quote_count": 8
+        }
+      },
+      "stats": {
+        "retweet_count": 26,
+        "favorite_count": 445,
+        "reply_count": 112,
+        "quote_count": 2
       }
     }
   ]
