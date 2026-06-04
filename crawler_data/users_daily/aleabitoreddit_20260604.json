@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of impersonators. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 581976,
+    "followers_count": 583431,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260604",
-  "last_updated": "2026-06-04T05:47:45.857869",
-  "tweet_count": 3,
+  "last_updated": "2026-06-04T07:53:27.128525",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2062353660928278820",
@@ -106,6 +106,21 @@
         "favorite_count": 1878,
         "reply_count": 331,
         "quote_count": 33
+      }
+    },
+    {
+      "id": "2062433114933334487",
+      "text": "$SIVE looks like both a chokepoint and a bottleneck for CPO next year. \n\nKeep seeing information published from nontechnical people who miss any nuances.\n \nHere’s the reason why:\n\n1. CW lasers are bottlenecked signaled by $LITE earnings.\n\nLaser fabs are heavily allocated to EML likely from former $NVDA contracts.\n\n-> Sumitomo/Furukawa = bottleneck \n-> Win Semi = bottleneck\n\n$SIVE does fab-lite, so are they a bottleneck? \n\nYes, $SIVE sits in the laser bottleneck since control output supply of CW lasers from Win Semi and other fabs from allocation way early on (CEO stated they working with more capacity from other players as well).\n\nPerfect example is Kioxia/Sandisk. $SNDK controls NAND output, so they’re a bottleneck because they control final pricing. \n\nDemand exceeding supply from Ayar, Jabil, other pluggable vendors + Nvidia NVLink CPO ecosystem… final laser supply owned by $SIVE makes Sivers a bottleneck.\n\n$SIVE is also likely primary/sole source for Jabil, Gen-1 Ayar, $MRVL Celestial, and other hyperscaler asic/merchant CPO routes. So no way to get around it (can’t hot-swap single channel cw lasers with Sivers)\n\n 2. $SIVE is a chokepoint over CPO.\n\n$NVDA use $COHR, $LITE (which likely sources external cw capacity from Japanese competitors)\n\n$AVGO is likely vertically integrated as well.\n\nHowever: the entire ecosystem around it from ASIC programs (Marvell, AlChip, etc) and merchant programs (Ayar, Lightmatter, Lightelligence)\n\nAre all likely designed around $SIVE. \n\nAyar for example, likely tried to multi-source with $MTSI / $LITE back in 2022 but their lasers probably couldn’t match the level of Sivers specification with arrays (removed Lumentum / Macom from their supply chain site recently)\n\nIf there’s no alternative at least for the initial generations (obviously they’re working to multi-source). That makes $SIVE a structural chokepoint to go through for lasers.\n\nEven if you look at the 1.6T LRO $JBL designed, they achieved a “drastic moat” with performance built around $SIVE likely sole source. \n\n$SIVE is also the foundry level reference laser design for $GFS, which your hyperscalers use like $AMD (likely using Sivers + maybe Ayar for gen1):\n\nIf every major player, who hasn’t achieved vertical integration (Nvidia/Broadcom) is using Sivers for CPO…\n\nThat makes them a chokepoint. \n\nJust look at the entire CPO $NVDA NVLink ecosystem partners: every single one are all likely using Sivers. And they all use $GFS as well (where Sivers is default reference).\n\nSo $SIVE is both a chokepoint and bottleneck when CPO really scales up H2 2027, over one of the biggest architectural shifts of all time (near $0 -> $81B or $91B TAM in the next 1 1/2 years from GS research note)\n\nThis is why I say $SIVE looks like it could be the next $75B $LITE over the next couple years. \n\nAll of this should play out next year. \n\nAnd it’s still trading less than a company with $50M in purchase agreements that buys Sivers lasers to repackage them.",
+      "created_at": "Thu Jun 04 07:15:47 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 76,
+        "favorite_count": 623,
+        "reply_count": 107,
+        "quote_count": 7
       }
     }
   ]
