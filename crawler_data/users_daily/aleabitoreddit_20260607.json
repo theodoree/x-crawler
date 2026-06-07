@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of impersonators. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
-    "followers_count": 697335,
+    "followers_count": 698143,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260607",
-  "last_updated": "2026-06-07T10:54:05.852145",
-  "tweet_count": 3,
+  "last_updated": "2026-06-07T11:41:12.671141",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2063442668844167613",
@@ -108,6 +108,57 @@
         "favorite_count": 170,
         "reply_count": 71,
         "quote_count": 3
+      }
+    },
+    {
+      "id": "2063583856025108986",
+      "text": "Oh look… $NVDA CEO warned memory shortage is expected to persist for many years, due to massive scaling demand of AI infrastructure.\n\nWith further announcements tomorrow.\n\n$MU and $EWY (Samsung/SK Hynix) operating profit projections aren’t looking too crazy anymore? https://t.co/OvjyrifRtO",
+      "created_at": "Sun Jun 07 11:28:25 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2063583844679507968",
+          "url": "https://pbs.twimg.com/media/HKNSkspbYAAxtX7.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2014278521741553793",
+        "text": "$MU looks like the next Nvidia. \n\nWhen Nvidia was $400B (now $4.5T+), markets thought GPUs were a short-term cycle.\n\nSame with memory today. \n\nAI has broken that cycle.\n\nWith the same \"Made in America\" and White House backing like $INTC:\n\nDon't overthink things with Micron. https://t.co/LBhbVjoKGz",
+        "created_at": "Thu Jan 22 10:06:37 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2014278278715187201",
+            "url": "https://pbs.twimg.com/media/G_QnbCGaoAER6R7.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "I only use X, beware of impersonators. \n\nAI/Semi Supply Chain Analyst\n\nex. RISC-V FDN, AI research scientist; now trading unknown bottlenecks.",
+          "followers_count": 698143,
+          "friends_count": 173,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 137,
+          "favorite_count": 1663,
+          "reply_count": 113,
+          "quote_count": 33
+        }
+      },
+      "stats": {
+        "retweet_count": 45,
+        "favorite_count": 303,
+        "reply_count": 88,
+        "quote_count": 5
       }
     }
   ]
