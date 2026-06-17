@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Now publishing free research on AI chokepoints.",
-    "followers_count": 852875,
+    "followers_count": 853301,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260617",
-  "last_updated": "2026-06-17T10:42:44.758932",
-  "tweet_count": 3,
+  "last_updated": "2026-06-17T12:30:28.801550",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2067071462360666165",
@@ -108,6 +108,77 @@
         "favorite_count": 754,
         "reply_count": 97,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2067206734427697196",
+      "text": "Trendforce reports that $AMD is actively trying to secure CW laser supply with multiple major procurement orders...\n\nIs probably just the start of the bottleneck?  \n\nThere's not much independent capacity in Western supply chains left other than $SIVE or $AAOI and maybe Macom. \n\nEspecially after Lumentum/Coherent got locked up with multi-year agreements with Nvidia. (disclosure, own Sive and aaoi)\n\nLumentum is already CW laser constrained and is likely buying off Japanese companies like Sumitomo/Furukawa if I had to guess per ER, and those are probably running at max capacity.  \n\nFrom the Trendforce report, this is:\n\n\"to ensure that its future capacity will not be constrained by NVIDIA and other major Cloud Service Providers (CSPs).\"\n\nI wouldn't be surprised if other hyperscalers like Amazon, Microsoft, and others saw Nvidia / AMD signing LTAs, and are trying to secure capacity next. \n\nA lot of it is game theory on not getting choked out by competitors, and looks like AMD is tipping the first domino after Nvidia.\n\nBut my opinion is that this just goes and show how invaluable this CW laser chokepoint is and the companies are inside it.",
+      "created_at": "Wed Jun 17 11:24:26 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2067204210115129344",
+          "url": "https://pbs.twimg.com/media/HLAvRs4asAAR-AS.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2067204260266471424",
+          "url": "https://pbs.twimg.com/media/HLAvUntbcAACulF.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 50,
+        "favorite_count": 621,
+        "reply_count": 105,
+        "quote_count": 12
+      }
+    },
+    {
+      "id": "2067216066905088237",
+      "text": "I mean... if i had to guess, $LPK did claim \"80% of customers among major global players have selected LPKF equipment\".\n\nKinda clear glass substrates is the next packaging shift! \n\nFrom est. timelines, major players like Absolics is ramping H2 2026, Samsung Electro Mechanics 2027 + their partners.  \n\nThen there's major shifts like TSM CoPoS 2028 (seems possible $LPK upstream exposure, unconfirmed). \n\nJust that claim of 80% is staggering and my personal expectation was markets might price it in eventually  as they volume ramp (disclosure, own LPK). \n\nDon't think there needs to be any major news, probably just getting closer to HVM timelines.",
+      "created_at": "Wed Jun 17 12:01:32 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2067212002867732480",
+          "url": "https://pbs.twimg.com/media/HLA2XTJa4AAHWkL.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2067211635526131887",
+        "text": "@aleabitoreddit $lpk is ripping!!!! I didn’t see any big news other than sdax inclusion and some potential institutional ownership",
+        "created_at": "Wed Jun 17 11:43:55 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1107787839520104448",
+          "name": "Test test",
+          "screen_name": "TesttestI23",
+          "description": "Test test",
+          "followers_count": 125,
+          "friends_count": 308,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 4,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 15,
+        "favorite_count": 283,
+        "reply_count": 55,
+        "quote_count": 4
       }
     }
   ]
