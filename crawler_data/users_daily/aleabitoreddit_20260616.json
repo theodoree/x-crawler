@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Now publishing free research on AI chokepoints.",
-    "followers_count": 847991,
+    "followers_count": 850375,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260616",
-  "last_updated": "2026-06-16T14:04:24.124129",
-  "tweet_count": 8,
+  "last_updated": "2026-06-17T01:21:53.305421",
+  "tweet_count": 9,
   "tweets": [
     {
       "id": "2066676986324648239",
@@ -285,6 +285,57 @@
         "favorite_count": 944,
         "reply_count": 207,
         "quote_count": 16
+      }
+    },
+    {
+      "id": "2067033934194696469",
+      "text": "Mizuho Research: No delays on CPO or 800v dc. \n\nRevised up optical engine projections from $NVDA demand ramp.  \n\n- Next phase in CPO for long term, believes InP DFB lasers remains the focus (hello $SIVE). VSCEL and microLED remain \"unproven\" in short distance in rack + chip to chip for 1.6T+ \n\n- HVDC deployment on track, 800VDC incremental volume 2027, with higher penetration in 2028.\n\nWhat a stupid CPO related selloff recently.",
+      "created_at": "Tue Jun 16 23:57:48 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2067030204183359488",
+          "url": "https://pbs.twimg.com/media/HK-RBORaMAAEM5y.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2064554061253451815",
+        "text": "$NVDA Networking Senior Vice President refuting recent analyst reports on delays:\n\n- “ the most exciting stuff is co-packaged optics.”\n- There is no delay in H2 CPO product delivery schedule. \n- CPO switch will enter mass production and begin ramping up customer deliveries as planned in the second half of 2026\n\nThis was a media article, original interview source credit should have been credited to Tae Kim / Computex. \n\nSomething fun to note too was this quote “Gilad was VERY enthusiastic about the CPO ramp from Nvidia.” \n\nBoth near term and long term.\n\nYeah… I’m extremely bullish on CPO alongside Nvidia.",
+        "created_at": "Wed Jun 10 03:43:40 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2064554054945284096",
+            "url": "https://pbs.twimg.com/media/HKbE-XibIAA0MVM.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Now publishing free research on AI chokepoints.",
+          "followers_count": 850375,
+          "friends_count": 174,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 96,
+          "favorite_count": 1201,
+          "reply_count": 356,
+          "quote_count": 21
+        }
+      },
+      "stats": {
+        "retweet_count": 55,
+        "favorite_count": 570,
+        "reply_count": 149,
+        "quote_count": 10
       }
     }
   ]
