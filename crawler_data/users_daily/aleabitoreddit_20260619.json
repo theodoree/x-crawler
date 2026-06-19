@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Now publishing free research on AI chokepoints.",
-    "followers_count": 860649,
+    "followers_count": 861569,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260619",
-  "last_updated": "2026-06-19T05:54:58.011991",
-  "tweet_count": 2,
+  "last_updated": "2026-06-19T10:39:56.375439",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2067795114211340290",
@@ -45,6 +45,51 @@
         "favorite_count": 438,
         "reply_count": 79,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2067896191338311750",
+      "text": "Bernstein is basically the institutional version of Jim Cramer:\n\nTells retail Kioxia looks like it’s going to crash, gives a -50% PT.\n\nBunch of retail sells.\n\nStock proceeds to skyrocket right after, with another +12% today. https://t.co/kcdO6PlZ7b",
+      "created_at": "Fri Jun 19 09:04:06 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2067896184811982848",
+          "url": "https://pbs.twimg.com/media/HLKkn7gakAAn0Q-.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2067117980656533764",
+        "text": "Bernstein is legit the dumbest analyst firm I’ve seen calling for a 50% crash in Kioxia.\n\nThey gave $INTC a $36 PT back in Jan and now it’s $118.\n\nGood lesson to ignore institutional reports that get published for retail consumption. \n\nThey’re not here to help retail investors.",
+        "created_at": "Wed Jun 17 05:31:46 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Now publishing free research on AI chokepoints.",
+          "followers_count": 861569,
+          "friends_count": 174,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 82,
+          "favorite_count": 1698,
+          "reply_count": 122,
+          "quote_count": 12
+        }
+      },
+      "stats": {
+        "retweet_count": 30,
+        "favorite_count": 549,
+        "reply_count": 85,
+        "quote_count": 9
       }
     }
   ]
