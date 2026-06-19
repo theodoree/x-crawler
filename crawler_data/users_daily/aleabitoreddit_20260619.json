@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Now publishing free research on AI chokepoints.",
-    "followers_count": 860183,
+    "followers_count": 860649,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260619",
-  "last_updated": "2026-06-19T03:24:22.720045",
-  "tweet_count": 1,
+  "last_updated": "2026-06-19T05:54:58.011991",
+  "tweet_count": 2,
   "tweets": [
     {
       "id": "2067795114211340290",
@@ -30,6 +30,21 @@
         "favorite_count": 296,
         "reply_count": 137,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2067823653883113578",
+      "text": "Just a random thought, maybe someone can do a startup to solve this:\n\nInteresting trend I’m seeing is human-recognized content farm spam sites like “Ad Hoc News”.\n\nFlooding tens of old/repeated misleading AI news every day on specific companies for views.\n\nBut it’s treated highly + fresh to AI retrieval. So LLMs like Gemini get polluted citing that data.\n\nThen you have people without technical backgrounds like college students making writeups on things they don’t understand, using AI.\n\nThen LLMs get polluted in training/retrieval with that too, so you see people conflating the wrong technical nuance like comparing single channels of a cw dfb laser array vs. single high power lasers outputs.\n\nSo you have a feedback loop of low tier AI feeding into frontier AI. With model retrieval getting contaminated.",
+      "created_at": "Fri Jun 19 04:15:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 9,
+        "favorite_count": 438,
+        "reply_count": 79,
+        "quote_count": 5
       }
     }
   ]
