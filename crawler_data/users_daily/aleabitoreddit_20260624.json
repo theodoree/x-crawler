@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
-    "followers_count": 881543,
+    "followers_count": 882194,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260624",
-  "last_updated": "2026-06-24T05:30:21.494509",
-  "tweet_count": 1,
+  "last_updated": "2026-06-24T07:26:27.538263",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2069633445903675865",
@@ -35,6 +35,90 @@
         "favorite_count": 525,
         "reply_count": 140,
         "quote_count": 13
+      }
+    },
+    {
+      "id": "2069655980456149142",
+      "text": "Don’t quite think “siphoned off” is the correct term. \n\nIt’s capex for massive revenue increase or margin increase down the line.\n\n$AMZN is probably my favorite hyperscaler right now and example to give.\n\nAmazon’s headcount is absurd, like ~1.57M. If the capex goes into automating their workforce with LLMs.\n\nThen transitioning into physical AI:\n\n- things from self driving (deliveries)\n- robotics (Amazon warehouses, shipping automation).\n\n+ revenue increase from building out AWS compute with Trainium and possibly selling chips too with the Neocloud strat.\n\nIt’s probably the clearest path forward compared to every hyperscaler out there. \n\n$TSLA optimus use case targets is extremely broad as a pitch, but Amazon already has a specific reason to scale robotics for internal opex optimization.\n\nAs for $GOOGL, probably 2nd right now, AI capex was necessary for defending its Google Search moat Gemini from ChatGPT\n\nThey also have Google Cloud revenue with efficient TPUs + can sell TPUs like Nvidia GPUs.\n\nGemini user volumes keep going up (despite the lack of contention in frontier benchmarks); and AI strategy to be working for ad optimization too.\n\nBut there’s less clear paths with physical AI stuff ig?\n\nMicrosoft and Meta are still trying to convince the market why capex is necessary, (we’re kinda seeing that in effect with Meta’s 30%+ Y/Y revenue growth), but doesn’t look like they’re convinced. \n\nAs for market narratives, Microsoft Maia seems to be behind, their AI development was stunted from OpenAi investments, so sentiment is kinda in the ground. \n\nBut think that will change down the road like the 180 with Google.\n\nI’m sure all the hyperscalers are seeing the leader effect right now:\n\nIf you have the leading LLM, people will keep using it. That LLM gets smarter from all the training data; and that gap might be structural.\n\nWhich is why everyone is kinda rushing the buildout right now, but for some the immediate incentives seem obvious.",
+      "created_at": "Wed Jun 24 05:36:52 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2069219882982678632",
+        "text": "@aleabitoreddit 你说的这些AI股涨的前提是Google/Microsoft/Amazon这种hyperscaler继续加大投资，但是当他们的利润全都被半导体公司赚走的时候还有会动力加大资本支出吗？现在这个趋势其实对后续股市非常危险，当hyperscaler不再愿意无限扩大支出，又或者anthropic营收涨幅不及预期的话股市很容易一夜崩盘。",
+        "created_at": "Tue Jun 23 00:43:59 +0000 2026",
+        "lang": "zh",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "435659708",
+          "name": "J",
+          "screen_name": "NewOpenMindset",
+          "description": "",
+          "followers_count": 96,
+          "friends_count": 59,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 11,
+          "reply_count": 8,
+          "quote_count": 1
+        }
+      },
+      "stats": {
+        "retweet_count": 23,
+        "favorite_count": 402,
+        "reply_count": 76,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2069675057300082728",
+      "text": "OpenLight (private) seems to get bigger and bigger every time I look at it.\n\nIf you’re curious about their public ecosystem outside of Advantest:\n\n$JBL ( $SIVE partner ) for scaling PICs\n$MRVL and $MXL for DSPs\n$TSEM for the foundry.\n$300394.SZ / TFC Optical (OSAT/subassembly)\n\nCan often get exposure into private growth through public equities if you’re not an accredited investor.\n\nSince optical players look very interconnected.",
+      "created_at": "Wed Jun 24 06:52:41 +0000 2026",
+      "lang": "en",
+      "media": [],
+      "retweet": null,
+      "quoted": {
+        "id": "2069390514278015074",
+        "text": "Advantest (TSE: 6857 / $ATEYY) × OpenLight: Silicon Photonics HVM Test Partnership\n\nAdvantest and OpenLight have announced a partnership to co-develop scalable, high-volume manufacturing (HVM) test solutions for silicon photonics (SiPh) devices. The demand logic runs cleanly through the release: expanding AI/HPC workloads drive data-center adoption of SiPh and co-packaged optics (CPO), which in turn surfaces a production-stage test bottleneck. That bottleneck is the high-volume testing of electro-optical (EO) devices, specifically the Optical Engine. SiPh devices demand simultaneous electrical measurement and optical coupling/alignment, so conventional electrical ATE infrastructure alone cannot deliver the throughput needed to scale. The two companies target an end-to-end test framework spanning wafer sort through final test, with OpenLight contributing its III-V heterogeneous integration PASIC (Photonic ASIC) and PDK, and the release citing a recent $50M Series A-1 round (total funding $84M) as evidence of commercial momentum.\n\nAdvantest enters SiPh test directly, sharpening the ATE duopoly contest. This move puts Advantest in head-to-head positioning against Teradyne's Photon 100 in the EO/tester layer, with both incumbents now moving to absorb production-test demand from fabless PIC design houses like OpenLight.\n\nThe constraint is structural, not incremental. Combining electrical test with optical alignment at volume is the hard part; framing it as \"end-to-end, wafer sort to final test\" signals the partners are targeting the full insertion chain rather than a single station, which is where throughput economics actually break.\n\nRead against the \"Three Pillars\" frame, this is an ATE-side consolidation signal. It complements rather than displaces the AEHR/FORM/KEYS wafer-test framework (https://t.co/XvOhml7Zok), but the specific division of labor (optical alignment method, WLBI applicability, insertion architecture) is unstated and rests on a promotional first-party release, so it warrants cross-checking against later conference disclosures.",
+        "created_at": "Tue Jun 23 12:02:00 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2069389953948409857",
+            "url": "https://pbs.twimg.com/media/HLfzMvLbYAE0CDU.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1917312438858588161",
+          "name": "Photon Capital",
+          "screen_name": "PhotonCap",
+          "description": "Seeing tech through a different wavelength. Photonics & semiconductor research",
+          "followers_count": 57296,
+          "friends_count": 2022,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 11,
+          "favorite_count": 49,
+          "reply_count": 3,
+          "quote_count": 4
+        }
+      },
+      "stats": {
+        "retweet_count": 13,
+        "favorite_count": 179,
+        "reply_count": 120,
+        "quote_count": 4
       }
     }
   ]
