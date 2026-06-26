@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
-    "followers_count": 890152,
+    "followers_count": 890625,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260626",
-  "last_updated": "2026-06-26T05:37:00.882427",
-  "tweet_count": 3,
+  "last_updated": "2026-06-26T09:19:05.977946",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2070304723262210194",
@@ -116,6 +116,51 @@
         "favorite_count": 242,
         "reply_count": 86,
         "quote_count": 1
+      }
+    },
+    {
+      "id": "2070413682996347069",
+      "text": "Just Elon Musk casually sounding the alarm.\n\nOn the massive demand + price hikes for $MU / SK Hynix / Samsung memory relative to supply.\n\nHe probably has higher visibility into the memory bottleneck than others… https://t.co/iszX0YJHuS",
+      "created_at": "Fri Jun 26 07:47:43 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2070413662985293824",
+          "url": "https://pbs.twimg.com/media/HLuWQchakAAxqAl.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2070252994017300636",
+        "text": "@wholemars @TovikkaX The production shortfall relative to demand is insane. MUCH higher production is needed.",
+        "created_at": "Thu Jun 25 21:09:11 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "44196397",
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "description": "Starmind",
+          "followers_count": 240495531,
+          "friends_count": 1358,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 306,
+          "favorite_count": 3313,
+          "reply_count": 200,
+          "quote_count": 45
+        }
+      },
+      "stats": {
+        "retweet_count": 68,
+        "favorite_count": 780,
+        "reply_count": 141,
+        "quote_count": 2
       }
     }
   ]
