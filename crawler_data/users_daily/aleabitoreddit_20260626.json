@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
-    "followers_count": 890801,
+    "followers_count": 891098,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260626",
-  "last_updated": "2026-06-26T11:09:52.285565",
-  "tweet_count": 5,
+  "last_updated": "2026-06-26T13:49:04.637191",
+  "tweet_count": 6,
   "tweets": [
     {
       "id": "2070304723262210194",
@@ -200,6 +200,62 @@
         "favorite_count": 798,
         "reply_count": 205,
         "quote_count": 10
+      }
+    },
+    {
+      "id": "2070493783804813451",
+      "text": "just throwing out a random thought, the UBS report is anecdotally true + and it's interesting there's more Chinese reports on Anthropic distillation.  \n\nMany US startups/companies using AI:\n\nAre using Chinese models like DeepSeek since they’re much cheaper than Gemini/OpenAI/Anthropic reasoning models for cost per task.\n\nKinda a catch 22 when US is built on capitalism and everyone goes for the cheaper options.\n\nI think the US just has to get good and out innovate here:\n\n- both with heavy KYC-auth frontier models for US only like Mythos given those are being distilled by competitors. and amybe staggered tiers for allied partners so US is always ahead\n\nMaybe something like dedicated AI Google auth like FaceID + Persona would do the trick before access/key creation for the newer models, then short lived scopes.\n\nAt least addressing those simpler fake/stolen account + pool allegations, requiring biometrics before use.\n\nThen US Gov drafting new regulations making it illegal for sharing access similar to identity forgery with bank accounts.\n\n- then the most obvious one is just heavily optimized reasoning models that mogs DeepSeek and others.\n\nKinda good Trump admin paused Fable/Mythos access, imo not quite sure why a trillion dollar company keeps letting itself get distilled over and over again.\n\nThere should be friction added if you’re accessing something close to ASI.\n\nTLDR: US just needs to good at cheap inference and add bank-grade authentication to AI model access. Easier said than done tho.",
+      "created_at": "Fri Jun 26 13:06:00 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2070493776590917632",
+          "url": "https://pbs.twimg.com/media/HLvfHq9b0AA_HK0.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2070493776586706944",
+          "url": "https://pbs.twimg.com/media/HLvfHq8bkAAtyJo.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2026012416841334975",
+        "text": "Today, Anthropic called out DeepSeek, Moonshot, and Minimax for distillation.  \n\nOpenAI has also faced the same issues with Chinese labs. \n\nThe most braindead fix nobody is doing: \n\nKYC verification. \n\nEvery financial institution from $HOOD to $IBKR does this to track flow of funds (eg. Persona selfie / ID)\n\nSame should apply to token flows. \n\nAmerican Frontier Labs should start doing this soon for their latest models. \n\nI'm sure they care about frictionless growth, but this is national security at risk and people/enterprises only need to go through this process once. \n\nThis is by far the easiest fix that can be done in a day. \n\nChinese labs will continue to find bypasses if this is not done.",
+        "created_at": "Mon Feb 23 19:12:56 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2026011364251361280",
+            "url": "https://pbs.twimg.com/media/HB3Wmf0bYAAK-o-.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
+          "followers_count": 891098,
+          "friends_count": 175,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 11,
+          "favorite_count": 335,
+          "reply_count": 29,
+          "quote_count": 6
+        }
+      },
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 282,
+        "reply_count": 96,
+        "quote_count": 3
       }
     }
   ]
