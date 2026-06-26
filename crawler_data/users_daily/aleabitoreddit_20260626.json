@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
-    "followers_count": 889578,
+    "followers_count": 890152,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260626",
-  "last_updated": "2026-06-26T01:15:15.311769",
-  "tweet_count": 1,
+  "last_updated": "2026-06-26T05:37:00.882427",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2070304723262210194",
@@ -35,6 +35,87 @@
         "favorite_count": 307,
         "reply_count": 103,
         "quote_count": 6
+      }
+    },
+    {
+      "id": "2070354308965728519",
+      "text": "There's a global correction right now, no clue when it stops. \n\nKospi is down -8.18% (Sk hynix/Samsung)\nNikkei is down -4.8%\nTWSE Index is down -3.82%\n\nAs you've seen with $SOI or $RKLB dropping 30-40%. \n\nFrom personal experience, high beta stocks get hit a lot harder, but usually frontrun index drops. \n\nAnd they typically recover earlier? \n\nAside from Korea which is typically volatile, when major indexes start correcting 3-4% a day, usually not a fun time.",
+      "created_at": "Fri Jun 26 03:51:47 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2070354302229733377",
+          "url": "https://pbs.twimg.com/media/HLtgRMea4AEfM3t.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2070354302263316480",
+          "url": "https://pbs.twimg.com/media/HLtgRMmbUAANqGj.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2070307143882780987",
+        "text": "@aleabitoreddit when do you think these ai bottlenecks will stop this correction?",
+        "created_at": "Fri Jun 26 00:44:22 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2051421637950500865",
+          "name": "Neverwhere",
+          "screen_name": "nghghghggghh",
+          "description": "Cashtard who send's some, takes some, send's a bit more. \n\nSent: 55k\nTaken: 11k",
+          "followers_count": 349,
+          "friends_count": 30,
+          "verified": false,
+          "is_blue_verified": false
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 6,
+          "reply_count": 4,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 43,
+        "favorite_count": 810,
+        "reply_count": 168,
+        "quote_count": 11
+      }
+    },
+    {
+      "id": "2070373235452162540",
+      "text": "“What matters is not the eggs, it is the Goose itself”\n\nSoftBank probably down -13.5% today\nafter markets saw this investor presentation today.\n\nAlso the OpenAI IPO possible 2027 delay cause Altman wanted a $1T valuation might have been a small cause… https://t.co/q3edagxCBd",
+      "created_at": "Fri Jun 26 05:06:59 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2070373226342195200",
+          "url": "https://pbs.twimg.com/media/HLtxeuSbIAAhGYk.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2070373226346319872",
+          "url": "https://pbs.twimg.com/media/HLtxeuTaEAARRoi.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2070373226354704384",
+          "url": "https://pbs.twimg.com/media/HLtxeuVaAAA79Vf.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 12,
+        "favorite_count": 242,
+        "reply_count": 86,
+        "quote_count": 1
       }
     }
   ]
