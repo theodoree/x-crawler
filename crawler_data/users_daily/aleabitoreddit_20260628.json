@@ -1,0 +1,36 @@
+{
+  "user": {
+    "screen_name": "aleabitoreddit",
+    "name": "Serenity",
+    "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
+    "followers_count": 895304,
+    "verified": false,
+    "is_blue_verified": true
+  },
+  "date": "20260628",
+  "last_updated": "2026-06-28T05:40:55.016709",
+  "tweet_count": 1,
+  "tweets": [
+    {
+      "id": "2071074680253911267",
+      "text": "WSJ: “China Has Matched Anthropic in Cybersecurity, Resetting AI Race”\n\nChina’s Zhipu AI, has matched \nAnthropic’s Mythos in certain benchmarks, such as exploiting cybersecurity bugs. \n\nWell, that’s not good.\n\nInstead of blaming the administration which did the correct thing… \n\nAnthropic’s clearly at fault for not setting enough guardrails to prevent distillation.\nEven before Fable release there were a lot of rumors that China had backdoors to distill it.\n\nPart of it is the trillions of capex to accelerate the AI moat. \n\nAnd the second part is not handing that work over on a silver platter for millions in API calls.",
+      "created_at": "Sun Jun 28 03:34:17 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2071074673648193536",
+          "url": "https://pbs.twimg.com/media/HL3vcVIb0AALrCJ.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 43,
+        "favorite_count": 553,
+        "reply_count": 154,
+        "quote_count": 10
+      }
+    }
+  ]
+}
