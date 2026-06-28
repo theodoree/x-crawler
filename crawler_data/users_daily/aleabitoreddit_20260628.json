@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
-    "followers_count": 895765,
+    "followers_count": 895983,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260628",
-  "last_updated": "2026-06-28T09:14:03.358832",
-  "tweet_count": 2,
+  "last_updated": "2026-06-28T10:52:58.813084",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2071074680253911267",
@@ -56,6 +56,61 @@
         "favorite_count": 666,
         "reply_count": 105,
         "quote_count": 11
+      }
+    },
+    {
+      "id": "2071164721299112316",
+      "text": "Yup, Schaeffler $SHA0 is the ideal example for automotive players.\n\n~ €7.47B MC auto player.\n- but also working with 45 humanoid players (extremely insane number, they do have €5.14b debt, EV is higher)\n- covers bearings, gearboxes, sensors/ECUs, actuators, power electronics.\n-ests. They can be roughly 50% BOM of a humanoid \n- targeting 10% market share of that.\n\nBut only projecting a few hundred million revenue by 2030 (extremely sandbagged) if we’re using Elon’s projections for the market.\n\nThen’s theres auto players like Nabtesco (6268) for joints. And then Sanhua in China for $TSLA Optimus.\n\nMany of them are trade at lower valuations from drag from auto.\n\nBut humanoids + AI Auto (TSM chairman cited this as a growth vector) should be a good catalyst past 2027 for automotive players. \n\nIMO there just needs to be a ChatGPT/Anthropic breakout downstream leader first for humanoids.\n\nThat brings up the entire ecosystem that has robotics exposure. \n\nBut as of now it’s probably like 1% of many of their overall revenue figures, and markets are focusing on immediate upside from bottlenecks like memory or MLCC.\n\nI’m sure we’ll see some random Toto-HBM type surprise as different humanoid architecture evolve.",
+      "created_at": "Sun Jun 28 09:32:04 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2071164711467663360",
+          "url": "https://pbs.twimg.com/media/HL5BVOJawAAjQ1L.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2071164711450890240",
+          "url": "https://pbs.twimg.com/media/HL5BVOFa0AACujU.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2071164711480213504",
+          "url": "https://pbs.twimg.com/media/HL5BVOMaQAA0h8i.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2071088808335221070",
+        "text": "@aleabitoreddit Do you guys think auto supply chain and robotics supply chain will merge?",
+        "created_at": "Sun Jun 28 04:30:25 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1700619985343692800",
+          "name": "IEatBarrel",
+          "screen_name": "shuangqiu96",
+          "description": "finance and spacex",
+          "followers_count": 17,
+          "friends_count": 151,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "reply_count": 2,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 18,
+        "favorite_count": 294,
+        "reply_count": 117,
+        "quote_count": 6
       }
     }
   ]
