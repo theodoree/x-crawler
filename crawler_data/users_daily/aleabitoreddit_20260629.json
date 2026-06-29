@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
-    "followers_count": 898287,
+    "followers_count": 898617,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260629",
-  "last_updated": "2026-06-29T08:04:29.336223",
-  "tweet_count": 2,
+  "last_updated": "2026-06-29T10:45:06.652108",
+  "tweet_count": 4,
   "tweets": [
     {
       "id": "2071465314794233905",
@@ -45,6 +45,88 @@
         "favorite_count": 375,
         "reply_count": 91,
         "quote_count": 5
+      }
+    },
+    {
+      "id": "2071532870859149617",
+      "text": "$GM cuts 1,000 workers and replaces them with 50 robots (Jun 22nd report)\n\nReports also show GM is working on a deal with $NVDA on factory robotics.\n\nThis is industry validation for robotics, since it likely demonstrates increased opex margins + efficiency from employee automation. \n\nEspecially from companies like $AMZN to General Motors with assembly/warehouse lines that have high headcount.\n\nI think the technology is already here and use cases are already proven. Robotics/Humanoids are just pre-scale right now. \n\nThe wording from large companies is “assistive robotics”… But in all honesty, it’s here to automate away the human workforce and increase profitability.\n\nI don’t think companies want to be paying insurance, salaries, etc. when robots can do a better job, and 24/7, so very sad to see potential job losses in the future from robotics automation.\n\nWhether people like it or not; seems like the inflection point for robotics is here.",
+      "created_at": "Mon Jun 29 09:54:58 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2071532863464595457",
+          "url": "https://pbs.twimg.com/media/HL-QKfNa4AE_fZU.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2071532863472988161",
+          "url": "https://pbs.twimg.com/media/HL-QKfPa8AEPxWD.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2070789923108798545",
+        "text": "Robotics is next. \n\nBoth deal count and investment amounts are skyrocketing per pitchbook March data (source: a16z)\n\nGood thing is: the same AI DC exposure often has cross-exposure to humanoid ramp.\n\nLike DRAM/NAND with memory (on humanoid inference/storage) or DFB lasers with photonics (FMCW LiDAR vision/sensing).\n\nRight now most exposure is upstream component parts… or programs within large players like $AMZN or $TSLA. \n\nSo global IPO season H2 into 2027 for pure play humanoids/robotics companies is going to be fun.",
+        "created_at": "Sat Jun 27 08:42:45 +0000 2026",
+        "lang": "en",
+        "media": [
+          {
+            "type": "photo",
+            "id": "2070789915164721152",
+            "url": "https://pbs.twimg.com/media/HLzsdNHawAAxE0v.jpg"
+          }
+        ],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "1940360837547565056",
+          "name": "Serenity",
+          "screen_name": "aleabitoreddit",
+          "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
+          "followers_count": 898617,
+          "friends_count": 173,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 491,
+          "favorite_count": 4650,
+          "reply_count": 448,
+          "quote_count": 114
+        }
+      },
+      "stats": {
+        "retweet_count": 27,
+        "favorite_count": 332,
+        "reply_count": 138,
+        "quote_count": 5
+      }
+    },
+    {
+      "id": "2071545016007467486",
+      "text": "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan per Digitimes/Nikkei. \n\n\"The move is widely viewed as a strategic response to the growing influence of $SPCX Starlink in Japan\" https://t.co/RDFvgQNVsp",
+      "created_at": "Mon Jun 29 10:43:13 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2071545010236035073",
+          "url": "https://pbs.twimg.com/media/HL-bNhdaEAEs54t.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2071545010248626176",
+          "url": "https://pbs.twimg.com/media/HL-bNhgaMAAWdZ2.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 4,
+        "favorite_count": 66,
+        "reply_count": 26,
+        "quote_count": 0
       }
     }
   ]
