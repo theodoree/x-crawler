@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
-    "followers_count": 898617,
+    "followers_count": 899976,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260629",
-  "last_updated": "2026-06-29T10:45:06.652108",
-  "tweet_count": 4,
+  "last_updated": "2026-06-29T23:29:22.285295",
+  "tweet_count": 5,
   "tweets": [
     {
       "id": "2071465314794233905",
@@ -127,6 +127,56 @@
         "favorite_count": 66,
         "reply_count": 26,
         "quote_count": 0
+      }
+    },
+    {
+      "id": "2071730699363881241",
+      "text": "For robotics companies, I have a favorable view on Unitree and Agility Robotics, two humanoid players. \n\nAnd I have largest concentration in Agility Robotics, since I personally prefer US humanoid players. \n\nFor upstream component exposure, I currently own:\n\n- Harmonic Drive (6324) given high content BOM on things like harmonic reduction gear. \n- Vishay Precision for sensors and a possible candidate for Telsa Optimus.  \n\nLeaderDrive (688017) and Schaeffler I have favorable views on but don't own personally. \n\nMany of the other AI DC players, I have indirect exposure to robotics like memory. \n\nDon't recommend anyone to copy, just sharing personal positions/thoughts. \n\nHumanoid sector is large, and as seen with Goldman Sachs report that \"Korean companies will command a 30% direct and indirect share of global humanoid robot production\". \n\nLot of players out there globally. This was an older report but just linking it again since you see all of them pop up in GS institutional reports + what they cover.\n\nAgility Robotics is my personal favorite as of now.",
+      "created_at": "Mon Jun 29 23:01:04 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2071640130478362624",
+          "url": "https://pbs.twimg.com/media/HL_xuP-bUAA9HXU.jpg"
+        },
+        {
+          "type": "photo",
+          "id": "2071640131296264192",
+          "url": "https://pbs.twimg.com/media/HL_xuTBbgAAyegc.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": {
+        "id": "2071557497354109243",
+        "text": "@aleabitoreddit Thanks as always for your excellent notes!! What are the most compelling Robotic companies you are currently viewing?",
+        "created_at": "Mon Jun 29 11:32:49 +0000 2026",
+        "lang": "en",
+        "media": [],
+        "retweet": null,
+        "quoted": null,
+        "user": {
+          "id": "2070457132793688064",
+          "name": "Panagiotis Drakoulas",
+          "screen_name": "PDrakoul",
+          "description": "",
+          "followers_count": 17,
+          "friends_count": 52,
+          "verified": false,
+          "is_blue_verified": true
+        },
+        "stats": {
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "reply_count": 7,
+          "quote_count": 0
+        }
+      },
+      "stats": {
+        "retweet_count": 25,
+        "favorite_count": 361,
+        "reply_count": 118,
+        "quote_count": 9
       }
     }
   ]
