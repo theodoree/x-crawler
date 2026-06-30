@@ -3,13 +3,13 @@
     "screen_name": "aleabitoreddit",
     "name": "Serenity",
     "description": "I only use X, beware of imposters. \n\nAI/Semi Supply Chain Analyst\n\nNot investment advice, DYODD. Sharing personal thought process on supply chain bottlenecks.",
-    "followers_count": 901599,
+    "followers_count": 902253,
     "verified": false,
     "is_blue_verified": true
   },
   "date": "20260630",
-  "last_updated": "2026-06-30T11:11:34.175325",
-  "tweet_count": 2,
+  "last_updated": "2026-06-30T15:04:04.612034",
+  "tweet_count": 3,
   "tweets": [
     {
       "id": "2071763387948859506",
@@ -51,6 +51,27 @@
         "favorite_count": 296,
         "reply_count": 103,
         "quote_count": 8
+      }
+    },
+    {
+      "id": "2071961279380791729",
+      "text": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.\n\nOn $CBRS + OpenAI:\n\n- Needs 1-2K tokens/sec so tries to use Cerebras.\n\n- Claims OpenAI reserved all capacity, making waitlist infinite for everyone else not a hyperscaler.\n\n- Stated alternatives with Groq’s API not accessible to them\n\nFeels bad. But it does show how few players / limited capacity there is for fast inference.",
+      "created_at": "Tue Jun 30 14:17:18 +0000 2026",
+      "lang": "en",
+      "media": [
+        {
+          "type": "photo",
+          "id": "2071961263651860480",
+          "url": "https://pbs.twimg.com/media/HMEVyqRWsAAdtrA.jpg"
+        }
+      ],
+      "retweet": null,
+      "quoted": null,
+      "stats": {
+        "retweet_count": 19,
+        "favorite_count": 239,
+        "reply_count": 124,
+        "quote_count": 3
       }
     }
   ]
